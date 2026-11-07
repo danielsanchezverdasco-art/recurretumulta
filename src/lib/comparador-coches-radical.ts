@@ -40,7 +40,7 @@ export const COCHES_RADICAL: CocheComparador[] = [
     etiquetaDgt: null,
     pros: [
       "188 CV y solo 510 kg: 369 CV por tonelada, cifras de prototipo",
-      "La puerta de entrada más además barata al mundo de las carreras de prototipos",
+      "La puerta de entrada más barata al mundo de las carreras de prototipos",
       "Copa monomarca SR1 con parrillas llenas en varios países",
       "Mecánica sencilla (RPE Gen5 de 1.340 cc): reparaciones baratas",
       "2:11 en Silverstone, al nivel de superdeportivos mucho más caros",
@@ -74,7 +74,7 @@ export const COCHES_RADICAL: CocheComparador[] = [
       mantenimientoAnual: 2500,
       costeMensualTotal: 383,
       notas:
-        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~15 l/100 km en pista); todo riesgo y mantenimiento de competición (neumáticos, frenos, revisiones del motor RPE).",
+        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~15 l/100 km en pista), seguro a todo riesgo y mantenimiento de competición (neumáticos, frenos, revisiones del motor RPE).",
       estimado: true,
     },
     galeria: [
@@ -152,7 +152,7 @@ export const COCHES_RADICAL: CocheComparador[] = [
       mantenimientoAnual: 3500,
       costeMensualTotal: 503,
       notas:
-        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~18 l/100 km en pista); todo riesgo y mantenimiento de competición (slicks, frenos, revisiones del motor RPE).",
+        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~18 l/100 km en pista), seguro a todo riesgo y mantenimiento de competición (slicks, frenos, revisiones del motor RPE).",
       estimado: true,
     },
     galeria: [
@@ -230,7 +230,7 @@ export const COCHES_RADICAL: CocheComparador[] = [
       mantenimientoAnual: 5000,
       costeMensualTotal: 658,
       notas:
-        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~20 l/100 km en pista); todo riesgo y mantenimiento de competición (motor turbo, slicks, frenos).",
+        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~20 l/100 km en pista), seguro a todo riesgo y mantenimiento de competición (motor turbo, slicks, frenos).",
       estimado: true,
     },
     galeria: [
@@ -308,7 +308,7 @@ export const COCHES_RADICAL: CocheComparador[] = [
       mantenimientoAnual: 8000,
       costeMensualTotal: 983,
       notas:
-        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~25 l/100 km en pista con el V6 biturbo); todo riesgo y mantenimiento de superdeportivo de competición.",
+        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~25 l/100 km en pista con el V6 biturbo), seguro a todo riesgo y mantenimiento de superdeportivo de competición.",
       estimado: true,
     },
     galeria: [
@@ -386,7 +386,7 @@ export const COCHES_RADICAL: CocheComparador[] = [
       mantenimientoAnual: 8000,
       costeMensualTotal: 983,
       notas:
-        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~25 l/100 km en pista); todo riesgo y mantenimiento de superdeportivo de competición.",
+        "Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~25 l/100 km en pista), seguro a todo riesgo y mantenimiento de superdeportivo de competición.",
       estimado: true,
     },
     galeria: [

@@ -13,7 +13,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     modelo: "Atto 2 DM-i",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 25990,
+    precioDesde: 28200,
     potenciaCv: 212,
     autonomiaKm: 90,
     maleteroL: 425,
@@ -61,9 +61,6 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Red oficial BYD España",
     },
-    fuenteNombre: "BYD España (web oficial)",
-    fuenteUrl: "https://www.byd.com/es-es",
-
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: velocidadMax, cargaRapidaKw, pesoKg, parNm, emisionesCo2 — vídeo sin asignar (campo opcional).
   {
@@ -200,8 +197,6 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Estándar de mantenimiento BYD (modelo no comercializado en España)",
     },
-    fuenteNombre: "BYD (web oficial global)",
-    fuenteUrl: "https://www.byd.com",
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: cargaRapidaKw — vídeo sin asignar (campo opcional).
   {
@@ -269,8 +264,6 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Estándar de mantenimiento BYD EV (modelo no comercializado en España)",
     },
-    fuenteNombre: "BYD (web oficial global)",
-    fuenteUrl: "https://www.byd.com",
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: cargaRapidaKw, pesoKg, consumo, parNm — vídeo sin asignar (campo opcional).
   {
@@ -338,8 +331,6 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Estándar de mantenimiento BYD EV (modelo no comercializado en España)",
     },
-    fuenteNombre: "BYD (web oficial global)",
-    fuenteUrl: "https://www.byd.com",
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: cargaRapidaKw, pesoKg, consumo — vídeo sin asignar (campo opcional).
   {
@@ -407,14 +398,10 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       costeAnualAproxEur: null,
       fuente: "Estándar de mantenimiento BYD EV (modelo no comercializado en España)",
     },
-    fuenteNombre: "BYD (web oficial global)",
-    fuenteUrl: "https://www.byd.com",
   },
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — no publicado por la marca: anchoMm, altoMm, pesoKg, consumo — vídeo sin asignar (campo opcional).
   {
     id: "mg-s6-ev-2026-precio-ficha-tecnica",
-    fuenteNombre: "MG España",
-    fuenteUrl: "https://www.mgmotor.eu/es",
     marca: "MG",
     modelo: "S6 EV",
     tipo: "Eléctrico",
@@ -470,12 +457,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/mg-s6-ev-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal / 30.000 km (foto: MG Motor Ucrania (distribuidor oficial MG), licencia desconocida)", ancho: 1600, alto: 1012 },
       { src: "/media/mg-s6-ev-2026-precio-ficha-tecnica-hunt4.webp", alt: "Revisión bienal / 30.000 km (foto: CarExpert (Australia), licencia desconocida)", ancho: 1600, alto: 1066 },
     ],
-    euroncap: {
-      estrellas: 5,
-      ano: 2025,
-      url: null,
-      nota: "Test del MG S6 EV (2025): 92% adultos, 85% infantil, 84% peatones, 78% asistencias",
-    },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
       intervalo: "24 meses o 30.000 km (lo que antes ocurra)",
       revisiones: [
@@ -488,8 +470,6 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — N/A: autonomiaKm — no publicado por la marca: velocidadMax, cargaRapidaKw, garantiaBateriaDegradacionPct, anchoMm, altoMm, pesoKg, parNm, emisionesCo2 — vídeo sin asignar (campo opcional).
   {
     id: "mg-zs-hybrid-plus-2026-precio-ficha-tecnica",
-    fuenteNombre: "MG España",
-    fuenteUrl: "https://www.mgmotor.eu/es",
     marca: "MG",
     modelo: "ZS Hybrid+",
     tipo: "Híbrido",
@@ -544,12 +524,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/mg-zs-hybrid-plus-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Prensa MG vía DailyRevs, licencia desconocida)", ancho: 1600, alto: 1067 },
       { src: "/media/mg-zs-hybrid-plus-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Autocar, licencia desconocida)", ancho: 1598, alto: 1066 },
     ],
-    euroncap: {
-      estrellas: 4,
-      ano: 2024,
-      url: null,
-      nota: "Test del MG ZS Hybrid+ (2024): 75% adultos, 82% infantil, 73% peatones, 76% asistencias",
-    },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
       revisiones: [
@@ -563,8 +538,6 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — N/A: autonomiaKm, bateriaKwh, cargaRapidaKw, garantiaBateriaAnos, garantiaBateriaKm, garantiaBateriaDegradacionPct — sin ES: precioDesde (no se vende en ES), etiquetaDgt (sin homologación ES) — no publicado por la marca: maleteroL, ceroCien, velocidadMax, anchoMm, altoMm, pesoKg, consumo, emisionesCo2 — vídeo sin asignar (campo opcional).
   {
     id: "mg7-2025-precio-ficha-tecnica",
-    fuenteNombre: "MG Motor Europa (modelo no comercializado en España)",
-    fuenteUrl: "https://www.mgmotor.eu",
     marca: "MG",
     modelo: "7",
     tipo: "Gasolina",
@@ -632,8 +605,6 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
   // AUDIT 08/10/2026 (orden Daniel): nulls justificados — no publicado por la marca: velocidadMax — vídeo sin asignar (campo opcional).
   {
     id: "mg-s5-ev-2026-precio-ficha-tecnica",
-    fuenteNombre: "MG España",
-    fuenteUrl: "https://www.mgmotor.eu/es",
     marca: "MG",
     modelo: "S5 EV",
     tipo: "Eléctrico",
@@ -688,12 +659,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
       { src: "/media/mg-s5-ev-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal / 30.000 km (foto: CarExpert (foto de prensa MG), licencia desconocida)", ancho: 744, alto: 496 },
       { src: "/media/mg-s5-ev-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal / 30.000 km (foto: MG Motor UK (prensa) vía CarExpert, licencia desconocida)", ancho: 960, alto: 640 },
     ],
-    euroncap: {
-      estrellas: 5,
-      ano: 2025,
-      url: null,
-      nota: "Test del MG S5 EV (2025): 90% adultos, 82% infantil, 82% peatones, 78% asistencias",
-    },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {
       intervalo: "24 meses o 30.000 km (lo que antes ocurra)",
       revisiones: [

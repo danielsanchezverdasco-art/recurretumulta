@@ -41,7 +41,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/volkswagen-caddy-california-2025-1.webp",
+    imagenOficial: "/media/volkswagen-caddy-california-2025-2.webp",
     imagenInteriorOficial: "/media/volkswagen-caddy-california-2025-3.webp",
     videoId: null,
     videoCanal: null,
@@ -94,44 +94,38 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 231,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo de 5,6 l/100 km y todo riesgo.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo de 5,6 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/volkswagen-caddy-california-2025-1.webp",
-        alt: "Volkswagen Caddy California, camper compacto, trasera tres cuartos",
-        ancho: 800,
-        alto: 450,
+        alt: "Volkswagen Caddy California, camper compacto en vista exterior",
+        ancho: 1280,
+        alto: 722,
       },
       {
         src: "/media/volkswagen-caddy-california-2025-2.webp",
-        alt: "Volkswagen Caddy California, vista lateral",
-        ancho: 1200,
-        alto: 800,
+        alt: "Volkswagen Caddy California, vista lateral con techo elevable",
+        ancho: 1280,
+        alto: 681,
       },
       {
         src: "/media/volkswagen-caddy-california-2025-3.webp",
-        alt: "Volkswagen Caddy California en el campo",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/volkswagen-caddy-california-2025-4.webp",
-        alt: "Volkswagen Caddy California, trasera",
-        ancho: 1400,
-        alto: 932,
+        alt: "Volkswagen Caddy California, zona de cocina y habitáculo camper",
+        ancho: 1280,
+        alto: 747,
       },
     ],
     analisisSlug: "volkswagen-caddy-california-2025-precio-camper",
     euroncap: {
-      estrellas: null,
+      estrellas: 4,
       ano: 2025,
       url: null,
-      nota: "Sin prueba EuroNCAP aplicable: el Caddy California es un derivado camper sin test independiente; como furgoneta no recibe estrellas.",
+      nota: "El VW Caddy obtuvo 5 estrellas EuroNCAP en 2021; la reevaluación de 2025 con el protocolo actual le dio 4 estrellas.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (servicio LongLife)",
+      intervalo: "24 meses o 30.000 km (servicio LongLife), lo que ocurra antes",
       revisiones: [
         {
           nombre: "Servicio LongLife / 30.000 km",
@@ -155,7 +149,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/volkswagen-grand-california-2026-3.webp",
+    imagenOficial: "/media/volkswagen-grand-california-2026-2.webp",
     imagenInteriorOficial: "/media/volkswagen-grand-california-2026-3.webp",
     videoId: null,
     videoCanal: null,
@@ -189,8 +183,8 @@ export const COCHES_LOTE16: CocheComparador[] = [
     largoMm: 5986,
     anchoMm: 2040,
     altoMm: 2971,
-    pesoKg: 3110,
-    consumo: 11.4,
+    pesoKg: 3500,
+    consumo: null,
     consumoUnidad: "l/100 km",
     plazas: 4,
     parNm: 410,
@@ -208,33 +202,27 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 332,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km y todo riesgo.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/volkswagen-grand-california-2026-1.webp",
-        alt: "Volkswagen Grand California 600, camper sobre base Crafter",
-        ancho: 1600,
-        alto: 1066,
+        alt: "Volkswagen Grand California 600, camper gran volumen en exterior",
+        ancho: 1280,
+        alto: 960,
       },
       {
         src: "/media/volkswagen-grand-california-2026-2.webp",
-        alt: "Volkswagen Grand California 600 en camping",
-        ancho: 960,
-        alto: 540,
+        alt: "Volkswagen Grand California, vista lateral del camper de 6 metros",
+        ancho: 1280,
+        alto: 640,
       },
       {
         src: "/media/volkswagen-grand-california-2026-3.webp",
-        alt: "Volkswagen Grand California 600 y 680, foto oficial",
-        ancho: 1600,
-        alto: 1066,
-      },
-      {
-        src: "/media/volkswagen-grand-california-2026-4.webp",
-        alt: "Volkswagen Grand California 600, lateral con puerta corredera abierta",
-        ancho: 1400,
-        alto: 934,
+        alt: "Volkswagen Grand California, interior con cocina y zona de estar",
+        ancho: 1280,
+        alto: 960,
       },
     ],
     analisisSlug: "volkswagen-grand-california-2026-precio-camper",
@@ -245,7 +233,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Grand California no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (servicio LongLife)",
+      intervalo: "24 meses o 30.000 km (servicio LongLife), lo que ocurra antes",
       revisiones: [
         {
           nombre: "Servicio LongLife / 30.000 km",
@@ -261,8 +249,8 @@ export const COCHES_LOTE16: CocheComparador[] = [
       costeAnualAproxEur: 240,
       fuente: "Programa LongLife Volkswagen Vehículos Comerciales (red oficial)",
     },
-    fuenteNombre: "Volkswagen Vehículos Comerciales (catálogo oficial MY2026)",
-    fuenteUrl: "https://www.vwcomerciales.com/idhub/content/dam/onehub_nfz/importers/ic/catálogos-2026/VWC_Cat_GrandCalifornia_MY2026_Oct2025_WEB.pdf",
+    fuenteNombre: "Volkswagen (ficha técnica oficial) / TruckScout24",
+    fuenteUrl: "https://es.scribd.com/document/474407540/Grand-California-600",
   },
   {
     id: "ford-transit-custom-nugget-2025",
@@ -322,7 +310,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 302,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 8,5 l/100 km y todo riesgo.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 8,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -353,7 +341,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Transit Custom Nugget no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 40.000 km",
+      intervalo: "24 meses o 40.000 km, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión / 40.000 km",
@@ -375,7 +363,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mercedes-marco-polo-2025-1.webp",
+    imagenOficial: "/media/mercedes-marco-polo-2025-2.webp",
     imagenInteriorOficial: "/media/mercedes-marco-polo-2025-3.webp",
     videoId: null,
     videoCanal: null,
@@ -430,33 +418,27 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 311,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 8 l/100 km y todo riesgo.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 8 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/mercedes-marco-polo-2025-1.webp",
-        alt: "Mercedes-Benz Clase V Marco Polo, camper con techo elevable",
-        ancho: 1400,
-        alto: 934,
+        alt: "Mercedes Marco Polo, camper premium con techo elevable",
+        ancho: 1280,
+        alto: 853,
       },
       {
         src: "/media/mercedes-marco-polo-2025-2.webp",
-        alt: "Mercedes-Benz Marco Polo, vista lateral",
-        ancho: 1600,
-        alto: 1066,
+        alt: "Mercedes Marco Polo, vista lateral del camper",
+        ancho: 1280,
+        alto: 720,
       },
       {
         src: "/media/mercedes-marco-polo-2025-3.webp",
-        alt: "Mercedes-Benz Marco Polo, frontal tres cuartos",
-        ancho: 1600,
-        alto: 900,
-      },
-      {
-        src: "/media/mercedes-marco-polo-2025-4.webp",
-        alt: "Mercedes-Benz Marco Polo Horizon, vista cenital con techo elevado",
-        ancho: 1200,
-        alto: 900,
+        alt: "Mercedes Marco Polo, interior con asientos y mesa camper",
+        ancho: 1280,
+        alto: 1705,
       },
     ],
     analisisSlug: "mercedes-marco-polo-2025-precio-camper",
@@ -467,7 +449,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Marco Polo no ha sido probado; la Clase V base obtuvo 5 estrellas en 2014.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A/B alternos)",
+      intervalo: "12 meses o 25.000 km (Service A/B alternos), lo que ocurra antes",
       revisiones: [
         {
           nombre: "Service A / 25.000 km",
@@ -489,7 +471,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mercedes-vito-2025-1.webp",
+    imagenOficial: "/media/mercedes-vito-2025-2.webp",
     imagenInteriorOficial: "/media/mercedes-vito-2025-3.webp",
     videoId: null,
     videoCanal: null,
@@ -544,32 +526,26 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 281,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 7,5 l/100 km y todo riesgo.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 7,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/mercedes-vito-2025-1.webp",
-        alt: "Mercedes-Benz Vito Tourer 114 CDI, trasera tres cuartos",
-        ancho: 1080,
-        alto: 720,
+        alt: "Mercedes Vito Tourer, furgoneta mixta de pasajeros",
+        ancho: 1280,
+        alto: 768,
       },
       {
         src: "/media/mercedes-vito-2025-2.webp",
-        alt: "Mercedes-Benz Vito Tourer en ciudad",
-        ancho: 800,
-        alto: 534,
+        alt: "Mercedes Vito, vista lateral de la furgoneta",
+        ancho: 1280,
+        alto: 962,
       },
       {
         src: "/media/mercedes-vito-2025-3.webp",
-        alt: "Mercedes-Benz Vito Tourer 114 CDI, vista trasera",
+        alt: "Mercedes Vito Tourer, interior con plazas de pasajeros",
         ancho: 1280,
-        alto: 960,
-      },
-      {
-        src: "/media/mercedes-vito-2025-4.webp",
-        alt: "Mercedes-Benz Vito Tourer 114 CDI, trasera",
-        ancho: 1080,
         alto: 720,
       },
     ],
@@ -581,7 +557,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Vito Tourer actual no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km (Service A/B alternos)",
+      intervalo: "12 meses o 25.000 km (Service A/B alternos), lo que ocurra antes",
       revisiones: [
         {
           nombre: "Service A / 25.000 km",
@@ -603,7 +579,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mercedes-citan-tourer-2025-1.webp",
+    imagenOficial: "/media/mercedes-citan-tourer-2025-2.webp",
     imagenInteriorOficial: "/media/mercedes-citan-tourer-2025-3.webp",
     videoId: null,
     videoCanal: null,
@@ -646,8 +622,8 @@ export const COCHES_LOTE16: CocheComparador[] = [
     emisionesCo2: 146,
     aprox: [],
     imagen: "/media/mercedes-citan-tourer-2025-1.webp",
-    fuenteNombre: "Mercedes-Benz España (web oficial)",
-    fuenteUrl: "https://www.mercedes-benz.es/vans/models/citan.html",
+    fuenteNombre: "periodismodelmotor.com",
+    fuenteUrl: "https://periodismodelmotor.com/prueba-mercedes-citan-tourer/323442/",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 8.99,
@@ -658,33 +634,27 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 219,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo de 5,8 l/100 km y todo riesgo.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo de 5,8 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/mercedes-citan-tourer-2025-1.webp",
-        alt: "Mercedes-Benz Citan Tourer (W420), monovolumen compacto, vista frontal",
-        ancho: 800,
-        alto: 534,
+        alt: "Mercedes Citan Tourer, furgoneta compacta de pasajeros",
+        ancho: 1280,
+        alto: 720,
       },
       {
         src: "/media/mercedes-citan-tourer-2025-2.webp",
-        alt: "Mercedes-Benz Citan Tourer, vista lateral en estudio",
-        ancho: 1600,
-        alto: 1200,
+        alt: "Mercedes Citan Tourer, vista lateral",
+        ancho: 1280,
+        alto: 719,
       },
       {
         src: "/media/mercedes-citan-tourer-2025-3.webp",
-        alt: "Mercedes-Benz Citan Tourer en carretera",
-        ancho: 919,
-        alto: 612,
-      },
-      {
-        src: "/media/mercedes-citan-tourer-2025-4.webp",
-        alt: "Mercedes-Benz Citan Tourer, frontal tres cuartos en movimiento",
-        ancho: 1600,
-        alto: 900,
+        alt: "Mercedes Citan Tourer, interior con cinco plazas",
+        ancho: 1280,
+        alto: 854,
       },
     ],
     analisisSlug: "mercedes-citan-tourer-2025-precio-ficha",
@@ -695,7 +665,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Citan Tourer no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km",
+      intervalo: "12 meses o 30.000 km, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión anual / 30.000 km",
@@ -717,7 +687,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/mercedes-sprinter-2025-1.webp",
+    imagenOficial: "/media/mercedes-sprinter-2025-2.webp",
     imagenInteriorOficial: "/media/mercedes-sprinter-2025-3.webp",
     videoId: null,
     videoCanal: null,
@@ -751,7 +721,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     largoMm: 5930,
     anchoMm: 1993,
     altoMm: 2560,
-    pesoKg: null,
+    pesoKg: 3500,
     consumo: 8.7,
     consumoUnidad: "l/100 km",
     plazas: 3,
@@ -772,33 +742,27 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 321,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km y todo riesgo.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/mercedes-sprinter-2025-1.webp",
-        alt: "Mercedes-Benz Sprinter (W907), furgón en ciudad",
-        ancho: 800,
-        alto: 450,
+        alt: "Mercedes Sprinter, furgón grande en vista exterior",
+        ancho: 1280,
+        alto: 960,
       },
       {
         src: "/media/mercedes-sprinter-2025-2.webp",
-        alt: "Mercedes-Benz Sprinter Tourer en marcha",
-        ancho: 1600,
-        alto: 1066,
+        alt: "Mercedes Sprinter, vista lateral del furgón",
+        ancho: 1280,
+        alto: 960,
       },
       {
         src: "/media/mercedes-sprinter-2025-3.webp",
-        alt: "Mercedes-Benz Sprinter furgón, vista lateral",
-        ancho: 1080,
-        alto: 608,
-      },
-      {
-        src: "/media/mercedes-sprinter-2025-4.webp",
-        alt: "Mercedes-Benz Sprinter, frontal tres cuartos",
-        ancho: 1024,
-        alto: 670,
+        alt: "Mercedes Sprinter, cabina con puesto de conducción",
+        ancho: 1280,
+        alto: 853,
       },
     ],
     analisisSlug: "mercedes-sprinter-2025-precio-furgon",
@@ -809,7 +773,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Sprinter no ha sido probado en el programa de turismos.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km",
+      intervalo: "12 meses o 30.000 km, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión anual / 30.000 km",
@@ -831,7 +795,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/volkswagen-crafter-2025-1.webp",
+    imagenOficial: "/media/volkswagen-crafter-2025-2.webp",
     imagenInteriorOficial: "/media/volkswagen-crafter-2025-3.webp",
     videoId: null,
     videoCanal: null,
@@ -844,7 +808,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     autonomiaKm: null,
     maleteroL: null,
     ceroCien: null,
-    velocidadMax: 160,
+    velocidadMax: 158,
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
@@ -865,8 +829,8 @@ export const COCHES_LOTE16: CocheComparador[] = [
     largoMm: 5986,
     anchoMm: 2040,
     altoMm: 2590,
-    pesoKg: 2056,
-    consumo: 7.2,
+    pesoKg: 3500,
+    consumo: null,
     consumoUnidad: "l/100 km",
     plazas: 3,
     parNm: 340,
@@ -884,33 +848,27 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 319,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km y todo riesgo.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
       {
         src: "/media/volkswagen-crafter-2025-1.webp",
-        alt: "Volkswagen Crafter 2025, furgón con interior",
-        ancho: 1024,
-        alto: 576,
+        alt: "Volkswagen Crafter, furgón grande en vista exterior",
+        ancho: 1280,
+        alto: 1073,
       },
       {
         src: "/media/volkswagen-crafter-2025-2.webp",
-        alt: "Volkswagen Crafter, frontal tres cuartos",
-        ancho: 706,
-        alto: 500,
+        alt: "Volkswagen Crafter, vista lateral del furgón",
+        ancho: 1280,
+        alto: 853,
       },
       {
         src: "/media/volkswagen-crafter-2025-3.webp",
-        alt: "Volkswagen Crafter, vista tres cuartos",
-        ancho: 1600,
-        alto: 1200,
-      },
-      {
-        src: "/media/volkswagen-crafter-2025-4.webp",
-        alt: "Volkswagen Crafter, vista lateral",
-        ancho: 1200,
-        alto: 630,
+        alt: "Volkswagen Crafter, cabina del furgón",
+        ancho: 1280,
+        alto: 856,
       },
     ],
     analisisSlug: "volkswagen-crafter-2025-precio-furgon",
@@ -921,7 +879,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Crafter no ha sido probado en el programa de turismos.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (servicio LongLife)",
+      intervalo: "24 meses o 30.000 km (servicio LongLife), lo que ocurra antes",
       revisiones: [
         {
           nombre: "Servicio LongLife / 30.000 km",
@@ -937,8 +895,8 @@ export const COCHES_LOTE16: CocheComparador[] = [
       costeAnualAproxEur: 230,
       fuente: "Programa LongLife Volkswagen Vehículos Comerciales (red oficial)",
     },
-    fuenteNombre: "coches.net (datos JATO)",
-    fuenteUrl: "https://www.coches.net/fichas_tecnicas/volkswagen/crafter/industriales/4-puertas/35_furgon_bm_ta_l3h3_20tdi_103kw140cv_140cv_diesel/79239/704828320180101/",
+    fuenteNombre: "TruckScout24 (ficha técnica oficial VW)",
+    fuenteUrl: "https://www.truckscout24.es/main/search/index?search-word=volkswagen+crafter+l3h3+4motion+2.0+tdi+140hp+ahk+top",
   },
   {
     id: "iveco-daily-2025",
@@ -998,7 +956,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 323,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km y todo riesgo. Precio orientativo con IVA.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km y todo riesgo. Precio orientativo con IVA.",
       estimado: true,
     },
     galeria: [
@@ -1029,7 +987,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin estrellas EuroNCAP de turismos; evaluado en el programa Euro NCAP Commercial Van Safety 2024.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 40.000 km",
+      intervalo: "12 meses o 40.000 km, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión / 40.000 km",
@@ -1104,7 +1062,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 188,
       notas:
-        "15.000 km/año, recarga a 0,18 €/kWh, consumo de 24,4 kWh/100 km y todo riesgo.",
+        "Estimación con 15.000 km/año, recarga a 0,18 €/kWh, consumo de 24,4 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1135,7 +1093,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el eVito no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 25.000 km",
+      intervalo: "12 meses o 25.000 km, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión anual / 25.000 km",
@@ -1210,7 +1168,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 270,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo de 7,5 l/100 km y todo riesgo.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo de 7,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1241,7 +1199,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Zafira Life no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km",
+      intervalo: "12 meses o 30.000 km, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión anual / 30.000 km",
@@ -1316,7 +1274,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 259,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo de 7 l/100 km y todo riesgo.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo de 7 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1347,7 +1305,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el Trafic SpaceClass no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km",
+      intervalo: "24 meses o 30.000 km, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión / 30.000 km",
@@ -1422,7 +1380,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 267,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 7,5 l/100 km y todo riesgo.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 7,5 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1453,7 +1411,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el SpaceTourer Campster no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 30.000 km",
+      intervalo: "12 meses o 30.000 km, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión anual / 30.000 km",
@@ -1532,7 +1490,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 550,
       costeMensualTotal: 364,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 10 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 10 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
       estimado: true,
     },
     galeria: [
@@ -1594,7 +1552,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     tipo: "Diésel",
     categoria: "Autocaravana",
     precioDesde: 72985,
-    potenciaCv: 140,
+    potenciaCv: 150,
     autonomiaKm: null,
     maleteroL: null,
     ceroCien: null,
@@ -1604,19 +1562,19 @@ export const COCHES_LOTE16: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "Perfilada eslovena con fama de buena construcción y aislamiento",
-      "7,49 m con 5 plazas homologadas: de las más familiares del segmento",
+      "7,38 m con 5 plazas homologadas: de las más familiares del segmento",
       "PVP final de 72.985 € publicado por concesionario oficial",
-      "Fiat Ducato 2.2 de 140 CV: el motor estándar del sector, con servicio en toda Europa",
+      "2.3 de 150 CV: equilibrio entre prestaciones y consumo",
       "Garantía de la célula de hasta 5 años con revisiones anuales",
     ],
     contras: [
       "Etiqueta C del Fiat Ducato base",
       "7,38 m: maniobrar exige experiencia",
-      "El 140 CV se queda justo con 5 ocupantes y carga completa",
+      "El 150 CV se queda justo con 5 ocupantes y carga completa",
       "Red de servicio Adria más pequeña que la de marcas españolas",
       "Los extras (mobiliario, toldo, TV) suben el PVP final",
     ],
-    largoMm: 7495,
+    largoMm: 7380,
     anchoMm: 2300,
     altoMm: 2900,
     pesoKg: 3500,
@@ -1638,7 +1596,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 520,
       costeMensualTotal: 347,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
       estimado: true,
     },
     galeria: [
@@ -1744,7 +1702,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 314,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
       estimado: true,
     },
     galeria: [
@@ -1912,7 +1870,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 500,
       costeMensualTotal: 340,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
       estimado: true,
     },
     galeria: [
@@ -2018,7 +1976,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 311,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km, todo riesgo e incluye prueba anual de estanqueidad.",
       estimado: true,
     },
     galeria: [
@@ -2124,7 +2082,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 311,
       notas:
-        "15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km, todo riesgo e incluye prueba anual de estanqueidad. Precio orientativo.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9 l/100 km, todo riesgo e incluye prueba anual de estanqueidad. Precio orientativo.",
       estimado: true,
     },
     galeria: [
@@ -2185,7 +2143,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
     modelo: "T 447",
     tipo: "Diésel",
     categoria: "Autocaravana",
-    precioDesde: 66590,
+    precioDesde: 65900,
     potenciaCv: 140,
     autonomiaKm: null,
     maleteroL: null,
@@ -2292,7 +2250,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 185,
       notas:
-        "15.000 km/año, gasolina a 1,60 €/l, consumo de 5,1 l/100 km y todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l, consumo de 5,1 l/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2323,7 +2281,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "0 estrellas en 2018 (45 % adultos, 16 % niños): el modelo 312 no incorporaba asistentes de seguridad modernos.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km",
+      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -2398,7 +2356,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 142,
       notas:
-        "15.000 km/año, 0,18 €/kWh (doméstica), consumo de 15,9 kWh/100 km y todo riesgo.",
+        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 15,9 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2429,7 +2387,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "5 estrellas en 2021: 93 % en ocupantes adultos, 89 % en niños, 76 % en peatones y 85 % en asistentes.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 30.000 km (Plan de Inspección)",
+      intervalo: "24 meses o 30.000 km (Plan de Inspección), lo que ocurra antes",
       revisiones: [
         {
           nombre: "Inspección / 30.000 km",
@@ -2504,7 +2462,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 150,
       costeMensualTotal: 84,
       notas:
-        "Estimación con 10.000 km/año, 0,18 €/kWh (doméstica), consumo de 5,9 kWh/100 km y todo riesgo.",
+        "Estimación con 10.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 5,9 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2535,7 +2493,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: los cuadriciclos y microcoches no entran en el programa de turismos.",
     },
     planMantenimiento: {
-      intervalo: "24 meses o 20.000 km",
+      intervalo: "24 meses o 20.000 km, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión bienal / 20.000 km",
@@ -2605,7 +2563,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       mantenimientoAnual: 180,
       costeMensualTotal: 107,
       notas:
-        "Estimación con 10.000 km/año, 0,18 €/kWh (doméstica), consumo de 13,3 kWh/100 km y todo riesgo.",
+        "Estimación con 10.000 km/año, recarga doméstica a 0,18 €/kWh, consumo de 13,3 kWh/100 km y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -2636,7 +2594,7 @@ export const COCHES_LOTE16: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el smart EQ fortwo no ha sido probado de forma independiente.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km",
+      intervalo: "12 meses o 15.000 km, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",

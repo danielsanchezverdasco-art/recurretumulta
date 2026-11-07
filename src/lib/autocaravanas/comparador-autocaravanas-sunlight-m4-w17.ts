@@ -62,7 +62,7 @@ export const AUTOCARAVANAS_SUNLIGHT_M4: Autocaravana[] = [
 
 En medidas y habitabilidad, las fichas de las unidades nuevas 2026 anuncian 7.410 mm de largo, 2.320 mm de ancho y 2.920 mm de alto, con una masa máxima de 3.499 kg que la mantiene dentro del carnet B por un solo kilo de margen. La distribución es la clásica de las grandes perfiladas familiares: salón delantero en L con asientos de cabina giratorios, cocina lateral bien equipada, baño central completo y dormitorio trasero con cama queen —la cama «isla» a la que se accede por los tres lados— sobre un garaje trasero de gran volumen con doble puerta exterior. La altura interior útil ronda los 2,10 metros, así que incluso los viajeros altos se mueven sin agacharse.
 
-En tecnología y equipamiento, el año-modelo 2026 llega con un nivel de dotación que hace unos años era propio de gamas superiores. El Pack Basic incluye el Bridge Light —el piloto trasero de ancho completo que es la firma luminosa de la marca—, puerta de célula confort con ventana, mosquitera de una pieza, claraboya panorámica de 70 x 50 cm sobre el salón y claraboya de 40 x 40 cm. El Pack Safety añade el arsenal de asistentes del Jumper moderno: frenada automática con detección de peatones y ciclistas, sensor de lluvia y luz, asistente de mantenimiento de carril, reconocimiento de señales, detector de fatiga e indicador inteligente de velocidad. La célula trae de serie placa solar de 100 W con regulador MPPT, preinstalación de TV a 12 V con soporte, preinstalación de cámara de marcha atrás, depósito de aguas grises aislado y calefactado, y un frigorífico grande de 156 litros con congelador independiente de 29 litros. La calefacción y el agua caliente van a cargo de la Truma Combi 6, el estándar del segmento.
+En tecnología y equipamiento, el año-modelo 2026 llega con un nivel de dotación que hace unos años era propio de gamas superiores. El Pack Basic incluye el Bridge Light —el piloto trasero de ancho completo que es la firma luminosa de la marca—, puerta de célula confort con ventana, mosquitera de una pieza, claraboya panorámica de 70 x 50 cm sobre el salón y claraboya de 40 x 40 cm. El Pack Safety añade el arsenal de asistentes del Jumper moderno: frenada automática con detección de peatones y ciclistas, sensor de lluvia y luz, asistente de mantenimiento de carril, reconocimiento de señales, detector de fatiga e indicador inteligente de velocidad. La célula trae de serie placa solar de 100 W con regulador MPPT, preinstalación de TV a 12 V con soporte, preinstalación de cámara de marcha atrás, depósito de aguas grises aislado y calefactado, y un frigorífico grande de 156 litros con congelador independiente de 29 litros. La calefacción y el agua caliente corren a cargo de la Truma Combi 6, el estándar del segmento.
 
 En camas y plazas, el esquema ofrece cuatro plazas para dormir: la cama queen trasera, siempre hecha, y la cama basculante sobre el salón, que se despliega en segundos para dos ocupantes más. Son cuatro plazas de viaje con cinturón, así que cada viajero tiene su cama asignada sin transformar el comedor cada noche, la fórmula que buscan las familias con dos hijos. El garaje bajo la cama queen, accesible por ambos laterales, traga bicicletas, sillas, mesa de camping y juguetes sin despeinar el interior.
 
@@ -117,7 +117,7 @@ Para quién es: la T 69 L encaja con familias de cuatro que quieren cama queen, 
     analisisSlug: "sunlight-t-69-l-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Citroën Jumper: 2 años / 40.000 km",
+        "Base Citroën Jumper: revisión cada 2 años o 40.000 km (según plan del fabricante)",
       revisiones: [
         {
           nombre: "Revisión Citroën Jumper (2 años / 40.000 km)",
@@ -237,7 +237,7 @@ Para quién es: la I 68 encaja con quien siempre soñó con una integral y no qu
     analisisSlug: "sunlight-i-68-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Fiat Ducato: 2 años / 40.000 km",
+        "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",

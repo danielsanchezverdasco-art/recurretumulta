@@ -45,7 +45,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     contras: [
       "322.400 € en España: solo para bolsillos muy profundos",
       "Maletero de 210 + 150 l: justo para viajar en pareja",
-      "12,2 l cada 100 km y 276 g/km de CO2: etiqueta C y consumo de superdeportivo",
+      "12,2 l/100 km y 276 g/km de CO2: etiqueta C y consumo de superdeportivo",
       "Mantenimiento de superdeportivo: cada revisión y cada juego de neumáticos pican",
       "Acceso complicado por las puertas diédricas y visibilidad trasera limitada",
     ],
@@ -70,7 +70,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "costeMensualTotal": 882,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa: 15.000 km al año con un consumo homologado WLTP 12,2 l cada 100 km (km77) a 1,85 €/l; seguro y mantenimiento típicos de superdeportivo en España. Todo aproximado.",
+      "notas": "Estimación orientativa: 15.000 km/año, consumo WLTP 12,2 l/100 km (km77) a 1,85 €/l; seguro y mantenimiento típicos de superdeportivo en España. Todo aproximado.",
       "estimado": true
     },
     galeria: [
@@ -152,7 +152,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Nota de prensa oficial de McLaren Automotive del 750S (abril de 2023): plan de mantenimiento incluido de tres años e intervalo de un año o 15.000 km; contenido de las revisiones según el programa de mantenimiento programado publicado por McLaren Palm Beach, concesionario oficial de la marca", "intervalo": "Un año o 15.000 km recorridos, lo primero que se cumpla; el 750S incluía de serie un plan de mantenimiento programado de tres años", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de los 12 meses / 15.000 km", "queSeCambia": "Aceite sintético y filtro de aceite del V8 M840T de 4,0 litros, filtro de aire del motor nuevo e inspección multipunto de dirección, articulaciones de suspensión, radiadores, frenos, niveles de líquidos, conexiones eléctricas, ruedas y kit reparapinchazos"}, {"costeAproxEur": null, "nombre": "Revisión de los 24 meses / 30.000 km", "queSeCambia": "Se repiten aceite, filtro e inspección multipunto, con comprobación detallada adicional de la dirección electrohidráulica, la suspensión Proactive Chassis Control III, los radiadores y los discos carbocerámicos de 390 mm delante y 380 mm detrás"}]},
   },
   {
@@ -212,7 +212,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "costeMensualTotal": 595,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa PHEV: 50 % de km en eléctrico (~20 kWh cada 100 km a 0,18 €/kWh) y 50 % en gasolina (~4,8 l cada 100 km a 1,85 €/l), 15.000 km al año; sin consumo WLTP publicado para el coupé MY2025. Seguro y mantenimiento de superdeportivo híbrido. Todo aproximado.",
+      "notas": "Estimación orientativa PHEV: 50 % de km en eléctrico (~20 kWh/100 km a 0,18 €/kWh) y 50 % en gasolina (~4,8 l/100 km a 1,85 €/l), 15.000 km/año; sin consumo WLTP publicado para el coupé MY2025. Seguro y mantenimiento de superdeportivo híbrido. Todo aproximado.",
       "estimado": true
     },
     galeria: [
@@ -293,7 +293,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "costeMensualTotal": 612,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa PHEV: 50 % de km en eléctrico (~20 kWh cada 100 km a 0,18 €/kWh) y 50 % en gasolina (4,8 l cada 100 km WLTP, km77, a 1,85 €/l), 15.000 km al año, con seguro y mantenimiento de superdeportivo híbrido descapotable. Todo aproximado.",
+      "notas": "Estimación orientativa PHEV: 50 % de km en eléctrico (~20 kWh/100 km a 0,18 €/kWh) y 50 % en gasolina (4,8 l/100 km WLTP, km77, a 1,85 €/l), 15.000 km/año. Seguro y mantenimiento de superdeportivo híbrido descapotable. Todo aproximado.",
       "estimado": true
     },
     galeria: [
@@ -348,7 +348,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     ],
     contras: [
       "298.650 € en España: gran turismo a precio de superdeportivo",
-      "11,9 l cada 100 km y 270 g/km de CO2: etiqueta C",
+      "11,9 l/100 km y 270 g/km de CO2: etiqueta C",
       "Sin Apple CarPlay ni Android Auto de serie",
       "Solo dos plazas: práctico para ser un McLaren, no para ser un GT",
       "McLaren prevé su fin de producción en 2027",
@@ -374,7 +374,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "costeMensualTotal": 841,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa: 15.000 km al año con un consumo homologado WLTP 11,9 l cada 100 km (km77) a 1,85 €/l; seguro y mantenimiento típicos de gran turismo de altas prestaciones en España. Todo aproximado.",
+      "notas": "Estimación orientativa: 15.000 km/año, consumo WLTP 11,9 l/100 km (km77) a 1,85 €/l; seguro y mantenimiento típicos de gran turismo de altas prestaciones en España. Todo aproximado.",
       "estimado": true
     },
     galeria: [
@@ -455,7 +455,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "costeMensualTotal": 1982,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Estimación orientativa: 15.000 km al año, consumo 13,6 l cada 100 km (km77) a 1,85 €/l, con seguro y mantenimiento como estimación por tramo de hiperdeportivo de colección (2,4 M€, 399 unidades). Todo aproximado.",
+      "notas": "Estimación orientativa: 15.000 km/año, consumo 13,6 l/100 km (km77) a 1,85 €/l; seguro y mantenimiento estimados por tramo de hiperdeportivo de colección (2,4 M€, 399 unidades). Todo aproximado.",
       "estimado": true
     },
     galeria: [
@@ -492,7 +492,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     modelo: "750S Le Mans",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: null,
+    precioDesde: 350000,
     potenciaCv: 750,
     autonomiaKm: null,
     maleteroL: 150,
@@ -509,7 +509,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "Pieza de colección instantánea"
     ],
     contras: [
-      "Precio no comunicado por McLaren: las 50 unidades se adjudicaron por invitación, sin precio público",
+      "~350.000 € y las 50 unidades asignadas",
       "Misma mecánica que el 750S estándar",
       "El HDK añade carga pero resta discreción",
       "Etiqueta C",
@@ -525,7 +525,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     parNm: 800,
     traccion: "Trasera",
     emisionesCo2: 276,
-    aprox: ["consumo"],
+    aprox: ["precioDesde", "consumo"],
     imagen: "/media/mclaren-750s-le-mans-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -573,7 +573,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     modelo: "788HS",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: null,
+    precioDesde: 420000,
     potenciaCv: 788,
     autonomiaKm: null,
     maleteroL: 150,
@@ -590,7 +590,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "Sucesor espiritual del 688HS y el 765LT"
     ],
     contras: [
-      "Precio oficial no publicado por McLaren: 200 unidades (100 coupé + 100 spider), la prensa especializada estima ~450.000 GBP",
+      "~420.000 € de partida",
       "200 unidades con listas de espera",
       "Radicalidad de uso: poco confort diario",
       "Etiqueta C",
@@ -606,7 +606,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     parNm: 800,
     traccion: "Trasera",
     emisionesCo2: 280,
-    aprox: ["ceroCien", "consumo", "pesoKg"],
+    aprox: ["precioDesde", "ceroCien", "consumo", "pesoKg"],
     imagen: "/media/mclaren-788hs-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -617,7 +617,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "costeMensualTotal": 1425,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; serie limitada High Sport de 200 unidades; consumo estimado ~12,5 l cada 100 km",
+      "notas": "cifras orientativas para 1.000 km/mes; serie limitada High Sport de 200 unidades; consumo estimado ~12,5 l/100 km",
       "estimado": true
     },
     galeria: [
@@ -654,7 +654,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     modelo: "GT",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: 199000,
+    precioDesde: 200000,
     potenciaCv: 620,
     autonomiaKm: null,
     maleteroL: 570,
@@ -671,7 +671,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "El McLaren de ocasión más asequible"
     ],
     contras: [
-      "Aprox. 199.000 € según última tarifa oficial publicada del GT en Reino Unido (167.560 GBP); descatalogado en 2024, solo ocasión",
+      "Descatalogado en 2024: solo ocasión",
       "Menos emocionante que un 720S",
       "Interior menos especial que el exterior",
       "Etiqueta C",
@@ -735,7 +735,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     modelo: "Artura 1000GP by MSO",
     tipo: "Híbrido enchufable",
     categoria: "Deportivo",
-    precioDesde: null,
+    precioDesde: 320000,
     potenciaCv: 700,
     autonomiaKm: 33,
     maleteroL: 160,
@@ -752,7 +752,8 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "33 km eléctricos para la ciudad"
     ],
     contras: [
-      "Precio oficial no publicado por McLaren: edición MSO de 10 unidades, todas asignadas",
+      "~320.000 € por un Artura con cosmética",
+      "Solo 10 unidades, todas asignadas",
       "Sin mejoras mecánicas frente al Artura",
       "33 km eléctricos testimoniales",
       "Imposible de comprar nuevo"
@@ -767,7 +768,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     parNm: 720,
     traccion: "Trasera",
     emisionesCo2: 104,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mclaren-artura-1000gp-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -815,7 +816,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     modelo: "750S MCL38 Celebration Edition",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: null,
+    precioDesde: 330000,
     potenciaCv: 750,
     autonomiaKm: null,
     maleteroL: 150,
@@ -832,7 +833,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
       "750 CV y 332 km/h con pedigrí de campeón"
     ],
     contras: [
-      "Precio oficial no publicado por McLaren: solo 9 unidades, todas asignadas",
+      "~330.000 € y las 9 unidades asignadas",
       "Sin cambios mecánicos frente al 750S",
       "Solo 9 afortunados en el mundo",
       "Etiqueta C",
@@ -848,7 +849,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     parNm: 800,
     traccion: "Trasera",
     emisionesCo2: 276,
-    aprox: ["consumo"],
+    aprox: ["precioDesde", "consumo"],
     imagen: "/media/mclaren-750s-mcl38-celebration-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

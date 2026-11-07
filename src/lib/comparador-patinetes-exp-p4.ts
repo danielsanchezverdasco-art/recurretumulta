@@ -574,11 +574,11 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     ],
     aprox: ["potenciaNominalW", "autonomiaKm", "autonomiaRealKm", "pesoKg"],
     pros: [
-      "Batería de 480 Wh y motor de 800 W: 40 km declarados y 27 km reales.",
-      "Sillín desmontable: permite ir sentado o de pie.",
-      "Admite hasta 150 kg de carga.",
-      "App EVERCROSS PRO (iOS/Android).",
-      "Doble freno de disco y ruedas macizas de 10 pulgadas: sin pinchazos.",
+      "La batería entrega 48 V con 10 Ah de capacidad, lo que equivale a 480 Wh, y el motor alcanza 800 W en punta.",
+      "El sillín se puede quitar y viene acolchado, así que el mismo patinete sirve para ir sentado en trayectos tranquilos o de pie cuando apetece más agilidad.",
+      "Admite hasta 150 kg de carga, un margen amplio que deja viajar con holgura a personas de complexión grande sin forzar la estructura.",
+      "La aplicación EVERCROSS PRO permite bloquear el patinete y mantener una velocidad constante, dos funciones útiles para aparcar tranquilo y rodar relajado.",
+      "Viene equipado con intermitentes y frenos de disco en ambas ruedas, un conjunto bastante completo para circular con seguridad entre el tráfico.",
     ],
     contras: [
       "Evercross no ha publicado una tarifa oficial verificable del H5",
@@ -589,7 +589,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
       "Con 480 Wh y 800 W, la autonomía real se queda en unos 27 km",
     ],
     veredicto:
-      "El 'cicloscooter' de Evercross: 800 W, sillín y 480 Wh. Para quien quiere ir sentado y no le importa el peso; en España, limitado a 25 km/h.",
+      "El 'cicloscooter' de Evercross: 800 W, sillín y 480 Wh por ~490 €. Para quien quiere ir sentado y no le importa el peso; en España, limitado a 25 km/h.",
     fuenteNombre: "Levy Electric (guía Evercross) / Amazon",
     fuenteUrl:
       "https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review",
@@ -1354,20 +1354,20 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     aprox: ["autonomiaKm", "autonomiaRealKm"],
     pros: [
       "Los dos motores combinados alcanzan 3.600 W en punta y la batería suma 1.680 Wh, con un alcance anunciado de entre 100 y 120 km por carga.",
-      "La construcción es coreana, según la prueba publicada por Electrek.",
-      "Los frenos hidráulicos incorporan ABS en la rueda delantera y en la trasera.",
-      "La plataforma remata con un reposapiés trasero elevado.",
-      "De serie trae un claxon propio de moto y luces.",
+      "La construcción coreana está considerada una referencia en su categoría, según la prueba publicada por Electrek, y transmite solidez desde el primer vistazo.",
+      "Los frenos hidráulicos incorporan ABS en la rueda delantera y en la trasera, un equipamiento que da mucha confianza cuando hay que detenerse deprisa.",
+      "La plataforma es enorme y remata con un reposapiés trasero elevado, así que los pies encuentran sitio de sobra incluso en posturas relajadas.",
+      "De serie trae un claxon propio de moto y unas luces potentes, detalles que ayudan a hacerse ver y oír en calles con tráfico.",
     ],
     contras: [
       "Llega a 70 km/h, de modo que en España solo resulta legal si se limita a 25 km/h para circular como vehículo de movilidad personal.",
-      "Pesa 37 kg, lo que se nota al cargarlo, plegarlo y guardarlo en un uso urbano diario.",
-      "Su precio de lanzamiento fue de 2.799 $.",
-      "Bajo la plataforma no lleva iluminación, así que de noche esa zona queda a oscuras.",
-      "Los repuestos solo se consiguen a través de importadores, lo que puede alargar cualquier reparación.",
+      "Pesa 37 kg, un lastre considerable para un uso urbano diario en el que toca cargarlo, plegarlo y guardarlo con frecuencia.",
+      "Su precio de lanzamiento fue de 2.799 $, una cantidad claramente premium que lo deja fuera del alcance de la mayoría de los bolsillos.",
+      "Bajo la plataforma no lleva iluminación, así que de noche esa zona queda a oscuras y el patinete pierde presencia lateral.",
+      "Es una marca de nicho y los repuestos solo se consiguen a través de importadores, lo que puede alargar cualquier reparación más de lo deseable.",
     ],
     veredicto:
-      "3.600 W de pico, batería de 1.680 Wh y 70 km/h de velocidad máxima. Está descatalogado y sin precio oficial en EUR.",
+      "El Currus original que puso a la marca en el mapa: 3.600 W de pico y construcción de otro nivel. Hoy es una pieza de coleccionista más que una compra racional.",
     fuenteNombre: "Electrek",
     fuenteUrl: "https://electrek.co/2019/10/23/review-currus-nf-electric-scooter/",
     mantenimientoDIY: {
@@ -1877,21 +1877,21 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     ],
     aprox: ["autonomiaKm", "autonomiaRealKm"],
     pros: [
-      "Su motor es de 350 W y su batería de 275 Wh.",
-      "Pesa 18,6 kg, lo que facilita subirlo a casa o meterlo en el maletero.",
-      "Está homologado para circular en Alemania y en Suiza.",
-      "Se pliega y ocupa poco espacio, así que se guarda en casa y se combina con otros transportes.",
-      "Detrás hay una marca alemana con servicio en Europa.",
+      "Su motor de 350 W se combina con una batería de 275 Wh, la puerta de entrada a la familia Ey! para quien busca un modelo sencillo.",
+      "Con 18,6 kg es el más ligero de los Ey!, una ventaja clara cuando toca subirlo a casa o meterlo en el maletero.",
+      "Está homologado para circular en Alemania y en Suiza, una certificación que respalda su calidad y su construcción cuidada.",
+      "Se pliega y ocupa poco espacio, así que está pensado para el día a día, para guardarlo en casa y combinarlo con otros transportes.",
+      "Detrás hay una marca alemana con servicio en Europa, lo que facilita resolver dudas y gestiones sin salir del continente.",
     ],
     contras: [
       "Anuncia 30 km de alcance, aunque en uso real ronda los 20 km, así que su terreno natural es la ciudad y los trayectos cortos.",
-      "Su velocidad máxima es de 20 km/h, así que encaja con desplazamientos cortos.",
-      "La carga completa tarda 5,5 horas.",
-      "Con 350 W, en cuestas pronunciadas pierde ritmo cuando el desnivel aprieta.",
-      "Su batería es de 275 Wh, pequeña para un precio de 1.240 € si se buscan trayectos algo más largos.",
+      "Su velocidad máxima es de 20 km/h, un ritmo tranquilo que encaja con desplazamientos cortos pero no con prisas.",
+      "Todavía no tiene precio oficial publicado, así que quien quiera comprarlo no puede comparar su coste con el de otros modelos.",
+      "Con 350 W, en cuestas pronunciadas se queda justo y conviene contar con perder ritmo cuando el desnivel aprieta.",
+      "La batería resulta pequeña para el segmento de precio en el que se mueve, un detalle que pesa si se buscan trayectos algo más largos.",
     ],
     veredicto:
-      "350 W, batería de 275 Wh, 18,6 kg y 20 km/h de velocidad máxima. Cuesta 1.240 € y está homologado para circular en Alemania y en Suiza.",
+      "El pequeño de la familia Ey!: 350 W y 18,6 kg para moverse por la ciudad con sello alemán. Para trayectos cortos, el Egret más sensato.",
     fuenteNombre: "Digitec / Galaxus",
     fuenteUrl:
       "https://www.digitec.ch/en/s1/product/egret-ey-3-e-scooter-20-kmh-30-km-350-w-e-scooters-standing-47502041",
@@ -2143,10 +2143,11 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     ],
     aprox: ["precioEur", "autonomiaKm", "autonomiaRealKm", "tiempoCargaH"],
     pros: [
-      "Motor trasero de 500 W nominales y 800 W de pico, con batería de 600 Wh y 56 km de autonomía anunciada.",
-      "Neumáticos todoterreno de 10 pulgadas y suspensión en ambos ejes.",
-      "Toma USB para recargar el teléfono mientras se circula.",
-      "Certificación IP54 frente al polvo y las salpicaduras, y plataforma de 17 cm de ancho.",
+      "El motor trasero rinde 500 W en uso normal y llega a 800 W en punta, alimentado por una batería de 600 Wh que anuncia 56 km de alcance.",
+      "Las ruedas de 10 pulgadas con tacos y la suspensión en ambos ejes le permiten salir del asfalto y rodar por pistas de tierra sin sufrir tanto.",
+      "Lleva una toma USB para ir recargando el teléfono mientras se circula, un detalle práctico en rutas largas sin enchufe a mano.",
+      "Está protegido con certificación IP54 frente al polvo y las salpicaduras, y su plataforma de 17 cm de ancho da apoyo suficiente para colocar bien los pies.",
+      "Dentro de la gama Turboant, este es el que mejor se defiende fuera del asfalto, pensado para quien busca caminos en lugar de limitarse a la ciudad.",
     ],
     contras: [
       "Como TurboAnt no vende oficialmente en España, el precio se estima convirtiendo la tarifa oficial de EE. UU., 699,98 $",
@@ -2157,7 +2158,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
       "No hay distribución oficial en España",
     ],
     veredicto:
-      "El Turboant aventurero: 800 W de pico, 600 Wh y ruedas todoterreno por ~490 €.",
+      "El Turboant aventurero: 800 W de pico, 600 Wh y ruedas todoterreno por ~490 €. Para pistas y caminos; en ciudad hay opciones más ligeras.",
     fuenteNombre: "TurboAnt (oficial)",
     fuenteUrl: "https://turboant.com/products/r9-all-terrain-electric-scooter",
     mantenimientoDIY: {

@@ -31,8 +31,8 @@ export const AUTOCARAVANAS_CARTHAGO_M1: Autocaravana[] = [
       "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
       "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial-interior.webp",
-    videoId: "nGkKYh8G6k8",
-    videoCanal: "AUTONOTIZEN",
+    videoId: null,
+    videoCanal: null,
     largoMm: 7390, // «no oficial»: 739 cm versión Fiat Ducato según exposé de concesionario (752 cm = versión Mercedes)
     anchoMm: 2270, // «no oficial»: exposé de concesionario autorizado
     altoMm: 2950, // «no oficial»: exposé de concesionario autorizado
@@ -81,19 +81,19 @@ Para quién es: la C-Tourer I 148 LE es para quien busca una integral premium al
     galeria: [
       {
         src: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Carthago C-Tourer I integral, vista exterior tres cuartos",
+        alt: "Carthago C-Tourer I integral, vista exterior tres cuartos (foto oficial del fabricante)",
         ancho: 1200,
         alto: 600,
       },
       {
         src: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Camas gemelas de la distribución LE del Carthago C-Tourer I",
+        alt: "Camas gemelas de la distribución LE del Carthago C-Tourer I (foto oficial)",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/carthago-c-tourer-i-148-le-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Dormitorio con camas gemelas del Carthago C-Tourer I, distribución LE",
+        alt: "Dormitorio con camas gemelas del Carthago C-Tourer I, distribución LE (foto oficial)",
         ancho: 1200,
         alto: 800,
       },
@@ -127,7 +127,7 @@ Para quién es: la C-Tourer I 148 LE es para quien busca una integral premium al
     analisisSlug: "carthago-c-tourer-i-148-le-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: 2 años / 40.000 km",
+        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",

@@ -77,7 +77,7 @@ export const COCHES_HONDA: CocheComparador[] = [
       "costeMensualTotal": 310,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; 8,2 l/100 km WLTP × 1,85 €/l; todo riesgo estimado para deportivo de 329 CV; la venta nueva en Europa cesó en diciembre de 2025 (solo stock)",
+      "notas": "15.000 km/año; 8,2 l/100 km WLTP × 1,85 €/l; seguro a todo riesgo estimado para deportivo de 329 CV; la venta nueva en Europa cesó en diciembre de 2025 (solo stock)",
       "estimado": true
     },
     galeria: [
@@ -195,7 +195,7 @@ export const COCHES_HONDA: CocheComparador[] = [
     modelo: "Jazz Crosstar",
     tipo: "Híbrido",
     categoria: "Monovolumen",
-    precioDesde: 26850,
+    precioDesde: 26750,
     potenciaCv: 122,
     autonomiaKm: null,
     maleteroL: 304,
@@ -239,7 +239,7 @@ export const COCHES_HONDA: CocheComparador[] = [
       "costeMensualTotal": 184,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; 4,8 l/100 km además WLTP × 1,85 €/l; precio con descuento oficial vigente (tarifa 07/2026); PVP sin descuento 30.650 €",
+      "notas": "15.000 km/año; 4,8 l/100 km WLTP × 1,85 €/l; precio con descuento oficial vigente (tarifa 07/2026); PVP sin descuento 30.650 €",
       "estimado": true
     },
     galeria: [
@@ -357,7 +357,7 @@ export const COCHES_HONDA: CocheComparador[] = [
     modelo: "CR-V e:PHEV",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 50960,
+    precioDesde: 50860,
     potenciaCv: 184,
     autonomiaKm: 78,
     maleteroL: 635,
@@ -438,7 +438,7 @@ export const COCHES_HONDA: CocheComparador[] = [
     modelo: "Prelude e:HEV",
     tipo: "Híbrido",
     categoria: "Coupé",
-    precioDesde: 49500,
+    precioDesde: 46000,
     potenciaCv: 184,
     autonomiaKm: null,
     maleteroL: 264,

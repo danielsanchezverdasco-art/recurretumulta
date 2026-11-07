@@ -27,29 +27,12 @@ export const COCHES_KIA: CocheComparador[] = [
     bateriaKwh: 58.3,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    euroncap: {
-      estrellas: 4,
-      ano: 2025,
-      url: null,
-      nota: "Prueba del Kia EV4, 2025 (4 estrellas de serie; 5 con el DriveWise Safety Pack opcional)",
-    },
-    planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
-      revisiones: [
-        {
-          nombre: "Revisión bienal / 30.000 km",
-          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
-          costeAproxEur: null,
-        },
-      ],
-      fuente: "Kia España",
-    },
     pros: [
       "Precio de acceso de 35.972 €: la berlina eléctrica más asequible de Kia en España",
       "440 km de autonomía WLTP con la batería pequeña: suficiente para el uso real",
       "Consumo homologado de 14,7 kWh/100 km, de lo más eficiente del segmento C",
       "Maletero de 435 L y plataforma E-GMP: espacio digno de un segmento superior",
-      "Etiqueta Cero: entrada libre a ZBE y aparcamiento bonificado en muchas ciudades",
+      "Etiqueta Cero: acceso libre a ZBE y aparcamiento bonificado en muchas ciudades",
     ],
     contras: [
       "Diseño fastback polarizante: o te encanta o no te entra por los ojos",
@@ -79,7 +62,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 137,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; consumo WLTP 14,70 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados (segmento C)",
+      "notas": "15.000 km/año; consumo WLTP 14,7 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -128,25 +111,8 @@ export const COCHES_KIA: CocheComparador[] = [
     bateriaKwh: 81.4,
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
-    euroncap: {
-      estrellas: 5,
-      ano: 2025,
-      url: null,
-      nota: "Prueba del Kia EV5, 2025",
-    },
-    planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
-      revisiones: [
-        {
-          nombre: "Revisión bienal / 30.000 km",
-          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
-          costeAproxEur: null,
-        },
-      ],
-      fuente: "Kia España",
-    },
     pros: [
-      "530 km de autonomía WLTP: entre las mejores cifras de los SUV eléctricos medios",
+      "530 km de autonomía WLTP: de las mejores cifras entre los SUV eléctricos medios",
       "Maletero de 566 L: el más capaz de la familia eléctrica de Kia por tamaño",
       "Carga rápida de 150 kW en continua: competitiva en su rango de precio",
       "Precio desde 44.436 €: por debajo de un Tesla Model Y equivalente",
@@ -180,7 +146,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 157,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Base anual de 15.000 km con un gasto WLTP de 17,8 kWh cada 100 km a 0,18 euros el kWh, más seguro y mantenimiento orientativos de su segmento",
+      "notas": "15.000 km/año; consumo WLTP 17,8 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -192,7 +158,7 @@ export const COCHES_KIA: CocheComparador[] = [
       },
       {
         "src": "",
-        "alt": "Habitáculo del Kia EV5 con asientos traseros reclinables",
+        "alt": "Interior del Kia EV5 con asientos traseros reclinables",
         "ancho": 1920,
         "alto": 1280
       },
@@ -229,23 +195,6 @@ export const COCHES_KIA: CocheComparador[] = [
     bateriaKwh: 99.8,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    euroncap: {
-      estrellas: 5,
-      ano: 2023,
-      url: null,
-      nota: "Prueba del Kia EV9, 2023",
-    },
-    planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
-      revisiones: [
-        {
-          nombre: "Revisión bienal / 30.000 km",
-          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
-          costeAproxEur: null,
-        },
-      ],
-      fuente: "Kia España",
-    },
     pros: [
       "385 CV y 700 Nm: acelera en 5,3 s pese a sus 2.664 kg",
       "7 plazas reales con 333 L de maletero incluso con todas ocupadas (828 L con 5)",
@@ -255,9 +204,9 @@ export const COCHES_KIA: CocheComparador[] = [
     ],
     contras: [
       "85.165 €: territorio premium alemán, y la marca aún no juega ahí en imagen",
-      "5,01 m de largo: aparcar en ciudad es casi un acto de fe (y de cámaras)",
+      "5,01 m de largo: aparcar en ciudad es un ejercicio de fe (y de cámaras)",
       "2.664 kg: el consumo real (22,8 kWh/100 km) se dispara en autopista",
-      "La tercera fila es justa para adultos en trayectos largos",
+      "La tercera fila es justa para adultos en viajes largos",
       "Depreciación incierta: es el primer Kia de este precio en Europa",
     ],
     largoMm: 5015,
@@ -281,7 +230,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 181,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Supuesto de 15.000 km al año: 22,8 kWh por cada 100 km (WLTP) cargando a 0,18 €/kWh, con seguro y mantenimiento de coche premium estimados aparte",
+      "notas": "15.000 km/año; consumo WLTP 22,8 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados por segmento premium",
       "estimado": true
     },
     galeria: [
@@ -310,24 +259,6 @@ export const COCHES_KIA: CocheComparador[] = [
   // 4. Kia EV6 GT 585 CV — deportivo eléctrico
   {
     id: "kia-ev6-gt-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 5,
-      ano: 2022,
-      url: null,
-      nota: "Prueba del Kia EV6, 2022"
-    },
-    planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
-      revisiones: [
-        {
-          nombre: "Revisión bienal / 30.000 km",
-          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -350,7 +281,7 @@ export const COCHES_KIA: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "585 CV y 740 Nm: 0-100 en 3,5 s y 260 km/h, cifras de superdeportivo",
-      "Carga de 800 V a 240 kW: del 10 al 80 % en alrededor de 18 minutos",
+      "Carga de 800 V a 240 kW: del 10 al 80 % en unos 18 minutos",
       "Modo GT con reparto de par específico y chasis puesto a punto",
       "424 km de autonomía WLTP: usable a diario pese a las prestaciones",
       "Asientos deportivos y frenos sobredimensionados sin renunciar a 5 plazas",
@@ -383,7 +314,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 184,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Cálculo para 15.000 km anuales con 20,6 kWh/100 km WLTP y recarga a 0,18 €/kWh; el seguro y el mantenimiento de este deportivo eléctrico van estimados",
+      "notas": "15.000 km/año; consumo WLTP 20,6 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados (deportivo eléctrico)",
       "estimado": true
     },
     galeria: [
@@ -432,23 +363,6 @@ export const COCHES_KIA: CocheComparador[] = [
     bateriaKwh: 64.8,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    euroncap: {
-      estrellas: 4,
-      ano: 2022,
-      url: null,
-      nota: "Prueba del Kia Niro, 2022",
-    },
-    planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
-      revisiones: [
-        {
-          nombre: "Revisión bienal / 30.000 km",
-          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
-          costeAproxEur: null,
-        },
-      ],
-      fuente: "Kia España",
-    },
     pros: [
       "460 km de autonomía WLTP con 64,8 kWh: de los más eficientes del segmento",
       "Formato crossover compacto (4,42 m): ideal para ciudad y escapadas",
@@ -484,7 +398,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 136,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Recorrido anual de 15.000 km: consumo WLTP de 16,2 kWh por 100 km, electricidad a 0,18 €/kWh y seguro con mantenimiento estimados según segmento",
+      "notas": "15.000 km/año; consumo WLTP 16,2 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -496,7 +410,7 @@ export const COCHES_KIA: CocheComparador[] = [
       },
       {
         "src": "",
-        "alt": "Cabina del Kia e-Niro",
+        "alt": "Interior del Kia e-Niro",
         "ancho": 1920,
         "alto": 1280
       },
@@ -513,24 +427,6 @@ export const COCHES_KIA: CocheComparador[] = [
   // 6. Kia Niro 1.6 GDi PHEV Concept — híbrido enchufable compacto
   {
     id: "kia-niro-phev-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 4,
-      ano: 2022,
-      url: null,
-      nota: "Prueba del Kia Niro, 2022"
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros, inspección general y chequeo del sistema híbrido",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -552,14 +448,14 @@ export const COCHES_KIA: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "65 km eléctricos WLTP: el trayecto diario sin gastar una gota",
+      "65 km eléctricos WLTP: el commuting diario sin gastar una gota",
       "Etiqueta Cero por 41.540 €: el PHEV con mejor relación precio/etiqueta de Kia",
       "Consumo homologado de 0,8 l/100 km si cargas a diario",
       "Maletero de 348 L pese a la batería: el formato crossover ayuda",
       "171 CV combinados: suficiente para todo sin estrés",
     ],
     contras: [
-      "10,4 s en el 0-100: el menos prestacional de toda la gama Niro",
+      "10,4 s en el 0-100: el menos prestacional de la gama Niro",
       "Batería de 11,1 kWh sin carga rápida: solo enchufe doméstico o wallbox",
       "348 L de maletero: justo para una familia con carrito",
       "Si no cargas cada noche, el consumo real se dispara frente al HEV",
@@ -586,7 +482,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 119,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km al año con un consumo WLTP combinado de 0,8 l cada 100 km a 1,85 €/l; siendo PHEV, el gasto real depende de cuánto lo enchufes (a más carga, menos gasolina)",
+      "notas": "15.000 km/año; consumo WLTP combinado 0,8 l/100 km a 1,85 €/l; PHEV: el coste real depende del hábito de carga (más carga = menos gasolina)",
       "estimado": true
     },
     galeria: [
@@ -635,29 +531,12 @@ export const COCHES_KIA: CocheComparador[] = [
     bateriaKwh: 13.8,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    euroncap: {
-      estrellas: 5,
-      ano: 2022,
-      url: null,
-      nota: "Prueba del Kia Sportage, 2022",
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros e inspección general",
-          costeAproxEur: null,
-        },
-      ],
-      fuente: "Kia España",
-    },
     pros: [
       "252 CV y 350 Nm con tracción total: el Sportage más potente y capaz",
       "66 km eléctricos WLTP: entra en la ZBE a diario sin emisiones",
       "1,1 l/100 km homologados: el SUV familiar que menos gasta si cargas",
       "Maletero de 540 L: apenas pierde frente al HEV pese a la batería",
-      "Batería de 13,8 kWh: de las mayores entre los PHEV generalistas",
+      "Batería de 13,8 kWh: de las más grandes entre los PHEV generalistas",
     ],
     contras: [
       "47.445 €: más de 7.000 € más que el MHEV Tech equivalente",
@@ -687,7 +566,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 138,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Hipótesis anual: 15.000 km y 1,1 l/100 km WLTP combinados a 1,85 €/l; en un PHEV el coste final lo marca tu hábito de carga",
+      "notas": "15.000 km/año; consumo WLTP combinado 1,1 l/100 km a 1,85 €/l; PHEV: el coste real depende del hábito de carga",
       "estimado": true
     },
     galeria: [
@@ -699,7 +578,7 @@ export const COCHES_KIA: CocheComparador[] = [
       },
       {
         "src": "",
-        "alt": "Cockpit del Kia Sportage PHEV",
+        "alt": "Interior del Kia Sportage PHEV",
         "ancho": 1920,
         "alto": 1280
       },
@@ -736,23 +615,6 @@ export const COCHES_KIA: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    euroncap: {
-      estrellas: 5,
-      ano: 2020,
-      url: null,
-      nota: "Prueba del Kia Sorento, 2020 (rating europeo válido para las variantes europeas)",
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros e inspección general",
-          costeAproxEur: null,
-        },
-      ],
-      fuente: "Kia España",
-    },
     pros: [
       "7 plazas de verdad con 608 L de maletero (5 plazas): el familiar definitivo",
       "215 CV híbridos con etiqueta ECO y 6,6 l/100 km para 1.896 kg",
@@ -761,11 +623,11 @@ export const COCHES_KIA: CocheComparador[] = [
       "Garantía Kia de 7 años: tranquilidad para un coche familiar de uso intensivo",
     ],
     contras: [
-      "9,4 s en el 0-100: no es un automóvil para ir con prisa",
+      "9,4 s en el 0-100: no es un coche para ir con prisa",
       "Etiqueta ECO, no Cero: en ZBE futuras podría tener restricciones",
       "4,81 m de largo: en parking subterráneo hay que medir bien",
       "El diésel 2.2 gasta menos en autopista (6,0 l/100 km)",
-      "Tercera fila pensada para niños o recorridos cortos",
+      "Tercera fila pensada para niños o trayectos cortos",
     ],
     largoMm: 4815,
     anchoMm: 1900,
@@ -788,7 +650,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 273,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Anualidad de 15.000 km con consumo WLTP de 6,6 l por 100 km a 1,85 €/l; seguro y mantenimiento calculados para su segmento",
+      "notas": "15.000 km/año; consumo WLTP 6,6 l/100 km a 1,85 €/l; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -817,24 +679,6 @@ export const COCHES_KIA: CocheComparador[] = [
   // 9. Kia Sorento Drive 1.6 T-GDi PHEV 252 CV 4x4 — 7 plazas con etiqueta Cero
   {
     id: "kia-sorento-phev-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 5,
-      ano: 2020,
-      url: null,
-      nota: "Prueba del Kia Sorento, 2020"
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros, inspección general y chequeo del sistema híbrido",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -843,7 +687,7 @@ export const COCHES_KIA: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     marca: "Kia",
-    modelo: "Sorento Drive 1.6 T-GDi PHEV 252 CV con tracción total",
+    modelo: "Sorento Drive 1.6 T-GDi PHEV 252 CV 4x4",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
     precioDesde: 61425,
@@ -890,7 +734,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 162,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km anuales y consumo WLTP combinado de 1,6 l cada 100 km con gasolina a 1,85 €/l; como PHEV, lo que pagues depende de lo que cargues",
+      "notas": "15.000 km/año; consumo WLTP combinado 1,6 l/100 km a 1,85 €/l; PHEV: el coste real depende del hábito de carga",
       "estimado": true
     },
     galeria: [
@@ -902,7 +746,7 @@ export const COCHES_KIA: CocheComparador[] = [
       },
       {
         "src": "",
-        "alt": "Habitáculo del Kia Sorento PHEV",
+        "alt": "Interior del Kia Sorento PHEV",
         "ancho": 1920,
         "alto": 1280
       },
@@ -919,24 +763,6 @@ export const COCHES_KIA: CocheComparador[] = [
   // 10. Kia Ceed Tourer Concept 1.0 T-GDi 100 CV — familiar compacto
   {
     id: "kia-ceed-sw-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 4,
-      ano: 2019,
-      url: null,
-      nota: "Prueba del Kia Ceed, 2019 (4 estrellas de serie; 5 con el pack de seguridad opcional)"
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -966,7 +792,7 @@ export const COCHES_KIA: CocheComparador[] = [
     ],
     contras: [
       "101 CV y 13,1 s en el 0-100: cargado hasta arriba se queda justo",
-      "Etiqueta C: sin ventaja en ZBE frente a un híbrido",
+      "Etiqueta C: sin ventajas en ZBE frente a un híbrido",
       "El 1.0 tricilíndrico es menos refinado que un 4 cilindros",
       "Interior correcto pero sin el despliegue tecnológico de los SUV de la marca",
       "La gama Tourer pierde versiones: el PHEV ya no se ofrece nuevo",
@@ -992,7 +818,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 217,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Para 15.000 km al año: WLTP de 5,4 l/100 km con gasolina de 1,85 €/l, y seguro más mantenimiento estimados por su segmento",
+      "notas": "15.000 km/año; consumo WLTP 5,4 l/100 km a 1,85 €/l; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1021,24 +847,6 @@ export const COCHES_KIA: CocheComparador[] = [
   // 11. Kia ProCeed GT-Line 1.5 T-GDi MHEV 160 CV — shooting brake
   {
     id: "kia-proceed-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 4,
-      ano: 2019,
-      url: null,
-      nota: "Prueba del Kia Ceed, 2019 (4 estrellas de serie; 5 con el pack de seguridad opcional)"
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1094,7 +902,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 234,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Recorrido de 15.000 km anuales, gasto WLTP de 5,7 l/100 km a 1,85 €/l y seguro con mantenimiento estimados según su segmento",
+      "notas": "15.000 km/año; consumo WLTP 5,7 l/100 km a 1,85 €/l; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1123,24 +931,6 @@ export const COCHES_KIA: CocheComparador[] = [
   // 12. Kia Picanto 1.2 DPI GT-line — urbano deportivo
   {
     id: "kia-picanto-gt-line-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 3,
-      ano: 2017,
-      url: null,
-      nota: "Prueba del Kia Picanto, 2017 (3 estrellas de serie; 5 con el pack de seguridad opcional)"
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1196,7 +986,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 211,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Uso anual de 15.000 km: 5,5 litros cada 100 km a 1,85 €/l (WLTP); seguro y mantenimiento estimados para un urbano",
+      "notas": "15.000 km/año; consumo WLTP 5,5 l/100 km a 1,85 €/l; seguro y mantenimiento estimados (urbano)",
       "estimado": true
     },
     galeria: [
@@ -1208,7 +998,7 @@ export const COCHES_KIA: CocheComparador[] = [
       },
       {
         "src": "",
-        "alt": "Habitáculo del Kia Picanto GT-line",
+        "alt": "Interior del Kia Picanto GT-line",
         "ancho": 1920,
         "alto": 1280
       },
@@ -1225,24 +1015,6 @@ export const COCHES_KIA: CocheComparador[] = [
   // 13. Kia EV3 GT-line Long Range 81,4 kWh — SUV eléctrico compacto deportivo
   {
     id: "kia-ev3-gt-line-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 4,
-      ano: 2025,
-      url: null,
-      nota: "Prueba del Kia EV3, 2025 (4 estrellas de serie; 5 con el DriveWise Safety Pack opcional)"
-    },
-    planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
-      revisiones: [
-        {
-          nombre: "Revisión bienal / 30.000 km",
-          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1264,7 +1036,7 @@ export const COCHES_KIA: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
-      "563 km de autonomía WLTP: la mejor cifra entre los SUV eléctricos compactos",
+      "563 km de autonomía WLTP: récord entre los SUV eléctricos compactos",
       "Estética GT-line: el EV3 con más carácter por 48.795 €",
       "Batería de 81,4 kWh: la grande, sin renunciar a nada",
       "Interior con materiales reciclados y doble pantalla panorámica",
@@ -1298,7 +1070,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 136,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Kilometraje anual de 15.000 km: 16,2 kWh cada 100 km (WLTP) a 0,18 €/kWh, incluyendo seguro y mantenimiento estimados para su segmento",
+      "notas": "15.000 km/año; consumo WLTP 16,2 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1310,7 +1082,7 @@ export const COCHES_KIA: CocheComparador[] = [
       },
       {
         "src": "",
-        "alt": "Cabina del Kia EV3 GT-line",
+        "alt": "Interior del Kia EV3 GT-line",
         "ancho": 1920,
         "alto": 1280
       },
@@ -1327,24 +1099,6 @@ export const COCHES_KIA: CocheComparador[] = [
   // 14. Kia Sportage Tech 1.6 T-GDi MHEV 160 CV — SUV híbrido ligero
   {
     id: "kia-sportage-mhev-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 5,
-      ano: 2022,
-      url: null,
-      nota: "Prueba del Kia Sportage, 2022"
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1400,7 +1154,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 265,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km cada año con un WLTP de 6,6 l/100 km y gasolina a 1,85 €/l; el seguro y el mantenimiento se estiman por segmento",
+      "notas": "15.000 km/año; consumo WLTP 6,6 l/100 km a 1,85 €/l; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1412,7 +1166,7 @@ export const COCHES_KIA: CocheComparador[] = [
       },
       {
         "src": "",
-        "alt": "Cabina del Kia Sportage",
+        "alt": "Interior del Kia Sportage",
         "ancho": 1920,
         "alto": 1280
       },
@@ -1429,29 +1183,6 @@ export const COCHES_KIA: CocheComparador[] = [
   // 15. Kia XCeed eDrive 1.6 PHEV 141 CV — crossover híbrido enchufable
   {
     id: "kia-xceed-phev-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 4,
-      ano: 2019,
-      url: null,
-      nota: "Test del Kia Ceed (2019), de la misma familia: 88% adultos, 85% infantil, 52% peatones, 68% asistencias",
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general + inspección del sistema híbrido enchufable",
-          costeAproxEur: null,
-        },
-        {
-          nombre: "Revisión 60.000 km",
-          queSeCambia: "Lo anterior + filtro de aire + líquido de frenos + bujías",
-          costeAproxEur: null,
-        },
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España",
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1476,7 +1207,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "Etiqueta Cero por 38.490 €: el PHEV más barato de Kia",
       "48 km eléctricos WLTP: suficiente para el uso urbano diario",
       "Formato crossover compacto: más alto que un Ceed, más ágil que un Sportage",
-      "1,4 l/100 km homologados con la batería llena",
+      "1,4 l/100 km homologados con la batería cargada",
       "Cambio DCT de 6 velocidades: sin el efecto scooter de los e-CVT",
     ],
     contras: [
@@ -1507,19 +1238,19 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 135,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "Cada año 15.000 km: consumo WLTP combinado de 1,4 l/100 km a 1,85 €/l; al ser PHEV, el gasto depende de tus cargas",
+      "notas": "15.000 km/año; consumo WLTP combinado 1,4 l/100 km a 1,85 €/l; PHEV: el coste real depende del hábito de carga",
       "estimado": true
     },
     galeria: [
       {
         "src": "/media/kia-xceed-phev-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Kia XCeed PHEV, vista tres cuartos delantera",
+        "alt": "Kia XCeed híbrido enchufable, vista tres cuartos delantera",
         "ancho": 1920,
         "alto": 1280
       },
       {
         "src": "",
-        "alt": "Habitáculo del Kia XCeed PHEV",
+        "alt": "Interior del Kia XCeed PHEV",
         "ancho": 1920,
         "alto": 1280
       },
@@ -1536,24 +1267,6 @@ export const COCHES_KIA: CocheComparador[] = [
   // 16. Kia Ceed 5p Tech 1.5 MHEV 140 CV DCT — compacto híbrido ligero
   {
     id: "kia-ceed-15-tgdi-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 4,
-      ano: 2019,
-      url: null,
-      nota: "Prueba del Kia Ceed, 2019 (4 estrellas de serie; 5 con el pack de seguridad opcional)"
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1609,7 +1322,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 228,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km anuales con 5,7 l cada 100 km WLTP a 1,85 €/l, con su seguro y mantenimiento estimados para este compacto",
+      "notas": "15.000 km/año; consumo WLTP 5,7 l/100 km a 1,85 €/l; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1638,24 +1351,6 @@ export const COCHES_KIA: CocheComparador[] = [
   // 17. Kia Sorento 2.2 CRDi Drive DCT — SUV diésel de 7 plazas
   {
     id: "kia-sorento-diesel-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 5,
-      ano: 2020,
-      url: null,
-      nota: "Prueba del Kia Sorento, 2020"
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1680,13 +1375,13 @@ export const COCHES_KIA: CocheComparador[] = [
       "2.2 CRDi de 193 CV y 440 Nm: el remolcador de la gama, ideal para caravana",
       "6,0 l/100 km homologados: en autopista gasta menos que los híbridos",
       "7 plazas y 616 L de maletero: el familiar diésel definitivo",
-      "Depósito de 67 L: más de 1.000 km reales de autonomía por repostaje",
+      "Depósito de 67 L: más de 1.000 km de autonomía real por repostaje",
       "Cambio DCT de 8 velocidades suave y rápido",
     ],
     contras: [
       "53.625 € con etiqueta C: el diésel paga peaje ambiental",
-      "Etiqueta C: vedado en las ZBE más estrictas del futuro",
-      "AdBlue y filtro de partículas: mantenerlo cuesta más que un gasolina",
+      "Etiqueta C: vetado en las ZBE más estrictas del futuro",
+      "AdBlue y filtro de partículas: mantenimiento más caro que un gasolina",
       "Sonoridad diésel: en frío se nota que no es híbrido",
       "El HEV cuesta menos (52.635 €) y lleva etiqueta ECO",
     ],
@@ -1711,7 +1406,7 @@ export const COCHES_KIA: CocheComparador[] = [
       "costeMensualTotal": 260,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km al año con 6,0 l/100 km WLTP; precio del gasóleo asimilado a 1,85 €/l, con seguro y mantenimiento de su segmento estimados",
+      "notas": "15.000 km/año; consumo WLTP 6,0 l/100 km a 1,85 €/l (precio del gasóleo asimilado); seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1723,7 +1418,7 @@ export const COCHES_KIA: CocheComparador[] = [
       },
       {
         "src": "",
-        "alt": "Cabina del Kia Sorento",
+        "alt": "Interior del Kia Sorento",
         "ancho": 1920,
         "alto": 1280
       },
@@ -1739,24 +1434,6 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-stonic-10-tgdi-2026-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 3,
-      ano: 2017,
-      url: null,
-      nota: "Prueba del Kia Stonic, 2017 (3 estrellas de serie; 5 con el pack de seguridad opcional)"
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1812,7 +1489,7 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 217,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Al año 15.000 km: WLTP de 5,4 l cada 100 km con combustible a 1,85 €/l, sumando el seguro y mantenimiento pensados para un SUV urbano en España",
+      notas: "15.000 km/año; consumo WLTP 5,4 l/100 km a 1,85 €/l; seguro y mantenimiento estimados para un SUV urbano en España",
       estimado: true
     },
     galeria: [
@@ -1840,24 +1517,6 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-sportage-diesel-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 5,
-      ano: 2022,
-      url: null,
-      nota: "Prueba del Kia Sportage, 2022"
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1913,7 +1572,7 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 211,
       precioKwh: 0.18,
       precioGasolinaL: 1.65,
-      notas: "Recorrido anual de 15.000 km con 5,0 l/100 km WLTP y gasóleo a 1,65 €/l; seguro y mantenimiento de un SUV medio estimados en España",
+      notas: "15.000 km/año; consumo WLTP 5,0 l/100 km a 1,65 €/l de diésel; seguro y mantenimiento estimados para un SUV medio en España",
       estimado: true
     },
     galeria: [
@@ -1936,24 +1595,6 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-ceed-sw-phev-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 4,
-      ano: 2019,
-      url: null,
-      nota: "Prueba del Kia Ceed, 2019 (4 estrellas de serie; 5 con el pack de seguridad opcional)"
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros, inspección general y chequeo del sistema híbrido",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1983,7 +1624,7 @@ export const COCHES_KIA: CocheComparador[] = [
     ],
     contras: [
       "50 km eléctricos: justos frente a rivales nuevos",
-      "Batería de 8,9 kWh sin recarga rápida en continua",
+      "Batería de 8,9 kWh: sin carga rápida en continua",
       "10,8 s de 0-100: familiar tranquilo",
       "El maletero pierde 75 L frente al Ceed SW no híbrido",
       "Interior que empieza a acusar el paso de los años"
@@ -2009,7 +1650,7 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 141,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km al año con recarga diaria: uso mixto mitad eléctrico a 0,18 €/kWh y mitad gasolina a 1,85 €/l, más seguro y mantenimiento incluidos en la estimación",
+      notas: "15.000 km/año con recarga diaria (uso mixto 50% eléctrico a 0,18 €/kWh y 50% gasolina a 1,85 €/l); seguro y mantenimiento estimados",
       estimado: true
     },
     galeria: [
@@ -2032,24 +1673,6 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-ev6-gt-line-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 5,
-      ano: 2022,
-      url: null,
-      nota: "Prueba del Kia EV6, 2022"
-    },
-    planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
-      revisiones: [
-        {
-          nombre: "Revisión bienal / 30.000 km",
-          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2072,7 +1695,7 @@ export const COCHES_KIA: CocheComparador[] = [
     etiquetaDgt: "Cero",
     pros: [
       "582 km de autonomía WLTP con la batería de 84 kWh",
-      "Carga ultrarrápida de 258 kW: del 10 al 80 % en solo 18 minutos",
+      "Carga ultrarrápida de 258 kW: del 10 al 80 % en 18 minutos",
       "228 CV con tracción trasera: equilibrio y diversión",
       "Arquitectura de 800 V, de las más avanzadas del mercado",
       "Acabado GT-Line con estética deportiva"
@@ -2108,19 +1731,19 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 142,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Base de cálculo: 15.000 km al año, 16,9 kWh/100 km WLTP con recarga doméstica a 0,18 €/kWh y seguro más mantenimiento estimados para un crossover eléctrico",
+      notas: "15.000 km/año; consumo WLTP 16,9 kWh/100 km a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento estimados para un crossover eléctrico",
       estimado: true
     },
     galeria: [
       {
         src: "/media/kia-ev6-gt-line-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Kia EV6 GT-Line, vista de tres cuartos delantera",
+        alt: "Kia EV6 GT-Line, vista tres cuartos delantera",
         ancho: 1200,
         alto: 800
       },
       {
         src: "/media/kia-ev6-gt-line-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Habitáculo del Kia EV6",
+        alt: "Interior del Kia EV6",
         ancho: 1200,
         alto: 800
       },
@@ -2136,24 +1759,6 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-xceed-15-mhev-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 4,
-      ano: 2019,
-      url: null,
-      nota: "Prueba del Kia Ceed, 2019 (4 estrellas de serie; 5 con el pack de seguridad opcional)"
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2209,7 +1814,7 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 246,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km por año: 6,3 l/100 km WLTP a 1,85 €/l, incluyendo seguro y mantenimiento estimados para un crossover compacto en España",
+      notas: "15.000 km/año; consumo WLTP 6,3 l/100 km a 1,85 €/l; seguro y mantenimiento estimados para un crossover compacto en España",
       estimado: true
     },
     galeria: [
@@ -2221,13 +1826,13 @@ export const COCHES_KIA: CocheComparador[] = [
       },
       {
         src: "/media/kia-xceed-15-mhev-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Cabina del Kia XCeed",
+        alt: "Interior del Kia XCeed",
         ancho: 1200,
         alto: 800
       },
       {
         src: "/media/kia-xceed-15-mhev-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Kia XCeed 1.5 MHEV Tech de 140 CV, vista frontal",
+        alt: "Kia XCeed 1.5 MHEV 140 CV Tech, vista frontal",
         ancho: 1200,
         alto: 800
       }
@@ -2237,24 +1842,6 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-ev4-long-range-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 4,
-      ano: 2025,
-      url: null,
-      nota: "Prueba del Kia EV4, 2025 (4 estrellas de serie; 5 con el DriveWise Safety Pack opcional)"
-    },
-    planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
-      revisiones: [
-        {
-          nombre: "Revisión bienal / 30.000 km",
-          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2310,19 +1897,19 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 131,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Supuesto anual de 15.000 km: 15,8 kWh/100 km WLTP con carga doméstica a 0,18 €/kWh, más seguro y mantenimiento estimados para un compacto eléctrico",
+      notas: "15.000 km/año; consumo WLTP 15,8 kWh/100 km a 0,18 €/kWh (recarga doméstica); seguro y mantenimiento estimados para un compacto eléctrico",
       estimado: true
     },
     galeria: [
       {
         src: "/media/kia-ev4-long-range-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Kia EV4 GT-Line, vista tres cuartos desde el frente",
+        alt: "Kia EV4 GT-Line, vista tres cuartos delantera",
         ancho: 1200,
         alto: 800
       },
       {
         src: "/media/kia-ev4-long-range-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Habitáculo del Kia EV4",
+        alt: "Interior del Kia EV4",
         ancho: 1200,
         alto: 800
       },
@@ -2338,24 +1925,6 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-ceed-10-tgdi-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 4,
-      ano: 2019,
-      url: null,
-      nota: "Prueba del Kia Ceed, 2019 (4 estrellas de serie; 5 con el pack de seguridad opcional)"
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2384,9 +1953,9 @@ export const COCHES_KIA: CocheComparador[] = [
       "7 años de garantía Kia, la mejor del mercado generalista"
     ],
     contras: [
-      "13,1 s de 0 a 100: el más lento de la gama",
+      "13,1 s de 0-100: el más lento de la gama",
       "Etiqueta C: sin ventajas en las ZBE",
-      "100 CV se quedan justos con el coche lleno",
+      "100 CV se quedan justos con el coche cargado",
       "Sin hibridación: consume más que los MHEV",
       "Acabados de acceso con equipamiento justo"
     ],
@@ -2414,7 +1983,7 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 225,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km al año con 5,4 l/100 km (dato del Tourer, orientativo) a 1,85 €/l, con el seguro y mantenimiento estimados para un compacto en España",
+      notas: "15.000 km/año; consumo 5,4 l/100 km (dato del Tourer, orientativo) a 1,85 €/l; seguro y mantenimiento estimados para un compacto en España",
       estimado: true
     },
     galeria: [
@@ -2426,7 +1995,7 @@ export const COCHES_KIA: CocheComparador[] = [
       },
       {
         src: "/media/kia-ceed-10-tgdi-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Habitáculo del Kia Ceed",
+        alt: "Interior del Kia Ceed",
         ancho: 1200,
         alto: 800
       },
@@ -2442,24 +2011,6 @@ export const COCHES_KIA: CocheComparador[] = [
   },
   {
     id: "kia-ev3-air-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 4,
-      ano: 2025,
-      url: null,
-      nota: "Prueba del Kia EV3, 2025 (4 estrellas de serie; 5 con el DriveWise Safety Pack opcional)"
-    },
-    planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
-      revisiones: [
-        {
-          nombre: "Revisión bienal / 30.000 km",
-          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2515,7 +2066,7 @@ export const COCHES_KIA: CocheComparador[] = [
       costeMensualTotal: 120,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km anuales con un consumo estimado de 13,4 kWh/100 km (batería 58,3 kWh / 436 km WLTP) a 0,18 €/kWh, con el seguro y mantenimiento estimados aparte",
+      notas: "15.000 km/año; consumo estimado 13,4 kWh/100 km (batería 58,3 kWh / 436 km WLTP) a 0,18 €/kWh; seguro y mantenimiento estimados",
       estimado: true
     },
     galeria: [
@@ -2527,7 +2078,7 @@ export const COCHES_KIA: CocheComparador[] = [
       },
       {
         src: "/media/kia-ev3-air-2025-precio-ficha-tecnica-interior-oficial.webp",
-        alt: "Habitáculo del Kia EV3",
+        alt: "Interior del Kia EV3",
         ancho: 1200,
         alto: 800
       },

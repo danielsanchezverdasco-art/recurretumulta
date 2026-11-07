@@ -91,7 +91,7 @@ export const MOTOS_NUEVOS_M5: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Piaggio España, sin plan de mantenimiento difundido para la gama 1 eléctrica",
+      fuente: "Piaggio España: sin plan de mantenimiento publicado para la gama 1 eléctrica",
     },
   },
   {
@@ -134,7 +134,7 @@ export const MOTOS_NUEVOS_M5: MotoComparador[] = [
       "Zeeho es la submarca eléctrica de CFMOTO, que fabrica motores para KTM",
       "Su presentación internacional se hizo en Barcelona, con la AE6+ como modelo de acceso",
       "Las baterías son de litio ATL (Amperex Technology), proveedor de grandes marcas de electrónica",
-      "En España se vende mediante la red de KTM España y CFMOTO",
+      "En España se vende a través de la red de KTM España y CFMOTO",
     ],
     imagen: "/media/motos/zeeho-ae6-plus-2025-ficha-tecnica-precio-oficial.webp",
     galeria: [
@@ -175,7 +175,7 @@ export const MOTOS_NUEVOS_M5: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Zeeho España, sin plan de mantenimiento difundido para la AE6+",
+      fuente: "Zeeho España: sin plan de mantenimiento publicado para la AE6+",
     },
   },
   {
@@ -245,7 +245,7 @@ export const MOTOS_NUEVOS_M5: MotoComparador[] = [
     analisisSlug: "seat-mo-125-performance-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "12 meses o 5.000 km",
+      intervalo: "12 meses o 5.000 km (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión anual",
@@ -268,7 +268,7 @@ export const MOTOS_NUEVOS_M5: MotoComparador[] = [
     modelo: "e-Divine",
     version: "e-Divine 2025",
     categoria: "Scooter",
-    precioDesde: 3995,
+    precioDesde: 3895,
     potenciaKw: 3,
     potenciaCv: 4.1,
     autonomiaKm: 100,

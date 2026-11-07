@@ -115,7 +115,7 @@ export const AUTOCARAVANAS_ELNAGH_M4: Autocaravana[] = [
 
       PRECIO Y RED COMERCIAL EN ESPAÑA. Elnagh no publica PVP oficial para España, de modo que
       las referencias son de otros mercados: la unidad 2026 anunciada en Dinamarca se ofrecía por
-      1.053.000 coronas danesas. En España, la marca se vende a través de la red de
+      1.053.000 coronas danesas. En España, la marca se comercializa a través de la red de
       concesionarios del grupo SEA, y el precio se cotiza por unidad según equipamiento y packs.
       Como orientación, los semintegrales italianos equivalentes de 7,45 metros se mueven en
       España en la franja de los 65.000–80.000 €.
@@ -156,7 +156,7 @@ export const AUTOCARAVANAS_ELNAGH_M4: Autocaravana[] = [
     ],
     analisisSlug: "elnagh-t-loft-532-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: 2 años / 40.000 km",
+      intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Elnagh (anual recomendada)", queSeCambia: "Estanqueidad, gas/diésel, electricidad, humedades", costeAproxEur: 250 },
@@ -304,7 +304,7 @@ export const AUTOCARAVANAS_ELNAGH_M4: Autocaravana[] = [
     ],
     analisisSlug: "elnagh-baron-573-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: 2 años / 40.000 km",
+      intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato 2.2)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Elnagh (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

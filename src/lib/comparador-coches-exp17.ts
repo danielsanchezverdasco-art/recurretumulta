@@ -66,7 +66,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 420,
       costeMensualTotal: 309,
       notas:
-        "15.000 km/año; diésel 1,55 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -197,7 +197,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 289,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -273,7 +273,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 550,
       costeMensualTotal: 363,
       notas:
-        "15.000 km/año; diésel 1,55 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -296,7 +296,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/volkswagen-golf-variant-r-line-20-tsi-2026-precio-ficha-tecnica-1.webp",
+    imagenOficial: "/media/volkswagen-golf-variant-r-line-20-tsi-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
@@ -349,28 +349,22 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 232,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
       {
-        src: "/media/volkswagen-golf-variant-r-line-20-tsi-2026-precio-ficha-tecnica-2.webp",
-        alt: "Volkswagen Golf Variant R-Line, foto 2",
-        ancho: 1024,
-        alto: 670,
+        src: "/media/volkswagen-golf-variant-r-line-20-tsi-2026-precio-ficha-tecnica-hero.webp",
+        alt: "Volkswagen Golf Variant R-Line 2.0 TSI 2026 en carretera",
+        ancho: 1920,
+        alto: 1280,
       },
       {
-        src: "/media/volkswagen-golf-variant-r-line-20-tsi-2026-precio-ficha-tecnica-3.webp",
-        alt: "Volkswagen Golf Variant R-Line, foto 3",
-        ancho: 1203,
-        alto: 802,
+        src: "/media/volkswagen-golf-variant-r-line-20-tsi-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Volkswagen Golf Variant R-Line 2026, vista lateral",
+        ancho: 1920,
+        alto: 1280,
       },
-      {
-        src: "/media/volkswagen-golf-variant-r-line-20-tsi-2026-precio-ficha-tecnica-4.webp",
-        alt: "Volkswagen Golf Variant R-Line, foto 4",
-        ancho: 1200,
-        alto: 676,
-      }
     ],
     euroncap: {
       estrellas: 5,
@@ -379,7 +373,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la reevaluación del Golf 8 (2022).",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km; servicio flexible LongLife hasta 24 meses o 30.000 km",
+      intervalo: "12 meses o 15.000 km (lo que ocurra antes); servicio flexible LongLife hasta 24 meses o 30.000 km",
       revisiones: [
         {
           nombre: "Servicio anual / 15.000 km",
@@ -393,7 +387,7 @@ export const COCHES_EXP17: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan de servicio Volkswagen (fijo 15 en concreto.000 km/12 meses; flexible LongLife de hecho 30.000 km/24 meses)",
+      fuente: "Plan de servicio Volkswagen (fijo 15.000 km/12 meses; flexible LongLife 30.000 km/24 meses)",
     },
     fuenteNombre: "auto-data.net / tufichatecnica.com",
     fuenteUrl: "https://www.auto-data.net/es/volkswagen-golf-viii-variant-facelift-2024-2.0-tsi-204hp-4motion-dsg-54657",
@@ -456,7 +450,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 380,
       costeMensualTotal: 278,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -532,7 +526,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 196,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -555,7 +549,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/volkswagen-t-cross-15-tsi-2026-precio-ficha-tecnica-1.webp",
+    imagenOficial: "/media/volkswagen-t-cross-15-tsi-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
@@ -608,28 +602,22 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 270,
       costeMensualTotal: 198,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
       {
-        src: "/media/volkswagen-t-cross-15-tsi-2026-precio-ficha-tecnica-2.webp",
-        alt: "Volkswagen T-Cross, foto 2",
-        ancho: 1600,
-        alto: 1066,
+        src: "/media/volkswagen-t-cross-15-tsi-2026-precio-ficha-tecnica-hero.webp",
+        alt: "Volkswagen T-Cross 1.5 TSI 2026 en calle urbana",
+        ancho: 1920,
+        alto: 1280,
       },
       {
-        src: "/media/volkswagen-t-cross-15-tsi-2026-precio-ficha-tecnica-3.webp",
-        alt: "Volkswagen T-Cross, foto 3",
-        ancho: 1600,
-        alto: 1066,
+        src: "/media/volkswagen-t-cross-15-tsi-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Volkswagen T-Cross R-Line 2026, tres cuartos trasero",
+        ancho: 1920,
+        alto: 1280,
       },
-      {
-        src: "/media/volkswagen-t-cross-15-tsi-2026-precio-ficha-tecnica-4.webp",
-        alt: "Volkswagen T-Cross, foto 4",
-        ancho: 1600,
-        alto: 1066,
-      }
     ],
     euroncap: {
       estrellas: 3,
@@ -638,7 +626,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       nota: "3 estrellas EuroNCAP en la reevaluación de 2025 con el protocolo actual; la prueba original de 2019 obtuvo 5 estrellas.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km; servicio flexible LongLife hasta 24 meses o 30.000 km",
+      intervalo: "12 meses o 15.000 km (lo que ocurra antes); servicio flexible LongLife hasta 24 meses o 30.000 km",
       revisiones: [
         {
           nombre: "Servicio anual / 15.000 km",
@@ -652,10 +640,10 @@ export const COCHES_EXP17: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan de servicio Volkswagen (fijo asimismo 15.000 km/12 meses; flexible en concreto LongLife 30.000 km/24 meses de hecho)",
+      fuente: "Plan de servicio Volkswagen (fijo 15.000 km/12 meses; flexible LongLife 30.000 km/24 meses)",
     },
-    fuenteNombre: "coches.net (ficha técnica JATO)",
-    fuenteUrl: "https://www.coches.net/fichas_tecnicas/volkswagen/t-cross/",
+    fuenteNombre: "movento.es (ficha oficial Volkswagen) / coches.net (JATO)",
+    fuenteUrl: "https://www.movento.es/es/coches-ocasion/ficha/volkswagen-t-cross-gasolina-150-ocasion-en-barcelona/90315305",
   },
   {
     id: "volkswagen-tayron-15-etsi-2026-precio-ficha-tecnica",
@@ -715,7 +703,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 216,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -738,7 +726,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/volkswagen-tayron-20-tsi-2026-precio-ficha-tecnica-1.webp",
+    imagenOficial: "/media/volkswagen-tayron-20-tsi-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
     videoId: null,
     videoCanal: null,
@@ -746,7 +734,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     modelo: "Tayron R-Line 2.0 TSI",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: 50770,
+    precioDesde: 53380,
     potenciaCv: 204,
     autonomiaKm: null,
     maleteroL: 885,
@@ -779,7 +767,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: 320,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precioDesde", "ceroCien"],
+    aprox: [],
     imagen: "/media/volkswagen-tayron-20-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -791,28 +779,22 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 257,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
       {
-        src: "/media/volkswagen-tayron-20-tsi-2026-precio-ficha-tecnica-2.webp",
-        alt: "Volkswagen Tayron, foto 2",
-        ancho: 1600,
-        alto: 1066,
+        src: "/media/volkswagen-tayron-20-tsi-2026-precio-ficha-tecnica-hero.webp",
+        alt: "Volkswagen Tayron 2.0 TSI 2026 en pista forestal",
+        ancho: 1920,
+        alto: 1280,
       },
       {
-        src: "/media/volkswagen-tayron-20-tsi-2026-precio-ficha-tecnica-3.webp",
-        alt: "Volkswagen Tayron, foto 3",
-        ancho: 1600,
-        alto: 1068,
+        src: "/media/volkswagen-tayron-20-tsi-2026-precio-ficha-tecnica-oficial.webp",
+        alt: "Volkswagen Tayron R-Line 2026, frontal deportivo",
+        ancho: 1920,
+        alto: 1280,
       },
-      {
-        src: "/media/volkswagen-tayron-20-tsi-2026-precio-ficha-tecnica-4.webp",
-        alt: "Volkswagen Tayron, foto 4",
-        ancho: 1600,
-        alto: 900,
-      }
     ],
     euroncap: {
       estrellas: 5,
@@ -821,7 +803,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       nota: "5 estrellas EuroNCAP en la prueba de 2025.",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km; servicio flexible LongLife hasta 24 meses o 30.000 km",
+      intervalo: "12 meses o 15.000 km (lo que ocurra antes); servicio flexible LongLife hasta 24 meses o 30.000 km",
       revisiones: [
         {
           nombre: "Servicio anual / 15.000 km",
@@ -835,10 +817,10 @@ export const COCHES_EXP17: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Plan de servicio Volkswagen además (fijo 15.000 km/12 meses asimismo; flexible LongLife 30.000 km/24 en concreto meses)",
+      fuente: "Plan de servicio Volkswagen (fijo 15.000 km/12 meses; flexible LongLife 30.000 km/24 meses)",
     },
-    fuenteNombre: "Volkswagen España (nota de prensa oficial)",
-    fuenteUrl: "https://www.volkswagen.es/comunicacion/?p=57404",
+    fuenteNombre: "Volkswagen (nota de prensa oficial) / autonocion.com",
+    fuenteUrl: "https://www.autonocion.com/volkswagen-equipa-motor-tsi-gti-en-passat-tiguan-tayron/",
   },
   {
     id: "skoda-octavia-20-tsi-2026-precio-ficha-tecnica",
@@ -898,7 +880,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 221,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -974,7 +956,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 310,
       costeMensualTotal: 225,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1050,7 +1032,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 246,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1126,7 +1108,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 360,
       costeMensualTotal: 250,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1202,7 +1184,7 @@ export const COCHES_EXP17: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 179,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [

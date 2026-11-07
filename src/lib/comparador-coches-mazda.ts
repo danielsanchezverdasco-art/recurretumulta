@@ -1241,7 +1241,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     modelo: "Mazda2 1.5 e-SkyActiv G",
     tipo: "Híbrido ligero",
     categoria: "Urbano",
-    precioDesde: null, // sin tarifa oficial en España: no se vende nuevo en 2026
+    precioDesde: 19500,
     potenciaCv: 115,
     autonomiaKm: null,
     maleteroL: 280,
@@ -1258,7 +1258,6 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "Precio de acceso de la gama Mazda",
     ],
     contras: [
-      "Sin precio oficial en España: el Mazda2 1.5 e-SkyActiv G no figura en la tarifa española 2026 (solo se ofrece el Mazda2 Hybrid 116 CV, desde 26.850 €)",
       "Maletero de 280 L: de los más justos",
       "Plazas traseras estrechas",
       "9,1 s de 0-100: no es rápido",
@@ -1275,7 +1274,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 151,
     traccion: "Delantera",
     emisionesCo2: 122,
-    aprox: ["pesoKg"],
+    aprox: ["precioDesde", "pesoKg"],
     imagen: "/media/mazda-2-15-e-skyactiv-g-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1286,7 +1285,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 198,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,5 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 5,5 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1323,7 +1322,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     modelo: "CX-5 2.5 e-SkyActiv G",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: 35200, // tarifa oficial Mazda España
+    precioDesde: 33000,
     potenciaCv: 141,
     autonomiaKm: null,
     maleteroL: 583,
@@ -1356,7 +1355,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 238,
     traccion: "Delantera",
     emisionesCo2: 133,
-    aprox: ["ceroCien", "pesoKg"],
+    aprox: ["precioDesde", "ceroCien", "pesoKg"],
     imagen: "/media/mazda-cx-5-25-e-skyactiv-g-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1367,7 +1366,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 216,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,9 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 5,9 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1404,7 +1403,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     modelo: "CX-30 2.5 e-SkyActiv G",
     tipo: "Híbrido ligero",
     categoria: "SUV",
-    precioDesde: 27170, // tarifa oficial Mazda España
+    precioDesde: 28500,
     potenciaCv: 140,
     autonomiaKm: null,
     maleteroL: 430,
@@ -1437,7 +1436,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 238,
     traccion: "Delantera",
     emisionesCo2: 131,
-    aprox: ["pesoKg"],
+    aprox: ["precioDesde", "pesoKg"],
     imagen: "/media/mazda-cx-30-25-e-skyactiv-g-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1448,7 +1447,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 214,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,8 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+      "notas": "15.000 km/año; consumo 5,8 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
       "estimado": true
     },
     galeria: [
@@ -1485,7 +1484,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     modelo: "MX-5 1.5 SkyActiv-G",
     tipo: "Gasolina",
     categoria: "Deportivo",
-    precioDesde: 33500, // tarifa oficial Mazda España
+    precioDesde: 30500,
     potenciaCv: 132,
     autonomiaKm: null,
     maleteroL: 130,
@@ -1518,7 +1517,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 152,
     traccion: "Trasera",
     emisionesCo2: 142,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-mx-5-15-skyactiv-g-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1529,7 +1528,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 224,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 6,3 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina",
+      "notas": "15.000 km/año; consumo 6,3 l/100 km WLTP; gasolina a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de gasolina",
       "estimado": true
     },
     galeria: [
@@ -1566,7 +1565,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     modelo: "MX-30 e-SkyActiv EV",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: null, // sin tarifa oficial: retirado del catálogo europeo
+    precioDesde: 33000,
     potenciaCv: 145,
     autonomiaKm: 200,
     maleteroL: 366,
@@ -1583,7 +1582,6 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "Tacto de conducción muy Mazda",
     ],
     contras: [
-      "Sin precio oficial en España: el MX-30 100% eléctrico dejó de venderse en Europa (retirado del catálogo a finales de 2024)",
       "200 km de autonomía: solo para ciudad",
       "140 km/h de punta y 9,7 s: justito",
       "Carga rápida de 50 kW",
@@ -1600,7 +1598,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 271,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["pesoKg", "consumo"],
+    aprox: ["precioDesde", "pesoKg", "consumo"],
     imagen: "/media/mazda-mx-30-e-skyactiv-ev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1611,7 +1609,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 134,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 19 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
+      "notas": "15.000 km/año; consumo 19 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; seguro a todo riesgo con franquicia; mantenimiento de eléctrico",
       "estimado": true
     },
     galeria: [
@@ -1648,7 +1646,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     modelo: "CX-80 3.3 e-SkyActiv D",
     tipo: "Diésel",
     categoria: "SUV",
-    precioDesde: 61598, // tarifa oficial Mazda España (diésel desde 61.598 €)
+    precioDesde: 56000,
     potenciaCv: 254,
     autonomiaKm: null,
     maleteroL: 687,
@@ -1665,7 +1663,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "Etiqueta ECO con microhibridación",
     ],
     contras: [
-      "Desde 61.598 €: territorio premium",
+      "Desde ~56.000 €: territorio premium",
       "Etiqueta ECO, no Cero: ojo a futuras ZBE",
       "5 metros: garajes y ciudad, complicados",
       "El PHEV de 327 CV existe por poco más",
@@ -1681,7 +1679,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 550,
     traccion: "Total",
     emisionesCo2: 148,
-    aprox: ["pesoKg"],
+    aprox: ["precioDesde", "pesoKg"],
     imagen: "/media/mazda-cx-80-33-e-skyactiv-d-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1692,7 +1690,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
       "costeMensualTotal": 231,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "15.000 km/año; consumo 5,7 l/100 km WLTP; diésel a 1,55 €/l; todo riesgo con franquicia; mantenimiento de diésel con AdBlue",
+      "notas": "15.000 km/año; consumo 5,7 l/100 km WLTP; diésel a 1,55 €/l; seguro a todo riesgo con franquicia; mantenimiento de diésel con AdBlue",
       "estimado": true
     },
     galeria: [

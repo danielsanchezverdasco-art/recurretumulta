@@ -142,7 +142,7 @@ Para quién es: el Itineo PF600 es para quien quiere una perfilada de menos de s
     analisisSlug: "itineo-pf600-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Peugeot Boxer 2.2: 2 años / 40.000 km",
+        "Peugeot Boxer 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Peugeot)",
       revisiones: [
         {
           nombre: "Revisión Peugeot Boxer (2 años / 40.000 km)",

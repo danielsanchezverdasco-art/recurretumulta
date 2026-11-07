@@ -320,7 +320,7 @@ export const COCHES_XPENG: CocheComparador[] = [
       "costeMensualTotal": 147,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo estimado ~19 kWh/100 km (sin dato WLTP publicado por versión); 15.000 km/año; 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
+      "notas": "consumo estimado ~19 kWh/100 km (sin dato WLTP publicado por versión); 15.000 km/año; recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -401,7 +401,7 @@ export const COCHES_XPENG: CocheComparador[] = [
       "costeMensualTotal": 151,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo estimado ~21 kWh/100 km (sin dato WLTP publicado para esta versión); 15.000 km/año; 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
+      "notas": "consumo estimado ~21 kWh/100 km (sin dato WLTP publicado para esta versión); 15.000 km/año; recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [

@@ -11,31 +11,6 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 export const COCHES_EXP9: CocheComparador[] = [
   {
     id: "toyota-yaris-cross-130h-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 4,
-      ano: 2025,
-      url: null,
-      nota: null
-    },
-    planMantenimiento: {
-      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
-      revisiones: [
-        {
-          nombre: "Revisión intermedia / 15.000 km",
-          queSeCambia: "Aceite del motor + filtro de aceite + inspección general + chequeo del sistema híbrido",
-          costeAproxEur: null
-        },
-        {
-          nombre: "Revisión principal / 30.000 km",
-          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan) + chequeo del sistema híbrido",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
-    },
-    fuenteNombre: "Toyota España",
-    fuenteUrl: "https://www.toyota.es/coches/yaris-cross",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -93,31 +68,6 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "toyota-land-cruiser-2026-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP"
-    },
-    planMantenimiento: {
-      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
-      revisiones: [
-        {
-          nombre: "Revisión intermedia / 15.000 km",
-          queSeCambia: "Aceite del motor + filtro de aceite + filtro de combustible (según plan) + inspección general",
-          costeAproxEur: null
-        },
-        {
-          nombre: "Revisión principal / 30.000 km",
-          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de combustible + filtro de polen + líquido de frenos (según plan)",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
-    },
-    fuenteNombre: "Toyota España",
-    fuenteUrl: "https://www.toyota.es/coches/land-cruiser",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -175,31 +125,6 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "toyota-bz4x-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 5,
-      ano: 2025,
-      url: "https://www.euroncap.com/en/results/toyota/bz4x/57986",
-      nota: null
-    },
-    planMantenimiento: {
-      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Inspección del sistema eléctrico y chequeo de salud de la batería de tracción + filtro de polen + inspección general (sin cambio de aceite: motor eléctrico)",
-          costeAproxEur: null
-        },
-        {
-          nombre: "Revisión / 30.000 km",
-          queSeCambia: "Inspección del sistema eléctrico y chequeo de salud de la batería de tracción + filtro de polen + líquido de frenos (según plan)",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Programa de mantenimiento Toyota España para eléctricos (revisión anual o 15.000 km)"
-    },
-    fuenteNombre: "Toyota España",
-    fuenteUrl: "https://www.toyota.es/coches/bz4x",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -221,18 +146,18 @@ export const COCHES_EXP9: CocheComparador[] = [
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
     pros: [
-      "El Toyota bZ4X Advance 2025 entrega 224 CV y hasta 569 km WLTP con la batería de 73,1 kWh.",
-      "Su carga rápida de 150 kW en continua y 22 kW en alterna hace práctico al Toyota bZ4X Advance 2025 en viajes.",
-      "La batería del Toyota bZ4X Advance 2025 conserva más del 70 por ciento de capacidad tras 10 años o 1 millón de km.",
-      "La garantía de batería del Toyota bZ4X Advance 2025 es de 8 años o 160.000 km, un respaldo serio.",
-      "El preacondicionamiento térmico de la batería del Toyota bZ4X Advance 2025 viene de serie, algo clave en invierno.",
+      "224 CV y hasta 569 km WLTP con la batería de 73,1 kWh",
+      "Carga rápida de 150 kW en continua y 22 kW en alterna",
+      "Batería con más del 70 % de capacidad tras 10 años o 1 millón de km",
+      "Garantía de batería de 8 años o 160.000 km",
+      "Preacondicionamiento térmico de la batería de serie",
     ],
     contras: [
-      "El Toyota bZ4X Advance 2025 parte de 43.000 euros, caro frente a rivales chinos equivalentes.",
-      "El maletero de 452 litros del Toyota bZ4X Advance 2025 es justo para el segmento de SUV familiares.",
-      "La carga en continua del Toyota bZ4X Advance 2025 se queda en 150 kW, cuando rivales llegan a más de 200.",
-      "El interior del Toyota bZ4X Advance 2025 es continuista respecto al modelo anterior, sin sorpresas.",
-      "La versión de acceso del Toyota bZ4X Advance 2025, con 57,7 kWh, pierde mucha autonomía frente a la de 73,1.",
+      "Desde 43.000 €: caro frente a rivales chinos equivalentes",
+      "Maletero de 452 litros, justo para el segmento",
+      "La carga en continua se queda en 150 kW (rivales llegan a 200+)",
+      "Interior continuista respecto al modelo anterior",
+      "La versión de acceso de 57,7 kWh pierde mucha autonomía",
     ],
     largoMm: 4690,
     anchoMm: 1860,
@@ -257,31 +182,6 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "toyota-gr86-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP"
-    },
-    planMantenimiento: {
-      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
-      revisiones: [
-        {
-          nombre: "Revisión intermedia / 15.000 km",
-          queSeCambia: "Aceite del motor + filtro de aceite + inspección general",
-          costeAproxEur: null
-        },
-        {
-          nombre: "Revisión principal / 30.000 km",
-          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan)",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
-    },
-    fuenteNombre: "Toyota España",
-    fuenteUrl: "https://www.toyota.es/coches/gr86",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -396,31 +296,6 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "toyota-corolla-5p-140h-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 5,
-      ano: 2019,
-      url: null,
-      nota: null
-    },
-    planMantenimiento: {
-      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
-      revisiones: [
-        {
-          nombre: "Revisión intermedia / 15.000 km",
-          queSeCambia: "Aceite del motor + filtro de aceite + inspección general + chequeo del sistema híbrido",
-          costeAproxEur: null
-        },
-        {
-          nombre: "Revisión principal / 30.000 km",
-          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan) + chequeo del sistema híbrido",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
-    },
-    fuenteNombre: "Toyota España",
-    fuenteUrl: "https://www.toyota.es/coches/corolla",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -592,26 +467,6 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "kia-sportage-hev-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 5,
-      ano: 2022,
-      url: null,
-      nota: "Prueba del Kia Sportage, 2022"
-    },
-    planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
-      revisiones: [
-        {
-          nombre: "Revisión anual / 15.000 km",
-          queSeCambia: "Aceite, filtros, inspección general y chequeo del sistema híbrido",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
-    fuenteNombre: "Kia España",
-    fuenteUrl: "https://www.kia.com/es/modelos/sportage/descubrelo/",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -669,26 +524,6 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "kia-ev9-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 5,
-      ano: 2023,
-      url: null,
-      nota: "Prueba del Kia EV9, 2023"
-    },
-    planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
-      revisiones: [
-        {
-          nombre: "Revisión bienal / 30.000 km",
-          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
-    fuenteNombre: "Kia España",
-    fuenteUrl: "https://www.kia.com/es/modelos/ev9/descubrelo/",
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -746,26 +581,6 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "kia-ev2-2026-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 5,
-      ano: 2026,
-      url: null,
-      nota: "Prueba del Kia EV2, 2026 (5 estrellas con los protocolos Euro NCAP 2026)"
-    },
-    planMantenimiento: {
-      intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
-      revisiones: [
-        {
-          nombre: "Revisión bienal / 30.000 km",
-          queSeCambia: "Filtro de habitáculo, líquidos e inspección general",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Kia España"
-    },
-    fuenteNombre: "Kia España",
-    fuenteUrl: "https://www.kia.com/es/modelos/ev2/descubrelo/",
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -994,29 +809,6 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "toyota-camry-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado por Euro NCAP"
-    },
-    planMantenimiento: {
-      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
-      revisiones: [
-        {
-          nombre: "Revisión intermedia / 15.000 km",
-          queSeCambia: "Aceite del motor + filtro de aceite + inspección general + chequeo del sistema híbrido",
-          costeAproxEur: null
-        },
-        {
-          nombre: "Revisión principal / 30.000 km",
-          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan) + chequeo del sistema híbrido",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
-    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1038,18 +830,18 @@ export const COCHES_EXP9: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "El Toyota Camry entrega 231 CV con el sistema híbrido de quinta generación, el más refinado de Toyota.",
-      "La berlina híbrida de referencia vuelve a Europa con el Toyota Camry, tras años de ausencia.",
-      "La etiqueta ECO del Toyota Camry facilita su uso diario en ciudad y en zonas de bajas emisiones.",
-      "El Toyota Safety Sense 3.0 del Toyota Camry viene de serie, con el paquete completo de asistencias.",
-      "El confort de marcha del Toyota Camry es el propio de una berlina grande, silenciosa y estable en viaje.",
+      "231 CV con el sistema híbrido de 5.ª generación",
+      "La berlina híbrida de referencia vuelve a Europa",
+      "Etiqueta ECO de la DGT",
+      "Toyota Safety Sense 3.0 de serie",
+      "Confort de marcha de berlina grande",
     ],
     contras: [
-      "El precio del Toyota Camry en España aún no está confirmado oficialmente, así que no hay PVP al que atenerse.",
-      "El Toyota Camry solo se ofrece con carrocería berlina, sin familiar para quien necesita más carga.",
-      "El maletero del Toyota Camry pierde capacidad frente a rivales diésel de su segmento.",
-      "El diseño del Toyota Camry es continuista respecto a la generación anterior, sin sorpresas estéticas.",
-      "El Toyota Camry no tiene versión enchufable, así que no opta a la etiqueta Cero ni a sus ventajas.",
+      "Precio en España aún sin confirmar oficialmente",
+      "Solo con carrocería berlina, sin familiar",
+      "El maletero pierde capacidad frente a rivales diésel",
+      "Diseño continuista respecto a la generación anterior",
+      "Sin versión enchufable",
     ],
     largoMm: null,
     anchoMm: null,
@@ -1074,31 +866,6 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "toyota-corolla-sedan-140h-2025-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 5,
-      ano: 2019,
-      url: null,
-      nota: "Prueba del Toyota Corolla, 2019"
-    },
-    planMantenimiento: {
-      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
-      revisiones: [
-        {
-          nombre: "Revisión intermedia / 15.000 km",
-          queSeCambia: "Aceite del motor + filtro de aceite + inspección general + chequeo del sistema híbrido",
-          costeAproxEur: null
-        },
-        {
-          nombre: "Revisión principal / 30.000 km",
-          queSeCambia: "Aceite del motor + filtro de aceite + filtro de aire + filtro de polen + líquido de frenos (según plan) + chequeo del sistema híbrido",
-          costeAproxEur: null
-        }
-      ],
-      costeAnualAproxEur: null,
-      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
-    },
-    fuenteNombre: "Toyota España",
-    fuenteUrl: "https://www.toyota.es/coches/corolla-sedan",
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1121,7 +888,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "Desde 31.400 €: la berlina híbrida más barata del mercado",
-      "consumo homologado WLTP de 4,6 l/100 km",
+      "Consumo WLTP de 4,6 l/100 km",
       "Maletero de 471 litros, el mayor de la gama Corolla",
       "Etiqueta ECO y fiabilidad Toyota legendaria",
       "Ideal para taxistas y flotas: costes de uso mínimos",
@@ -1294,7 +1061,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     etiquetaDgt: "ECO",
     pros: [
       "Desde 24.715 €: uno de los compactos más baratos con ECO",
-      "consumo homologado WLTP de 5,3 l/100 km",
+      "Consumo WLTP de 5,3 l/100 km",
       "Chasis de referencia: el más divertido de conducir de su clase",
       "Acabado ST-Line con estética deportiva",
       "Descuentos oficiales superiores a 6.000 €",
@@ -1745,7 +1512,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin test EuroNCAP",
+      nota: "Sin datos EuroNCAP: modelo no probado",
     },
     planMantenimiento: {
       intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
@@ -2054,7 +1821,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       "El equilibrio perfecto entre consumo y prestaciones",
     ],
     contras: [
-      "precio en España aún sin confirmar por la marca",
+      "Precio en España sin confirmar por la marca",
       "Los diésel 320d siguen siendo más eficientes",
       "El 330i ofrece mucho más por poco más",
       "Equipamiento de serie mejorable para el segmento",
@@ -2334,7 +2101,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       "Posición de conducción elevada y buen acceso",
     ],
     contras: [
-      "precio en España aún sin confirmar por la marca",
+      "Precio en España sin confirmar por la marca",
       "El maletero pierde capacidad frente al GLA térmico",
       "Peso extra del sistema híbrido enchufable",
       "Carga en corriente alterna, sin carga rápida DC",
@@ -2363,13 +2130,13 @@ export const COCHES_EXP9: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el GLA (H247) no ha sido probado de forma independiente",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (Service A/B alternos)",
+      intervalo: "12 meses o 15.000 km (Service A/B alternos), lo que ocurra antes",
       revisiones: [
         { nombre: "Service A / 15.000 km", queSeCambia: "Aceite + filtro de aceite + inspección general", costeAproxEur: 300 },
-        { nombre: "Service B / 30.000 km", queSeCambia: "Service A, filtro de aire, filtro del habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: 480 },
+        { nombre: "Service B / 30.000 km", queSeCambia: "Service A + filtro de aire, filtro de habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: 480 },
       ],
       costeAnualAproxEur: 480,
-      fuente: "Mercedes-Benz y su intervalo oficial (Service A/B)",
+      fuente: "Mercedes-Benz (intervalo oficial Service A/B)",
     },
     galeria: [
       {
@@ -2449,13 +2216,13 @@ export const COCHES_EXP9: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: el GLE (V167 / 2026) no ha sido probado de forma independiente",
     },
     planMantenimiento: {
-      intervalo: "12 meses o 15.000 km (Service A/B alternos)",
+      intervalo: "12 meses o 15.000 km (Service A/B alternos), lo que ocurra antes",
       revisiones: [
         { nombre: "Service A / 15.000 km", queSeCambia: "Aceite + filtro de aceite + inspección general", costeAproxEur: 350 },
-        { nombre: "Service B / 30.000 km", queSeCambia: "Service A, filtro de aire, filtro del habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: 550 },
+        { nombre: "Service B / 30.000 km", queSeCambia: "Service A + filtro de aire, filtro de habitáculo, líquido de frenos e inspección ampliada", costeAproxEur: 550 },
       ],
       costeAnualAproxEur: 550,
-      fuente: "Mercedes-Benz y su intervalo oficial (Service A/B)",
+      fuente: "Mercedes-Benz (intervalo oficial Service A/B)",
     },
     galeria: [
       { src: "/media/mercedes-gle-450-e-2026-precio-ficha-tecnica-hunt1.webp", alt: "Service A / 15.000 km (foto: EV Pulse, licencia desconocida)", ancho: 1600, alto: 1066 },
@@ -2809,7 +2576,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       "El referente sueco en confort y seguridad",
     ],
     contras: [
-      "precio en España aún sin confirmar por la marca",
+      "Precio en España sin confirmar por la marca",
       "Solo tracción delantera en el B5 gasolina",
       "El T8 Recharge enchufable tiene etiqueta CERO",
       "Consumo NEDC de 5,9 l/100 km, optimista",
@@ -2878,7 +2645,7 @@ export const COCHES_EXP9: CocheComparador[] = [
       "Calidad de materiales premium escandinava",
     ],
     contras: [
-      "precio en España aún sin confirmar por la marca",
+      "Precio en España sin confirmar por la marca",
       "El S60 deja paso al eléctrico ES60",
       "Velocidad limitada a 180 km/h",
       "Maletero justo para la categoría",
@@ -2930,7 +2697,7 @@ export const COCHES_EXP9: CocheComparador[] = [
     modelo: "Swift 1.2 Mild Hybrid S2 83 CV",
     tipo: "Híbrido ligero",
     categoria: "Utilitario",
-    precioDesde: 21005,
+    precioDesde: 20550,
     potenciaCv: 83,
     autonomiaKm: null,
     maleteroL: 265,

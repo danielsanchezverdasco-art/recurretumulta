@@ -66,7 +66,7 @@ export default function ComunidadPage() {
           "@id": `https://recurretumulta.online/comunidades/${c.slug}`,
           "url": `https://recurretumulta.online/comunidades/${c.slug}`,
           "name": `Multas de tráfico en ${c.nombre}: guía autonómica — RecurreTuMulta.online`,
-          "description": `Guía autonómica para recurrir multas de tráfico en ${c.nombre}. Organismo competente: ${c.organismoNombre}. Análisis IA gratis, plan anual de 7,99 €/año.`,
+          "description": `Guía autonómica para recurrir multas de tráfico en ${c.nombre}. Organismo competente: ${c.organismoNombre}. Análisis IA gratis, recurso PDF por 4,99€.`,
           "inLanguage": "es-ES",
           "isPartOf": { "@id": "https://recurretumulta.online/#website" },
           "breadcrumb": {
@@ -217,16 +217,6 @@ export default function ComunidadPage() {
               {c.descripcion}
             </p>
           </div>
-          {c.slug === "madrid" && (
-            <p className="mt-2 text-sm text-gray-700 leading-relaxed">
-              Si tu multa es urbana (SER, ZBE, aparcamiento), la tramita el Ayuntamiento: consulta las <Link to="/multas/madrid/" className="font-medium text-red-700 underline">multas del Ayuntamiento de Madrid</Link>.
-            </p>
-          )}
-          {c.slug === "murcia" && (
-            <p className="mt-2 text-sm text-gray-700 leading-relaxed">
-              Si tu multa es urbana (ORA, aparcamiento), la tramita el Ayuntamiento: consulta las <Link to="/multas/murcia/" className="font-medium text-red-700 underline">multas del Ayuntamiento de Murcia</Link>.
-            </p>
-          )}
 
           {/* Datos oficiales por CCAA (DGT, Anuario 2024, ficheros abiertos de radares) */}
           {datosOf && (
@@ -317,7 +307,7 @@ export default function ComunidadPage() {
                 },
                 {
                   n: "3",
-                  title: "Recibe el recurso preparado con guía paso a paso y envíalo tú (plan anual 7,99 €/año)",
+                  title: "Descarga el recurso PDF listo para enviar (4,99€)",
                   desc: "El PDF incluye todos los argumentos en lenguaje jurídico, con referencias exactas a la LTSV, el RPSANVI y la jurisprudencia del Tribunal Supremo.",
                 },
                 {

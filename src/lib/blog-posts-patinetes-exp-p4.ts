@@ -10,9 +10,9 @@ export const PATINETES_EXP_P4_POSTS: BlogPost[] = [
   // ─────────────────────────── BOGIST (6) ───────────────────────────
   {
     slug: "bogist-m1-elite",
-    title: "Bogist M1 Elite: patinete urbano básico por ~275 €",
+    title: "Bogist M1 Elite: el patinete barato de 250 W",
     excerpt:
-      "Bogist M1 Elite: 250 W, 281 Wh y 8,5 pulgadas por unos 275 €. Para qué sirve, qué le falta y qué verificar antes de comprarlo.",
+      "El Bogist M1 Elite es la puerta de entrada a la marca: motor de 250 W, batería de 281 Wh y precio de unos 275 € con almacén en la UE.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -29,25 +29,11 @@ export const PATINETES_EXP_P4_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/patinetes/bogist-m1-elite-1.webp alt=Bogist M1 Elite negro, vista lateral completa del patinete>
 
-Si buscas gastar lo mínimo para moverte por ciudad sin depender del coche en desplazamientos cortos, este modelo chino merece una mirada atenta.
+**¿Buscas solo los datos?** <a href=/patinetes/bogist-m1-elite/>Ver ficha técnica del Bogist M1 Elite</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Su motor rinde 250 W y su acumulador suma 36 V y 7,8 Ah, con una energía total de 281 Wh y ruedas de 8,5 pulgadas.
+El **Bogist M1 Elite** es el modelo más asequible de la marca china Bogist: un urbano de **250 W** con batería de **36 V y 7,8 Ah (281 Wh)** que se vende por **unos 275 €** con opción de envío desde almacén europeo (<a href=https://www.gleeride.com/products/bogist-m1-elite-8-5-folding-electric-scooter-250w-motor-36v-7-8ah-battery>Gleeride</a>). No pretende ser el más potente ni el de más autonomía: pretende ser el más barato para quien empieza.
 
-**¿Solo quieres las cifras?** <a href=/patinetes/bogist-m1-elite/>Consulta la ficha del M1 Elite</a> y <a href=/comparador-patinetes/>contrástalo con otros modelos</a>.
-
-## ¿A quién le puede encajar?
-
-Está pensado para trayectos breves y llanos: ir a la estación, cubrir el tramo entre aparcamiento y oficina o resolver un recado cercano sin arrancar el coche.
-
-Si tu recorrido habitual supera esa lógica —distancias largas, pendientes marcadas o firme en mal estado— este patinete se quedará corto enseguida.
-
-Bogist no cuenta con tiendas propias en España como Xiaomi o Segway: se compra a través de distribuidores en línea europeos, como Gleeride.
-
-Dentro de su gama, el M1 Elite ocupa el escalón de entrada, por debajo del M3 Pro de 350 W y a distancia de los modelos con sillín, el C1 Pro y el M5 Pro.
-
-## Los datos esenciales de un vistazo
-
-Estos son los números clave, reunidos en una sola tabla:
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -57,11 +43,27 @@ Estos son los números clave, reunidos en una sola tabla:
 | **Velocidad máxima** | ≈25 km/h |
 | **Ruedas** | 8,5 pulgadas |
 
-Para el detalle completo, <a href=/patinetes/bogist-m1-elite/>abre la ficha completa del M1 Elite</a>.
+¿Quieres el detalle completo? <a href=/patinetes/bogist-m1-elite/>Ficha técnica completa del Bogist M1 Elite</a> con todos los datos verificados.
 
-## Lo bueno y lo que flojea
+## Precio del Bogist M1 Elite en España
 
-El equilibrio del modelo se entiende mejor poniendo en una balanza lo que aporta y lo que se echa en falta:
+Se vende por **unos 275 €** (299 $) en distribuidores con almacén en la UE, lo que evita aduanas y esperas. A ese precio compite con los patinetes de supermercado, pero con una marca que al menos tiene catálogo y repuestos identificables.
+
+<img src=/media/patinetes/bogist-m1-elite-2.webp alt=Detalle del manillar y la pantalla del Bogist M1 Elite>
+
+## Autonomía real vs declarada
+
+El fabricante no publica cifra oficial de autonomía. Con 281 Wh y 250 W, en ciudad y con un rider de peso medio es razonable esperar **entre 12 y 18 km reales**: suficiente para ir al trabajo si vives a menos de 8 km, justo para más.
+
+## Frenos y neumáticos
+
+Bogist no publica el sistema de frenado del M1 Elite. Monta ruedas de **8,5 pulgadas**, el estándar urbano: ágiles pero justas en adoquines. Si tus calles están mal, mira el M3 Pro con amortiguadores.
+
+## Certificado DGT y normativa VMP
+
+Sin certificado DGT verificado. Como VMP, debe circular a un máximo de **25 km/h**, siempre por **carril bici o calzada** donde esté permitido y nunca por la **acera**. El casco es obligatorio en muchas ordenanzas municipales: consúltala de tu ciudad.
+
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -71,11 +73,15 @@ El equilibrio del modelo se entiende mejor poniendo en una balanza lo que aporta
 | Ruedas de 8,5": ágil en ciudad | Sin datos de frenos publicados |
 | Plegable para el día a día | Soporte limitado al vendedor |
 
-En resumen: precio contenido y formato urbano a cambio de potencia justa, información incompleta y una marca con poca presencia en España.
+<img src=/media/patinetes/bogist-m1-elite-3.webp alt=Bogist M1 Elite circulando por ciudad>
 
-## Dentro del patinete
+## Bogist, una marca de escaparate digital y gama escalonada
 
-El conjunto se define por tres cifras: potencia contenida, energía moderada y rueda pequeña. A eso se suma una frenada mixta y un tiempo de recarga largo, pensado para enchufar por la noche o al llegar al domicilio.
+Bogist no se vende en España como Xiaomi o Segway: su escaparate son distribuidores en línea europeos, como Gleeride. En su catálogo, el M1 Elite es el escalón de acceso, bajo el M3 Pro de 350 W y lejos de los modelos con sillín C1 Pro y M5 Pro. Comprueba, por unos 275 € orientativos, si el patinete encaja en tu rutina.
+
+## Qué esconde el conjunto de 250 W y 281 Wh
+
+Motor de **250 W**, batería de **36 V y 7,8 Ah** y ruedas de **8,5 pulgadas** definen un urbano de llano. La <a href=/patinetes/bogist-m1-elite/>ficha técnica del Bogist M1 Elite</a> añade lo que la venta apenas subraya: ruedas macizas de panal, freno electrónico con disco trasero de 110 mm y carga de 5 a 7 horas.
 
 | Elemento | Dato | Qué implica |
 |---|---|---|
@@ -85,39 +91,23 @@ El conjunto se define por tres cifras: potencia contenida, energía moderada y r
 | Frenada | Electrónico y disco 110 mm | Distancia orientativa de 5 a 9 m |
 | Carga | 5-7 horas | Enchufarlo al llegar a casa |
 
-La rueda maciza evita pinchazos, aunque transmite más vibración sobre baldosas que una cubierta con aire. En asfalto liso, en cambio, esa diferencia casi desaparece.
+Esa rueda vibra más que una neumática sobre baldosas, aunque en asfalto liso apenas se nota.
 
-Para contrastar cada cifra, <a href=/patinetes/bogist-m1-elite/>revisa todos los datos del M1 Elite</a> en su ficha.
+## Uso diario: corto, plano y con buen firme
 
-## Cuánto cuesta y dónde se compra
+Su terreno: casa-estación, aparcamiento-trabajo o un encargo sin sacar el coche. Con **12 a 18 km reales**, una ida de 4 o 5 km deja margen en llano. Superando los 75 kg o encadenando rampas, el motor pedirá ayuda con el pie. Plegable bajo un escritorio, da agilidad, pero estabilidad justa en firme roto.
 
-Su precio ronda los 275 €, equivalentes a 299 $, cuando se adquiere a través de tiendas con stock dentro de la Unión Europea. Esa vía evita trámites aduaneros y acorta la espera.
+## Mantenimiento sencillo, repuestos por localizar
 
-Puedes revisar la oferta en <a href=https://www.gleeride.com/products/bogist-m1-elite-8-5-folding-electric-scooter-250w-motor-36v-7-8ah-battery>Gleeride</a>.
+Sin cámaras ni presiones que vigilar, el cuidado se concentra en disco, juego del plegado, tornillería y cableado visible. No guardes la batería descargada semanas ni enchufada permanentemente, y usa su cargador original.
 
-A esa cantidad hay que añadir la cautela habitual con marcas poco extendidas: conviene confirmar por escrito certificado y disponibilidad de repuestos antes de pagar.
+No citamos coste de consumibles: no hay tarifa española verificada. El riesgo es la disponibilidad; sin red local, pantalla o controlador dependerán del vendedor. Guarda factura y número de serie. La ficha anota funciones por aplicación —crucero, bloqueo, arranque— a confirmar en la unidad recibida.
 
-<img src=/media/patinetes/bogist-m1-elite-2.webp alt=Detalle del manillar y la pantalla del Bogist M1 Elite>
+## Certificación DGT: resuélvelo antes de pagar
 
-## Hasta dónde llega con una carga
+En nuestra ficha, su certificado DGT figura sin verificar. La <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/matricular-un-vehiculo/inscripcion-vmp/>página de inscripción de VMP de la DGT</a> recuerda que deben tener certificado de inscripción en el Registro de vehículos personales ligeros y etiqueta identificativa, y que los no certificados tienen régimen transitorio hasta el 22 de enero de 2027. Pide el número por escrito y contrástalo. Precio bajo no rebaja normas: máximo de **25 km/h** y nada de aceras.
 
-Bogist no comunica una distancia homologada para este modelo. A partir de sus 281 Wh, un uso urbano normal permite situar la distancia práctica entre 12 y 18 km.
-
-Eso cubre con holgura un trayecto de ida de 4 o 5 km en llano, pero deja poco margen si encadenas subidas o si el conductor supera los 75 kg.
-
-En rampas largas, el empuje resulta limitado y puede hacer falta impulsar con el pie.
-
-## Cómo se comporta en la calle
-
-Las ruedas de 8,5 pulgadas lo hacen ágil entre el tráfico urbano, pero justas cuando el pavimento está deteriorado o hay adoquines.
-
-Bogist no detalla el sistema de frenado en su información comercial, aunque la ficha añade freno electrónico y disco trasero de 110 mm.
-
-Su carácter plegable facilita guardarlo bajo un escritorio o llevarlo en el transporte, aunque la estabilidad no es su punto fuerte sobre firme roto.
-
-## Frente a otros modelos baratos
-
-Frente a rivales de precio parecido, el M1 Elite no destaca por potencia ni por energía, pero tampoco se dispara de precio. La tabla siguiente recoge los datos de ficha de cada alternativa.
+## Frente a sus alternativas inmediatas
 
 | Modelo | Potencia | Batería | Precio de ficha | DGT |
 |---|---|---|---|---|
@@ -127,65 +117,29 @@ Frente a rivales de precio parecido, el M1 Elite no destaca por potencia ni por 
 | <a href=/patinetes/aovopro-es80/>Aovopro ES80</a> | 350 W | 378 Wh | ~196 € | Sin verificar |
 | <a href=/patinetes/bogist-m3-pro/>Bogist M3 Pro</a> | 350 W | 270 Wh | Sin precio en ficha | Sin verificar |
 
-El Xiaomi ofrece más respaldo y certificación con menos energía; el Cecotec aporta más potencia; el Aovopro combina precio más bajo con más batería; y el M3 Pro, de la misma marca, suma amortiguadores.
+Xiaomi gana en respaldo y certificación con menos energía; Cecotec suma potencia y triple frenada según su ficha; Aovopro baja precio y sube batería, con igual incertidumbre de servicio. El M3 Pro añade amortiguadores, pero su freno de pie convence menos que este disco. 
 
-Según su ficha, el Cecotec incluye triple frenada, mientras el freno de pie del M3 Pro resulta menos convincente que el disco del M1 Elite.
-
-<img src=/media/patinetes/bogist-m1-elite-3.webp alt=Bogist M1 Elite circulando por ciudad>
-
-## Cuidarlo y encontrar piezas
-
-Al no llevar cámaras, desaparecen pinchazos y controles de presión. La atención se centra entonces en el disco, la holgura del plegado, los tornillos y el cableado a la vista.
-
-No dejes la batería vacía durante semanas ni conectada sin pausa, y carga siempre con su cargador original.
-
-No existe una tarifa española verificada para consumibles, así que no citamos costes en ese apartado.
-
-La disponibilidad es el punto delicado: sin una red propia en España, conseguir pantalla o controlador quedará en manos del vendedor. Conserva factura y número de serie.
-
-La ficha menciona funciones por aplicación, como crucero, bloqueo y arranque, que conviene confirmar en la unidad que recibas.
-
-## Papeles y reglas antes de pagar
-
-En la ficha, el certificado DGT aparece sin verificar.
-
-La <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/matricular-un-vehiculo/inscripcion-vmp/>web de inscripción de VMP de la DGT</a> exige inscripción en su registro de vehículos personales ligeros, además de la etiqueta identificativa. Quienes carecen de esa inscripción disponen de un plazo transitorio que concluye el 22 de enero de 2027.
-
-Antes de pagar, pide el número por escrito y verifícalo.
-
-Puede usar el carril bici y la calzada cuando la norma local lo autorice, pero no la acera.
-
-El precio bajo no cambia las reglas: límite de 25 km/h y circulación prohibida en aceras.
-
-El casco puede ser obligatorio según la ordenanza de tu ciudad, así que conviene consultarla.
-
-## Veredicto
-
-Solo compensa si tu uso es corto, llano y sobre buen firme, y si el vendedor europeo te confirma por escrito certificado y repuestos.
-
-En ese escenario, el disco, la rueda sin pinchazos y los 281 Wh dan un conjunto coherente para empezar.
-
-Si necesitas afrontar cuestas, acreditar el certificado o depender a diario del patinete, el ahorro inicial se vuelve frágil: en ese caso, valora el Xiaomi 4 Lite como alternativa.
+**Veredicto:** merece la pena solo con recorrido corto, llano y de buen firme, comprado a un vendedor europeo que responda por escrito sobre certificado y repuestos. Ahí, disco, rueda antipinchazos y 281 Wh forman un inicio coherente. Con cuestas, necesidad de certificado acreditado o dependencia total del patinete, el ahorro se vuelve frágil: mira el Xiaomi 4 Lite.
 
 ## Preguntas frecuentes
 
-### ¿Cuánto cuesta?
-Ronda los 275 € (299 $) en tiendas con stock europeo.
+### ¿Cuánto cuesta el Bogist M1 Elite?
+Unos **275 €** (299 $) en distribuidores con almacén europeo.
 
-### ¿Qué distancia recorre?
-Bogist no declara una cifra. Con 281 Wh, calcula entre 12 y 18 km reales en ciudad.
+### ¿Qué autonomía tiene?
+El fabricante no la publica. Con 281 Wh calcula **12-18 km reales** en ciudad.
 
-### ¿Se puede usar legalmente en España?
-Sí. Como VMP de 250 W, está limitado a 25 km/h y no puede circular por la acera.
+### ¿Es legal en España?
+Como VMP de 250 W y 25 km/h, sí: prohibido en aceras y limitado a 25 km/h.
 
-### ¿Sube cuestas?
-Mal en pendientes fuertes, sobre todo si pesas más de 75 kg.
+### ¿Vale para cuestas?
+Con 250 W, las cuestas pronunciadas se le atragantan si pesas más de 75 kg.
 
-### ¿Tiene aplicación oficial?
-No consta ninguna app oficial documentada para este modelo.
+### ¿Tiene app?
+No hay app oficial documentada para este modelo.
 
-### ¿M1 Elite o M3 Pro?
-Con presupuesto mínimo, el M1 Elite es suficiente. Si puedes gastar más, el M3 Pro ofrece 350 W, amortiguadores y mejores luces.
+### ¿Merece la pena frente al M3 Pro?
+Si tu presupuesto es mínimo, el M1 Elite vale. Si puedes estirarte, el M3 Pro añade 350 W, amortiguadores y mejores luces.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -1115,9 +1069,9 @@ Si lo encuentras por ~430 € con envío UE y buscas ligereza, sí. Si el precio
   // ─────────────────────────── EVERCROSS (7) ───────────────────────────
   {
     slug: "evercross-h5",
-    title: "Evercross H5: patinete con asiento por unos 490 €",
+    title: "Evercross H5: 800 W con sillín por 490 €",
     excerpt:
-      "Patinete con asiento extraíble, motor de 800 W y 480 Wh que admite 150 kg: alcance efectivo cercano a 27 km por alrededor de 490 €.",
+      "El Evercross H5 es el 'cicloscooter' de la marca: 800 W, batería de 480 Wh, sillín desmontable y 150 kg de carga por ~490 €.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -1136,9 +1090,9 @@ Si lo encuentras por ~430 € con envío UE y buscas ligereza, sí. Si el precio
 
 **¿Buscas solo los datos?** <a href=/patinetes/evercross-h5/>Ver ficha técnica del Evercross H5</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Con un propulsor que entrega 800 W en su punto máximo, un acumulador de 48 V y 10 Ah que suma 480 Wh, un asiento extraíble dotado de suspensión y una capacidad admitida de 150 kg, el Evercross H5 se vende alrededor de 490 €; la guía de <a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>Levy Electric</a> repasa el catálogo completo de la marca.
+El **Evercross H5** juega en la liga de los patinetes con sillín: **800 W** de pico, batería de **48 V y 10 Ah (480 Wh)**, **sillín desmontable** con amortiguación y **150 kg** de carga máxima, por **~490 €** (<a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>Levy Electric</a> lo compara con toda la gama).
 
-## Datos clave en resumen
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -1155,25 +1109,25 @@ Con un propulsor que entrega 800 W en su punto máximo, un acumulador de 48 V y 
 
 ¿Quieres el detalle completo? <a href=/patinetes/evercross-h5/>Ficha técnica completa del Evercross H5</a> con todos los datos verificados.
 
-## Cuánto cuesta en España
+## Precio del Evercross H5 en España
 
-En Amazon se anuncia alrededor de 490 €, equivalentes a 529 $ según el cambio. El asiento extraíble y el tope admitido de 150 kg resultan atractivos para conductores corpulentos que prefieren no desembolsar 800 €.
+Unos **490 €** al cambio (529 $) en Amazon. El sillín y los 150 kg de carga lo ponen en el punto de mira de riders grandes que no quieren gastarse 800 €.
 
 <img src=/media/patinetes/evercross-h5-2.webp alt=Detalle del sillín desmontable del Evercross H5>
 
-## Alcance declarado frente al efectivo
+## Autonomía real vs declarada
 
-Los 40 km homologados se reducen a cerca de 27 km cuando se circula a velocidad corriente, porque el conjunto de 480 Wh alimenta un motor de 800 W en punta. Circular sentado gasta menos que hacerlo erguido con aire en contra.
+Con 480 Wh y 800 W de pico, los 40 km declarados se quedan en **unos 27 km** reales a ritmo normal. El modo sentado ahorra algo de energía frente a ir de pie contra el viento.
 
-## Frenada y ruedas
+## Frenos y neumáticos
 
-El equipo de frenada combina dos discos, y los indicadores de giro vienen de serie. Los neumáticos rígidos de 10 pulgadas no se pinchan, aunque transmiten más los baches; la suspensión del asiento atenúa una parte de ese traqueteo.
+**Doble freno de disco** e **intermitentes**: equipamiento serio. Las ruedas **macizas de 10 pulgadas** eliminan pinchazos pero rebotan en firme roto; el sillín con amortiguación compensa parte.
 
-## Certificación DGT y reglas VMP
+## Certificado DGT y normativa VMP
 
-No consta un certificado DGT comprobado para este modelo. Al declarar cerca de 45 km/h queda fuera de la categoría legal de VMP, de modo que exige una limitación electrónica a 25 km/h, y aun con ese ajuste queda prohibido circular por la acera.
+Sin certificado DGT verificado. Sus **~45 km/h** lo excluyen del VMP legal: **hay que limitarlo a 25 km/h**, y ni así debe pisar la **acera**.
 
-## Ventajas e inconvenientes
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -1185,52 +1139,52 @@ No consta un certificado DGT comprobado para este modelo. Al declarar cerca de 4
 
 <img src=/media/patinetes/evercross-h5-3.webp alt=Evercross H5 con sillín en un camino urbano>
 
-## El asiento cambia la forma de viajar
+## Sentado o de pie: el sillín lo cambia todo
 
-Mientras casi todos los patinetes exigen mantenerse erguido, este modelo ofrece otra postura. Su asiento extraíble con suspensión hace llevaderos los recorridos de 8 a 10 km para la espalda y las piernas, y el límite admitido de 150 kg incluye a usuarios que otros modelos excluyen por peso. Erguido se comporta como un patinete enérgico más; con el asiento puesto recuerda a una minimoto urbana de velocidad reducida.
+La mayoría de patinetes obligan a ir de pie, y ahí el H5 juega otra partida. Su **sillín desmontable con amortiguación** transforma trayectos de 8-10 km en algo asumible para espalda y piernas, y su **carga máxima de 150 kg** abre la puerta a riders que la mayoría de modelos dejan fuera por límite de peso. De pie, el comportamiento es el de un patinete potente más; sentado, se acerca a una minimoto urbana de baja velocidad.
 
-## Comparación con el Evercross H7
+## Frente a su hermano mayor, el Evercross H7
 
 | Modelo | Batería | Autonomía declarada | Peso |
 |---|---|---|---|
 | Evercross H5 | 480 Wh | ≈40 km | ≈23,6 kg |
 | Evercross H7 | 720 Wh | 45 km | 25 kg |
 
-El sobreprecio ronda los 60 €, y a cambio el H7 incorpora un acumulador de 720 Wh junto con la certificación UL2272. La <a href=/patinetes/evercross-h7/>ficha del Evercross H7</a> recoge sus 45 km declarados y sus 25 kg. Cuando los desplazamientos habituales quedan cerca de 15 km efectivos, el H5 cubre la necesidad; cuando el uso diario roza el máximo alcance, el modelo superior compensa el desembolso extra.
+El propio análisis original lo resume: por unos 60 € más, el H7 suma batería (720 Wh) y certificación UL2272. En la <a href=/patinetes/evercross-h7/>ficha del Evercross H7</a> constan sus 45 km declarados y 25 kg. La elección es sencilla: si tus rutas rondan los 15 km reales, el H5 basta; si te acercas a su techo de autonomía a diario, el hermano mayor amortiza la diferencia.
 
-## Reglas VMP antes de rodar
+## Normativa VMP: lo que debes saber antes de rodar
 
-Este modelo anuncia alrededor de 45 km/h, cifra que lo deja al margen de la definición legal de VMP, cuyo tope es 25 km/h. Rodar por calles españolas requiere un tope electrónico ajustado a ese valor; incluso con ese tope, las aceras y las áreas peatonales quedan vetadas. Desde enero de 2024, la DGT pide un certificado de circulación para los vehículos de movilidad personal puestos a la venta, documento que esta ficha no acredita para el H5, mientras los ayuntamientos pueden imponer deberes adicionales, entre ellos usar casco. La <a href=https://www.dgt.es>Dirección General de Tráfico</a> difunde la regulación actual de VMP y conviene revisarla antes de adquirirlo.
+El H5 declara unos **45 km/h**, y eso lo sitúa fuera de la definición legal de VMP, limitada a **25 km/h**. Para circular por vías urbanas españolas hay que limitarlo electrónicamente a esa velocidad; ni siquiera limitado puede pisar aceras ni zonas peatonales. Además, la DGT exige **certificado de circulación** a los vehículos de movilidad personal comercializados desde enero de 2024, un requisito que este modelo no acredita según la ficha, y las ordenanzas municipales pueden añadir obligaciones como el casco. La <a href=https://www.dgt.es>Dirección General de Tráfico</a> publica la normativa vigente de VMP que conviene consultar antes de comprar.
 
-## Cuidarlo sin complicaciones: dos revisiones clave
+## Mantenimiento: sencillo, con dos puntos de control
 
-Los neumáticos rígidos de 10 pulgadas suprimen los pinchazos y el control de presiones, a cambio de absorber peor las irregularidades. El acumulador de 480 Wh responde mejor a recargas parciales habituales y a no pasar temporadas largas completamente descargado. Los dos discos de freno obligan a revisar las pastillas cuando se viaja sentado con mucho peso encima, porque el conjunto supera el peso de un patinete corriente.
+Las **ruedas macizas de 10 pulgadas** eliminan pinchazos y revisiones de presión, a cambio de filtrar peor el firme. La batería de 480 Wh agradece cargas parciales frecuentes y evitar descargas completas prolongadas. El doble freno de disco pide vigilar pastillas si se usa el modo sentado con carga elevada, porque el conjunto pesa más que un patinete al uso.
 
-**Veredicto:** el H5 encaja para usuarios corpulentos o con recorridos medios que priorizan el asiento y los 800 W por cerca de 490 €; resulta poco aconsejable si hay que subirlo a mano hasta un piso (23,6 kg) o si se busca un VMP certificado sin gestiones.
+**Veredicto:** el H5 merece la pena para riders corpulentos o con trayectos medios que valoran el sillín y los **800 W** por unos **490 €**; no es recomendable si necesitas subirlo a un piso a pulso (23,6 kg) o si buscas un VMP certificado sin trámites. 
 
-## Rutinas de carga para los 480 Wh
+## Cargar sus 480 Wh: rutinas que alargan la batería
 
-Con el cargador incluido, el acumulador de 480 Wh completa su carga en varias horas, normalmente durante la noche, y ese ritmo lento también cuida las celdas. Dos costumbres protegen la vida útil: no almacenar el patinete semanas seguidas con el acumulador vacío y no mantenerlo conectado sin interrupción una vez terminada la carga. Si el H5 queda parado una temporada, conviene guardarlo con el nivel cercano a la mitad y comprobarlo cada mes y medio más o menos, con una recarga breve si ha bajado. La app, junto al bloqueo y al control de crucero que recoge la ficha, deja consultar el nivel sin bajar al garaje.
+Una batería de **480 Wh** con el cargador de serie se llena en una sesión de varias horas, típicamente aprovechando la noche, y ese ritmo pausado es también el más amable para las celdas. Dos hábitos marcan la diferencia a largo plazo: no guardar el patinete semanas enteras con la batería agotada y evitar dejarlo enchufado de forma permanente tras completar la carga. Si el H5 va a dormir una temporada, lo ideal es aparcarlo con la carga en torno a la mitad y revisar el nivel cada mes y medio aproximadamente, recargando un poco si ha caído. La app, además del bloqueo y el control de crucero que cita la ficha, permite vigilar el estado de carga sin bajar al garaje.
 
-## Dudas habituales
+## Preguntas frecuentes
 
-### ¿Qué precio tiene el Evercross H5?
-Alrededor de 490 € en Amazon, según el cambio aplicado.
+### ¿Cuánto cuesta el Evercross H5?
+Unos **490 €** al cambio en Amazon.
 
-### ¿Se puede retirar el sillín?
-Sí: se retira y deja circular erguido o con el asiento puesto.
+### ¿El sillín se quita?
+Sí: es **desmontable** y se usa de pie o sentado.
 
-### ¿Cuál es su alcance efectivo?
-Cerca de 27 km en circulación corriente.
+### ¿Qué autonomía real tiene?
+Unos **27 km** en uso normal.
 
-### ¿Puede circular legalmente en España?
-Únicamente con la limitación electrónica a 25 km/h.
+### ¿Es legal en España?
+Solo **limitado a 25 km/h**.
 
-### ¿Soporta 150 kg?
-Sí: 150 kg figuran como su tope admitido, una cifra que pocos modelos declaran.
+### ¿Aguanta 150 kg?
+Esa es su carga máxima declarada: es de los pocos que la anuncian.
 
-### ¿Conviene más el H7?
-El H7 ofrece un acumulador mayor (720 Wh) y la certificación UL2272 por unos 60 € extra. Cuando el presupuesto alcanza, el modelo superior sale a cuenta.
+### ¿Merece la pena frente al H7?
+El H7 tiene más batería (720 Wh) y certificación UL2272 por ~60 € más. Si el presupuesto lo permite, el H7 compensa.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -1727,39 +1681,6 @@ El rival está en casa: el <a href=/patinetes/evercross-ev10k-pro/>Evercross EV1
 
 **Veredicto:** merece la pena únicamente como patinete de último kilómetro con presupuesto mínimo y asumiendo su horizonte normativo: si no obtiene certificado, su vida legal en España termina en enero de 2027. Para un uso diario serio, el EV10K Pro es la compra recomendable de la gama. 
 
-## Contexto: el patinete de entrada de Evercross
-
-Evercross se ha hecho un hueco en el mercado europeo vendiendo patinetes eléctricos asequibles a través de grandes plataformas, con una gama escalonada que va del urbano básico al modelo de ruedas grandes. El EV85F es el primer escalón: la máquina sencilla y ligera pensada para quien quiere probar la movilidad eléctrica personal sin gastar lo que cuesta una bicicleta. Su propuesta, por unos **230 €**, es la del último kilómetro: plegarlo, subirlo al metro y desplegarlo al bajar, con la app **EVERCROSS PRO** para bloqueo y estadísticas como toque tecnológico.
-
-## Profundidad técnica: 281 Wh honestos y frenada doble
-
-El conjunto es deliberadamente simple: motor de **350 W**, batería de **36 V y 7,8 Ah (281 Wh)** y ruedas de **8,5 pulgadas** con doble amortiguación. La frenada combina **E-ABS electrónico y freno de disco**, una solución doble que en este rango de precio no todos ofrecen y que casa con sus tres modos de velocidad —12, 20 y 25 km/h— que lo mantienen dentro de la legalidad de serie, como ya detalla este artículo.
-
-| Dato | EV85F |
-|---|---|
-| Motor | 350 W |
-| Batería | 281 Wh |
-| Autonomía declarada / real | 30 km / ~20 km |
-| Peso | 15 kg |
-| Carga máxima | 120 kg |
-| Precio | ~230 € |
-
-Con 281 Wh, la física manda: los **18-20 km reales** que estima este análisis son la cifra con la que hay que planificar, y el peso del conductor y las cuestas recortan antes que la velocidad punta.
-
-## Normativa VMP: el punto que decide esta compra
-
-Aquí está la parte que de verdad importa en España. El EV85F **no tiene certificado DGT verificado**, según consta ya en este artículo. La <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>DGT recuerda en su web oficial</a> que los VMP comercializados desde el 22 de enero de 2024 deben disponer de certificado de circulación, y que **a partir del 22 de enero de 2027 solo podrán circular los VMP que dispongan de dicho certificado**. Traducción práctica: un modelo sin certificado tiene fecha de caducidad legal en España, y a eso se suma el nuevo marco de registro y seguro obligatorio que está desplegándose para los VMP. Su circulación mientras tanto debe hacerse por carril bici o calzada, nunca por aceras, a un máximo de 25 km/h.
-
-## Uso real, mantenimiento y costes
-
-En el día a día cumple su promesa: 15 kg que se suben a un piso sin ascensor, plegado rápido y coste por kilómetro casi nulo cargando en casa. Es, en la práctica, un complemento del abono transporte: resuelve el tramo entre la estación y la oficina mejor que caminando y sin el coste de un patinete de gama media, siempre que el recorrido sea corto, llano y por vías permitidas, que es exactamente el uso para el que fue diseñado. El mantenimiento es el mínimo de un VMP de ruedas pequeñas: presión y desgaste de neumáticos, ajuste del freno de disco, tornillería del plegado y cuidado de la batería evitando descargas completas prolongadas. Sus límites son igual de claros: ruedas de 8,5 pulgadas justas ante bordillos y baches, sin intermitentes y un soporte de marca ligado a la plataforma de venta, sin red física en España.
-
-## Rivales y veredicto: ¿merece la pena?
-
-El rival está en casa: el <a href=/patinetes/evercross-ev10k-pro/>Evercross EV10K Pro</a> sube a 500 W, 410 Wh, 35 km declarados y unos 24 reales por unos 275 € según su ficha, añade intermitentes y soporta hasta 150 kg. Por unos 45 € más, es objetivamente más patinete y más seguro. El EV85F solo gana en precio y en un kilo menos de peso.
-
-**Veredicto:** merece la pena únicamente como patinete de último kilómetro con presupuesto mínimo y asumiendo su horizonte normativo: si no obtiene certificado, su vida legal en España termina en enero de 2027. Para un uso diario serio, el EV10K Pro es la compra recomendable de la gama. Y mientras decides, recorre unos metros virtuales en el <a href=/juego-monos/>juego caza-monos</a>.
-
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Evercross EV85F?
@@ -2185,50 +2106,6 @@ Claro antes de pagar: este modelo figura **sin certificado DGT verificado** en s
 | **Dualtron Eagle Pro** | 2.100 € | 3.600 W | 65 km / ≈43 km | 30 kg |
 
 El **Victor** iguala autonomía real con menos peso y certificado, pero sin chasis alto. El **Eagle Pro** es el ágil: cuesta más y rinde menos en distancia. El Luxury Plus solo gana si talla y batería son el criterio. 
-
-**Veredicto:** **Sí, para un rider alto que hace 40-60 km diarios desde un garaje**, quiere doble motor para cuestas y acepta mantenimiento de gama alta. **No, si necesitas transporte público, escaleras o certificado DGT verificado hoy**: ahí, un modelo más ligero te dará menos problemas.
-
-## Un Victor pensado para riders altos
-
-La familia Victor es la gama rutera de **Dualtron**, la línea de altas prestaciones de **Minimotors**. El **Luxury Plus** la estira: **60 mm más de chasis**, pantalla **EY4** con app y batería de hasta **35 Ah**. Es para quien el Victor se le quedaba justo de talla o de autonomía. Más ligero, en la marca, tienes el <a href=/patinetes/minimotors-dualtron-eagle-pro/>Dualtron Eagle Pro</a>: 7,4 kg menos.
-
-## Profundidad técnica: qué significan 4.400 W y 2.100 Wh
-
-El doble motor suma **4.000 W nominales y 4.400 W de pico** según la ficha del sitio. No sirve para correr más en ciudad —manda el límite legal—, sino para **subir pendientes del 35 %** sin que la velocidad se desplome. La batería de **60 V** va en **28, 31 y 35 Ah**; la mayor, **2.100 Wh**.
-
-| Dato técnico | Victor Luxury Plus |
-|---|---|
-| **Motor** | Doble, 4.000 W nominales / 4.400 W de pico |
-| **Batería** | 60 V · 28/31/35 Ah · hasta 2.100 Wh |
-| **Dimensiones** | 1.170 × 620 × 1.370 mm |
-| **Altura libre** | Unos 180 mm según el manual del modelo |
-| **Suspensión** | Cartuchos delantero y trasero reemplazables |
-| **Frenos** | Disco hidráulicos + electrónico, con ABS |
-| **Carga máxima** | 120 kg |
-
-La **EY4** muestra velocidad y batería y permite ajustes desde la app. Detalle completo, en la <a href=/patinetes/minimotors-dualtron-victor-luxury-plus/>ficha técnica del Victor Luxury Plus</a>.
-
-## Uso real: autonomía honesta y el problema de los 37,4 kg
-
-La autonomía declarada es de **95-100 km**, pero la ficha la corrige a **unos 64 km reales** en uso mixto con la batería grande: planifica con esa cifra. El reverso es el peso: **37,4 kg** no se suben por escaleras ni se combinan a la ligera con tren o autobús. Vive en garaje a pie de calle y sale rodando. Para distancia diaria, el chasis alto y la rueda **tubeless de 10 pulgadas** se notan; con transporte público de por medio, es el modelo equivocado.
-
-## Mantenimiento y costes: el plan oficial, sin inventar cifras
-
-La ficha recoge el plan del manual oficial: **revisión cada 3 meses, cada 6 meses o 500 km y al año o 3.000 km**. Batería: sustitución tras **500 ciclos o 10.000 km** y, en almacenaje largo, **carga cada 60 días**. Piezas de fatiga —basculante, bisagra, tubo de dirección y tija—: ciclo de **3 años o 20.000 km**; corredera de bloqueo, **2 años o 10.000 km**. Si los frenos hidráulicos pierden fuerza, el **aceite mineral** lo sustituye el servicio oficial o un distribuidor autorizado. Sin coste anual cerrado —ni marca ni ficha lo fijan—: asume gama alta y **repuestos originales**.
-
-## Normativa VMP en España: la parte que decide la compra
-
-Claro antes de pagar: este modelo figura **sin certificado DGT verificado** en su ficha. La <a href=https://www.dgt.es/comunicacion/noticias/vmp-nuevas-reglas-nueva-formacion>DGT</a> exige **certificado de circulación** e identificación a los VMP comercializados desde el **22 de enero de 2024**, fija su velocidad máxima en **25 km/h** y permite circular a los anteriores sin certificar solo hasta el **22 de enero de 2027**. **Deslimitado llega a 85 km/h**: así ya no es un VMP, sino un vehículo para recinto privado. Nada de aceras, una sola plaza y casco siempre; comprueba la ordenanza local. Si priorizas la seguridad jurídica, mira el <a href=/patinetes/dualtron-victor/>Dualtron Victor</a>, con certificado en su versión Luxury.
-
-## Frente a sus rivales de la propia casa
-
-| Modelo | Precio | Pico | Autonomía declarada / real | Peso |
-|---|---|---|---|---|
-| **Victor Luxury Plus** | desde 1.890 € | 4.400 W | 95 km / ≈64 km | 37,4 kg |
-| **Dualtron Victor** | 1.899 € | 4.000 W | 100 km / ≈65 km | 33 kg |
-| **Dualtron Eagle Pro** | 2.100 € | 3.600 W | 65 km / ≈43 km | 30 kg |
-
-El **Victor** iguala autonomía real con menos peso y certificado, pero sin chasis alto. El **Eagle Pro** es el ágil: cuesta más y rinde menos en distancia. El Luxury Plus solo gana si talla y batería son el criterio. Y entre trayecto y trayecto, prueba el <a href=/juego-monos/>juego caza-monos</a>.
 
 **Veredicto:** **Sí, para un rider alto que hace 40-60 km diarios desde un garaje**, quiere doble motor para cuestas y acepta mantenimiento de gama alta. **No, si necesitas transporte público, escaleras o certificado DGT verificado hoy**: ahí, un modelo más ligero te dará menos problemas.
 
@@ -2842,9 +2719,9 @@ Como curiosidad de ingeniería, sí; como compra para España, no, por la falta 
   },
   {
     slug: "bronco-xtreme-vnom-11",
-    title: "Bronco VNOM 11: el patinete americano de 50 Ah",
+    title: "Bronco Xtreme VNOM 11: 50 Ah y 129 km",
     excerpt:
-      "Variante viajera del Xtreme 11: acumulador de 50 Ah, 129 km anunciados, TFT, frenada hidráulica e intermitentes, solo a la venta en EE. UU.",
+      "El Bronco Xtreme VNOM 11 es la evolución rutera: batería de 50 Ah, 129 km declarados, pantalla TFT e intermitentes. Ficha completa.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -2863,9 +2740,9 @@ Como curiosidad de ingeniería, sí; como compra para España, no, por la falta 
 
 **¿Buscas solo los datos?** <a href=/patinetes/bronco-xtreme-vnom-11/>Ver ficha técnica del Bronco Xtreme VNOM 11</a>: batería, autonomía y equipamiento. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Al otro lado del Atlántico, Bronco ofrece una declinación viajera de su Xtreme 11: el VNOM 11 renuncia a la búsqueda del empuje extremo para concentrarse en aguantar ruta tras ruta sin pasar por el enchufe. Lleva instrumentación digital TFT, frenada hidráulica, señalización por intermitentes y un acumulador de 50 Ah, según recoge la tienda estadounidense (<a href=https://alienrides.com/collections/electric-scooters/products/bronco-xtreme-vnom-11-electric-scooter>Alien Rides</a>).
+El **Bronco Xtreme VNOM 11** es la evolución del Xtreme 11 hacia el gran turismo: batería de **50 Ah**, **129 km** de autonomía declarada (80 millas), **pantalla TFT**, **frenos hidráulicos** e **intermitentes** (<a href=https://alienrides.com/collections/electric-scooters/products/bronco-xtreme-vnom-11-electric-scooter>Alien Rides</a>).
 
-## Los números que importan
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -2877,27 +2754,27 @@ Al otro lado del Atlántico, Bronco ofrece una declinación viajera de su Xtreme
 | **Pantalla** | TFT a color |
 | **Extras** | Intermitentes, plataforma 13x26" |
 
-¿Quieres el detalle completo? <a href=/patinetes/bronco-xtreme-vnom-11/>Ficha completa del VNOM 11</a>, con cada dato verificado.
+¿Quieres el detalle completo? <a href=/patinetes/bronco-xtreme-vnom-11/>Ficha técnica completa del VNOM 11</a> con todos los datos verificados.
 
-## Cuánto habría que pagar para traerlo
+## Precio del Bronco Xtreme VNOM 11 en España
 
-Ningún importador europeo lo anuncia con tarifa pública, y tampoco existe red de venta en el continente: la única vía para un comprador español pasa por adquirirlo en un comercio norteamericano y gestionar el traslado. Eso deja el desembolso final sin cifra cerrada, porque al importe del vehículo se suman envío, trámites y posibles aranceles, variables que cada importador cotiza por separado.
+Sin precio oficial ni distribución europea: se vende en tiendas de EE. UU. En España, solo por importador.
 
 <img src=/media/patinetes/bronco-xtreme-vnom-11-2.webp alt=Detalle de la pantalla TFT del Bronco Xtreme VNOM 11>
 
-## Alcance anunciado y alcance plausible
+## Autonomía real vs declarada
 
-El fabricante anuncia 129 km cuando se circula con calma, cifra equivalente a 80 millas, y el propio comercio que lo vende reconoce ese mismo valor en condiciones tranquilas. En un uso mezclado de ciudad, carretera y paradas frecuentes, la estimación razonable baja hasta una horquilla de 80 a 90 km, con unos 86 km como referencia central. La diferencia entre ambas cifras no es un engaño: refleja ritmos, pesos y paradas distintos, y con un acumulador tan grande el margen entre un recorrido suave y otro exigente se nota mucho.
+Declara **129 km** a ritmo moderado; el propio vendedor admite 80 millas en esas condiciones. En uso mixto, **80-90 km** reales son creíbles con 50 Ah.
 
-## Frenada, ruedas y plataforma
+## Frenos y neumáticos
 
-La frenada recurre a un sistema hidráulico, la señalización incluye intermitentes delanteros y traseros de tamaño generoso, y la base de apoyo mide 13x26 pulgadas con reposapiés incorporado. Las ruedas son de 11 pulgadas. Ese conjunto apunta a jornadas largas: reparto urbano con muchas paradas, o travesías prolongadas donde la estabilidad y la comodidad pesan más que la agilidad entre el tráfico. La contrapartida es evidente: una plataforma tan amplia gira peor en espacios estrechos y exige más sitio para guardarla.
+**Hidráulicos** con **intermitentes** delanteros y traseros grandes, y plataforma gigante de **13x26 pulgadas** con reposapiés: pensado para reparto y cruising largo.
 
-## Encaje legal en España
+## Certificado DGT y normativa VMP
 
-No dispone de certificado de la DGT, y por potencia y dimensiones queda fuera de la categoría de vehículo de movilidad personal en España. Su mercado natural es el norteamericano, donde las reglas para este tipo de máquinas son otras. Quien lo importe debe saber que aquí no podrá utilizarlo como un VMP convencional: ni la norma ni el seguro lo tratarán como tal.
+Sin certificado DGT. Por potencia y dimensiones no encaja como VMP en España: su hábitat natural es EE. UU.
 
-## Lo mejor y lo peor, en dos columnas
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -2909,11 +2786,11 @@ No dispone de certificado de la DGT, y por potencia y dimensiones queda fuera de
 
 <img src=/media/patinetes/bronco-xtreme-vnom-11-3.webp alt=Bronco Xtreme VNOM 11 circulando de noche>
 
-## Por qué existe un patinete así
+## Bronco VNOM: el hiperpatinete americano de gran autonomía
 
-En Estados Unidos existe un público que usa estos aparatos como herramienta de trabajo y como vehículo de ocio de largo recorrido, en entornos donde las distancias son mayores y la normativa local permite máquinas más potentes. El VNOM 11 nace para ese comprador: alguien que necesita encadenar repartos durante horas o recorrer trayectos extensos sin preocuparse del enchufe, y que acepta a cambio un vehículo voluminoso y pesado. En Europa, donde el patinete se entiende como transporte ligero y limitado, esa propuesta pierde sentido comercial, y por eso ningún distribuidor continental lo ofrece.
+El Bronco Xtreme VNOM 11 es la evolución gran turismo del Xtreme 11, un hiperpatinete pensado para el mercado estadounidense que se vende en tiendas especializadas de EE. UU. como la citada en las fuentes de este post. Donde su hermano busca potencia bruta, con **8.400 W** según la comparación de la FAQ, el VNOM busca **distancia**: una batería enorme, pantalla completa y equipamiento rutero para devorar kilómetros. Es un producto de otro ecosistema normativo y de uso, el americano, donde los patinetes de altas prestaciones circulan por vías y espacios que en Europa serían impensables para un VMP.
 
-## El acumulador como argumento central
+## 50 Ah: una batería del tamaño de un ciclomotor eléctrico
 
 | Dato | Bronco Xtreme VNOM 11 |
 |---|---|
@@ -2926,49 +2803,47 @@ En Estados Unidos existe un público que usa estos aparatos como herramienta de 
 | Plataforma | 13x26 pulgadas |
 | Potencia | No publicada |
 
-Todo el diseño gira alrededor de una reserva de 50 Ah, una capacidad que en este sitio solemos encontrar en ciclomotores eléctricos antes que en patinetes. Con ella, la distancia anunciada en circulación tranquila alcanza 129 km, equivalentes a 80 millas, y la referencia central en uso mezclado se sitúa en torno a 86 km. El resto del equipamiento acompaña esa vocación viajera: frenada hidráulica, intermitentes amplios, una base de 13x26 pulgadas con reposapiés y una pantalla TFT que incluye voltímetro, útil para conocer la carga restante con precisión cuando la batería es tan grande.
+La técnica del VNOM se concentra en un solo número: **50 Ah** de batería, una capacidad que en este sitio se ve en ciclomotores eléctricos, no en patinetes. Con ella declara **129 km** a ritmo moderado, cifra que el propio vendedor sustenta con sus 80 millas en esas condiciones, y que en uso mixto se traduce en los **80-90 km reales** que estima el análisis original. El resto del equipamiento es rutero de verdad: **frenos hidráulicos**, intermitentes grandes, plataforma gigante de **13x26 pulgadas** con reposapiés y pantalla TFT con voltímetro, el instrumento que en los vehículos de gran batería sirve para leer la carga real que queda.
 
-## Conservarlo: batería, frenos y piezas
+## Uso real: reparto y cruising largo en EE. UU.
 
-Sin venta en Europa no hay red oficial ni tarifas de taller que publicar para España. Lo que sí se deduce de su ficha es el plan de cuidados de un aparato de estas características: el circuito hidráulico pedirá purgas y pastillas periódicas, parecidas a las de una bicicleta de altas prestaciones; los neumáticos de 11 pulgadas serán el consumible que antes se gaste; y el acumulador de 50 Ah concentrará, llegado el momento, la mayor parte del gasto de sustitución. Además, cualquier pieza deberá viajar desde Estados Unidos, un sobrecoste permanente para quien lo tenga en España.
+El VNOM está pensado para **reparto y cruising de larga distancia** en Estados Unidos, el uso que su plataforma enorme y su autonomía de ciclomotor habilitan: jornadas de trabajo o rutas que ningún patinete convencional puede encadenar sin recargar. Su contrapartida está en la propia tabla de contras: esa plataforma lo hace **poco ágil**, el peso no está publicado pero con 50 Ah será alto, y no tiene presencia ni precio oficial en Europa. Es un vehículo de nicho dentro de un nicho: el del usuario americano que quiere la máxima distancia posible sobre dos ruedas pequeñas, cueste lo que cueste en tamaño y peso.
 
-## Qué dice la norma española
+## Mantenimiento: la batería manda y los recambios son americanos
 
-La norma española para los vehículos de movilidad personal está pensada para aparatos ligeros, limitados a 25 km/h, como recoge la <a href=https://www.dgt.es/nuestros-servicios/en-detalle/vehiculos-de-movilidad-personal/>web oficial de VMP de la DGT</a>. Un aparato de 50 Ah orientado a 129 km queda en las antípodas de ese perfil. Usarlo por vías públicas españolas no es moverse en un vacío cómodo: es emplear al margen de su marco un aparato que aquí carece de categoría VMP, con las consecuencias que eso acarrea en materia legal y de seguro.
+No hay red ni tarifas de mantenimiento del VNOM aplicables a España que publicar, porque el producto no se distribuye en Europa. Lo verificable por su ficha es el mapa de cuidados de un hiperpatinete: **frenos hidráulicos** que exigen purgado y pastillas como los de una bicicleta potente, neumáticos de 11 pulgadas como consumible principal y una batería de 50 Ah cuyo coste de sustitución, cuando llegue, será la partida dominante del mantenimiento a largo plazo. En un vehículo sin distribución europea, cualquier avería se resuelve con piezas importadas de EE. UU., y ese es un coste estructural que el comprador español debe asumir antes de importar uno.
 
-## Contra su hermano y contra los VMP europeos
+## Normativa: fuera del marco VMP español
 
-La pugna interna enfrenta dos filosofías: el Xtreme 11 busca empuje, con 8.400 W, mientras el VNOM 11 busca recorrido, con 50 Ah y dotación viajera. Y frente a los modelos que sí se venden en España, la diferencia ya no es de prestaciones sino de categoría: aquí dominan los VMP homologados, contenidos y livianos que figuran en el <a href=/comparador-patinetes/>listado comparativo de patinetes</a>.
+El VNOM **no tiene certificado DGT** y, como concluye el post original, por potencia y dimensiones **no encaja como VMP en España**: su hábitat legal es Estados Unidos. La regulación española de los vehículos de movilidad personal, consultable en la <a href=https://www.dgt.es/nuestros-servicios/en-detalle/vehiculos-de-movilidad-personal/>página oficial de VMP de la DGT</a>, está pensada para patinetes ligeros de hasta 25 km/h, un mundo opuesto a un hiperpatinete de 50 Ah pensado para 129 km. Circular con algo así por vías públicas españolas no es una zona gris cómoda: es usar fuera de su marco un vehículo que aquí no tiene categoría de VMP, con las consecuencias legales y de seguro que ello implica.
 
-**¿Compensa?** En Estados Unidos, para repartir durante horas o para travesías larguísimas, su acumulador no tiene contrincante directo. **Perfil adecuado:** el comprador norteamericano que necesite alrededor de 86 km reales por carga y acepte su volumen. **Perfil descartado:** cualquier lector español, sin excepción: sin categoría VMP, sin red comercial y sin tarifa europea, el VNOM aquí solo es una curiosidad técnica, no una adquisición.
+## Frente al Xtreme 11 y a los VMP europeos: veredicto
+
+La comparación interna es de filosofía: el **Xtreme 11** prima la potencia con 8.400 W y el VNOM prima la autonomía con 50 Ah y el equipamiento rutero. Frente a los patinetes que sí se venden en España, la comparación ni siquiera es de producto, es de categoría: aquí mandan los VMP certificados, limitados y ligeros que pueblan el <a href=/comparador-patinetes/>comparador de patinetes</a>. 
+
+**¿Merece la pena?** En EE. UU., para reparto o rutas larguísimas, su batería no tiene rival directo. **Para quién sí:** para el usuario americano que necesite 80-90 km reales por carga y asuma su tamaño. **Para quién no:** para el lector español en cualquier caso: sin categoría VMP, sin distribución y sin precio europeo, el VNOM es aquí una curiosidad técnica, no una compra.
 
 ## Preguntas frecuentes
 
-### ¿Cuántos kilómetros aguanta con una carga?
+### ¿Qué autonomía tiene el VNOM 11?
+**129 km** declarados a ritmo moderado; unos 86 km en uso mixto.
 
-129 km anunciados en circulación tranquila; en uso mezclado, unos 86 km.
+### ¿Qué batería lleva?
+**50 Ah**, una de las mayores del mercado.
 
-### ¿De qué capacidad es su acumulador?
+### ¿Es legal en España?
+No encaja como VMP; es un producto para el mercado americano.
 
-50 Ah, una de las cifras más altas que se ven en este tipo de vehículos.
+### ¿Cuánto cuesta?
+Sin precio oficial publicado.
 
-### ¿Se puede usar legalmente en España?
+### ¿En qué se diferencia del Xtreme 11?
+El VNOM prima **autonomía** (50 Ah) y equipamiento rutero; el Xtreme 11 prima **potencia** (8.400 W).
 
-No como VMP: es un modelo pensado para el mercado norteamericano.
+### ¿Merece la pena?
+En EE. UU. para reparto, quizá. En España es una curiosidad.
 
-### ¿Tiene precio en Europa?
-
-No hay tarifa oficial publicada para el mercado europeo.
-
-### ¿Qué lo separa del Xtreme 11?
-
-El VNOM apuesta por el recorrido (50 Ah) y la dotación viajera; el Xtreme 11, por el empuje (8.400 W).
-
-### ¿Compensa comprarlo desde España?
-
-Para repartir en Estados Unidos, tal vez. Desde España, solo como curiosidad.
-
-¿Te multaron circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza gratis tu multa con nuestra IA</a> antes de pagarla: te diremos si es recurrible.
+¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
 *Fuentes: <a href=https://alienrides.com/collections/electric-scooters/products/bronco-xtreme-vnom-11-electric-scooter>ficha en Alien Rides</a>., <a href=https://www.dgt.es/nuestros-servicios/en-detalle/vehiculos-de-movilidad-personal/>DGT: vehículos de movilidad personal</a>*`,
   },
@@ -3326,9 +3201,9 @@ El Ey! 1 tiene más pico (1.512 W) y más rango (65 km); el Ey! 6 cuesta 500 €
   },
   {
     slug: "egret-ey-2",
-    title: "Egret Ey! 2: 500 W y triple freno por 899 €",
+    title: "Egret Ey! 2: triple freno por 899 €",
     excerpt:
-      "Equilibrio dentro de la gama Ey!: el Egret Ey! 2 combina 500 W, 446 Wh y 45 km declarados con frenada triple, a cambio de 899 €.",
+      "El Egret Ey! 2 es el equilibrado de la familia: 500 W, 446 Wh, 45 km declarados y triple sistema de frenado por 899 €.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 7,
@@ -3347,9 +3222,9 @@ El Ey! 1 tiene más pico (1.512 W) y más rango (65 km); el Ey! 6 cuesta 500 €
 
 **¿Buscas solo los datos?** <a href=/patinetes/egret-ey-2/>Ver ficha técnica del Egret Ey! 2</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
 
-Dentro de la gama, el Egret Ey! 2 ocupa el puesto sensato: entrega 500 W (1.188 W de pico), almacena 446 Wh repartidos en 47,45 V y 9,4 Ah, anuncia 45 km y frena con tres sistemas (tambor, disco y motor), por 899 € (<a href=https://www.maxblinker.com/en/electric-scooters/egret-ey-2-de-street-legal>Maxblinker</a>).
+El **Egret Ey! 2** es el todoterreno razonable de la familia: **500 W** (1.188 W de pico), batería de **446 Wh** (47,45 V y 9,4 Ah), **45 km** declarados y **triple freno** (tambor + disco + motor), por **899 €** (<a href=https://www.maxblinker.com/en/electric-scooters/egret-ey-2-de-street-legal>Maxblinker</a>).
 
-## Datos esenciales en una tabla
+## Ficha técnica resumida
 
 | Dato | Valor |
 |---|---|
@@ -3365,25 +3240,25 @@ Dentro de la gama, el Egret Ey! 2 ocupa el puesto sensato: entrega 500 W (1.188 
 
 ¿Quieres el detalle completo? <a href=/patinetes/egret-ey-2/>Ficha técnica completa del Egret Ey! 2</a> con todos los datos verificados.
 
-## Precio en España del Ey! 2
+## Precio del Egret Ey! 2 en España
 
-El precio queda en **899 €** con IVA. Dentro de la gama ocupa el escalón intermedio: cuesta 400 € menos que el Ey! 1 y conserva el 70 % de sus virtudes.
+**899 €** con IVA. El punto medio de la familia: 400 € menos que el Ey! 1 con el 70 % de sus virtudes.
 
 <img src=/media/patinetes/egret-ey-2-2.webp alt=Detalle del motor trasero del Egret Ey! 2>
 
-## Autonomía anunciada frente a la real
+## Autonomía real vs declarada
 
-La cifra anunciada es **45 km**; para uso mixto conviene contar con **unos 30 km**. El propulsor trasero mueve el patinete en silencio y la frenada regenerativa devuelve energía en cada frenada.
+Declara **45 km**; en uso mixto calcula **unos 30 km**. El **motor trasero** da tracción silenciosa y el freno regenerativo recupera energía en cada frenada.
 
-## Frenada triple y ruedas autosellantes
+## Frenos y neumáticos
 
-Combina tambor, disco y freno motor: un sistema triple que sitúa la seguridad urbana en lo más alto. Las ruedas tubeless de 10 pulgadas, con gel autosellante, cierran solas los pinchazos pequeños.
+**Tambor + disco + freno motor**: triple sistema, lo máximo en seguridad urbana. Los **tubeless de 10 pulgadas con gel autosellante** se reparan solos ante pinchazos pequeños.
 
-## Homologación alemana y reglas VMP en España
+## Certificado DGT y normativa VMP
 
-No consta un certificado DGT español verificado; la homologación alemana lo limita a **20 km/h**. En España puede circular como VMP, con 25 km/h de tope y fuera de aceras.
+Sin certificado DGT español verificado; homologado en Alemania a **20 km/h**. En España, VMP legal respetando **25 km/h** y sin **aceras**.
 
-## Ventajas e inconvenientes a simple vista
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -3395,11 +3270,11 @@ No consta un certificado DGT español verificado; la homologación alemana lo li
 
 <img src=/media/patinetes/egret-ey-2-3.webp alt=Egret Ey! 2 en un carril bici>
 
-## Origen alemán: Hamburgo y la marca Egret
+## Egret: diseño alemán de Hamburgo desde 2012
 
-Egret pertenece a Walberg Urban Electrics, compañía de Hamburgo que diseña en Alemania sus patinetes desde 2012 y que se sitúa en el extremo contrario al patinete barato de plataforma: cuidado por el diseño, componentes de desarrollo propio y homologación alemana como seña distintiva. La línea Ey! representa su gama accesible, y el Ey! 2 su propuesta equilibrada: conserva la frenada triple y sus ruedas autosellantes, con 500 W de motor y 446 Wh, a 899 €. La <a href=https://my-egret.com/e-models/egret-gt/>web oficial de Egret</a> muestra esa filosofía: rangos medidos según protocolos declarados y una garantía de batería que especifica ciclos y capacidad residual, algo poco habitual en el sector.
+Egret es la marca premium de Walberg Urban Electrics, empresa de Hamburgo que desarrolla sus patinetes en Alemania desde 2012 y que se ha posicionado en el extremo opuesto al patinete barato de plataforma: diseño cuidado, componentes propios y homologación alemana como seña de identidad. La familia Ey! es su línea accesible, y el Ey! 2 su propuesta de equilibrio: mantiene el triple freno y las ruedas autosellantes de la casa, con un motor de 500 W y 446 Wh por 899 €. En la <a href=https://my-egret.com/e-models/egret-gt/>web oficial de Egret</a> se aprecia la filosofía de la marca: autonomías medidas con protocolos declarados y garantía de batería con ciclos y capacidad residual definidos, algo poco habitual en el sector.
 
-## Seguridad antes que cifras brutas
+## Técnica a fondo: seguridad por encima de prestaciones
 
 | Concepto | Dato del Ey! 2 |
 |---|---|
@@ -3411,39 +3286,39 @@ Egret pertenece a Walberg Urban Electrics, compañía de Hamburgo que diseña en
 | Ruedas | 10 pulgadas tubeless autosellantes |
 | Carga | 7-8 horas |
 
-El Ey! 2 no busca ganar por cifras brutas: gana por cómo frena y por cómo envejece. Su frenada triple (tambor, disco y freno motor regenerativo) representa lo máximo del segmento urbano; sus neumáticos tubeless con gel cierran solos la mayoría de pinchazos, el principal problema del conductor diario. El propulsor trasero empuja en silencio y la electrónica devuelve energía en cada frenada. Sus límites aparecen claros al revisar la ficha: 20 km/h para la versión homologada en Alemania y una recarga completa de 7-8 horas que exige planificar.
+El Ey! 2 no compite en cifras brutas: compite en cómo frena y en cómo envejece. El triple sistema de frenado (tambor, disco y freno motor regenerativo) es lo máximo que ofrece el segmento urbano, y los neumáticos tubeless con gel sellan solos la mayoría de pinchazos, el gran enemigo del usuario diario. El motor trasero empuja con silencio y la electrónica recupera energía en cada frenada. Sus límites están claros en la ficha: 20 km/h en la versión homologada en Alemania y una carga completa de 7-8 horas que obliga a planificar.
 
-## Para quién encaja en el día a día
+## Uso real: el patinete de diario del usuario prudente
 
-Para trayectos urbanos de hasta 25-30 km al día, el Ey! 2 responde con margen y transmite una solidez que los patinetes de 400 € no ofrecen. Se trata de un producto pensado para durar, dirigido a quien valora frenar bien y evitar pinchazos por encima de llegar antes. A cambio, quien llegue desde otros patinetes de 25 km/h percibirá el límite alemán de 20 km/h; quien necesite cargar a mediodía para regresar encontrará larga una espera de 7-8 horas. Tampoco figura en su ficha un peso oficial claro, un dato que conviene exigir al vendedor si piensas subirlo a pulso a diario.
+Para commuting urbano de hasta unos 25-30 km diarios, el Ey! 2 cumple con margen y con una sensación de solidez que los patinetes de 400 € no dan. Es un producto pensado para durar y para un usuario que valora frenar bien y no pinchar más que llegar antes. A cambio, quien venga de patinetes de 25 km/h notará la versión alemana limitada a 20 km/h, y quien necesite cargar a mediodía para la vuelta encontrará larga la espera de 7-8 horas. Tampoco consta un peso oficial claro en su ficha, un dato a exigir al vendedor si vas a subirlo a pulso a diario.
 
-## Cuidado, recambios y circulación legal
+## Mantenimiento, costes y normativa VMP
 
-El cuidado es el propio de un eléctrico bien construido: revisar tambor y pastillas, estado de las ruedas autosellantes (el gel no dura para siempre), tornillería y batería, evitando descargas completas prolongadas. Tratándose de un producto europeo con importador, el acceso a recambios y servicio supone su ventaja frente a marcas de plataforma rivales. En cuanto a normativa: Alemania lo homologa a 20 km/h en la categoría de vehículo eléctrico ligero; España lo trata como VMP según las reglas de la <a href=https://www.dgt.es>DGT</a> (tope 25 km/h, fuera de aceras y con certificado de circulación exigido a los VMP comercializados aquí), y su ficha sigue sin certificado DGT español verificado, por eso conviene solicitar la documentación al vendedor antes de comprarlo.
+El mantenimiento es el de un eléctrico bien hecho: revisar pastillas y tambor, estado de los neumáticos autosellantes (el gel no es eterno), tornillería y batería, evitando descargas completas prolongadas. Al ser un producto europeo con importador, la disponibilidad de recambios y servicio es su ventaja frente a marcas de plataforma. En normativa: en Alemania se homologa a 20 km/h como vehículo eléctrico ligero; en España circula como VMP bajo las reglas de la <a href=https://www.dgt.es>DGT</a> (máximo 25 km/h, sin aceras y con certificado de circulación para los VMP comercializados aquí), y en su ficha consta sin certificado DGT español verificado, así que conviene pedir la documentación al vendedor antes de comprarlo.
 
-## Alternativas dentro y fuera de Egret
+## Rivales y veredicto: ¿merece la pena?
 
-En la familia, el <a href=/patinetes/egret-ey-1/>Egret Ey! 1</a> aporta más potencia pico y rango por unos 400 € más; el <a href=/patinetes/egret-pro/>Egret Pro</a> da un salto en prestaciones dentro de la misma filosofía. Al margen de la marca, los rivales chinos de 25 km/h resultan más baratos y rápidos, pero no igualan la frenada triple ni el enfoque de durabilidad. **Veredicto:** en uso diario, el Ey! 2 compensa para quien pone por delante seguridad, frenada y un producto europeo con servicio; no compensa para quien persiga la máxima velocidad o la mayor autonomía por euro.
+Dentro de la familia, el <a href=/patinetes/egret-ey-1/>Egret Ey! 1</a> ofrece más pico de potencia y rango por unos 400 € más, y el <a href=/patinetes/egret-pro/>Egret Pro</a> sube un escalón en prestaciones dentro de la misma filosofía. Fuera de casa, los rivales chinos de 25 km/h son más baratos y rápidos, pero no igualan el triple freno ni el enfoque de durabilidad. **Veredicto:** el Ey! 2 merece la pena para el usuario diario que prioriza seguridad, frenos y un producto europeo con servicio; no es la compra para quien busque la máxima velocidad o autonomía por euro. 
 
 ## Preguntas frecuentes
 
-### ¿Qué precio tiene el Egret Ey! 2?
-Cuesta **899 €** con IVA.
+### ¿Cuánto cuesta el Egret Ey! 2?
+**899 €** con IVA.
 
-### ¿Cómo frena el Egret Ey! 2?
-Con **tres** sistemas: tambor, disco y freno motor regenerativo.
+### ¿Qué frenos lleva?
+**Tres**: tambor, disco y freno motor regenerativo.
 
-### ¿Se pinchan sus ruedas con facilidad?
-Llevan ruedas tubeless con gel autosellante, así que la mayoría de pinchazos se cierran solos.
+### ¿Pinchan las ruedas?
+Son **tubeless con gel autosellante**: la mayoría de pinchazos se sellan solos.
 
-### ¿Cuántos kilómetros reales recorre?
-Alrededor de **30 km** en uso mixto.
+### ¿Qué autonomía real tiene?
+Unos **30 km** en uso mixto.
 
-### ¿Puede circular legalmente en España?
-Sí, como VMP en España, con 25 km/h de tope y fuera de aceras.
+### ¿Es legal en España?
+Sí como VMP, respetando 25 km/h y sin aceras.
 
-### ¿Compensa frente al Ey! 1?
-El Ey! 1 aporta más potencia pico y rango; el Ey! 2 sale 400 € más barato. En ciudad, el 2 resulta la compra sensata.
+### ¿Merece la pena frente al Ey! 1?
+El Ey! 1 tiene más pico y rango; el Ey! 2 cuesta 400 € menos. Para ciudad, el 2 es la compra sensata.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
@@ -3711,9 +3586,9 @@ El Ey! 6 tiene más batería (551 Wh frente a 446 Wh) y cuesta 100 € menos. Pa
   },
   {
     slug: "egret-ey-7",
-    title: "Egret Ey! 7: el patinete Bosch más barato, 449 €",
+    title: "Egret Ey! 7: motor Bosch por 449 €",
     excerpt:
-      "El Egret Ey! 7 cuesta 449 €, lleva motor Bosch, ruedas tubeless de 10 pulgadas y tres modos, pero aún no publica potencia, batería ni autonomía.",
+      "El Egret Ey! 7 rompe el precio de la marca: motor Bosch, 10 pulgadas tubeless y 449 €. La apuesta alemana por el gran público.",
     category: "Novedades Motor",
     date: "2026-10-05",
     readTime: 6,
@@ -3730,7 +3605,9 @@ El Ey! 6 tiene más batería (551 Wh frente a 446 Wh) y cuesta 100 € menos. Pa
     ],
     content: `<img src=/media/patinetes/egret-ey-7-1.webp alt=Egret Ey! 7 negro, vista lateral completa del patinete>
 
-El Egret más barato de la historia cuesta 449 € y se llama Ey! 7: lleva motor Bosch, calza ruedas tubeless de 10 pulgadas, ofrece tres modos de conducción y no pasa de 20 km/h. Llegó a las tiendas el 28 de mayo de 2025 (según <a href=https://gadgetflare.top/en/affordable-electric-scooter-featuring-bosch-motor-unveiled-egret-ey7/>GadgetFlare</a>). Si solo quieres las cifras, aquí va <a href=/patinetes/egret-ey-7/>la ficha del Ey! 7 con precio y motor</a>, y para enfrentarlo a otros patinetes, <a href=/comparador-patinetes/>el comparador de patinetes</a>.
+**¿Buscas solo los datos?** <a href=/patinetes/egret-ey-7/>Ver ficha técnica del Egret Ey! 7</a>: precio, motor y datos verificados. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.
+
+El **Egret Ey! 7** es la bomba de la marca alemana: **motor Bosch**, ruedas **tubeless de 10 pulgadas**, tres modos de conducción y un precio de **449 €** (<a href=https://gadgetflare.top/en/affordable-electric-scooter-featuring-bosch-motor-unveiled-egret-ey7/>GadgetFlare</a>). A la venta desde el 28 de mayo de 2025. El Egret más barato de la historia.
 
 ## Ficha técnica resumida
 
@@ -3742,47 +3619,27 @@ El Egret más barato de la historia cuesta 449 € y se llama Ey! 7: lleva motor
 | **Ruedas** | 10" tubeless |
 | **Disponible** | Desde mayo 2025 |
 
-El detalle completo está en <a href=/patinetes/egret-ey-7/>la ficha completa del Ey! 7</a>, con todos los datos verificados.
+¿Quieres el detalle completo? <a href=/patinetes/egret-ey-7/>Ficha técnica completa del Egret Ey! 7</a> con todos los datos verificados.
 
-## 449 €: un precio impensable para Egret
+## Precio del Egret Ey! 7 en España
 
-**449 €** de PVP recomendado. Que una marca como Egret bajara de los 500 € era algo impensable hasta ahora.
+**449 €** PVP recomendado. Un Egret por menos de 500 € era impensable hasta ahora.
 
 <img src=/media/patinetes/egret-ey-7-2.webp alt=Detalle del motor Bosch del Egret Ey! 7>
 
-## Lo que la marca aún no cuenta
+## Autonomía real vs declarada
 
-De momento, Egret no ha publicado ni la batería ni la autonomía oficiales. Por su motor Bosch y su planteamiento, cabe esperar un urbano de rango medio, pero eso es una expectativa, no un dato: actualizaremos la ficha en cuanto haya cifras.
+Egret aún no publica batería ni autonomía oficiales. Con motor Bosch y el posicionamiento, cabe esperar un urbano de rango medio; actualizaremos la ficha cuando haya datos.
 
-Tampoco hay detalles publicados del sistema de frenos del Ey! 7 más allá del equipamiento de seguridad de la familia, que en sus hermanos incluye triple freno. Esos detalles irán apareciendo.
+## Frenos y neumáticos
 
-## Una marca de Hamburgo que baja al segmento de volumen
+**Tubeless de 10 pulgadas** y el equipamiento de seguridad de la familia (triple freno en sus hermanos). Los detalles del Ey! 7 se irán publicando.
 
-Egret pertenece a **Walberg Urban Electrics GmbH**, firma de Hamburgo con más de diez años fabricando patinetes eléctricos premium. Sus señas son chasis elaborados, piezas de suministradores europeos y tarifas tradicionalmente elevadas. Por eso el Ey! 7 llama la atención en la casa: por primera vez, la firma alemana rompe la barrera de los 500 €. La jugada se entiende en su <a href=https://my-egret.com/>web oficial</a>: conservar el sello —aquí, el motor de **Bosch**— recortando en lo accesorio para entrar en la franja donde Xiaomi y Segway venden mucho.
+## Certificado DGT y normativa VMP
 
-## Lo confirmado y lo pendiente: sin cifras inventadas
+Sin certificado DGT español verificado; como el resto de la familia, limitado a **20 km/h** por homologación alemana. En España, VMP legal sin pisar **aceras**.
 
-Aquí no vamos a rellenar huecos con cifras de otros modelos. Lo confirmado del Ey! 7 es: 449 €, un motor de Bosch, ruedas sin cámara de 10 pulgadas, tres modos y venta a partir del 28 de mayo de 2025. Falta por confirmar oficialmente la potencia, la batería, la autonomía y el peso. Se puede leer de dos maneras: con indulgencia, es un modelo recién salido cuya ficha aún se está completando; con pragmatismo, sin autonomía declarada nadie debería comprar a ciegas. En cuanto Egret difunda los datos, actualizaremos esta ficha; de momento, el resto es contexto y normativa, no números heredados de sus hermanos.
-
-## Circular con él en España
-
-Da igual qué batería monte: en España, un Ey! 7 se rige por la normativa de los vehículos de movilidad personal. Eso significa circular por vías urbanas y carriles habilitados, nunca por las aceras, con un tope general de 25 km/h —este modelo, que por su homologación alemana no pasa de 20 km/h, queda dentro con margen— y con casco cuando lo exija la ordenanza de tu ciudad. Y un matiz importante: desde enero de 2024, en España solo se pueden vender VMP con certificado de circulación de la DGT. Comprueba antes de pagar, en <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>el listado oficial de la DGT para VMP certificados</a>, que el modelo y su versión exacta aparezcan certificados, porque la propia ficha avisa de que el Ey! 7 todavía no tiene certificado español.
-
-Igual que sus hermanos, no pasa de **20 km/h** por su homologación alemana, y en España un VMP es legal sin pisar **aceras**. Sin certificado DGT español verificado, de momento.
-
-## Para qué sirve de verdad
-
-Este tipo de patinete está hecho para recorridos cortos, de dos a ocho kilómetros: de casa a la estación y de la estación a la oficina. Para eso, las ruedas tubeless de 10 pulgadas son un acierto —más cómodas que unas de ocho y medio y con menos pinchazos que unas de cámara— y los tres modos sirven para templarlo en zonas peatonales. Eso sí: sin peso ni plegado publicados, no se puede asegurar que sea el más cómodo para subir a un tren en hora punta; otro dato que conviene pedir en tienda antes de pagar.
-
-## Mantenerlo cuesta poco, pero algo cuesta
-
-Un eléctrico de este tipo no gasta aceite ni pasa ITV, pero tiene consumibles: pastillas o tambores de freno, cubiertas tubeless cuya presión conviene revisar cada quince días —de ella dependen la autonomía y la estabilidad— y una batería que dura más si no se guarda vacía ni al sol. Que monte un motor Bosch y que la marca disponga de servicio en Europa facilita encontrar recambios frente a marcas sin importador: pregúntalo donde lo compres, porque en un VMP el taller pesa tanto como el precio.
-
-## Frente al Ey! 6: ¿compensa?
-
-El rival vive en la misma casa: el <a href=/patinetes/egret-ey-6/>Egret Ey! 6</a> figura en nuestra ficha por **799 €**, con 450 W nominales, 55 km de autonomía declarada como máximo y 21,6 kg: justo lo que el 7 todavía no declara. Si el presupuesto da más de sí, también se puede comparar con el <a href=/patinetes/egret-pro/>Egret Pro</a>. **Veredicto:** el Ey! 7 compensa si confías en la marca, lo vas a usar en ciudad para trayectos cortos y el precio es lo decisivo; pero hoy la compra sensata es condicional: pide en tienda la ficha completa y el certificado DGT. Si quieres que autonomía y peso vengan avalados por escrito, el Ey! 6 es la opción segura.
-
-## Lo bueno y lo mejorable
+## Puntos fuertes y débiles
 
 | ✅ Pros | ❌ Contras |
 |---|---|
@@ -3794,30 +3651,53 @@ El rival vive en la misma casa: el <a href=/patinetes/egret-ey-6/>Egret Ey! 6</a
 
 <img src=/media/patinetes/egret-ey-7-3.webp alt=Egret Ey! 7 en una calle comercial>
 
+## Walberg Urban Electrics: Hamburgo y la filosofía Egret
+
+Egret es la marca de **Walberg Urban Electrics GmbH**, una empresa de Hamburgo que lleva más de una década fabricando patinetes eléctricos premium: chasis cuidados, componentes de proveedores europeos y precios tradicionalmente altos. Por eso el Ey! 7 es noticia dentro de la casa: por primera vez, la marca alemana baja de los 500 €. La estrategia se entiende en su <a href=https://my-egret.com/>web oficial</a>: mantener el sello —en este caso, un motor suministrado por **Bosch**— recortando en lo accesorio para atacar el segmento donde Xiaomi y Segway venden por volumen.
+
+## Lo que se sabe y lo que aún no: honestidad de ficha
+
+Este análisis no va a inventarse lo que la marca aún no publica. Del Ey! 7 constan su precio de **449 €**, el motor Bosch, las ruedas **tubeless de 10 pulgadas**, los **tres modos de conducción** y su venta desde el 28 de mayo de 2025. No constan oficialmente ni la potencia, ni la batería, ni la autonomía, ni el peso. Eso tiene dos lecturas: la amable es que es un lanzamiento reciente con ficha en despliegue; la práctica es que, sin autonomía declarada, ningún comprador debería firmar a ciegas. Cuando Egret publique los datos, esta ficha se actualizará; hasta entonces, lo que sigue es contexto y normativa, no cifras prestadas de sus hermanos.
+
+## Normativa VMP en España: lo que sí está claro
+
+Sea cual sea su batería, si compras un Ey! 7 para usarlo en España te aplica el régimen de los vehículos de movilidad personal: circulación por vías urbanas y carriles habilitados, **prohibido circular por aceras**, velocidad máxima general de 25 km/h —este modelo está limitado a 20 km/h por su homologación alemana, así que cumple de sobra— y casco según la ordenanza de tu ciudad. Además, desde enero de 2024 solo pueden comercializarse en España VMP con el **certificado de circulación** de la DGT: antes de comprarlo, verifica en la <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>página oficial de la DGT sobre certificación de VMP</a> que el modelo y su versión concreta figuran como certificados, porque el propio análisis de la ficha advierte de que aún no hay certificado español verificado para el Ey! 7.
+
+## Uso real: último kilómetro y transporte público
+
+Un patinete de esta clase vive en trayectos de 2 a 8 km: de casa a la estación, de la estación a la oficina. Las ruedas de 10 pulgadas tubeless son la elección correcta para ese uso —más cómodas que las de 8,5 y con menos pinchazos que las de cámara— y los tres modos permiten domesticarlo en zonas peatonales. Sin datos de peso ni de plegado publicados, no podemos prometer que sea el más cómodo de subir a un tren en hora punta: es otro dato a exigir en tienda antes de pagar.
+
+## Mantenimiento: poco, pero no cero
+
+Un patinete eléctrico no tiene aceite ni ITV, pero sí consumibles: pastillas o tambores de freno, neumáticos tubeless que agradecen revisar la presión cada dos semanas —de ella dependen autonomía y estabilidad— y una batería que envejece mejor si no se guarda descargada ni al sol. La ventaja de que el motor sea Bosch y la marca tenga servicio en Europa es la disponibilidad de recambios frente a marcas sin importador: pregunta por ella en el punto de venta, porque en un VMP el taller es tan importante como el precio.
+
+## Frente al Ey! 6: ¿merece la pena?
+
+Su rival está en casa: el <a href=/patinetes/egret-ey-6/>Egret Ey! 6</a> cuesta **799 €** en nuestra ficha, con 450 W nominales, hasta 55 km de autonomía declarada y 21,6 kg de peso: todo lo que el 7 aún no declara. También puedes cruzar datos con el <a href=/patinetes/egret-pro/>Egret Pro</a> si tu presupuesto se estira. **Veredicto:** el Ey! 7 merece la pena si confías en la marca, tu uso es urbano corto y el precio manda; pero la compra inteligente hoy es condicional: exige la ficha completa y el certificado DGT en tienda. Si necesitas autonomía y peso garantizados por escrito, el Ey! 6 es la compra segura. 
+
 ## Preguntas frecuentes
 
-### ¿Cuánto vale el Egret Ey! 7?
-**449 €** de PVP recomendado.
+### ¿Cuánto cuesta el Egret Ey! 7?
+**449 €** PVP recomendado.
 
-### ¿Qué motor monta?
-Motor **Bosch**; la potencia aún no está publicada.
+### ¿Qué motor lleva?
+Un motor **Bosch**, sin datos de potencia publicados aún.
 
-### ¿Desde cuándo se vende?
-Llegó el 28 de mayo de 2025 a tiendas y a la web de Egret.
+### ¿Cuándo salió a la venta?
+El **28 de mayo de 2025** en tiendas y web de Egret.
 
-### ¿Qué autonomía declara?
-De momento, ninguna oficial.
+### ¿Qué autonomía tiene?
+Aún no publicada oficialmente.
 
-### ¿Se puede usar legalmente en España?
-Sí, como VMP: limitado a 20 km/h y sin pisar aceras.
+### ¿Es legal en España?
+Sí como VMP, con su límite de 20 km/h y sin aceras.
 
-### ¿Mejor el Ey! 7 o el Ey! 6?
-El Ey! 6 (799 €) viene con 551 Wh y ficha completa; el Ey! 7 es la opción económica con sello Bosch. Si manda el precio, el 7.
+### ¿Merece la pena frente al Ey! 6?
+El Ey! 6 (799 €) ofrece ficha completa y 551 Wh; el Ey! 7 es la apuesta budget con sello Bosch. Si el precio manda, el 7.
 
 ¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
 
-*Fuentes: <a href=https://gadgetflare.top/en/affordable-electric-scooter-featuring-bosch-motor-unveiled-egret-ey7/>presentación del Ey! 7 en GadgetFlare</a>. <a href=https://my-egret.com/>Egret (Walberg Urban Electrics) — web oficial</a> y <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>DGT — certificación de VMP</a>*
-`,
+*Fuentes: <a href=https://gadgetflare.top/en/affordable-electric-scooter-featuring-bosch-motor-unveiled-egret-ey7/>presentación del Ey! 7 en GadgetFlare</a>. <a href=https://my-egret.com/>Egret (Walberg Urban Electrics) — web oficial</a> y <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>DGT — certificación de VMP</a>*`,
   },
   // ─────────────────────────── TURBOANT (3) ───────────────────────────
   {

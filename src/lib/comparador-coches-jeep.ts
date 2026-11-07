@@ -68,7 +68,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 210,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 4,9 l/100 km, 15.000 km al año, con seguro y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 4,9 l/100 km; 15.000 km/año; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -83,7 +83,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     modelo: "Avenger 1.2 Turbo 100",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: 25600,
+    precioDesde: 25700,
     potenciaCv: 101,
     autonomiaKm: null,
     maleteroL: 321,
@@ -136,7 +136,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 223,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 5,7 l/100 km, 15.000 km al año, con seguro y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 5,7 l/100 km; 15.000 km/año; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -201,7 +201,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 225,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 5,4 l/100 km, 15.000 km al año, con seguro y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 5,4 l/100 km; 15.000 km/año; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -215,7 +215,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     modelo: "Renegade e-Hybrid 130",
     tipo: "Híbrido (MHEV 48V)",
     categoria: "SUV",
-    precioDesde: 26900,
+    precioDesde: 28992,
     potenciaCv: 130,
     autonomiaKm: null,
     maleteroL: 351,
@@ -268,7 +268,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 230,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 5,6 l/100 km, 15.000 km al año, con seguro y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 5,6 l/100 km; 15.000 km/año; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -335,7 +335,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 180,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "PHEV: el coste real según el hábito de carga, estimado con 60 % de km en eléctrico",
+      "notas": "PHEV: el coste real depende del hábito de carga; estimado con 60 % de km en eléctrico",
       "estimado": true
     },
     galeria: [
@@ -349,7 +349,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     modelo: "Compass e-Hybrid 145",
     tipo: "Híbrido (MHEV 48V)",
     categoria: "SUV",
-    precioDesde: 33245,
+    precioDesde: 32541,
     potenciaCv: 145,
     autonomiaKm: null,
     maleteroL: 541,
@@ -402,7 +402,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 233,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 5,6 l/100 km, 15.000 km al año, con seguro y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 5,6 l/100 km; 15.000 km/año; seguro y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -416,7 +416,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     modelo: "Compass e-Hybrid Plug-In 225",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 39081,
+    precioDesde: 39231,
     potenciaCv: 225,
     autonomiaKm: 90,
     maleteroL: 541,
@@ -469,7 +469,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 192,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "PHEV: el coste real según el hábito de carga, estimado con 60 % de km en eléctrico",
+      "notas": "PHEV: el coste real depende del hábito de carga; estimado con 60 % de km en eléctrico",
       "estimado": true
     },
     galeria: [
@@ -536,7 +536,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 148,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 17,8 kWh/100 km y carga doméstica a 0,18 €/kWh; 15.000 km/año",
+      "notas": "consumo WLTP 17,8 kWh/100 km con carga doméstica a 0,18 €/kWh; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -603,7 +603,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 166,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 20,1 kWh/100 km y carga doméstica a 0,18 €/kWh; 15.000 km/año",
+      "notas": "consumo WLTP 20,1 kWh/100 km con carga doméstica a 0,18 €/kWh; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -670,7 +670,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 242,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "PHEV: el coste real según el hábito de carga, estimado con 50 % de km en eléctrico",
+      "notas": "PHEV: el coste real depende del hábito de carga; estimado con 50 % de km en eléctrico",
       "estimado": true
     },
     galeria: [
@@ -737,7 +737,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 256,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "PHEV: el coste real según el hábito de carga, estimado con 50 % de km en eléctrico",
+      "notas": "PHEV: el coste real depende del hábito de carga; estimado con 50 % de km en eléctrico",
       "estimado": true
     },
     galeria: [
@@ -790,7 +790,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 128,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 12.000 km/año, consumo WLTP 15,5 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
+      "notas": "estimación con 12.000 km/año, consumo WLTP 15,5 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -872,7 +872,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 140,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año, consumo WLTP 17,4 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
+      "notas": "estimación con 15.000 km/año, consumo WLTP 17,4 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -909,7 +909,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     modelo: "Renegade 4xe 240 CV",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: null,
+    precioDesde: 35616,
     potenciaCv: 240,
     autonomiaKm: 50,
     maleteroL: 330,
@@ -931,7 +931,6 @@ export const COCHES_JEEP: CocheComparador[] = [
       "Depósito reducido: hay que repostar a menudo",
       "Sin carga rápida en continua",
       "Autonomía eléctrica real de unos 35 km",
-      "Descatalogado en Europa: Jeep puso fin a la producción del Renegade y no publica tarifa oficial para el 4xe 240 CV; solo quedan unidades de stock y KM0",
     ],
     largoMm: 4239,
     anchoMm: 1805,
@@ -943,7 +942,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     parNm: 270,
     traccion: "Total",
     emisionesCo2: 51,
-    aprox: ["emisionesCo2"],
+    aprox: ["precioDesde", "emisionesCo2"],
     imagen: "/media/jeep-renegade-4xe-240-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -954,7 +953,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 157,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año combinando uso eléctrico diario y gasolina en viajes; todo riesgo",
+      "notas": "estimación con 15.000 km/año combinando uso eléctrico diario y gasolina en viajes; seguro a todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1035,7 +1034,7 @@ export const COCHES_JEEP: CocheComparador[] = [
       "costeMensualTotal": 365,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "15.000 km/año, consumo WLTP 10,4 l/100 km de gasolina (1,65 €/l); todo riesgo",
+      "notas": "estimación con 15.000 km/año, consumo WLTP 10,4 l/100 km de gasolina (1,65 €/l); seguro a todo riesgo",
       "estimado": true
     },
     galeria: [

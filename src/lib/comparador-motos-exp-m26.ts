@@ -71,7 +71,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -154,7 +154,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -238,7 +238,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: "cfmoto-300nk-2026-precio-ficha-tecnica",
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -321,7 +321,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -404,7 +404,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -487,7 +487,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
+      intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses, lo que ocurra antes",
       revisiones: [
         {
           nombre: "Revisión de rodaje (1.000 km)",
@@ -570,7 +570,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -594,7 +594,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 904,
     categoria: "Trail",
-    precioDesde: 8299,
+    precioDesde: 8699,
     potenciaKw: 70,
     potenciaCv: 95,
     autonomiaKm: null,
@@ -653,7 +653,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -736,7 +736,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -819,7 +819,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -902,7 +902,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/Moto/srt-300dx/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -985,7 +985,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1068,7 +1068,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1151,7 +1151,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1234,7 +1234,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/Moto/cov-125/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1318,7 +1318,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/modelos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+      intervalo: "1.000 km, luego cada 6.000 km o 12 meses (lo que ocurra antes); revisión anual obligatoria",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1401,7 +1401,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://vogespain.es/modelos/sr16/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 5.000 km o 12 meses",
+      intervalo: "1.000 km, luego cada 5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1484,7 +1484,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.000 km, luego cada 5.000 km o 12 meses",
+      intervalo: "1.000 km, luego cada 5.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1567,7 +1567,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",
@@ -1645,7 +1645,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",
@@ -1720,7 +1720,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",
@@ -1796,7 +1796,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     analisisSlug: null,
     mantenimientoDIY: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses",
+      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
         {
           nombre: "Revisión cada 6.000 km",
@@ -2981,21 +2981,10 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     fuenteUrl: "https://www.belmontebikes.com/products/x-pect-lifan-200cc-dual-sport-dirt-bike-lf200gy-4",
     analisisSlug: null,
     planMantenimiento: {
-      "intervalo": "Primera revisión a los 1.000 km y después cada 3.000 km (puntos de la tabla oficial: 1.000, 3.000, 6.000, 9.000, 12.000, 15.000 y 18.000 km)",
-      "revisiones": [
-        {
-          "nombre": "Primera revisión (1.000 km)",
-          "queSeCambia": "Sustitución del aceite de motor; inspección de la bujía, la tornillería del motor y la línea de combustible; ajuste de la holgura de válvulas y del ralentí; limpieza del filtro de aceite y del tamiz de combustible",
-          "costeAproxEur": null
-        },
-        {
-          "nombre": "Revisiones periódicas (cada 3.000 km)",
-          "queSeCambia": "Sustitución del aceite de motor en cada punto de la tabla; bujía inspeccionada y sustituida según la tabla; ajuste periódico de la holgura de válvulas y del ralentí; limpieza del filtro de aceite y del tamiz de combustible; inspección de la línea de combustible, con sustitución programada en la tabla",
-          "costeAproxEur": null
-        }
-      ],
-      "costeAnualAproxEur": null,
-      "fuente": "Manual oficial del propietario American Lifan X-PECT 200 EFI (tabla «Maintenance Schedule»), texto completo en archive.org"
+      intervalo: "Sin plan oficial publicado para Europa; seguir el manual del propietario",
+      revisiones: [],
+      costeAnualAproxEur: null,
+      fuente: null,
     },
   },
   {

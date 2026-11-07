@@ -43,7 +43,7 @@ export const AUTOCARAVANAS_ELNAGH_M1: Autocaravana[] = [
     pesoKg: null, // masa en orden de marcha no publicada para el año modelo 2026
     mmaKg: 3500, // 3.500 kg de serie en la gama Baron 2026 (Reino Unido); Elnagh Italia no lo desglosa por modelo en la web
     carnetNecesario: "B", // con la MMA de 3.500 kg
-    cargaUtilKg: null, // la marca no da la carga útil del modelo exacto: nunca se calcula como MMA-MRO
+    cargaUtilKg: null, // la marca no publica la carga útil del modelo exacto: nunca se calcula como MMA-MRO
     consumo: null,
     consumoUnidad: null,
     plazas: 5, // catálogo oficial Elnagh 2026 (versión española): 5 plazas homologadas
@@ -73,7 +73,7 @@ En marcha, una perfilada de casi siete metros y 2,35 de ancho se comporta como l
 
 El precio es el gran punto ciego de esta ficha, y hay que explicarlo: Elnagh no publica PVP oficial de sus modelos, ni en Italia ni en España. La compra se hace siempre con oferta cerrada de concesionario, lo que obliga a pedir presupuesto en dos o tres distribuidores y comparar el equipamiento incluido, porque los packs —el Pack Baron con llantas, Traction Plus y antiniebla, o el Pack Extra Warm— cambian mucho el precio final. La red de Elnagh en España es más corta que la de las marcas francesas o alemanas, así que conviene localizar el servicio oficial más cercano antes de firmar: las revisiones de estanqueidad anuales son las que mantienen viva la garantía de diez años de la carrocería, y perderla por no sellar el libro sería un error caro.
 
-Cómo lo verificamos: los datos de esta ficha salen de la página oficial de la gama Baron en elnagh.com (comprobada el 19 de octubre de 2026), de la tabla oficial de especificaciones publicada por Elnagh en su propia web y del catálogo oficial Elnagh 2026 en versión española, que confirma los 6,99 metros, las 5 plazas homologadas y las 5 plazas de cama. La potencia de 140 CV corresponde a la gama 2025-2026; el catálogo de 2022 indicaba 120 CV, por lo que conviene confirmar la mecánica en la ficha de la unidad. Elnagh no publica PVP ni carga útil por modelo, de modo que ambos campos quedan sin dato y los datos procedentes de la red oficial o la prensa especializada van marcados en «aprox».
+Cómo lo verificamos: los datos de esta ficha proceden de la página oficial de la gama Baron en elnagh.com (verificada el 19 de octubre de 2026), de la tabla oficial de especificaciones publicada por Elnagh en su propia web y del catálogo oficial Elnagh 2026 en versión española, que confirma los 6,99 metros, las 5 plazas homologadas y las 5 plazas de cama. La potencia de 140 CV corresponde a la gama 2025-2026; el catálogo de 2022 indicaba 120 CV, por lo que conviene confirmar la mecánica en la ficha de la unidad. Elnagh no publica PVP ni carga útil por modelo, de modo que ambos campos quedan sin dato y los datos procedentes de la red oficial o la prensa especializada van marcados en «aprox».
 
 Para quién es: la Elnagh Baron 565 es para la familia que quiere una perfilada de camas gemelas con garaje grande, calefacción diésel de serie y una garantía de carrocería de diez años, sin pagar el sobreprecio de las premium alemanas. No es para quien busque diseño minimalista de última hornada, una red de servicio densa en España o un precio de tarifa transparente para comparar desde casa. El veredicto es que es la opción sensata y probada del segmento familiar italiano: construcción sólida, invierno resuelto de serie y un esquema de camas que funciona en la vida real, a cambio de aceptar que el precio se negocia en el concesionario y que la marca juega en España con menos distribuidores que sus rivales.`,
     pros: [
@@ -94,7 +94,7 @@ Para quién es: la Elnagh Baron 565 es para la familia que quiere una perfilada 
     galeria: [
       {
         src: "/media/elnagh-baron-565-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Elnagh Baron 65, lateral exterior con el grafismo de la gama",
+        alt: "Elnagh Baron 65, lateral exterior con el grafismo de la gama (foto oficial Elnagh)",
         ancho: 1200,
         alto: 800,
       },
@@ -106,13 +106,13 @@ Para quién es: la Elnagh Baron 565 es para la familia que quiere una perfilada 
       },
       {
         src: "/media/elnagh-baron-565-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Salón del Elnagh Baron 565",
+        alt: "Salón del Elnagh Baron 565 (foto oficial)",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/elnagh-baron-565-2026-precio-ficha-tecnica-oficial-interior3.webp",
-        alt: "Interior del Elnagh Baron 565, cocina",
+        alt: "Interior del Elnagh Baron 565, cocina (foto oficial)",
         ancho: 800,
         alto: 1200,
       },
@@ -120,7 +120,7 @@ Para quién es: la Elnagh Baron 565 es para la familia que quiere una perfilada 
     analisisSlug: "elnagh-baron-565-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: 2 años / 40.000 km",
+        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",

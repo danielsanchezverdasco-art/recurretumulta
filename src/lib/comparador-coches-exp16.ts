@@ -24,7 +24,7 @@ export const COCHES_EXP16: CocheComparador[] = [
     modelo: "CR-V e:HEV",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: 46745,
+    precioDesde: 48145,
     potenciaCv: 184,
     autonomiaKm: null,
     maleteroL: 588,
@@ -69,7 +69,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 215,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -146,7 +146,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 184,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -223,7 +223,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 196,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -300,7 +300,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 196,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -377,7 +377,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 173,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -454,7 +454,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 330,
       costeMensualTotal: 214,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -531,7 +531,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 133,
       notas:
-        "15.000 km/año, 0,19 €/kWh (doméstica) y todo riesgo.",
+        "Estimación con 15.000 km/año, recarga doméstica a 0,19 €/kWh y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -573,18 +573,18 @@ export const COCHES_EXP16: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "El 2.5 atmosférico de 140 CV ofrece suavidad sin turbo ni correas",
-      "La etiqueta ECO llega con mecánica de gasolina convencional",
-      "Las 5 estrellas Euro NCAP 2019, con 98 % en protección de adultos, avalan su seguridad",
-      "El maletero de 450 litros en la carrocería sedán da juego para viajar",
-      "La calidad interior es de nivel premium por 26.765 €",
+      "2.5 atmosférico de 140 CV: suavidad sin turbo ni correas",
+      "Etiqueta ECO con mecánica de gasolina convencional",
+      "5 estrellas Euro NCAP 2019 con 98 % en protección de adultos",
+      "Maletero de 450 litros en la carrocería sedán",
+      "Calidad interior de nivel premium por 26.765 €",
     ],
     contras: [
-      "Con 0 a 100 en 9,5 s, no es un coche prestacional",
+      "0-100 en 9,5 s: no es un coche prestacional",
       "El 2.5 gasta más en ciudad que un híbrido completo",
-      "El acceso al maletero tiene boca estrecha",
-      "No hay versión automática en el acabado de acceso",
-      "La pantalla multimedia no es táctil: solo mando rotativo",
+      "Acceso al maletero con boca estrecha",
+      "Sin versión automática en el acabado de acceso",
+      "Pantalla multimedia sin táctil (solo mando rotativo)",
     ],
     largoMm: 4660,
     anchoMm: 1795,
@@ -608,7 +608,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 210,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -651,7 +651,7 @@ export const COCHES_EXP16: CocheComparador[] = [
     etiquetaDgt: "C",
     pros: [
       "Peso de 1.114 kg: el deportivo más ligero a la venta",
-      "Techo duro retráctil en un biplaza de 1.114 kg y 1.230 mm de altura",
+      "Techo duro retráctil que lo convierte en coupé y descapotable a la vez",
       "Dirección y chasis de referencia en cuanto a diversión al volante",
       "Consumo de 6,3 l/100 km, bajo para un deportivo",
       "Fiabilidad contrastada del motor atmosférico 1.5 SKYACTIV-G",
@@ -685,7 +685,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 350,
       costeMensualTotal: 234,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -717,18 +717,18 @@ export const COCHES_EXP16: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "Las 5 estrellas Euro NCAP dan seguridad de segmento superior",
-      "El gasto de 3,8 l/100 km resulta imbatible en ciudad",
-      "El híbrido completo Toyota aporta la etiqueta ECO",
-      "Para ciudad, sus 3,94 m y su radio de giro corto son ideales",
-      "El sistema híbrido de 116 CV tiene fiabilidad probada",
+      "5 estrellas Euro NCAP: seguridad de segmento superior",
+      "Consumo de 3,8 l/100 km, imbatible en ciudad",
+      "Híbrido completo Toyota con etiqueta ECO",
+      "Ideal para ciudad: 3,94 m y radio de giro corto",
+      "Fiabilidad probada del sistema híbrido de 116 CV",
     ],
     contras: [
-      "Desde 26.850 €, sale caro frente al Yaris equivalente",
-      "El maletero de 286 litros se queda justo",
-      "El interior usa plásticos duros en zonas visibles",
-      "Con 9,7 s hasta 100 km/h, las prestaciones son modestas",
-      "La gama ofrece pocos acabados y opciones",
+      "Desde 26.850 €: caro frente al Yaris equivalente",
+      "Maletero de 286 litros, justo",
+      "Interior con plásticos duros en zonas visibles",
+      "9,7 s de 0 a 100: prestaciones modestas",
+      "Gama con pocos acabados y opciones",
     ],
     largoMm: 3940,
     anchoMm: 1745,
@@ -752,7 +752,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 157,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -829,7 +829,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 450,
       costeMensualTotal: 236,
       notas:
-        "15.000 km/año; diésel 1,55 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, diésel a 1,55 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -906,7 +906,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 340,
       costeMensualTotal: 241,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -948,18 +948,18 @@ export const COCHES_EXP16: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
-      "Los 186 CV con encendido por compresión SPCCI aportan una tecnología única",
-      "Con 8,1 s de 0 a 100 y 5,5 l/100 km, combina brío y consumo contenido",
-      "Las 5 estrellas Euro NCAP 2019, con 98 % en adultos, avalan su seguridad",
-      "Por 31.065 €, es el sedán más elegante del segmento",
-      "La etiqueta ECO no renuncia al tacto de un gasolina atmosférico",
+      "186 CV con encendido por compresión SPCCI: tecnología única",
+      "8,1 s de 0 a 100 con consumo de 5,5 l/100 km",
+      "5 estrellas Euro NCAP 2019 con 98 % en adultos",
+      "El sedán más elegante del segmento por 31.065 €",
+      "Etiqueta ECO sin renunciar al tacto gasolina atmosférico",
     ],
     contras: [
       "El X exige gasolina de 95 como mínimo y gasta más a fondo",
-      "La respuesta es menos inmediata que la de un turbo equivalente",
-      "La boca del maletero es estrecha pese a los 450 litros",
-      "El precio queda 4.300 € por encima del 2.5 G de 140 CV",
-      "La pantalla central no tiene modo táctil",
+      "Respuesta menos inmediata que un turbo equivalente",
+      "Boca del maletero estrecha pese a los 450 litros",
+      "Precio 4.300 € por encima del 2.5 G de 140 CV",
+      "Sin modo táctil en la pantalla central",
     ],
     largoMm: 4660,
     anchoMm: 1795,
@@ -983,7 +983,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 205,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1060,7 +1060,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 208,
       notas:
-        "15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
+        "Estimación con 15.000 km/año, gasolina a 1,60 €/l y todo riesgo.",
       estimado: true,
     },
     galeria: [
@@ -1137,7 +1137,7 @@ export const COCHES_EXP16: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 145,
       notas:
-        "15.000 km/año, uso mayoritario en eléctrico y todo riesgo.",
+        "Estimación con 15.000 km/año, uso mayoritario en eléctrico y todo riesgo.",
       estimado: true,
     },
     galeria: [
