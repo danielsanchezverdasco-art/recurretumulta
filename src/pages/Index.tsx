@@ -29,7 +29,7 @@ import { BLOG_LITE_HOME, BLOG_COUNT } from "@/lib/blog-lite-home.generated.ts";
 import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 import { LazyConvexProvider } from "@/components/providers/convex-lazy.tsx";
 
-const FAQ_GRATIS_TXT = `Sí, 100% gratis y sin trampa. Subes tu multa, la IA la analiza y te dice qué argumentos tienes, una valoración orientativa (alta, media, baja o no valorable) y cómo presentar el recurso. Sin registrarte, sin tarjeta bancaria. El análisis sigue siendo gratis. El plan de pago es el anual de vigilancia, 7,99 € al año, y no hay un cobro aparte por el PDF.`;
+const FAQ_GRATIS_TXT = `Sí, 100% gratis y sin trampa. Subes tu multa, la IA la analiza y te dice qué argumentos tienes, una valoración orientativa (alta, media, baja o no valorable) y cómo presentar el recurso. Sin registrarte, sin tarjeta bancaria. Si quieres vigilancia y el escrito en tu correo, la suscripción son 7,99 € cada año; el PDF no se vende aparte.`;
 // 26/10/2026 (fix menú móvil): estos chunks usan useAction de convex/react. Si
 // terminan de cargar antes que el ConvexProvider raíz (diferido con
 // requestIdleCallback, frecuente en móviles lentos), lanzaban «Could not find
@@ -558,7 +558,7 @@ var X = (0, z.lazy)(() =>
     },
     {
       title: `Cómo recurrir una multa DGT paso a paso`,
-      content: `1. Recibes la notificación de la multa. 2. Tienes 20 días naturales para pagar con el 50% de descuento O para presentar alegaciones — son incompatibles. 3. Sube la multa a RecurreTuMulta.online y obtén el análisis gratuito con los argumentos legales. 4. El recurso preparado forma parte del plan anual de vigilancia (7,99 € al año), no de un pago por PDF. 5. Firma el documento y envíalo al órgano que impuso la sanción: por la Sede Electrónica de la DGT (sede.dgt.gob.es) con certificado digital o Cl@ve, por correo certificado o presencialmente. 6. Si son alegaciones, no hay un silencio de un mes que las dé por desestimadas. Si ya recurres en reposición la resolución, el artículo 96.5 del RDL 6/2015 da un mes y el silencio es desestimatorio; el artículo 96.3 dice que esa reposición no suspende el pago. 7. Si se desestima, puedes acudir a la vía contencioso-administrativa.`,
+      content: `1. Recibes la notificación de la multa. 2. Tienes 20 días naturales para pagar con el 50% de descuento O para presentar alegaciones — son incompatibles. 3. Sube la multa a RecurreTuMulta.online y obtén el análisis gratuito con los argumentos legales. 4. El escrito redactado entra en la suscripción de 7,99 € anuales, no en un pago por documento. 5. Firma el documento y envíalo al órgano que impuso la sanción: por la Sede Electrónica de la DGT (sede.dgt.gob.es) con certificado digital o Cl@ve, por correo certificado o presencialmente. 6. Alegar no se convierte en desestimado al cumplirse un mes. Ese silencio negativo pertenece solo a la reposición ya presentada: el apartado 5 del art. 96 marca ese mes, y el apartado 3 deja la sanción ejecutiva. 7. Si se desestima, puedes acudir a la vía contencioso-administrativa.`,
     },
     {
       title: `Recurrir multa de radar: argumentos clave`,
@@ -746,7 +746,7 @@ function $() {
         applicationCategory: `LegalService`,
         operatingSystem: `Web`,
         url: `https://recurretumulta.online/`,
-        description: `Herramienta de inteligencia artificial para recurrir multas de tráfico DGT gratis en España. Análisis gratuito. El plan de pago es la vigilancia anual a 7,99 €.`,
+        description: `Herramienta de inteligencia artificial para recurrir multas de tráfico DGT gratis en España. Análisis gratuito de multas DGT. La suscripción de vigilancia cuesta 7,99 € al año.`,
         offers: [
           {
             "@type": `Offer`,
@@ -1037,7 +1037,7 @@ function $() {
                     }),
                   (0, B.jsx)(`p`, {
                     className: `text-xs text-gray-600 bg-amber-50 border border-amber-200 rounded-xl p-3 text-center mt-2`,
-                    children: `Aviso: el analizador es una herramienta informativa con IA. No es asesoramiento jurídico ni garantiza que la multa se anule; consulta con un abogado si tu caso lo requiere. El análisis es gratis. El plan de pago es el anual de vigilancia, 7,99 €, sin cobro aparte por PDF.`,
+                    children: `Aviso: el analizador es una herramienta informativa con IA. No es asesoramiento jurídico ni garantiza que la multa se anule; consulta con un abogado si tu caso lo requiere. El análisis es gratis y no sustituye a un abogado. La vigilancia de nuevas multas, si la contratas, son 7,99 € anuales.`,
                   }),
                 ],
               }),

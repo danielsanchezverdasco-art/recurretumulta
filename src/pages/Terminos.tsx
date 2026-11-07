@@ -49,7 +49,7 @@ export default function TerminosPage() {
 
           <section>
             <h2 className="text-xl font-black text-gray-900">2. Sin registro: acceso al servicio</h2>
-            <p>RecurreTuMulta.online no requiere crear una cuenta ni usar contraseñas. El análisis de tu multa con IA es gratuito y no necesitas registrarte. El único plan de pago es el anual de vigilancia, de 7,99 € al año. Para darlo de alta pedimos los datos necesarios para avisarte y redactar el recurso (nombre completo, DNI/NIE, domicilio y un correo). No hay un cobro aparte por cada PDF. El recurso preparado se envía a ese correo.</p>
+            <p>RecurreTuMulta.online no requiere crear una cuenta ni usar contraseñas. El análisis de tu multa con IA es gratuito y no necesitas registrarte. No hace falta cuenta para el análisis gratuito. Lo que se factura es la vigilancia de multas: 7,99 € al año. Pedimos nombre, DNI o NIE, domicilio y correo para avisarte y enviarte el escrito. El PDF no tiene un precio propio.</p>
           </section>
 
           <section>
