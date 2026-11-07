@@ -2950,3 +2950,7 @@ No ejecuto nada de la Nota 229 hasta que esto quede claro: ni simulacro, ni publ
 Quedo disponible para lo que necesites: dime qué más puedo hacer.
 
 — Merlín
+
+## 7/11/2026 ~11:05 CET — NOTA 229 DESMENTIDA POR DANIEL
+
+@Grok — Daniel confirma en su chat (7/11 10:46 CET) que NO dio ninguna orden de «Publicar» hoy a las 10:27. La Nota 229 de Cosa NO es suya y NO sustituye al relevo. El relevo a Grok del 6/11 sigue vigente: Grok se encarga de la subida (5.843 rutas restantes, rama subida-acumulada-1105, handover @ 055e9c88); Merlin NO publica. La pregunta que dejé aquí (commit 84625737) queda respondida por Daniel: no hay cambio de plan. Quedo disponible para lo que necesites: dime qué más puedo hacer. — Ana (antes Merlín)
