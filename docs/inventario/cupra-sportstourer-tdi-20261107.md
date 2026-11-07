@@ -1,35 +1,35 @@
-# Cupra León Sportstourer: el 2.0 TDI existe; las fotos no lo prueban
+# Cupra León Sportstourer 2.0 TDI y VZ 333
 
-No se cambia el título. No se sustituye ninguna foto. No entra en el sello 64b7fc873.
+No se sustituye ninguna foto. No se toca el título ni el precio guardado. El sello `64b7fc873` no cambia.
 
-## Precio 2026
+## Qué se ve
 
-La lista oficial de SEAT/CUPRA de mayo de 2026 pone el Cupra Leon Sportstourer 2.0 TDI 110 kW (150 CV) DSG 7 vel MY26.5 en 42.002 €, y el Beyond en 42.989 €.
+En la aleta delantera, justo detrás de la rueda delantera, hay una tapa pequeña y cerrada. No se lee TDI, VZ ni e-HYBRID. No se ve el enchufe abierto ni un rayo. La matrícula de prensa es 2024 CL0.
 
-https://www.seat-cupra-mediacenter.es/content/dam/seat-media-center/models-all-brands/cupra-models/cupra-leon/listado-de-precios-y-equipamiento/Listado%20de%20precios%20(PVP)%20y%20equipamiento%20%20-%20Gama%20CUPRA%20Le%C3%B3n%20(mayo%202026).pdf
+Esa tapa está en el sitio que Dieteren da para el puerto del Sportstourer e-Hybrid: lado izquierdo, delante (`https://www.dieterenenergy.be/fr_BE/vehicules/brand/cupra/cupra-leon-sportstourer-1-5-tsi-ehybrid-3023-1111`). Driven distingue la tapa de gasolina, atrás, de la de corriente alterna, delante (`https://www.drivencarguide.co.nz/reviews/cupra-leon-sportstourer-v-e-hybrid-review-good-clean-fun/`). Con la tapa cerrada y sin leyenda, eso no basta para dar por demostrada una foto errónea. Estado: sin variante confirmada. Tampoco confirma el 2.0 TDI ni el VZ 333.
 
-La ficha de CUPRA Alemania da el mismo motor: 110 kW, 0-100 en 8,7 s, 214 km/h, 360 Nm, 4,9-5,1 l/100 km y 128-135 g/km.
+Que dos ficheros tengan los mismos bytes solo prueba que es la misma foto. El `-3` del VZ 333 es el mismo byte que el `-3` del e-Hybrid y sale en `/blog/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica/`. El `-1` y el `-2` del VZ no salen en el HTML. Los `-1`, `-2` y `-3` con nombre e-Hybrid solo salen en el blog del e-Hybrid.
 
-https://www.cupra.com/de-de/fahrzeuge/leon-sportstourer/cupra-leon-sportstourer
+## Búsqueda acotada, sin recambio
 
-El título de la página sigue diciendo desde 36.862 €. No se toca.
+No aparece una foto pública que la fuente ate a un Sportstourer 2.0 TDI o a un VZ 333 y que se distinga de este juego. Lombarda Motori ficha el 2.0 TDI 150 CV DSG y la imagen que sirve es un genérico rotulado solo «CUPRA LEON SPORTSTOURER» (`https://www.motornet.it/img/modelli/auto/CUP/LEON%20SPORTSTOURER%202024_1.jpg`). No se usa. Autopista titula una galería como VZ 2.0 TSI 333; las imágenes no se han podido bajar. No se inventa ni se pone otra variante.
 
-## Fotos
+## Páginas que usan estas fotos
 
-Las fotos abiertas del Sportstourer (TDI héroe, TDI hunt1, TDI hunt2 y VZ oficial) llevan tapa de carga y la matrícula 2024 CL0. Es el juego de prensa del enchufable, no un diésel y no un 2.0 TSI de 333 CV. El centro de prensa no entrega en esta consulta un archivo etiquetado como 2.0 TDI sin esa tapa. No se usa otra variante.
+Oficial y héroe del 2.0 TDI, el mismo byte, con esa tapa en la aleta:
 
-## Tres ficheros compartidos
+- `/coches/cupra-leon-sportstourer-20-tdi-2026-precio-ficha-tecnica/`
+- `/blog/cupra-leon-sportstourer-20-tdi-2026-precio-ficha-tecnica/`
+- y, como miniatura de ese modelo, las fichas del SEAT León Sportstourer 2.0 TDI 150, Kia ProCeed, Passat Variant 2.0 TDI, Cupra León Sportstourer 1.5 TSI, Golf Variant 2.0 TDI, Arteon y Octavia Combi 2.0 TDI
 
-Estos tres pares son el mismo byte:
+Oficial del VZ 333, otro fichero del mismo estudio y con la misma tapa:
 
-- ehybrid-1, ehybrid-hero y vz-1
-- ehybrid-2 y vz-2
-- ehybrid-3 y vz-3
+- `/coches/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica/`
+- `/blog/cupra-leon-sportstourer-vz-333-2025-precio-ficha-tecnica/`
+- y, como miniatura del VZ, Octavia Combi RS, Octavia Combi 2.0 TSI, Superb Combi 2.0 TSI, Passat Variant 2.0 TSI y Golf R Variant
 
-En el HTML, el 1 y el 2 con nombre VZ no se pintan. El 3 sí sale en el blog del VZ 333. Las fotos -1, -2 y -3 con nombre e-Hybrid solo salen en el blog del e-Hybrid.
+Siguen bloqueadas como prueba de esas motorizaciones.
 
-La oficial del VZ es otro fichero, también con tapa de carga, y sí se pinta como miniatura del VZ en las fichas de gasolina del Octavia Combi RS, Octavia Combi 2.0 TSI, Superb Combi 2.0 TSI, Passat Variant 2.0 TSI y Golf R Variant, además de la propia ficha y el blog del VZ. Sigue bloqueada: no hay foto del VZ 333 para poner en su lugar.
+## Precio
 
-## Cobertura
-
-206 lecturas visuales. El dist renderizado tiene miles de referencias a `/media/`. Esas 206 no son 1390 ni el sitio entero. Un recuento de bytes iguales con distinto nombre de fichero, entre las fotos que el HTML sí usa, da 397 grupos. Eso mide el archivo, no una lectura visual de cada grupo.
+La lista SEAT/CUPRA de mayo de 2026 pone el Sportstourer 2.0 TDI 150 CV DSG en 42.002 €. Motor.es muestra ahora un importe de oferta distinto del PVP. No se sabe la fecha ni la condición del 36.862 € del título. No se declara un error y no se cambia el dato.
