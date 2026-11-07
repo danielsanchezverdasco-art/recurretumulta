@@ -1,63 +1,38 @@
 #!/usr/bin/env python3
-"""UNITARIO del gate de fotos. Señales locales. No abre red y no inventa créditos."""
-import os, sys
+"""UNITARIO del gate de fotos. No abre red, no inventa créditos y no mira nombres parecidos."""
+import sys, os
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from chequeo_fotos import es_nueva_sin_fuente, resolver_preexistente
+from chequeo_fotos import motivo_foto_nueva
 
 FOTO = "/media/ejemplo-modelo.webp"
-SHA = "a" * 40
+ASOC = {"/media/ejemplo-modelo.webp"}
+IA = {"/media/ejemplo-ia.webp"}
 
 
-def test_ausente_no_exime_y_no_pregunta():
-    llamadas = []
-    inventario = {"/media/otra.webp": SHA}
-    assert resolver_preexistente(FOTO, SHA, inventario) == "rechazar"
-    assert es_nueva_sin_fuente(FOTO, set(), SHA, inventario, lambda: llamadas.append(1) or True) is True
-    assert llamadas == []
+def test_sin_url_pero_con_asociacion_no_bloquea():
+    assert motivo_foto_nueva(FOTO, True, ASOC, set()) is None
 
 
-def test_mismo_sha_exime_sin_preguntar_y_sin_inventar_fuente():
-    llamadas = []
-    inventario = {FOTO: SHA}
-    assert resolver_preexistente(FOTO, SHA, inventario) == "eximir"
-    assert es_nueva_sin_fuente(FOTO, set(), SHA, inventario, lambda: llamadas.append(1) or False) is False
-    assert llamadas == []
+def test_url_no_basta_si_no_hay_asociacion():
+    assert motivo_foto_nueva(FOTO, True, set(), set()) == "sin-prueba-modelo"
 
 
-def test_sha_distinto_no_exime():
-    inventario = {FOTO: "b" * 40}
-    assert resolver_preexistente(FOTO, SHA, inventario) == "rechazar"
-    assert es_nueva_sin_fuente(FOTO, set(), SHA, inventario, lambda: True) is True
+def test_sin_uso_no_bloquea_ni_se_trata_como_modelo_incorrecto():
+    assert motivo_foto_nueva(FOTO, False, set(), set()) == "sin-uso"
 
 
-def test_sin_inventario_pregunta_y_el_fallo_de_red_no_exime():
-    llamadas = []
-
-    def pedir():
-        llamadas.append(1)
-        raise OSError("ssl")
-
-    assert resolver_preexistente(FOTO, SHA, None) == "preguntar"
-    assert es_nueva_sin_fuente(FOTO, set(), SHA, None, pedir) is True
-    assert llamadas == [1]
+def test_el_nombre_parecido_no_es_la_asociacion():
+    assert motivo_foto_nueva(FOTO, True, {"/media/ejemplo-modelo-2.webp"}, set()) == "sin-prueba-modelo"
 
 
-def test_bytes_iguales_por_pregunta_eximen_igual_que_el_sha():
-    assert es_nueva_sin_fuente(FOTO, set(), SHA, None, lambda: True) is False
-    assert es_nueva_sin_fuente(FOTO, set(), SHA, {FOTO: SHA}, lambda: False) is False
+def test_ia_referenciada_sigue_bloqueada_aunque_exista_asociacion():
+    assert motivo_foto_nueva("/media/ejemplo-ia.webp", True, {"/media/ejemplo-ia.webp"}, IA) == "ia"
 
 
-def test_con_url_no_falla_aunque_el_inventario_la_desconozca():
-    llamadas = []
-    assert es_nueva_sin_fuente(FOTO, {FOTO}, None, {}, lambda: llamadas.append(1)) is False
-    assert llamadas == []
-
-
-def test_nombre_parecido_no_cuenta_como_la_misma_foto():
-    inventario = {"/media/ejemplo-modelo-2.webp": SHA}
-    assert resolver_preexistente(FOTO, SHA, inventario) == "rechazar"
+def test_ia_sin_uso_no_se_borra_por_este_motivo():
+    assert motivo_foto_nueva("/media/ejemplo-ia.webp", False, set(), IA) == "sin-uso"
 
 
 if __name__ == "__main__":
@@ -70,6 +45,6 @@ if __name__ == "__main__":
             print("ok", nombre)
         except Exception as e:
             fallos += 1
-            print("FALLO", nombre, e)
+            print("FALLO", nombre, type(e).__name__, e)
     print("RESULTADO:", "OK" if not fallos else "%d FALLOS" % fallos)
     sys.exit(1 if fallos else 0)
