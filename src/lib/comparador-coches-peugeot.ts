@@ -1997,3 +1997,9 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     fuenteUrl: "https://professional.peugeot.be/content/dam/peugeot/spain/pdf/equipamientos-y-caracteristicas/Expert-equipamientos-caracteristicas.pdf",
   },
 ];
+
+/* cifras-ramas-711
+"notas": "15.000 km/año, consumo WLTP 14 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un utilitario eléctrico",
+"notas": "15.000 km/año, consumo WLTP 4,5 l/100 km y gasolina a 1,55 €/l; seguro y mantenimiento orientativos para un utilitario híbrido",
+"notas": "15.000 km/año, consumo WLTP 15,3 kWh/100 km a 0,18 €/kWh con carga doméstica; seguro y mantenimiento orientativos para un SUV eléctrico",
+*/

@@ -281,3 +281,9 @@ Para quién: la pareja que busca la experiencia integral —visibilidad, luz, am
     },
   },
 ];
+
+/* cifras-ramas-711
+La masa máxima autorizada es de 3.500 kg en la versión 35L, de modo que se lleva con el carnet B, y el peso contenido de la gama Axess —la línea de entrada de Matrix— deja un margen de carga útil razonable para cuatro ocupantes con su equipaje, la despensa y las bicis en el garaje trasero.
+intervalo: "Base Fiat Ducato / Citroën Jumper: 2 años / 40.000 km",
+intervalo: "Base Fiat Ducato: 2 años / 40.000 km",
+*/

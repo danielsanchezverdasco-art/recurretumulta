@@ -120,3 +120,7 @@ En precio no hay tarifa posible: sin precio oficial en ningún mercado y fuera d
       "Globecar nació en 2003 como la marca de furgones camper de Dethleffs dentro del grupo Erwin Hymer; con el tiempo la marca fue absorbida y su web redirige hoy a Roadcar, su marca hermana. Fuente: https://www.derfreistaat.de/en/the-freistaat/5-strong-dealers-for-motorhomes-and-caravans/",
   },
 ];
+
+/* cifras-ramas-711
+"Citroën Jumper 2.2: 2 años / 40.000 km",
+*/

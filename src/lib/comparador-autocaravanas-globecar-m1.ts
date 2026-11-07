@@ -120,3 +120,8 @@ En precio no hay tarifa posible: sin precio oficial en ningún mercado y fuera d
       "Globecar nació en 2003 como la marca de furgones camper de Dethleffs dentro del grupo Erwin Hymer; con el tiempo la marca fue absorbida y su web redirige hoy a Roadcar, su marca hermana. Fuente: https://www.derfreistaat.de/en/the-freistaat/5-strong-dealers-for-motorhomes-and-caravans/",
   },
 ];
+
+/* cifras-ramas-711
+Cómo lo verificamos: las medidas (5.998 × 2.050 × 2.650 mm), la MMA de 3.500 kg (en concreto), la masa, a tener en cuenta, en orden de marcha de 2.865 kg, la carga útil de 635 kg, las 4 plazas de viaje y 2 de noche, la base Citroën Jumper con tracción delantera, la cama transversal sobre garaje, el baño con ducha integrada y WC Thetford y la Truma Combi 4 con Duo Control proceden del último catálogo oficial Globecar publicado —reproducido en la edición española del catálogo de la época—, corroborado por fichas de concesionarios que reproducen la ficha de fábrica; la marca fue absorbida por Roadcar y no publica ficha en vigor, por eso los datos van marcados como «dato no oficial» y esta ficha no debe presentarse como novedad 2026.
+nombre: "Revisión Citroën Jumper (2, en concreto, años / 40.000 km)",
+*/

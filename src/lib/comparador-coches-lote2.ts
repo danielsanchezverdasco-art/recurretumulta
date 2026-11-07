@@ -1606,3 +1606,9 @@ export const COCHES_LOTE2: CocheComparador[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+pros: ["1.102 CV y 0-100 en 2,7 s: la berlina china más rápida de la historia", "Plataforma de 1.000 V con carga de 1.000 kW: 400 km en 5 minutos", "701 km de autonomía CLTC con 83,2 kWh", "305 km/h de velocidad máxima: territorio de superdeportivos", "God's Eye B con LiDAR de serie en toda la gama"],
+contras: ["No se vende en Europa: exclusivo del mercado chino", "La carga de 1.000 kW necesita megacargadores que no existen en Europa", "1.102 CV en una berlina familiar: ¿quién los necesita?", "2.466 kg de peso en orden de marcha", "Sin datos de seguridad Euro NCAP"],
+"Cuatro motores eléctricos suman 1.088 CV en este todoterreno M-Hero 917",
+*/

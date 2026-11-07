@@ -1615,3 +1615,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+"Oferta de lanzamiento: 8.299 € con maletas; todo riesgo",
+*/

@@ -390,3 +390,9 @@ Perfil de comprador: este C 644 está pensado para parejas que viajan acompañad
       "https://www.buerstner.com/be/nl/campervans/campervans/eliseo-c",
   },
 ];
+
+/* cifras-ramas-711
+La base es el Fiat Ducato 2.2 Multijet con 140 CV (103 kW) y 350 Nm, con tracción delantera y cambio manual de seis velocidades de serie —el automático de nueve relaciones está en opción—.
+Verificación de fuentes, dimensiones 5,99 x 2,05 x 2,65 m), plazas (4 de viaje / 2-5 para dormir, MMA 3.500 kg, peso en orden de marcha (2.755 kg), medidas de camas, frigorífico (84 l) y depósito de agua (91 l) proceden de la ficha oficial de la gama Campeo C publicada en buerstner.com.
+El Lyseo TD se construye sobre el chasis rebajado de Fiat con el motor 2.2 Multijet con 140 CV (103 kW) y 350 Nm, cambio manual de seis velocidades de serie y el automático de ocho relaciones en opción —una combinación que en una perfilada de 7,36 m se nota en autopista—.
+*/

@@ -817,3 +817,9 @@ export const COCHES_BESTUNE: CocheComparador[] = [
     analisisSlug: "bestune-pony-2025-precio-ficha-tecnica",
   },
 ];
+
+/* cifras-ramas-711
+"15.000 km/año; gasolina 1,60 €/l; todo riesgo.
+"15.000 km/año, 0,18 €/kWh (doméstica); todo riesgo (uso profesional).
+"15.000 km/año, 0,18 €/kWh (doméstica) y seguro a terceros ampliado.
+*/

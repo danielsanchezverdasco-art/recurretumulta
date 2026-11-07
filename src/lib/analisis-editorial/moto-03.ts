@@ -764,3 +764,7 @@ export const ANALISIS_MOTO_03: MapaAnalisis = {
     veredicto: "Una ocasión con estilo para empezar con marchas por poco dinero; imprescindible revisarla a fondo antes de comprar.",
   },
 };
+
+/* cifras-ramas-711
+Los peros: el diseño clásico no gustará a quien busque modernidad, las suspensiones Marzocchi son correctas sin regulación avanzada, el depósito de 13 litros da una autonomía media, no hay quickshifter ni control de crucero y la red de servicio es más reducida que la de las japonesas.",
+*/

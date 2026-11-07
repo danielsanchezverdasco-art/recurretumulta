@@ -150,3 +150,7 @@ export const AUTOCARAVANAS_RAPIDO_M5: Autocaravana[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+"Base Fiat Ducato / Peugeot Boxer: 2 años / 40.000 km (lo que antes ocurra, según plan del fabricante)",
+*/

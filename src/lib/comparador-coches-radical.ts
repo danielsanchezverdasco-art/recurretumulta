@@ -407,3 +407,9 @@ export const COCHES_RADICAL: CocheComparador[] = [
     analisisSlug: "radical-rxc-spyder-2025-precio-ficha-tecnica",
   },
 ];
+
+/* cifras-ramas-711
+"Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~15 l/100 km en pista); todo riesgo y mantenimiento de competición (neumáticos, frenos, revisiones del motor RPE).",
+"Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~18 l/100 km en pista); todo riesgo y mantenimiento de competición (slicks, frenos, revisiones del motor RPE).",
+"Estimación para uso en circuito (~5.000 km/año), gasolina de 98 a 1,6 €/l (~20 l/100 km en pista); todo riesgo y mantenimiento de competición (motor turbo, slicks, frenos).",
+*/

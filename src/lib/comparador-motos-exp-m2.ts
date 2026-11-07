@@ -2662,3 +2662,9 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     mantenimientoDIY: null,
   },
 ];
+
+/* cifras-ramas-711
+"165 kg en seco y en maniobras, en parado, que se notan",
+"Autonomía real digna para una hypernaked: unos 300 km con 17,5 litros en conducción tranquila, según la prueba de moriwoki.",
+"KTM buscaba una relación peso/potencia de 1:1 y se quedó muy cerca: 190 CV para 200 kg en seco (motofichas).",
+*/

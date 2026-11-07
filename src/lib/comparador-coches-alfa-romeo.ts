@@ -1556,3 +1556,9 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Serie limitada artesanal: Euro NCAP no prueba este tipo de modelos."},
   }
 ];
+
+/* cifras-ramas-711
+"notas": "15.000 km al año; carga en casa a 0,18 €/kWh; precio de tarifa 38.500 €, 33.570 € con descuentos (km77, 06/2026)",
+"Consumo de 18,6 kWh cada 100 km, alto para el segmento",
+"notas": "15.000 km al año; carga en casa a 0,18 €/kWh; seguro más caro por potencia y precio (km77, 06/2026)",
+*/

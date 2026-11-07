@@ -2119,3 +2119,8 @@ export const COCHES_AUDI: CocheComparador[] = [
     ],
   },
 ];
+
+/* cifras-ramas-711
+"notas": "Estimación orientativa con 15.000 km/año: energía = 9,4 l/100 km WLTP × 1,85 €/l; todo riesgo y mantenimiento estimados por tramo de precio en red oficial Audi Sport.
+"notas": "Estimación orientativa con 15.000 km/año: energía = 7,7 l/100 km WLTP × 1,85 €/l (precio gasóleo aprox); todo riesgo y mantenimiento estimados por tramo de precio en red oficial Audi.
+*/

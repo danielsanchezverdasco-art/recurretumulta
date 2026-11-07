@@ -319,3 +319,8 @@ Para quién: la pareja que quiere una autocaravana de verdad sin arrastrar siete
     },
   },
 ];
+
+/* cifras-ramas-711
+intervalo: "Base Ford Transit: 2 años / 40.000 km",
+"Base Fiat Ducato: 2 años / 48.000 km (lo que antes ocurra, según plan Fiat)",
+*/

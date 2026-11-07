@@ -132,3 +132,7 @@ export const AUTOCARAVANAS_RAPIDO_M2: Autocaravana[] = [
     fuenteUrl: "https://www.rapido.fr/",
   }
 ];
+
+/* cifras-ramas-711
+"Peugeot Boxer 2.2: 2 años / 40.000 km (según plan Peugeot)",
+*/

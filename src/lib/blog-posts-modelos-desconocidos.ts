@@ -1296,3 +1296,9 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
   },
 ];
 
+
+/* cifras-ramas-711
+title: "Evoke Nrgy: eléctrica china de 120 km/h desde 4.995 $",
+excerpt: "La Evoke Nrgy promete autopista eléctrica por 4.995 $: 120 km/h, hasta 8,4 kWh y 240 km CLTC.
+Los datos proceden de la <a href=https://www.evokemotorcycles.com/NrgySeries>página oficial de Evoke Nrgy</a>, <a href=https://electrek.co/2026/09/07/evokes-new-5000-electric-motorcycle-can-hit-highway-speeds-coming-to-us-eu/>Electrek</a> y <a href=https://newatlas.com/motorcycles/evoke-nrgy/>New Atlas</a>.
+*/

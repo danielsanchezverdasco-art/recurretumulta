@@ -136,3 +136,7 @@ export const AUTOCARAVANAS_ADRIA_M5: Autocaravana[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+"Base Mercedes-Benz Sprinter: 2 años / 40.000 km (según plan del fabricante de la base)",
+*/

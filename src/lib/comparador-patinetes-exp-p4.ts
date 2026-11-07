@@ -2232,3 +2232,9 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+"Batería de 480 Wh y motor de 800 W: 40 km declarados y 27 km reales.",
+"Pesa 37 kg, lo que se nota al cargarlo, plegarlo y guardarlo en un uso urbano diario.",
+"3.600 W de pico, batería de 1.680 Wh y 70 km/h de velocidad máxima.
+*/

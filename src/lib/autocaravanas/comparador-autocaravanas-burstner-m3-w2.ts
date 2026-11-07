@@ -255,3 +255,8 @@ export const AUTOCARAVANAS_BURSTNER_M3: Autocaravana[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+"se conduce con carnet B y 3.500 kg de MMA)",
+"Base Fiat Ducato / Mercedes Sprinter: 2 años / 48.000 km (según plan del fabricante de la base)",
+*/

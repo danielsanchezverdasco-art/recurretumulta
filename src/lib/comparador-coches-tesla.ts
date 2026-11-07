@@ -629,3 +629,9 @@ export const COCHES_TESLA: CocheComparador[] = [
     ],
   },
 ];
+
+/* cifras-ramas-711
+"notas": "consumo WLTP 16,5 kWh/100 km; 15.000 km/año; 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento y potencia",
+url: "https://news.euroncap.com/safercars/tesla-model-3---euro-ncap-2025-results---5-stars/s/bf232c62-8a8a-435a-aa69-dbafc0a82459",
+nota: "Test del Tesla Model 3 (2025), válido para toda la gama: 90% adultos, 93% infantil, 89% peatones, 87% asistencias",
+*/

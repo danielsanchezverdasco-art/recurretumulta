@@ -511,3 +511,9 @@ export const COCHES_EXP25: CocheComparador[] = [
     confianza: "media",
   },
 ];
+
+/* cifras-ramas-711
+"El sistema Super Hybrid System combina 279 CV y 365 Nm con un 1.5 TGDI y dos motores eléctricos.",
+"Homologa 92 km eléctricos WLTP, suficientes para el trayecto diario sin gastar gasolina.",
+"Este C7 carga en continua a 40 kW y completa del 30 al 80 por ciento en 20 minutos, algo poco frecuente en un PHEV.",
+*/

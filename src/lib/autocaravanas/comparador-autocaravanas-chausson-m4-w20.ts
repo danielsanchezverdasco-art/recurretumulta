@@ -102,3 +102,7 @@ export const AUTOCARAVANAS_CHAUSSON_M4: Autocaravana[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+intervalo: "Base Citroën Jumper: 2 años / 40.000 km",
+*/

@@ -3163,3 +3163,9 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     analisisSlug: "mondial-flat-track-125-2024-ficha-tecnica-precio",
   },
 ];
+
+/* cifras-ramas-711
+intervaloMantenimiento: "Primera revisión a los 1.000 que llegue, al año (lo, o una vez, km; después cada 6.000 km antes)",
+"Y refrigerante, de aceite, y los niveles, de los neumáticos, la presión, Verifica cada 1.000 km",
+intervaloMantenimiento: "Aceite y a los, 6.000 km (primera revisión, filtro de aceite cada 1.000 km); refrigerante cada 2 años",
+*/

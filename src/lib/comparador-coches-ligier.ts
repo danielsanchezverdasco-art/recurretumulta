@@ -959,3 +959,9 @@ export const COCHES_LIGIER: CocheComparador[] = [
     analisisSlug: "ligier-js50-electrico-2026-precio-ficha-tecnica",
   },
 ];
+
+/* cifras-ramas-711
+"Estimación con 10.000 km/año, consumo de 7 kWh/100 km y 0,18 €/kWh (doméstica).
+"Estimación con 10.000 km/año, consumo de 7,5 kWh/100 km y 0,18 €/kWh (doméstica).
+"Estimación con 10.000 km/año, consumo de 6 kWh/100 km y 0,18 €/kWh (doméstica).
+*/

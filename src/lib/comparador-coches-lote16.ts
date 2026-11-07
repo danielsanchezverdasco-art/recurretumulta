@@ -2607,3 +2607,9 @@ export const COCHES_LOTE16: CocheComparador[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+"15.000 km/año, diésel a 1,55 €/l, consumo de 5,6 l/100 km y todo riesgo.",
+intervalo: "24 meses o 30.000 km (servicio LongLife)",
+"15.000 km/año, diésel a 1,55 €/l, consumo estimado de 9,5 l/100 km y todo riesgo.",
+*/

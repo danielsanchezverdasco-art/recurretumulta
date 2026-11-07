@@ -4004,3 +4004,9 @@ Estudiantes y trayectos cortos: no le pidas más de 15 km al día.
 *Fuentes: <a href=https://turboant.com/pages/best-electric-scooter-for-campus>TurboAnt oficial</a> y <a href=https://the-gadgeteer.com/2022/12/18/turboant-m10-lite-folding-electric-scooter-review-zippy-and-fun-transportation/>análisis en The Gadgeteer</a>.*`,
   },
 ];
+
+/* cifras-ramas-711
+title: "Bogist M1 Elite: patinete urbano básico por ~275 €",
+"Bogist M1 Elite: 250 W, 281 Wh y 8,5 pulgadas por unos 275 €.
+Su precio ronda los 275 €, equivalentes a 299 $, cuando se adquiere a través de tiendas con stock dentro de la Unión Europea.
+*/

@@ -143,3 +143,7 @@ Para quién es: la Elnagh Baron 565 es para la familia que quiere una perfilada 
     fuenteUrl: "https://www.elnagh.com/wp-content/uploads/2025/02/Baron-65.pdf",
   },
 ];
+
+/* cifras-ramas-711
+Cómo lo verificamos: los datos de esta ficha salen de la página oficial de la gama Baron en elnagh.com (comprobada el 19 de octubre de 2026), de la tabla oficial de especificaciones publicada por Elnagh en su propia web y del catálogo oficial Elnagh 2026 en versión española, que confirma los 6,99 metros, las 5 plazas homologadas y las 5 plazas de cama.
+*/

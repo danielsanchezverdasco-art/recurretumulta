@@ -520,3 +520,7 @@ export const COCHES_OMODA: CocheComparador[] = [
     ],
   },
 ];
+
+/* cifras-ramas-711
+"Sin precio oficial: OMODA España no ha publicado la tarifa del Omoda 4 (llegada prevista en el primer semestre de 2027); la prensa especializada lo estima entre 22.000 y 25.000 €, sin confirmar",
+*/

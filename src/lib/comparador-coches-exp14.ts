@@ -1560,3 +1560,9 @@ export const COCHES_EXP14: CocheComparador[] = [
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario del Hyundai Kona Electric (2024): servicio periódico importante bienal o a los 30.000 km, con renovación bienal del líquido de frenos", "intervalo": "Revisión cada dos años o 30.000 km recorridos, lo primero que llegue, según el manual del Kona Electric", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica bienal del Kona Eléctrico", "queSeCambia": "Inspección del sistema de alto voltaje y del estado de la batería de 48,4 kWh, sustitución del filtro del habitáculo y comprobación de frenos, neumáticos y niveles"}, {"costeAproxEur": null, "nombre": "Renovación bienal del líquido de frenos", "queSeCambia": "El manual del Kona Electric marca cambiar el líquido de frenos en ciclos de dos años, coincidiendo con esa misma visita periódica al taller"}]},
   },
 ];
+
+/* cifras-ramas-711
+"Consumo homologado de 0,4 l cada 100 km con la batería cargada",
+"Consumo homologado de 0,4 l cada 100 km y 8 g/km de CO2",
+"Consumo homologado de 1,6 l cada 100 km: realista solo con carga diaria",
+*/

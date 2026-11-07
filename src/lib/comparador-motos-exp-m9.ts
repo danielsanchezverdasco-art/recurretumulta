@@ -3117,3 +3117,9 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   // __M9_APPEND__
 ];
+
+/* cifras-ramas-711
+fuenteNombre: "motofichas.com (oct-2026; la 2025 baja a 4.888 € hasta agotar existencias)",
+fuenteUrl: "https://www.motofichas.com/pruebas/7658-prueba-zontes-368g-etc-2026",
+"Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
+*/

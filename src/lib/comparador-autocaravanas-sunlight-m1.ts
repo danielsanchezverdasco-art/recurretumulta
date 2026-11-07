@@ -361,3 +361,7 @@ Otro punto a favor del Cliff es la red del grupo Hymer detrás: concesionarios e
       "https://www.sunlight.de/es/modelos/camper-vans/cliff-adventure/cliff-640-adventure/",
   },
 ];
+
+/* cifras-ramas-711
+Cómo lo verificamos: las medidas (7,41 × 2,32 × 2,93 m), el motor Fiat Ducato 2.2 de 140 CV, la MMA de 3.500 kg, la masa en orden de marcha de 3.007 kg con su horquilla oficial, las 5 plazas para dormir («2 + 3»), las camas gemelas traseras y la cama basculante de 195 × 140 cm proceden de la página oficial del modelo en sunlight.de, revisada el 19/10/2026; la marca no en concreto publica la carga útil del modelo, por eso ese campo va sin dato; Sunlight no publica tarifa para España, por eso no hay precio.
+*/

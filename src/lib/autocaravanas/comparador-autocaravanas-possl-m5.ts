@@ -137,3 +137,7 @@ export const AUTOCARAVANAS_POSSL_M5: Autocaravana[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+"Base Fiat Ducato / Citroën Jumper / Peugeot Boxer: 2 años / 48.000 km (según plan del fabricante de la base)",
+*/

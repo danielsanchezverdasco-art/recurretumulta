@@ -1308,3 +1308,9 @@ El GAC Aion V se ensambla en **Graz, Austria (Magna Steyr)**, dentro de la estra
 `
   },
 ];
+
+/* cifras-ramas-711
+*Fuentes: <a href=https://www.renault.es/electricos/r5-e-tech-electrico.html>Renault 5 E-Tech eléctrico (Renault España)</a>, <a href=https://www.dacia.es/modelos-hibridos-electricos/spring.html>Dacia Spring (Dacia España)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
+*Fuentes: <a href=https://www.renault.es/electricos/r4-e-tech-electrico.html>Renault 4 E-Tech eléctrico (Renault España)</a>, <a href=https://www.renault.es/electricos/r5-e-tech-electrico.html>Renault 5 E-Tech eléctrico (Renault España)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
+*Fuentes: <a href=https://www.byd.com/es-es/coches-hibridos/atto-2-dm-i>BYD Atto 2 DM-i (BYD España)</a>, <a href=https://jaecoo.es/dossier-de-prensa-jaecoo-5-gasolina-y-ev/>Jaecoo 5 (dossier de prensa oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
+*/

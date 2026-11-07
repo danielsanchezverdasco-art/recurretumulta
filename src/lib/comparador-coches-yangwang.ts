@@ -503,3 +503,9 @@ export const COCHES_YANGWANG: CocheComparador[] = [
     analisisSlug: "yangwang-u7-phev-2026-precio-ficha-tecnica",
   },
 ];
+
+/* cifras-ramas-711
+"15.000 km/año en uso mixto (EREV: electricidad + gasolina del generador); todo riesgo de vehículo de lujo.
+"15.000 km/año en uso mixto EREV; todo riesgo de ultra lujo.
+"Estimación con 12.000 km/año, 0,18 €/kWh (doméstica); todo riesgo de hypercar.
+*/

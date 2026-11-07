@@ -517,3 +517,9 @@ export const COCHES_EXP26: CocheComparador[] = [
     fuenteUrl: null,
   },
 ];
+
+/* cifras-ramas-711
+"Sin venta oficial en España: precio estimado desde tarifa oficial china (11,78万 yuan ≈ 15.700 €); sin fecha de llegada confirmada",
+"Sin venta oficial en España: precio estimado desde tarifa china del iCAR 03 (10,98万 yuan ≈ 14.600 €)",
+"GWM no publica el precio oficial en España: el precio indicado es la tarifa oficial china (desde 11,79万元 ≈ 15.720 €)",
+*/

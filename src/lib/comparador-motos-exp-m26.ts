@@ -3941,3 +3941,9 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+intervalo: "1.000 km (rodaje); después cada 5.000 km o 12 meses",
+intervalo: "1.000 km, luego cada 6.000 km o 12 meses; revisión anual obligatoria",
+intervalo: "1.000 km, luego cada 5.000 km o 12 meses",
+*/

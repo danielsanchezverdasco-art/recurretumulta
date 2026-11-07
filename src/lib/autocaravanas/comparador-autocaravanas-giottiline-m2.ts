@@ -276,3 +276,7 @@ Perfil de comprador: el Compact CX60 encaja con parejas que vienen del mundo fur
       "https://www.caravan-salon.de/vis-content/event-caravan2026/exh-caravan2026.3070379/CARAVAN-SALON-2026-Giottiline-Company-S.P.A-Product-caravan2026.3070379-YoUm13fDSOKMfwHqaO1rXA.pdf",
   },
 ];
+
+/* cifras-ramas-711
+"Base Fiat Ducato 2.2: 2 años / 48.000 km; en bases Citroën Jumper/Peugeot Boxer, seguir el plan Stellantis (2 años, según manual del propietario)",
+*/

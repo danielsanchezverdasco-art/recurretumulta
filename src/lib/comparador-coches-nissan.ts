@@ -1424,3 +1424,9 @@ export const COCHES_NISSAN: CocheComparador[] = [
     planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "En la familia Primastar Combi con motor 2.0 dCi, el mantenimiento principal está pautado cada 40.000 km o 24 meses, lo que antes ocurra, según los datos de ficha de TotalRenting para la Combi 9 2.0 dCi. En un dCi 170 dedicado a lanzaderas conviene no apurar ese intervalo con el filtro de partículas si predominan los trayectos cortos urbanos, y confirmar siempre la pauta exacta en el libro de mantenimiento de la unidad, porque puede variar por mercado y fecha de fabricación.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://totalrenting.es/fichas/nissan/primastar/2003-2026/combi-9-2-0dci-81kw-l1h1-1t-go/"},
   },
 ];
+
+/* cifras-ramas-711
+pros: ["El precio de acceso del Juke 1.0 DIG-T es contenido: oferta oficial desde 22.725 € al contado", "El consumo homologado del Juke 1.0 DIG-T, de 5,8 litros cada 100 km, es muy ajustado para un gasolina", "El Juke 1.0 DIG-T mantiene un diseño urbano con mucha personalidad, icono del segmento B-SUV", "El maletero del Juke 1.0 DIG-T, de 422 litros, es correcto para su tamaño de 4,21 m", "El Juke 1.0 DIG-T ofrece manual de seis marchas o automático DCT de siete"],
+contras: ["Con etiqueta C de la DGT, el Juke 1.0 DIG-T no tiene ventajas en las ZBE frente al Hybrid", "Las prestaciones del Juke 1.0 DIG-T son modestas: el 0-100 lleva 10,7 segundos", "El motor tricilíndrico de 1.0 litros del Juke 1.0 DIG-T es justo con el coche cargado", "El Juke Hybrid 143 CV, con etiqueta ECO, cuesta poco más que el Juke 1.0 DIG-T", "Las plazas traseras del Juke 1.0 DIG-T son justas para adultos altos"],
+"notas": "estimación con 12.000 km/año, consumo WLTP 13,8 kWh/100 km y 0,18 €/kWh (doméstica); con el Plan Auto+ y financiación el precio baja sensiblemente",
+*/

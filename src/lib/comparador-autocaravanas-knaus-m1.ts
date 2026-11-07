@@ -320,3 +320,7 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
       "https://www.knaus.com/en-uk/motorhomes/sky-ti/layouts-data/650-meg/packages/",
   },
 ];
+
+/* cifras-ramas-711
+Cómo lo verificamos: las dimensiones (599/205/258 cm), la batalla de 403 cm, el motor Fiat Ducato 2.2 con 140 CV, la calefacción diésel Truma Combi 6 D de serie, el baño con pared giratoria y la cama basculante trasera opcional proceden de la página oficial del modelo en knaus.com, verificada el 19 de octubre de 2026.
+*/

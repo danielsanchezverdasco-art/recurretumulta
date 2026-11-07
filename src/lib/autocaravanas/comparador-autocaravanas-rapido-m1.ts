@@ -228,3 +228,7 @@ De tarifa oficial no hay nada que difundir: Rapido no publica PVP por modelo y c
       "https://www.rapido-camping-car.fr/reisemobil_teilintegrierte_serie-6f_606f.chtml",
   },
 ];
+
+/* cifras-ramas-711
+"Peugeot Boxer 2.2 (Francia; Fiat Ducato en exportación): 2 años / 40.000 km",
+*/

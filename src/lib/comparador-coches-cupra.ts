@@ -2205,3 +2205,9 @@ export const COCHES_CUPRA: CocheComparador[] = [
     },
   }
 ];
+
+/* cifras-ramas-711
+"El 1.5 eTSI de 150 CV lleva etiqueta ECO y homologa solo 5,4 l cada 100 km",
+"notas": "estimado con 15.000 km al año con un consumo homologado WLTP 5,4 l cada 100 km, con gasolina a 1,65 €/l; estimación de seguro y mantenimiento para un compacto de ~34.000 €",
+"El 1.5 eTSI de 150 CV con etiqueta ECO homologa solo 5,5 l cada 100 km",
+*/

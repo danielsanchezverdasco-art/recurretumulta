@@ -1907,3 +1907,9 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     fuenteNombre: "fiat.es",
   },
 ];
+
+/* cifras-ramas-711
+"Consumo ajustado: 5,4 litros cada 100 km en el 1.0 TSI de 95 CV",
+"El 1.0 TSI de 95 CV va justo con el coche cargado o en autopista",
+intervalo: "Cada 15.000 km o cada año, lo que antes suceda",
+*/

@@ -764,3 +764,9 @@ export const ANALISIS_PATINETE_05: MapaAnalisis = {
       "Potencia barata con dudas de fiabilidad según los usuarios; solo comprándolo con garantía y servicio cercano.",
   },
 };
+
+/* cifras-ramas-711
+"El Raptor Black es el Smartgyro más bestia en formato monomotor: 1.000 W nominales con 1.300 W de pico, batería de 624 Wh a 48 V y 13 Ah con 40-50 km declarados y unos 30 km reales, y doble suspensión con brazos delantero y trasero para tragarse baches.
+La batería de 624 Wh a 48 V y 13 Ah declara 45 km con unos 30 km reales en uso exigente, y los neumáticos tubeless de 10 pulgadas resisten los pinchazos.
+"El Blade Q es la puerta de entrada a Teverun con un planteamiento sencillo: precio contenido, 24 kg manejables para el día a día, batería de 624 Wh a 48 V y 13 Ah suficiente para ciudad y diseño compacto y fácil de plegar.
+*/

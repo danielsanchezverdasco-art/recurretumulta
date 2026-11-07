@@ -2344,3 +2344,9 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+"6.925 € anunciados: precio contenido para ser una Zero",
+"150 km de autonomía y 120 km/h: sale de la ciudad sin complejos",
+"Autonomía real en autovía, por debajo de los 150 km",
+*/

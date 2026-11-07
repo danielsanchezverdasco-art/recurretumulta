@@ -1343,3 +1343,9 @@ export const COCHES_BYD: CocheComparador[] = [
     ],
   },
 ];
+
+/* cifras-ramas-711
+"Autonomía real de 427 km con una batería de solo 60,4 kWh",
+"Carga rápida limitada a 88 kW frente a rivales más veloces",
+"Cálculo anual con 15.000 km, carga en casa a 0,18 €/kWh y seguro a todo riesgo.",
+*/

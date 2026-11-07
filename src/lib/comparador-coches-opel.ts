@@ -1903,3 +1903,9 @@ export const COCHES_OPEL: CocheComparador[] = [
     fuenteUrl: "https://www.espaciofurgo.com",
   },
 ];
+
+/* cifras-ramas-711
+"Desde 20.450 euros, está entre los utilitarios híbridos más baratos del mercado español.",
+"Con etiqueta ECO, su consumo WLTP es de solo 4,5 litros cada cien kilómetros.",
+"El maletero de 309 litros es correcto para el segmento.",
+*/

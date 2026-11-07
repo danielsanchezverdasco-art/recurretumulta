@@ -268,3 +268,9 @@ Para quién es: parejas que saltan de la tienda o la furgoneta a una autocaravan
     },
   },
 ];
+
+/* cifras-ramas-711
+// EDITION27 es la versión Ford Transit 165 CV y caja automática de 8 marchas que
+"165 CV y caja automática de 8 marchas y una pantalla de 12 pulgadas con Apple " +
+La versión española se apoya en el Citroën Jumper 2.2 BlueHDi con 140 CV, tracción delantera y caja manual de seis marchas, y suma de serie Start&Stop con booster de carga, programador de velocidad, frenada de emergencia con detección de peatones, ayuda de mantenimiento de carril, lector de señales y alerta de fatiga: el arsenal de seguridad actual, sin asteriscos.
+*/

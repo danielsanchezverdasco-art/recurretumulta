@@ -765,3 +765,9 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
     veredicto: "Para ciudad pura al mínimo coste; no salir del entorno urbano ni soñarlo.",
   },
 };
+
+/* cifras-ramas-711
+"Con 2.944 kg en orden de marcha y MMA de 3.500 kg, puede llevarse con el permiso B, algo que no todas las campers resuelven tan limpio.",
+Con 178 kilómetros de autonomía eléctrica homologada, la mayoría de los desplazamientos semanales se hacen en modo cero emisiones, y el consumo de 5,74 l cada 100 km entra en juego únicamente cuando el generador trabaja.
+"El GT es la demostración de fuerza de Hyptec, la marca premium eléctrica de GAC: una berlina de 340 CV y tracción trasera con 710 kilómetros de autonomía homologada gracias a sus 83,3 kWh, que acelera de 0 a 100 en 4,9 segundos y gasta 12,7 kWh cada 100 km.
+*/

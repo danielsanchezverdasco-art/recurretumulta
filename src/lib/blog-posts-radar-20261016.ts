@@ -454,3 +454,9 @@ De momento **no hay ninguna prueba EuroNCAP publicada** del L03. Otros XPeng eur
 *Fuentes: <a href=https://www.autonocion.com/xpeng-l03-precio-espana/>Autonoción (precio, versiones y entregas en España)</a>, <a href=https://www.somoselectricos.com/hibridos-enchufables/xpeng-lanza-espana-nuevo-suv-1017-km-autonomia-37500-euros/20261016133537064419.html>Somos Eléctricos (ficha técnica completa y condiciones del precio, 16/10/2026)</a>, <a href=https://www.hibridosyelectricos.com/coches/37500-con-242-cv-1017-km-autonomia-llega-espana-suv-hibrido-465-metros-promete-215-km-sin-gastar-gasolina_89943_102.html>Híbridos y Eléctricos (diseño de JuanMa López y datos WLTP, 15/10/2026)</a>, <a href=https://elperiodicodelaenergia.com/xpeng-abre-los-pedidos-del-l03-powerx-con-1-017-km-de-autonomia-combinada-y-por-37-500-euros/>El Periódico de la Energía (sistema Kunpeng y versiones 2027)</a>.*`,
   },
 ];
+
+/* cifras-ramas-711
+title: "XPeng L03: 37.500 €, 1.017 km y 242 CV en España",
+"El L03 PowerX Long Range abre pedidos en España desde 37.500 €, con 215 km eléctricos, 1.017 km combinados y 242 CV; entregas en diciembre de 2026.",
+El inicio de las entregas queda fijado en **diciembre de 2026**, con un precio de partida de **37.500 €** con campañas y ayudas.
+*/

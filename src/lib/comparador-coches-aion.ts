@@ -757,3 +757,8 @@ export const COCHES_AION: CocheComparador[] = [
     analisisSlug: "aion-ray7-2026-precio-ficha-tecnica",
   },
 ];
+
+/* cifras-ramas-711
+Sin coste publicado para España", "intervalo": "Cada 30.000 km o 2 años", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de los 2 años / 30.000 km", "queSeCambia": "Inspección general con diagnóstico electrónico, revisión de la batería de alto voltaje y su cableado, de frenos y del circuito de refrigeración, y sustitución del filtro del habitáculo (filtro de A/C), según la tabla oficial de mantenimiento de GAC para el Aion V"}]},
+"15.000 km/año; 0,18 €/kWh; todo riesgo.",
+*/

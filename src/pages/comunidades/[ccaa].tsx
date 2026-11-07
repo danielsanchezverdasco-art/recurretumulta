@@ -583,3 +583,8 @@ export default function ComunidadPage() {
     </div>
   );
 }
+
+/* cifras-ramas-711
+Análisis IA gratis, plan anual de 7,99 €/año.`,
+title: "Recibe el recurso preparado con guía paso a paso y envíalo tú (plan anual 7,99 €/año)",
+*/

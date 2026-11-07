@@ -1684,3 +1684,9 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+"Motor de 500 W continuos y 1.502 W de pico, con 40 Nm de par y modo Extreme.",
+"65 km de autonomía anunciada, con batería de 46,8 V y 14,5 Ah.",
+Pesa 29,8 kg, así que es para garaje y trayectos largos, no para el metro.",
+*/

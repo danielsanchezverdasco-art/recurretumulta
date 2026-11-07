@@ -162,3 +162,7 @@ export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
       "https://www.laika.it/wp-content/uploads/2025/01/Autocaravanas-Camper-Van-Datos-tecnicos-Precios-24-25-3.pdf",
   }
 ];
+
+/* cifras-ramas-711
+Los 71.314 euros son el precio de la lista oficial Laika 2026 para Francia; Laika no publica tarifa para España.
+*/

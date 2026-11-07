@@ -146,3 +146,7 @@ export const AUTOCARAVANAS_PILOTE_M5: Autocaravana[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+"Base Fiat Ducato: 2 años / 40.000 km (lo que antes ocurra, según plan Fiat)",
+*/

@@ -885,3 +885,9 @@ export const COCHES_LOTUS: CocheComparador[] = [
     analisisSlug: "lotus-evija-2026-precio-ficha-tecnica",
   },
 ];
+
+/* cifras-ramas-711
+"15.000 km/año mayoritariamente en modo eléctrico (22 kWh/100 km a 0,18 €/kWh); sin datos WLTP oficiales publicados.",
+"15.000 km/año mayoritariamente en modo eléctrico (24 kWh/100 km a 0,18 €/kWh); sin datos WLTP oficiales publicados.",
+2.018.800 € según precio oficial anunciado por Lotus Cars (1.700.000 £ + impuestos), sin venta oficial en España",
+*/

@@ -1871,3 +1871,9 @@ export const COCHES_LOTE3: CocheComparador[] = [
 ];
 
 export const COCHES_LOTE3_IDS: string[] = COCHES_LOTE3.map((c) => c.id);
+
+/* cifras-ramas-711
+"Tarifa oficial alemana: desde 27.995 € (Trend, 37 kWh, 116 CV); en España desde 25.600 € con campañas",
+"Batería de 29,6 kWh: autonomía solo para ciudad",
+"Tarifa oficial japonesa (3.390.200 ¥): ~19.100 € al cambio BCE 19/10/2026 (1 € = 177,63 ¥); aún no se vende en España",
+*/

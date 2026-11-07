@@ -1715,3 +1715,9 @@ export const COCHES_MAZDA: CocheComparador[] = [
     ],
   },
 ];
+
+/* cifras-ramas-711
+"Sin precio oficial en España: el Mazda2 1.5 e-SkyActiv G no figura en la tarifa española 2026 (solo se ofrece el Mazda2 Hybrid 116 CV, desde 26.850 €)",
+"notas": "15.000 km/año; consumo 5,5 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+"notas": "15.000 km/año; consumo 5,9 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
+*/

@@ -3667,3 +3667,9 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     analisisSlug: "suzuki-hayabusa-2025-ficha-tecnica-precio",
   }
 ]
+
+/* cifras-ramas-711
+"Consumo contenido para su porte: 6,1 l/100 km medidos en prueba, con unos 300 km de autonomía gracias al depósito de 20 litros.",
+"La Euro5+ la ha hecho más gastona: Suzuki declara 6,7 l/100 km frente a los 5,65 l/100 km del modelo anterior (directomotor).",
+"La 2025 es Euro5+ con escapes rediseñados: mantiene los 190 CV y los 150 Nm pese a la normativa más estricta (lamoto.com.ar).",
+*/

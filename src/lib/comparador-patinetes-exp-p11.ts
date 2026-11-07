@@ -2272,3 +2272,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     mantenimientoDIY: null,
   },
 ];
+
+/* cifras-ramas-711
+contras: ["Joyor lo muestra agotado en su tienda oficial y deriva al Y10, que comparte diseño con un pack de mayor capacidad", "Recargar los 13 Ah lleva entre 5 y 8 horas según la web oficial, mientras el manual de la serie Y eleva el intervalo a 7-8 horas", "De la DGT, de circulación, No consta certificado verificado para este modelo en el listado oficial consultado", "Pesa 20,5 kg y plegado sigue ocupando 115 × 21 × 43 cm: subirlo a pulso varios pisos a diario se hace cuesta arriba", "La configuración rápida que Joyor vende fuera de la especificación europea queda fuera del uso permitido en España y Alemania, según avisa la propia marca"],
+mantenimientoDIY: {"ajusteFrenosPasos": ["Comprobar el desgaste de las pastillas y de los discos delantero y trasero", "Si la frenada se nota débil, tensar el cable de freno y volver a probar las dos manetas"], "aprieteTornilleria": "Verificar que todos los tornillos y cierres rápidos estén bien apretados antes de cada uso, como indica la guía de seguridad del manual del Y6-S", "intervaloRevision": "Antes de cada salida: comprobar tornillería y cierre del plegado; revisión periódica de frenos, neumáticos y suspensión", "trucos": ["Cargar la batería al completo tras cada uso y evitar tanto agotarla del todo como sobrecargarla", "Si va a estar parado un tiempo, guardarlo en un lugar fresco y seco con la batería entre el 50 % y el 70 % de carga", "Limpiar a presión, con agua, con un paño húmedo; nunca ni sumergiendo el patinete", "Vigilar la presión de los neumáticos hinchables de 10 pulgadas: rodar bajo de presión recorta la autonomía"]},
+Pero ojo, la versión que vende la tienda oficial europea declara 50 km/h de velocidad máxima, muy por encima del límite legal de y, en España, para VMP, 25 km/h no consta certificado DGT.
+*/

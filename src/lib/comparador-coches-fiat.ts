@@ -1344,3 +1344,9 @@ export const COCHES_FIAT: CocheComparador[] = [
     ]
   },
 ];
+
+/* cifras-ramas-711
+notas: "8.000 km/año urbanos; estimado 7,2 kWh/100 km (5,4 kWh para 75 km de autonomía); 0,18 €/kWh (doméstica); cuadriciclo L6e sin distintivo DGT",
+"notas": "estimación con 12.000 km/año, consumo WLTP 17,4 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
+"notas": "15.000 km/año, consumo WLTP 4,8 l/100 km de gasolina (1,65 €/l); todo riesgo",
+*/

@@ -571,3 +571,9 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
   },
 ];
+
+/* cifras-ramas-711
+40.240 € según tarifa oficial china (301.800 CNY), sin venta oficial en España",
+49.307 € según tarifa oficial china (369.800 CNY), sin venta oficial en España: salta de verdad al segmento premium",
+61.307 € según tarifa oficial china (459.800 CNY), sin venta oficial en España: precio de Range Rover sin su red ni su imagen",
+*/

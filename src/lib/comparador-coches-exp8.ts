@@ -2700,3 +2700,9 @@ export const COCHES_EXP8: CocheComparador[] = [
     analisisSlug: "dacia-bigster-hybrid-g-150-4x4-2026-precio-ficha-tecnica",
   },
 ];
+
+/* cifras-ramas-711
+"Con 325 CV y tracción total es el E-3008 más potente y rápido: 0 a 100 en 6,0 s",
+"Homologa 497 km WLTP este E-3008 Dual Motor de 53.880 €, con una batería de 73 kWh",
+"La carga rápida de 160 kW en continua de este E-3008 Dual Motor de 53.880 € pasa del 20 al 80 % en unos 30 minutos",
+*/

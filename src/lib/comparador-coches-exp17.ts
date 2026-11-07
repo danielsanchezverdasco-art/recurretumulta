@@ -1203,3 +1203,9 @@ export const COCHES_EXP17: CocheComparador[] = [
     ],
   },
 ];
+
+/* cifras-ramas-711
+"15.000 km/año; diésel 1,55 €/l; todo riesgo.",
+intervalo: "12 meses o 15.000 km; servicio flexible LongLife hasta 24 meses o 30.000 km",
+fuente: "Plan de servicio Volkswagen (fijo 15 en concreto.000 km/12 meses; flexible LongLife de hecho 30.000 km/24 meses)",
+*/

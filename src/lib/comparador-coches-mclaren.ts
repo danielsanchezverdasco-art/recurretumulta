@@ -885,3 +885,9 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     ]
   },
 ];
+
+/* cifras-ramas-711
+"12,2 l cada 100 km y 276 g/km de CO2: etiqueta C y consumo de superdeportivo",
+"notas": "Estimación orientativa: 15.000 km al año con un consumo homologado WLTP 12,2 l cada 100 km (km77) a 1,85 €/l; seguro y mantenimiento típicos de superdeportivo en España.
+"notas": "Estimación orientativa PHEV: 50 % de km en eléctrico (~20 kWh cada 100 km a 0,18 €/kWh) y 50 % en gasolina (~4,8 l cada 100 km a 1,85 €/l), 15.000 km al año; sin consumo WLTP publicado para el coupé MY2025.
+*/

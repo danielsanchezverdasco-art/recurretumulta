@@ -2093,3 +2093,9 @@ export const COCHES_KIA: CocheComparador[] = [
     fuenteUrl: "https://www.km77.com/coches/kia/ev3/2025/estandar/informacion"
   },
 ];
+
+/* cifras-ramas-711
+intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
+"notas": "15.000 km/año; consumo WLTP 14,70 kWh/100 km a 0,18 €/kWh; seguro y mantenimiento estimados (segmento C)",
+"530 km de autonomía WLTP: entre las mejores cifras de los SUV eléctricos medios",
+*/

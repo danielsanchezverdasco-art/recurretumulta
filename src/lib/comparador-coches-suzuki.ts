@@ -690,3 +690,9 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     fuenteUrl: "https://www.quecochemecompro.com/precios/suzuki-jimny/",
   },
 ];
+
+/* cifras-ramas-711
+"notas": "12.000 km/año; energía = 5,0 l/100 km × 1,70 €/l; seguro, en concreto, y mantenimiento estimados por segmento B-SUV",
+"notas": "12.000 km/año; energía = 5,4 l/100 km × 1,70 €/l; seguro, en este caso, y mantenimiento estimados por segmento C-SUV",
+"notas": "12.000 km/año; energía = 5,1 l/100 km × 1,70 €/l; seguro, en concreto, y mantenimiento estimados por segmento C-SUV",
+*/

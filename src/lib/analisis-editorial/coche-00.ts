@@ -804,3 +804,7 @@ export const ANALISIS_COCHE_00: MapaAnalisis = {
     veredicto: "Si necesitas un Alpine para la vida real con hijos, tu GT; si eres purista del A110 ligero, otro concepto.",
   },
 };
+
+/* cifras-ramas-711
+"El Stelvio Quadrifoglio ostentó el récord del SUV más rápido en Nürburgring: 520 CV, un 0-100 en 3,8 segundos y un V6 biturbo con ADN de Maranello en un familiar de 525 litros.
+*/

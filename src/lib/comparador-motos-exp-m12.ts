@@ -1721,3 +1721,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     mantenimientoDIY: null,
   },
 ];
+
+/* cifras-ramas-711
+"322 kg en orden de marcha: solo apta para pilotos con experiencia",
+*/

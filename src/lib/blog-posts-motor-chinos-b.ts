@@ -493,3 +493,8 @@ Hecho en Barcelona y con 279 CV, el S700 invita a pisarle. Si un radar te pilla,
 - <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
   }
 ];
+
+/* cifras-ramas-711
+| 537 CV y 0-100 en 4,9 s: prestaciones de deportivo por precio de SUV generalista | 2.270 kg en vacío, un peso que se nota en apoyos y frenadas |
+- <a href=https://www.dgt.es/>DGT: consulta qué etiqueta ambiental le corresponde y en qué zonas de bajas emisiones puede circular</a>`
+*/

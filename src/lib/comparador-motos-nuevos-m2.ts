@@ -1715,3 +1715,8 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+intervalo: "cada 12 meses o 5.000 km (con inspección)",
+intervalo: "cada 12 meses o 4.000 km (con inspección)",
+*/

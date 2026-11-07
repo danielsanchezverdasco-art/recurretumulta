@@ -181,3 +181,8 @@ export const AUTOCARAVANAS_POSSL_M3: Autocaravana[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+intervalo: "Base Citroën Jumper / Fiat Ducato 2.2: 2 años / 40.000 km",
+intervalo: "Base Citroën Jumper 2.2: 2 años / 40.000 km",
+*/

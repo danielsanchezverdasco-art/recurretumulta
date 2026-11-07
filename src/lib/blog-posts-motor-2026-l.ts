@@ -450,3 +450,9 @@ Tres: **Hybrid 155** (153 CV), **Hybrid 150 4x4** (150 CV con tracción total) y
 `,
 },
 ];
+
+/* cifras-ramas-711
+*Fuentes: <a href=https://commission.europa.eu>Comisión Europea</a>, <a href=https://eur-lex.europa.eu>EUR-Lex (Unión Europea)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
+Volkswagen no había comunicado precios en España cuando se escribió el análisis original, y tampoco había confirmado las baterías de 58 y 79 kWh que se barajaban ni mostrado el interior definitivo.
+El adelanto lo publicaron <a href=https://topelectricsuv.com/news/volkswagen/vw-id-4-facelift-launch/>TopElectricSUV</a> y <a href=https://carbuzz.com/vw-id4-becomes-id-tiguan/>CarBuzz</a> antes del estreno.
+*/

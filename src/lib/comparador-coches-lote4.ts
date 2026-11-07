@@ -2160,3 +2160,9 @@ export const COCHES_LOTE4: CocheComparador[] = [
     fuenteUrl: "https://www.hibridosyelectricos.com/coches/644-km-autonomia-75-km-dia-gratis-primer-coche-solar-ya-esta-listo-pero-tiene-problema-102-millones-euros_89672_102.html",
   },
 ];
+
+/* cifras-ramas-711
+"Con 740 CV del V6 Nettuno, es el Maserati más potente de la historia",
+"El monocasco de carbono Dallara deja el peso en 1.250 kg",
+"El precio parte de 900.000 € antes de impuestos",
+*/

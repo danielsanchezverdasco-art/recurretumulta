@@ -158,3 +158,9 @@ export const COCHES_MAEXTRO: CocheComparador[] = [
     analisisSlug: "maextro-s800-erev-2025-precio-ficha-tecnica",
   },
 ];
+
+/* cifras-ramas-711
+"Sin generador de gasolina, la batería NMC de 94,4 kWh rinde 670 km CLTC",
+"La plataforma de 800 V admite 480 kW y recarga del 10 al 80 % en alrededor de 12 minutos",
+"530 CV y 673 Nm en los dos ejes dejan el sprint a 100 km/h en 4,3 s",
+*/

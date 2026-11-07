@@ -203,3 +203,8 @@ Perfil de comprador: el que sueña con una integral auténtica —parabrisas pan
     },
   },
 ];
+
+/* cifras-ramas-711
+En mecánica, el motor de serie es el Fiat Ducato 2.2 MultiJet con cambio manual, de 103 kW (140 CV, y la marca ofrece como opción el 2.2 de 130 kW (180 CV) asociado al cambio automático, según su nota de prensa oficial.
+De serie lleva el Fiat Ducato 2.2 MultiJet con cambio manual, de 103 kW (140 CV, y bajo pedido el 2.2 de 180 CV con cambio automático para el que busque más fondo en autopista y puertos.
+*/

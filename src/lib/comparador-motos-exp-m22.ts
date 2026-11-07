@@ -1430,3 +1430,9 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     },
   },
 ];
+
+/* cifras-ramas-711
+"223 kg en orden de marcha y pesada para el off-road exigente",
+"Consumo de 6,6 l cada 100 km y depósito de 20 l",
+"Motor iGet de 174 cc con Start & Stop: solo 2,6 l cada 100 km",
+*/

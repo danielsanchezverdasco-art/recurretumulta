@@ -5293,3 +5293,9 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     planMantenimiento: M_SYM,
   },
 ];
+
+/* cifras-ramas-711
+intervalo: "Cada 12.000 km o 12 meses (primera revisión a los 1.000 km)",
+intervalo: "Cada 10.000 km o 12 meses (primera revisión a los 1.000 km)",
+intervalo: "Cada 7.500 km o 12 meses (primera revisión a los 1.000 km)",
+*/

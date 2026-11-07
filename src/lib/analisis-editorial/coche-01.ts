@@ -764,3 +764,9 @@ export const ANALISIS_COCHE_01: MapaAnalisis = {
     veredicto: "La berlina tecnológica de la alianza Changan-Huawei-CATL: un escaparate de software con ruedas, por ahora solo para China.",
   },
 };
+
+/* cifras-ramas-711
+No es para quien busque emociones: el 1.0 TFSI de 116 CV va justo en autopista con carga, la plaza central trasera es testimonial y la etiqueta C no, en concreto, da ventajas en las, a tener en cuenta, ZBE.
+No es para el que, en concreto, busque el precio más bajo: 65.570 euros de partida, más caro que el BMW 520d Touring equivalente, y los 204 CV van justos para casi dos toneladas.
+La carga rápida de 225 kW recupera del 10 al, en concreto, 80 % en 21 minutos, y la etiqueta Cero abre todas las ZBE sin pedir permiso.",
+*/

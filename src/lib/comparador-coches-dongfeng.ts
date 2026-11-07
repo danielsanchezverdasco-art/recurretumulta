@@ -573,3 +573,9 @@ export const COCHES_DONGFENG: CocheComparador[] = [
     analisisSlug: "dongfeng-shine-gs-2025-precio-ficha-tecnica",
   },
 ];
+
+/* cifras-ramas-711
+"Carga rápida de 75 kW: del 20 al 80 además % en 30 minutos",
+"15.000 km/año; gasolina 1,58 €/l; todo riesgo.",
+"15.000 km/año en modo eléctrico, 0,18 €/kWh (doméstica) y todo riesgo.",
+*/

@@ -1412,3 +1412,8 @@ export const COCHES_EXP12: CocheComparador[] = [
     analisisSlug: "xpeng-g6-long-range-2025-precio-ficha-tecnica",
   },
 ];
+
+/* cifras-ramas-711
+nota: "4 estrellas Euro NCAP (2024): 75% adultos, 82% infantil, 73% peatones, 76% asistencias",
+intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+*/
