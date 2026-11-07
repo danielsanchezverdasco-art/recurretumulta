@@ -76,9 +76,7 @@
     "/radares",
     "/comunidades",
     "/provincias",
-    "/explorar-por-marca",
-    "/tienda",
-    "/tienda/carrito"
+    "/explorar-por-marca"
   ],
   "provinceSlugs": [
     "madrid",
