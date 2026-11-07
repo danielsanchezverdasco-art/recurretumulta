@@ -7401,7 +7401,9 @@ euroncap: {
     },
 planMantenimiento: {
       intervalo: "Cada año o 30.000 km.",
-      revisiones: [{ nombre: "Revisión Bigster", queSeCambia: "Aceite y filtros.", costeAproxEur: null }],
+      revisiones: [
+        { nombre: "Revisión del Bigster", queSeCambia: "Aceite y filtros.", costeAproxEur: null },
+      ],
       costeAnualAproxEur: null,
       fuente: "https://www.dacia.es/preguntas-frecuentes-vehiculos/bigster/mantenimiento.html",
     },
