@@ -14,7 +14,7 @@ export const FOTOS_REFERENCIA: Record<string, string> = {
   "seres-3-iaa2023-commons-": "Seres 3 de la generación europea (IAA 2023)",
   "yangwang-u8-commons-": "Yangwang U8; no es el U9",
   "peugeot-3008-c-commons-": "Peugeot 3008 de tercera generación; no se lee el motor",
-  "peugeot-5008-c-commons-": "Peugeot 5008 de tercera generación; no se lee el motor",
+  "peugeot-5008-c-commons-": "Peugeot 5008 III",
   "nissan-qashqai-epower-commons-": "Qashqai e-Power de la generación actual",
   "citroen-c4-2025-commons-": "Citroën C4 restyling 2025",
   "ford-capri-2024-commons-": "Ford Capri eléctrico de 2024",
