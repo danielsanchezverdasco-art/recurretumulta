@@ -576,7 +576,15 @@ def f_publicar(c):
         stamp_p = os.path.join(c.work, "build-commit")
         stamp = open(stamp_p, encoding="utf8").read().strip() if os.path.isfile(stamp_p) else ""
         if stamp != head:
-            c.abort("Artefacto no consistente con HEAD %s (build-commit=%s). No publico este dist." % (head[:12], stamp[:12] or "ausente"))
+            sys.path.insert(0, HERE)
+            from equivalencia_dist import verificar_repo
+            manifiesto = os.environ.get("EQUIV_MANIFIESTO", "")
+            if not manifiesto:
+                c.abort("Artefacto de %s distinto de HEAD %s. Para reutilizarlo hace falta EQUIV_MANIFIESTO con el manifiesto de 52484 ficheros. build-commit no se reescribe." % (stamp[:12] or "ausente", head[:12]))
+            fallos = verificar_repo(c.repo, c.dist, manifiesto)
+            if fallos:
+                c.abort("Equivalencia rechazada (%s -> %s): %s" % (stamp[:12] or "ausente", head[:12], "; ".join(fallos[:4])))
+            c.ok("dist prerenderizado en %s reutilizado para %s. build-commit sigue en el origen." % (stamp[:12], head[:12]))
         c.py("mkdraft.py", "--dist", c.dist, "--vivo", c.live, "--titulo", titulo, "--directo", *media_args, env={"REDIRECTS_VIVO": c.redirects_vivo})
         D = open(os.path.join(c.work, "deploy_id")).read().strip()
         if open(os.path.join(c.work, "deploy_vivo_base")).read().strip() != c.live:
