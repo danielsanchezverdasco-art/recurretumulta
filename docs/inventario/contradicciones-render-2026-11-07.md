@@ -21,15 +21,17 @@ Next NX² (`/media/next-nx2-2025-ficha-tecnica-precio-oficial.webp`) lee NX² y 
 
 ## Contradicciones de las páginas renderizadas
 
-No se ha cambiado ninguna foto.
 
 1. Golf con insignia R. `/media/volkswagen-golf-20-tdi-2026-precio-ficha-tecnica-hero.webp` lee R en la parrilla y en la aleta. La ficha dice Golf 2.0 TDI de 150 CV. Páginas: `/coches/volkswagen-golf-20-tdi-2026-precio-ficha-tecnica/` y `/blog/volkswagen-golf-20-tdi-2026-precio-ficha-tecnica/`. La otra foto de esa ficha, `volkswagen-golf-20-tdi-2026-precio-ficha-tecnica-oficial.webp`, es un Golf sin insignia TDI: identifica el modelo y no el 2.0 TDI.
 2. e-308 con cartel de híbrido. `/media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-hero.webp`: el capó lee 308 y el cartel lee Nouvelle 308 Hybride. Páginas: `/coches/peugeot-e-308-electrico-2026-precio-ficha-tecnica/` y su entrada de blog.
 3. Cupra con tapa de carga. `/media/cupra-leon-sportstourer-20-tdi-2026-precio-ficha-tecnica-oficial.webp` lee CUPRA y lleva tapa de carga en la aleta. La página afirma 2.0 TDI. También entra como miniatura en las fichas de SEAT León Sportstourer 2.0 TDI, Kia ProCeed, Volkswagen Passat Variant 2.0 TDI, Cupra León Sportstourer 1.5 TSI, Volkswagen Golf Variant 2.0 TDI y Volkswagen Arteon, además de la propia ficha y el blog.
 
-## Propuesta, sin aplicar
+## Resolución aplicada, sin publicar
 
-- No publicar el fichero de Raybar en ninguna ficha Pursang. Sigue fuera del HTML. No hace falta tocar las 141 ni rehacer el sitio para dejarlo fuera.
-- Para el Golf 2.0 TDI, retirar de la ficha y del blog la foto con insignia R. La sustitución, si se autoriza, tiene que ser una foto del Golf sin insignia R y sin afirmar 2.0 TDI salvo que esa foto lo escriba. No se elige aquí un recambio de las 141.
-- Para el e-308, no usar la foto del concesionario cuyo cartel dice Hybride. El recambio tendría que mostrar el eléctrico, no un 308 híbrido. No se aplica.
-- Para el Cupra León Sportstourer 2.0 TDI, no usar la foto de la tapa de carga como prueba del diésel, ni en las miniaturas de las fichas vecinas que apuntan a ese fichero. No se aplica.
+El delta está en `docs/inventario/delta-focal-contradicciones/`. Padre `2109346d`. No entra en el bundle 132.
+
+- Golf: la foto con insignia R se sustituye por el Golf Mk8 que Damian B Oh publica como 2.0 TDI (CC BY-SA 4.0). En la foto se lee GOLF y no hay R. TDI no está escrito en el coche.
+- e-308: héroe y oficial, las dos con cartel Hybride, pasan al e-308 de Alexander-93 (CC BY-SA 4.0), con rótulo NEW E-308. El crédito visible deja de ser el del 308 III. Las miniaturas que usan la oficial cambian con el fichero; esas otras fichas no se editan.
+- Cupra Sportstourer 2.0 TDI: no hay foto que pruebe ese diésel. No se sustituye. Raybar sigue fuera del HTML y no se borra.
+- Los 33 de `no-tocar.txt` y los títulos de estas páginas no cambian. `public/` y `src/` tampoco.
+

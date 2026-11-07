@@ -2427,5 +2427,48 @@
 "modelo_sin_variante": 72,
 "variante_exacta": 43,
 "contradicciones": 4,
-"tanda_5": "100 héroes renderizados que no estaban en las 100 lecturas anteriores, más las fotos del Pursang y del Golf que esas páginas sí usan. variante_cubierta cuenta solo la variante escrita. modelo-sin-variante no confirma motor, potencia ni año. Este commit es posterior a 132fa5c6b y no está en ese bundle."
+"tanda_5": "100 héroes renderizados que no estaban en las 100 lecturas anteriores, más las fotos del Pursang y del Golf que esas páginas sí usan. variante_cubierta cuenta solo la variante escrita. modelo-sin-variante no confirma motor, potencia ni año. Este commit es posterior a 132fa5c6b y no está en ese bundle.",
+"desglose": [
+{
+"resultado": "variante-cubierta",
+"n": 43
+},
+{
+"resultado": "modelo-sin-variante",
+"n": 72
+},
+{
+"resultado": "contradiccion",
+"n": 3
+},
+{
+"resultado": "contradiccion-bloqueada",
+"n": 1
+},
+{
+"resultado": "modelo-visible",
+"n": 5
+},
+{
+"resultado": "pendiente",
+"n": 35
+},
+{
+"resultado": "pendiente-variante",
+"n": 39
+},
+{
+"resultado": "pendiente-marca",
+"n": 5
+},
+{
+"resultado": "pendiente-anio",
+"n": 1
+},
+{
+"resultado": "no-es-modelo",
+"n": 2
+}
+],
+"desglose_nota": "206 lecturas. 43+72+4 suman 119. El resto, 87, es modelo-visible 5, pendiente 35, pendiente-variante 39, pendiente-marca 5, pendiente-anio 1 y no-es-modelo 2. No se infieren variantes nuevas."
 }
