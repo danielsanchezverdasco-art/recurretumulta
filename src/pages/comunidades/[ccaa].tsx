@@ -307,7 +307,7 @@ export default function ComunidadPage() {
                 },
                 {
                   n: "3",
-                  title: "Descarga el recurso PDF listo para enviar (4,99€)",
+                  title: "El recurso va en el plan anual (7,99 €/año)",
                   desc: "El PDF incluye todos los argumentos en lenguaje jurídico, con referencias exactas a la LTSV, el RPSANVI y la jurisprudencia del Tribunal Supremo.",
                 },
                 {

@@ -49,14 +49,13 @@ export default function TerminosPage() {
 
           <section>
             <h2 className="text-xl font-black text-gray-900">2. Sin registro: acceso al servicio</h2>
-            <p>RecurreTuMulta.online no requiere crear una cuenta ni usar contraseñas. El análisis de tu multa con IA es gratuito y no necesitas registrarte. Cuando adquieres el recurso PDF (4,99 €), te pedimos los datos necesarios para redactarlo (nombre completo, DNI/NIE y domicilio) y una dirección de correo electrónico a la que enviártelo. El acceso a tu pack de recursos se realiza mediante el enlace personal que te enviamos por email.</p>
+            <p>RecurreTuMulta.online no requiere crear una cuenta ni usar contraseñas. El análisis de tu multa con IA es gratuito y no necesitas registrarte. El único plan de pago es el anual de vigilancia, de 7,99 € al año. Para darlo de alta pedimos los datos necesarios para avisarte y redactar el recurso (nombre completo, DNI/NIE, domicilio y un correo). No hay un cobro aparte por cada PDF. El recurso preparado se envía a ese correo.</p>
           </section>
 
           <section>
             <h2 className="text-xl font-black text-gray-900">3. Precios y pagos</h2>
             <ul className="list-disc pl-5 space-y-1">
-              <li><strong>Análisis con IA:</strong> Siempre gratuito. Incluye una valoración orientativa de posibles defectos, sin porcentaje ni garantía de resultado,, defectos detectados y resumen.</li>
-              <li><strong>Recurso PDF único:</strong> 4,99 € por documento. Pago único, no recurrente.</li>
+              <li><strong>Análisis con IA:</strong> Siempre gratuito. Incluye una valoración orientativa de posibles defectos, sin porcentaje ni garantía de resultado, y un resumen.</li>
               <li><strong>Plan anual de vigilancia de multas:</strong> 7,99 € al año, IVA incluido. Incluye (a) alertas de multas nuevas a tu nombre o matrícula, (b) el análisis de cada multa antes de que te llegue, para no perder ni un día de plazo, y (c) el recurso preparado con una guía paso a paso para que lo envíes tú mismo. No recurrimos en tu nombre: lo dejamos todo listo para que tú solo tengas que enviarlo. Se renueva automáticamente cada año salvo que canceles antes de la renovación. El análisis de una multa sigue siendo gratis.</li>
             </ul>
             <p>Los pagos se procesan de forma segura a través de Stripe. Emitimos factura por cada cobro.</p>
