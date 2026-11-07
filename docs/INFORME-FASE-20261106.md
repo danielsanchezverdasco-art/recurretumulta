@@ -216,4 +216,10 @@ La copia guardada `tools/publicar/redirects-vivo.txt` tiene el sha1 `745db003c67
 
 El paquete de diez partes sigue siendo el del bundle `index-C31lVF6x.js`, commit del dist `b0a8abf44`. Los sha256 se han vuelto a comprobar contra los ficheros de `/opt/cursor/artifacts`. La descarga oficial es un fichero por artefacto: `GET /v1/agents/{id}/artifacts` y `GET /v1/agents/{id}/artifacts/download` ([documentación](https://cursor.com/docs/cloud-agent/api/endpoints)). Receta de media: `docs/inventario/PAQUETE-RECONSTRUCCION.md`.
 
-Las 738 ramas con blob distinto no son una integración. El detalle de lo no leído y el recuento de las entregas de noviembre y de las 8 ramas de solo adiciones, rehecho contra este HEAD, está en `docs/inventario/ENTREGAS-NO-EVALUADAS.md`.
+Las 738 ramas con blob distinto se han agrupado por hash y se han probado con `git merge-file`. Ningún grupo se ha copiado al árbol. El cuadro está en `docs/inventario/MATRIZ-738-20261107.md`. El recuento anterior, rama por rama, sigue en `docs/inventario/ENTREGAS-NO-EVALUADAS.md`.
+
+## Consentimiento (7/11)
+
+Daniel pregunta si las cookies funcionan. En el dist local, antes de elegir, Analytics y AdSense ya se pedían (el aviso de Google no llegaba a pintarse: `googlefcInactive`). El arreglo deja la carga de esos dos scripts para un `consent update` con storage `granted`. Funding Choices sigue cargándose al abrir la página. El banner propio no se ha restaurado. Prueba y límites: `docs/inventario/CONSENTIMIENTO-LOCAL-20261107.md`. No es un dictamen legal.
+
+Las 12 reglas Grecale y los tres ficheros protegidos siguen sin tocarse. Propuesta y diffs: `docs/inventario/PROPUESTA-REDIRECTS-GRECALE.md`, `docs/inventario/PROTEGIDOS-SIN-AUTORIZAR.md`.

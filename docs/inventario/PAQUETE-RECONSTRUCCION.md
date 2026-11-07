@@ -13,7 +13,9 @@ El `dist` de esta pasada pesa 5,2 GB (`dist/media` son 4,4 GB). Un solo artefact
 
 ## Las diez partes del dist sin media
 
-Tar de `dist/` **sin** `dist/media`: 818 MB, commit del dist `b0a8abf44`, bundle `index-C31lVF6x.js`, CSS `index-eSpRw-t6.css`. Partes de 90 MiB (la última, 7,6 MiB), en este orden. El sha256 de cada una está en `docs/inventario/dist-sin-media-C31lVF6x.sha256`. La excepción de hash del 7/11 no cambia ese dist.
+El paquete que cabe en la copia oficial son 42 partes de 20 MiB (la última, 4,1 MiB), nombre `dist-consent.20m.00` … `dist-consent.20m.41`, en `/opt/cursor/artifacts/`. El sha256 está en `docs/inventario/dist-consent-20m.sha256`. Incluyen el mismo bundle `index-C31lVF6x.js` y el arreglo de consentimiento del 7/11 (Analytics y AdSense no se piden hasta un consent update). Las partes de 90 MiB no entran en esa copia. El tar anterior, sin ese arreglo, sigue en `/tmp/dist-sin-media-C31lVF6x.tar`.
+
+Tar de `dist/` **sin** `dist/media` de la tanda anterior: 818 MB, commit del dist `b0a8abf44`, CSS `index-eSpRw-t6.css`. Partes de 90 MiB (la última, 7,6 MiB). El sha256 de esas partes viejas está en `docs/inventario/dist-sin-media-C31lVF6x.sha256`. La excepción de hash del 7/11 no cambia el JS.
 
 Descarga oficial, un fichero por artefacto, sin subida por trozos: [Cloud Agents API, Artifacts](https://cursor.com/docs/cloud-agent/api/endpoints) (`GET /v1/agents/{id}/artifacts` y `GET /v1/agents/{id}/artifacts/download`, URL firmada de 15 minutos). El agente de esta tanda es `bc-cc799988-c130-5f92-91cd-2645de6f31ef`.
 
