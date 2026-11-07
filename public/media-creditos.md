@@ -5126,8 +5126,13 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/tesla-cybertruck-foundation-commons.webp | https://commons.wikimedia.org/wiki/File:2024_Tesla_Cybertruck_Foundation_Series_IMG_0634_(cropped).jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/defender-110-l663-commons.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_110_First_Edition_2020_-_rear.jpg | DeFacto · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/vw-id-buzz-commons.webp | https://commons.wikimedia.org/wiki/File:Volkswagen_ID._Buzz_1X7A6257.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/avatr-06-2025-entrega-commons.webp | https://commons.wikimedia.org/wiki/File:Avatr_06_003.jpg | Quzhouliulian · Wikimedia Commons | CC0 |
+| /media/cadillac-optiq-2025-entrega-commons.webp | https://commons.wikimedia.org/wiki/File:Cadillac_Optiq_Auto_Zuerich_2025_DSC_3328_(cropped).jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/nio-es8-2025-entrega-commons.webp | https://commons.wikimedia.org/wiki/File:Nio_ES8_III_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/peugeot-308-2025-entrega-commons.webp | https://commons.wikimedia.org/wiki/File:2021_-_Peugeot_308_III_(C)_-_02.jpg | A.BourgeoisP · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/skoda-octavia-combi-commons.webp | https://commons.wikimedia.org/wiki/File:Škoda_Octavia_IV_Combi_Facelift_Automesse_Ludwigsburg_2024_IMG_1649.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/hyptec-ht-commons.webp | https://commons.wikimedia.org/wiki/File:Hyptec_HT_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
 | /media/hyptec-a800-commons.webp | https://commons.wikimedia.org/wiki/File:Hyptec_A800_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
 | /media/dfsk-fengon-600-commons.webp | https://commons.wikimedia.org/wiki/File:DFSK_Fengon_600_DSC_8859.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
 | /media/mini-aceman-commons.webp | https://commons.wikimedia.org/wiki/File:Mini_Aceman_JCW_Trim_DSC_7951.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+

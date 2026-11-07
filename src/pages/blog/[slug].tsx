@@ -24,6 +24,7 @@ const ReaccionesPostLazy = lazy(() => import("@/components/audiencia/ReaccionesP
 import { Diferido } from "@/components/audiencia/Diferido.tsx";
 import { useSeo } from "@/hooks/use-seo.ts";
 import { fotoVisible } from "@/lib/fotos-ausentes.ts";
+import { fotoModelo } from "@/lib/fotos-modelo.ts";
 import AdBanner, { AD_SLOTS } from "@/components/ads/AdBanner.tsx";
 import { useQuery } from "convex/react";
 import { api } from "@/convex/_generated/api.js";
@@ -621,6 +622,8 @@ function BlogPostPage() {
     const altM = heroTag[0].match(/alt=("[^"]*"|'[^']*'|[^>]+)/);
     if (altM) heroAlt = altM[1].replace(/^["']|["']$/g, "").replace(/\s*\/?$/, "").trim();
   }
+  const registrada = fotoModelo(post.slug);
+  if (registrada?.src) heroSrc = registrada.src;
   const contentWithoutHero = heroTag
     ? post.content.replace(heroTag[0], "").replace(/^\s*\n/, "")
     : post.content;

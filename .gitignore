@@ -2,6 +2,8 @@ node_modules
 dist
 .env*
 public/media/
+# copia local de las fotos del registro (el manifiesto commiteado es docs/inventario/fotos-modelo-manifiesto.json)
+media-registro/
 # copia de build (la fuente es docs/radares/; la hace scripts/copy-radares.mjs)
 public/docs/radares/
 

@@ -1531,7 +1531,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nio-es8-2025-oficial.webp",
+    imagenOficial: "/media/nio-es8-2025-entrega-commons.webp",
     imagenInteriorOficial: "/media/nio-es8-2025-interior.webp",
     videoId: null,
     videoCanal: null,
@@ -1573,7 +1573,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 0,
     aprox: ["precioDesde", "autonomiaKm", "consumo"],
-    imagen: "/media/nio-es8-2025-hero.webp",
+    imagen: "/media/nio-es8-2025-entrega-commons.webp",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 3.24,

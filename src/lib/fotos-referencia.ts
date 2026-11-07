@@ -34,6 +34,8 @@ export const FOTOS_REFERENCIA: Record<string, string> = {
   "defender-110-l663-commons-": "Defender 110 L663; no es el P525",
   "vw-id-buzz-commons-": "Volkswagen ID. Buzz de pasajeros, no es el Cargo",
   "skoda-octavia-combi-commons-": "Octavia Combi IV restyling; no es el RS",
+  "nio-es8-2025-entrega-commons-": "NIO ES8 de tercera generación; el archivo se titula ES8 III",
+  "peugeot-308-2025-entrega-commons-": "Peugeot 308 III, fotografía de 2021; la ficha es el híbrido ligero",
   "dfsk-fengon-600-commons-": "DFSK Fengon 600",
   "mini-aceman-commons-": "MINI Aceman acabado JCW, no el SE",
 };

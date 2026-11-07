@@ -18,6 +18,7 @@ import {
 } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
 import { fotoVisible } from "@/lib/fotos-ausentes.ts";
+import { fotoModelo } from "@/lib/fotos-modelo.ts";
 import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
@@ -170,9 +171,11 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
     (!esCombustionMoto(moto) && (moto.autonomiaKm != null || moto.carga != null));
   // 18/10/2026 (rediseño): galería superior, datos clave y precio.
   const dimDe = (src: string) => dims[src.split("/").pop() ?? ""];
-  const galeriaConFoto = moto.galeria.filter((f) => fotoVisible(f.src));
+  const registrada = fotoModelo(moto.id);
+  const principal = registrada?.src || moto.imagen;
+  const galeriaConFoto = moto.galeria.filter((f) => fotoVisible(f.src) && f.src !== principal);
   const fotosTop: FotoFicha[] = [
-    ...(moto.imagen && fotoVisible(moto.imagen) ? [{ src: moto.imagen, alt: `Foto oficial de la ${nombre}`, ancho: dimDe(moto.imagen)?.[0], alto: dimDe(moto.imagen)?.[1] }] : []),
+    ...(principal && fotoVisible(principal) ? [{ src: principal, alt: `Foto oficial de la ${nombre}`, ancho: dimDe(principal)?.[0], alto: dimDe(principal)?.[1] }] : []),
     ...galeriaConFoto.map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
   ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
   const datosClave: DatoClave[] = [

@@ -19,6 +19,7 @@ import {
   Zap,
 } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
+import { fotoModelo } from "@/lib/fotos-modelo.ts";
 import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
 // 12/10/2026: los enlaces ficha->blog solo se renderizan si el blog existe.
 // Evita 298 enlaces rotos en el lote de 500 fichas sin blog publicado aún.
@@ -217,7 +218,8 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
     ? { nombre: esCamper ? "Campers" : "Autocaravanas", url: esCamper ? "/campers/" : "/autocaravanas/" }
     : { nombre: "Fichas técnicas", url: "/fichas-tecnicas/" };
 
-  const [heroSrc, setHeroSrc] = useState(coche.imagenOficial);
+  const registrada = fotoModelo(coche.id);
+  const [heroSrc, setHeroSrc] = useState(registrada?.src || coche.imagenOficial);
   // heroOk=false cuando ni la foto oficial ni la de respaldo existen en disco:
   // se oculta el hero y se muestra el aviso "foto pendiente" (auditoría 04/10/2026).
   const [heroOk, setHeroOk] = useState(true);
@@ -239,6 +241,10 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
   useEffect(() => {
     let viva = true;
     setHeroOk(true);
+    if (registrada?.src) {
+      setHeroSrc(registrada.src);
+      return;
+    }
     const oficial = coche.imagenOficial || "";
     const respaldo = coche.imagen && coche.imagen !== oficial ? coche.imagen : "";
     const probar = (src: string, ok: () => void, fallo: () => void) => {
@@ -257,7 +263,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
       usarRespaldo();
     }
     return () => { viva = false; };
-  }, [coche.imagenOficial, coche.imagen]);
+  }, [coche.imagenOficial, coche.imagen, registrada?.src]);
 
   // Imagen para OG/Twitter/schema: la del hero si existe; si no, undefined y el
   // hook useSeo usa el logo por defecto (nunca una URL rota).
