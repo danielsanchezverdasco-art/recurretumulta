@@ -718,6 +718,12 @@ euroncap: {
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
+    euroncap: {
+      estrellas: 4,
+      ano: 2024,
+      url: "https://www.euroncap.com/en/results/hyundai/santa-fe/53407",
+      nota: "Cuatro de serie y cinco con pack.",
+    },
     imagen: "/media/hyundai-santa-fe-hibrido-enchufable-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1812,6 +1818,12 @@ euroncap: {
     traccion: "Total",
     emisionesCo2: 160,
     aprox: [],
+    euroncap: {
+      estrellas: 4,
+      ano: 2024,
+      url: "https://www.euroncap.com/en/results/hyundai/santa-fe/53407",
+      nota: "Cuatro de serie; el pack suma la quinta.",
+    },
     imagen: "/media/hyundai-santa-fe-hibrido-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

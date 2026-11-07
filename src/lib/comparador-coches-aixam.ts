@@ -1548,7 +1548,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     modelo: "Easy Access Diésel",
     tipo: "Diésel",
     categoria: "Urbano",
-    precioDesde: null, // Versión sin tarifa oficial localizada (AIXAM solo publica precios de la gama Easy/CHIC 2025 en prensa de lanzamiento)
+    precioDesde: null, // Versión sin tarifa oficial localizada (AIXAM solo publica precios de la gama Easy/CHIC 2025 en prensa de lanzamiento). Los 11.999 € del texto son de prensa, no una tarifa de la marca.
     potenciaCv: 8,
     autonomiaKm: null,
     maleteroL: null,

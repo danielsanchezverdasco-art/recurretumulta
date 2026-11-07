@@ -831,7 +831,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "6",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null, // EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión
+    precioDesde: null, // EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión. El texto dice «unos 30.900 €», no una tarifa.
     potenciaCv: 154,
     autonomiaKm: null,
     maleteroL: null,
@@ -971,7 +971,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     modelo: "Cross 4",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null, // EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión
+    precioDesde: null, // EVO España solo publica tarifas oficiales de los modelos 3 y 7 en sus landings (evo-autoespana.es); sin precio oficial publicado de esta versión. El texto da 25.400 € sin IVA.
     potenciaCv: 114,
     autonomiaKm: null,
     maleteroL: null,

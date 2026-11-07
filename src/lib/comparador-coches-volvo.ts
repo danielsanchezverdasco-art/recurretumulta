@@ -1790,7 +1790,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     modelo: "V60 T8",
     tipo: "Híbrido enchufable",
     categoria: "Familiar",
-    precioDesde: null, // sin tarifa oficial publicada: motorización fuera de la gama actual de Volvo España (verificado 20/10/2026)
+    precioDesde: null, // sin tarifa oficial publicada: motorización fuera de la gama actual de Volvo España (verificado 20/10/2026). El «desde 68.000» del texto no es tarifa.
     potenciaCv: 455,
     autonomiaKm: 80,
     maleteroL: 519,
