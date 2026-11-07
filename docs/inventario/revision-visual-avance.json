@@ -2,7 +2,7 @@
 "tanda": "2026-11-07-visual-6",
 "miradas": 315,
 "modelo_visible": 5,
-"pendientes": 226,
+"pendientes": 228,
 "dependencias_24": "Quedan fuera de las fotos mostradas. La plantilla de portada no las pide: ningún id está en el ranking. No se declaran validadas.",
 "entradas": [
 {
@@ -2878,12 +2878,12 @@
 {
 "ruta": "/media/audi-q9-tdi-2026-hero.webp",
 "modelo": "Audi Q9 TDI",
-"resultado": "contradiccion",
-"visto": "El portón lee Q5. La placa de la foto lee Q9.",
-"fundamento": "Q5 y Q9 no son el mismo modelo. La página renderizada es el Q9 TDI.",
-"limite": "No se lee TDI. No se cambia la foto.",
-"sha256": "2813b59ed7d934afee0513937f1e6ef849bd94ae33a99c2abe5adcb707f0f1e8",
-"bytes": 60722,
+"resultado": "modelo-sin-variante",
+"visto": "Trasera lejana de un SUV azul. Se ven los aros. No se lee Q9 ni Q5.",
+"fundamento": "Sustituye el encuadre cuyo portón leía Q5 y cuya placa leía Q9 (sha256 2813b59ed7d934afee0513937f1e6ef849bd94ae33a99c2abe5adcb707f0f1e8). Esa foto no tiene fuente original y no se da por manipulada. La nueva es la A263880 de AUDI AG: vista trasera del Q9 en azul Waitomo, uso editorial gratuito. Audi publica el Q9 TDI de 220 kW (299 CV) desde 108.400 €.",
+"limite": "En este encuadre no se lee el nombre ni TDI.",
+"sha256": "bff2eb38a6667c4c63ccc33676c2f4bc939b4fd9c2ff5072f46aceaf27a3b9d2",
+"bytes": 76490,
 "metodo": "Lectura del fichero que la página renderizada usa. La variante exacta solo se anota si está escrita o es su insignia. El nombre del archivo no cuenta.",
 "tanda": "2026-11-07-visual-6"
 },
@@ -2914,10 +2914,10 @@
 {
 "ruta": "/media/avatr-espana-2027-06t-07l-lanzamiento-hero.jpg",
 "modelo": "Avatr 06T / 07L",
-"resultado": "contradiccion",
-"visto": "La placa del coche rosa lee AVATR 12.",
-"fundamento": "12 no es 06T ni 07L. La página de este fichero es el lanzamiento 06T y 07L.",
-"limite": "El alt de esta foto no dice 06T. No se cambia el fichero.",
+"resultado": "modelo-sin-variante",
+"visto": "La placa lee AVATR 12.",
+"fundamento": "El artículo es el lanzamiento de la marca. El pie atribuye las fotos a la presentación del Concept T09 y el alt no dice 06T. No se cierra como contradicción.",
+"limite": "No se lee 06T ni 07L.",
 "sha256": "39b3da7db603eefe564e114542a4b5c63a33351db060ba6baf0322f080091e3b",
 "bytes": 431595,
 "metodo": "Lectura del fichero que la página renderizada usa. La variante exacta solo se anota si está escrita o es su insignia. El nombre del archivo no cuenta.",
@@ -3274,12 +3274,12 @@
 {
 "ruta": "/media/kymco-ionex-s7-2026-precio-ficha-tecnica-3.webp",
 "modelo": "Kymco Ionex S7",
-"resultado": "contradiccion",
-"visto": "El scooter lee LIKE 125 y KYMCO.",
-"fundamento": "Like 125 es otro scooter Kymco. La ficha renderizada es el Ionex S7.",
-"limite": "No se cambia el fichero.",
-"sha256": "bfd258851711a5fcbc90649ff9d968ae6048925562300acc88f1350373b48bff",
-"bytes": 23954,
+"resultado": "variante-cubierta",
+"visto": "El frontal lee IONEX y el asiento lee S7.",
+"fundamento": "Sustituye el archivo que leía LIKE 125 y KYMCO (sha256 bfd258851711a5fcbc90649ff9d968ae6048925562300acc88f1350373b48bff). La foto nueva ya estaba en el repo.",
+"limite": "No se lee Kymco ni el año. No hay línea de licencia y no se inventa.",
+"sha256": "8a46d9e063c5f1f99c6d7864eab17aaa1a802a9413e249882b0e4301ad20f3b4",
+"bytes": 36328,
 "metodo": "Lectura del fichero que la página renderizada usa. La variante exacta solo se anota si está escrita o es su insignia. El nombre del archivo no cuenta.",
 "tanda": "2026-11-07-visual-6"
 },
@@ -3455,9 +3455,9 @@
 "ruta": "/media/motos/ducati-streetfighter-v4-2025-ficha-tecnica-precio-oficial.webp",
 "modelo": "Ducati Streetfighter V4",
 "resultado": "contradiccion",
-"visto": "Se lee DUCATI y, en el depósito, V4 S.",
-"fundamento": "La ficha renderizada es Streetfighter V4, sin S. V4 S es otro acabado.",
-"limite": "No se lee la palabra Streetfighter. No se cambia la foto.",
+"visto": "Se lee DUCATI y, en el depósito, V4S.",
+"fundamento": "La ficha es la Streetfighter V4 de base, a 27.790 €, y nombra la S aparte a 32.490 €. El alt dice V4, sin S.",
+"limite": "No se lee la palabra Streetfighter. No se cambia esta foto: no hay otra del mismo encuadre que lea V4 sin S.",
 "sha256": "08bb61d68c860db05f70233ccf7faa22d48ef740c810490584972b1a9fcb84a7",
 "bytes": 81400,
 "metodo": "Lectura del fichero que la página renderizada usa. La variante exacta solo se anota si está escrita o es su insignia. El nombre del archivo no cuenta.",
@@ -3598,12 +3598,12 @@
 {
 "ruta": "/media/motos/bmw-f-800-gs-2025-ficha-tecnica-precio-oficial.webp",
 "modelo": "BMW F 800 GS",
-"resultado": "contradiccion",
-"visto": "El carenado lee F900 GS.",
-"fundamento": "F 900 GS no es la F 800 GS. La ficha renderizada es F 800 GS.",
-"limite": "No se cambia la foto.",
-"sha256": "25918c3663204d0b436fd5952eb5707da02c04aac773041f8a8e1152894c891d",
-"bytes": 118614,
+"resultado": "variante-cubierta",
+"visto": "El carenado lee F800 GS. Redondo BMW.",
+"fundamento": "Es la foto de prensa P90555530, titulada F 800 GS (06/2024). Sustituye el archivo que leía F900 GS (sha256 25918c3663204d0b436fd5952eb5707da02c04aac773041f8a8e1152894c891d).",
+"limite": "No se lee 2025 en la moto. La licencia de prensa sigue sin una palabra más concreta.",
+"sha256": "3ab63d8223e9b62b72aba51cc608116ab8d45c5ebf6a852eb7cea2ba98193b71",
+"bytes": 141448,
 "metodo": "Lectura del fichero que la página renderizada usa. La variante exacta solo se anota si está escrita o es su insignia. El nombre del archivo no cuenta.",
 "tanda": "2026-11-07-visual-6"
 },
@@ -3730,24 +3730,24 @@
 ],
 "no_modelo": 2,
 "hashes_duplicados_en_1390": "1383 hashes distintos en 1390 filas. Solo 7 pares idénticos. Esta tanda no comparte hash entre sí.",
-"variante_cubierta": 73,
+"variante_cubierta": 75,
 "tanda_4": "41 lecturas nuevas. No repite las 59 de visual-3. Cubierta solo si la variante o el modelo está escrito en la foto.",
-"modelo_sin_variante": 126,
-"variante_exacta": 73,
-"contradicciones": 9,
+"modelo_sin_variante": 128,
+"variante_exacta": 75,
+"contradicciones": 5,
 "tanda_5": "100 héroes renderizados que no estaban en las 100 lecturas anteriores, más las fotos del Pursang y del Golf que esas páginas sí usan. variante_cubierta cuenta solo la variante escrita. modelo-sin-variante no confirma motor, potencia ni año. Este commit es posterior a 132fa5c6b y no está en ese bundle.",
 "desglose": [
 {
 "resultado": "variante-cubierta",
-"n": 73
+"n": 75
 },
 {
 "resultado": "modelo-sin-variante",
-"n": 126
+"n": 128
 },
 {
 "resultado": "contradiccion",
-"n": 8
+"n": 4
 },
 {
 "resultado": "contradiccion-bloqueada",
@@ -3778,7 +3778,8 @@
 "n": 2
 }
 ],
-"desglose_nota": "315 lecturas. 73+126+9 suman 208. El resto, 107, es modelo-visible 5, pendiente 48, pendiente-variante 43, pendiente-marca 8, pendiente-anio 1 y no-es-modelo 2. variante_cubierta cuenta solo el nombre escrito. modelo-sin-variante no confirma motor, planta, cilindrada ni año.",
-"cobertura": "315 lecturas de foto. No son 1390 ni un recuento nuevo de las referencias /media/. Las 206 anteriores se conservan. 397 grupos de bytes idénticos siguen siendo la medida ya hecha, no releída.",
-"tanda_6": "109 lecturas nuevas de ficheros que el HTML renderizado usa y que no estaban entre las 206. No repite la investigación del Sportstourer. No hay escaneo nuevo del conjunto de referencias /media/. La ausencia de leyenda no es un error. El mismo hash no aprueba ni rechaza el modelo. El dist del sello 64b7fc873 no cambia. Este commit no está en el bundle 132fa5c6b. Hashes repetidos dentro de la tanda: 0. Hashes ya presentes en las 206: 0."
+"desglose_nota": "315 lecturas. 75+128+5 suman 208. El resto, 107, es modelo-visible 5, pendiente 48, pendiente-variante 43, pendiente-marca 8, pendiente-anio 1 y no-es-modelo 2. variante_cubierta cuenta solo el nombre escrito. La ficha del Q9 ya no usa el encuadre Q5/Q9. La Streetfighter V4 sigue en contradicción. Avatr 12 no se cierra como error.",
+"cobertura": "315 lecturas de foto. 209 pertenecen al inventario 1390 y 106 no. La cola de ese inventario queda en 1181. No son 1390 ni un recuento nuevo de las referencias /media/. 397 grupos de bytes idénticos siguen siendo la medida ya hecha, no releída.",
+"tanda_6": "109 lecturas nuevas de ficheros que el HTML renderizado usa y que no estaban entre las 206. No repite la investigación del Sportstourer. No hay escaneo nuevo del conjunto de referencias /media/. La ausencia de leyenda no es un error. El mismo hash no aprueba ni rechaza el modelo. El dist del sello 64b7fc873 no cambia. Este commit no está en el bundle 132fa5c6b. Hashes repetidos dentro de la tanda: 0. Hashes ya presentes en las 206: 0.",
+"solape_1390": "El inventario 1390 es la cola de ab29c3811: 1156 sin validación, 24 de uso potencial y 210 de solo asociación. 1383 hashes y 7 pares, medidos entonces, no rehechos. De las 315 lecturas, 209 están en ese inventario y 106 no. Por eso 1390-315 no es la cola. Tras retirar las 58 lecturas que seguían en la cola, quedan 1181 rutas del inventario sin leer. 1181+209=1390. Las 106 lecturas de fuera no se restan del inventario."
 }

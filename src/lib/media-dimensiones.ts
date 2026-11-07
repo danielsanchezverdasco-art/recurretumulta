@@ -6206,7 +6206,7 @@ export const MEDIA_DIMENSIONS: Record<string, [number, number]> = {
   "kymco-agility-s-125-2026-ficha-tecnica-precio-oficial-2.webp": [1968, 1296],
   "kymco-agility-s-125-2026-ficha-tecnica-precio-oficial-3.webp": [1200, 900],
   "kymco-agility-s-125-2026-ficha-tecnica-precio-oficial.webp": [1200, 800],
-  "kymco-ionex-s7-2026-precio-ficha-tecnica-3.webp": [1280, 720],
+  "kymco-ionex-s7-2026-precio-ficha-tecnica-3.webp": [1200, 800],
   "kymco-people-s-125-2026-ficha-tecnica-precio-oficial-2.webp": [2240, 1120],
   "kymco-people-s-125-2026-ficha-tecnica-precio-oficial-3.webp": [1200, 1200],
   "kymco-people-s-125-2026-ficha-tecnica-precio-oficial.webp": [1200, 800],

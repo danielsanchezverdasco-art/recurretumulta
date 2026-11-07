@@ -2,6 +2,10 @@
 
 | Archivo | Fuente | Autor | Licencia |
 |---|---|---|---|
+| /media/audi-q9-tdi-2026-hero.webp | https://www.audi.com/en/images/detail/audi-q9-suv-133036 | AUDI AG, imagen A263880 | uso editorial gratuito |
+| /media/motos/bmw-f-800-gs-2025-ficha-tecnica-precio-oficial.webp | https://www.press.bmwgroup.com/deutschland/photo/detail/P90555530/F-800-GS-06-2024 | BMW Motorrad | desconocida |
+| /media/bmw-f-800-gs-2025-ficha-tecnica-precio-oficial.webp | https://www.press.bmwgroup.com/deutschland/photo/detail/P90555530/F-800-GS-06-2024 | BMW Motorrad | desconocida |
+| /media/kymco-ionex-s7-2026-precio-ficha-tecnica-3.webp | rasgos del vehículo: IONEX y S7 | sin fuente externa | no acreditada |
 | /media/xpeng-g9-awd-performance-2026-2.webp | https://commons.wikimedia.org/wiki/File:XPeng_G9_(2025)_IAA_2025_DSC_2054.jpg | Alexander-93 | CC BY-SA 4.0 |
 | /media/xpeng-g6-awd-performance-2026-2.webp | https://commons.wikimedia.org/wiki/File:XPeng_G6_(2025)_IAA_2025_DSC_1802.jpg | Alexander-93 | CC BY-SA 4.0 |
 | /media/cadillac-escalade-2026-2.webp | https://commons.wikimedia.org/wiki/File:2025_Cadillac_Escalade_ESV_Facelift.jpg | Wlb5V | CC BY-SA 4.0 |
