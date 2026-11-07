@@ -4071,9 +4071,19 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "url": "https://commons.wikimedia.org/wiki/File:2024_Peugeot_3008.jpg"
 },
 "/media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-hero.webp": {
-"autor": "A.BourgeoisP · Wikimedia Commons",
+"autor": "Alexander-93",
 "licencia": "CC BY-SA 4.0",
-"url": "https://commons.wikimedia.org/wiki/File:2021_-_Peugeot_308_III_(C)_-_01.jpg"
+"url": "https://commons.wikimedia.org/wiki/File:Peugeot_e-308_Auto_Zuerich_2023_1X7A1207.jpg"
+},
+"/media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-oficial.webp": {
+"autor": "Alexander-93",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Peugeot_e-308_Auto_Zuerich_2023_1X7A1207.jpg"
+},
+"/media/volkswagen-golf-20-tdi-2026-precio-ficha-tecnica-hero.webp": {
+"autor": "Damian B Oh",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Volkswagen_Golf_2.0_TDI_Mk8_CD1_Atlantic_Blue_Metallic_(2).jpg"
 },
 "/media/renault-4-e-tech-52-kwh-2025-precio-autonomia-hero.webp": {
 "autor": "Alexander Migl · Wikimedia Commons",
@@ -5204,6 +5214,26 @@ export const CREDITOS_FOTOS: Record<string, { autor: string; licencia: string; u
 "autor": "Alexander Migl · Wikimedia Commons",
 "licencia": "CC BY-SA 4.0",
 "url": "https://commons.wikimedia.org/wiki/File:Volkswagen_ID._Buzz_1X7A6257.jpg"
+},
+"/media/avatr-06-2025-entrega-commons.webp": {
+"autor": "Quzhouliulian · Wikimedia Commons",
+"licencia": "CC0",
+"url": "https://commons.wikimedia.org/wiki/File:Avatr_06_003.jpg"
+},
+"/media/cadillac-optiq-2025-entrega-commons.webp": {
+"autor": "Alexander Migl · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:Cadillac_Optiq_Auto_Zuerich_2025_DSC_3328_(cropped).jpg"
+},
+"/media/nio-es8-2025-entrega-commons.webp": {
+"autor": "JustAnotherCarDesigner · Wikimedia Commons",
+"licencia": "CC0",
+"url": "https://commons.wikimedia.org/wiki/File:Nio_ES8_III_001.jpg"
+},
+"/media/peugeot-308-2025-entrega-commons.webp": {
+"autor": "A.BourgeoisP · Wikimedia Commons",
+"licencia": "CC BY-SA 4.0",
+"url": "https://commons.wikimedia.org/wiki/File:2021_-_Peugeot_308_III_(C)_-_02.jpg"
 },
 "/media/skoda-octavia-combi-commons.webp": {
 "autor": "Alexander-93 · Wikimedia Commons",

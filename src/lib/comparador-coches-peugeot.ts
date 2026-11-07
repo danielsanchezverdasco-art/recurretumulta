@@ -370,6 +370,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: [],
+    textosPropios: { fotos: "Las fotos son el e-308 eléctrico de Alexander-93, CC BY-SA 4.0. El rótulo lee NEW E-308. No son el 308 híbrido ni una nota de prensa." },
     imagen: "/media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -386,9 +387,9 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     galeria: [
       {
         "src": "/media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-oficial.webp",
-        "alt": "Peugeot E-308 Eléctrico 156, vista lateral",
-        "ancho": 1920,
-        "alto": 1280
+        "alt": "Peugeot e-308 eléctrico; el rótulo lee NEW E-308",
+        "ancho": 1280,
+        "alto": 816
       },
       {
         "src": "",
@@ -398,9 +399,9 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
       },
       {
         "src": "/media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-hero.webp",
-        "alt": "Peugeot E-308 Eléctrico 156, tres cuartos delantero",
-        "ancho": 1920,
-        "alto": 1280
+        "alt": "Peugeot e-308 eléctrico; el rótulo lee NEW E-308",
+        "ancho": 1280,
+        "alto": 816
       }
     ],
     fuenteNombre: "km77",
