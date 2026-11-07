@@ -98,7 +98,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: "https://www.euroncap.com/assessments/toyota/corolla/0762/",
-      nota: "La ficha del Corolla de 2019 caducó el 1 de enero de 2026. Las variantes publicadas son berlina y hatchback, no este Touring Sports. No hay estrellas vigentes que confirmar.",
+      nota: "Ficha de 2019 caducada, no es este familiar.",
     }
   },
   {
@@ -187,7 +187,7 @@ euroncap: {
       estrellas: 5,
       ano: 2024,
       url: "https://www.euroncap.com/assessments/toyota/c-hr+phev/1042/",
-      nota: "Cinco estrellas de 2024. El 21 de mayo de 2025 Euro NCAP añadió el enchufable a la tabla de variantes del C-HR.",
+      nota: "Cinco estrellas; el enchufable entra en 2025.",
     }
   },
   {
@@ -522,7 +522,7 @@ euroncap: {
     fuenteNombre: "somoselectricos",
     fuenteUrl: "https://somoselectricos.com/toyota-urban-cruiser-electrico-no-llega-espana/",
     planMantenimiento: {
-          intervalo: "Intervalo no confirmado: no se abrió una página de Toyota España que fije los 15.000 km de este eléctrico",
+          intervalo: "Intervalo de Toyota no contrastado.",
           revisiones: [
             {
               nombre: "Revisión anual / 15.000 km",
@@ -951,7 +951,7 @@ euroncap: {
       estrellas: 5,
       ano: 2022,
       url: "https://www.euroncap.com/assessments/toyota/corolla+cross/0994/",
-      nota: "Cinco estrellas publicadas el 16 de noviembre de 2022. El coche probado fue el Corolla Cross 2.0 híbrido.",
+      nota: "Cinco estrellas del Corolla Cross.",
     }
   },
   {
@@ -1119,7 +1119,7 @@ euroncap: {
       estrellas: 4,
       ano: 2025,
       url: "https://www.euroncap.com/press-media/mercedes-star-shines-bright-as-euro-ncap-s-final-results-deliver-safer-options-for-every-buyer/",
-      nota: "En la tabla oficial de diciembre de 2025 el Aygo X figura con cuatro estrellas: 73 % adultos, 72 % infantil, 83 % usuarios vulnerables y 68 % asistencias.",
+      nota: "Cuatro estrellas en diciembre de 2025.",
     }
   },
   {
@@ -1560,7 +1560,7 @@ euroncap: {
       estrellas: 4,
       ano: 2025,
       url: "https://www.euroncap.com/assessments/toyota/yaris/1174/",
-      nota: "Cuatro estrellas publicadas el 10 de diciembre de 2025. La tabla de variantes incluye el Hybrid 130. Porcentajes de esa ficha: 72 % adultos, 84 % infantil, 83 % usuarios vulnerables y 72 % asistencias.",
+      nota: "Cuatro estrellas, Hybrid 130 incluido.",
     }
   },
   {
@@ -1644,7 +1644,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: "https://www.euroncap.com/assessments/toyota/rav4/0764/",
-      nota: "El híbrido del RAV4 sí estaba en la tabla de 2019, pero esa ficha figura caducada el 1 de enero de 2026. Un RAV4 nuevo no tiene estrellas vigentes.",
+      nota: "La ficha de 2019 está caducada.",
     }
   },
   {

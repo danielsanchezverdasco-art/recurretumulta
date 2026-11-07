@@ -86,7 +86,7 @@ euroncap: {
       estrellas: 4,
       ano: 2023,
       url: "https://www.euroncap.com/assessments/hyundai/kona/1051/",
-      nota: "Cuatro estrellas del 6 de diciembre de 2023 para la segunda generación. La tabla cubre eléctrico de autonomía corta y larga, híbrido, 1.0 y 1.6 T-GDI. Se probó el eléctrico de autonomía corta.",
+      nota: "Cuatro estrellas de esta generación.",
     }
   },
   {
@@ -173,7 +173,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: "https://www.hyundai.news/eu/articles/press-releases/hyundai-tucson-and-ioniq-5-achieve-five-star-ratings-in-euro-ncap-testing.html",
-      nota: "El Tucson NX4 tuvo cinco estrellas el 27 de octubre de 2021. En la consulta no aparece una revisión de restyling que cubra este modelo posterior, así que no se confirman estrellas para él.",
+      nota: "Restyling sin revisión publicada.",
     },
     planMantenimiento: {
           intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
@@ -371,7 +371,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: "https://www.euroncap.com/assessments/0893/",
-      nota: "La ficha de 2021 del IONIQ 5 lista 125, 160, 173 y 225 kW, no el N. No se trasladan esas cinco estrellas a esta versión.",
+      nota: "El N no figura en esa ficha.",
     },
     planMantenimiento: {
           intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
@@ -469,7 +469,7 @@ euroncap: {
       estrellas: 5,
       ano: 2025,
       url: "https://www.euroncap.com/assessments/hyundai/ioniq-9/1157/",
-      nota: "Cinco estrellas publicadas el 10 de septiembre de 2025. El coche probado fue el 4x4 GLS. Hyundai cita 84 % adultos, 87 % infantil, 77 % usuarios vulnerables y 83 % asistencias.",
+      nota: "Cinco estrellas del IONIQ 9.",
     },
     planMantenimiento: {
           intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
@@ -668,7 +668,7 @@ euroncap: {
       estrellas: 5,
       ano: 2025,
       url: "https://www.euroncap.com/press-media/mercedes-star-shines-bright-as-euro-ncap-s-final-results-deliver-safer-options-for-every-buyer/",
-      nota: "La segunda generación del NEXO tiene cinco estrellas en la publicación del 10 de diciembre de 2025, con 90, 85, 76 y 80 en las cuatro áreas.",
+      nota: "Cinco estrellas, publicación de 2025.",
     }
   },
   {
@@ -936,7 +936,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: "https://www.euroncap.com/assessments/hyundai/inster/1200/",
-      nota: "La ficha de julio de 2025 nombra los INSTER eléctricos de 71,1 y 85,4 kW, no un Cross. No se da por cubierta esta variante.",
+      nota: "El Cross no está en la ficha.",
     },
     planMantenimiento: {
           intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
@@ -1035,7 +1035,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: "https://www.hyundai.news/eu/articles/press-releases/hyundai-tucson-and-ioniq-5-achieve-five-star-ratings-in-euro-ncap-testing.html",
-      nota: "El Tucson NX4 tuvo cinco estrellas el 27 de octubre de 2021. En la consulta no aparece una revisión de restyling que cubra este modelo posterior, así que no se confirman estrellas para él.",
+      nota: "Restyling sin revisión publicada.",
     },
     planMantenimiento: {
           intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
@@ -1133,7 +1133,7 @@ euroncap: {
       estrellas: 4,
       ano: 2023,
       url: "https://www.euroncap.com/assessments/hyundai/kona/1051/",
-      nota: "Cuatro estrellas del 6 de diciembre de 2023 para la segunda generación. La tabla cubre eléctrico de autonomía corta y larga, híbrido, 1.0 y 1.6 T-GDI. Se probó el eléctrico de autonomía corta.",
+      nota: "Cuatro estrellas de esta generación.",
     },
     planMantenimiento: {
           intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
@@ -1321,7 +1321,7 @@ euroncap: {
       estrellas: 4,
       ano: 2021,
       url: "https://www.euroncap.com/assessments/0891pm/",
-      nota: "Euro NCAP dice que el i20 y el Bayon pueden considerarse iguales en seguridad, y aplica al i20 las cuatro estrellas del Bayon de 2021.",
+      nota: "Cuatro estrellas, misma base que el Bayon.",
     }
   },
   {
@@ -1408,7 +1408,7 @@ euroncap: {
       estrellas: 4,
       ano: 2023,
       url: "https://www.euroncap.com/assessments/hyundai/kona/1051/",
-      nota: "Cuatro estrellas del 6 de diciembre de 2023 para la segunda generación. La tabla cubre eléctrico de autonomía corta y larga, híbrido, 1.0 y 1.6 T-GDI. Se probó el eléctrico de autonomía corta.",
+      nota: "Cuatro estrellas de esta generación.",
     },
     planMantenimiento: {
           intervalo: "Cada 1 año o 15.000 km (lo que ocurra antes)",
@@ -1507,7 +1507,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: "https://www.hyundai.news/eu/articles/press-releases/hyundai-tucson-and-ioniq-5-achieve-five-star-ratings-in-euro-ncap-testing.html",
-      nota: "El Tucson NX4 tuvo cinco estrellas el 27 de octubre de 2021. En la consulta no aparece una revisión de restyling que cubra este modelo posterior, así que no se confirman estrellas para él.",
+      nota: "Restyling sin revisión publicada.",
     },
     planMantenimiento: {
           intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
@@ -1751,7 +1751,7 @@ euroncap: {
       estrellas: 4,
       ano: 2025,
       url: "https://www.euroncap.com/assessments/hyundai/inster/1200/",
-      nota: "Cuatro estrellas publicadas el 9 de julio de 2025. La tabla nombra los eléctricos de 71,1 y 85,4 kW. En el comunicado: 70 % adultos, 81 % infantil, 70 % usuarios vulnerables y 67 % asistencias.",
+      nota: "Cuatro estrellas del INSTER.",
     },
     planMantenimiento: {
           intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
@@ -2015,7 +2015,7 @@ euroncap: {
       estrellas: 4,
       ano: 2021,
       url: "https://www.euroncap.com/assessments/hyundai/bayon/0891/",
-      nota: "El 1.0 T-GDI es la variante probada del Bayon. Cuatro estrellas de 2021, con revisión de restyling en mayo de 2024.",
+      nota: "El 1.0 T-GDI fue el probado.",
     },
     planMantenimiento: {
           intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
@@ -2109,7 +2109,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: "https://www.euroncap.com/assessments/hyundai/i30/0674/",
-      nota: "Este 1.5 T-GDI queda sin estrellas confirmadas. Euro NCAP da por terminada la valoración de 2017 el 1 de enero de 2024.",
+      nota: "Sin estrellas: la de 2017 caducó.",
     },
     planMantenimiento: {
           intervalo: "15.000 km o 12 meses (lo que ocurra antes)",

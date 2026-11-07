@@ -82,7 +82,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Las cinco estrellas de 2022 corresponden al IONIQ 6 de aquella prueba, no a este N. No hay una ficha del N que confirmar.",
+      nota: "El N no está en la prueba de 2022.",
     },
     planMantenimiento: {
           intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
@@ -175,7 +175,7 @@ euroncap: {
       estrellas: 5,
       ano: 2025,
       url: "https://www.euroncap.com/press-media/mercedes-star-shines-bright-as-euro-ncap-s-final-results-deliver-safer-options-for-every-buyer/",
-      nota: "El NEXO de nueva generación sale en la tabla del 10 de diciembre de 2025 con cinco estrellas: 90 % adultos, 85 % infantil, 76 % usuarios vulnerables y 80 % asistencias.",
+      nota: "Cinco estrellas en diciembre de 2025.",
     }
   },
   {
@@ -256,7 +256,7 @@ euroncap: {
       estrellas: 3,
       ano: 2020,
       url: "https://www.euroncap.com/assessments/0847/",
-      nota: "El i10 N Line no tiene una prueba aparte. Se apoya en las tres estrellas del i10 de 2020, todavía vigentes en noviembre de 2026 tras el restyling revisado en 2023.",
+      nota: "Tres estrellas del i10.",
     },
     planMantenimiento: {
           intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
@@ -338,7 +338,7 @@ euroncap: {
       estrellas: 4,
       ano: 2023,
       url: "https://www.euroncap.com/assessments/hyundai/kona/1051/",
-      nota: "Cuatro estrellas del 6 de diciembre de 2023 para la segunda generación. La tabla cubre eléctrico de autonomía corta y larga, híbrido, 1.0 y 1.6 T-GDI. Se probó el eléctrico de autonomía corta.",
+      nota: "Cuatro estrellas de esta generación.",
     }
   },
   {
@@ -408,7 +408,7 @@ euroncap: {
       estrellas: 4,
       ano: 2021,
       url: "https://www.euroncap.com/assessments/0891pm/",
-      nota: "Euro NCAP dice que el i20 y el Bayon pueden considerarse iguales en seguridad, y aplica al i20 las cuatro estrellas del Bayon de 2021.",
+      nota: "Cuatro estrellas, misma base que el Bayon.",
     }
   },
   {
@@ -628,7 +628,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: "https://www.euroncap.com/assessments/0893/",
-      nota: "La tabla de 2021 no nombra un N Line. Sin esa variante en la ficha, no se confirman las cinco estrellas para este acabado.",
+      nota: "El N Line no figura en la ficha.",
     }
   },
   {
@@ -773,7 +773,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: "https://www.hyundai.news/eu/articles/press-releases/hyundai-tucson-and-ioniq-5-achieve-five-star-ratings-in-euro-ncap-testing.html",
-      nota: "El Tucson NX4 tuvo cinco estrellas el 27 de octubre de 2021. En la consulta no aparece una revisión de restyling que cubra este modelo posterior, así que no se confirman estrellas para él.",
+      nota: "Restyling sin revisión publicada.",
     }
   },
   {
@@ -854,7 +854,7 @@ euroncap: {
       estrellas: 4,
       ano: 2023,
       url: "https://www.euroncap.com/assessments/hyundai/kona/1051/",
-      nota: "Cuatro estrellas del 6 de diciembre de 2023 para la segunda generación. La tabla cubre eléctrico de autonomía corta y larga, híbrido, 1.0 y 1.6 T-GDI. Se probó el eléctrico de autonomía corta.",
+      nota: "Cuatro estrellas de esta generación.",
     }
   },
   {
@@ -1010,7 +1010,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: "https://www.hyundai.news/eu/articles/press-releases/hyundai-tucson-and-ioniq-5-achieve-five-star-ratings-in-euro-ncap-testing.html",
-      nota: "El Tucson NX4 tuvo cinco estrellas el 27 de octubre de 2021. En la consulta no aparece una revisión de restyling que cubra este modelo posterior, así que no se confirman estrellas para él.",
+      nota: "Restyling sin revisión publicada.",
     }
   },
   {
@@ -1091,7 +1091,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: "https://www.euroncap.com/assessments/hyundai/i30/0674/",
-      nota: "El i30 N Line no hereda estrellas en vigor: la ficha de 2017 está marcada como caducada desde enero de 2024.",
+      nota: "Sin estrellas en vigor para el N Line.",
     },
     planMantenimiento: {
           intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
@@ -1184,7 +1184,7 @@ euroncap: {
       estrellas: 4,
       ano: 2023,
       url: "https://www.euroncap.com/assessments/hyundai/kona/1051/",
-      nota: "Cuatro estrellas del 6 de diciembre de 2023 para la segunda generación. La tabla cubre eléctrico de autonomía corta y larga, híbrido, 1.0 y 1.6 T-GDI. Se probó el eléctrico de autonomía corta.",
+      nota: "Cuatro estrellas de esta generación.",
     },
     planMantenimiento: {
           intervalo: "15.000 km o 12 meses (lo que ocurra antes)",

@@ -1861,7 +1861,7 @@ euroncap: {
       estrellas: 4,
       ano: 2025,
       url: "https://www.euroncap.com/assessments/hyundai/inster/1200/",
-      nota: "Misma ficha del INSTER de julio de 2025: cuatro estrellas para los dos eléctricos publicados, 71,1 y 85,4 kW.",
+      nota: "Cuatro estrellas del INSTER eléctrico.",
     }
   },
   {
@@ -3537,7 +3537,7 @@ euroncap: {
       estrellas: 5,
       ano: 2022,
       url: "https://www.euroncap.com/assessments/seat/arona/0942/",
-      nota: "Cinco estrellas del 12 de octubre de 2022. El coche probado fue el Arona 1.0 EcoTSI Style. Ficha: 83 % adultos, 83 % infantil, 65 % usuarios vulnerables y 70 % asistencias.",
+      nota: "Cinco estrellas del Arona 1.0.",
     }
   },
   {
@@ -3849,7 +3849,7 @@ euroncap: {
       estrellas: 3,
       ano: 2020,
       url: "https://www.euroncap.com/assessments/0847/",
-      nota: "Tres estrellas publicadas el 9 de diciembre de 2020, con revisión de restyling el 15 de junio de 2023. A 7 de noviembre de 2026 sigue dentro de los seis años de validez.",
+      nota: "Tres estrellas, ficha de 2020.",
     }
   },
   {
@@ -3917,7 +3917,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: "https://www.euroncap.com/assessments/kia/stonic/0678s2/",
-      nota: "En 2017 el Stonic tuvo tres estrellas de serie y cinco con el pack, a partir de pruebas del Rio. Esa ficha caducó el 1 de enero de 2024.",
+      nota: "La ficha de 2017 está caducada.",
     }
   },
   {
@@ -5515,7 +5515,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "No se abrió la ficha de resultado del Niro de 2022 para este híbrido. No se mantienen las cuatro estrellas sin esa comprobación.",
+      nota: "Ficha del Niro no contrastada.",
     }
   },
   {
@@ -5575,7 +5575,7 @@ euroncap: {
       estrellas: 4,
       ano: 2023,
       url: "https://www.euroncap.com/assessments/hyundai/kona/1051/",
-      nota: "Cuatro estrellas del 6 de diciembre de 2023 para la segunda generación. La tabla cubre eléctrico de autonomía corta y larga, híbrido, 1.0 y 1.6 T-GDI. Se probó el eléctrico de autonomía corta.",
+      nota: "Cuatro estrellas de esta generación.",
     }
   },
   {
@@ -5636,7 +5636,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "No se abrió una ficha de resultado del Sportage que ate estas cinco estrellas de 2022 a este híbrido. Queda sin evaluación confirmada.",
+      nota: "Ficha del Sportage no contrastada.",
     }
   },
   {
@@ -8079,7 +8079,7 @@ euroncap: {
       estrellas: 4,
       ano: 2021,
       url: "https://www.euroncap.com/assessments/hyundai/bayon/0891/",
-      nota: "Cuatro estrellas del 27 de octubre de 2021. El coche probado fue el Bayon 1.0 T-GDI, y hay revisión de restyling el 15 de mayo de 2024.",
+      nota: "Cuatro estrellas, ficha de 2021.",
     }
   },
   {
@@ -8153,7 +8153,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: "https://www.euroncap.com/assessments/hyundai/i30/0674/",
-      nota: "La prueba del i30 de 2017 caducó el 1 de enero de 2024. No hay otra evaluación publicada para este coche.",
+      nota: "La prueba de 2017 está caducada.",
     }
   },
   {
@@ -10534,7 +10534,7 @@ euroncap: {
       estrellas: 4,
       ano: 2024,
       url: "https://www.euroncap.com/en/results/hyundai/santa-fe/53407",
-      nota: "Con el equipo de serie son cuatro estrellas en 2024. Con el pack SmartSense la ficha aparte da cinco: https://www.euroncap.com/en/results/hyundai/santa-fe/53840",
+      nota: "Cuatro de serie y cinco con pack.",
     }
   },
   {

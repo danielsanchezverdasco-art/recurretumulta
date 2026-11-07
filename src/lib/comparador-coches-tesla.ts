@@ -395,7 +395,7 @@ euroncap: {
       estrellas: 5,
       ano: 2025,
       url: "https://www.euroncap.com/assessments/1110/",
-      nota: "Cinco estrellas publicadas en mayo de 2025. La tabla de variantes incluye el Long Range con tracción total. El coche probado fue el de propulsión trasera.",
+      nota: "Cinco estrellas; incluye el Long Range.",
     }
   },
   {

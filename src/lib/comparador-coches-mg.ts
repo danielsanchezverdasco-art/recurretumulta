@@ -92,7 +92,7 @@ euroncap: {
       estrellas: 4,
       ano: 2025,
       url: "https://www.euroncap.com/assessments/mg/3/1057/",
-      nota: "Cuatro estrellas publicadas el 10 de septiembre de 2025. Se probó el híbrido 1.5, y la tabla también incluye el gasolina 1.5 GS62. Porcentajes: 74, 73, 81 y 69.",
+      nota: "Cuatro estrellas; el gasolina está incluido.",
     },
     planMantenimiento: {
           intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
@@ -109,7 +109,7 @@ euroncap: {
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "No se abrió un plan de mantenimiento de MG España para este modelo",
+          fuente: "Plan de MG no contrastado.",
         }
   },
   {
@@ -349,7 +349,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "No se abrió la ficha de resultado del HS Hybrid+ de 2024. Esas cinco estrellas y esos porcentajes no quedan confirmados.",
+      nota: "Ficha del HS no contrastada.",
     },
     planMantenimiento: {
           intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
@@ -366,7 +366,7 @@ euroncap: {
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "No se abrió un plan de mantenimiento de MG España para este modelo",
+          fuente: "Plan de MG no contrastado.",
         }
   },
   {

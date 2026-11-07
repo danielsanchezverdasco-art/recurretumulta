@@ -838,7 +838,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: null,
-      nota: "El comunicado de diciembre de 2023 cita al Tang entre los coches de la tanda, pero no se abrió su ficha de estrellas. No se afirma una puntuación.",
+      nota: "Ficha del Tang no contrastada.",
     },
     planMantenimiento: {
           intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
@@ -933,7 +933,7 @@ euroncap: {
       estrellas: null,
       ano: null,
       url: "https://www.euroncap.com/assessments/byd/atto-3/0992/",
-      nota: "Las cinco estrellas de octubre de 2022 son del Atto 3 anterior. El Evo cambia estructura y no tiene una valoración propia publicada.",
+      nota: "El Evo no tiene valoración propia.",
     },
     planMantenimiento: {
           intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
