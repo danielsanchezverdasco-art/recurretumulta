@@ -19,7 +19,18 @@ La matriz es `/tmp/audit738/grupos.jsonl` (HEAD de aquella pasada, no el candida
 | binario_ausente | 33 |
 | generado_distinto | 4 |
 
-## Textos Merlín, 7/11/2026 (sobre 8005d7c23)
+## Textos Merlín 2 y 3, sobre a97c17ab4
+
+Merlín 2: los diez artículos ya traen las mismas cifras que la reescritura del 24/10, más fotos y el enlace al analizador. No se ha sustituido el texto por esa rama.
+
+- Pössl 2Win Plus: el artículo ya dice que 66.800–70.200 € es una horquilla de concesionario, no oficial. La ficha lo deja vacío por el mismo motivo. Coherente.
+- Dreamer D55 UP: el artículo dice que Dreamer no publica precio. No se copia el 77.710 € belga de la ficha, marcado allí como no oficial.
+- Rapido V55: el artículo dice que no hay precio publicado y que una unidad expuesta ronda 70.250 €, no oficial. La página pública `https://www.rapido.fr/camping-car_vans_vans_v55.chtml`, consultada el 7/11/2026 y rotulada novedad 2027, confirma 5,99 m, 2,05 m, 140 CV y 3 plazas de noche, y no imprime precio. No se mete en el artículo el 63.350 € de la ficha.
+- Westfalia Columbus 600 D (67.650 €), Sunlight Cliff 640 (60.990 €) y Laika Ecovip 600 (71.314 €) ya coinciden con su ficha.
+- BoxLife: el artículo ya distingue la Preisliste (66.590 €, IVA alemán) del rango de concesionario.
+
+Merlín 3: Frankia y Mobilvetta ya dicen que 142.000 € y 109.888–121.050 € son anuncios, no tarifa de fábrica. Bürstner Lyseo TD 690 G llamaba «PVP recomendado» a 80.750 €. La ficha guardaba 82.530 francos suizos en el campo de euros. El campo queda vacío y el artículo deja de presentar esa cifra como tarifa en euros.
+
 
 Los blobs marcados `no_leible` se leen con `git cat-file`: son UTF-8. La matriz no los abrió; no se descartan.
 

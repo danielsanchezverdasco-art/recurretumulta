@@ -21,7 +21,7 @@ export const AUTOCARAVANAS_BURSTNER_M1: Autocaravana[] = [
     modelo: "Lyseo TD 690 G",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: 82530, // PVP en Suiza (82.530 CHF) publicado en buerstner.com; puede diferir en España
+    precioDesde: null, // 82.530 CHF en buerstner.com (Suiza). No es una tarifa en euros.
     potenciaCv: 140, // «no oficial»: motorización estándar; no visible en el extracto de la página oficial
     autonomiaKm: null,
     maleteroL: null,
