@@ -1,7 +1,7 @@
 // Lote P12 — expansión comparador patinetes (57 modelos verificados 2026-10-12).
 // Solo datos verificados en webs oficiales, retailers España/Europa y prensa especializada; dato no verificado = null.
 // Fotos oficiales de prensa verificadas visualmente (modelo correcto) en /media/patinetes/.
-// Avisos honestos de legalidad VMP: certificadoDgt true solo cuando se verifica; null en el resto,
+// Avisos honestos de legalidad VMP: certificadoDgt true solo cuando se verifica; null en el resto
 // con la advertencia correspondiente en veredicto/contras (modelos >25 km/h no son VMP legales en España).
 // El coordinador fusiona PATINETES_EXP_P12 en el comparador.
 import type { PatineteComparador } from "./comparador-patinetes-data.ts";
@@ -25,7 +25,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     bateriaWh: 367,
     frenos: "Freno de tambor delantero + E-ABS trasero con recuperación de energía",
     neumaticos: "Neumáticos run-flat autosellantes de 10 pulgadas",
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT B1025, versión EU
     foto: "/media/patinetes/xiaomi-electric-scooter-4-pro-max.webp",
     galeria: [
       { alt: "Xiaomi Electric Scooter 4 Pro Max en vista tres cuartos", alto: 495, ancho: 800, src: "/media/fotos-reales/xiaomi-electric-scooter-4-pro-max/xiaomi-electric-scooter-4-pro-max-real-2.webp" },
@@ -121,7 +121,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     bateriaWh: 624,
     frenos: "Triple frenada: disco delantero, disco trasero y frenada regenerativa",
     neumaticos: "Neumáticos tubeless de 10 pulgadas",
-    certificadoDgt: true,
+    certificadoDgt: null, // Rockway GL no figura en la lista DGT
     foto: "/media/patinetes/smartgyro-rockway-gl.webp",
     galeria: [
       { alt: "Smartgyro Rockway GL, vista alternativa del patinete", alto: 1200, ancho: 1200, src: "/media/patinetes/smartgyro-rockway-gl-2.webp" },
@@ -145,7 +145,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
       "El diseño es voluminoso: ocupa bastante espacio plegado",
       "A 599 € hay alternativas más ligeras si no necesitas tanta potencia",
     ],
-    veredicto: "El Rockway GL ofrece la mejor relación potencia-precio de la gama GT de Smartgyro: 1600 W de pico y triple frenada por 599 €. Su peso de 28,65 kg es su principal pega. Con certificado DGT, es una compra segura y legal.",
+    veredicto: "El Rockway GL ofrece 1.600 W de pico y triple frenada por 599 € con impuestos. Pesa 28,65 kg. La lista de la DGT consultada el 7/11/2026 no incluye este GL.",
     fuenteNombre: "Smartgyro (oficial)",
     fuenteUrl: "https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gl",
     mantenimientoDIY: null,
@@ -168,7 +168,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     bateriaWh: 720,
     frenos: "Triple frenada: disco delantero, disco trasero y frenada regenerativa",
     neumaticos: "Neumáticos tubeless de 10 pulgadas",
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1213
     foto: "/media/patinetes/smartgyro-k5-pro.webp",
     galeria: [
       { alt: "Smartgyro K5 Pro, vista alternativa del patinete", alto: 1200, ancho: 1200, src: "/media/patinetes/smartgyro-k5-pro-2.webp" },
@@ -262,7 +262,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     bateriaWh: 360,
     frenos: "Disco de freno delantero de alta precisión + e-ABS con frenada regenerativa",
     neumaticos: "Neumáticos tubeless de 10 pulgadas",
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1019, ref. 7107
     foto: "/media/patinetes/cecotec-bongo-x45-connected.webp",
     galeria: [
       { alt: "Cecotec Bongo X45 Connected, vista con app móvil y distintivo DGT", alto: 1080, ancho: 1080, src: "/media/patinetes/cecotec-bongo-x45-connected-2.webp" },
@@ -309,7 +309,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     bateriaWh: 749,
     frenos: "Doble freno de disco + e-ABS con frenada regenerativa",
     neumaticos: "Neumáticos de 10 pulgadas",
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1127
     foto: "/media/patinetes/cecotec-bongo-v70-connected.webp",
     galeria: [
       { alt: "Cecotec Bongo V70 Connected en color rojo, vista lateral", alto: 800, ancho: 800, src: "/media/patinetes/cecotec-bongo-v70-connected-2.webp" },
@@ -375,7 +375,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     bateriaWh: 187,
     frenos: "Freno de disco trasero + e-ABS delantero",
     neumaticos: "Neumáticos de 8,5 pulgadas",
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1169
     foto: "/media/patinetes/cecotec-bongo-d20e-connected.webp",
     galeria: [
       { alt: "Cecotec Bongo D20E Connected, vista lateral del patinete", alto: 800, ancho: 800, src: "/media/patinetes/cecotec-bongo-d20e-connected-2.webp" },
@@ -422,7 +422,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     bateriaWh: 600,
     frenos: "Doble freno de disco + e-ABS con frenada regenerativa",
     neumaticos: "Neumáticos off-road de 10 pulgadas",
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1128
     foto: "/media/patinetes/cecotec-bongo-v55-2x2-connected.webp",
     galeria: [
       { alt: "Cecotec Bongo V55 2x2 Connected, detalle del patinete", alto: 394, ancho: 1200, src: "/media/patinetes/cecotec-bongo-v55-2x2-connected-2.webp" },
@@ -455,7 +455,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     bateriaWh: 650,
     frenos: "Freno de disco + e-ABS con frenada regenerativa",
     neumaticos: "Neumáticos on-road de 10 pulgadas",
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1181
     foto: "/media/patinetes/cecotec-bongo-gs65-2x2-xxl-connected.webp",
     galeria: [
       { alt: "Cecotec Bongo GS65 2x2 XXL Connected, detalle de la rueda delantera", alto: 643, ancho: 1200, src: "/media/patinetes/cecotec-bongo-gs65-2x2-xxl-connected-2.webp" },

@@ -1,7 +1,7 @@
-// Pack P5 patinetes (05/10/2026) — lote P5: SoFlow, Walberg Urban Electrics,
+// Pack P5 patinetes (05/10/2026) — lote P5: SoFlow, Walberg Urban Electrics
 // iSinwheel, Gotrax, Apollo, Razor, Denver, Zwheel.
 // Datos verificados el 05/10/2026 en webs oficiales y retailers europeos
-// (soflow / secomp.ch, galaxus.ch, gotrax.com, isinwheel vía Amazon,
+// (soflow / secomp.ch, galaxus.ch, gotrax.com, isinwheel vía Amazon
 // denver.eu, amazon, electricscooterguides.com). Dato no verificado = null.
 import type { PatineteComparador } from "./comparador-patinetes-data.ts";
 

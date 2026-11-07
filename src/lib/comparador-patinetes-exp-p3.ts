@@ -933,7 +933,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "Scoota Gang",
     marca: "Inmotion",
     modelo: "RS Lite",
-    precioEur: 2492.63, // tarifa oficial Europa (tienda oficial Inmotion Francia) (verificado 20/10/2026),
+    precioEur: 2492.63, // tarifa oficial Europa (tienda oficial Inmotion Francia) (verificado 20/10/2026)
     potenciaNominalW: 3000,
     potenciaPicoW: 6000,
     autonomiaKm: 120,
@@ -997,7 +997,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "Ginger On Wheels",
     marca: "Inmotion",
     modelo: "RS Midnight",
-    precioEur: 3600, // 3.999 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 3600, // 3.999 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 4000,
     potenciaPicoW: 8400,
     autonomiaKm: 96,
@@ -1186,7 +1186,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "Top Tech ChoiX",
     marca: "Hiboy",
     modelo: "S2 Lite",
-    precioEur: 200, // 269,99 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 200, // 269,99 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 250,
     potenciaPicoW: 400,
     autonomiaKm: 17,
@@ -1251,7 +1251,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "RK9 Rides",
     marca: "Hiboy",
     modelo: "Max Pro",
-    precioEur: 600, // 656,98 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 600, // 656,98 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 500,
     potenciaPicoW: 650,
     autonomiaKm: 75,
@@ -2208,7 +2208,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "GSMaholic",
     marca: "KuKirin",
     modelo: "A1",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 800,
     potenciaPicoW: null,
     autonomiaKm: 45,
@@ -2274,7 +2274,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "Zerorider - la chaîne de la trottinette électrique",
     marca: "KuKirin",
     modelo: "S1 Max",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 500,
     autonomiaKm: 39,
@@ -2340,7 +2340,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
     videoCanal: "Le Vélo Urbain",
     marca: "KuKirin",
     modelo: "G2 Ultra",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 1600,
     potenciaPicoW: 2000,
     autonomiaKm: 55,

@@ -681,7 +681,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     bateriaWh: 461,
     frenos: "Freno de disco trasero + freno de motor regenerativo delantero + freno manual de guardabarros trasero",
     neumaticos: "Ruedas neumáticas de 10 pulgadas (tubeless o con cámara según versión)",
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1000, ref. 7303
     foto: "/media/patinetes/cecotec-bongo-serie-a-plus-max-45-connected.webp",
     galeria: [
       {

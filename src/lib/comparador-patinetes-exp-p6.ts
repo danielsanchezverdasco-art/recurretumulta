@@ -1,5 +1,5 @@
 // Lote P6 patinetes (05/10/2026) — último lote de patinetes.
-// 49 modelos reales verificados: Urban Glide (19), Hiley (7), Smartgyro (1),
+// 49 modelos reales verificados: Urban Glide (19), Hiley (7), Smartgyro (1)
 // Cecotec (7), Speedway (3), SXT (1), Segway (3), Navee (5), NIU (1), Ruptor (2).
 // Datos verificados en webs oficiales y retailers ES/EU; lo no verificado = null.
 // NO duplicar: comprobado contra comparador-patinetes-data.ts y exp-p1..p5.
@@ -1560,7 +1560,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     bateriaWh: 874,
     frenos: "Doble disco + e-ABS",
     neumaticos: "10\" off-road tubeless",
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1131
     foto: "/media/patinetes/cecotec-bongo-doble-y85-2x2-xxl-connected-1.webp",
     galeria: [
       { src: "/media/patinetes/cecotec-bongo-doble-y85-2x2-xxl-connected-2.webp", alt: "Detalle del doble motor del Cecotec Bongo Doble Y85 2x2 XXL Connected", ancho: 1200, alto: 800 },
@@ -1623,7 +1623,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     bateriaWh: 960,
     frenos: "Triple freno: doble disco + e-ABS",
     neumaticos: "10,5\"",
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1052
     foto: "/media/patinetes/cecotec-bongo-serie-doble-z75-1.webp",
     galeria: [
       { src: "/media/fotos-reales/cecotec-bongo-serie-doble-z75/cecotec-bongo-serie-doble-z75-real-1.webp", alt: "Detalle del Cecotec Bongo Serie Doble Z75", ancho: 1200, alto: 800 },
@@ -1686,7 +1686,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     bateriaWh: 1200,
     frenos: "Triple freno",
     neumaticos: "10,5\"",
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1053
     foto: "/media/patinetes/cecotec-bongo-serie-doble-z85-1.webp",
     galeria: [
       { src: "/media/fotos-reales/cecotec-bongo-serie-doble-z85/cecotec-bongo-serie-doble-z85-real-1.webp", alt: "Detalle de la batería del Cecotec Bongo Serie Doble Z85", ancho: 1200, alto: 800 },
@@ -1813,7 +1813,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     bateriaWh: 576,
     frenos: "Doble freno de disco + e-ABS con frenada regenerativa",
     neumaticos: "Neumáticos tubeless de 10\"",
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1018, ref. 7109
     foto: "/media/patinetes/cecotec-bongo-x65-connected-oficial.webp",
     galeria: [],
     aprox: [
@@ -1937,7 +1937,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     bateriaWh: 270,
     frenos: "Freno eléctrico delantero + disco trasero",
     neumaticos: "10\" inflables",
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1100
     foto: "/media/patinetes/cecotec-bongo-d30-xl-connected-1.webp",
     galeria: [
       { src: "/media/patinetes/cecotec-bongo-d30-xl-connected-2.webp", alt: "Detalle del Cecotec Bongo D30 XL Connected", ancho: 1200, alto: 800 },

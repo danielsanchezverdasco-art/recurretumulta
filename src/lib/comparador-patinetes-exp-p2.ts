@@ -23,7 +23,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 360,
     frenos: "Freno eléctrico delantero + freno de disco trasero",
     neumaticos: 'Neumáticos hinchables de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1101
     foto: "/media/patinetes/cecotec-bongo-d40-xl-connected-1.webp",
     galeria: [
       {
@@ -66,7 +66,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 180,
     frenos: "Freno eléctrico delantero y disco trasero",
     neumaticos: 'Neumáticos hinchables de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1099
     foto: "/media/patinetes/cecotec-bongo-d20-xl-connected-1.webp",
     galeria: [
       {
@@ -186,7 +186,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 281,
     frenos: "Freno de disco + e-ABS con frenada regenerativa",
     neumaticos: 'Neumáticos tubeless de 10"',
-    certificadoDgt: true,
+    certificadoDgt: null, // Serie S Infinity no está en la lista DGT
     foto: "/media/patinetes/cecotec-bongo-serie-s-infinity-1.webp",
     galeria: [
       {
@@ -249,7 +249,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 450,
     frenos: "Freno de disco trasero + eABS delantero",
     neumaticos: 'Neumáticos de 10" con cámara',
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1138
     foto: "/media/patinetes/cecotec-bongo-gs50-xxl-connected-1.webp",
     galeria: [
       {
@@ -315,7 +315,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 460,
     frenos: "Triple sistema de frenado: disco, eléctrico y manual trasero",
     neumaticos: 'Neumáticos tubeless de 8,5"',
-    certificadoDgt: true,
+    certificadoDgt: null, // ref. 7029 no está en la lista DGT
     foto: "/media/patinetes/cecotec-bongo-serie-a-advance-connected-max-1.webp",
     galeria: [
       {
@@ -382,7 +382,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 360,
     frenos: "Freno eléctrico delantero + freno de disco trasero",
     neumaticos: 'Neumáticos hinchables de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1102
     foto: "/media/patinetes/cecotec-bongo-d40-xl-suspension-connected-1.webp",
     galeria: [
       {
@@ -548,7 +548,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: null,
     frenos: null,
     neumaticos: 'Neumáticos de 10"',
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1163, SW-RW EVO
     foto: "/media/patinetes/smartgyro-rockway-evo-1.webp",
     galeria: [
       {
@@ -604,7 +604,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: null,
     frenos: null,
     neumaticos: 'Neumáticos Dualgrip tubeless de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1162
     foto: "/media/patinetes/smartgyro-rockway-pro-evo-1.webp",
     galeria: [
       {
@@ -667,7 +667,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: null,
     frenos: null,
     neumaticos: 'Neumáticos de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1190
     foto: "/media/patinetes/smartgyro-rockway-gt-1.webp",
     galeria: [
       {
@@ -725,7 +725,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: null,
     frenos: null,
     neumaticos: 'Neumáticos de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1215
     foto: "/media/patinetes/smartgyro-rockway-gt-dual-1.webp",
     galeria: [
       {
@@ -786,7 +786,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 720,
     frenos: "Triple frenada: disco delantero + disco trasero + regenerativa",
     neumaticos: 'Neumáticos de 10" tubeless mixtas',
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1189
     foto: "/media/patinetes/smartgyro-rockway-gts-1.webp",
     galeria: [
       {
@@ -847,7 +847,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 720,
     frenos: null,
     neumaticos: 'Neumáticos de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1060, SW-RW PRO
     foto: "/media/patinetes/smartgyro-rockway-pro-1.webp",
     galeria: [
       {
@@ -890,7 +890,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 468,
     frenos: "Triple sistema de frenada",
     neumaticos: 'Neumáticos de 10"',
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1209
     foto: "/media/patinetes/smartgyro-k1-1.webp",
     galeria: [
       {
@@ -958,7 +958,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: null,
     frenos: null,
     neumaticos: 'Neumáticos de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1214
     foto: "/media/patinetes/smartgyro-k5-pro-lr-1.webp",
     galeria: [
       {
@@ -1007,7 +1007,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "smartGyro",
     marca: "SmartGyro",
     modelo: "Raptor Dual Evo LR",
-    precioEur: 1499, // tarifa oficial España (verificado 20/10/2026),
+    precioEur: 1499, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 2000,
     potenciaPicoW: null,
     autonomiaKm: 75,
@@ -1377,7 +1377,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 720,
     frenos: "Doble freno de tambor + ABS/EBS",
     neumaticos: 'Neumáticos de 9" (70/50-6.1)',
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT B1039
     foto: "/media/patinetes/dualtron-togo-plus-1.webp",
     galeria: [
       {
@@ -2388,7 +2388,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Ride Electric",
     marca: "Vsett",
     modelo: "11+ Super 72V",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 4000,
     potenciaPicoW: 6960,
     autonomiaKm: 90,

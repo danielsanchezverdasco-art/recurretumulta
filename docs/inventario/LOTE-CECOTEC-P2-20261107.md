@@ -56,3 +56,11 @@ Residual fuera de estos nueve id: el resto de Bongo (p6, p10, p11, p12 y el comp
 El campo se muestra como «Precio oficial» / «Precio desde», no como PVP. Cuando cecotec.es vende el modelo con IVA, ese importe vuelve al campo, fechado el 7/11/2026. No se llama PVP. Siguen vacíos los que no están en la tienda: Serie A sin Connected (404), Serie S Infinity, Advance Connected, Advance Max, Z+ On Road, Z City, Z Mountain, Z Power Mountain, Z Power City y A+ Max 45.
 
 Fotos: https://cecotec.es/es/information/condiciones-de-uso apartado VI reserva las imágenes y prohíbe la reproducción comercial. Commons no tiene archivos «Cecotec Bongo» ni «Cecotec Vulcano» (API de búsqueda, 0 resultados). Las filas de media-creditos marcadas «prensa» apuntan a cecotec.es y a media.cecotec.cloud; eso no es un permiso. Las galerías no se han borrado y el área de fotos no está cerrada.
+
+## Lista DGT, 7/11/2026
+
+Fuente: https://www.dgt.es/nuestros-servicios/tu-vehiculo/vehiculos-de-movilidad-personal-vmp/
+
+`certificadoDgt` queda en true solo si esa lista nombra el modelo o su referencia, con el número de certificado en el comentario. Rockway Evo es A1163 (SW-RW EVO), no por el texto de la tienda. Rockway GL no aparece y pasa a null. También entran, entre otros, D40 XL A1101, D20 XL A1099, GS50 A1138, X65 ref. 7109 A1018, X45 ref. 7107 A1019, y los Xiaomi y Dualtron TOGO Plus cuya fila coincide. Quedan en null el D30 a secas, el M30 Connected, la Serie S Infinity, el Advance Max (ref. 7029) y el Z Power Mountain, que no tienen fila exacta.
+
+Fotos Cecotec: en `public/media-creditos.md` las filas de Cecotec son «prensa» o «desconocida» y apuntan a cecotec.es, media.cecotec.cloud o a un retailer. No hay fila con licencia abierta ni foto del equipo. La búsqueda en Commons no se toma como prueba de que no exista otra fuente. Las galerías siguen y el bloqueo de fotos no está cerrado.

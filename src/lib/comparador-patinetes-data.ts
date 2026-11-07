@@ -1,6 +1,6 @@
 import { sanearPatinete } from "./fotos-saneadas.ts";
 // Datos estructurados para el comparador de patinetes eléctricos (herramienta "Novedades Motor").
-// Verificados el 02/10/2026 en webs oficiales de las marcas (mi.com, segway.com,
+// Verificados el 02/10/2026 en webs oficiales de las marcas (mi.com, segway.com
 // cecotec.es, niu.com, navee.tech) y manuales oficiales. Solo datos que aparecen
 // en fuentes oficiales o retailers verificados; si un dato no se verifica, el
 // campo es null (se muestra como "no publicado"). No inventar cifras.
