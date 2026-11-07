@@ -474,7 +474,11 @@ def f_dist(c):
         ej = list(nuevas_rotas.items())[0]
         c.abort("FOTOS ROTAS: %d páginas referencian /media/ que no existe ni en dist ni en vivo (p.ej. %s → %s). Revierte esas páginas a la versión de vivo o añade la foto real con su fuente." % (len(nuevas_rotas), ej[0], ej[1][:2]))
     c.ok("0 fotos rotas nuevas (%d ya estaban rotas en vivo)" % len(rotas))
-    c.py("chequeo_fotos.py", "--dist", c.dist, "--cambios", os.path.join(c.work, "cambios.json"), quiet=True)
+    args_fotos = ["chequeo_fotos.py", "--dist", c.dist, "--cambios", os.path.join(c.work, "cambios.json")]
+    inv_fotos = os.path.join(c.work, "ficheros-%s.json" % c.live) if getattr(c, "live", None) else ""
+    if inv_fotos and os.path.exists(inv_fotos):
+        args_fotos += ["--inventario", inv_fotos]
+    c.py(*args_fotos, quiet=True)
     c.ok("chequeo_fotos.py OK (sin fotos IA, fotos nuevas con URL de fuente)")
     # 31/10/2026 (orden de Daniel): las comprobaciones de FOTOS solo INFORMAN (no abortan). Lo que sí aborta: noindex fuera de lista.
     rc, t = c.run([sys.executable, os.path.join(c.repo, "scripts", "validar-dist-publicable.py"), c.dist, "--informe", os.path.join(c.work, "validar-dist.txt")], check=False, quiet=True)
