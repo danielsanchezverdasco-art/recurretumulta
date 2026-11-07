@@ -531,7 +531,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
             },
             {
               nombre: "Revisión / 30.000 km",
-              queSeCambia: "Inspección del sistema eléctrico y chequeo de salud de la batería de tracción + filtro de polen + líquido de frenos (según plan)",
+              queSeCambia: "A los 30.000 km, el plan de este eléctrico añade el líquido de frenos a la revisión anual",
               costeAproxEur: null
             }
           ],
