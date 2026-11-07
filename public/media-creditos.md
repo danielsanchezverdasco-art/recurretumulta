@@ -5081,3 +5081,10 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-interior.webp | https://cnevpost.com/wp-content/uploads/2026/10/2026102706371216.jpg | BYD (foto de prensa) · CnEVPost | prensa |
 | /media/cosa-jungla-apoyado-300w.webp | https://recurretumulta.online/media/cosa-jungla-apoyado.webp | Cosa (mascota de recurretumulta.online, ilustración propia) | propia |
 | /media/cosa-jungla-manos-300w.webp | https://recurretumulta.online/media/cosa-jungla-manos.webp | Cosa (mascota de recurretumulta.online, ilustración propia) | propia |
+| /media/porsche-macan-4-electric-2026-precio-ficha-tecnica-commons.webp | https://commons.wikimedia.org/wiki/File:Porsche_Macan_4_IMG_2159.jpg | Alexander-93 | CC BY-SA 4.0 |
+| /media/volkswagen-id-buzz-2026-precio-ficha-tecnica-commons.webp | https://commons.wikimedia.org/wiki/File:Volkswagen_ID._Buzz_1X7A6264.jpg | Alexander Migl | CC BY-SA 4.0 |
+| /media/mitsubishi-colt-2026-precio-ficha-tecnica-commons.webp | https://commons.wikimedia.org/wiki/File:Mitsubishi_Colt_(2023)_1X7A1657.jpg | Alexander-93 | CC BY-SA 4.0 |
+| /media/aito-m7-2025-precio-ficha-tecnica-commons.webp | https://commons.wikimedia.org/wiki/File:Aito_M7_001.jpg | Zoerides | CC BY-SA 4.0 |
+| /media/yamaha-mt-10-2026-precio-ficha-tecnica-commons.webp | https://commons.wikimedia.org/wiki/File:Yamaha_MT-10.jpg | Rikita | CC BY-SA 4.0 |
+| /media/honda-gold-wing-2026-precio-ficha-tecnica-commons.webp | https://commons.wikimedia.org/wiki/File:Honda_Gold_Wing_GL_1800_(SC79_-_2018).jpg | Tarrakaner | CC BY-SA 4.0 |
+| /media/denza-b8-2026-precio-ficha-tecnica-commons.webp | https://commons.wikimedia.org/wiki/File:Fangchengbao_Bao_8_004.jpg | JustAnotherCarDesigner | CC0 |
