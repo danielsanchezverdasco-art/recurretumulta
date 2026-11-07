@@ -122,6 +122,8 @@ CONTROLES_FUERA_DEL_BUILD = {
     "tools/publicar/compilar.py": "comprobador del sello; no entra en dist",
     "tools/publicar/test_reutilizacion.py": "prueba del comprobador; no entra en dist",
     "tools/publicar/publicar.py": "orquestación de la publicación; no compila dist",
+    "tools/publicar/componer_hardlinks.py": "compone el stage por hardlinks; no entra en dist",
+    "tools/publicar/test_componer_hardlinks.py": "prueba de esa composición; no entra en dist",
 }
 
 

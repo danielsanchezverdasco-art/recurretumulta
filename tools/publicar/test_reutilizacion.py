@@ -78,6 +78,17 @@ def test_rechaza_un_fichero_no_justificado():
     assert any("no justificado" in f for f in fallos)
 
 
+def test_admite_el_componedor_sin_abrir_la_carpeta():
+    assert clasificar_cambios([
+        "tools/publicar/componer_hardlinks.py",
+        "tools/publicar/test_componer_hardlinks.py",
+    ]) == []
+    for ruta in ("tools/publicar/otro.py", "tools/publicar/", "scripts/componer_hardlinks.py"):
+        fallos = clasificar_cambios([ruta])
+        assert fallos, ruta
+        assert "no justificado" in fallos[0]
+
+
 def test_rechaza_arbol_vigilado_y_manifiesto_alterado():
     assert any("árbol vigilado" in f for f in base(sucio=["vite.config.ts"]))
     assert any("manifiesto sellado fue alterado" in f for f in base(man_sha="tocado"))
