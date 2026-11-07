@@ -30,7 +30,6 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: [
-      "Oferta de lanzamiento: 8.299 € con maletas; todo riesgo",
       "42 CV con solo 155 kg: la trail-rally más ligera de su clase",
       "Premio Motor Awards 2026 a la mejor moto off-road (voto de usuarios)",
       "Homologación Euro 5+ y paramanos de serie en la versión 2026",

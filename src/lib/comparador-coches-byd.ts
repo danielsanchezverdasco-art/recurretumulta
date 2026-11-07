@@ -32,9 +32,6 @@ export const COCHES_BYD: CocheComparador[] = [
     cargaRapidaKw: 88,
     etiquetaDgt: "Cero",
     pros: [
-      "Autonomía real de 427 km con una batería de solo 60,4 kWh",
-      "Carga rápida limitada a 88 kW frente a rivales más veloces",
-      "Cálculo anual con 15.000 km, carga en casa a 0,18 €/kWh y seguro a todo riesgo.",
       "Autonomía real de 427 km con solo 60,4 kWh de batería",
       "0-100 km/h en 7,0 segundos, más que suficiente para el segmento",
       "Consumo contenido: 15,9 kWh/100 km",

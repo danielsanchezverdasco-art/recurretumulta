@@ -41,9 +41,6 @@ export const CAMPERS_WESTFALIA: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["precioDesde", "largoMm", "anchoMm", "altoMm"],
     pros: [
-      "El Kepler baja la entrada a Westfalia hasta unos 57.000 euros sin renunciar al techo elevable",
-      "Los 150 CV del Kepler cumplen sin sobrar cuando la camper va cargada a tope",
-      "Los 57.000 euros del Kepler son lista alemana, de modo que en España la cifra puede cambiar",
       "La puerta de entrada a Westfalia: desde ~57.000 € en Alemania",
       "Base Volkswagen: calidad y reventa aseguradas",
       "Techo elevable con cama doble: 4 plazas en ~5,3 m",

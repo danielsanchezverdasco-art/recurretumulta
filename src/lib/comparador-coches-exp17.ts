@@ -31,7 +31,6 @@ export const COCHES_EXP17: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "15.000 km/año; diésel 1,55 €/l; todo riesgo.",
       "Motor 3.0 V6 TDI de 241 CV: el pick-up más potente de su clase en Europa",
       "Tracción 4MOTION permanente y 8,8 s de 0-100, cifras de turismo",
       "Caja de carga con 1,16 toneladas de capacidad y 3.500 kg de remolque",

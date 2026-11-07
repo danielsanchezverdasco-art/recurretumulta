@@ -28,9 +28,6 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: ["carga"],
     pros: [
-      "6.925 € anunciados: precio contenido para ser una Zero",
-      "150 km de autonomía y 120 km/h: sale de la ciudad sin complejos",
-      "Autonomía real en autovía, por debajo de los 150 km",
       "232 km de autonomía en ciudad: la trail eléctrica con más alcance de su segmento",
       "Par instantáneo desde 0 rpm, ideal para salidas en tierra y adelantamientos",
       "Sin embrague ni marchas: conducción muy sencilla también fuera del asfalto",

@@ -41,9 +41,6 @@ export const COCHES_LOTE3: CocheComparador[] = [
     emisionesCo2: 22,
     aprox: [],
     pros: [
-      "Tarifa oficial alemana: desde 27.995 € (Trend, 37 kWh, 116 CV); en España desde 25.600 € con campañas",
-      "Batería de 29,6 kWh: autonomía solo para ciudad",
-      "Tarifa oficial japonesa (3.390.200 ¥): ~19.100 € al cambio BCE 19/10/2026 (1 € = 177,63 ¥); aún no se vende en España",
       "74 km eléctricos WLTP: trayectos diarios sin gasolina",
       "Etiqueta Cero con acceso total a ZBE",
       "Interior de factura premium (cuero, nappa, alcántara)",
@@ -324,6 +321,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
     contras: [
       "206 km de autonomía: solo para ciudad",
       "Aún no se vende en España",
+      "En Japón la tarifa publicada es 3.390.200 yenes, unos 19.100 euros al cambio del BCE del 19 de octubre de 2026",
       "Batería pequeña de 25,4 kWh",
       "Precio español aún sin confirmar",
       "Sin datos EuroNCAP",

@@ -35,9 +35,6 @@ export const COCHES_EXP20: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "El motor 2.2 BlueHDi de 180 CV de este Boxer hace de él el más potente de la gama diésel",
-      "No hay versión híbrida: solo diésel o 100 % eléctrico",
-      "La variante más barata de toda la familia 2008 cuesta 21.040 € de partida, con su motor 1.2 de 100 CV y 205 Nm",
       "Motor 2.2 BlueHDi de 180 CV, el más potente de la gama diésel",
       "Volúmenes de carga de hasta 17 m³ en las versiones largas",
       "Plataforma probada: comparte base con Jumper y Ducato",

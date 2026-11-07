@@ -51,7 +51,6 @@ export const AUTOCARAVANAS_RAPIDO_M1: Autocaravana[] = [
     emisionesCo2: null,
     aprox: ["potenciaCv", "largoMm", "anchoMm", "altoMm", "mmaKg", "plazas", "traccion", "etiquetaDgt"], // «no oficial»: web oficial sin ficha del V55
     pros: [
-      "Peugeot Boxer 2.2 (Francia; Fiat Ducato en exportación): 2 años / 40.000 km",
       "Menos de 6 m con 3 plazas de dormir y 4 de viaje: formato muy compacto y maniobrable, ideal para uso diario y ciudad",
       "Sistema patentado MODUL'SPACE®: en un van de menos de 6 m consigue ducha y WC separados de verdad, algo único en su categoría",
       "Cama transversal trasera de 195x132 cm con soute modulable debajo (caben 2 bicis) y colchón Bultex",

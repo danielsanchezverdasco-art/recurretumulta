@@ -39,9 +39,6 @@ export const COCHES_LOTE4: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["ceroCien", "autonomiaKm"],
     pros: [
-      "Con 740 CV del V6 Nettuno, es el Maserati más potente de la historia",
-      "El monocasco de carbono Dallara deja el peso en 1.250 kg",
-      "El precio parte de 900.000 € antes de impuestos",
       "V16 atmosférico de 8,3 litros con Cosworth: 1.000 CV sin turbos",
       "1.800 CV combinados y 445 km/h: el Bugatti más potente de la historia",
       "Interior de relojería con instrumentos analógicos de verdad",

@@ -45,8 +45,6 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     ],
     aprox: ["velocidadMaxKmh"],
     pros: [
-      "Batería de 480 Wh y motor de 800 W: 40 km declarados y 27 km reales.",
-      "Pesa 37 kg, lo que se nota al cargarlo, plegarlo y guardarlo en un uso urbano diario.",
       "Precio de entrada: unos 275 € con opción de almacén en la UE",
       "Motor de 250 W: suficiente para llano y el límite legal de los VMP",
       "Batería de 36 V y 7,8 Ah (281 Wh): digna para trayectos cortos",

@@ -29,7 +29,6 @@ export const COCHES_OMODA: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Sin precio oficial: OMODA España no ha publicado la tarifa del Omoda 4 (llegada prevista en el primer semestre de 2027); la prensa especializada lo estima entre 22.000 y 25.000 €, sin confirmar",
       "Desde 27.900 €: el C-SUV chino que rompió el mercado en España",
       "1.6 TGDI de 147 CV con cambio automático 7DCT de serie",
       "7 años de garantía: la mejor cobertura del segmento generalista",
