@@ -831,7 +831,7 @@ function BlogPostPage() {
                   "Análisis con IA en menos de 60 segundos",
                   "% de viabilidad del recurso",
                   "Argumentos legales específicos de tu multa",
-                  "PDF del recurso completo por 4,99€",
+                  "Escrito incluido en la suscripción anual (7,99 €)",
                 ]).map((b) => (
                   <li key={b} className="flex items-center gap-2 text-xs text-gray-600">
                     <Check className="w-3.5 h-3.5 text-red-500 shrink-0" />
