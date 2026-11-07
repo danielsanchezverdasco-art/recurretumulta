@@ -321,7 +321,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
     contras: [
       "206 km de autonomía: solo para ciudad",
       "Aún no se vende en España",
-      "En Japón la tarifa publicada es 3.390.200 yenes, unos 19.100 euros al cambio del BCE del 19 de octubre de 2026",
+      "Tarifa en Japón: 3.390.200 yenes, unos 19.100 euros",
       "Batería pequeña de 25,4 kWh",
       "Precio español aún sin confirmar",
       "Sin datos EuroNCAP",
