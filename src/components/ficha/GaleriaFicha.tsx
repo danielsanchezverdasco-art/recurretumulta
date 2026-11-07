@@ -95,7 +95,7 @@ export default function GaleriaFicha({
   return (
     <div>
       <div
-        className="group relative overflow-hidden rounded-3xl bg-gray-100"
+        className="group relative w-full min-w-0 max-w-full overflow-hidden rounded-3xl bg-gray-100"
         role="region"
         aria-roledescription="carrusel"
         aria-label={`Fotos del ${nombre}`}
@@ -109,12 +109,12 @@ export default function GaleriaFicha({
           ref={trackRef}
           onScroll={onScroll}
           onPointerDown={(e) => { down.current = { x: e.clientX, y: e.clientY }; }}
-          className="flex snap-x snap-mandatory overflow-x-auto [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+          className="flex w-full min-w-0 snap-x snap-mandatory overflow-x-auto overscroll-x-contain [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
         >
           {lista.map((f, i) => (
             <figure
               key={f.src}
-              className="w-full shrink-0 snap-center snap-always cursor-zoom-in"
+              className="w-full min-w-full shrink-0 grow-0 basis-full snap-center snap-always cursor-zoom-in"
               aria-roledescription="diapositiva"
               aria-label={`${i + 1} de ${n}`}
               onClick={(e) => {

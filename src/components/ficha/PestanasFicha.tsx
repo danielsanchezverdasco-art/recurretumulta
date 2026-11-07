@@ -45,7 +45,7 @@ export default function PestanasFicha({ secciones }: { secciones: SeccionFicha[]
   if (presentes.length < 2) return null;
   return (
     <nav aria-label="Secciones de la ficha" className="sticky top-16 z-30 -mx-4 mt-4 border-b border-gray-200 bg-gray-50/95 px-4 backdrop-blur print:hidden">
-      <div ref={navRef} className="flex gap-1 overflow-x-auto py-2 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+      <div ref={navRef} className="flex w-full min-w-0 gap-1 overflow-x-auto overscroll-x-contain py-2 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
         {presentes.map((s) => (
           <a
             key={s.id}
