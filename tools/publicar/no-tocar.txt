@@ -9,8 +9,9 @@
 # Las demas rutas de esta lista SIGUEN protegidas con normalidad.
 # Esta excepción cubre únicamente la subida-1105; no es un permiso general.
 # 7/11/2026 03:11 Madrid: Daniel autoriza DOS blobs de esta tanda, y solo esos.
-# No se retira ninguna ruta de esta lista. El gate sigue. El registro por
-# fichero y hash está en tools/publicar/excepciones-hash.txt y lo lee publicar.py.
+# 7/11/2026 10:21 Madrid: Daniel autoriza TRES blobs más, y solo esos. La cita
+# y los hash están en excepciones-hash.txt. Esa frase no acredita licencia
+# de las 25 fotos. No se retira ninguna ruta de esta lista. El gate sigue.
 scripts/gen-radares-html.mjs
 src/components/Cosa.tsx
 src/components/NewsletterSignup.tsx

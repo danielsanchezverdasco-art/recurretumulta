@@ -10,3 +10,13 @@
 # Alcance declarado por Daniel: SOLO estos dos ficheros.
 src/components/ficha/RivalesCarrusel.tsx cac131fd5f5ed745e4c7f979ffa356302b2fcee8
 src/lib/blog-posts-zontes-552g.ts 664dc3645428f6b74062e2f6d5cf53d3527787e6
+#
+# Tanda: 7/11/2026 10:21 Europe/Madrid. Chat de Daniel, respuesta textual al widget.
+# Cita: «Autorizo los cambios descritos en los tres archivos protegidos, incluidas
+# las 25 fotos adicionales aunque su permiso de uso aún no esté acreditado.»
+# Alcance: solo estos tres blobs. Esta autorización no acredita licencia ni
+# permiso de uso de esas 25 fotos y no añade créditos. Ninguna ruta sale de
+# no-tocar.txt. Otro hash u otro fichero no quedan cubiertos.
+src/lib/blog-data.ts 9a1a70586dd08dc60369d924527f3b45630dce8c
+src/lib/blog-posts-autocaravanas-lote125-g02.ts 771edad218688daf83646811cea25d05648f4bf5
+src/lib/blog-posts-autocaravanas-lote125.ts d468ba84640ff13b32b857bc11eda28c59dda0fc
