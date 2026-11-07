@@ -1730,7 +1730,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo G40 XXL Connected",
-    precioEur: 279,
+    precioEur: null, // Tarjeta G40: 279 eur, agotado, sin PVP.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 40,

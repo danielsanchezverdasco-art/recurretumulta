@@ -669,7 +669,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     videoCanal: "Cosas de Patinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie A+ Max 45 Connected",
-    precioEur: 449,
+    precioEur: null, // 449 eur era PcComponentes. El listado 7/11 no trae este A+ Max.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 45,

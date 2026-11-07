@@ -1801,7 +1801,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie X65 Connected",
-    precioEur: 499,
+    precioEur: null, // Tarjeta X65: 499 eur, agotado, sin PVP.
     potenciaNominalW: 500,
     potenciaPicoW: 1000,
     autonomiaKm: 65,
@@ -1925,7 +1925,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cecotec",
     marca: "Cecotec",
     modelo: "Bongo D30 XL Connected",
-    precioEur: 249,
+    precioEur: null, // Tarjeta D30 XL: 249 eur, agotado, sin PVP.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 30,

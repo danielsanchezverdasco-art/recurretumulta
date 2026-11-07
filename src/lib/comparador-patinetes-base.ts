@@ -357,7 +357,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie Z Power Mountain",
-    precioEur: 599,
+    precioEur: null, // Ausente del listado 7/11. El 599 no se confirma en cecotec.es.
     potenciaNominalW: 800,
     potenciaPicoW: 1300,
     autonomiaKm: 60,
@@ -904,7 +904,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie Z City",
-    precioEur: 550,
+    precioEur: null, // 550 eur era Sprinter. El listado 7/11 no trae la Z City.
     potenciaNominalW: 500,
     potenciaPicoW: 1300,
     autonomiaKm: 55,
@@ -1349,7 +1349,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie M20",
-    precioEur: 279, // tarifa oficial España (verificado 20/10/2026)
+    precioEur: null, // Tarjeta M20: 279 eur, en stock, sin la palabra PVP.
     potenciaNominalW: 350,
     potenciaPicoW: 500,
     autonomiaKm: 20,
@@ -1385,7 +1385,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie M30 Connected",
-    precioEur: 319, // tarifa oficial España (verificado 20/10/2026)
+    precioEur: null, // Tarjeta M30 Connected: 319 eur, agotado, sin PVP.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 30,
@@ -3108,7 +3108,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Cecotec",
   modelo: "Bongo D30",
-  precioEur: 269, // tarifa oficial España (verificado 20/10/2026)
+  precioEur: null, // Tarjeta D30: 269 eur, agotado, sin PVP.
   potenciaNominalW: 350,
   potenciaPicoW: 650,
   autonomiaKm: 30,

@@ -203,7 +203,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie S+ Max Unlimited",
-    precioEur: 499,
+    precioEur: null, // Tarjeta Unlimited: 593,90 eur, agotado, sin PVP. 499 era un retailer.
     potenciaNominalW: 350,
     potenciaPicoW: 750,
     autonomiaKm: 40,
@@ -250,7 +250,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo X45 Connected",
-    precioEur: 449,
+    precioEur: null, // Tarjeta X45: 449 eur, agotado, sin PVP.
     potenciaNominalW: 350,
     potenciaPicoW: 750,
     autonomiaKm: 45,
@@ -330,7 +330,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie Z Mountain",
-    precioEur: 523,
+    precioEur: null, // Habitium pedía 523 eur por la Mountain; cecotec.es no la lista hoy.
     potenciaNominalW: 500,
     potenciaPicoW: 1000,
     autonomiaKm: 50,
@@ -443,7 +443,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo GS65 2x2 XXL Connected",
-    precioEur: 449,
+    precioEur: null, // Tarjeta GS65: 449 eur, agotado, sin PVP.
     potenciaNominalW: 750,
     potenciaPicoW: 1000,
     autonomiaKm: 65,
@@ -476,7 +476,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie Z Power City",
-    precioEur: 629,
+    precioEur: null, // 629 eur no está en el listado 7/11. El PDF no se reabrió hoy.
     potenciaNominalW: 800,
     potenciaPicoW: 1300,
     autonomiaKm: 65,
