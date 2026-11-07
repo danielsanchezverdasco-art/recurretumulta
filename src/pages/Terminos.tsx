@@ -55,7 +55,7 @@ export default function TerminosPage() {
           <section>
             <h2 className="text-xl font-black text-gray-900">3. Precios y pagos</h2>
             <ul className="list-disc pl-5 space-y-1">
-              <li><strong>Análisis con IA:</strong> Siempre gratuito. Incluye viabilidad %, defectos detectados y resumen.</li>
+              <li><strong>Análisis con IA:</strong> Siempre gratuito. Incluye una valoración orientativa de posibles defectos, sin porcentaje ni garantía de resultado,, defectos detectados y resumen.</li>
               <li><strong>Recurso PDF único:</strong> 4,99 € por documento. Pago único, no recurrente.</li>
               <li><strong>Plan anual de vigilancia de multas:</strong> 7,99 € al año, IVA incluido. Incluye (a) alertas de multas nuevas a tu nombre o matrícula, (b) el análisis de cada multa antes de que te llegue, para no perder ni un día de plazo, y (c) el recurso preparado con una guía paso a paso para que lo envíes tú mismo. No recurrimos en tu nombre: lo dejamos todo listo para que tú solo tengas que enviarlo. Se renueva automáticamente cada año salvo que canceles antes de la renovación. El análisis de una multa sigue siendo gratis.</li>
             </ul>

@@ -189,8 +189,74 @@ def compilar(repo, comando, conservar=True):
     return 0
 
 
+def leer_manifiesto_sello(path):
+    filas = {}
+    for line in open(path, encoding="utf-8"):
+        line = line.rstrip("\n")
+        if not line or line.startswith("#"):
+            continue
+        sha, size, rel = line.split(" ", 2)
+        filas[rel] = (sha, size)
+    return filas
+
+
+def sellar_delta(repo, previo, permitidos):
+    """Sella el dist actual solo si los únicos ficheros distintos del manifiesto previo son los declarados.
+
+    No ejecuta build. No escribe sello si la diferencia no coincide con la lista.
+    """
+    repo = os.path.abspath(repo)
+    inicio = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    head = cabeza(repo)
+    if sucio(repo):
+        print("árbol vigilado sucio; no hay sello:", ", ".join(sucio(repo)))
+        return 1
+    dist = os.path.join(repo, "dist")
+    antes = leer_manifiesto_sello(previo)
+    ahora_sha, n, total, texto = manifiesto_dist(dist)
+    ahora = {}
+    for line in texto.splitlines():
+        if not line or line.startswith("#"):
+            continue
+        sha, size, rel = line.split(" ", 2)
+        ahora[rel] = (sha, size)
+    cambiados = []
+    for rel, par in ahora.items():
+        if antes.get(rel) != par:
+            cambiados.append(rel)
+    faltan = [rel for rel in antes if rel not in ahora]
+    esp = set(permitidos)
+    got = set(cambiados)
+    if faltan or got != esp:
+        print("DELTA NO SELLA")
+        print("esperados %d obtenidos %d faltan %d" % (len(esp), len(got), len(faltan)))
+        for rel in sorted(got - esp)[:40]:
+            print(" sobra", rel)
+        for rel in sorted(esp - got)[:40]:
+            print(" no-cambio", rel)
+        for rel in faltan[:20]:
+            print(" falta", rel)
+        return 1
+    extra = [
+        "delta_prev_manifest=" + hashlib.sha256(open(previo, "rb").read()).hexdigest(),
+        "delta_paths=%d" % len(cambiados),
+    ] + ["delta_path=" + rel for rel in sorted(cambiados)]
+    man, nfiles, nbytes = escribir_sello(repo, dist, head, inicio, extra)
+    if man != ahora_sha or nfiles != n or nbytes != total:
+        print("el sello escrito no coincide con la lectura; no se da por bueno")
+        return 1
+    print("SELLO %s ficheros %d bytes %d manifiesto %s delta %d" % (head, nfiles, nbytes, man, len(cambiados)))
+    return 0
+
+
 def main():
     repo = os.path.abspath(os.path.join(AQUI, "..", ".."))
+    if len(sys.argv) > 1 and sys.argv[1] == "--delta":
+        if len(sys.argv) != 4:
+            print("uso: compilar.py --delta MANIFIESTO_PREVIO LISTA_RUTAS")
+            sys.exit(2)
+        rutas = [l.strip() for l in open(sys.argv[3], encoding="utf-8") if l.strip() and not l.startswith("#")]
+        sys.exit(sellar_delta(repo, sys.argv[2], rutas))
     if len(sys.argv) > 1 and sys.argv[1] == "--comprobar":
         dist = sys.argv[2] if len(sys.argv) > 2 else os.path.join(repo, "dist")
         fallos = comprobar_sello(repo, dist)

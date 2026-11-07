@@ -558,7 +558,7 @@ var X = (0, z.lazy)(() =>
     },
     {
       title: `Cómo recurrir una multa DGT paso a paso`,
-      content: `1. Recibes la notificación de la multa. 2. Tienes 20 días naturales para pagar con el 50% de descuento O para presentar alegaciones — son incompatibles. 3. Sube la multa a RecurreTuMulta.online y obtén el análisis gratuito con los argumentos legales. 4. Si quieres el PDF listo para firmar, genéralo por 4,99€. 5. Firma el documento y envíalo al órgano que impuso la sanción: por la Sede Electrónica de la DGT (sede.dgt.gob.es) con certificado digital o Cl@ve, por correo certificado o presencialmente. 6. La DGT tiene 1 mes para resolver. Si no contesta, se entiende desestimado (silencio administrativo negativo). 7. Si se desestima, puedes acudir a la vía contencioso-administrativa.`,
+      content: `1. Recibes la notificación de la multa. 2. Tienes 20 días naturales para pagar con el 50% de descuento O para presentar alegaciones — son incompatibles. 3. Sube la multa a RecurreTuMulta.online y obtén el análisis gratuito con los argumentos legales. 4. Si quieres el PDF listo para firmar, genéralo por 4,99€. 5. Firma el documento y envíalo al órgano que impuso la sanción: por la Sede Electrónica de la DGT (sede.dgt.gob.es) con certificado digital o Cl@ve, por correo certificado o presencialmente. 6. Si son alegaciones, no hay un silencio de un mes que las dé por desestimadas. Si ya recurres en reposición la resolución, el artículo 96.5 del RDL 6/2015 da un mes y el silencio es desestimatorio; el artículo 96.3 dice que esa reposición no suspende el pago. 7. Si se desestima, puedes acudir a la vía contencioso-administrativa.`,
     },
     {
       title: `Recurrir multa de radar: argumentos clave`,
