@@ -56,6 +56,8 @@ function fraseVerificacion({
   // la frase cita esos dos datos, que son los de esta página.
   if (fuente?.nombre && modelo && tipo === "ficha")
     return `Los datos de la ficha del ${modelo} se contrastaron con ${fuente.nombre}: solo se publica lo que esa fuente confirma; lo demás queda marcado como no verificado, nunca inventado.`;
+  if (modelo && tipo === "listado")
+    return `En este listado de ${modelo}, cada cifra cita su fuente.`;
   return "";
 }
 

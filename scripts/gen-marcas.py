@@ -100,11 +100,11 @@ EE_FUENTES={"coches":[("DGT · Distintivo ambiental","https://www.dgt.es/nuestro
 EE_HERR={"coches":[("/calculadora-etiqueta-dgt/","Calculadora de etiqueta DGT"),("/comparador-coches/","Comparador de coches"),("/guias/zbe/","Guía de zonas de bajas emisiones (ZBE)"),("/#analizador","Analizador de multas con IA (gratis)")],
   "motos":[("/comparador-motos/","Comparador de motos"),("/calculadora-kw-a-cv/","Calculadora kW a CV"),("/guias/zbe/","Guía de zonas de bajas emisiones (ZBE)"),("/#analizador","Analizador de multas con IA (gratis)")],
   "patinetes":[("/comparador-patinetes/","Comparador de patinetes"),("/guias/patinetes-electricos/","Normativa de patinetes eléctricos"),("/#analizador","Analizador de multas con IA (gratis)")]}
-def eeat_aside(c,act):
+def eeat_aside(c,act,nombre):
   fecha=f' · <span>Actualizado: <time datetime="{act}">{fl(act)}</time></span>' if act else ""
   return ('<aside aria-label="Autoría y fuentes" data-eeat="1" class="mx-auto my-8 max-w-4xl px-4"><div class="rounded-2xl border border-gray-200 bg-gray-50 p-4 text-sm text-gray-700 sm:p-5">'
     f'<p class="flex flex-wrap items-center gap-x-2 gap-y-1"><span>Por <a rel="author" class="font-bold text-gray-900 underline underline-offset-2" href="/sobre-nosotros/">Daniel</a>, fundador y responsable de contenidos</span>{fecha}</p>'
-    '<p class="mt-2 text-xs leading-relaxed text-gray-600"><strong class="text-gray-800">Cómo verificamos:</strong> Cada ficha de este listado se elabora con datos oficiales de la marca o fuentes citadas; lo no confirmado se marca como aproximado y nunca inventamos cifras. <a class="text-red-600 underline" href="/politica-editorial/">Política editorial y metodología</a>.</p>'
+    f'<p class="mt-2 text-xs leading-relaxed text-gray-600"><strong class="text-gray-800">Cómo verificamos:</strong> En este listado de {e(CAT[c])} {e(nombre)}, cada cifra cita su fuente. <a class="text-red-600 underline" href="/politica-editorial/">Política editorial y metodología</a>.</p>'
     '<p class="mt-2 text-xs leading-relaxed text-gray-600"><strong class="text-gray-800">Fuentes:</strong> '+" · ".join(f'<a href="{u}" target="_blank" rel="noopener noreferrer" class="break-words text-red-600 underline">{e(n)}</a>' for n,u in EE_FUENTES[c])+'</p>'
     '<p class="mt-2 text-xs leading-relaxed text-gray-600"><strong class="text-gray-800">Herramientas y guías:</strong> '+" · ".join(f'<a class="text-red-600 underline" href="{u}">{e(n)}</a>' for u,n in EE_HERR[c])+'</p></div></aside>')
 def eeat_ld(url,nombre,act):
@@ -302,7 +302,7 @@ for (c,slug),d in _orden:
   h=poner(h,d["title"],d["description"],url)
   act=max([FE[s_][1] for s_,_ in d["items"] if s_ in FE] or [None], key=lambda x: x or "")
   h=re.sub(r'<aside aria-label="Autoría y fuentes" data-eeat="1".*?</aside>','',h,flags=re.S)
-  h=h.replace("<footer",eeat_aside(c,act)+"<footer",1)
+  h=h.replace("<footer",eeat_aside(c,act,d["nombre"])+"<footer",1)
   h=h.replace("</head>",eeat_ld(url,d["title"],act)+"</head>",1)
   if ed.get("faq"):
     h=h.replace("</head>",ld({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":f["q"],"acceptedAnswer":{"@type":"Answer","text":f["a"]}} for f in ed["faq"]]}, "faq-marca")+"</head>",1)
