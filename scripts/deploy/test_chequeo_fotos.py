@@ -11,7 +11,7 @@ ASOC = {"/media/ejemplo-modelo.webp"}
 IA = {"/media/ejemplo-ia.webp"}
 
 
-def test_sin_url_pero_con_asociacion_no_bloquea():
+def test_el_vinculo_recuperado_no_exige_url():
     assert motivo_foto_nueva(FOTO, True, ASOC, set()) is None
 
 
@@ -23,8 +23,9 @@ def test_sin_uso_no_bloquea_ni_se_trata_como_modelo_incorrecto():
     assert motivo_foto_nueva(FOTO, False, set(), set()) == "sin-uso"
 
 
-def test_el_nombre_parecido_no_es_la_asociacion():
+def test_el_nombre_parecido_no_es_evidencia():
     assert motivo_foto_nueva(FOTO, True, {"/media/ejemplo-modelo-2.webp"}, set()) == "sin-prueba-modelo"
+    assert motivo_foto_nueva("/media/ejemplo-modelo-hero.webp", True, set(), set()) == "sin-prueba-modelo"
 
 
 def test_ia_referenciada_sigue_bloqueada_aunque_exista_asociacion():

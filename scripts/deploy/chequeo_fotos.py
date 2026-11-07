@@ -4,8 +4,9 @@ Uso:  python3 scripts/deploy/chequeo_fotos.py --dist dist [--cambios .deploy-wor
 
 Falla si:
   * alguna página del deploy usa una foto marcada en src como 'generada por IA' o 'ilustrativa';
-  * alguna foto NUEVA referenciada en src no está en la asociación exacta de FOTOS_MODELO
-    (el campo src de una entrada, no el parecido del nombre).
+  * alguna foto NUEVA mencionada en src no tiene un vínculo recuperado en
+    docs/inventario/evidencia-modelo-ruta.json. No basta el parecido del nombre
+    ni una entrada de FOTOS_MODELO cuyo origen fue el sufijo del fichero.
 
 No falla por falta de licencia, permiso o URL de crédito: eso lo gestiona Daniel.
 No inventa créditos, no borra las fotos sin uso y no descarga el sitio en vivo.
@@ -15,18 +16,20 @@ import os, re, sys, json, argparse, glob
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..")
 
 
-def motivo_foto_nueva(ruta, referenciada, asociaciones, marcadas_ia):
-    """None si no bloquea. La URL de crédito no entra en la decisión.
+def motivo_foto_nueva(ruta, referenciada, evidencia, marcadas_ia):
+    """None si no bloquea. Ni la URL de crédito ni el parecido del nombre deciden.
 
-    'ia' si la foto está marcada como generada y alguien la usa.
-    'sin-uso' si nadie la referencia: no se borra y no bloquea.
-    'sin-prueba-modelo' si se usa y no hay una entrada exacta en la asociación.
+    'sin-uso' si no hay mención literal: no se borra y no bloquea. No afirma que
+    una plantilla dinámica no la muestre.
+    'ia' si está marcada como generada y alguien la usa.
+    'sin-prueba-modelo' si se usa y no hay un vínculo recuperado (campo de la ficha,
+    primera imagen de ese artículo, registro con origen ficha o blog, o nota visual).
     """
     if not referenciada:
         return "sin-uso"
     if ruta in marcadas_ia:
         return "ia"
-    if ruta in asociaciones:
+    if ruta in evidencia:
         return None
     return "sin-prueba-modelo"
 
@@ -42,8 +45,12 @@ def main(argv=None):
             if f.endswith((".ts", ".tsx", ".json")):
                 src += open(os.path.join(dp, f), encoding="utf8", errors="ignore").read() + "\n"
     IA = set(re.findall(r'"(/media/[^"]+)"[^\n]{0,400}?(?:generada por IA|ilustrativa generada)', src, flags=re.I))
-    modelo_p = os.path.join(ROOT, "src", "lib", "fotos-modelo.generated.ts")
-    asociaciones = set(re.findall(r'"src": "(/media/[^"]+)"', open(modelo_p, encoding="utf8").read())) if os.path.exists(modelo_p) else set()
+    ev_p = os.path.join(ROOT, "docs", "inventario", "evidencia-modelo-ruta.json")
+    evidencia = set()
+    if os.path.exists(ev_p):
+        for row in json.load(open(ev_p, encoding="utf8")).get("entradas", []):
+            if row.get("prueba") != "exacta" and row.get("ruta"):
+                evidencia.add(row["ruta"])
     H = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fotos-hotfix")
     for m in glob.glob(os.path.join(H, "fotos-hotfix-map*.json")):
         IA -= {"/media/" + k + ".webp" for k in json.load(open(m)) if not k.startswith("_")}
@@ -55,7 +62,7 @@ def main(argv=None):
         html_cambiados = [p for p in c["new"] + c["chg"] if p.endswith(".html")]
         nuevas = [p for p in c["new"] if p.startswith("/media/") and not re.search(r"-(480w|828w|1200w|card)\.webp$", p)]
         for p in nuevas:
-            motivo = motivo_foto_nueva(p, p in src, asociaciones, IA)
+            motivo = motivo_foto_nueva(p, p in src, evidencia, IA)
             if motivo == "sin-uso":
                 sin_uso += 1
             elif motivo == "ia":
@@ -71,7 +78,7 @@ def main(argv=None):
         for img in set(re.findall(r'(/media/[^"\s?#]+?)(?:-480w|-828w|-1200w|-card)?\.webp', h)):
             if img + ".webp" in IA:
                 fallos.append("%s usa foto marcada como IA: %s.webp" % (p, img))
-    print("fotos marcadas IA en src:", len(IA), "| asociaciones exactas:", len(asociaciones), "| sin uso demostrado:", sin_uso, "| páginas revisadas:", len(paginas))
+    print("fotos marcadas IA en src:", len(IA), "| evidencia recuperada:", len(evidencia), "| sin mencion literal:", sin_uso, "| páginas revisadas:", len(paginas))
     for x in fallos[:200]:
         print("FALLO", x)
     print("RESULTADO:", "OK" if not fallos else "%d FALLOS (no se publica)" % len(fallos))

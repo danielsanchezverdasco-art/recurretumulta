@@ -1,0 +1,4940 @@
+{
+"nota": "Solo vinculos ya escritos: campo de la ficha, primera imagen del articulo, registro con origen ficha o blog, y las tres notas visuales. No incluye el parecido de nombre (origen exacta). No es una licencia.",
+"n": 616,
+"entradas": [
+{
+"ruta": "/media/adelantar-ciclistas-nueva-norma-octubre-hero.jpg",
+"modelo": "adelantar-ciclistas-nueva-norma-octubre",
+"prueba": "primera-imagen-articulo",
+"sha256": "89dd05108b24c449a8c2799c3c9ea6e3298891b266c9a616c2a5dfab1baac572",
+"bytes": 332486,
+"donde": "public/media"
+},
+{
+"ruta": "/media/adria-coral-xl-670-dk-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "adria-coral-xl-670-dk-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "b2cccf3cd6b73e232a9bdbccfaacf38780b3f929edf2fd1154caeac57c5c44f0",
+"bytes": 199438,
+"donde": "public/media"
+},
+{
+"ruta": "/media/adria-matrix-plus-670-sl-2026-precio-ficha-tecnica.webp",
+"modelo": "adria-matrix-plus-670-sl-2026-precio-ficha-tecnica",
+"prueba": "primera-imagen-articulo",
+"sha256": "643786c51920b2573aadcd05b16a69cbd6b233d887043796b9e2576d6e825691",
+"bytes": 62398,
+"donde": "public/media"
+},
+{
+"ruta": "/media/aion-s-max-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "aion-s-max-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "05ddf21962f9111fe14b9e82dc6a18debf35eecdc99578a8a88d0399065de48a",
+"bytes": 272008,
+"donde": "public/media"
+},
+{
+"ruta": "/media/aion-s-plus-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "aion-s-plus-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "0ba111c9dcc2fa4d5d527ca91b7f8fa0b0a5e1647da8efacbca8b1b3f4a1bd69",
+"bytes": 254846,
+"donde": "public/media"
+},
+{
+"ruta": "/media/aion-y-plus-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "aion-y-plus-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "fa8c2c899ef4127ecd35e29c928f33151448304b1a89bc603f88e7f07b6822cc",
+"bytes": 159732,
+"donde": "public/media"
+},
+{
+"ruta": "/media/aito-m6-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "aito-m6-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "1c402b03e376e78678a5d4b6349e75691c0303d73cd1f8b8800be9b9856edd42",
+"bytes": 546978,
+"donde": "public/media"
+},
+{
+"ruta": "/media/aito-m6-ev-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "aito-m6-ev-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "a8fb705bdc45bced20f08ad510e57a42405545a92dafad31b2431aa431c8fd43",
+"bytes": 395884,
+"donde": "public/media"
+},
+{
+"ruta": "/media/aito-m7-2025-precio-ficha-tecnica-commons.webp",
+"modelo": "aito-m7-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "d694aef79331ac82e4d4f68f1eb77974c0d6350e1868bb2b4c96baf472ddadbb",
+"bytes": 377878,
+"donde": "public/media"
+},
+{
+"ruta": "/media/aito-m7-ultra-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "aito-m7-ultra-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "45b4ce5b03199c766d7162dab9f31feece641913bf54965a8c6fb4e7ba195fb2",
+"bytes": 428500,
+"donde": "public/media"
+},
+{
+"ruta": "/media/aito-m8-ev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "aito-m8-ev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "43d3d0dfa63cba5d2f3f84d02f33b0d6be34e0d01e999a8c7515499b33bb59dd",
+"bytes": 359966,
+"donde": "public/media"
+},
+{
+"ruta": "/media/aiva-me7-2026-ficha-tecnica-precio.webp",
+"modelo": "aiva-me7-2026",
+"prueba": "nota-visual",
+"sha256": "612793a9fe1288964d70c71d193f32043f0de37a60feadae21f7f8ae32dde61c",
+"bytes": 169606,
+"donde": "public/media",
+"doc": "docs/fotos-129/fuentes-seguimiento.md",
+"archivo": true
+},
+{
+"ruta": "/media/aprilia-rs-125-2024-ficha-tecnica-precio-1.webp",
+"modelo": "aprilia-rs-125-2024-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "584325227b053118baa3550982e344a73af17e2b6fcb98530a6126d5ff4a2fd3",
+"bytes": 467896,
+"donde": "public/media"
+},
+{
+"ruta": "/media/aprilia-rs-457-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "aprilia-rs-457-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "cc222598c6e7c698f4123638f6760fcf022a004494dc7ef91e7b307e9aa9c094",
+"bytes": 292552,
+"donde": "public/media"
+},
+{
+"ruta": "/media/aprilia-rs-660-2026-ficha-tecnica-precio-hero.webp",
+"modelo": "aprilia-rs-660-2026-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "407d535fe06903ffb3c4a32b295b316c00ab366e7e59ac6fa265971cdbad8d68",
+"bytes": 425590,
+"donde": "public/media"
+},
+{
+"ruta": "/media/aprilia-sr-gt-400-2026-ficha-tecnica-precio-1.webp",
+"modelo": "aprilia-sr-gt-400-2026-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "b7e2e36e3a5c5cddc10a991f6caee8ef6864741bbb9de3b099d9be8fd3ddc731",
+"bytes": 93196,
+"donde": "public/media"
+},
+{
+"ruta": "/media/atropello-de-jabali-o-animal-en-la-carretera-q-hero.jpg",
+"modelo": "atropello-de-jabali-o-animal-en-la-carretera-quien-paga-los-danos-del-coche-segun-la-ley-en-2024-guia-definitiva-para-reclamar",
+"prueba": "primera-imagen-articulo",
+"sha256": "023a5e79987f00c22f703c59f3467804cbf50b06b37479c2b28b364c5ad682c0",
+"bytes": 522692,
+"donde": "public/media"
+},
+{
+"ruta": "/media/audi-a5-avant-2025-2.webp",
+"modelo": "audi-a5-avant-2025",
+"prueba": "registro-ficha",
+"sha256": "270b457937103a790fa82ac1a616e628fc15ebe6cf7d1849977884da86b27ec1",
+"bytes": 147382,
+"donde": "public/media"
+},
+{
+"ruta": "/media/audi-a6-avant-2025-2.webp",
+"modelo": "audi-a6-avant-2025",
+"prueba": "registro-ficha",
+"sha256": "c8a44bf6d3daf5ae331dbaaf516114a02cdb406a901eb1fd5b57bf98830205b8",
+"bytes": 206174,
+"donde": "public/media"
+},
+{
+"ruta": "/media/audi-q3-e-hybrid-2026-precio-ficha-tecnica-foto1.webp",
+"modelo": "audi-q3-e-hybrid-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "4371c95350506144a03451c81cd02e354efb0d16e2e495d9ab7cdb8c3c7907b2",
+"bytes": 204904,
+"donde": "public/media"
+},
+{
+"ruta": "/media/audi-q3-sportback-e-hybrid-2026-2.webp",
+"modelo": "audi-q3-sportback-e-hybrid-2026",
+"prueba": "registro-ficha",
+"sha256": "b379f620434b41395958a49db52c228b5357c51526f3ebee29008ec62f63a993",
+"bytes": 175520,
+"donde": "public/media"
+},
+{
+"ruta": "/media/audi-q5-sportback-2025-2.webp",
+"modelo": "audi-q5-sportback-2025",
+"prueba": "registro-ficha",
+"sha256": "acd4341b5574692ecfc7634f09281be5044d1eef4fa9822a8523cf6c916a7d02",
+"bytes": 285490,
+"donde": "public/media"
+},
+{
+"ruta": "/media/audi-s5-avant-2025-2.webp",
+"modelo": "audi-s5-avant-2025",
+"prueba": "registro-ficha",
+"sha256": "8c9a36ffc942282415eaef19506a6f8f06db551cd03c11c1f6374654bbfd9320",
+"bytes": 311748,
+"donde": "public/media"
+},
+{
+"ruta": "/media/autocaravanas-aparcar-norma-octubre-hero.jpg",
+"modelo": "autocaravanas-aparcar-norma-octubre",
+"prueba": "primera-imagen-articulo",
+"sha256": "00a73b5fd2338875c75177f049a41d41fc7b120d145a800af3bcc9c0b4dafa28",
+"bytes": 581561,
+"donde": "public/media"
+},
+{
+"ruta": "/media/avatr-06-2025-entrega-commons.webp",
+"modelo": "avatr-06-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "19bb297d9b2675d074b55c152c4a1b481a3915245cc7151cb23fbe92c7ef7038",
+"bytes": 190118,
+"donde": "public/media"
+},
+{
+"ruta": "/media/avatr-desconocidos-hero.webp",
+"modelo": "avatr-changan-huawei-catl-06t-t09",
+"prueba": "registro-blog",
+"sha256": "0f1af963084e77bbc91a98193e6213390d9e6d6fbbff93be4f057de0a06d1fdb",
+"bytes": 274688,
+"donde": "public/media"
+},
+{
+"ruta": "/media/baic-bj30-commons.webp",
+"modelo": "baic-bj30-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "fe310f5fa6d732c45a0f3f3f74a0a9cf5902d496f99916e1d093f158895ae670",
+"bytes": 199444,
+"donde": "public/media"
+},
+{
+"ruta": "/media/balance-siniestralidad-septiembre-2026-dgt-hero.jpg",
+"modelo": "balance-siniestralidad-septiembre-2026-dgt",
+"prueba": "primera-imagen-articulo",
+"sha256": "0a1eced07e304865130f9061cb15de59bf028aa7a87a98c6287e1dc19192fe28",
+"bytes": 248959,
+"donde": "public/media"
+},
+{
+"ruta": "/media/balizas-v16-vs-triangulos-el-gran-debate-nacio-hero.jpg",
+"modelo": "balizas-v16-vs-triangulos-el-gran-debate-nacional-estadisticas-de-atropellos-y-la-multa-por-no-llevar-la-luz-conectada",
+"prueba": "primera-imagen-articulo",
+"sha256": "f6c76da42636c4af9c322a675dfd87a8b93e56600adeb71bc500670a805807d2",
+"bytes": 124738,
+"donde": "public/media"
+},
+{
+"ruta": "/media/benelli-tornado-400-2025-ficha-tecnica-precio-1.webp",
+"modelo": "benelli-tornado-400-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "6d78d7062e1ae88d794ea8679610be0a4335d1c74600d00f3ae97be6229f7958",
+"bytes": 261916,
+"donde": "public/media"
+},
+{
+"ruta": "/media/benelli-trk-702x-2026-ficha-tecnica-precio-1.webp",
+"modelo": "benelli-trk-702x-2026-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "6d44c1ec98c01d84b0c1e06848b60246eba1747f0fab89d11ae28ef6fd88c6a1",
+"bytes": 153504,
+"donde": "public/media"
+},
+{
+"ruta": "/media/benelli-trk-800-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "benelli-trk-800-2026-precio-ficha-tecnica",
+"prueba": "campo-imagen",
+"sha256": "87cafcfae6193bb0d7e926c58c969258bc4ff78c99676a553808b6d594f75d0a",
+"bytes": 24906,
+"donde": "public/media"
+},
+{
+"ruta": "/media/benelli-trk-800-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "benelli-trk-800-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "a1898903c5c27bb0220280700d5348fade2ea2690f1ede912e36bbcdc2658cda",
+"bytes": 23672,
+"donde": "public/media"
+},
+{
+"ruta": "/media/benimar-mileo-282-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "benimar-mileo-282-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "b6f34c5ef3112deb3efdac2491b4c18ec6a745802611263b0cbf9e9f5970c347",
+"bytes": 150938,
+"donde": "public/media"
+},
+{
+"ruta": "/media/benimar-tessoro-463-up-2026-precio-ficha-tecnica-2.webp",
+"modelo": "benimar-tessoro-463-up-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "e0b2b8ff210edae9f3286b7b9f406a6d666c5b809b8ae0d5b856883db7b1d167",
+"bytes": 97672,
+"donde": "public/media"
+},
+{
+"ruta": "/media/bmw-f-900-gs-2024-ficha-tecnica-precio-hunt1.webp",
+"modelo": "bmw-f-900-gs-2024-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "a1ae40744945374cad0a1fb36dd1e6da3e705e60516bd7dce6b0cd1e1b054df9",
+"bytes": 191878,
+"donde": "public/media"
+},
+{
+"ruta": "/media/bmw-i5-m60-xdrive-touring-2025-2.webp",
+"modelo": "bmw-i5-m60-xdrive-touring-2025",
+"prueba": "registro-ficha",
+"sha256": "2fb32f60201bad8531d4edf802f1f404eb0d56ff1f56e670460238df5f159dba",
+"bytes": 110618,
+"donde": "public/media"
+},
+{
+"ruta": "/media/bmw-m3-cs-touring-2025-2.webp",
+"modelo": "bmw-m3-cs-touring-2025",
+"prueba": "registro-ficha",
+"sha256": "76f16368ee791fb0c9169b08c7cd114a4fa0df86fa751e01a3cd6236a3522425",
+"bytes": 55028,
+"donde": "public/media"
+},
+{
+"ruta": "/media/bmw-m340i-xdrive-touring-2025-2.webp",
+"modelo": "bmw-m340i-xdrive-touring-2025",
+"prueba": "registro-ficha",
+"sha256": "4c4b364608f73267624dd333f5abf139ef88e927a7c2b7b22e6e3063cb785cf2",
+"bytes": 335432,
+"donde": "public/media"
+},
+{
+"ruta": "/media/bmw-serie-2-coupe-220i-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "bmw-serie-2-coupe-220i-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "bf87a13c0cee802e7bc6fcb3870df44bd8c4faa41fb506e1e066ed0b379ba3ef",
+"bytes": 186910,
+"donde": "public/media"
+},
+{
+"ruta": "/media/bmw-serie-4-420i-coupe-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "bmw-serie-4-420i-coupe-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "455b526ffa3ad7178d1e67d779529cbebe7925eeb16463430f488d9449337093",
+"bytes": 167834,
+"donde": "public/media"
+},
+{
+"ruta": "/media/bmw-serie-8-840i-gc-2026-precio-ficha-tecnica-hunt1.webp",
+"modelo": "bmw-serie-8-840i-gc-2026-precio-ficha-tecnica",
+"prueba": "registro-blog",
+"sha256": "ba480b7bc72c7066f1841f6c248d406d39c8ca6d42861d771c6c3912a73eab2a",
+"bytes": 198650,
+"donde": "public/media"
+},
+{
+"ruta": "/media/bmw-x1-xdrive25e-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "bmw-x1-xdrive25e-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "93b7c0b733bec8dbea994c9a7d99c0e802bf5439405b1d6eda30bc3bcad026a6",
+"bytes": 138594,
+"donde": "public/media"
+},
+{
+"ruta": "/media/bmw-x3-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "bmw-x3-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "83d4c843692d8d62234932c09a82b8259fcdf4a64df605239b03b65eba0af228",
+"bytes": 272420,
+"donde": "public/media"
+},
+{
+"ruta": "/media/bmw-x5-g05-2026-commons.webp",
+"modelo": "bmw-x5-m60i-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "e0448bfbff56fdd9de1fb89ac2e05fec4f7ffb262aaaf312cec4871a2d05d070",
+"bytes": 124262,
+"donde": "public/media"
+},
+{
+"ruta": "/media/bsa-scrambler-650-2025-ficha-tecnica-precio-1.webp",
+"modelo": "bsa-scrambler-650-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "e8820b99f7ab7120da037a991a3f01084b19568fa4d6b7be06f21cc51c3e536e",
+"bytes": 201200,
+"donde": "public/media"
+},
+{
+"ruta": "/media/burstner-lyseo-td-594-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "burstner-lyseo-td-594-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "8b697637795eb8466f48f0848d59a0ca05295bbe3f764ffe8818e48b29490cbf",
+"bytes": 69834,
+"donde": "public/media"
+},
+{
+"ruta": "/media/burstner-nexxo-van-t-569-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "burstner-nexxo-van-t-569-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "afa1d5b23fa34105149098604aca14ef37f30bef0778a928ca029eaf29838063",
+"bytes": 143644,
+"donde": "public/media"
+},
+{
+"ruta": "/media/byd-seal-u-ev-baja-precio-octubre-2026-hero.webp",
+"modelo": "byd-seal-u-ev-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "b4c73f9be0d95559184b7c4f907a47a95d914d5145ea9a80ab6f1e988347dd5a",
+"bytes": 147804,
+"donde": "public/media"
+},
+{
+"ruta": "/media/byd-tang-l-dron-dji-techo.webp",
+"modelo": "byd-tang-l-2026-precio-ficha-tecnica",
+"prueba": "registro-blog",
+"sha256": "74b6bfeead75f70c9f07b01decd8a579432deedb33d2f7259f1c293df98872a3",
+"bytes": 284398,
+"donde": "public/media"
+},
+{
+"ruta": "/media/byd-ti7-2026-precio-ficha-tecnica-hero.jpg",
+"modelo": "byd-ti7-2026-precio-ficha-tecnica",
+"prueba": "primera-imagen-articulo",
+"sha256": "b2b6686ebc03dd252793131476faf6901735737104d930d211f362b87f360e66",
+"bytes": 314211,
+"donde": "public/media"
+},
+{
+"ruta": "/media/byd-ti7-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "byd-ti7-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "cbe12c94a639771046d6e0a29eb1322ea30f5de91ac248f365238f491b41d732",
+"bytes": 230702,
+"donde": "public/media"
+},
+{
+"ruta": "/media/cadillac-escalade-2026-2.webp",
+"modelo": "cadillac-escalade-2026",
+"prueba": "registro-ficha",
+"sha256": "a8412bbbba810b901652de43f961052728a07d1daf79e5a309707e46a0897375",
+"bytes": 100898,
+"donde": "public/media"
+},
+{
+"ruta": "/media/cadillac-optiq-2025-entrega-commons.webp",
+"modelo": "cadillac-optiq-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "05c5d38fe66cc391052d58a6ae12ee4394006d143e4c64c5e77731647ce594b1",
+"bytes": 142442,
+"donde": "public/media"
+},
+{
+"ruta": "/media/camaras-ocultas-de-la-dgt-para-movil-y-cinturo-hero.jpg",
+"modelo": "camaras-ocultas-de-la-dgt-para-movil-y-cinturon-como-funciona-el-gran-ojo-invisible-multas-de-200-euros-y-trucos-legales-para-recurrirlas-con-exito",
+"prueba": "primera-imagen-articulo",
+"sha256": "33313fe5369ab7e987ede89505c14ddd54196ff96494b716f7aca917b753d37d",
+"bytes": 163817,
+"donde": "public/media"
+},
+{
+"ruta": "/media/campana-dgt-distracciones-octubre-2026-hero.jpg",
+"modelo": "campana-dgt-distracciones-octubre-2026",
+"prueba": "primera-imagen-articulo",
+"sha256": "12e7660a651c5fb083a0cfabb3857dbc80f04495ac14af6fb36b3e3a731b7bca",
+"bytes": 214004,
+"donde": "public/media"
+},
+{
+"ruta": "/media/carril-emergencia-atascos-multa-200-euros-hero.jpg",
+"modelo": "carril-emergencia-atascos-multa-200-euros",
+"prueba": "primera-imagen-articulo",
+"sha256": "3a1019fcd55438b3bdb77404005c0c52b520a18109d8059581e267a4f324f320",
+"bytes": 273253,
+"donde": "public/media"
+},
+{
+"ruta": "/media/casco-obligatorio-bicicleta-carretera-octubre-hero.jpg",
+"modelo": "casco-obligatorio-bicicleta-carretera-octubre",
+"prueba": "primera-imagen-articulo",
+"sha256": "b5403fc6306495dee80acbbd61d2a54f421fc625fb764b7d2cde3b4cb4e6765b",
+"bytes": 428090,
+"donde": "public/media"
+},
+{
+"ruta": "/media/challenger-v-217-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "challenger-v-217-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "8a447ea7008c03a1c7a78ad370cf341e9fa126a7ff04ed872e36c8938bc126d5",
+"bytes": 160998,
+"donde": "public/media"
+},
+{
+"ruta": "/media/changan-uni-z-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "changan-uni-z-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "a1dd14cc9b665107af87b5d17fdb2e65cdeca7b2eb435651d80c8bdea061a814",
+"bytes": 229874,
+"donde": "public/media"
+},
+{
+"ruta": "/media/chatgpt-vs-analizador-multas-hero.jpg",
+"modelo": "chatgpt-vs-analizador-multas",
+"prueba": "primera-imagen-articulo",
+"sha256": "8f97999f80d8f51f14ec2dd202e3f25a1ebb90e059bc0605bca867662dc0530a",
+"bytes": 317395,
+"donde": "public/media"
+},
+{
+"ruta": "/media/chery-eq7-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "chery-eq7-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "d9c0effb11535f7de164f411dc3becc3f985084a8e839962119ea58e00570537",
+"bytes": 405458,
+"donde": "public/media"
+},
+{
+"ruta": "/media/chery-icaur-v27-2027-precio-ficha-tecnica-hero.webp",
+"modelo": "chery-icaur-v27-2027-precio-ficha-tecnica",
+"prueba": "registro-blog",
+"sha256": "5bad8b5d44e38c945a28e163f0d7b6c78a6cd8f6fec1b15c3387ccc03c1be1be",
+"bytes": 195766,
+"donde": "public/media"
+},
+{
+"ruta": "/media/chery-tiggo-4-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "chery-tiggo-4-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "c44d91b98e0cad11933ea835a582da444124b52b37aca18f408da11253592a4c",
+"bytes": 163628,
+"donde": "public/media"
+},
+{
+"ruta": "/media/chevrolet-corvette-e-ray-2025-2.webp",
+"modelo": "chevrolet-corvette-e-ray-2025",
+"prueba": "registro-ficha",
+"sha256": "7668fc71e95cf8646cfa79e051974cf4c0329fc8bc044a940a151a31bf81a649",
+"bytes": 89212,
+"donde": "public/media"
+},
+{
+"ruta": "/media/chevrolet-corvette-z06-2025-2.webp",
+"modelo": "chevrolet-corvette-z06-2025",
+"prueba": "registro-ficha",
+"sha256": "3eed0ba43b16268256f9e0771f8c24668b5d899cb4cff3322380c9a8f7f380a1",
+"bytes": 195466,
+"donde": "public/media"
+},
+{
+"ruta": "/media/cinemometro-laser-como-funciona-multa-hero.jpg",
+"modelo": "cinemometro-laser-como-funciona-multa",
+"prueba": "primera-imagen-articulo",
+"sha256": "47f1207beba2363ed64a3d1adde70e55db8194bf0007a365afbaa1ebad6c8c17",
+"bytes": 304810,
+"donde": "public/media"
+},
+{
+"ruta": "/media/cinturon-repartidores-octubre-2026.webp",
+"modelo": "cinturon-seguridad-repartidores-pierden-exencion-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "e7a38a7dc59eb28016fe6fe4cf33a12b1c95ef470f1696943e0aebba05f85b63",
+"bytes": 226364,
+"donde": "public/media"
+},
+{
+"ruta": "/media/citroen-c4-2025-commons.webp",
+"modelo": "citroen-c4-12-puretech-130-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "4f707a07acdd7c75ab7a8502d4f164061f924382f48c239854f1786b15b4a17a",
+"bytes": 184976,
+"donde": "public/media"
+},
+{
+"ruta": "/media/citroen-c4-x-12-puretech-130-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "citroen-c4-x-12-puretech-130-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "0bb5384cf36086c4dd0ba1a7946947e02f076ed02192f5d37ce002cef40317f1",
+"bytes": 203920,
+"donde": "public/media"
+},
+{
+"ruta": "/media/coches-autonomos-de-nivel-3-y-4-en-espana-quie-hero.jpg",
+"modelo": "coches-autonomos-de-nivel-3-y-4-en-espana-quien-asume-la-responsabilidad-legal-en-caso-de-accidente",
+"prueba": "primera-imagen-articulo",
+"sha256": "bc6def2ba0a24102f62282c92c043387e31d7ef5c07527cf16776bd3de73e203",
+"bytes": 410649,
+"donde": "public/media"
+},
+{
+"ruta": "/media/coches-mas-seguros-2026-euroncap-hero.webp",
+"modelo": "coches-mas-seguros-2026-euroncap-ranking",
+"prueba": "registro-blog",
+"sha256": "ccce0060ec58d2eb53ed7b409bf4c6edde2ceebc783fa910044a54f72a07fb5e",
+"bytes": 44392,
+"donde": "public/media"
+},
+{
+"ruta": "/media/codigo-78-carnet-automatico-manual-curso-7-hor-hero.jpg",
+"modelo": "codigo-78-carnet-automatico-manual-curso-7-horas",
+"prueba": "primera-imagen-articulo",
+"sha256": "ebf91380d41d98eb6e806f71db082a2de9ebbb45bd7547884eebbf17a4b291da",
+"bytes": 372781,
+"donde": "public/media"
+},
+{
+"ruta": "/media/como-pagar-multa-dgt-hero.jpg",
+"modelo": "como-pagar-multa-dgt",
+"prueba": "primera-imagen-articulo",
+"sha256": "331376f7b0a196f3419e26a80a48e90479ebe7565739e38171009e99a9aca5a0",
+"bytes": 244616,
+"donde": "public/media"
+},
+{
+"ruta": "/media/como-recuperar-puntos-carnet-hero.jpg",
+"modelo": "como-recuperar-puntos-carnet",
+"prueba": "primera-imagen-articulo",
+"sha256": "e1182a5bbd97fa3f11a1e5e70a1902638ee3ed6754393709b0415af9851440ed",
+"bytes": 346521,
+"donde": "public/media"
+},
+{
+"ruta": "/media/como-recurrir-multa-de-patinete-electrico-vmp-hero.jpg",
+"modelo": "como-recurrir-multa-de-patinete-electrico-vmp-modelo-gratis",
+"prueba": "primera-imagen-articulo",
+"sha256": "ee703ad43a24d9fa6a993257d4089f62dcbce2c56620ed7f4ca147ed136fc473",
+"bytes": 286476,
+"donde": "public/media"
+},
+{
+"ruta": "/media/como-recurrir-multa-radar-fijo-hero.jpg",
+"modelo": "como-recurrir-una-multa-de-trafico-pasos-plazos",
+"prueba": "primera-imagen-articulo",
+"sha256": "b8077d94c0723e7e7a53c1e43b1389645ed73dc502a18f754483288b913001d0",
+"bytes": 592118,
+"donde": "public/media"
+},
+{
+"ruta": "/media/como-recurrir-multas-de-la-zbe-en-madrid-barce-hero.jpg",
+"modelo": "como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia",
+"prueba": "primera-imagen-articulo",
+"sha256": "0e89457dec3c149b201c98b354d96a3899c2f89cdd08d30658e6c5e28fb9b367",
+"bytes": 179432,
+"donde": "public/media"
+},
+{
+"ruta": "/media/como-recurrir-multas-de-trafico-en-canarias-gu-hero.jpg",
+"modelo": "como-recurrir-multas-de-trafico-en-canarias-guia-legal-especifica-peculiaridades-insulares-plazos-y-recursos-en-las-islas",
+"prueba": "primera-imagen-articulo",
+"sha256": "abb97115d16dcbdc8d9469a8d176c439421bd772f37311bfaa44f66cee9b4dad",
+"bytes": 894775,
+"donde": "public/media"
+},
+{
+"ruta": "/media/como-recurrir-multas-de-trafico-en-ceuta-y-mel-hero.jpg",
+"modelo": "como-recurrir-multas-de-trafico-en-ceuta-y-melilla-guia-legal-especifica-plazos-peculiaridades-fronterizas-y-recursos-eficaces",
+"prueba": "primera-imagen-articulo",
+"sha256": "004c2ebcfd761779a4957ba15c567f071206132bc80dbd7730e314fd21b597f3",
+"bytes": 381443,
+"donde": "public/media"
+},
+{
+"ruta": "/media/como-saber-si-tengo-multas-pendientes-hero.jpg",
+"modelo": "como-saber-si-tengo-multas-pendientes",
+"prueba": "primera-imagen-articulo",
+"sha256": "c53d3ae47cfcfec04b17a1be1a02f9fa8a45185aaaab19e5871a99d9a82bdc96",
+"bytes": 693913,
+"donde": "public/media"
+},
+{
+"ruta": "/media/cuanto-cuesta-multa-espana-pagar-descuento-rec-hero.jpg",
+"modelo": "cuanto-cuesta-multa-espana-pagar-descuento-recurrir",
+"prueba": "primera-imagen-articulo",
+"sha256": "3a49aabc4461c2ddadc7ccf80e1fe0ab78bf543164f5f6bb74a79a2cab68a094",
+"bytes": 223579,
+"donde": "public/media"
+},
+{
+"ruta": "/media/cuanto-tarda-dgt-en-responder-recurso-hero.jpg",
+"modelo": "cuanto-tarda-dgt-en-responder-recurso",
+"prueba": "primera-imagen-articulo",
+"sha256": "df3ad9cb01f74bb2cb8cd4970841651a5b3ef3d163873326147f530b0d544510",
+"bytes": 551027,
+"donde": "public/media"
+},
+{
+"ruta": "/media/cuanto-tarda-en-llegar-una-multa-de-radar-hero.jpg",
+"modelo": "cuanto-tarda-en-llegar-una-multa-de-radar",
+"prueba": "primera-imagen-articulo",
+"sha256": "0ce241157865d74ea780bdebbf9dd210ab8a3d134fea7fb4a6fdaca5f8d01264",
+"bytes": 758889,
+"donde": "public/media"
+},
+{
+"ruta": "/media/cumbre-mundial-motos-seguras-zaragoza-2026-hero.jpg",
+"modelo": "cumbre-mundial-motos-seguras-zaragoza-2026",
+"prueba": "primera-imagen-articulo",
+"sha256": "ea79bad004664a97c52b52d559923887e5a0b192093ac200c0964728e82edb8a",
+"bytes": 596085,
+"donde": "public/media"
+},
+{
+"ruta": "/media/cupra-formentor-vz5-2026-2.webp",
+"modelo": "cupra-formentor-vz5-2026",
+"prueba": "registro-ficha",
+"sha256": "b6f24c638ac6bef87f95b9683956d0f2e3be6e0f1745976684d74e974b8e2f14",
+"bytes": 133802,
+"donde": "public/media"
+},
+{
+"ruta": "/media/cupra-tavascan-baja-precio-octubre-2026-hero.webp",
+"modelo": "cupra-tavascan-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "a2a8c12011bab41261a108cc9697cab82231d050fdab028e3f71fc39feadc2d0",
+"bytes": 184460,
+"donde": "public/media"
+},
+{
+"ruta": "/media/dacia-spring-baja-precio-octubre-2026-hero.webp",
+"modelo": "dacia-spring-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "517285a37a19704cff1196206b408737dd8e3800b8a52f9a29b4785b281e9cc0",
+"bytes": 283070,
+"donde": "public/media"
+},
+{
+"ruta": "/media/deca-digital-obligatorio-5-octubre-2026-hero.jpg",
+"modelo": "deca-digital-obligatorio-5-octubre-2026",
+"prueba": "primera-imagen-articulo",
+"sha256": "1fcea85b32b9ec4dc982be327f8bfa79406b0cf00f31d52c215e7d75ca4b4557",
+"bytes": 198295,
+"donde": "public/media"
+},
+{
+"ruta": "/media/defender-110-l663-commons.webp",
+"modelo": "land-rover-defender-110-p525-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "976032516331b6846b1d3445963986695113130431ebac1568fd9e6afdd1ad29",
+"bytes": 343500,
+"donde": "public/media"
+},
+{
+"ruta": "/media/denza-b8-2026-precio-ficha-tecnica-commons.webp",
+"modelo": "denza-b8-2026-precio-ficha-tecnica",
+"prueba": "primera-imagen-articulo",
+"sha256": "224278bf39e6f9674a7fe6123e61c3e0aed9724a802045b9b94890fba9286959",
+"bytes": 207474,
+"donde": "public/media"
+},
+{
+"ruta": "/media/denza-n7-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "denza-n7-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "70fea341f0bbd5362ddb898c8f731d926d8852ff9259ccafcab17f8288ca9ec8",
+"bytes": 134150,
+"donde": "public/media"
+},
+{
+"ruta": "/media/denza-z9-dm-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "denza-z9-dm-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "e693c3592b07d3760bf55ee05fcd43c2c83bc9e70bdcd9c9515d385e03b256f4",
+"bytes": 260962,
+"donde": "public/media"
+},
+{
+"ruta": "/media/denza-z9s-lanzamiento-2026-hero.webp",
+"modelo": "denza-z9s-2026-precio-ficha-tecnica",
+"prueba": "registro-blog",
+"sha256": "b388709bebdef952a1c0575fd77d3ad1bc7bb7c6d7225e8ecc23ffd26fcc0994",
+"bytes": 228372,
+"donde": "public/media"
+},
+{
+"ruta": "/media/descubre-las-nuevas-medidas-de-la-dgt-para-oct-hero.jpg",
+"modelo": "descubre-las-nuevas-medidas-de-la-dgt-para-octubre-uso-obligatorio-de-guantes-y-calzado-para-motoristas-fin-de-exenciones-del-cinturon-y-como-recurrir-multas",
+"prueba": "primera-imagen-articulo",
+"sha256": "7c3f6c75389cc982b07cb7babbcb7cdca0a6f02d7d8fba83c83e2c64948e2694",
+"bytes": 596749,
+"donde": "public/media"
+},
+{
+"ruta": "/media/detector-radar-vs-avisador-legal-multa-hero.jpg",
+"modelo": "detector-radar-vs-avisador-legal-multa",
+"prueba": "primera-imagen-articulo",
+"sha256": "7cefb0826cdf18560c42e95bbd50fbe507eea1965938bb1f69bcb97e38b33ae0",
+"bytes": 225469,
+"donde": "public/media"
+},
+{
+"ruta": "/media/dethleffs-globebus-t-6-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "dethleffs-globebus-t-6-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "350def6c3217c9394bfc6d060b7019983b05d1cbe09aeb8bcdc4ef16cc140963",
+"bytes": 103608,
+"donde": "public/media"
+},
+{
+"ruta": "/media/dethleffs-trend-t-7057-eb-2026-precio-ficha-tecnica.webp",
+"modelo": "dethleffs-trend-t-7057-eb-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "ca8767d6f9acf51a016996e2676d19a7da1e88a8c24e2c9361b850dafc0659d5",
+"bytes": 67966,
+"donde": "public/media"
+},
+{
+"ruta": "/media/dfsk-500-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "dfsk-500-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "f5590beea9777d527bc4ab18fe2004afafb614d3607e38af6ba6f85992be429a",
+"bytes": 269692,
+"donde": "public/media"
+},
+{
+"ruta": "/media/dfsk-fengon-600-commons.webp",
+"modelo": "dfsk-600-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "01d7a45d0b80d8c752835c179f8688ae498e1ff541d73b92ba6915abc1464f58",
+"bytes": 245756,
+"donde": "public/media"
+},
+{
+"ruta": "/media/dgt-anuncia-reforma-entra-en-vigor-1-octubre-hero.jpg",
+"modelo": "dgt-anuncia-reforma-entra-en-vigor-1-octubre",
+"prueba": "primera-imagen-articulo",
+"sha256": "815f66e5eb1918acf1fe76e4eb7a120b2cbd81f8b370cbad5b76b7919a9f9eab",
+"bytes": 352691,
+"donde": "public/media"
+},
+{
+"ruta": "/media/dgt-ayudas-airbag-moto-21-por-ciento-hero.jpg",
+"modelo": "dgt-ayudas-airbag-moto-21-por-ciento",
+"prueba": "primera-imagen-articulo",
+"sha256": "d6c6b4d8fda57e67e0f7aafe38c3c2b9f0cfe82e6f5c11cd885b4d4fd6d405ab",
+"bytes": 258734,
+"donde": "public/media"
+},
+{
+"ruta": "/media/distancia-seguridad-multa-hero.webp",
+"modelo": "multa-distancia-seguridad-200-euros-4-puntos",
+"prueba": "registro-blog",
+"sha256": "4d11c5bc566db6685f3e5ea7045ce85b6c171223132179be28aad08cb5792937",
+"bytes": 182200,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ds-n7-nueva-generacion-salon-paris-2026-hero.webp",
+"modelo": "ds-n7-nueva-generacion-salon-paris-2026",
+"prueba": "registro-blog",
+"sha256": "1a9900b2b593c91f0c22d224f08d96ddf3f4e549e42f9e01dfaed119ec62f7d7",
+"bytes": 177860,
+"donde": "public/media"
+},
+{
+"ruta": "/media/el-coche-te-vigila-obligatoriedad-del-sistema-hero.jpg",
+"modelo": "el-coche-te-vigila-obligatoriedad-del-sistema-addw-antidistracciones-camaras-de-control-de-mirada-y-multas-de-la-dgt",
+"prueba": "primera-imagen-articulo",
+"sha256": "07e7bbf80c6b80dee95d209edbca6cd8beb444090547a84fe1d4d0b2a46f9902",
+"bytes": 222191,
+"donde": "public/media"
+},
+{
+"ruta": "/media/el-nuevo-carril-de-emergencia-obligatorio-en-r-hero.jpg",
+"modelo": "el-nuevo-carril-de-emergencia-obligatorio-en-retenciones-como-abrir-pasillo-a-ambulancias-y-bomberos-para-evitar-multas-de-la-dgt",
+"prueba": "primera-imagen-articulo",
+"sha256": "14033c44ce2ca0f00ff85243a86372824bb9b7a745294d7189bd1558ffc48ae0",
+"bytes": 374853,
+"donde": "public/media"
+},
+{
+"ruta": "/media/electricos-baratos-record-europa-2026.webp",
+"modelo": "electricos-baratos-record-europa-2026",
+"prueba": "registro-blog",
+"sha256": "e20545b97dd319bb6a3831098bcccaedc819ef91ba18a71b1a0ecbfa58ce5f40",
+"bytes": 138262,
+"donde": "public/media"
+},
+{
+"ruta": "/media/electricos-mas-vendidos-espana-septiembre-2026-hero.jpg",
+"modelo": "electricos-mas-vendidos-espana-septiembre-2026",
+"prueba": "primera-imagen-articulo",
+"sha256": "63c7cee239865f8269993635ea8bde65ce13b9bea83312a367dbcac817dcded5",
+"bytes": 517535,
+"donde": "public/media"
+},
+{
+"ruta": "/media/entornos-escolares-seguros-octubre-hero.jpg",
+"modelo": "entornos-escolares-seguros-octubre",
+"prueba": "primera-imagen-articulo",
+"sha256": "657bf8241cef569b4ba89b4b3062b93aa682a27c892f2071fe28a362e2350635",
+"bytes": 698857,
+"donde": "public/media"
+},
+{
+"ruta": "/media/evo-5-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "evo-5-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "5d8e48c7db7bde5e0562cedbf56987d81147f7c6dbbc455345d556c2fb9dc2c4",
+"bytes": 205646,
+"donde": "public/media"
+},
+{
+"ruta": "/media/evo-7-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "evo-7-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "f7469494d01ccd90defc46b333cb908b21df7089e4f22eca48652cb8073cf857",
+"bytes": 174262,
+"donde": "public/media"
+},
+{
+"ruta": "/media/falsa-multa-dgt-sms-correo-phishing-hero.jpg",
+"modelo": "falsa-multa-dgt-sms-correo-phishing",
+"prueba": "primera-imagen-articulo",
+"sha256": "7f77abaedf29654afb0994cab812544589b58020e27b3c0e67b0eb776021cedf",
+"bytes": 345011,
+"donde": "public/media"
+},
+{
+"ruta": "/media/fangchengbao-desconocidos-hero.webp",
+"modelo": "fangchengbao-byd-marca-desconocida-formula-s-bao-5",
+"prueba": "registro-blog",
+"sha256": "03293c2dbce05560372b79832cbf5354a7048e7a8a2e70ad84e88e82f67a4164",
+"bytes": 143492,
+"donde": "public/media"
+},
+{
+"ruta": "/media/fb-mondial-piega-452-2025-ficha-tecnica-precio-1.webp",
+"modelo": "fb-mondial-piega-452-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "ed3e00029343efdb74d3cbb88252f8834fc601561beedde9eb2d565309bf53a2",
+"bytes": 186922,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ferrari-12cilindri-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "ferrari-12cilindri-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "823a57800a57e4088ef1ffc11c70504c04900f39006ae5cba4a032ca653c8efc",
+"bytes": 151656,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ferrari-12cilindri-manuale-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "ferrari-12cilindri-manuale-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "224f9f393f3a88653779ad3d461632cf5a7967446534e94e31afe26a8b26dd26",
+"bytes": 232904,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ferrari-296-gts-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "ferrari-296-gts-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "1f04a2ee3ad7282d5381d88c0859e967827d68f892bec1a1cdc591cea35e7337",
+"bytes": 239928,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ferrari-296-speciale-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "ferrari-296-speciale-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "7188640149507b20c86f4027b2c6cd10fcc40884ca379f46b06eedae95c8c14c",
+"bytes": 270152,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ferrari-296-speciale-piloti-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "ferrari-296-speciale-piloti-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "2c3a13b56f81021fea7a255f9038dba9a47c7d5906a1f2be34941a2dfa76a561",
+"bytes": 114464,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ferrari-812-gts-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "ferrari-812-gts-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "0d58bb775132f81d8df9bfd1814fa461e529d035c4b96a3b8abbaa458bc7da99",
+"bytes": 124458,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ferrari-daytona-sp3-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "ferrari-daytona-sp3-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "c47674c671adc9c4595e9e638972efe40b6a9b6d33366f1dc6c723b40d7e7ee4",
+"bytes": 180270,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ferrari-roma-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "ferrari-roma-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "26e3df328d5f87ff5ac4736b2128e1a9af1541d9a3c4ab02e620bc1aa8d3b397",
+"bytes": 197766,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ferrari-sf90-spider-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "ferrari-sf90-spider-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "397f9b3b8384bc46e4758ec1809e2b9a555a3d6850e7e07efcdb6fd07c658c31",
+"bytes": 253450,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ferrari-sf90-xx-spider-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "ferrari-sf90-xx-spider-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "37a861cbec86db026b27f34001bc4b1360c03925f3d16ffd0305008c1f745cba",
+"bytes": 298470,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "ferrari-sf90-xx-stradale-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "2d56e7444ab64829287f76f3467bc4f7ef52b20eb5d352d218e3033cbc769530",
+"bytes": 226958,
+"donde": "public/media"
+},
+{
+"ruta": "/media/fiat-600-2023-commons.webp",
+"modelo": "fiat-600-12-turbo-100-2024-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "adce7ec4f75dda44c70a28b70f2ea7269eac5075229d48086e3357c7903bbc8b",
+"bytes": 215350,
+"donde": "public/media"
+},
+{
+"ruta": "/media/fiat-600-hybrid-110-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "fiat-600-hybrid-110-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "f8c78c1841742c0e9e86b2b3f4459881f55865b589ab1e6faf56e8f9d5add962",
+"bytes": 171372,
+"donde": "public/media"
+},
+{
+"ruta": "/media/fiat-doblo-12-puretech-110-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "fiat-doblo-12-puretech-110-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "cf5ebc379c4369cde543b470167e64acc7dad16fa0e229a8e1b293cc0b2756fc",
+"bytes": 157990,
+"donde": "public/media"
+},
+{
+"ruta": "/media/fiat-grande-panda-e-commons.webp",
+"modelo": "fiat-grande-panda-hibrido-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "d1c2f8b39c8f83b3902c4f6be003c8b80685ed4bedb1b4ba8eabdb168b5d5b07",
+"bytes": 220570,
+"donde": "public/media"
+},
+{
+"ruta": "/media/fiat-grande-panda-ev-113-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "fiat-grande-panda-ev-113-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "99e887a5a5280ab1a1c9580618f47fbafc893bb4348feb9420df7319d6e38227",
+"bytes": 191616,
+"donde": "public/media"
+},
+{
+"ruta": "/media/fiat-grizzly-fastback-paris-2026-oficial.webp",
+"modelo": "fiat-grizzly-fastback-paris-2026",
+"prueba": "registro-blog",
+"sha256": "40c429c83bd8c71cc86584036591aba513580c264bafee27fd2b574eb412044b",
+"bytes": 54684,
+"donde": "public/media"
+},
+{
+"ruta": "/media/fiat-tipo-16-mjt-130-2025-precio-ficha-tecnica-hunt1.webp",
+"modelo": "fiat-tipo-16-mjt-130-2025-precio-ficha-tecnica",
+"prueba": "registro-blog",
+"sha256": "6ec353d5502d22d1ff78691c2a7096fa7da4caba07721af6aad003145159d243",
+"bytes": 293034,
+"donde": "public/media"
+},
+{
+"ruta": "/media/file_II6qQ1S8OB3yoN8lhl9acX1X.webp",
+"modelo": "como-adelantar-ahora-a-ciclistas-y-coches-averiados-para-que-la-dgt-no-te-cruja-a-multas",
+"prueba": "registro-blog",
+"sha256": "529e6297d77a0eb92b1cfd05e3e1349b36d870ed258b94694b6159d8c43cd701",
+"bytes": 147932,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ford-capri-2024-commons.webp",
+"modelo": "ford-capri-ev-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "8fb5d842d81436d3f7f60715af1c99baf2f9d8e1a98019e9a4b107ba8e0b5e34",
+"bytes": 165224,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ford-e-tourneo-courier-2025-2.webp",
+"modelo": "ford-e-tourneo-courier-2025",
+"prueba": "registro-ficha",
+"sha256": "1b504748e6715e297365b194c92ea3e163228920d8eb1710bd7b91ca460ce1f4",
+"bytes": 226682,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ford-e-transit-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "ford-e-transit-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "3859510098a32771ddda5a8a975200189c37dd1f659aecc98cafe1937856a91d",
+"bytes": 362344,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ford-e-transit-courier-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "ford-e-transit-courier-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "9d33923bc2e4ab6c3ebb5cac77f75851b808b51d9885c49194e0007ad0d9c44d",
+"bytes": 358388,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ford-nugget-plus-2026-precio-ficha-tecnica.webp",
+"modelo": "ford-nugget-plus-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "e48a4954e3037ae86b4fcaf69e57036bda6eff3e1b2f70976902e1862e987199",
+"bytes": 67966,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ford-puma-gen-e-baja-precio-octubre-2026-hero.webp",
+"modelo": "ford-puma-gen-e-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "39cf70b2127d5fc4a446545f9f45387482f0ee12aa8d58d50f370c9662dea8c0",
+"bytes": 208558,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ford-puma-gen-e-commons.webp",
+"modelo": "ford-puma-gen-e-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "a393a65fcd35bd1ccc248594719244cb27a0cf0299aebee15d82e0fa3d4ad34f",
+"bytes": 168176,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ford-puma-st-baja-precio-octubre-2026-hero.webp",
+"modelo": "ford-puma-st-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "2dca40ab790663fc5e2bf6487ac14a9d6031cb0a21c6a8eb9a195f3db0f4b21d",
+"bytes": 407936,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ford-puma-st-line-x-mhev-155-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "ford-puma-st-line-x-mhev-155-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "00f7989346cad2b91019eb94f81692456fea17a683725012433f77c72aec7a09",
+"bytes": 512306,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ford-ranger-phev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "ford-ranger-phev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "98bdb520835f0a8be3293ff74739b8d24c054d10d097de85bf967919a71a14f9",
+"bytes": 198554,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ford-tourneo-connect-phev-150-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "ford-tourneo-connect-phev-150-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "5ee3e755d30cccd1b753a4189cb58786b81260141317d589120d2c858c5e3d32",
+"bytes": 312300,
+"donde": "public/media"
+},
+{
+"ruta": "/media/forthing-friday-ev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "forthing-friday-ev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "ca0c773b9f6c34393f693fea5eaaf9b60f2b06cfbcb694d56d28584944ba0451",
+"bytes": 182388,
+"donde": "public/media"
+},
+{
+"ruta": "/media/forthing-friday-reev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "forthing-friday-reev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "1f54b3bb77c502c5441b89f8495e0c36bc568b959d04ce6a74cc0c73ac1fde52",
+"bytes": 196364,
+"donde": "public/media"
+},
+{
+"ruta": "/media/forthing-s7-ev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "forthing-s7-ev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "ded601625c52627beb3dd3c7845cf913f260d53175e8a46dd2f43cd4762bb1d5",
+"bytes": 427106,
+"donde": "public/media"
+},
+{
+"ruta": "/media/forthing-t5-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "forthing-t5-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "ddf09c40a11b5f3e6ab1f97060bffb1286cb577eaa235b8202e505facd88770d",
+"bytes": 162962,
+"donde": "public/media"
+},
+{
+"ruta": "/media/forthing-t5-evo-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "forthing-t5-evo-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "059a4306365a13a807d7e9c8551002814f52b6558bca7c09193a0ec3a3d837a8",
+"bytes": 519806,
+"donde": "public/media"
+},
+{
+"ruta": "/media/forthing-t5-evo-hev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "forthing-t5-evo-hev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "a03d111fb6f995c36afdcd0dc11dcc692b76604b082d7ccdd50bd327f50ddaa8",
+"bytes": 281498,
+"donde": "public/media"
+},
+{
+"ruta": "/media/forthing-u-tour-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "forthing-u-tour-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "c6fba4dd6592a1b0f909e639420b6f34ce88336d710e0077401e3520dbe931f1",
+"bytes": 365414,
+"donde": "public/media"
+},
+{
+"ruta": "/media/forthing-u-tour-hev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "forthing-u-tour-hev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "b1cfac701b22c58da76b62dbcd1aacd88d5d14a1235669163325f6c235bec621",
+"bytes": 370236,
+"donde": "public/media"
+},
+{
+"ruta": "/media/forthing-v9-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "forthing-v9-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "1352ff0b50551c915476bf987d37ef608a5dc51ded55b729685c82db1984ae1a",
+"bytes": 485552,
+"donde": "public/media"
+},
+{
+"ruta": "/media/francia-retira-carnet-movil-al-volante-hero.jpg",
+"modelo": "francia-retira-carnet-movil-al-volante",
+"prueba": "primera-imagen-articulo",
+"sha256": "da911b9957d70b89a203697a0590573d7296b647ccf3ed4bfd1183c037e1426d",
+"bytes": 355356,
+"donde": "public/media"
+},
+{
+"ruta": "/media/frenar-antes-radar-multa-200-euros-hero.jpg",
+"modelo": "frenar-antes-radar-multa-200-euros",
+"prueba": "primera-imagen-articulo",
+"sha256": "cde77310f9105a810d4fa687d8a2d606a607404a58097fb69e8323c095fed6bd",
+"bytes": 231217,
+"donde": "public/media"
+},
+{
+"ruta": "/media/geely-coolray-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "geely-coolray-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "1eee86929a5fbdb7fa0ccf3487c611edd8239d35e1397f86f401444bb8ddaa54",
+"bytes": 227534,
+"donde": "public/media"
+},
+{
+"ruta": "/media/geely-e5-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "geely-e5-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "c6ba869060b0c15a2138802e20c8acf108853e844805b19859b44f26d14f9d4b",
+"bytes": 269470,
+"donde": "public/media"
+},
+{
+"ruta": "/media/geely-galaxy-a7-em-i-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "geely-galaxy-a7-em-i-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "cafa490310f5dbebbcf9fbe1dad215d191671eee4e4a85d0f58d5f3cbda023fa",
+"bytes": 230798,
+"donde": "public/media"
+},
+{
+"ruta": "/media/geely-galaxy-e8-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "geely-galaxy-e8-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "2cfebe8c518b6f5fa33d568f031bcec2a22352ba6fcfc0b6b97dc04b1ec717fc",
+"bytes": 140924,
+"donde": "public/media"
+},
+{
+"ruta": "/media/geely-galaxy-l6-em-i-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "geely-galaxy-l6-em-i-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "94c50978eda90286d7c8a1d31ded099534dd4a7e1f864cb1b7120af1af9bc4d7",
+"bytes": 242136,
+"donde": "public/media"
+},
+{
+"ruta": "/media/geely-galaxy-l7-em-i-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "geely-galaxy-l7-em-i-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "bec01e0bc30316c9db7484613e22002388beb476dc6ed0e0b3808bf135ba2bcc",
+"bytes": 220798,
+"donde": "public/media"
+},
+{
+"ruta": "/media/geely-galaxy-m9-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "geely-galaxy-m9-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "82d0905345b0ddcb7a712188657968d48e59125e5267b086de4b7b6f465e99a5",
+"bytes": 427980,
+"donde": "public/media"
+},
+{
+"ruta": "/media/geely-galaxy-starshine-8-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "geely-galaxy-starshine-8-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "f6737583c3864ca476a11eded0ebccff04351e3ef40b4ab36eef728fa6c0b61f",
+"bytes": 242292,
+"donde": "public/media"
+},
+{
+"ruta": "/media/geely-galaxy-tt-desconocidos-hero.webp",
+"modelo": "geely-galaxy-tt-berlina-electrica-china",
+"prueba": "registro-blog",
+"sha256": "2abe7fd4066dad3e47f71fb96849b82f808a0facd6a3edc688e763c181089278",
+"bytes": 525244,
+"donde": "public/media"
+},
+{
+"ruta": "/media/geely-galaxy-xingyuan-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "geely-galaxy-xingyuan-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "4146a0103fa1695e924642955bc5c2e6846d0ea5c740a127b9e6dd18dcdd7ae8",
+"bytes": 273670,
+"donde": "public/media"
+},
+{
+"ruta": "/media/geely-galaxy-zhanjian-700-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "geely-galaxy-zhanjian-700-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "88cb8782fb182e03fea018de08626be2608a75b138552709dcf04e08a9fa83d3",
+"bytes": 210384,
+"donde": "public/media"
+},
+{
+"ruta": "/media/geely-starray-em-i-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "geely-starray-em-i-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "71519c9485eee885da60a1f8959989b2849aad9a747676524999d49e59992e77",
+"bytes": 246560,
+"donde": "public/media"
+},
+{
+"ruta": "/media/genesis-electrified-g80-2026-2.webp",
+"modelo": "genesis-electrified-g80-2026",
+"prueba": "registro-ficha",
+"sha256": "28ea7f136028a782b2cb26476ab4e65509d890147c7d4ec7e0d58a5b8b59480c",
+"bytes": 206436,
+"donde": "public/media"
+},
+{
+"ruta": "/media/gmc-yukon-2025-2.webp",
+"modelo": "gmc-yukon-2025",
+"prueba": "registro-ficha",
+"sha256": "e73119b099a2a8b7025161897d01e48d225c6885940046199bd3144843dadbd4",
+"bytes": 127530,
+"donde": "public/media"
+},
+{
+"ruta": "/media/gotrax-g5-hero.jpg",
+"modelo": "gotrax-g5",
+"prueba": "primera-imagen-articulo",
+"sha256": "e08cf8c8cbbbb3939b714a52361359afd50a2ee846b9db9acd4c2f7a828b756e",
+"bytes": 112715,
+"donde": "public/media"
+},
+{
+"ruta": "/media/guantes-calzado-obligatorios-moto-octubre-hero.jpg",
+"modelo": "guantes-calzado-obligatorios-moto-octubre",
+"prueba": "primera-imagen-articulo",
+"sha256": "67897e660add4d5f900ac4df036d6ae5f632ed0900a31fa25ea6026075efc643",
+"bytes": 411939,
+"donde": "public/media"
+},
+{
+"ruta": "/media/harley-davidson-low-rider-st-2025-ficha-tecnica-precio-1.webp",
+"modelo": "harley-davidson-low-rider-st-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "99a2e3d8cc92ce9aa84247ef78f43e127296433e64e578df9076730f0d16a11a",
+"bytes": 130662,
+"donde": "public/media"
+},
+{
+"ruta": "/media/harley-davidson-pan-america-1250-special-2025-ficha-tecnica-precio-1.webp",
+"modelo": "harley-davidson-pan-america-1250-special-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "de376dbe94139fb6b01452c58b24b6104cc32f818608756b409927bf56451f16",
+"bytes": 78964,
+"donde": "public/media"
+},
+{
+"ruta": "/media/haval-chitu-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "haval-chitu-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "ae7ecde9cecb46552c73a12d6bb6a743af3220cd4ec82bfa6d618c754d48e7f0",
+"bytes": 487448,
+"donde": "public/media"
+},
+{
+"ruta": "/media/haval-dargo-x-2024-precio-ficha-tecnica-interior.webp",
+"modelo": "haval-dargo-x-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "104a162746891abc5721a3583cb4dbc10eaedff7d92c255486e0d796da82cf69",
+"bytes": 231952,
+"donde": "public/media"
+},
+{
+"ruta": "/media/haval-h6-ii-facelift-commons.webp",
+"modelo": "haval-h6-phev-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "99c46e7949e62a0c0c5723fa7e1ea40ac923e6f71dd31d323bd517cf19657a3c",
+"bytes": 108682,
+"donde": "public/media"
+},
+{
+"ruta": "/media/haval-h9-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "haval-h9-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "604e3451209dafe4fe4f5006990d890c6bbb297850d9c54c721d065bf4df0e62",
+"bytes": 221826,
+"donde": "public/media"
+},
+{
+"ruta": "/media/haval-jolion-pro-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "haval-jolion-pro-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "e5f794ee8bbaab4ad729d04f8ff202ca233b17c488b2b8463a85a3721d2dbb43",
+"bytes": 257238,
+"donde": "public/media"
+},
+{
+"ruta": "/media/haval-xiaolong-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "haval-xiaolong-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "a83aaaed442e1efb775e6f3ca82e01287b6f87de51c4209bec4422acaa952faf",
+"bytes": 63632,
+"donde": "public/media"
+},
+{
+"ruta": "/media/haval-xiaolong-max-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "haval-xiaolong-max-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "7e774e21fc4b7afd674aeca33bb7674571e55721a5459b50b5277a9e77f28901",
+"bytes": 220010,
+"donde": "public/media"
+},
+{
+"ruta": "/media/homologacion-camper-y-caravanas-en-espana-vaci-hero.jpg",
+"modelo": "homologacion-camper-y-caravanas-en-espana-vacios-legales-itv-y-como-evitar-multas-de-la-dgt",
+"prueba": "primera-imagen-articulo",
+"sha256": "1b6b85b466ed30d0d4e012df8cecfbefa345fdf46158e0025f79400bd7cffddc",
+"bytes": 255209,
+"donde": "public/media"
+},
+{
+"ruta": "/media/honda-cbr500r-2024-ficha-tecnica-precio-1.webp",
+"modelo": "honda-cbr500r-2024-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "17c400292059bc3f969c55835d347b5f6f0ac0cf85287645e0960da1ce190f8a",
+"bytes": 187450,
+"donde": "public/media"
+},
+{
+"ruta": "/media/honda-civic-hybrid-commons.webp",
+"modelo": "honda-civic-ehev-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "40d7d99707257d2fa52380eb18e9f4b0ad6d47fddeaae70066db07314d745e20",
+"bytes": 235488,
+"donde": "public/media"
+},
+{
+"ruta": "/media/honda-civic-type-r-ultimate-edition-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "honda-civic-type-r-ultimate-edition-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "ee4081d6357cb92240458e8c89096759c2c22b5c3f1ace3c7aca3540a3ea710c",
+"bytes": 384470,
+"donde": "public/media"
+},
+{
+"ruta": "/media/honda-cr-v-ephev-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "honda-cr-v-ephev-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "c50257a79c3dd01a7db3da703b38e036205d6f88f76864103933020fc7cf49ee",
+"bytes": 146412,
+"donde": "public/media"
+},
+{
+"ruta": "/media/honda-eny1-commons.webp",
+"modelo": "honda-e-ny1-2025-precio-ficha-tecnica",
+"prueba": "primera-imagen-articulo",
+"sha256": "2a79f404b9d8ca147c61bb33b93edd373f21609af7274d6575c279e249363355",
+"bytes": 244716,
+"donde": "public/media"
+},
+{
+"ruta": "/media/honda-gold-wing-2026-precio-ficha-tecnica-commons.webp",
+"modelo": "honda-gold-wing-2026-precio-ficha-tecnica",
+"prueba": "primera-imagen-articulo",
+"sha256": "b62bfc73695fe13749dbe74f923352ddf256546eafcdab729353b25e157ded3f",
+"bytes": 167484,
+"donde": "public/media"
+},
+{
+"ruta": "/media/honda-hrv-hybrid-commons.webp",
+"modelo": "honda-hr-v-ehev-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "0bf49b14e5299e5693b8ac0b28bef286e9d870fe1687eec2a4606af68cddf617",
+"bytes": 372644,
+"donde": "public/media"
+},
+{
+"ruta": "/media/honda-jazz-crosstar-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "honda-jazz-crosstar-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "f0a3243f923b0a5e430a7521333839f8383fe1677621111287fd986469479303",
+"bytes": 302694,
+"donde": "public/media"
+},
+{
+"ruta": "/media/honda-jazz-ehev-2025-precio-ficha-tecnica-hunt1.webp",
+"modelo": "honda-jazz-ehev-2025-precio-ficha-tecnica",
+"prueba": "registro-blog",
+"sha256": "46e950357cf7477bd2ddd8d954063e0d3aff16b9cc96d857c8d4cc2a7097f5ef",
+"bytes": 175310,
+"donde": "public/media"
+},
+{
+"ruta": "/media/honda-zr-v-ehev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "honda-zr-v-ehev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "891837f2d501b1a8a5ac749e7020576c042e67c2214289b7e68afa5046324835",
+"bytes": 287074,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-e-qm5-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-e-qm5-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "63f4f50c1812b5a9844096ff0895455834a51722d4dfd8b719f929ef83d4dcf9",
+"bytes": 303502,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-eh7-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-eh7-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "a3f1a7f16c3e37c5735c051b4ea9881b918a1b51e9f0b3aea08039d581cc506f",
+"bytes": 414102,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-guoya-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-guoya-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "acdede1c52ead65e6d0f92a50aa390757d01bcd27eb7e27a49d360082b6ee05f",
+"bytes": 348394,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-h5-2023-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-h5-2023-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "b5a158214cf37a9bf4ae6243415e5f722ce5c02684a547f92e1a4fbdb948835e",
+"bytes": 449358,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-h5-hev-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-h5-hev-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "e4f35ae4b14ca9d490495a544119e8e15c9aa27e673ae6aa1c1f4d90048abdf7",
+"bytes": 512366,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-h6-2023-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-h6-2023-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "014b28be904a0609c14571d73ebdef67797db8a6ca879e836a86baba50175e83",
+"bytes": 292912,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-h7-phev-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-h7-phev-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "77483715d70de5fc0735f22478583d6854b52f9d2765fce80b2e874da5094ce0",
+"bytes": 226072,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-h9-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-h9-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "c4d90c6487d1a3dd26803be69e6fae86399f37c3e903a0110f6791f0e0300f01",
+"bytes": 397516,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-hq9-2023-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-hq9-2023-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "8999833ceff33bad966afcc558d4ad4a9a4284b3c709946b1d7b24e4defe4f2c",
+"bytes": 189920,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-hq9-phev-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-hq9-phev-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "42e55024ee5dcbdd509b44d6c1c93066c0ac30d893031072610d35bfa64369bb",
+"bytes": 613078,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-hs5-2023-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-hs5-2023-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "1da77858f0211205e8826d85145a9f3ddb7f8149757af923134fc6f3e6f30f2f",
+"bytes": 547192,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-hs5-phev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-hs5-phev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "2fc8bd816a6b82240333691368e6c0acc12136e0c9e84d5927413e5b566ff3ff",
+"bytes": 368620,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-hs6-phev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-hs6-phev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "b8e9e13999f63f78a9a94dc769f262b8726a411ec873adaafe7b39ace718868a",
+"bytes": 481256,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-hs7-2023-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-hs7-2023-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "98eb526041ca41a8d0f03f40732b535d62fb1fc2fd519c872251d92f235b60d5",
+"bytes": 315130,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-hs7-phev-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-hs7-phev-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "31f7ce2144ac0a092fc78acc66d0b20bffa62b97624252496f4426239daaefc8",
+"bytes": 543544,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-tiangong-05-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-tiangong-05-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "34fe19d2420f3eaef188b6a8ae2e2d6b7f4d9e4da78b835fc67dd1e750d880ee",
+"bytes": 391618,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hongqi-tiangong-06-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "hongqi-tiangong-06-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "bafff8487b7917bc3ded37486dc3e19c60d3ee7995d2efe0144987d3b4de78c9",
+"bytes": 206392,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hymer-b-mc-i-580-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "hymer-b-mc-i-580-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "91dac40158f1e47bc4ec042c54f517ad859660d5c2585817118cdf7c241df9c7",
+"bytes": 166742,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hymer-ml-t-570-crossover-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "hymer-ml-t-570-crossover-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "854f3d16f8e99bfb53b6c25362320467c4fe4a0e7ba6469d017be1894250e768",
+"bytes": 147524,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hyptec-a800-commons.webp",
+"modelo": "hyptec-a800-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "c0a41f75ae27eb4403b9d2506535584c6938909733bdb676fe8011c0643ffac3",
+"bytes": 301358,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hyptec-gt-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "hyptec-gt-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "f485452e72ba7ba74c23c5253f0cf72975c154808a18775b1b75b532abd3f158",
+"bytes": 437296,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hyptec-ht-commons.webp",
+"modelo": "hyptec-ht-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "90cb390d5dca033e83cc001acc55eb0c56dda03b778f59c4b5bfe6b448a3d77e",
+"bytes": 277232,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hyptec-s600-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "hyptec-s600-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "46dc78038b52b31bda9cf2cf762675618cbe2efc4c835042708ebd50842c8a35",
+"bytes": 198054,
+"donde": "public/media"
+},
+{
+"ruta": "/media/hyptec-ssr-commons.webp",
+"modelo": "hyptec-ssr-2024-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "5679e335365a58e1f3654f85a7103c754a498a2aed1bed5288ec41842c362997",
+"bytes": 164434,
+"donde": "public/media"
+},
+{
+"ruta": "/media/icaur-v23-chery-hero.webp",
+"modelo": "icaur-chery-marca-aventura-europa-espana-2027",
+"prueba": "registro-blog",
+"sha256": "eb400b88c7ce799ad8e9113e6b4c077c4b7e53d48c0bc928e05906da7bd05918",
+"bytes": 216742,
+"donde": "public/media"
+},
+{
+"ruta": "/media/im-l6-commons.webp",
+"modelo": "im-l6-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "e5ecd34ec5cc0ce1ec25563ff43c9943cef56654194dbd909cf6f62e45833d46",
+"bytes": 122476,
+"donde": "public/media"
+},
+{
+"ruta": "/media/im-l7-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "im-l7-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "b7a4da87b703ec76ae7ea86d26f8aad98e90f41ab0644ba259fa9262d2eb2f7f",
+"bytes": 187798,
+"donde": "public/media"
+},
+{
+"ruta": "/media/im-ls7-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "im-ls7-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "925927fcf749dc2e2646d68f722790690da367d037bd97818a3f18279bc04fd6",
+"bytes": 161218,
+"donde": "public/media"
+},
+{
+"ruta": "/media/im-motors-l6-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "im-motors-l6-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "b59869d0b6af3d9c9d53839c7548c749d41d452638c51f527738a8bda32d4b84",
+"bytes": 107270,
+"donde": "public/media"
+},
+{
+"ruta": "/media/indian-super-chief-limited-2025-ficha-tecnica-precio-1.webp",
+"modelo": "indian-super-chief-limited-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "a6efb0d09e6673fe4a3ef7f70e9cb9d9014e28ed40637c8e05b8e2ba938bcade",
+"bytes": 405722,
+"donde": "public/media"
+},
+{
+"ruta": "/media/intercomunicador-casco-moto-legal-octubre-2026-hero.jpg",
+"modelo": "intercomunicador-casco-moto-legal-octubre-2026",
+"prueba": "primera-imagen-articulo",
+"sha256": "d23de53078b5292ea5a4cd9e60d5f76d901c72928b91e3e4df2931f515adcbde",
+"bytes": 228233,
+"donde": "public/media"
+},
+{
+"ruta": "/media/irlanda-norte-noveles-restriccion-nocturna-mul-hero.jpg",
+"modelo": "irlanda-norte-noveles-restriccion-nocturna-multas",
+"prueba": "primera-imagen-articulo",
+"sha256": "2e3c53291101011444243dda78d15093e2e4832d245496ccfcf0d1b170c7f65c",
+"bytes": 821648,
+"donde": "public/media"
+},
+{
+"ruta": "/media/isinwheel-s10pro-hero.jpg",
+"modelo": "isinwheel-s10pro",
+"prueba": "primera-imagen-articulo",
+"sha256": "05ebf81c2f72df74295ddff79c9315ade7f8bde8e87e4d790a74e0f0e849ade2",
+"bytes": 41650,
+"donde": "public/media"
+},
+{
+"ruta": "/media/itv-cada-cuanto-me-toca-tabla-por-anos-multas-hero.jpg",
+"modelo": "itv-cada-cuanto-me-toca-tabla-por-anos-multas-por-circular-sin-ella-y-que-pasa-si-llevo-reformas-en-el-coche",
+"prueba": "primera-imagen-articulo",
+"sha256": "0ca40b05c5c08cc48c4075239582e47b92d3f859bccb203ce8437ddf9d959a10",
+"bytes": 411137,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jac-e30x-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "jac-e30x-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "7127a06e8da61e10200834b59887f9405a9d3e2f827d9266c809b64a68e097c3",
+"bytes": 215944,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jac-j7-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "jac-j7-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "baaacac01460116e019cc39b28a8396a70661acc67db4cca3073655e77997764",
+"bytes": 197960,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jac-js4-2025-precio-ficha-tecnica-oficial.webp",
+"modelo": "jac-js4-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "b470ad815445d6c7eb431e56206b967fa6b5fa49bd9b5982166c88dbbbe4cd9f",
+"bytes": 344554,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jac-qx-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "jac-qx-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "e739af01f5cf4300d7094a728897b219b55d6f7c77fe5a5ed781e0e900110b00",
+"bytes": 223634,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jac-qx-phev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "jac-qx-phev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "c15f29a77b190a10d1fa7b1485072f8da5d7ca5c08a9b10ca029c1a2630abaa6",
+"bytes": 245838,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jac-t9-ev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "jac-t9-ev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "702e63fac00071f38d94080dfb31302c0dec4391baf7e28cf968f5079acb5222",
+"bytes": 341010,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "jaecoo-5-shs-hibrido-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "9841f1a7da2337f8d75e9cff118fcba1e461a38778cb66cff67df4eb7d07aa7b",
+"bytes": 277944,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "jaecoo-7-shs-hibrido-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "2e20c0089095ecf7dd802ea5c052d269cc72954ecb48150b505d7d681c9af1a4",
+"bytes": 239890,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jaecoo-8-shs-commons.webp",
+"modelo": "jaecoo-8-shs-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "83481feeb2b0e48c7b6dec5db8bf46ef6603080a971f423b03ccc2cad3246943",
+"bytes": 190572,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jeep-avenger-gasolina-100-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "jeep-avenger-gasolina-100-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "ba0cf613229ab013dbe13cc7834657abb4d497a78dbc6ff9ea41ca80fa99c114",
+"bytes": 345200,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jeep-compass-13-t-130-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "jeep-compass-13-t-130-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "598d5ae819bd1c470b436d9d4d084d50b8e9efd3b6ba37d51e76908bcf066afd",
+"bytes": 289164,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jeep-compass-16-mjt-130-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "jeep-compass-16-mjt-130-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "b80a3f16ad08d527d95467bd52ce6444dbe143ef0eb29b12f6865e7719335248",
+"bytes": 201654,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jeep-compass-4xe-240-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "jeep-compass-4xe-240-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "88f4ddcf0a51fccb92e0d934248401c1fbffdb0b3e246208104a7cea2a8bd835",
+"bytes": 246950,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "d902537bb7608bc661c4955a0bff62a62e67e92700036d952d2fae82a1b056dc",
+"bytes": 238602,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jeep-renegade-10-t3-120-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "jeep-renegade-10-t3-120-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "c04c51f20f9bdfb46df8e1d215bdc77975b06491ee18410679b8f4a4ac566c52",
+"bytes": 230572,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jeep-renegade-16-multijet-130-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "jeep-renegade-16-multijet-130-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "98d970969cc5f530132e18bffed6dc084c935fab311df557e37aca2a325b4a91",
+"bytes": 259592,
+"donde": "public/media"
+},
+{
+"ruta": "/media/jetour-g700-zongheng-hero.webp",
+"modelo": "jetour-zongheng-g700-903-cv",
+"prueba": "registro-blog",
+"sha256": "9f8e88e2feeaad3fdf5ba70056e85c7b730a60049d492f94771c7c9ac712c8be",
+"bytes": 571230,
+"donde": "public/media"
+},
+{
+"ruta": "/media/kia-ev3-baja-precio-octubre-2026-hero.webp",
+"modelo": "kia-ev3-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "895868db1932c0aff875b0d3af77622544c5df1383524208aa5f16423ce7a351",
+"bytes": 156350,
+"donde": "public/media"
+},
+{
+"ruta": "/media/knaus-boxstar-600-dq-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "knaus-boxstar-600-dq-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "1be3948e6d80607ca4507b8966e431c2791bd9d135ae0d7f30e8c52f6b980af6",
+"bytes": 120212,
+"donde": "public/media"
+},
+{
+"ruta": "/media/knaus-sky-wave-650-meg-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "knaus-sky-wave-650-meg-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "8bd84f5d4fcfb12aa78082ccb1dc4ffb8d6bc896a1875dc7b575ef72666beb7f",
+"bytes": 244552,
+"donde": "public/media"
+},
+{
+"ruta": "/media/kove-625x-pro-2026-ficha-tecnica-precio-hero.jpg",
+"modelo": "kove-625x-pro-2026-ficha-tecnica-precio",
+"prueba": "primera-imagen-articulo",
+"sha256": "3bca5d33266f06bdf895362c831c531d88d8fb6976a6bfba1cc7203be3a976bc",
+"bytes": 257182,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ktm-1390-super-duke-r-2024-analisis-opinion-hero.jpg",
+"modelo": "honda-gold-wing-2024-analisis-opinion",
+"prueba": "primera-imagen-articulo",
+"sha256": "82102804775fe86775738966502cfb372f4d491fecf93d435d6f86bc0fc58c48",
+"bytes": 93146,
+"donde": "public/media"
+},
+{
+"ruta": "/media/kymco-dtx-360-2025-ficha-tecnica-precio-1.webp",
+"modelo": "kymco-dtx-360-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "7dc90352e073189b4680abb88ce57c60fe9cf9eb9df36cedc6ae790943309cfd",
+"bytes": 246412,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-defender-110-d350-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "land-rover-defender-110-d350-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "31b0342522c2264bd81278a06ae041a4f4e3b58ac0e91da5652729fb0cbd1208",
+"bytes": 276098,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-defender-110-p400e-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "land-rover-defender-110-p400e-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "99a28cf97e0a415b662c488473e57c79bd34abc1dda69a669c615c5b352c08c6",
+"bytes": 242080,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-defender-130-d300-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "land-rover-defender-130-d300-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "f9d2a171697c4b81b46e96e8f4cb5bdc5aab49d66a78fce52c37d777b6053dc2",
+"bytes": 273528,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-defender-130-p400-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "land-rover-defender-130-p400-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "6aa52b690b7f7491893223562d0c8c9d679e0371c47e16ffb6bdbf9d878b35b9",
+"bytes": 266142,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-defender-90-p400-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "land-rover-defender-90-p400-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "9d777742e870a11bc689eabd8dc2e5d81de2f3bbbd789bda304c1afa1d4060ae",
+"bytes": 286118,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-discovery-p360-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "land-rover-discovery-p360-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "072909505c7f245a589f7b3f8699489bb60c90cdd6c10fd1a7a2f6b629d2c435",
+"bytes": 154348,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-discovery-sport-d200-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "land-rover-discovery-sport-d200-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "c84ab209c8ccd689154eae9cc64cc520409e0554299450ae76ff70099486b6f5",
+"bytes": 245810,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica-oficial.webp",
+"modelo": "land-rover-discovery-sport-p270e-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "361500fc5fab55785166937661b48c3c51ddff9475fe2bac6d09cc4f8a26f9af",
+"bytes": 239426,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "land-rover-range-rover-evoque-d200-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "62e8f7ecde478301f79b2084b97330a25f483077b6500867e0c7e482f04a56dd",
+"bytes": 246182,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "land-rover-range-rover-evoque-p270e-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "45fa1d2d77b9a393ae225d392892b06501ce2ad86730ea86f5895720be87c5a6",
+"bytes": 245440,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-range-rover-p400-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "land-rover-range-rover-p400-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "2d24b7d4eda50f51995a2bc78a2f6de2e397a407f0b184df7d4e41129b0fec3e",
+"bytes": 295084,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-range-rover-p530-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "land-rover-range-rover-p530-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "f7743555e2ab3fba9188c3c291e6bd2fa89fb761f695a6858cfd4d0af24465ad",
+"bytes": 283778,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "land-rover-range-rover-sport-d350-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "c3a4fa270150d5d6e50008bd812e6d32563a7e5af5175b6eed2993910f7c207d",
+"bytes": 255742,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "land-rover-range-rover-sport-p550e-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "d1e1779a4b425397b2372029e34699bd3d32772293d28169532fffe2ed006b56",
+"bytes": 276758,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "land-rover-range-rover-sport-sv-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "cb5b85c557ea2eaf3fd029ad80f0a0441703ac2c3216883451c29b0fe27e34da",
+"bytes": 204718,
+"donde": "public/media"
+},
+{
+"ruta": "/media/land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "9efef42317455712358cf85f7f7d2758cd08f86c08d9f04f10ff548be593eaa4",
+"bytes": 272800,
+"donde": "public/media"
+},
+{
+"ruta": "/media/leapmotor-a10-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "leapmotor-a10-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "a3b0c1cf7d18c207e7495ec3d9f7ff4a770d74bc325865d0ea805d4fae4e155a",
+"bytes": 210768,
+"donde": "public/media"
+},
+{
+"ruta": "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto1.webp",
+"modelo": "leapmotor-b10-reev-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "12b7a374ece77de071254b59fd39be2c8a44c2aa6f682eb5bd77eb04f6f9ed9e",
+"bytes": 238728,
+"donde": "public/media"
+},
+{
+"ruta": "/media/leapmotor-c01-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "leapmotor-c01-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "bdf295ca7d431bc6bddcd934a149b955207068adb7c0ccfad18a83dc0fbb23e5",
+"bytes": 366194,
+"donde": "public/media"
+},
+{
+"ruta": "/media/leapmotor-c10-baja-precio-octubre-2026-hero.webp",
+"modelo": "leapmotor-c10-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "ec4493118712704965639908e8e28e743b1a2ad9889192e85cad47338c91e61e",
+"bytes": 189896,
+"donde": "public/media"
+},
+{
+"ruta": "/media/leapmotor-c16-erev-280-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "leapmotor-c16-erev-280-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "6792558a580cc2e9083cfa75a58a4a37be7180b211c4c6d822f31b5c37adcf4f",
+"bytes": 510574,
+"donde": "public/media"
+},
+{
+"ruta": "/media/leapmotor-paris-2026-b03-d19-debut.webp",
+"modelo": "leapmotor-paris-2026-b03-d19-debut-europa",
+"prueba": "registro-blog",
+"sha256": "68431a212ffdf5e9100673709f4e24e336f637b174830d66b01d3e751fbb166a",
+"bytes": 437120,
+"donde": "public/media"
+},
+{
+"ruta": "/media/leapmotor-t03-baja-precio-octubre-2026-hero.webp",
+"modelo": "leapmotor-t03-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "85923c29e3f5a2f5a4e03079446b497ff851f029ca715f32aafb9fec950d7321",
+"bytes": 222078,
+"donde": "public/media"
+},
+{
+"ruta": "/media/li-auto-i6-commons.webp",
+"modelo": "li-auto-i6-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "3ddd78f5ed9f4802d4b5f9be2dcd1a6f03f29b9f6e0810b61de36b67e9cd81bd",
+"bytes": 170926,
+"donde": "public/media"
+},
+{
+"ruta": "/media/li-auto-l7-commons.webp",
+"modelo": "li-auto-l7-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "da8f0cdf3ae776b01d6ed25e17465fe89fe8f6ad5b1bc5b3e14bd763df649970",
+"bytes": 351018,
+"donde": "public/media"
+},
+{
+"ruta": "/media/llevas-la-nueva-luz-v16-conectada-en-el-coche-hero.jpg",
+"modelo": "llevas-la-nueva-luz-v16-conectada-en-el-coche-descubre-la-normativa-oficial-de-la-dgt-el-importe-de-las-multas-y-como-evitar-sanciones",
+"prueba": "primera-imagen-articulo",
+"sha256": "0c1bced464d999c2bad52d47d00f6ce48b0c8caf2e871bde8f50d97a5f8a60a4",
+"bytes": 107720,
+"donde": "public/media"
+},
+{
+"ruta": "/media/lotus-eletre-r-plus.webp",
+"modelo": "lotus-eletre-r-plus-2026-precio-ficha-tecnica",
+"prueba": "registro-blog",
+"sha256": "8c696d2d32892a33843fbdc8a2c25a1f172fa5bc5579a627bb9ce2712d72d938",
+"bytes": 306562,
+"donde": "public/media"
+},
+{
+"ruta": "/media/lynk-co-07-gt-debut-europa-paris-2026-hero.webp",
+"modelo": "lynk-co-07-gt-debut-europa-paris-2026",
+"prueba": "registro-ficha",
+"sha256": "84efb07910cccb906886f9c96f81da13c0f29309ef6f031b60ee2ab67d0a6876",
+"bytes": 339566,
+"donde": "public/media"
+},
+{
+"ruta": "/media/maple-60s-commons.webp",
+"modelo": "livan-maple-60s-2024-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "4a320af3aa0f9da82363c1ed9a22d15edd49611e655f682b0b989dbae4d5f8a4",
+"bytes": 124390,
+"donde": "public/media"
+},
+{
+"ruta": "/media/marcas-coche-mas-garantia-2026-hero.jpg",
+"modelo": "marcas-coche-mas-garantia-2026",
+"prueba": "primera-imagen-articulo",
+"sha256": "292b59aa62979a6d508dad975a97d080e85db8a2c6810929b4157e68e5606789",
+"bytes": 210412,
+"donde": "public/media"
+},
+{
+"ruta": "/media/margenes-de-error-de-los-radares-de-la-dgt-te-hero.jpg",
+"modelo": "margenes-de-error-de-los-radares-de-la-dgt-te-han-multado-injustamente-tablas-oficiales-multas-falsas-y-como-recurrirlas",
+"prueba": "primera-imagen-articulo",
+"sha256": "36149fc38542464ff87620edd000a485424d7d99120fb68142d532b14d6c16ab",
+"bytes": 318385,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "2ac1df9926ff345fc452eaae0dc4a6d0b0e0e5447a5a7fd2f782799548ff1a34",
+"bytes": 264844,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mclouis-menfys-3-s-line-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "mclouis-menfys-3-s-line-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "53d8c2570a96138b6864615d3f6431907b5fefd1345e47d5fc707ba5745f146e",
+"bytes": 77656,
+"donde": "public/media"
+},
+{
+"ruta": "/media/me-ha-llegado-una-multa-de-la-dgt-pero-el-cond-hero.jpg",
+"modelo": "me-ha-llegado-una-multa-de-la-dgt-pero-el-conductor-no-era-yo-quien-paga-como-identificarlo-y-plazos-para-evitar-multas-triplicadas",
+"prueba": "primera-imagen-articulo",
+"sha256": "0e12228c28f682324b8b80e59cf8dc0ecd00815be41a403143fa5d3d249047ad",
+"bytes": 337393,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mercedes-amg-cla-45-s-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "mercedes-amg-cla-45-s-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "550075a76350ec9e632f2d98e3892d9033e761de837085f26820f5f9de1de59f",
+"bytes": 177414,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mercedes-eqs-drive-pilot-luces-turquesa-hero.jpg",
+"modelo": "nhtsa-luces-cian-vehiculos-autonomos-2026",
+"prueba": "primera-imagen-articulo",
+"sha256": "592d0760df3e7b78d945f49a3921c3c3b398478cb25ba8e05781bda5e6d7afcc",
+"bytes": 130377,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mercedes-g450d-w465-commons.webp",
+"modelo": "mercedes-clase-g-450-d-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "9e65c63ff6e3c229093a77e7244235d3cd2259ed693c6f0cd2659da8292d3e55",
+"bytes": 227222,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mercedes-glb-250-eq-2026-2.webp",
+"modelo": "mercedes-glb-250-eq-2026",
+"prueba": "registro-ficha",
+"sha256": "98c8c9c025036a3da2f99873ba7e9015f00b2290e076877d5360ad2547b67eec",
+"bytes": 193742,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mercedes-gle-450-e-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "mercedes-gle-450-e-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "49808904716e3bd7ab43357a373f4436c2163a7020c0739be19a5f1a8d683a01",
+"bytes": 140246,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mini-aceman-commons.webp",
+"modelo": "mini-aceman-se-2024-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "594d8abf1e110fd3a65c023d6cb65b17deed556854bf59954746335e05674de0",
+"bytes": 390660,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mini-cooper-c-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "mini-cooper-c-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "ded09cd46ef5e1c8c6827765bd264bd47f1722a5e10694ff6af7b244643e9e0a",
+"bytes": 274250,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mini-cooper-cabrio-c-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "mini-cooper-cabrio-c-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "26b9a2074077c0cab5366d49d6356e11a57ec167524201adeeec23653e6854c4",
+"bytes": 273294,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mini-cooper-cabrio-s-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "mini-cooper-cabrio-s-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "384095c952fddec70d6e72bf6adde2a2589c121582253fa7e9823fa9f8bfbf26",
+"bytes": 275252,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mini-cooper-e-j01-commons.webp",
+"modelo": "mini-cooper-e-2024-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "85c98931c036e5e057f1fa397737aa6012fda226a2ae260716a3f78980a2d9e7",
+"bytes": 343624,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mini-cooper-jcw-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "mini-cooper-jcw-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "e14789d9ee9cb9b1c08b87b01c708bb74c8d0a1fab3e598fc4adefd3a6bbec64",
+"bytes": 254290,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mini-cooper-jcw-e-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "mini-cooper-jcw-e-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "5f5b008ec1b80654fa130ee92aabecc5b8bd3dd69eddb9312ae9cedcce72ca0f",
+"bytes": 278358,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mini-cooper-s-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "mini-cooper-s-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "5b046d4b65681384d6f08334929603959c808a7bc361be980c2b76631b14b07d",
+"bytes": 167054,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mini-cooper-se-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "mini-cooper-se-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "085759fc9f0865a28a039e846febe3e1c3c9d0a60a3dbd2f71c5719d6c10b0c4",
+"bytes": 263452,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mini-countryman-e-2026-2.webp",
+"modelo": "mini-countryman-e-2026",
+"prueba": "registro-ficha",
+"sha256": "4282d4693eac72ee5d326715759fd0c2bbb0e76be0fa9696836392f5a9c14cc6",
+"bytes": 230640,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mini-countryman-s-all4-2025-2.webp",
+"modelo": "mini-countryman-s-all4-2025",
+"prueba": "registro-ficha",
+"sha256": "4b36c062cc6af3abe715326770b593a9a4e124ceba5aa0ad2e69497f5cf72f43",
+"bytes": 265984,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "mitsubishi-asx-130t-mhev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "beffe405f2064fab9f4e9b6cd905742d7327b388098ab01149362e879adcc29e",
+"bytes": 287012,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mitsubishi-colt-2026-precio-ficha-tecnica-commons.webp",
+"modelo": "mitsubishi-colt-2026-precio-ficha-tecnica",
+"prueba": "primera-imagen-articulo",
+"sha256": "aaf493602f051a8caa5a3726dd62ff8ea6aa5071cd890ae90d17be0b33ec3707",
+"bytes": 239022,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mitsubishi-colt-hev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "mitsubishi-colt-hev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "5d4fbc4844ed42a3ba31aeaeefbf8e91a9ce664b44a2e97888920e48ede8cbfa",
+"bytes": 291936,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mitsubishi-grandis-hev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "mitsubishi-grandis-hev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "7ed8da8d5ba6dff2ae7465befa5517d5c4aaa83d240f8be788292adb9b3e3de9",
+"bytes": 233844,
+"donde": "public/media"
+},
+{
+"ruta": "/media/mitsubishi-outlander-phev-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "mitsubishi-outlander-phev-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "9e22e0da32251ef6b59f99635982060485f55194e822f9aabfb71e9fad0a9f5a",
+"bytes": 166890,
+"donde": "public/media"
+},
+{
+"ruta": "/media/morbidelli-t502x-2026-ficha-tecnica-precio-1.webp",
+"modelo": "morbidelli-t502x-2026-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "3493448b231d777fb755f92c78847ee1d321c9e01f8a032f3486933c499fb9ae",
+"bytes": 221262,
+"donde": "public/media"
+},
+{
+"ruta": "/media/moto-guzzi-v9-bobber-2025-ficha-tecnica-precio-1.webp",
+"modelo": "moto-guzzi-v9-bobber-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "228627c1b2364ff73f67716aa667aa8a931dbe93431814ec632bd54d80c2e074",
+"bytes": 142076,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos-arcen-30-kmh-atascos-norma-dgt-hero.jpg",
+"modelo": "motos-arcen-30-kmh-atascos-norma-dgt",
+"prueba": "primera-imagen-articulo",
+"sha256": "f814f435b3bb2e1e8a01b3850c9b7e736a6355594c398dd6bcbdc9c5fcaffcea",
+"bytes": 666429,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos-arcen-atascos-nueva-norma-hero.jpg",
+"modelo": "motos-arcen-atascos-nueva-norma",
+"prueba": "primera-imagen-articulo",
+"sha256": "1506a853448cd130750c1d1c16ea906dbead9e9525ab1a295e2e7d97f1f7ab02",
+"bytes": 240007,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/benelli-trk-502x-2024-ficha-tecnica-precio-1.webp",
+"modelo": "benelli-trk-502x-2024-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "661659a9982b820574de77c214bc16a03a618d3298b4cefc5d4c956c89b27472",
+"bytes": 185542,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/beta-evo-300-2024-ficha-tecnica-precio.webp",
+"modelo": "beta-evo-300-2024-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "3b02fa87da6dfa110cb80ec77be65260814bb01b278ba9bdbdbb68c9f41db7a7",
+"bytes": 78004,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/bimota-tesi-h2-2024-ficha-tecnica-precio-1.webp",
+"modelo": "bimota-tesi-h2-2024-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "09d2bf07e3228ca44d58bb63f598b48449ebff956f01609fbcc88e63e0d5c894",
+"bytes": 125848,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/bmw-ce-04-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "bmw-ce-04-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "9296ea1217ad81cd4843fb7aa6d7b022927f63c8a28f809fd93dd8d7416cfca2",
+"bytes": 121080,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/bmw-m-1000-rs-2027-ficha-tecnica-precio-hero.webp",
+"modelo": "bmw-m-1000-rs-2027-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "ec7efce47df1042b97adfc84cf7aa0eac4b5f03115b52af81287614aa516b9f5",
+"bytes": 141214,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/bmw-r-12-2024-ficha-tecnica-precio-1.webp",
+"modelo": "bmw-r-12-2024-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "6e67c4a22616804f4258e2c46826220ae744b314e23fa0d2d3b23c805dd3cf34",
+"bytes": 181510,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/bmw-r-12-s-2025-ficha-tecnica-precio-1.webp",
+"modelo": "bmw-r-12-s-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "6bacc1e1391747a8291a619279d96cc1796c493cf0bf82096de9bf10a5a5eb62",
+"bytes": 362790,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/bmw-r-18-2024-ficha-tecnica-precio-1.webp",
+"modelo": "bmw-r-18-2024-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "caaa2bb1c36f76255485aa27a3d48828b0ae1fdca17071c556481f97659e4f05",
+"bytes": 169458,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/brixton-cromwell-250-2026-oficial.webp",
+"modelo": "brixton-cromwell-250-2026",
+"prueba": "campo-imagen",
+"sha256": "0a3f314fc97af3b591c176f41c0d14f902d25fab8feca309b2d6c6579c9e5688",
+"bytes": 200504,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ducati-desertx-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "ducati-desertx-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "9cf8b56dea1c906418323c04ef90936b8b241deaac6857cb61a4fd0a6f2c3320",
+"bytes": 243570,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ducati-diavel-v4-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "ducati-diavel-v4-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "361b2049c9368e2e90f931284d390f052575a25d6beb59cefa631b3764532ea2",
+"bytes": 179324,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ducati-diavel-v4-s-2027-ficha-tecnica-precio-hero.webp",
+"modelo": "ducati-diavel-v4-s-2027-ficha-tecnica-precio",
+"prueba": "primera-imagen-articulo",
+"sha256": "a0e4b5ed9d359be6e7011dd324d8d3cd09c5e8801d70c0edb385cc2571d04f19",
+"bytes": 18254,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ducati-monster-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "ducati-monster-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "abaa9f867ad5b677f3e8090b2b3cb7bb239437237b7c6e6d96633dabb79d8603",
+"bytes": 181286,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ducati-panigale-v2-sp-2027-ficha-tecnica-precio-hero.webp",
+"modelo": "ducati-panigale-v2-sp-2027-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "c817f80658db5d1452be066db5721ceaad01289442d9e7d5a40f8cb2e75c2b64",
+"bytes": 24362,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ducati-panigale-v4-s-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "ducati-panigale-v4-s-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "78f3735ff70aa15460be400a1fccb525e81aca14144cba66701c7608b626fac1",
+"bytes": 188496,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ducati-panigale-v4-sp-2027-ficha-tecnica-precio-hero.webp",
+"modelo": "ducati-panigale-v4-sp-2027-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "5be672fb02269149833683cb67b45e36588fae6b7c4023f2deb7e8e7db7f268b",
+"bytes": 45414,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ducati-scrambler-icon-800-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "ducati-scrambler-icon-800-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "9bd420e63f611801b05bda0fa21289f099b50ea6e9fdf643ac0f9d17d58f57e9",
+"bytes": 134472,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ducati-streetfighter-v4-sp-2027-ficha-tecnica-precio-hero.webp",
+"modelo": "ducati-streetfighter-v4-sp-2027-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "4e86c9e3d229fd4db0f44af0903fb602a674dca7bfae4ae6bbff93f64497f06b",
+"bytes": 54542,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/efun-lion-180-2026-ficha-tecnica-precio-oficial.webp",
+"modelo": "efun-lion-180-2026-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "37fc884b21fa3554cbd288cd2bbfbadd6238f5ec056ab1d300f7d1d2fff686d9",
+"bytes": 93576,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/harley-davidson-street-glide-2025-ficha-tecnica-precio-1.webp",
+"modelo": "harley-davidson-street-glide-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "1d55a0602b85cdfaba4c109804806543b5830c9298c3a02c462ab40e7829a557",
+"bytes": 297610,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/horwin-ek1-2026-ficha-tecnica-precio-oficial.webp",
+"modelo": "horwin-ek1-2026-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "932803d8fb956f4420ffb86f9bbdf8e879c08cdfffe458dc221eb26693535d6e",
+"bytes": 73934,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/keeway-terrafina-350i-2026-ficha-tecnica-precio-1.webp",
+"modelo": "keeway-terrafina-350i-2026-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "9eb3a1334c4087effc79c62eb99fdc5b48ec91805aa1bb57b04d96f56dc7265c",
+"bytes": 156792,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/keeway-vieste-300-xdv-2024-ficha-tecnica-precio-1.webp",
+"modelo": "keeway-vieste-300-xdv-2024-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "e161561c157dc60d5e9e3fa9fb3ca8706cc74bca9a906619755682019f0cafbd",
+"bytes": 167840,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/kove-321rr-2025-ficha-tecnica-precio-1.webp",
+"modelo": "kove-321rr-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "7604b3534ddb1236307bbdee9fa1335e7b3fb1efde754ebde87d28d33b51f01c",
+"bytes": 139988,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ktm-1390-super-duke-gt-2025-ficha-tecnica-precio-1.webp",
+"modelo": "ktm-1390-super-duke-gt-2025-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "2e6398b584a42767ac253af6f1c0ade699a34e2c0a1bbcd11d62c32b84e358ec",
+"bytes": 279570,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ktm-1390-super-duke-r-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "ktm-1390-super-duke-r-2025-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "8bea635d20167e5e93ac86a34499fbc6608f27c9fb62c7fd5a288f78e05beac5",
+"bytes": 115016,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ktm-390-duke-2026-ficha-tecnica-precio-hero.webp",
+"modelo": "ktm-390-duke-2026-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "5660f18d949c171aca71435fdc83c39a3d5a595869aeab7a16451d7875479b25",
+"bytes": 82050,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ktm-790-adventure-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "ktm-790-adventure-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "048edee0f18df2428e77c1efb9378386cb9382b7a7cb764eebad3404ff011add",
+"bytes": 204460,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ktm-790-duke-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "ktm-790-duke-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "4f0dbdd0402fc1b3f93dd192ab575b531f5b2bc8c3082238e24ab7bb4db774e2",
+"bytes": 204276,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ktm-990-duke-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "ktm-990-duke-2025-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "a381f4379de1a462d9fd9ea8325cc23ad837f5bd6cafdb62eeccded847ffbbd6",
+"bytes": 71384,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/ktm-990-duke-r-2026-ficha-tecnica-precio-hero.webp",
+"modelo": "ktm-990-duke-r-2026-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "6558ef349510c5354d06f7c27baf7cceca4e4dcaa9955f831938216ceb387772",
+"bytes": 157258,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/kymco-cv3-575-2026-ficha-tecnica-precio-1.webp",
+"modelo": "kymco-cv3-575-2026-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "25501ff812ed6f46ce5ca7a04a39aa121c2279f0ab52fefccff0990f828bd134",
+"bytes": 184076,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/kymco-downtown-350-2024-ficha-tecnica-precio.webp",
+"modelo": "kymco-downtown-350-2024-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "ed8dcfd826f45a69163a7967512d7651c530e3904ff988ec1cb6967d42799362",
+"bytes": 98334,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/lambretta-elettra-s-2026-ficha-tecnica-precio-1.webp",
+"modelo": "lambretta-elettra-s-2026-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "3b31c2deff332f4a86d9bf335617ff3313e45a00dc419d61a44c835e9e192809",
+"bytes": 131172,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/moto-guzzi-v9-bobber-2024-ficha-tecnica-precio-1.webp",
+"modelo": "moto-guzzi-v9-bobber-2024-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "085859254e7aa0a97d80b449fe6ba4000b576c0f42b8623bb2c157e81025f72e",
+"bytes": 193354,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/moto-morini-calibro-700-2024-ficha-tecnica-precio-1.webp",
+"modelo": "moto-morini-calibro-700-2024-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "c8d6c93519c14fdee188406703120cd4104b5af88dc676837c4fd6d7af6e3025",
+"bytes": 163450,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/peugeot-pulsion-evo-125-2026-ficha-tecnica-precio-1.webp",
+"modelo": "peugeot-pulsion-evo-125-2026-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "96f0196b06dd448b345bc9a359199cb293e95cdc06adcb83531566ba1bab94ac",
+"bytes": 110876,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/rieju-aventura-500-2024-ficha-tecnica-precio-1.webp",
+"modelo": "rieju-aventura-500-2024-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "6b5c19ecc15957897cd58e7a81aa79c5fbd4f646d06d55cd3859e57cbd1f71c4",
+"bytes": 281560,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/rieju-aventura-rally-307-2026-ficha-tecnica-precio-1.webp",
+"modelo": "rieju-aventura-rally-307-2026-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "c1c12d6694338a6fd3a2588e57b21ef4f1749fb511eb4c5e4f433bbb59ef1e2a",
+"bytes": 249072,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/royal-enfield-classic-650-2026-ficha-tecnica-precio-hero.webp",
+"modelo": "royal-enfield-classic-650-2026-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "72536bddb95ed4e4418667566ebd366ef27b54200595a498ce027aea1b50a47d",
+"bytes": 188516,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/royal-enfield-continental-gt-650-2024-ficha-tecnica-precio.webp",
+"modelo": "royal-enfield-continental-gt-650-2024-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "b31fc67d712deb980a0181f7601ae1d9fec2686195f6d697fafd86395c947939",
+"bytes": 308394,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/royal-enfield-continental-gt-650-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "royal-enfield-continental-gt-650-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "b1ead80185db0c561723f9bc7da99f815551b1dd1749b8a43363dc5561427639",
+"bytes": 175684,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/royal-enfield-himalayan-450-2025-ficha-tecnica-precio-1.webp",
+"modelo": "royal-enfield-himalayan-450-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "fd704a3a03721fe8ca12895cffb84ee90596005247837231537b5b93f0509697",
+"bytes": 664146,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/royal-enfield-himalayan-450-2026-ficha-tecnica-precio-hero.webp",
+"modelo": "royal-enfield-himalayan-450-2026-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "05dd8faf0827453faa6db68fbb2d5c624b667c2468ea665348215f50de4294f6",
+"bytes": 174332,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/royal-enfield-himalayan-750-2027-ficha-tecnica-precio-hero.webp",
+"modelo": "royal-enfield-himalayan-750-2027-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "e50c270468415d30290197318c4a05fc3efb10f3590a8668b1bf0e4a31f1a3ac",
+"bytes": 166720,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/royal-enfield-interceptor-650-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "royal-enfield-interceptor-650-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "0653685388b60fe0396fcfc2bd45e33ee08150cb93587f0963a89322add73a37",
+"bytes": 190918,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/royal-enfield-super-meteor-650-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "royal-enfield-super-meteor-650-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "45a3f1c444cb0e3aa2abbc8e0181c444c9b1a4ab09f028f2be78bf6a06d2e549",
+"bytes": 194680,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/segway-e110s-2026-ficha-tecnica-precio-oficial.webp",
+"modelo": "segway-e110s-2026-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "409eb4b1c8278b98821e12e630616c0e7c81612bfa7bf186d599e364bceb04f2",
+"bytes": 105188,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/sunra-cargoo-49e-2025-ficha-tecnica-precio-oficial.webp",
+"modelo": "sunra-cargoo-49e-2025-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "6ced299dfb397d146f6835c33430345179adcf9c01f44fec69bee108c2b33a5c",
+"bytes": 43550,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/sunra-miku-max-2026-ficha-tecnica-precio-oficial.webp",
+"modelo": "sunra-miku-max-2026-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "21317c390b30b137e6a8a6f79e3c1159a583d775301a69e7a1c1373bba2bb32b",
+"bytes": 66070,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/super-soco-tc50-2025-ficha-tecnica-precio-oficial.webp",
+"modelo": "super-soco-tc50-2025-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "6c20c4e3df461057fc61e8753d77420fdb7740adeb9cce31da1a17bd48e09c46",
+"bytes": 73614,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/suzuki-burgman-400-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "suzuki-burgman-400-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "74d70496836dc53ef2d711c04597b8d8dac36893b41261279175f1059cdce589",
+"bytes": 196344,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/triumph-scrambler-900-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "triumph-scrambler-900-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "3466df20af932ceba171b6642ce547bf582801976ce89a5e6b2a37e435c95394",
+"bytes": 199494,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/triumph-speed-400-2026-ficha-tecnica-precio-oficial.webp",
+"modelo": "triumph-speed-400-2026-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "e1fa41a26fddfa191376984679f1a22c79cd5f7e43f3709ceef3561bea94a144",
+"bytes": 413156,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/triumph-street-triple-765-2025-ficha-tecnica-precio-hero.webp",
+"modelo": "triumph-street-triple-765-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "59781fce30a10d9c41384ca2fb11ee3e3f4330a78afbfd80ca0cabb857562064",
+"bytes": 170082,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/trs-one-r-250-2025-ficha-tecnica-precio-1.webp",
+"modelo": "trs-one-r-250-2025-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "d6b9bb141723f944d9fd2e88ba42557dadf810fec9c6c492cc1131bdd2cb4c59",
+"bytes": 727500,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/trs-one-r-electric-start-300-2025-ficha-tecnica-precio-1.webp",
+"modelo": "trs-one-r-electric-start-300-2025-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "2ddcb3babbc2cd6864af73e176bc2c91a37bd1ff33d8fb9a905e04117cdc9802",
+"bytes": 800940,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/trs-xtrack-250-2025-ficha-tecnica-precio-1.webp",
+"modelo": "trs-xtrack-250-2025-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "36a3ce24eb11f939b7c04b9591efc2e5b4f26487e9cc871aeb8fd993de546a85",
+"bytes": 716616,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/urbet-riazor-2025-ficha-tecnica-precio-oficial.webp",
+"modelo": "urbet-riazor-2025-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "0bb566f9f19d11ad6c400bd46229280ce7f230b988a086ae3c1d68cd03c98a75",
+"bytes": 32508,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/velca-calima-50-2025-ficha-tecnica-precio-oficial.webp",
+"modelo": "velca-calima-50-2025-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "0065669a870930dda884f3bbfce6451661d8ec819f032bd7237432ba830b2be0",
+"bytes": 34286,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/verge-ts-pro-2026-ficha-tecnica-precio-1.webp",
+"modelo": "verge-ts-pro-2026-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "04929e66073d2c8a460c55b363cdd78c5d1805ac39b50f7aa62f075a430ffc64",
+"bytes": 192320,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/vertigo-combat-camo-300-2025-ficha-tecnica-precio-1.webp",
+"modelo": "vertigo-combat-camo-300-2025-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "9324e706dc0d5915f5023a1f9e042e22fdd5c17ed17aae30e402b33602b92a07",
+"bytes": 735700,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/vertigo-nitro-dl12-300-2026-ficha-tecnica-precio-1.webp",
+"modelo": "vertigo-nitro-dl12-300-2026-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "ab5f830d4713b8c39507d3ec8db4df1b4dc4af734f03d8550f0c4f30ea6063f6",
+"bytes": 779814,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/vertigo-nitro-rs3-250-2026-ficha-tecnica-precio-1.webp",
+"modelo": "vertigo-nitro-rs3-250-2026-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "45215c2f11a08944e8685b5fabd54a7da1da27ec112055b1a30ebeda5f7250c4",
+"bytes": 760928,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/vertigo-nitro-rs3-300-2026-ficha-tecnica-precio-1.webp",
+"modelo": "vertigo-nitro-rs3-300-2026-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "44e5d0661c2f022cdaf6077ff3b48c5ed589f6cd5c9f9b6bf61f3b099c6da492",
+"bytes": 696896,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/vespa-gts-310-2025-ficha-tecnica-precio-1.webp",
+"modelo": "vespa-gts-310-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "715556c6086ebc6fd0b839f62ee22d7a68429f977e44b1aba65f8a21d1f841db",
+"bytes": 121906,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/voge-125rs-2026-ficha-tecnica-precio-1.webp",
+"modelo": "voge-125rs-2026-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "3dfd6a3f7e4583be1fef88f0ea2b3fe1dfaf77dd1389290a51fd170a23fd3661",
+"bytes": 177914,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/voge-300rr-2025-ficha-tecnica-precio-1.webp",
+"modelo": "voge-300rr-2025-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "d4ab9f6308839de0b0dfd98f627bf49f0022616e2b56b3225265b3438af74744",
+"bytes": 107618,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/voge-rr500s-2026-ficha-tecnica-precio-1.webp",
+"modelo": "voge-rr500s-2026-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "d4e36a0cd4f664cec406c1f8e4c5fa7b7763e51558174a9b4f83256065654f12",
+"bytes": 175908,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/voge-sr450x-2026-ficha-tecnica-precio-1.webp",
+"modelo": "voge-sr450x-2026-ficha-tecnica-precio",
+"prueba": "registro-blog",
+"sha256": "0f8afb8a0f445d0ccf5a710e7465352c36d5e3e2827dc6ed8acaefbcbae434ac",
+"bytes": 135110,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motos/zero-ls3-2027-ficha-tecnica-precio-hero.webp",
+"modelo": "zero-ls3-2027-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "7f2324b7f65a691b5fd9a66b86f5e5a8b50f39f4413b31752d387e048dca985a",
+"bytes": 147452,
+"donde": "public/media"
+},
+{
+"ruta": "/media/motron-ventura-125-2025-ficha-tecnica-precio-1.webp",
+"modelo": "motron-ventura-125-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "4f56eed469ebeb8067a06370e7f73cf9536c7e410f3ae2a6d6d82d5e3ae11e3b",
+"bytes": 421246,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multa-carnet-caducado-200-euros-hero.jpg",
+"modelo": "multa-carnet-caducado-200-euros",
+"prueba": "primera-imagen-articulo",
+"sha256": "4e9d4493676749ea042ae36a5128362d01566ae42094b481967851dcaabe5835",
+"bytes": 317807,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multa-conducir-sin-seguro-hero.jpg",
+"modelo": "multa-conducir-sin-seguro",
+"prueba": "primera-imagen-articulo",
+"sha256": "fd691d0bf71ca9251631cef01921f89880bcd2182e967c144608555f0d9f1b00",
+"bytes": 116119,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multa-drogas-al-volante-hero.jpg",
+"modelo": "multa-drogas-al-volante",
+"prueba": "primera-imagen-articulo",
+"sha256": "c9875aa23860c817ff16abcc36c19354d67d5258cf321f01b3d100d1fb4cd5a0",
+"bytes": 656084,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multa-dron-dgt-que-infracciones-cazan-hero.jpg",
+"modelo": "multa-dron-dgt-que-infracciones-cazan",
+"prueba": "primera-imagen-articulo",
+"sha256": "44b0f0438fee9fbcec0350a84037c2bdff4b706b118cadd105c74f82decfe7ba",
+"bytes": 91360,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multa-fantasma-testra-dgt-que-hacer-hero.jpg",
+"modelo": "multa-fantasma-testra-dgt-que-hacer",
+"prueba": "primera-imagen-articulo",
+"sha256": "10ca95f14943bdf9e494e4c51500a5301d2947d9f3991610a3c4aa98028c079d",
+"bytes": 336171,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multa-itv-caducada-200-500-euros-recurrir-hero.jpg",
+"modelo": "multa-itv-caducada-200-500-euros-recurrir",
+"prueba": "primera-imagen-articulo",
+"sha256": "2a65970d6427b33edf8509681532277dd9d502532351753272bd97ab19352d85",
+"bytes": 393107,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multa-no-ceder-paso-glorieta-200-euros-4-punto-hero.jpg",
+"modelo": "multa-no-ceder-paso-glorieta-200-euros-4-puntos",
+"prueba": "primera-imagen-articulo",
+"sha256": "bd7ea4396d88a75491e8751777280a8f8f0a5ba5201c119eb12f32d045973cfb",
+"bytes": 469908,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multa-patinete-octubre-2026-que-hacer-como-rec-hero.jpg",
+"modelo": "multa-patinete-octubre-2026-que-hacer-como-recurrir",
+"prueba": "primera-imagen-articulo",
+"sha256": "2c87089c7a15701faa2ca1730587bacc5a53426071d261d290c418cb48944f87",
+"bytes": 526175,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multa-patinete-sin-registro-1220-euros-hero.jpg",
+"modelo": "multa-patinete-sin-registro-1220-euros",
+"prueba": "primera-imagen-articulo",
+"sha256": "c301f8ff3cf4180c524377ce61c4c8771d36c97a2f508f601977bfdd58572603",
+"bytes": 726707,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multa-saltarse-stop.webp",
+"modelo": "multa-saltarse-stop",
+"prueba": "registro-blog",
+"sha256": "555e2dda507101ac7071dc149841f0042c44aacaf832a2fcda027c43bc753427",
+"bytes": 80570,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multa-tirar-colilla-coche-500-euros-6-puntos-hero.jpg",
+"modelo": "multa-tirar-colilla-coche-500-euros-6-puntos",
+"prueba": "primera-imagen-articulo",
+"sha256": "d9c383384796a1dc04e32ca9fc7bc86829d6bb95dcd8514a1f91424b600a95eb",
+"bytes": 742664,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multas-a-patinetes-electricos-vmp-en-espana-20-hero.jpg",
+"modelo": "multas-a-patinetes-electricos-vmp-en-espana-2027-millones-en-recaudacion-normativa-de-seguros-preguntas-callejeras-y-como-recurrir",
+"prueba": "primera-imagen-articulo",
+"sha256": "0ea82b5f5fea13ffdc3bb6343ef9fa6e8682dd09b59f7c8fce2f2dccb55ff1f8",
+"bytes": 533180,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multas-absurdas-de-la-dgt-tabla-oficial-de-san-hero.jpg",
+"modelo": "multas-absurdas-de-la-dgt-tabla-oficial-de-sanciones-y-los-casos-mas-raros-que-te-costaran-puntos-y-dinero",
+"prueba": "primera-imagen-articulo",
+"sha256": "703d12407350a6251b07749013cb451da264338709fff52cb5e809f2ade24ad1",
+"bytes": 389669,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multas-de-aparcamiento-y-grua-en-madrid-como-r-hero.jpg",
+"modelo": "multas-de-aparcamiento-y-grua-en-madrid-como-recuperar-tu-coche-y-recurrir-la-sancion-con-exito",
+"prueba": "primera-imagen-articulo",
+"sha256": "3e40d27ac4f64a1137687143d0b8d30f1ce0e77b23d699bf8e9efdc00bd91489",
+"bytes": 494044,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multas-de-trafico-en-barcelona-y-la-zbe-como-r-hero.jpg",
+"modelo": "multas-de-trafico-en-barcelona-y-la-zbe-como-recurrir-sanciones-de-la-dgt-y-el-ayuntamiento-al-instante",
+"prueba": "primera-imagen-articulo",
+"sha256": "820628443abb08030de3d0f49bca1a79a40c6a1a61f65155badfbaa26b15b8cb",
+"bytes": 341855,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multas-de-trafico-en-el-extranjero-francia-por-hero.jpg",
+"modelo": "multas-de-trafico-en-el-extranjero-francia-portugal-italia-alemania-como-recurrir-multa-radar-extranjero-en-espana-conductor-extranjero-multado-en-espana-dgt-anular-multa-ztl-italia-antai-francia-convenio-intercambio-datos-trafico-union-europea",
+"prueba": "primera-imagen-articulo",
+"sha256": "6c1908a5fac1ba6adbb330f50a0737aa6a6743ae576cfa093160a6dbdf90ba7b",
+"bytes": 650245,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multas-dgt-hero.jpg",
+"modelo": "multas-dgt",
+"prueba": "primera-imagen-articulo",
+"sha256": "facbd183814ed8281bcbbc71a543ef57710ff4106a2e48592ec789c43ce57807",
+"bytes": 411411,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multas-en-la-m-30-y-madrid-central-como-evitar-hero.jpg",
+"modelo": "multas-en-la-m-30-y-madrid-central-como-evitar-sanciones-y-recurrirlas-si-te-desplazas-por-la-capital",
+"prueba": "primera-imagen-articulo",
+"sha256": "91a6f577dcd134c507223cbcf6b9869492e0496eb9d503853889eb086076ceaf",
+"bytes": 492402,
+"donde": "public/media"
+},
+{
+"ruta": "/media/multas-pernoctar-autocaravana-2026-como-recurr-hero.jpg",
+"modelo": "multas-pernoctar-autocaravana-2026-como-recurrir",
+"prueba": "primera-imagen-articulo",
+"sha256": "eb59f479b575cffbb22926392436d3dd03d5d0e4bc56585e652e0b2445517fca",
+"bytes": 614184,
+"donde": "public/media"
+},
+{
+"ruta": "/media/neta-l-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "neta-l-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "db10d2dafbc7fdaf93b72f7b862f94b2eed54cc6f3de0aba8e5d832d3fe3e273",
+"bytes": 286226,
+"donde": "public/media"
+},
+{
+"ruta": "/media/neta-s-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "neta-s-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "9596d2f1d88b371b42c2e90200d78f367cdf7ea5629cd8623359f446d0b11c20",
+"bytes": 252872,
+"donde": "public/media"
+},
+{
+"ruta": "/media/neta-s-shooting-brake-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "neta-s-shooting-brake-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "b8216c96fd08acfc80dcae3c517b009e966fa160a882f76ba93f38ebb62f0726",
+"bytes": 291544,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nevo-a05-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "nevo-a05-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "72b7a71a326e181034286b2e0c89f52f2c0cbe12900025736c858a8d254f2730",
+"bytes": 296410,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nevo-a07-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "nevo-a07-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "504bdf70783e0759f60ab1cf80c91f4d2742f5f3cb163e47a0de7dd38f9bfd37",
+"bytes": 279704,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nevo-e07-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "nevo-e07-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "b35c6cb8eedb6ec300a9ba9baf913e93c6919b24f1c8bad7632d8db67474f414",
+"bytes": 277118,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nevo-q06-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "nevo-q06-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "f604214a1d93bc38b9bc47117192f5f68e12e796aaeb374171fb14804f212c7c",
+"bytes": 295148,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nieve-prohibido-adelantar-octubre-hero.jpg",
+"modelo": "nieve-prohibido-adelantar-octubre",
+"prueba": "primera-imagen-articulo",
+"sha256": "b979706a038f8f9c1b4f8a0fcc9b03fc6e33410d266fc43f081bc96409e912ec",
+"bytes": 228855,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nio-ec7-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "nio-ec7-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "4c543bc948207c19e8ec06cab2ad30e9dad8054ec5ab4c1fc448b87a1eddab9f",
+"bytes": 122986,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nio-el7-2024-precio-ficha-tecnica-hero.webp",
+"modelo": "nio-el7-2024-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "edeea7190e5ad4ff3dff37c6207997e309293c9af01c3fefa656bfd5ebabf4c0",
+"bytes": 223196,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nio-es8-2025-entrega-commons.webp",
+"modelo": "nio-es8-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "18104c6bd0915dd3252aa27eaf9f55a50c7910c97fc232024a4ea3f2065faf2f",
+"bytes": 167696,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nio-et5-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "nio-et5-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "efa6a62b82c4104c7c157ce52f3b9d5597540d04737fa73d2d9191204674a877",
+"bytes": 112810,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nio-et5-touring-commons.webp",
+"modelo": "nio-et5-touring-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "880eaf863f29fe920a7d6b4110b9fabca188e802b8beef0c9ef95b15e7bae074",
+"bytes": 155822,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nissan-ariya-commons.webp",
+"modelo": "nissan-ariya-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "d563491875728812b21adef5462bbd42b26aa23a2878dd75e16abb11159b8530",
+"bytes": 273660,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nissan-qashqai-baja-precio-octubre-2026-hero.webp",
+"modelo": "nissan-qashqai-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "ba99b65011a5897cfb11bb00d207b439d3d8952eb611a7c79f4ddf04a0f5da84",
+"bytes": 387978,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nissan-qashqai-epower-commons.webp",
+"modelo": "nissan-qashqai-e-power-190-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "46fe1aa4599a669a7f6c8746cc73234d1f15e11512cfe94f163e69bf8a66039a",
+"bytes": 249132,
+"donde": "public/media"
+},
+{
+"ruta": "/media/niu-kqi1-pro-hero.jpg",
+"modelo": "niu-kqi1-pro",
+"prueba": "primera-imagen-articulo",
+"sha256": "0946033a2fe3461e1f0d51acdc185bd4de7ec7a245833f680d018c005b67cc3e",
+"bytes": 100321,
+"donde": "public/media"
+},
+{
+"ruta": "/media/noble-m500-2025-precio-ficha-tecnica-oficial.webp",
+"modelo": "noble-m500-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "c92f911ee9437777b19aca012a6ff0e74f71088111c0a652d710e5a1e8d73945",
+"bytes": 63898,
+"donde": "public/media"
+},
+{
+"ruta": "/media/normas-de-trafico-mas-raras-y-estrictas-en-eur-hero.jpg",
+"modelo": "normas-de-trafico-mas-raras-y-estrictas-en-europa-delito-penal-en-francia-prohibicion-del-movil-en-semaforos-y-multas-absurdas-al-volante",
+"prueba": "primera-imagen-articulo",
+"sha256": "df899bbcbcef60e1eddfad039df63a75a134054112e49169df73cd0c6ae050d6",
+"bytes": 419908,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nuevas-marcas-viales-en-forma-de-circulo-que-s-hero.jpg",
+"modelo": "nuevas-marcas-viales-en-forma-de-circulo-que-significan-multan-y-como-afectan-a-las-curvas-en-espana",
+"prueba": "primera-imagen-articulo",
+"sha256": "e8fe701310d70cc0f095acf5c1ca725d5660af14d83fe401721f8e035fe072be",
+"bytes": 343880,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nuevo-hyundai-tucson-2027-hero.webp",
+"modelo": "nuevo-hyundai-tucson-2027-presentacion-precio-ficha-tecnica",
+"prueba": "registro-blog",
+"sha256": "e65fdc4950557e99c31e9580d2641fbdbd270b9c38043e706f97983e1259946c",
+"bytes": 196694,
+"donde": "public/media"
+},
+{
+"ruta": "/media/nuevo-radar-fijo-a67-torrelavega-hero.webp",
+"modelo": "nuevo-radar-fijo-a67-torrelavega",
+"prueba": "registro-blog",
+"sha256": "528fecdefda00685bc4a7b20021158ac3f4a42ab81024d729d40140db514dae8",
+"bytes": 272234,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ofensiva-china-salon-paris-2026-20-marcas-hero.jpg",
+"modelo": "ofensiva-china-salon-paris-2026-20-marcas",
+"prueba": "primera-imagen-articulo",
+"sha256": "172f091dce22df9d220279e967d2b376f6be7a30ab12e249d2d0de7ab0b20a39",
+"bytes": 216283,
+"donde": "public/media"
+},
+{
+"ruta": "/media/omoda-5-ev-2027-renovacion-precio-autonomia-hero.webp",
+"modelo": "omoda-5-ev-2027-renovacion-precio-autonomia",
+"prueba": "primera-imagen-articulo",
+"sha256": "33f35c37e14daff747bd0ae1bfe07d04e56cf26645d502ffd61ce026f0201cf3",
+"bytes": 16768,
+"donde": "public/media"
+},
+{
+"ruta": "/media/omoda-9-shs-black-edition-200-unidades-precio-hero.webp",
+"modelo": "omoda-9-shs-black-edition-200-unidades-precio",
+"prueba": "primera-imagen-articulo",
+"sha256": "ad72591342fa14ed98e6da85dd41ebb6214b060bbcd61a0564a362d39ad4bff5",
+"bytes": 39734,
+"donde": "public/media"
+},
+{
+"ruta": "/media/onvo-l60-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "onvo-l60-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "9596aec66e3116ff7957fa5b440f4e3b4291eb257d174a27695efa6b5465fc48",
+"bytes": 16632,
+"donde": "public/media"
+},
+{
+"ruta": "/media/onvo-l80-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "onvo-l80-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "e69972c7906754a2ad899629ff989a2f9d7f2128a4fac3409bc5726b33ea6bee",
+"bytes": 211888,
+"donde": "public/media"
+},
+{
+"ruta": "/media/onvo-l90-nio-suv-familiar.webp",
+"modelo": "onvo-l90-nio-2026-precio-ficha-tecnica",
+"prueba": "registro-blog",
+"sha256": "a4cd4c075936d7971e31caf2cdc1aae79af91b5ec5bc03258ed129d4f0b4ded9",
+"bytes": 375562,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-astra-electrico-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "opel-astra-electrico-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "0f31b795e900a79d21b0806d90bfcbb2c8655a762bdb339060d527080b2c7e2d",
+"bytes": 298540,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-astra-hibrido-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "opel-astra-hibrido-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "f263b0fb2df38173ca405ba5914638b48764f5032da07abbabce828ebb9de9e5",
+"bytes": 266230,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-astra-sports-tourer-electrico-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "opel-astra-sports-tourer-electrico-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "6fd968a0e3e0dc4027fc66f3e16fb2d6391f4420a4db8d884d4c1d6c21d97561",
+"bytes": 320034,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-astra-sports-tourer-hibrido-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "opel-astra-sports-tourer-hibrido-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "ffe409868c8e6f9ae4e2ea8d4b859d06b37e12d333d4ec88505c2b2f5e59444e",
+"bytes": 205166,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-corsa-electrico-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "opel-corsa-electrico-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "89e9967513feb4837aece96391a629be74915bfd0f35a8c4a60dfbdec3bdcc5c",
+"bytes": 158194,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-corsa-hibrido-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "opel-corsa-hibrido-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "74e6c8ec2ad853236fa80a3fdff87a7c43a781675a8b4ded919de0afb23045e1",
+"bytes": 288326,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-frontera-electric-baja-precio-octubre-2026-hero.webp",
+"modelo": "opel-frontera-electric-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "547f5158c566b35fff6c31967cb8c107b0a26a26d824e0e4f1a640b31018d210",
+"bytes": 186770,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-frontera-electrico-54kwh-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "opel-frontera-electrico-54kwh-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "8da2a06f7530a46d9fc95be52dfb9bda4298cf27a7275a0a67a6b88ea4278695",
+"bytes": 196692,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-grandland-b-commons.webp",
+"modelo": "opel-grandland-12-turbo-130-2024-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "26bf9efac8f1b5086559b529f1cbb0323b5205f8d2ef9491ee7817e9be9d1a25",
+"bytes": 208032,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-grandland-electrico-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "opel-grandland-electrico-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "80da3f05f9a4a3df00e32cd33a915777d128ff49cb80e520be54ac493bb7b3be",
+"bytes": 285666,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-grandland-electrico-awd-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "opel-grandland-electrico-awd-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "8290fc41f4ab3c645b8c3cca873e2d70d7279804c557d3febbec9d16b053469c",
+"bytes": 260388,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-grandland-electrico-long-range-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "opel-grandland-electrico-long-range-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "9d7750bc41ea0f13c9be3088c40807dbe92dc750f9e1c47c68058f8dcc94c1c7",
+"bytes": 368206,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-grandland-hibrido-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "opel-grandland-hibrido-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "eeeb6567b973152b09895f9baca4e10710ea5cfc9ffc2977af8daff3846359b2",
+"bytes": 329914,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-grandland-hibrido-enchufable-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "opel-grandland-hibrido-enchufable-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "87258eb5e8bf6d6f924c63fc10536d53f0eba18c43d8108423a292aaa332cc5e",
+"bytes": 321920,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-mokka-electrico-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "opel-mokka-electrico-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "470237670bb3931150f590aeb78b94fb1b880e1978933c7de6c9b8c98f5c2bd3",
+"bytes": 275762,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "opel-vivaro-20-diesel-180-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "c5622b9eeca6e7fb74f13909b0de896803e0fdf82b1bc760a931d44c54b8bcf0",
+"bytes": 301378,
+"donde": "public/media"
+},
+{
+"ruta": "/media/opel-vivaro-electrico-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "opel-vivaro-electrico-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "399c5ec5b963ed765e2c96e375a5e47986676762ce7026c15b51d43adf6db063",
+"bytes": 224602,
+"donde": "public/media"
+},
+{
+"ruta": "/media/operativo-dgt-puente-pilar-2026-57-millones-hero.jpg",
+"modelo": "operativo-dgt-puente-pilar-2026-57-millones",
+"prueba": "primera-imagen-articulo",
+"sha256": "349d690d12ccdc7c243656390a47c7fe477cbc224fa58b42287df5641486a530",
+"bytes": 304624,
+"donde": "public/media"
+},
+{
+"ruta": "/media/pagar-multa-con-descuento-y-recurrir-hero.jpg",
+"modelo": "pagar-multa-con-descuento-y-recurrir",
+"prueba": "primera-imagen-articulo",
+"sha256": "fbaf94b039f9e6f13b9eedda0a72d4353bdcfc7384fa7f3b69fb4a52c2620406",
+"bytes": 754143,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinete-electrico-normativa-dgt-2026-multas-hero.jpg",
+"modelo": "patinete-electrico-normativa-dgt-2026-multas",
+"prueba": "primera-imagen-articulo",
+"sha256": "3c806fb402166391017fdcf5ac2e861ddacc837cbe4cd17586c1f410629b457e",
+"bytes": 771522,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes-15-anos-casco-obligatorio-hero.jpg",
+"modelo": "patinetes-15-anos-casco-obligatorio",
+"prueba": "primera-imagen-articulo",
+"sha256": "8063570ed8dddc49176dfa3ac3cf417312f5c03e2bb46fefd79ae91e56570f8c",
+"bytes": 405050,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/ducati-pro-ii-evo-advanced-safety.webp",
+"modelo": "ducati-pro-ii-evo-advanced-safety",
+"prueba": "campo-foto",
+"sha256": "171e670ea0423564ab8e781f3f50eaf302841d681213ce0466292382b9d3c8ab",
+"bytes": 9328,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/ducati-pro-ii-evo.webp",
+"modelo": "ducati-pro-ii-evo",
+"prueba": "campo-foto",
+"sha256": "797e862318524f460936e7f2fc8f4fa062014ee3aead07e5b04c9090dc6cf5fb",
+"bytes": 14676,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/gotrax-g-pro-1.webp",
+"modelo": "gotrax-g-pro",
+"prueba": "primera-imagen-articulo",
+"sha256": "ac006bc639309e69bd290ff6fb201dcd95a82432c715e7a7d13f37fca43c4153",
+"bytes": 105682,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/hiboy-ks4-pro.webp",
+"modelo": "hiboy-ks4-pro",
+"prueba": "campo-foto",
+"sha256": "9dd3aeb63c6eeb7862eebb6fed438c5318ba054ef58d86599aef0f6951dc1465",
+"bytes": 19964,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/hiboy-max3.webp",
+"modelo": "hiboy-max3",
+"prueba": "campo-foto",
+"sha256": "8018ec89d868197b1a2af9e44921451ee43820521c6a635da5161a6eab7cff26",
+"bytes": 9332,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/ienyrid-es60.webp",
+"modelo": "ienyrid-es60",
+"prueba": "campo-foto",
+"sha256": "e9e590ad10b60b384d4980b9990ecf3e880507fb1341d124389ca8cce34abc5a",
+"bytes": 14678,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/ienyrid-m4-pro-s-plus-max.webp",
+"modelo": "ienyrid-m4-pro-s-plus-max",
+"prueba": "campo-foto",
+"sha256": "addd742fec5389838aa6e66c50de8b6e9e299c03792963eaf3461c0dc1d90e2d",
+"bytes": 17756,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/ienyrid-m4-pro-s-plus.webp",
+"modelo": "ienyrid-m4-pro-s-plus",
+"prueba": "campo-foto",
+"sha256": "cc5518dea89abe2dfa41541a1df52a0dce753b1c53f1fb9018aec988b42e77a9",
+"bytes": 17310,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/iscooter-dx5.webp",
+"modelo": "iscooter-dx5",
+"prueba": "campo-foto",
+"sha256": "2bb717b1783d92f498bfef418e26508fdf3757cc8532ec6a3c0d7263356fb881",
+"bytes": 58468,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/jeep-2xe-urban-camou.webp",
+"modelo": "jeep-2xe-urban-camou",
+"prueba": "campo-foto",
+"sha256": "20dbd4f934e39ac1d29da03368459a7dae66b82973f52082cfb1d23adc2b7ff0",
+"bytes": 26876,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/jeep-jad-advanced-safety.webp",
+"modelo": "jeep-jad-advanced-safety",
+"prueba": "campo-foto",
+"sha256": "2d754220f397586aa6e36bce83204fc03ef2d93bf2bbacd974d65fc5f5bef7f5",
+"bytes": 19878,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/joyor-a5.webp",
+"modelo": "joyor-a5",
+"prueba": "campo-foto",
+"sha256": "a6a9f825ed04e4803aeadf7c2f0111097d507eaaa7ad60371514f3caebb802df",
+"bytes": 9366,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/joyor-g3.webp",
+"modelo": "joyor-g3",
+"prueba": "campo-foto",
+"sha256": "61a6d688ea0b358c51c692c45cb69b3fa43ec12d43dcacf7dd111246af0c987d",
+"bytes": 23386,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/kaabo-skywalker-10c.webp",
+"modelo": "kaabo-skywalker-10c",
+"prueba": "campo-foto",
+"sha256": "91ec0ad55ee79cd7f11e174d0c741cac36a0860587cd9692832737231d00da7e",
+"bytes": 20436,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/lamborghini-al1.webp",
+"modelo": "lamborghini-al1",
+"prueba": "campo-foto",
+"sha256": "6cfbac9f55984d200d9cbf2113650d4a33ac4f47bd785cf82479f7171242b7b5",
+"bytes": 13896,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/navee-st5-max.webp",
+"modelo": "navee-st5-max",
+"prueba": "campo-foto",
+"sha256": "df43b81d939d630d531eb48126b08ba447ce696e2db02bc4a34079a9c510e18c",
+"bytes": 24116,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/navee-ut5-max.webp",
+"modelo": "navee-ut5-max",
+"prueba": "campo-foto",
+"sha256": "770045cea4ad9e4831f8adfeb9eb9ff33d1878b685a78784f71a1efdd831b4f7",
+"bytes": 23062,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/niu-kqi-air-x.webp",
+"modelo": "niu-kqi-air-x",
+"prueba": "campo-foto",
+"sha256": "5b13c31104b68a3a64bbdbe8a0bd0e54b2b5131707da5d175a9475cf65de0336",
+"bytes": 56362,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/segway-f65.webp",
+"modelo": "segway-f65",
+"prueba": "campo-foto",
+"sha256": "35e28106c56970fd9980690b4fb20741afb705479f6d2b0cf72f2c34db25bcf7",
+"bytes": 19418,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/segway-gt1e.webp",
+"modelo": "segway-gt1e",
+"prueba": "campo-foto",
+"sha256": "739e7fce5d4fb74f427f1d739a2abd349881845f5083896275a14d9b6103a69c",
+"bytes": 21156,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/smartgyro-rockway-gt-1.webp",
+"modelo": "smartgyro-rockway-gt",
+"prueba": "campo-foto",
+"sha256": "269d1a309e14b6921ca1bfcc30cae7bee5ef5e600c13350cf677195ce286d634",
+"bytes": 28406,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/smartgyro-rockway-gt-dual-1.webp",
+"modelo": "smartgyro-rockway-gt-dual",
+"prueba": "campo-foto",
+"sha256": "5b9e9e68ab679108b348425de62eba9852a8f0c77d9965ebc7f728ed6395c2d2",
+"bytes": 35638,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/sxt-beast-pro.webp",
+"modelo": "sxt-beast-pro",
+"prueba": "campo-foto",
+"sha256": "5640f31eac25c351397a8c5a2268efcd3cb45735fb943f7a5ddc9e192128216f",
+"bytes": 35744,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/sxt-h20-ekfv.webp",
+"modelo": "sxt-h20-ekfv",
+"prueba": "campo-foto",
+"sha256": "918b0fdfe2b73e68ca94fe53359fc4ae94859ecb1e9fc68cd1d075663cc85c06",
+"bytes": 14086,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/sxt-light-gt.webp",
+"modelo": "sxt-light-gt",
+"prueba": "campo-foto",
+"sha256": "68e82b735b914f6c603998a31d5d82bc36e5bafe1d8bcaeef32965417b24ec20",
+"bytes": 49954,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/teverun-blade-q-1.webp",
+"modelo": "teverun-blade-q",
+"prueba": "campo-foto",
+"sha256": "0f3bbff0c7e3159feb1a08135879f2788b2234e620994a1348f64bb4a6f1c20e",
+"bytes": 29942,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/velocifero-vlf-mad-1000w.webp",
+"modelo": "velocifero-vlf-mad-1000w",
+"prueba": "campo-foto",
+"sha256": "24afa6e12db737df359a233c7c15587d1eafe07260ccd192c6325ca3df67ae32",
+"bytes": 74594,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/vsett-10-plus-r-1.webp",
+"modelo": "vsett-10-plus-r",
+"prueba": "campo-foto",
+"sha256": "dfb150ed288d048afc9682194718818fa53d57ffad5fba44bbd3328008be9f8e",
+"bytes": 110042,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/vsett-11-plus-super-72-1.webp",
+"modelo": "vsett-11-plus-super-72",
+"prueba": "campo-foto",
+"sha256": "5946570d1ce0043f9bcf01e9bfe6cdfe2c2cb9f7bd66d21d53ac5777eae1f167",
+"bytes": 34570,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/yadea-elite-prime.webp",
+"modelo": "yadea-elite-prime",
+"prueba": "campo-foto",
+"sha256": "21223c88d53eb37c73f882ab59ebf08c19674eaa7efee2a5e258c47f0c2715da",
+"bytes": 10104,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/zero-11x.webp",
+"modelo": "zero-11x",
+"prueba": "campo-foto",
+"sha256": "3e8a30b0b911fac5f660bd31217a53b6f95508c5260b457a7a9fa4864b7a1901",
+"bytes": 17046,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/zero-9-1.webp",
+"modelo": "zero-9",
+"prueba": "primera-imagen-articulo",
+"sha256": "725fd6e83d0c7ffab1c111e506e6b4ae2f4ff40f906fbb13aa916beef39b3e37",
+"bytes": 135352,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/zwheel-zlion-pro.webp",
+"modelo": "zwheel-zlion-pro",
+"prueba": "campo-foto",
+"sha256": "c58f1071898c79e3cc4702bb89e80ddd612a626260a1d0eb6bb847b68d5114a9",
+"bytes": 21988,
+"donde": "public/media"
+},
+{
+"ruta": "/media/patinetes/zwheel-zrino-se.webp",
+"modelo": "zwheel-zrino-se",
+"prueba": "campo-foto",
+"sha256": "dbd6d21c17ac0c83081b38858043aec3b625c83db14afcadab4555053c733545",
+"bytes": 48550,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-208-hibrido-110-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-208-hibrido-110-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "f58ad357975944ff52b0133c9f3855bd50a872373a00b194a2a2ec054fe7aaae",
+"bytes": 343118,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-3008-c-commons.webp",
+"modelo": "peugeot-e-3008-dual-motor-325-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "486dcefacee7a56bab6462bfe3ecc219a82a897ee3ceeb4411f0eadaa5a0998e",
+"bytes": 280898,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-3008-phev-195-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-3008-phev-195-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "7b711b653869ed89303d6cd26d779fabdf3fe08ac5a96946966f8d7666e78a17",
+"bytes": 331068,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-308-2025-entrega-commons.webp",
+"modelo": "peugeot-308-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "867d8bdd7851adb55f4010b9a905232dad369265dc4dc1bcd5e03afd0043991d",
+"bytes": 154946,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-308-phev-195-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-308-phev-195-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "792bc83908c482a9d57924b59952bea26aaf355af3e7353aa6a0ca0df6fd1aa1",
+"bytes": 181622,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-308-sw-phev-195-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-308-sw-phev-195-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "133d02380a4aa2eef78a5d7e42c4868602f908ec7bbc3319ac493848e3801765",
+"bytes": 267740,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-408-hibrido-145-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-408-hibrido-145-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "7f12a5164513804e73330e9979ab975132957544614a096c41044577058472d1",
+"bytes": 138538,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-408-phev-240-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-408-phev-240-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "73805d7da2a42f150063ed6de8cb4696b66dd0c2db4fc8c89e9e6780241080d5",
+"bytes": 569904,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-5008-c-commons.webp",
+"modelo": "peugeot-e-5008-320-dual-motor-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "548b5ff4324e86084be3e5b90d3607b42f50cd596aceecdf9a96e4ac9fb103cf",
+"bytes": 190320,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-5008-hibrido-145-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-5008-hibrido-145-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "abbdbbce6996cf83c1e5260c10da4b43e0c8652c384a9af7fb3fb170fc3b4023",
+"bytes": 277748,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-5008-phev-225-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-5008-phev-225-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "94718b1aff98234ae270d8b96c40676c4babd7e4631f1518c75db15308c9e669",
+"bytes": 370812,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-508-phev-225-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-508-phev-225-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "053aa1e830f298cd1d510f1bc737bd18216c13e8824da6137a0273589b5ca2fd",
+"bytes": 224526,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-508-sw-phev-225-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-508-sw-phev-225-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "443594023d23598fd69a2bc75b5ab71d2d6941547e709e449ef93f6d2849e2d0",
+"bytes": 292472,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-e-2008-electrico-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-e-2008-electrico-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "a8cdce2286aa673d437362661ee3865eb3fc556e8562b37ad555168dc32c1855",
+"bytes": 174152,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-e-208-electrico-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-e-208-electrico-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "643f7b2dbc3bbf4a632807e4e5bb7dd960d5053b10811a70800d61198e5dba33",
+"bytes": 156884,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-e-208-gti-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-e-208-gti-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "5015f1782a4780cc81b10d3a53a19a4cc53f9a0c91484c46862970a46fb90da3",
+"bytes": 225358,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-e-3008-electrico-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-e-3008-electrico-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "7b711b653869ed89303d6cd26d779fabdf3fe08ac5a96946966f8d7666e78a17",
+"bytes": 331068,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-e-3008-long-range-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-e-3008-long-range-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "06c03b5a5de11517001a20ec530855a180024c2db15bf76dea3600a5441b890b",
+"bytes": 596530,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "peugeot-e-308-electrico-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "26eba803b7b893ea9ec36888a654d8c6d0cafc2fa82e2627bd5474eabdbbd8a2",
+"bytes": 231872,
+"donde": "public/media"
+},
+{
+"ruta": "/media/peugeot-salon-paris-2026-stand-hero.webp",
+"modelo": "peugeot-salon-paris-2026-stand-dos-concepts",
+"prueba": "registro-blog",
+"sha256": "ccfdc18560a18eea90a211094578cced7a3585a07f7eee901ce990c6d22c59d1",
+"bytes": 176048,
+"donde": "public/media"
+},
+{
+"ruta": "/media/piaggio-medley-200-2026-ficha-tecnica-precio-1.webp",
+"modelo": "piaggio-medley-200-2026-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "a48df64a9a9ad04599246fe72362fd831500d81bc2e896679de95ead4b164a60",
+"bytes": 268498,
+"donde": "public/media"
+},
+{
+"ruta": "/media/pilote-p-696-gj-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "pilote-p-696-gj-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "909aeff40383c4abfec60316a19ba196af932f66f3ff6382c5e44ad14a15e5d1",
+"bytes": 222156,
+"donde": "public/media"
+},
+{
+"ruta": "/media/plan-auto-ayudas-autonomos-empresas-coche-elec-hero.jpg",
+"modelo": "plan-auto-ayudas-autonomos-empresas-coche-electrico",
+"prueba": "primera-imagen-articulo",
+"sha256": "ca723d9d4abe4800a894d25a64fdcf8543c2d2ce06f3b54de771c43c0e26cf5d",
+"bytes": 499785,
+"donde": "public/media"
+},
+{
+"ruta": "/media/plataforma-unica-prioridad-peaton-hero.jpg",
+"modelo": "plataforma-unica-prioridad-peaton",
+"prueba": "primera-imagen-articulo",
+"sha256": "aced2169161eb9aa306d0befc2b3e67eeec5b209bfceba7b2f68d3e7d1a14e08",
+"bytes": 859856,
+"donde": "public/media"
+},
+{
+"ruta": "/media/polestar-2-facelift-commons.webp",
+"modelo": "polestar-2-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "36e5619429c582e825cbdd12df9699d8e9f23dfd18b54de24845b59fc01bbf9a",
+"bytes": 201020,
+"donde": "public/media"
+},
+{
+"ruta": "/media/polestar-3-commons.webp",
+"modelo": "polestar-3-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "ec60e28aeb7a1984b75682277cae2398a504665d6726f9aeb29a94c62177f89c",
+"bytes": 356188,
+"donde": "public/media"
+},
+{
+"ruta": "/media/polestar-4-commons.webp",
+"modelo": "polestar-4-suv-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "27bac69a8c083c8b9c61c69c1f43f8fd233678be2cdf1389533883a883be1136",
+"bytes": 136086,
+"donde": "public/media"
+},
+{
+"ruta": "/media/polestar-5-commons.webp",
+"modelo": "polestar-5-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "d2b7ce0eeaf54316a74b610cd189b005c789704f10b0c5f8b92af782bdfac86b",
+"bytes": 103032,
+"donde": "public/media"
+},
+{
+"ruta": "/media/porsche-911-carrera-cabriolet-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "porsche-911-carrera-cabriolet-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "223ef29c2d687139b0dd2ad272f9e9ac1206100efb2e226fca42f29d534c23b4",
+"bytes": 259966,
+"donde": "public/media"
+},
+{
+"ruta": "/media/porsche-911-turbo-s-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "porsche-911-turbo-s-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "1754c4bb78c5363a4c60648a3b731651b05d824825827a5efc5968fe5bd1adc3",
+"bytes": 509418,
+"donde": "public/media"
+},
+{
+"ruta": "/media/porsche-cayenne-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "porsche-cayenne-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "251e2707a858687f3275787e9397256b9705e6ae1df0b99989956a149d8d95f4",
+"bytes": 228418,
+"donde": "public/media"
+},
+{
+"ruta": "/media/porsche-cayenne-gts-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "porsche-cayenne-gts-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "4889861619a639a75e0966dbaa6d00e366f81345cee0c674d3fce5b8ccf939cd",
+"bytes": 294534,
+"donde": "public/media"
+},
+{
+"ruta": "/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-commons.webp",
+"modelo": "porsche-macan-4-electric-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "11b6d7097d7871c01790d6e2eaf22380a751405ca3084871a1631c5595b98773",
+"bytes": 294842,
+"donde": "public/media"
+},
+{
+"ruta": "/media/porsche-macan-4s-electric-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "porsche-macan-4s-electric-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "df9f012f9db262b79b7f56a3529fe0a8a040bc264a293910d7baaceab672fe42",
+"bytes": 256938,
+"donde": "public/media"
+},
+{
+"ruta": "/media/porsche-macan-electric-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "porsche-macan-electric-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "0ac2033d99d24828a528e2a3406398801c54669c8053caf743f254f6ff7afc43",
+"bytes": 255924,
+"donde": "public/media"
+},
+{
+"ruta": "/media/porsche-macan-turbo-electric-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "porsche-macan-turbo-electric-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "a5d677090436ff21140d68262e9afdcc796d03f9ca9fa293f6c6126d3df942b2",
+"bytes": 283340,
+"donde": "public/media"
+},
+{
+"ruta": "/media/porsche-panamera-gts-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "porsche-panamera-gts-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "7aaae8fdc0e50bab328bc71888908e9fb4525beab1a7e818c77fe8482fb2cb2e",
+"bytes": 238668,
+"donde": "public/media"
+},
+{
+"ruta": "/media/porsche-taycan-gts-commons.webp",
+"modelo": "porsche-taycan-turbo-s-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "017cb27e1fea16d5116f11dbda0cc3b1a924dd169a66a5a59f68e8f0d96e8d8f",
+"bytes": 189182,
+"donde": "public/media"
+},
+{
+"ruta": "/media/preinstalacion-obligatoria-de-alcoholimetros-a-hero.jpg",
+"modelo": "preinstalacion-obligatoria-de-alcoholimetros-alcolock-en-coches-nuevos-normativa-europea-gsr2-multas-y-como-afecta-en-espana-francia-italia-y-portugal",
+"prueba": "primera-imagen-articulo",
+"sha256": "269cda5cefa3afb1d8ab4c84b2a1ec2a19a8ed7f277d64bdd53a6b174f2aa1ba",
+"bytes": 93320,
+"donde": "public/media"
+},
+{
+"ruta": "/media/prescripcion-y-caducidad-de-las-multas-de-traf-hero.jpg",
+"modelo": "prescripcion-y-caducidad-de-las-multas-de-trafico-cuando-expira-una-sancion-de-la-dgt-plazos-legales-mitos-y-como-anular-expedientes-fuera-de-plazo",
+"prueba": "primera-imagen-articulo",
+"sha256": "dde358e65d3698222f0cdc3dd241eb247bf30d1ce02774cb4a02b066b6250ee5",
+"bytes": 447491,
+"donde": "public/media"
+},
+{
+"ruta": "/media/que-pasa-si-no-pagas-una-multa-hero.jpg",
+"modelo": "que-pasa-si-no-pagas-una-multa",
+"prueba": "primera-imagen-articulo",
+"sha256": "e1bb944f0e30bc430da3410633ada12df4e0e7dc87e80d6abf2533474485d3e2",
+"bytes": 627277,
+"donde": "public/media"
+},
+{
+"ruta": "/media/radar-senal-falsa-400-multas-como-recurrir-hero.jpg",
+"modelo": "radar-senal-falsa-400-multas-como-recurrir",
+"prueba": "primera-imagen-articulo",
+"sha256": "7ff421de453e3d85fe37a65b371803466ad60995ff671d074765bbc507d3c2ac",
+"bytes": 593860,
+"donde": "public/media"
+},
+{
+"ruta": "/media/radares-que-mas-multan-espana-2024-mapa-datos-hero.jpg",
+"modelo": "radares-que-mas-multan-espana-2024-mapa-datos",
+"prueba": "primera-imagen-articulo",
+"sha256": "b84f8b7c36e8b27e0dabfa9dff3f447efb3b79dcda335db3067609a79ba446cf",
+"bytes": 250264,
+"donde": "public/media"
+},
+{
+"ruta": "/media/radares-tramo-bidireccionales-dgt-2026-ubicaci-hero.jpg",
+"modelo": "radares-tramo-bidireccionales-dgt-2026-ubicaciones",
+"prueba": "primera-imagen-articulo",
+"sha256": "7e1ec2de733993349a493d774eb7e63ebcfd84a3f23a8cefda97cb511ac332b6",
+"bytes": 386625,
+"donde": "public/media"
+},
+{
+"ruta": "/media/radares-velolaser-dgt-2026-que-son-donde-los-c-hero.jpg",
+"modelo": "radares-velolaser-dgt-2026-que-son-donde-los-colocan-como-recurrir-multas",
+"prueba": "primera-imagen-articulo",
+"sha256": "5c4fd24a93f3171ada2f6ff2add6e0a6ed8d69c0f9ce55563f72bbe3e86d4fcb",
+"bytes": 474691,
+"donde": "public/media"
+},
+{
+"ruta": "/media/renault-4-e-tech-2027-415-km-roland-garros-precio-hero.webp",
+"modelo": "renault-4-e-tech-2027-415-km-roland-garros-precio",
+"prueba": "primera-imagen-articulo",
+"sha256": "503f78b2c2a6aab14fb14cc1afc21c636a0b9469fe227c3e46b5b6884ef02fb9",
+"bytes": 41800,
+"donde": "public/media"
+},
+{
+"ruta": "/media/renault-4-e-tech-52-kwh-2025-precio-autonomia-hero.webp",
+"modelo": "renault-4-e-tech-52-kwh-2025-precio-autonomia",
+"prueba": "registro-ficha",
+"sha256": "9e56fb4fd8cbb59b9e08bab9695ff1942c170f8d8df500f32c0ca88a10814b45",
+"bytes": 306836,
+"donde": "public/media"
+},
+{
+"ruta": "/media/renault-8-gordini-concept-paris-2026-oficial.webp",
+"modelo": "renault-8-gordini-concept-paris-2026",
+"prueba": "registro-blog",
+"sha256": "f97582f6c999d4baedc5a6057570eb753437c465075bb11540f2c1491bcfe90d",
+"bytes": 117066,
+"donde": "public/media"
+},
+{
+"ruta": "/media/renault-austral-2025-e-tech-200-precio-ficha-tecnica-hero.webp",
+"modelo": "renault-austral-2025-e-tech-200-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "ae79f0c09adc80294f2f2cc5cef1269e78241103b200ed7d1cb079232ee3ca98",
+"bytes": 200678,
+"donde": "public/media"
+},
+{
+"ruta": "/media/renault-captur-2024-tce-90-precio-ficha-tecnica-hero.webp",
+"modelo": "renault-captur-2024-tce-90-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "ab55fab8670d0c06845ae3693327a286ed1be4f8b51705a9bd84c696fa74536d",
+"bytes": 236532,
+"donde": "public/media"
+},
+{
+"ruta": "/media/renault-scenic-e-tech-60-kwh-2024-precio-autonomia-hero.webp",
+"modelo": "renault-scenic-e-tech-60-kwh-2024-precio-autonomia",
+"prueba": "registro-ficha",
+"sha256": "6e64396e513a2d4f46874fe46a8d3cdb5be2924e7958bdc7805ab25cd398c904",
+"bytes": 218444,
+"donde": "public/media"
+},
+{
+"ruta": "/media/renault-scenic-e-tech-lfp-67-kwh-2026-hero.webp",
+"modelo": "renault-scenic-e-tech-lfp-67-kwh-2026-precio-autonomia",
+"prueba": "registro-blog",
+"sha256": "db2bb5138e0b4b2df2526550fdd263ef83043adf1a8d9206289ebaafdc9a1eef",
+"bytes": 206340,
+"donde": "public/media"
+},
+{
+"ruta": "/media/revolucion-al-volante-nuevas-normativas-de-la-hero.jpg",
+"modelo": "revolucion-al-volante-nuevas-normativas-de-la-dgt-el-fin-del-semaforo-ambar-y-multas-en-la-a-2",
+"prueba": "primera-imagen-articulo",
+"sha256": "b5b76bbb424f4a7c75b32867ac5c95793cd8ef93d2fba16cf2af5ffa606dd3fe",
+"bytes": 111883,
+"donde": "public/media"
+},
+{
+"ruta": "/media/rieju-aventura-rally-307-2025-ficha-tecnica-precio-1.webp",
+"modelo": "rieju-aventura-rally-307-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "052fd7072fe2b0b60552df8a8dd8b5d3c147bc21d6725fc460e266c18c0cf48b",
+"bytes": 239998,
+"donde": "public/media"
+},
+{
+"ruta": "/media/rising-r7-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "rising-r7-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "1f9831c22f989d957a1e305ad9a1f2ee08c9257e2ad8e705b10e186933064d9f",
+"bytes": 223702,
+"donde": "public/media"
+},
+{
+"ruta": "/media/rising-rc7-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "rising-rc7-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "8a9d16607fffc28a6a8f805da674cfc5436c521ee4d7c569dd4938718fcf9c6e",
+"bytes": 717054,
+"donde": "public/media"
+},
+{
+"ruta": "/media/robar-romper-radar-dgt-consecuencias-hero.jpg",
+"modelo": "robar-romper-radar-dgt-consecuencias",
+"prueba": "primera-imagen-articulo",
+"sha256": "9ffac338cd8e6c728defd8f65f31e5df515aa0eae0aa2b6c2142e0e0c62736c0",
+"bytes": 771106,
+"donde": "public/media"
+},
+{
+"ruta": "/media/robotaxis-madrid-furgonetas-mapeo-octubre-2026-hero.jpg",
+"modelo": "robotaxis-madrid-furgonetas-mapeo-octubre-2026",
+"prueba": "primera-imagen-articulo",
+"sha256": "5e32aa534d0e293255174261165c2e44dc9c11cb1d9118ce6b708ce04ba17ed0",
+"bytes": 336216,
+"donde": "public/media"
+},
+{
+"ruta": "/media/rox-01-desconocidos-hero.webp",
+"modelo": "rox-01-erev-pininfarina-autonomia-1115-km",
+"prueba": "registro-blog",
+"sha256": "668f9dc0bbd4599b4370d63d376b85ff1bbd5f789df9d76d896531635c10068b",
+"bytes": 467142,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ruedas-de-km0-chollo-o-timo-pros-contras-preci-hero.jpg",
+"modelo": "ruedas-de-km0-chollo-o-timo-pros-contras-precios-reales-y-multas-por-neumaticos-caducados-o-gastados",
+"prueba": "primera-imagen-articulo",
+"sha256": "5a4ed8e90ddc60d8c1d595a39386f84829c73318eec8b8e6e0cf07d7aae52c3b",
+"bytes": 693510,
+"donde": "public/media"
+},
+{
+"ruta": "/media/seat-ibiza-baja-precio-octubre-2026-hero.webp",
+"modelo": "seat-ibiza-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "d400dbcc381416e8fb42d2b2f525cd3a9a308833cd7156ddbb894bd34b8a18f7",
+"bytes": 305960,
+"donde": "public/media"
+},
+{
+"ruta": "/media/seres-3-iaa2023-commons.webp",
+"modelo": "dfsk-seres-3-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "05d5f4f6fc956af571f83f88cb6a00cf993c4a842cd1b61b10251d928343fa6e",
+"bytes": 168238,
+"donde": "public/media"
+},
+{
+"ruta": "/media/silence-s01-plus-baja-precio-octubre-2026-hero.webp",
+"modelo": "silence-s01-plus-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "2a41e7bffb7b79af1ca68dc880082f65a610931c5d0c1b93f1e520d478fec82a",
+"bytes": 252202,
+"donde": "public/media"
+},
+{
+"ruta": "/media/skoda-elroq-50-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "skoda-elroq-50-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "eacb6faec9641132713814b6d09b2e566bd29146229645c9994efa7bd8d8a08a",
+"bytes": 270132,
+"donde": "public/media"
+},
+{
+"ruta": "/media/skoda-elroq-60-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "skoda-elroq-60-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "a2314f5ebd894a378886488bd063214fdf89f47dc63d4365fef15a6140366556",
+"bytes": 239592,
+"donde": "public/media"
+},
+{
+"ruta": "/media/skoda-enyaq-85-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "skoda-enyaq-85-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "52f3f111082b0bce14b0c718ec115c5324ed9c3acd9ca10f3a7097735730c398",
+"bytes": 333242,
+"donde": "public/media"
+},
+{
+"ruta": "/media/skoda-kamiq-15-tsi-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "skoda-kamiq-15-tsi-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "765a7281230cf955c2420e2e9a5d91fe143a355df5f7173ea4acc32c02dae63b",
+"bytes": 164514,
+"donde": "public/media"
+},
+{
+"ruta": "/media/skoda-kodiaq-rs-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "skoda-kodiaq-rs-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "0a72c6d710d48d208a5c4479332a3dab5227e3580948c0ffffbb2bdb6ae74c94",
+"bytes": 273982,
+"donde": "public/media"
+},
+{
+"ruta": "/media/skoda-octavia-20-tdi-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "skoda-octavia-20-tdi-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "3a030f8f0aac20ee3954f797907c8c1ab9917a413fd39b374e91262d959fb1eb",
+"bytes": 297970,
+"donde": "public/media"
+},
+{
+"ruta": "/media/skoda-octavia-combi-commons.webp",
+"modelo": "skoda-octavia-combi-rs-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "6b9e209cae85cb280b6d98b6bfaafbf4b3666406f50830ff5a5ca28193c5734b",
+"bytes": 247836,
+"donde": "public/media"
+},
+{
+"ruta": "/media/skoda-scala-monte-carlo-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "skoda-scala-monte-carlo-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "4e59725792c0239cb9768f9be0fdc44d27d6dbbc0dda77ccc05a29678ef95247",
+"bytes": 192810,
+"donde": "public/media"
+},
+{
+"ruta": "/media/smartgyro-rockway-pro-evo-3.jpg",
+"modelo": "smartgyro-rockway-pro-evo",
+"prueba": "primera-imagen-articulo",
+"sha256": "5db30ac275bc7094dcf1755ebbbefdd597b4b5a254af97efc981a55f9446be3d",
+"bytes": 10633,
+"donde": "public/media"
+},
+{
+"ruta": "/media/sterckeman-easy-350-cp-2026-precio-ficha-tecnica.webp",
+"modelo": "sterckeman-easy-350-cp-2026-precio-ficha-tecnica-analisis-opinion",
+"prueba": "primera-imagen-articulo",
+"sha256": "ba242114d6d9455aa3fb23f36918650be421adbe5301ac6eeba319d70290fc99",
+"bytes": 100424,
+"donde": "public/media"
+},
+{
+"ruta": "/media/sterckeman-easy-460-cp-2026-precio-ficha-tecnica.webp",
+"modelo": "sterckeman-easy-460-cp-2026-precio-ficha-tecnica-analisis-opinion",
+"prueba": "primera-imagen-articulo",
+"sha256": "e6d3d845ac03523645e73b8d3c44c08600891c6f52ebe6f257546b86967454b7",
+"bytes": 114776,
+"donde": "public/media"
+},
+{
+"ruta": "/media/sterckeman-easy-462-lj-2026-precio-ficha-tecnica.webp",
+"modelo": "sterckeman-easy-462-lj-2026-precio-ficha-tecnica-analisis-opinion",
+"prueba": "primera-imagen-articulo",
+"sha256": "7da84599fe2d244a6db8ea03cb13b0a3fb0b63653d157621e51b0e8eb961b552",
+"bytes": 109944,
+"donde": "public/media"
+},
+{
+"ruta": "/media/sterckeman-easy-470-pe-2026-precio-ficha-tecnica.webp",
+"modelo": "sterckeman-easy-470-pe-2026-precio-ficha-tecnica-analisis-opinion",
+"prueba": "primera-imagen-articulo",
+"sha256": "14caf8c0c967b04cf6d6300bd827f71860139b1a74d2c77dfe10737416acb48a",
+"bytes": 105296,
+"donde": "public/media"
+},
+{
+"ruta": "/media/sterckeman-easy-487-pe-2026-precio-ficha-tecnica.webp",
+"modelo": "sterckeman-easy-487-pe-2026-precio-ficha-tecnica-analisis-opinion",
+"prueba": "primera-imagen-articulo",
+"sha256": "7fb612fe5f4d06a1fcaed9e8f122f5f43e930d8201b77fb4a3f5e8e947eee16f",
+"bytes": 71218,
+"donde": "public/media"
+},
+{
+"ruta": "/media/swm-g03f-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "swm-g03f-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "41b4f8ead65b56d8552ec19cd3b3ddacf1fb649d6f5682aa6aca694cf61350c8",
+"bytes": 158084,
+"donde": "public/media"
+},
+{
+"ruta": "/media/swm-superdual-650-2024-precio-hero.webp",
+"modelo": "swm-superdual-650-2024-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "79884ca32796c8c21cb92d19e5f1dbf9acb7c9bd04cba5848c9012eb73187bba",
+"bytes": 197982,
+"donde": "public/media"
+},
+{
+"ruta": "/media/sym-bwt-125-2026-ficha-tecnica-precio-1.webp",
+"modelo": "sym-bwt-125-2026-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "5d096a2902ba2f1b980bc2d96f897d70fc4ec1a9880b3bc6ec5756105adf3895",
+"bytes": 171064,
+"donde": "public/media"
+},
+{
+"ruta": "/media/sym-cruisym-400-2026-ficha-tecnica-precio-1.webp",
+"modelo": "sym-cruisym-400-2026-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "d891cbb1814b852b9026df7d9bb28ac72a9bc61a1bbf7baf5f9ff4b49b793d76",
+"bytes": 203408,
+"donde": "public/media"
+},
+{
+"ruta": "/media/sym-joymax-z-300-2026-ficha-tecnica-precio-1.webp",
+"modelo": "sym-joymax-z-300-2026-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "b849278bb10f1d9657089a59d5976b4196d3d7b12a8ef7edf85df3b27b85ed7d",
+"bytes": 117472,
+"donde": "public/media"
+},
+{
+"ruta": "/media/sym-symphony-sr-125-abs-2026-ficha-tecnica-precio-1.webp",
+"modelo": "sym-symphony-sr-125-abs-2026-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "1bb9b7754b54a2c79dc19fb26db120172705fcf4689210a18de86246efe5b357",
+"bytes": 63466,
+"donde": "public/media"
+},
+{
+"ruta": "/media/tabla-multas-exceso-velocidad-2026-hero.jpg",
+"modelo": "tabla-multas-exceso-velocidad-2026",
+"prueba": "primera-imagen-articulo",
+"sha256": "9d4c452ace23555b4c6da8ce5c7f65dcc92a6930c44cae2b799babfb3b9c4048",
+"bytes": 241543,
+"donde": "public/media"
+},
+{
+"ruta": "/media/tasa-unica-alcohol-02-reforma-hero.jpg",
+"modelo": "tasa-unica-alcohol-02-reforma",
+"prueba": "primera-imagen-articulo",
+"sha256": "8c2e9a1baab4946d4ad437f9a1683c5b6237d0a0c86c3606018fae8652fa5b70",
+"bytes": 277992,
+"donde": "public/media"
+},
+{
+"ruta": "/media/te-ha-llegado-una-multa-de-la-dgt-o-de-un-pais-hero.jpg",
+"modelo": "te-ha-llegado-una-multa-de-la-dgt-o-de-un-pais-europeo-como-francia-alemania-italia-o-portugal",
+"prueba": "primera-imagen-articulo",
+"sha256": "d77be84e702a9715b9d5ec45d21dd2c0d0632fb93f07ca34367f22c14d7d6873",
+"bytes": 430882,
+"donde": "public/media"
+},
+{
+"ruta": "/media/te-van-a-multar-por-llevar-los-cristales-delan-hero.jpg",
+"modelo": "te-van-a-multar-por-llevar-los-cristales-delanteros-tintados-lo-que-la-dgt-no-te-cuenta-multas-de-infarto-y-por-que-te-tiran-en-la-itv",
+"prueba": "primera-imagen-articulo",
+"sha256": "66367f30e00a413386c3a127b22176f8b0f69ec1f44fdef529acf67e1aa1c2c0",
+"bytes": 349510,
+"donde": "public/media"
+},
+{
+"ruta": "/media/tesla-cybertruck-foundation-commons.webp",
+"modelo": "tesla-cybertruck-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "2052abac89c902e218ac10c8ae56f02d0247113a0b7532492c0e2f78ca5c44a5",
+"bytes": 210284,
+"donde": "public/media"
+},
+{
+"ruta": "/media/tesla-roadster-2026-hero.webp",
+"modelo": "tesla-roadster-2026-retraso-precio-ficha-tecnica",
+"prueba": "registro-blog",
+"sha256": "9dbb52153fa98caa6f48987a5721e12026fce73d840445823cd5020863d083ee",
+"bytes": 193116,
+"donde": "public/media"
+},
+{
+"ruta": "/media/testra-dgt-consultar-multas-publicadas-hero.jpg",
+"modelo": "testra-dgt-consultar-multas-publicadas",
+"prueba": "primera-imagen-articulo",
+"sha256": "d99753951a8d75999e0c01cf6d68f6d3c612a8f746128fa8457af72e18c636d9",
+"bytes": 198669,
+"donde": "public/media"
+},
+{
+"ruta": "/media/toyota-bz4x-commons.webp",
+"modelo": "toyota-bz4x-2025-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "604550678bf12e208ed083d58bd1faec54cc25bd8d09b1d30474265630e76be2",
+"bytes": 218522,
+"donde": "public/media"
+},
+{
+"ruta": "/media/toyota-corolla-baja-precio-octubre-2026-hero.webp",
+"modelo": "toyota-corolla-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "f12563fc8c04db00bfc3a4257594048c349b27adceea77f6b0fc6b0076214c66",
+"bytes": 111346,
+"donde": "public/media"
+},
+{
+"ruta": "/media/toyota-corolla-touring-sports-baja-precio-octubre-2026-hero.webp",
+"modelo": "toyota-corolla-touring-sports-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "3e03eb58a9827be2a0816fb64df79215e0d24c6d60174b2f02b4c3bf5752f473",
+"bytes": 235574,
+"donde": "public/media"
+},
+{
+"ruta": "/media/toyota-yaris-baja-precio-octubre-2026-hero.webp",
+"modelo": "toyota-yaris-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "a8f10efd790ffbb198908128a5e6a2259aaad54149306c6631ff5ebf2cc8dd68",
+"bytes": 285944,
+"donde": "public/media"
+},
+{
+"ruta": "/media/triumph-bonneville-bobber-2025-ficha-tecnica-precio-1.webp",
+"modelo": "triumph-bonneville-bobber-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "b5cd30034fc8ae8c57514f67649a24545336bea1161658dedc77a75717b29fc6",
+"bytes": 246354,
+"donde": "public/media"
+},
+{
+"ruta": "/media/ue-china-freno-hibridos-enchufables-hero.jpg",
+"modelo": "ue-china-freno-hibridos-enchufables",
+"prueba": "primera-imagen-articulo",
+"sha256": "69086bf2aace94feca49209eb1dbf63752c1817c435a31980d6b78423faeaeed",
+"bytes": 467546,
+"donde": "public/media"
+},
+{
+"ruta": "/media/velocidad-variable-ap7-ap2-limites-paneles-hero.jpg",
+"modelo": "velocidad-variable-ap7-ap2-limites-paneles",
+"prueba": "primera-imagen-articulo",
+"sha256": "54898a7821b2a8287b33717d7d6305a6659685665e5c14a82ebe9758f0f194e5",
+"bytes": 352570,
+"donde": "public/media"
+},
+{
+"ruta": "/media/vespa-gtv-310-2026-ficha-tecnica-precio-1.webp",
+"modelo": "vespa-gtv-310-2026-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "2a07ac7fee4352976045e0971d72c942bb5418ba34e3c160d3eac40f72bbc18e",
+"bytes": 105870,
+"donde": "public/media"
+},
+{
+"ruta": "/media/vmoto-off-r-2025-ficha-tecnica-precio.webp",
+"modelo": "vmoto-off-r-2025-ficha-tecnica-precio",
+"prueba": "nota-visual",
+"sha256": "7344b7c608f1ca6b9967ff0d076b4890bd1e6e0f36686090053f245a4595f693",
+"bytes": 488900,
+"donde": "public/media",
+"doc": "docs/fotos-182-ord1355/fuentes-vmotos.md",
+"archivo": true
+},
+{
+"ruta": "/media/vmoto-off-r-2025-oficial.webp",
+"modelo": "vmoto-off-r-2025-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "f3d6aaac35264c7ce3367a8134cd3b96366fb2790152090d36937f3fc3f8431c",
+"bytes": 153590,
+"donde": "public/media"
+},
+{
+"ruta": "/media/vmoto-vs1-2025-ficha-tecnica-precio.webp",
+"modelo": "vmoto-vs1-2025-ficha-tecnica-precio",
+"prueba": "nota-visual",
+"sha256": "67d6651e3292a534e642ce6968a859651f5efd03650d9286adff31bb3f864dc3",
+"bytes": 138386,
+"donde": "public/media",
+"doc": "docs/fotos-182-ord1355/fuentes-vmotos.md",
+"archivo": true
+},
+{
+"ruta": "/media/vmoto-vs1-2025-oficial.webp",
+"modelo": "vmoto-vs1-2025-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "93322b17f8e58cc375fa329ab66b868d1abf16f942de0463f3d3fbcd0abcedda",
+"bytes": 28844,
+"donde": "public/media"
+},
+{
+"ruta": "/media/volkswagen-california-ocean-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "volkswagen-california-ocean-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "7892afb3c63513f5a551116e467e5f5718062ce13364c1c882d6827b87db4d13",
+"bytes": 77506,
+"donde": "public/media"
+},
+{
+"ruta": "/media/volkswagen-california-t7-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "volkswagen-california-t7-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "03b0aa09faf9c098057968e4710fe1637645e2705b6de9c44872d5d903600240",
+"bytes": 314124,
+"donde": "public/media"
+},
+{
+"ruta": "/media/volkswagen-golf-20-tdi-oficial.webp",
+"modelo": "vw-golf-20-tdi",
+"prueba": "campo-imagen",
+"sha256": "a5106dac7997227e33acd79f00e42f0c7e3c9e79e7c3f64b75f761a3885237c2",
+"bytes": 27058,
+"donde": "public/media"
+},
+{
+"ruta": "/media/volkswagen-golf-8-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "volkswagen-golf-8-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "fce8ebb28fd9f8d160bc8979448d27d57e8db2d66a71482111856f5e9cc95d17",
+"bytes": 249822,
+"donde": "public/media"
+},
+{
+"ruta": "/media/volkswagen-golf-gti-edition-50-2026-2.webp",
+"modelo": "volkswagen-golf-gti-edition-50-2026",
+"prueba": "registro-ficha",
+"sha256": "c81770ba332b4645755e1c201805175d424e035d68982f0635bfe21ffb8298e1",
+"bytes": 254120,
+"donde": "public/media"
+},
+{
+"ruta": "/media/volkswagen-id-buzz-2026-precio-ficha-tecnica-commons.webp",
+"modelo": "volkswagen-id-buzz-2026-precio-ficha-tecnica",
+"prueba": "primera-imagen-articulo",
+"sha256": "9e15c50ae1bd8014037abcdd3ab4416e986f80f1309432f8c4113303238e48ed",
+"bytes": 249756,
+"donde": "public/media"
+},
+{
+"ruta": "/media/volkswagen-id-unyx-09-electrico-china-755-km-hero.webp",
+"modelo": "volkswagen-id-unyx-09-electrico-china-755-km",
+"prueba": "registro-blog",
+"sha256": "e3b67a3fa7f66e60f69e6f9a34ac904fb943df39ba8690f3314bbc24c74a656e",
+"bytes": 273724,
+"donde": "public/media"
+},
+{
+"ruta": "/media/volkswagen-nivel-3-china-hefei-pruebas-hero.jpg",
+"modelo": "volkswagen-nivel-3-china-hefei-pruebas-2026",
+"prueba": "primera-imagen-articulo",
+"sha256": "5d81a1a0db06693326deaa22c113f5d0b731ce3c1d92e884b31cffb6b46da5ff",
+"bytes": 295361,
+"donde": "public/media"
+},
+{
+"ruta": "/media/volkswagen-passat-variant-20-tsi-2026-precio-ficha-tecnica-hunt1.webp",
+"modelo": "volkswagen-passat-variant-20-tsi-2026-precio-ficha-tecnica",
+"prueba": "registro-blog",
+"sha256": "661d36d928327138f2140edb28066567600c240b98b64dc3ba66880f18ec7a84",
+"bytes": 281162,
+"donde": "public/media"
+},
+{
+"ruta": "/media/volkswagen-tayron-ehybrid-204-2025-precio-ficha-tecnica-hero.webp",
+"modelo": "volkswagen-tayron-ehybrid-204-2025-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "e77ec21a9edb6093656b8e8506e610431a4e38bd49b59bf5da1d436c0144bb55",
+"bytes": 296926,
+"donde": "public/media"
+},
+{
+"ruta": "/media/vsett-10-plus-apex-hero.jpg",
+"modelo": "vsett-10-plus-apex",
+"prueba": "primera-imagen-articulo",
+"sha256": "b26b73b71b384db6523c6e290f783b0aa4395fea4b860ea790e26dfabbf27072",
+"bytes": 34158,
+"donde": "public/media"
+},
+{
+"ruta": "/media/vsett-10-plus-r-hero.jpg",
+"modelo": "vsett-10-plus-r",
+"prueba": "primera-imagen-articulo",
+"sha256": "cfeca0143cf89ab6cb56119c19c28c426afeb2ae2fa6a639d30498224fcf6b85",
+"bytes": 39941,
+"donde": "public/media"
+},
+{
+"ruta": "/media/vsett-11-plus-hero.jpg",
+"modelo": "vsett-11-plus",
+"prueba": "primera-imagen-articulo",
+"sha256": "23cb9fa47f3065b9d1a270cac0db3a0ae2321118bebd4e0b17c43d486dc02baa",
+"bytes": 445631,
+"donde": "public/media"
+},
+{
+"ruta": "/media/vsett-11-plus-super-72-hero.jpg",
+"modelo": "vsett-11-plus-super-72",
+"prueba": "primera-imagen-articulo",
+"sha256": "dac9d19a78ae56037729586cea2b126ff7fe8873b97e0658b080f86a36ff968c",
+"bytes": 39802,
+"donde": "public/media"
+},
+{
+"ruta": "/media/vsett-8-plus-hero.jpg",
+"modelo": "vsett-8-plus",
+"prueba": "primera-imagen-articulo",
+"sha256": "7e0a818b045a9916b988e9ab7202d519e1310186b4d6acb4fea4a3cd499e815e",
+"bytes": 71759,
+"donde": "public/media"
+},
+{
+"ruta": "/media/vsett-9-apex-hero.jpg",
+"modelo": "vsett-9-apex",
+"prueba": "primera-imagen-articulo",
+"sha256": "26b33867118eea8a741186dd36e92a4df13d89aeeb79ff544b998557d4fee56e",
+"bytes": 56557,
+"donde": "public/media"
+},
+{
+"ruta": "/media/vsett-9-hero.jpg",
+"modelo": "vsett-9",
+"prueba": "primera-imagen-articulo",
+"sha256": "3500510c3438a0eec5f50b1363efdcb851d9000a47c457f30657a1fac7330850",
+"bytes": 32158,
+"donde": "public/media"
+},
+{
+"ruta": "/media/vw-id-buzz-commons.webp",
+"modelo": "volkswagen-id-buzz-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "95537944e76647cce0f32232f268468198525d2bd6e61719ff9a46ab70957500",
+"bytes": 229356,
+"donde": "public/media"
+},
+{
+"ruta": "/media/vw-id4-gtx-commons.webp",
+"modelo": "volkswagen-id4-gtx-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "9adb0d032b6dfe704a4c48a4dc9c2710586e87533b375bc30bb92249fe5a64ee",
+"bytes": 160132,
+"donde": "public/media"
+},
+{
+"ruta": "/media/vw-id7-commons.webp",
+"modelo": "volkswagen-id7-gtx-2026-precio-ficha-tecnica",
+"prueba": "campo-imagenOficial",
+"sha256": "54b8c7837121e2cd8adc73986109b10829342509243301ad8614245bc41140a8",
+"bytes": 124746,
+"donde": "public/media"
+},
+{
+"ruta": "/media/xiaomi-skynomad-lanzamiento-ventas-china-1705-km-hero.webp",
+"modelo": "xiaomi-skynomad-lanzamiento-ventas-china-1705-km",
+"prueba": "registro-blog",
+"sha256": "b3a5c4074f259543396b2bbba25272a40a829016086583536657825eb2936bb5",
+"bytes": 223722,
+"donde": "public/media"
+},
+{
+"ruta": "/media/xpeng-g6-awd-performance-2026-2.webp",
+"modelo": "xpeng-g6-awd-performance-2026",
+"prueba": "registro-ficha",
+"sha256": "b8da418df8ef9ad22369063f2594e4015dc29a303800af62ffccdb4ac35cc586",
+"bytes": 213924,
+"donde": "public/media"
+},
+{
+"ruta": "/media/xpeng-g9-awd-performance-2026-2.webp",
+"modelo": "xpeng-g9-awd-performance-2026",
+"prueba": "registro-ficha",
+"sha256": "2c554e147ce36cbd3a64d2d5c39a360bdbf64e774d9b8db55d423be6e36b23e3",
+"bytes": 258856,
+"donde": "public/media"
+},
+{
+"ruta": "/media/yadea-c1s-pro-2026-ficha-tecnica-precio-oficial-2.webp",
+"modelo": "yadea-c1s-pro-2026-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "e1e0943c83ccf48898fcee5277417f118be36d904d0bbd5630d70c897cad756b",
+"bytes": 49042,
+"donde": "public/media"
+},
+{
+"ruta": "/media/yadea-g5-s-2026-ficha-tecnica-precio-oficial-2.webp",
+"modelo": "yadea-g5-s-2026-ficha-tecnica-precio",
+"prueba": "campo-imagen",
+"sha256": "b31481c366193afaec9d800d9cec1fe49623b7f00bb752009ba105506b141fbb",
+"bytes": 78450,
+"donde": "public/media"
+},
+{
+"ruta": "/media/yamaha-mt-10-2026-precio-ficha-tecnica-commons.webp",
+"modelo": "yamaha-mt-10-2026-precio-ficha-tecnica",
+"prueba": "primera-imagen-articulo",
+"sha256": "d9c8cafe9a654137d9d7d81893f882daf8712e455815abaaa049cafba2e4fbff",
+"bytes": 229856,
+"donde": "public/media"
+},
+{
+"ruta": "/media/yamaha-tenere-700-rally-2025-ficha-tecnica-precio-1.webp",
+"modelo": "yamaha-tenere-700-rally-2025-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "55d6857d03c5a627ae35a656addd07aed7109a7145c47de55f22b5de0dac7575",
+"bytes": 160004,
+"donde": "public/media"
+},
+{
+"ruta": "/media/yamaha-yzf-r125-2024-ficha-tecnica-precio-1.webp",
+"modelo": "yamaha-yzf-r125-2024-ficha-tecnica-precio",
+"prueba": "registro-ficha",
+"sha256": "eb2738ce77e9ba995fe187c8a438fdff7b9639e9810aca2500518e217ec37a49",
+"bytes": 165948,
+"donde": "public/media"
+},
+{
+"ruta": "/media/yangwang-u8-commons.webp",
+"modelo": "yangwang-byd-u8-u9-europa-2027",
+"prueba": "campo-imagen",
+"sha256": "e209c2b6992186e06742ae834c2bbbe35bce3ed1c232cdd99c81b95b6faa040f",
+"bytes": 276970,
+"donde": "public/media"
+},
+{
+"ruta": "/media/zbe-espana-2026-ciudades-multan-cuanto-multa-hero.jpg",
+"modelo": "zbe-espana-2026-ciudades-multan-cuanto-multa",
+"prueba": "primera-imagen-articulo",
+"sha256": "9c2a6fe1d2f603ff836bceec315f6402f40eaf4fffaa1f53a861f9ff0946645d",
+"bytes": 143531,
+"donde": "public/media"
+},
+{
+"ruta": "/media/zbe-vitoria-multas-6000-euros-octubre-2026-hero.jpg",
+"modelo": "zbe-vitoria-multas-6000-euros-octubre-2026",
+"prueba": "primera-imagen-articulo",
+"sha256": "dfc1db6fa22f7ed2ffc76a1f0c5538a7c2d82a4a2e5034222bf16c145306b016",
+"bytes": 507793,
+"donde": "public/media"
+},
+{
+"ruta": "/media/zeekr-007-2026-precio-ficha-tecnica-hero.webp",
+"modelo": "zeekr-007-2026-precio-ficha-tecnica",
+"prueba": "registro-ficha",
+"sha256": "7ab0601a9c065c97893e36fa4b87f8000013b2fab4bb76ee8d0d33191e87a2a5",
+"bytes": 170948,
+"donde": "public/media"
+},
+{
+"ruta": "/media/zero-s-baja-precio-octubre-2026-hero.webp",
+"modelo": "zero-s-baja-precio-octubre-2026",
+"prueba": "registro-blog",
+"sha256": "43e04f0695f3586bf6b01bad06f01ee7f8ca4b574c47b0a8e52c67e2741d6be7",
+"bytes": 242832,
+"donde": "public/media"
+}
+]
+}
