@@ -306,7 +306,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie A",
-    precioEur: 449,
+    precioEur: null, // La URL bongo-serie-a dio 404 el 7/11/2026. 449 eur es la tarjeta del Serie A Connected.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 25,
@@ -954,7 +954,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie A Connected",
-    precioEur: 449,
+    precioEur: null, // Tarjeta del 7/11/2026: 449 eur, agotado, IVA incluido. El listado no escribe PVP.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 25,
@@ -4361,7 +4361,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Cecotec",
   modelo: "Bongo Y45 Connected",
-  precioEur: 469,
+  precioEur: 469, // Financiación del listado 7/11/2026: «PVP 469.00€». En stock.
   potenciaNominalW: 350,
   potenciaPicoW: 750,
   autonomiaKm: 45,

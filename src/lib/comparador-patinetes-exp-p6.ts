@@ -1548,7 +1548,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Doble Y85 2x2 XXL Connected",
-    precioEur: 999, // tarifa oficial España (verificado 20/10/2026)
+    precioEur: 999, // El texto de financiación del listado del 7/11/2026 llama PVP a 999 eur. En stock.
     potenciaNominalW: 1000,
     potenciaPicoW: 2100,
     autonomiaKm: 85,
@@ -1611,13 +1611,13 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie Doble Z75",
-    precioEur: 1329, // tarifa oficial España (verificado 20/10/2026)
+    precioEur: 1199, // Financiación del listado 7/11/2026: «PVP 1199.00€». La tarjeta muestra 1.329 tachado (10 %). En stock. M.O.M. 42,5 kg.
     potenciaNominalW: 1000,
     potenciaPicoW: 2200,
     autonomiaKm: 75,
     autonomiaRealKm: 51,
     velocidadMaxKmh: 25,
-    pesoKg: null,
+    pesoKg: 42.5,
     cargaMaxKg: 120,
     tiempoCargaH: null,
     bateriaWh: 960,
@@ -1639,17 +1639,17 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Tracción doble para cualquier pendiente",
     ],
     contras: [
-      "1.329 € en la tienda oficial de Cecotec: precio alto",
+      "1.199 € es el PVP que escribe la financiación de la tienda; 1.329 € sale tachado",
       "No aparece con certificación verificada en el listado oficial de la DGT",
-      "Peso no publicado; será elevado",
+      "42,5 kg en orden de marcha, según la propia tarjeta",
       "Tiempo de carga no publicado",
       "Excesivo para uso urbano normal",
-      "El Z85 da más autonomía (85 km declarados, 1.200 Wh) por 30 € menos (1.299 € frente a 1.329 €), con los mismos 2.200 W de pico",
+      "El Z85 anuncia 85 km y 44 kg, y su tarjeta marca 1.299 € sin llamarlo PVP",
     ],
     veredicto:
-      "El Doble Z75 es el Bongo intermedio de tracción total: 2.200 W y 960 Wh. Bien equipado, pero el Z85 ofrece más batería (1.200 Wh y 85 km declarados) por 30 € menos (1.299 €) y la certificación DGT no está verificada. Compra con cabeza.",
+      "El Doble Z75 declara 75 km y 42,5 kg. La financiación de la tienda llama PVP a 1.199 € y deja 1.329 € tachado. El Z85 no sale 30 € más barato.",
     fuenteNombre: "Cecotec",
-    fuenteUrl: "https://www.cecotec.es",
+    fuenteUrl: "https://cecotec.es/es/patinetes-electricos/bongo-serie-doble-z-75",
     mantenimientoDIY: {
       intervaloRevision: "Revisiones visuales periódicas de chasis, horquilla, neumáticos y frenos; comprobar la presión de los neumáticos antes de cada uso",
       presionNeumaticos: "36 PSI / 2,5 bares / 250 kPa (presión óptima según el manual oficial)",
@@ -1674,13 +1674,13 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie Doble Z85",
-    precioEur: 1299, // tarifa oficial España (verificado 20/10/2026)
+    precioEur: null, // Tarjeta del 7/11/2026: 1.299 eur, agotado. Esa ficha no dice PVP. M.O.M. 44 kg.
     potenciaNominalW: null,
     potenciaPicoW: 2200,
     autonomiaKm: 85,
     autonomiaRealKm: 58,
     velocidadMaxKmh: 25,
-    pesoKg: null,
+    pesoKg: 44, // M.O.M. en la tarjeta del listado del 7/11/2026.
     cargaMaxKg: 120,
     tiempoCargaH: null,
     bateriaWh: 1200,

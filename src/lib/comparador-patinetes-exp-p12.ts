@@ -297,7 +297,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo V70 Connected",
-    precioEur: 509,
+    precioEur: 509, // Financiación del listado 7/11/2026: «PVP 509.00€». En stock.
     potenciaNominalW: 800,
     potenciaPicoW: 1500,
     autonomiaKm: 70,
@@ -363,13 +363,13 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo D20E Connected",
-    precioEur: 159,
+    precioEur: null, // Tarjeta del D20E el 7/11/2026: 159 eur, agotado, sin la palabra PVP.
     potenciaNominalW: 250,
     potenciaPicoW: 500,
     autonomiaKm: 20,
     autonomiaRealKm: 13,
     velocidadMaxKmh: 20,
-    pesoKg: 12.2,
+    pesoKg: 12.5, // M.O.M. de la tarjeta del 7/11/2026. Antes figuraban 12,2 kg.
     cargaMaxKg: 100,
     tiempoCargaH: null,
     bateriaWh: 187,
@@ -410,7 +410,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo V55 2x2 Connected",
-    precioEur: 559,
+    precioEur: 559, // Financiación del listado 7/11/2026: «PVP 559.00€». En stock.
     potenciaNominalW: 1000,
     potenciaPicoW: 1600,
     autonomiaKm: 55,

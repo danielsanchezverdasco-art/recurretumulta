@@ -11,7 +11,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo D40 XL Connected",
-    precioEur: 299, // 299 eur en cecotec.es, agotado. Los 458 eur eran de terceros.
+    precioEur: null, // Tarjeta cecotec.es 7/11/2026: 299 eur, agotado, IVA incluido. La página no escribe PVP. 458 era de terceros.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 40,
@@ -43,7 +43,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     pros: ["Pack de 360 Wh (36 V y 10 Ah) con el que Cecotec homologa 40 km en su prueba a 15 km/h constantes, en llano y con 75 kg de carga total", "Motor de 350 W nominales y 700 W de pico orientado, según la marca, a salvar rampas de hasta el 15 % sin salir del formato urbano", "Chasis de aluminio con sellado IPX4 frente a salpicaduras, pantalla LCD en el manillar y conjunto plegable para guardarlo en un rincón", "La coletilla Connected aquí sí aporta: enlace Bluetooth con el móvil para bloquearlo, seguir trayectos y consultar estadísticas, con la app gratuita durante dos años", "El manual desglosa la autonomía por modo de conducción —55 km en Peatón, 40 km en Confort y 32 km en Sport, medidos con un usuario de 80 kg en superficie llana—, así que la cifra útil depende del modo elegido y no solo de los 40 km del titular"],
     contras: ["Esos 40 km oficiales nacen de una prueba a velocidad constante en llano; en uso urbano esta ficha estima unos 27 km, así que el trayecto diario hay que planearlo con ese segundo número", "La tienda de Cecotec marca 299 € con IVA y lo da por agotado; los 458 € salían de catálogos de terceros y no son el PVP", "Ningún eje monta amortiguación en esta versión D40 XL: juntas de acera, rejillas y adoquinado llegan casi íntegros a manos y pies, y solo el neumático hinchable pone algo de filtro", "Pesa 17,4 kg según la tabla de especificaciones de su propio manual, un dato que la comparativa de la web de Cecotec ni siquiera recoge: subirlo por escaleras a diario se hace notar", "El certificado de circulación de la DGT no consta verificado para esta referencia: la marca afirma que cumple la normativa española de circulación, que no equivale a exhibir el certificado del modelo"],
     veredicto:
-      "El Bongo D40 XL Connected (referencia 07354 de Cecotec) es la variante pensada para alargar el trayecto sin cambiar de gama: 360 Wh, 40 km declarados bajo una prueba muy favorable —15 km/h, llano, 75 kg— y app con dos años gratuitos. A cambio viaja sin suspensión, su autonomía útil se queda en unos 27 km estimados y el precio de la ficha es el PVP de 299 €, agotado en la tienda de la marca. Encaja si el recorrido es llano y el suelo decente; si la ruta es de adoquín o hay que portearlo, sus carencias pesan más que su batería.",
+      "El Bongo D40 XL Connected (referencia 07354 de Cecotec) es la variante pensada para alargar el trayecto sin cambiar de gama: 360 Wh, 40 km declarados bajo una prueba muy favorable —15 km/h, llano, 75 kg— y app con dos años gratuitos. A cambio viaja sin suspensión, su autonomía útil se queda en unos 27 km estimados y la tienda muestra 299 € con IVA, agotado, y no lo etiqueta como PVP. Encaja si el recorrido es llano y el suelo decente; si la ruta es de adoquín o hay que portearlo, sus carencias pesan más que su batería.",
     fuenteNombre: "Cecotec",
     fuenteUrl: "https://cecotec.es/es/patinetes-electricos/bongo-d40-xl-connected",
     mantenimientoDIY: {"actualizacionFirmware": "Todo lo conectado de este D40 XL pasa por la aplicación de Cecotec enlazada por Bluetooth: desde el teléfono se bloquea el patinete, se consultan los trayectos y se instala el firmware que la marca vaya publicando", "ajusteFrenosPasos": ["Si la maneta del disco trasero va ganando recorrido, gira el tensor roscado situado junto a ella hasta recuperar tacto, comprobando después que la rueda gira libre sin rozamiento continuo", "Para volver a centrar esa pinza trasera, suelta sus dos tornillos de anclaje, mantén la maneta apretada a fondo y reaprieta con el disco ya alineado entre las pastillas", "Delante actúa el freno electrónico eABS y no hay cable que regular: si la detención se alarga, confirma desde la app que el firmware está al día antes de culpar al conjunto mecánico trasero"], "aprieteTornilleria": "Con las herramientas de montaje que Cecotec incluye en la caja, repasa el cierre del sistema de plegado, la tija que sostiene el manillar con la pantalla LCD y la tornillería de anclaje de ambas ruedas", "presionNeumaticos": "El manual de este modelo pide comprobarla antes de cada uso y advierte de que rodar bajo de presión acorta la vida útil de la batería; la cifra correcta es la grabada en el flanco de cada cubierta de 10 pulgadas", "trucos": ["El manual del D40 XL Connected recomienda cargar la batería después de cada uso, sin esperar a que se agote por completo", "Para recargar, solo la unidad de alimentación suministrada con el patinete, de referencia CP4215, y baterías originales Cecotec compatibles con este modelo", "La carga debe hacerse con temperatura ambiente de entre 0 °C y 40 °C, el intervalo que el propio manual fija para que el patinete rinda de forma eficiente"]},
@@ -54,7 +54,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo D20 XL Connected",
-    precioEur: 219, // 219 eur en cecotec.es y disponible. Pixmania pedía 257,65.
+    precioEur: null, // Listado D20 XL: 219 eur en stock, IVA incluido, sin escribir PVP. Pixmania pedía 257,65.
     potenciaNominalW: 300,
     potenciaPicoW: 630,
     autonomiaKm: 20,
@@ -110,7 +110,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo D20 Mobile",
-    precioEur: 249, // 249 eur en cecotec.es. El 21/10/2026 la página marcaba 229.
+    precioEur: null, // Tarjeta del D20 Mobile el 7/11/2026: 249 eur, en stock. Sin la palabra PVP. El 21/10 marcaba 229.
     potenciaNominalW: 250,
     potenciaPicoW: 500,
     autonomiaKm: 20,
@@ -174,7 +174,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie S Infinity",
-    precioEur: 422.9, // 422,90 eur en cecotec.es, con envío en 24-72 h. La ficha anterior decía 369.
+    precioEur: null, // El listado de patinetes del 7/11/2026 no incluye el slug serie-s-infinity. No se reconfirma 422,90.
     potenciaNominalW: 350,
     potenciaPicoW: 750,
     autonomiaKm: 30,
@@ -237,7 +237,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo GS50 XXL Connected",
-    precioEur: 369,
+    precioEur: null, // Tarjeta del GS50 el 7/11/2026: 369 eur, agotado. El listado no escribe PVP en esa ficha.
     potenciaNominalW: 350,
     potenciaPicoW: 800,
     autonomiaKm: 50,
@@ -272,7 +272,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "Doble suspensión para ciudad con baches",
       "Base ultrawide: más estabilidad y comodidad de pies",
       "Soporta hasta 120 kg de carga",
-      "PVP oficial de 369 €: gran relación autonomía/precio",
+      "La tarjeta muestra 369 € y no escribe PVP",
     ],
     contras: [
       "Pesa 27 kg: de los Bongo más pesados, se nota al cargarlo",
@@ -303,13 +303,13 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie A Advance Connected Max",
-    precioEur: 369, // Sin PVP en la ficha PDF oficial (ref. 7029). 369 € queda como cifra de tienda, no como tarifa Cecotec.
+    precioEur: null, // PDF ref. 7029 sin importe. 369 eur era un retailer, no una tarjeta Cecotec.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 45,
     autonomiaRealKm: 30,
     velocidadMaxKmh: 25,
-    pesoKg: 15, // La ficha PDF (ref. 7029) imprime 17,2 kg y, en otra línea, 14,7 kg. No se sustituye el 15 hasta aclarar cuál es el peso en orden de marcha.
+    pesoKg: null, // PDF ref. 7029 imprime 17,2 kg y, en otra línea, 14,7 kg. Ninguno se da por confirmado.
     cargaMaxKg: null,
     tiempoCargaH: 4.5,
     bateriaWh: 460,
@@ -335,7 +335,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     pros: [
       "Homologado DGT: certificado verificado",
       "45 km declarados con batería de 460 Wh (36 V y 12,8 Ah)",
-      "Solo 15 kg: de los más ligeros con esta autonomía",
+      "El PDF no deja un peso único: imprime 17,2 kg y 14,7 kg",
       "Carga en 4-5 horas, rápido para su batería",
       "Triple frenada: disco, eléctrico y manual trasero",
       "App con bloqueo antirrobo y configuración de frenada",
@@ -348,7 +348,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "El acabado Advance se paga frente al Serie A básico",
     ],
     veredicto:
-      "El Advance Connected Max es el Serie A definitivo: 45 km, 15 kg y homologación DGT. Si pesa poco y llega lejos es lo que buscas, este es tu Bongo.",
+      "El Advance Connected Max declara 45 km. El PDF no fija el peso: aparecen 17,2 kg y 14,7 kg. Homologación DGT sin el certificado a la vista.",
     fuenteNombre: "Cecotec",
     fuenteUrl: "https://cecotec.es/images/manuales/FichaTecnica_SerieAConnectedAdvanceMax.pdf",
     mantenimientoDIY: {
@@ -370,7 +370,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo D40 XL Suspension Connected",
-    precioEur: 329, // 329 eur en cecotec.es, agotado. Pixmania pedía 386.
+    precioEur: null, // Tarjeta del Suspension el 7/11/2026: 329 eur, agotado, IVA incluido, sin la palabra PVP. Pixmania pedía 386.
     potenciaNominalW: 350,
     potenciaPicoW: 800,
     autonomiaKm: 40,
@@ -413,7 +413,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Z+",
-    precioEur: 386, // PcComponentes. La ficha oficial Bongo Z+ On Road no mostró un euro en la consulta del 7/11/2026; no es PVP.
+    precioEur: null, // 386 eur era PcComponentes. La descarga de bongo-z-on-road el 7/11/2026 llegó vacía y el listado no lo incluye.
     potenciaNominalW: 500,
     potenciaPicoW: 1000,
     autonomiaKm: 50,
@@ -475,7 +475,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie A Advance Connected",
-    precioEur: 379, // 379 eur en la ficha del Advance. 449 eur es el Serie A Connected, otro patinete. El 21/10 esta ficha anotaba 449.
+    precioEur: null, // El listado del 7/11/2026 no incluye el Advance Connected. 449 eur es el Serie A Connected, otro patinete.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 35,
