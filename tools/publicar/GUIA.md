@@ -29,7 +29,8 @@ git fetch --all && git checkout kit-publicar-merlin && git pull --no-rebase orig
 # 1) DRY-RUN (hace TODO menos crear el borrador): ramas, rev3, build, prerender, postproceso y todas las comprobaciones
 ./tools/publicar/publicar.sh --ramas radar-integ-2810,otra-rama          # Windows: .\tools\publicar\publicar.ps1 --ramas ...
 # 2) enseña el resumen a Daniel (nuevos/cambiados/avisos) y espera su SÍ en su chat
-# 3) solo con su sí:
+# 3) solo con su sí. Desde el 7/11/2026 publica DIRECTO (createSiteDeploy con draft false).
+#    No crea borrador ni llama a restore. La vía antigua sigue en el código con --con-borrador y no es la que hay que usar.
 ./tools/publicar/publicar.sh --ramas radar-integ-2810,otra-rama --publicar --si-daniel "28/10 11:02 «sí, publica esto»"
 ```
 `--ramas` fusiona `origin/<rama>` en tu copia local (si hay conflicto aborta el merge y no cambia nada). Opciones útiles: `--sin-build` (reusa `dist/`), `--prerender rapido` (solo rutas nuevas; solo si no hay cambios de código en `src/`), `--solo src,rev3,dist` (solo esas fases), `--auto-rollback` (vuelve solo atrás si la verificación posterior falla).
@@ -46,7 +47,7 @@ Duración: el dry-run completo con build y prerender tarda bastante (decenas de 
 | rev3 | `rev3b.py`: **0** frases de 8+ palabras nuevas repetidas frente a lo vivo (mismo medidor que `tools/rev3/rev3.py`) |
 | build | `npm run build` + Convex de prod + `bajar_vivo --rellenar` + prerender + 18 pasos de postproceso; toda ruta con página |
 | dist | `mkdraft --check`: **0 eliminaciones** y **0 reglas de `_redirects` perdidas** (`_redirects` completo); ninguna página con enlace a /tienda, «Algo salió mal» o localhost; **0 fotos rotas nuevas**; `chequeo_fotos.py` (sin fotos IA, fuente en fotos nuevas); **`validar-dist-publicable.py` (BLOQUEANTE, 31/10/2026): 0 páginas indexables con «Foto pendiente / Foto real próximamente», imagen placeholder (md5 en `scripts/placeholder-md5.txt`), `<img src="">` ni texto interno (`null`, `undefined`, `precioDesde`, `cargaUtilKg`, `Grok 22:15`…)**; títulos del HTML = los de vivo (muestra); sitemap ≥97 % del vivo y con todas sus URLs con página |
-| publicar | borrador sobre el vivo actual → espera `ready` → portada, páginas nuevas y muestra dan 200 + `qa.py` → publica (`restoreSiteDeploy`) → **purga Cloudflare** → verifica producción (portada, nuevas, muestra, sitemap, `/tienda` igual que antes, `qa.py`) |
+| publicar | **directa (7/11/2026):** el mismo `POST /api/v1/sites/{site_id}/deploys` con `"draft": false` (createSiteDeploy). Cuando el estado pasa a `ready`, ese deploy es el publicado. No hay borrador ni `restore`. Antes exige src, rev3, dist y que `.deploy-work/build-commit` sea el HEAD. Si el deploy queda `error`, no se crea otro. Luego purga Cloudflare y verifica producción. La vía de borrador + `restoreSiteDeploy` sigue en el código solo con `--con-borrador` |
 
 Los avisos (`AVISO`) no abortan, pero **cuéntaselos a Daniel**.
 

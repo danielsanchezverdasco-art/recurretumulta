@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-"""Paso 4. Crea un deploy BORRADOR incremental encima de los ficheros en vivo. NUNCA publica.
+"""Paso 4. Prepara el deploy encima de los ficheros en vivo.
 Uso:
   python3 scripts/deploy/mkdraft.py --dist dist --vivo <ID_VIVO> --titulo "texto" --check   (simulacro, no crea nada)
-  python3 scripts/deploy/mkdraft.py --dist dist --vivo <ID_VIVO> --titulo "texto"           (crea el borrador)
+  python3 scripts/deploy/mkdraft.py --dist dist --vivo <ID_VIVO> --titulo "texto"           (crea un BORRADOR; no publica)
+  python3 scripts/deploy/mkdraft.py --dist dist --vivo <ID_VIVO> --titulo "texto" --directo (createSiteDeploy con draft false: el deploy ES la publicación cuando queda ready)
+--check y --directo no van juntos. --directo no llama a restore. La vía de borrador no se ha quitado.
 Opciones:
   --solo FICHERO          solo sube las rutas listadas (una por línea, p.ej. /coches/x/index.html)
                           + los /assets/* nuevos; todo lo demás se queda como en vivo. Recomendado.
@@ -17,11 +19,15 @@ No existe --allow-removals y no debe existir."""
 import os, sys, json, argparse, urllib.parse, concurrent.futures as cf
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from comun import *
+from plan_conservacion import PlanError, armar_plan, cuerpo_deploy
 
 ap = argparse.ArgumentParser()
 ap.add_argument("--dist", required=True); ap.add_argument("--vivo", required=True); ap.add_argument("--titulo", required=True)
 ap.add_argument("--check", action="store_true"); ap.add_argument("--solo"); ap.add_argument("--media-forzar"); ap.add_argument("--quitar-reglas")
+ap.add_argument("--directo", action="store_true", help="createSiteDeploy con draft false (publicación única, sin borrador)")
 a = ap.parse_args()
+if a.check and a.directo:
+    sys.exit("ABORT: --check no crea nada. No lo combines con --directo.")
 R = os.path.abspath(a.dist)
 lines = lambda f: [l.strip() for l in open(f) if l.strip() and not l.startswith("#")] if f else []
 
@@ -40,81 +46,49 @@ if a.solo:
     files = {k: v for k, v in files.items() if k in keep or (k.startswith("/assets/") and k.lower() not in live_l)}
     print("modo --solo:", len(keep), "rutas pedidas +", len(files) - len(keep), "assets nuevos")
 
-# _redirects: comprobar que no se pierde ninguna regla en vivo
+# REDIRECTS_VIVO (lo pone tools/publicar/publicar.py): copia verificada del _redirects EN VIVO.
+rep = os.environ.get("REDIRECTS_VIVO") or os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "public", "_redirects")
+redirects_vivo_text = None
 if "/_redirects" in files:
-    rep = os.environ.get("REDIRECTS_VIVO") or os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "public", "_redirects")
-    # REDIRECTS_VIVO (lo pone tools/publicar/publicar.py): copia verificada del _redirects EN VIVO, para poder
-    # añadir reglas nuevas en public/_redirects sin tener que intercambiar ficheros a mano.
-    if not (os.path.exists(rep) and sha1_file(rep) == live["/_redirects"]):
-        sys.exit("ABORT: no tengo copia verificada del _redirects en vivo (public/_redirects del repo != vivo). Avisa a Cosa/Daniel.")
-    quit_ = {s.rstrip("/").lower() or "/" for s in lines(a.quitar_reglas)}
-    perdidas = sorted(redirect_sources(open(rep).read()) - redirect_sources(open(files["/_redirects"]).read()) - quit_)
-    if perdidas: sys.exit(f"ABORT: el _redirects nuevo pierde {len(perdidas)} reglas en vivo: {perdidas[:10]}")
-    print("_redirects: 0 reglas en vivo perdidas", "(idéntico)" if sha1_file(files["/_redirects"]) == live["/_redirects"] else "(con cambios)")
-    forced = set()
-    for l in open(files["/_redirects"]):
-        p = l.split()
-        if len(p) >= 3 and not l.startswith("#") and p[2].endswith("!"):
-            forced.add(p[0].rstrip("/").lower())
-    excl = [k for k in files if k.lower() not in live_l and k.endswith("/index.html") and k[:-11].rstrip("/").lower() in forced]
-    for k in excl: del files[k]
-    print("páginas nuevas tapadas por 301! (no se suben):", len(excl))
-
-with cf.ThreadPoolExecutor(8) as ex:
-    hs = dict(zip(files, ex.map(sha1_file, files.values())))
-
-# protección de fotos: /media/* que ya existe en vivo conserva el sha en vivo salvo --media-forzar
-forz = {p.lower() for p in lines(a.media_forzar)}
-prot = 0
-for k in list(hs):
-    kl = k.lower()
-    if kl.startswith("/media/") and kl in live_l and hs[k] != live_l[kl] and kl not in forz:
-        hs[k] = live_l[kl]; prot += 1
-print("fotos /media/ protegidas (se queda la de vivo):", prot)
-
-# 3/11/2026: páginas de dist que en vivo ya existen pero quedan TAPADAS por una regla 301! (nadie las ve): se conserva el fichero de vivo (mismo sha), no se sube la copia local.
-try: forced
-except NameError: forced = set()
-tap = 0
-for k in list(hs):
-    kl = k.lower()
-    if kl.endswith("/index.html") and kl in live_l and hs[k] != live_l[kl] and kl[:-11].rstrip("/") in forced:
-        hs[k] = live_l[kl]; tap += 1
-print("páginas existentes tapadas por 301! (se conserva la de vivo):", tap)
-
-# Netlify lista las rutas en minúsculas y las sirve sin distinguir mayúsculas: solo se informa.
-case = [k for k in hs if k.lower() in live_l and k not in live]
-print("rutas con distinta mayúscula que en vivo (normal en /assets/):", len(case), case[:3])
-
-have = {k.lower() for k in hs}
-added = 0
-for p, s in live.items():
-    if p.lower() not in have:
-        hs[p] = s; added += 1
-have = {k.lower() for k in hs}
-gone = [p for p in live if p.lower() not in have]
-new = [k for k in hs if k.lower() not in live_l]
-chg = [k for k in hs if k.lower() in live_l and live_l[k.lower()] != hs[k]]
-print(f"locales {len(files)} | de vivo {added} | total {len(hs)} (vivo {len(live)}) | DESAPARECERÍAN {len(gone)} | nuevos {len(new)} | cambiados {len(chg)}")
+    if os.path.exists(rep) and sha1_file(rep) == live.get("/_redirects"):
+        redirects_vivo_text = open(rep, encoding="utf-8").read()
+try:
+    plan = armar_plan(files, live, redirects_vivo_text, lines(a.media_forzar), lines(a.quitar_reglas))
+except PlanError as e:
+    sys.exit(str(e))
+hs = plan["hs"]
+if plan["redirects_note"]:
+    print("_redirects: 0 reglas en vivo perdidas", "(%s)" % plan["redirects_note"])
+print("páginas nuevas tapadas por 301! (no se suben):", plan["excl"])
+print("fotos /media/ protegidas (se queda la de vivo):", plan["prot"])
+print("páginas existentes tapadas por 301! (se conserva la de vivo):", plan["tap"])
+print("rutas con distinta mayúscula que en vivo (normal en /assets/):", len(plan["case"]), plan["case"][:3])
+print("locales %d | de vivo %d | total %d (vivo %d) | DESAPARECERÍAN %d | nuevos %d | cambiados %d" % (
+    plan["locales"], plan["added"], len(hs), plan["live_n"], len(plan["gone"]), len(plan["new"]), len(plan["chg"])))
 os.makedirs(WORK, exist_ok=True)
-json.dump({"new": sorted(new), "chg": sorted(chg)}, open(os.path.join(WORK, "cambios.json"), "w"), indent=0)
-if gone:
-    sys.exit(f"ABORT: {len(gone)} ficheros en vivo desaparecerían: {gone[:10]}. Cópialos a dist; NUNCA borres a la fuerza.")
-if len(hs) < len(live):
-    sys.exit("ABORT: total < vivo")
+json.dump({"new": sorted(plan["new"]), "chg": sorted(plan["chg"])}, open(os.path.join(WORK, "cambios.json"), "w"), indent=0)
 if a.check:
     print("CHECK OK (no se ha creado nada). Revisa .deploy-work/cambios.json"); sys.exit(0)
 
-d = api("POST", f"/sites/{SITE}/deploys?title=" + urllib.parse.quote(a.titulo), json.dumps({"files": hs, "draft": True}).encode())
-D = d["id"]; open(os.path.join(WORK, "draft_id"), "w").write(D)
-open(os.path.join(WORK, "draft_vivo_base"), "w").write(a.vivo)
+try:
+    body = cuerpo_deploy(hs, a.directo)
+except PlanError as e:
+    sys.exit(str(e))
+if a.directo and body.get("draft") is not False:
+    sys.exit("ABORT: vía directa con draft. No se llama a la API.")
+if not a.directo and body.get("draft") is not True:
+    sys.exit("ABORT: la vía de borrador no lleva draft true. No se llama a la API.")
+d = api("POST", f"/sites/{SITE}/deploys?title=" + urllib.parse.quote(a.titulo), json.dumps(body).encode())
+D = d["id"]
+open(os.path.join(WORK, "deploy_id" if a.directo else "draft_id"), "w").write(D)
+open(os.path.join(WORK, "deploy_vivo_base" if a.directo else "draft_vivo_base"), "w").write(a.vivo)
 req = set(d.get("required") or [])
-print("BORRADOR", D, "| ficheros que Netlify pide subir:", len(req), flush=True)
+print("DIRECTO" if a.directo else "BORRADOR", D, "| ficheros que Netlify pide subir:", len(req), flush=True)
 by = {}
 for rel, h in hs.items():
     if rel in files: by.setdefault(h, rel)
 miss = [h for h in req if h not in by]
-if miss: sys.exit(f"ABORT: {len(miss)} sha requeridos sin fichero local (borrador {D} incompleto; NO publicar)")
+if miss: sys.exit(f"ABORT: {len(miss)} sha requeridos sin fichero local (deploy {D} incompleto; no se crea otro)")
 def up(h):
     rel = by[h]
     try:
