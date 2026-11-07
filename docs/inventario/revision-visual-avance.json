@@ -1,9 +1,9 @@
 {
-"tanda": "2026-11-07-visual-1",
-"miradas": 14,
-"modelo_visible": 6,
-"pendientes": 8,
-"dependencias_24": "La única plantilla que construye /media/{fichaId}-oficial.webp es Top3VentasMes, y solo con los fichaId de mas-vendidos-data.ts. Ninguno de los 24 ids está en ese ranking. No hay código que construya /media/motos/{id}-1.webp. Esas 24 rutas no las pide la plantilla. No quedan confirmadas como modelo.",
+"tanda": "2026-11-07-visual-2",
+"miradas": 22,
+"modelo_visible": 7,
+"pendientes": 14,
+"dependencias_24": "Quedan fuera de las fotos mostradas. La plantilla de portada no las pide: ningún id está en el ranking. No se declaran validadas.",
 "entradas": [
 {
 "ruta": "/media/hongqi-g919-hero.webp",
@@ -63,10 +63,10 @@
 {
 "ruta": "/media/patinetes/teverun-blade-q-1.webp",
 "modelo": "Teverun Blade Q",
-"resultado": "modelo-visible",
+"resultado": "pendiente-marca",
 "visto": "Patinete negro y rojo. La potencia lee BLADE Q.",
-"fundamento": "La variante está escrita en el vehículo.",
-"limite": "No se lee la palabra Teverun.",
+"fundamento": "BLADE Q no contrasta que el fabricante sea Teverun. No se confirma la marca.",
+"limite": "La variante escrita no basta sin el contraste de marca.",
 "sha256": "0f3bbff0c7e3159feb1a08135879f2788b2234e620994a1348f64bb4a6f1c20e",
 "bytes": 29942,
 "metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
@@ -158,6 +158,96 @@
 "sha256": "5b7f148ccc45b71f15248c9572b59bf6f79da0dec4e0153f2bea29042dc4baef",
 "bytes": 138148,
 "metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
+},
+{
+"ruta": "/media/motos/vertigo-nitro-rs3-300-2026-ficha-tecnica-precio-1.webp",
+"modelo": "Vertigo Nitro RS3 300",
+"resultado": "pendiente-variante",
+"visto": "Se lee VERTIGO y NITRO. No se lee RS3 ni 300.",
+"fundamento": "Cubre la familia Nitro. No identifica la variante RS3 300. No se declara foto incorrecta.",
+"limite": "El año no está y tampoco hace falta para este límite.",
+"sha256": "44e5d0661c2f022cdaf6077ff3b48c5ed589f6cd5c9f9b6bf61f3b099c6da492",
+"bytes": 696896,
+"metodo": "Lectura visual del fichero local, contrastando el detalle visible con la variante de la página. El nombre del archivo no es prueba."
+},
+{
+"ruta": "/media/patinetes/vsett-11-plus-super-72-1.webp",
+"modelo": "Vsett 11+ Super 72",
+"resultado": "pendiente-variante",
+"visto": "Se lee VSETT. No se lee 11+, Super ni 72.",
+"fundamento": "La marca sí. La variante no.",
+"limite": "Un Vsett genérico no basta.",
+"sha256": "5946570d1ce0043f9bcf01e9bfe6cdfe2c2cb9f7bd66d21d53ac5777eae1f167",
+"bytes": 34570,
+"metodo": "Lectura visual del fichero local, contrastando el detalle visible con la variante de la página. El nombre del archivo no es prueba."
+},
+{
+"ruta": "/media/patinetes/smartgyro-rockway-gt-dual-1.webp",
+"modelo": "Smartgyro Rockway GT Dual",
+"resultado": "pendiente-variante",
+"visto": "Se lee SMARTGYRO y GT. No se lee ROCKWAY ni DUAL.",
+"fundamento": "No separa GT, GT Dual ni GTS.",
+"limite": "Igual límite que el Rockway GT ya visto.",
+"sha256": "5b9e9e68ab679108b348425de62eba9852a8f0c77d9965ebc7f728ed6395c2d2",
+"bytes": 35638,
+"metodo": "Lectura visual del fichero local, contrastando el detalle visible con la variante de la página. El nombre del archivo no es prueba."
+},
+{
+"ruta": "/media/hymer-b-mc-i-580-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "Hymer B-MC I 580",
+"resultado": "pendiente-variante",
+"visto": "Se lee HYMER en la calandra, sobre cabina Mercedes.",
+"fundamento": "Cubre la marca. No se lee B-MC I 580.",
+"limite": "El año no impreso no la convierte en incorrecta; la variante sí falta.",
+"sha256": "91dac40158f1e47bc4ec042c54f517ad859660d5c2585817118cdf7c241df9c7",
+"bytes": 166742,
+"metodo": "Lectura visual del fichero local, contrastando el detalle visible con la variante de la página. El nombre del archivo no es prueba."
+},
+{
+"ruta": "/media/burstner-nexxo-van-t-569-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "Bürstner Nexxo Van T 569",
+"resultado": "variante-cubierta",
+"visto": "La placa delantera lee Nexxo Van T 569.",
+"fundamento": "La variante descrita está en el vehículo.",
+"limite": "El año 2026 no está impreso. Eso no la declara incorrecta.",
+"sha256": "afa1d5b23fa34105149098604aca14ef37f30bef0778a928ca029eaf29838063",
+"bytes": 143644,
+"metodo": "Lectura visual del fichero local, contrastando el detalle visible con la variante de la página. El nombre del archivo no es prueba."
+},
+{
+"ruta": "/media/challenger-v-217-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "Challenger V217",
+"resultado": "variante-cubierta",
+"visto": "Se lee Challenger en el frontal y V217 en la puerta.",
+"fundamento": "La variante V217 está en el vehículo.",
+"limite": "El año no está impreso.",
+"sha256": "8a447ea7008c03a1c7a78ad370cf341e9fa126a7ff04ed872e36c8938bc126d5",
+"bytes": 160998,
+"metodo": "Lectura visual del fichero local, contrastando el detalle visible con la variante de la página. El nombre del archivo no es prueba."
+},
+{
+"ruta": "/media/motos/trs-xtrack-250-2025-ficha-tecnica-precio-1.webp",
+"modelo": "TRS Xtrack 250",
+"resultado": "pendiente-variante",
+"visto": "Se lee XTRACK en el depósito y los paramanos.",
+"fundamento": "La familia Xtrack sí. La cilindrada 250 no.",
+"limite": "No se declara incorrecta por el año.",
+"sha256": "36a3ce24eb11f939b7c04b9591efc2e5b4f26487e9cc871aeb8fd993de546a85",
+"bytes": 716616,
+"metodo": "Lectura visual del fichero local, contrastando el detalle visible con la variante de la página. El nombre del archivo no es prueba."
+},
+{
+"ruta": "/media/accesorios-caravana-04.webp",
+"modelo": "accesorio, no vehículo",
+"resultado": "no-es-modelo",
+"visto": "Climatizador portátil. Se lee ZERO BREEZE.",
+"fundamento": "Uso de accesorio. No se le pone etiqueta de autocaravana.",
+"limite": "No identifica un modelo de vehículo porque no es esa foto.",
+"sha256": "b677e8e8ea3c6a23382922f0f2ed74c1802aa7883f04f6ab314192ed8f969921",
+"bytes": 8110,
+"metodo": "Lectura visual del fichero local, contrastando el detalle visible con la variante de la página. El nombre del archivo no es prueba."
 }
-]
+],
+"no_modelo": 1,
+"hashes_duplicados_en_1390": "1383 hashes distintos en 1390 filas. Solo 7 pares idénticos. Esta tanda no comparte hash entre sí."
 }
