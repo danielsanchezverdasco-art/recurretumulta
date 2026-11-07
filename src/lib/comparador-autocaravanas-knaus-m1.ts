@@ -9,7 +9,7 @@
 // cama opcional); (d) bloque costeMensual eliminado; (e) carga útil sin dato publicado (Knaus no
 // publica la carga útil por modelo; el cálculo MMA−MRO queda prohibido); (f) analisisSlug
 // en formato «-analisis-opinion»; (g) fuenteNombre/fuenteUrl oficiales de knaus.com;
-// (h) precioDesde null (sin tarifa oficial española ni de otro país); (i) fotos en
+// (h) precioDesde = Preisliste oficial Knaus (EUR con IVA 19 %, en «aprox»; no es tarifa española); (i) fotos en
 // formato «-ext.webp» / «-interior.webp» (sin «-oficial.webp»); (l) pesoKg en «aprox»
 // por proceder de catálogo de red y no de knaus.com.
 import type { Autocaravana } from "./autocaravanas-tipos.ts";
@@ -21,7 +21,7 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     modelo: "BoxLife 600 MQ",
     tipo: "camper",
     categoria: "Autocaravana",
-    precioDesde: null, // Knaus no publica PVP oficial «desde» para el 600 MQ
+    precioDesde: 66590, // Lista MJ2027-1 del BoxLife: 66590 eur con el IVA alemán.
     potenciaCv: 140, // Fiat Ducato 2.2 Multijet, 103 kW; knaus.com
     autonomiaKm: null,
     maleteroL: null,
@@ -54,7 +54,7 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     parNm: null,
     traccion: "Delantera", // Fiat Ducato, tracción delantera; knaus.com
     emisionesCo2: null,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     notas:
       "Dimensiones, motor y equipamiento, de la página oficial del modelo en knaus.com. El peso (2.967 kg) procede de fichas de catálogo 2026 reproducidas por la red oficial de concesionarios —fuente secundaria— y va en «aprox» porque knaus.com no lo publica en su web.",
     curiosidades:
@@ -173,7 +173,7 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     modelo: "Sky TI 650 MEG",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: null, // Knaus no publica PVP oficial (solo configurador por concesionario)
+    precioDesde: 82930, // Lista MJ2026 del Sky TI 650: 82930 eur, impuesto alemán incluido.
     potenciaCv: 140, // Fiat Ducato 2.2 Multijet (103 kW), Euro 6e; manual de 6v de serie, automático de 8v opcional
     autonomiaKm: null,
     maleteroL: null,
@@ -206,7 +206,7 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     parNm: null,
     traccion: "Delantera", // Fiat Ducato, tracción delantera
     emisionesCo2: null,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     notas:
       "Dimensiones, motor y equipamiento, de la página oficial del modelo en knaus.com. El peso (2.990 kg) procede de fichas de catálogo 2026 reproducidas por la red oficial de concesionarios —fuente secundaria— y va en «aprox». La ficha corresponde al año modelo 2026 sobre Fiat Ducato; la generación siguiente cambia de chasis.",
     curiosidades:
