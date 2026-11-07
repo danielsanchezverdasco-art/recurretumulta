@@ -954,7 +954,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie A Connected",
-    precioEur: null, // Tarjeta del 7/11/2026: 449 eur, agotado, IVA incluido. El listado no escribe PVP.
+    precioEur: 449, //  serieA 449 eur agotado IVA 7/11/2026.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 25,
@@ -1349,7 +1349,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie M20",
-    precioEur: null, // Tarjeta M20: 279 eur, en stock, sin la palabra PVP.
+    precioEur: 279, //  m20 279 eur stock IVA 7/11/2026.
     potenciaNominalW: 350,
     potenciaPicoW: 500,
     autonomiaKm: 20,
@@ -1385,7 +1385,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie M30 Connected",
-    precioEur: null, // Tarjeta M30 Connected: 319 eur, agotado, sin PVP.
+    precioEur: 319, //  m30 319 eur agotado IVA 7/11/2026.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 30,
@@ -3108,7 +3108,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Cecotec",
   modelo: "Bongo D30",
-  precioEur: null, // Tarjeta D30: 269 eur, agotado, sin PVP.
+  precioEur: 269, //  d30 269 eur agotado IVA 7/11/2026.
   potenciaNominalW: 350,
   potenciaPicoW: 650,
   autonomiaKm: 30,

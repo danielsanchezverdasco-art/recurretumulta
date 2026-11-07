@@ -109,7 +109,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     videoCanal: "smartGyro",
     marca: "SmartGyro",
     modelo: "Smartgyro Rockway GL",
-    precioEur: 599,
+    precioEur: 599, // rockwayGl 599 eur con impuestos en smartgyro.es.
     potenciaNominalW: 600,
     potenciaPicoW: 1600,
     autonomiaKm: 45,
@@ -203,7 +203,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie S+ Max Unlimited",
-    precioEur: null, // Tarjeta Unlimited: 593,90 eur, agotado, sin PVP. 499 era un retailer.
+    precioEur: 593.9, //  unlimited 593.9 eur agotado IVA 7/11/2026. 499 era un retailer.
     potenciaNominalW: 350,
     potenciaPicoW: 750,
     autonomiaKm: 40,
@@ -250,7 +250,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo X45 Connected",
-    precioEur: null, // Tarjeta X45: 449 eur, agotado, sin PVP.
+    precioEur: 449, //  x45 449 eur agotado IVA 7/11/2026.
     potenciaNominalW: 350,
     potenciaPicoW: 750,
     autonomiaKm: 45,
@@ -363,7 +363,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo D20E Connected",
-    precioEur: null, // Tarjeta del D20E el 7/11/2026: 159 eur, agotado, sin la palabra PVP.
+    precioEur: 159, //  d20e 159 eur agotado IVA 7/11/2026.
     potenciaNominalW: 250,
     potenciaPicoW: 500,
     autonomiaKm: 20,
@@ -443,7 +443,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo GS65 2x2 XXL Connected",
-    precioEur: null, // Tarjeta GS65: 449 eur, agotado, sin PVP.
+    precioEur: 449, //  gs65 449 eur agotado IVA 7/11/2026.
     potenciaNominalW: 750,
     potenciaPicoW: 1000,
     autonomiaKm: 65,

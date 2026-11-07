@@ -50,3 +50,9 @@ Consulta de las fichas de producto en cecotec.es el 7 de noviembre de 2026. El i
 Fotos de portada del blog que mostraban otro modelo (D20E, D30 XL, Serie A Plus o Z Mountain) pasan a `/media/patinetes/<id>-1.webp`, la misma toma que ya usa la ficha de ese id. Esas tomas son de producto de la marca y no tienen fila de licencia abierta en `media-creditos.md`. No se afirma una licencia Commons.
 
 Residual fuera de estos nueve id: el resto de Bongo (p6, p10, p11, p12 y el comparador base) no se ha reabierto en esta pasada. La moto `cecotec-vulcano-2025-ficha-tecnica-precio` queda fuera del lote de patinetes.
+
+## Corrección 7/11, segunda pasada
+
+El campo se muestra como «Precio oficial» / «Precio desde», no como PVP. Cuando cecotec.es vende el modelo con IVA, ese importe vuelve al campo, fechado el 7/11/2026. No se llama PVP. Siguen vacíos los que no están en la tienda: Serie A sin Connected (404), Serie S Infinity, Advance Connected, Advance Max, Z+ On Road, Z City, Z Mountain, Z Power Mountain, Z Power City y A+ Max 45.
+
+Fotos: https://cecotec.es/es/information/condiciones-de-uso apartado VI reserva las imágenes y prohíbe la reproducción comercial. Commons no tiene archivos «Cecotec Bongo» ni «Cecotec Vulcano» (API de búsqueda, 0 resultados). Las filas de media-creditos marcadas «prensa» apuntan a cecotec.es y a media.cecotec.cloud; eso no es un permiso. Las galerías no se han borrado y el área de fotos no está cerrada.

@@ -1455,7 +1455,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     modelo: "Vulcano",
     version: "2025",
     categoria: "Scooter",
-    precioDesde: null, // Tienda 7/11/2026: 4.999 eur con IVA en Vulcano blanco/rojo (en stock) y titanio (agotado). La página no escribe PVP. Executive Series es otro modelo, a 5.499 eur.
+    precioDesde: 4999, //  vulcano 4999 eur stock IVA 7/11/2026. Titanio agotado al mismo importe. Executive 5499 es otra moto.
     potenciaKw: 6,
     potenciaCv: 8.2,
     autonomiaKm: 151,

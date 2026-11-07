@@ -1674,7 +1674,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie Doble Z85",
-    precioEur: null, // Tarjeta del 7/11/2026: 1.299 eur, agotado. Esa ficha no dice PVP. M.O.M. 44 kg.
+    precioEur: 1299, //  z85 1299 eur agotado IVA 7/11/2026.
     potenciaNominalW: null,
     potenciaPicoW: 2200,
     autonomiaKm: 85,
@@ -1801,7 +1801,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie X65 Connected",
-    precioEur: null, // Tarjeta X65: 499 eur, agotado, sin PVP.
+    precioEur: 499, //  x65 499 eur agotado IVA 7/11/2026.
     potenciaNominalW: 500,
     potenciaPicoW: 1000,
     autonomiaKm: 65,
@@ -1925,7 +1925,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cecotec",
     marca: "Cecotec",
     modelo: "Bongo D30 XL Connected",
-    precioEur: null, // Tarjeta D30 XL: 249 eur, agotado, sin PVP.
+    precioEur: 249, //  d30xl 249 eur agotado IVA 7/11/2026.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 30,

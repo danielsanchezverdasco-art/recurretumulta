@@ -34,7 +34,7 @@ export interface PatineteComparador {
   id: string;              // slug corto del modelo
   marca: string;           // ej. "Xiaomi"
   modelo: string;          // ej. "Electric Scooter 5"
-  precioEur: number | null;       // PVP oficial en España (€); null = no publicado
+  precioEur: number | null;       // Precio de venta oficial en España, IVA incluido (€). Null si no hay tarifa de la marca. No equivale a la palabra PVP cuando la fuente no la usa.
   potenciaNominalW: number | null;
   potenciaPicoW: number | null;
   autonomiaKm: number | null;     // declarada por el fabricante

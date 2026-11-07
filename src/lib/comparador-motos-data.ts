@@ -70,7 +70,7 @@ export interface MotoComparador {
   modelo: string;        // ej. "S01"
   version: string;       // versión comercial, ej. "S01 Connected"
   categoria: string;     // "Scooter" | "Urbana" | "Naked" | "Trail"
-  precioDesde: number | null;   // euros, PVP España
+  precioDesde: number | null;   // euros, precio de venta oficial en España con IVA. No equivale a la palabra PVP si la fuente no la escribe.
   potenciaKw: number | null;
   potenciaCv: number | null;
   /** Cilindrada real en cm³ (solo combustión). null en eléctricas o si no hay dato verificado. No inventar. */

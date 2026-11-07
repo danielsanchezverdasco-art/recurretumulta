@@ -11,7 +11,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo D40 XL Connected",
-    precioEur: null, // Tarjeta cecotec.es 7/11/2026: 299 eur, agotado, IVA incluido. La página no escribe PVP. 458 era de terceros.
+    precioEur: 299, //  d40xl 299 eur agotado IVA 7/11/2026. 458 era de terceros.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 40,
@@ -54,7 +54,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo D20 XL Connected",
-    precioEur: null, // Listado D20 XL: 219 eur en stock, IVA incluido, sin escribir PVP. Pixmania pedía 257,65.
+    precioEur: 219, //  d20xl 219 eur stock IVA 7/11/2026. Pixmania pedía 257,65.
     potenciaNominalW: 300,
     potenciaPicoW: 630,
     autonomiaKm: 20,
@@ -110,7 +110,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo D20 Mobile",
-    precioEur: null, // Tarjeta del D20 Mobile el 7/11/2026: 249 eur, en stock. Sin la palabra PVP. El 21/10 marcaba 229.
+    precioEur: 249, //  d20mobile 249 eur stock IVA 7/11/2026. El 21/10 marcaba 229.
     potenciaNominalW: 250,
     potenciaPicoW: 500,
     autonomiaKm: 20,
@@ -237,7 +237,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo GS50 XXL Connected",
-    precioEur: null, // Tarjeta del GS50 el 7/11/2026: 369 eur, agotado. El listado no escribe PVP en esa ficha.
+    precioEur: 369, //  gs50 369 eur agotado IVA 7/11/2026.
     potenciaNominalW: 350,
     potenciaPicoW: 800,
     autonomiaKm: 50,
@@ -370,7 +370,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo D40 XL Suspension Connected",
-    precioEur: null, // Tarjeta del Suspension el 7/11/2026: 329 eur, agotado, IVA incluido, sin la palabra PVP. Pixmania pedía 386.
+    precioEur: 329, //  suspension 329 eur agotado IVA 7/11/2026. Pixmania pedía 386.
     potenciaNominalW: 350,
     potenciaPicoW: 800,
     autonomiaKm: 40,
@@ -536,9 +536,9 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "smartGyro",
     marca: "SmartGyro",
     modelo: "Rockway Evo",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: 559, // rockwayEvo 559 eur con impuestos, en stock. 699 tachado.
     potenciaNominalW: 500,
-    potenciaPicoW: null,
+    potenciaPicoW: 1500,
     autonomiaKm: 50,
     autonomiaRealKm: 34,
     velocidadMaxKmh: 25,
@@ -548,7 +548,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: null,
     frenos: null,
     neumaticos: 'Neumáticos de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true,
     foto: "/media/patinetes/smartgyro-rockway-evo-1.webp",
     galeria: [
       {
@@ -573,17 +573,14 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "Reviews en YouTube español (LlegaVideos) para verlo en acción",
     ],
     contras: [
-      "Sin precio oficial: Smartgyro no publica un PVP verificable del Rockway Evo",
-      "Ficha técnica incompleta: frenos y batería sin publicar",
-      "Sin certificado DGT verificado",
-      "El peso no está publicado",
-      "500 W se quedan justos frente al Rockway Pro (800 W)",
-      "Sin suspensión declarada",
+      "559 € es el precio actual con impuestos; 699 € sale tachado",
+      "La página no publica el peso",
+      "500 W nominales quedan por debajo del pico de 1.500 W",
     ],
     veredicto:
-      "El Rockway Evo es la puerta de entrada a la gama Rockway: 50 km por ~505 €. Si el presupuesto manda y no necesitas la potencia del Pro, cumple.",
-    fuenteNombre: "soysuper",
-    fuenteUrl: "https://soysuper.com/",
+      "El Rockway Evo declara 50 km y 1.500 W de pico. Hoy la tienda lo cobra a 559 € con impuestos; 699 € está tachado.",
+    fuenteNombre: "smartGyro",
+    fuenteUrl: "https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-evo",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app Smartgyro Core (iOS/Android), si el modelo la soporta",
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
@@ -658,9 +655,9 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "txiki go",
     marca: "SmartGyro",
     modelo: "Rockway GT",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: 599, // rockwayGt 599 eur con impuestos. 699 tachado.
     potenciaNominalW: 800,
-    potenciaPicoW: null,
+    potenciaPicoW: 1800,
     autonomiaKm: 60,
     autonomiaRealKm: 41,
     velocidadMaxKmh: 25,
@@ -702,9 +699,9 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "Sin precio oficial: Smartgyro no publica un PVP verificable del Rockway GT",
     ],
     veredicto:
-      "El Rockway GT es el 800 W honesto de Smartgyro: 60 km por menos de 690 €. Si no necesitas la suspensión regulable del Pro Evo, aquí está el ahorro.",
-    fuenteNombre: "PcComponentes",
-    fuenteUrl: "https://www.pccomponentes.com/",
+      "El Rockway GT sale a 599 € con impuestos; 699 € está tachado. Declara 60 km y 1.800 W de pico.",
+    fuenteNombre: "smartGyro",
+    fuenteUrl: "https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gt",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app Smartgyro Core (iOS/Android)",
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
@@ -777,10 +774,10 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "SmartGyro",
     modelo: "Rockway GTS",
-    precioEur: 779,
+    precioEur: 779, // rockwayGts 779 eur con impuestos, en stock.
     potenciaNominalW: 800,
-    potenciaPicoW: 1800,
-    autonomiaKm: 60,
+    potenciaPicoW: 2000,
+    autonomiaKm: 75,
     autonomiaRealKm: 51,
     velocidadMaxKmh: 25,
     pesoKg: 30,
@@ -821,9 +818,9 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "Tiempo de carga no publicado (apunta a largo)",
     ],
     veredicto:
-      "El GTS es el rutero puro de Smartgyro: 60 km declarados por 779 €, con DGT y 3 años de garantía. Si haces 30+ km al día, es su modelo con más sentido; si no, el GT te ahorra dinero.",
-    fuenteNombre: "PcComponentes",
-    fuenteUrl: "https://www.pccomponentes.com/",
+      "El GTS declara 75 km y 2.000 W de pico. La tienda lo vende a 779 € con impuestos, en stock.",
+    fuenteNombre: "smartGyro",
+    fuenteUrl: "https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gts",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app Smartgyro Core (iOS/Android)",
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
