@@ -123,7 +123,7 @@ Si te llega una multa con tu coche nuevo, recuerda: <a href=https://recurretumul
       "station wagon eléctrico chino",
       "nio et5 touring vs bmw i5 touring"
     ],
-    "content": `<img src=/media/nio-et5-touring-2025-precio-ficha-tecnica-hero.webp alt=Nio ET5 Touring 2025, familiar eléctrico premium chino azul, vista tres cuartos delantera>
+    "content": `<img src=/media/nio-et5-touring-2025-precio-ficha-tecnica-hunt1.webp alt=Nio ET5 Touring 2025, familiar eléctrico premium chino azul, vista tres cuartos delantera>
 
 **¿Buscas solo los datos?** <a href=/coches/nio-et5-touring-2025-precio-ficha-tecnica/>Ver ficha técnica del Nio ET5 Touring</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -217,7 +217,7 @@ Si te llega una multa con tu coche nuevo, recuerda: <a href=https://recurretumul
       "nio et7 vs tesla model s",
       "nio et7 batería 150 kwh"
     ],
-    "content": `<img src=/media/nio-et7-2024-precio-ficha-tecnica-hero.webp alt=Nio ET7, berlina insignia eléctrica premium china negra, vista tres cuartos delantera>
+    "content": `<img src=/media/nio-et7-2024-precio-ficha-tecnica-hunt1.webp alt=Nio ET7, berlina insignia eléctrica premium china negra, vista tres cuartos delantera>
 
 **¿Buscas solo los datos?** <a href=/coches/nio-et7-2024-precio-ficha-tecnica/>Ver ficha técnica del Nio ET7</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -311,7 +311,7 @@ Si te llega una multa con tu coche nuevo, recuerda: <a href=https://recurretumul
       "nio el6 vs tesla model y",
       "nio es6 europa el6"
     ],
-    "content": `<img src=/media/nio-el6-2024-precio-ficha-tecnica-hero.webp alt=Nio EL6, SUV eléctrico premium chino blanco, vista tres cuartos delantera>
+    "content": `<img src=/media/nio-el6-2024-precio-ficha-tecnica-hunt1.webp alt=Nio EL6, SUV eléctrico premium chino blanco, vista tres cuartos delantera>
 
 **¿Buscas solo los datos?** <a href=/coches/nio-el6-2024-precio-ficha-tecnica/>Ver ficha técnica del Nio EL6</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -500,7 +500,7 @@ Si te llega una multa con tu coche nuevo, recuerda: <a href=https://recurretumul
       "nio el8 autonomía 510 km",
       "nio el8 vs tesla model x"
     ],
-    "content": `<img src=/media/nio-el8-2024-precio-ficha-tecnica-hero.webp alt=Nio EL8, SUV insignia eléctrico chino blanco de 6 plazas, vista tres cuartos delantera>
+    "content": `<img src=/media/nio-el8-2024-precio-ficha-tecnica-hunt1.webp alt=Nio EL8, SUV insignia eléctrico chino blanco de 6 plazas, vista tres cuartos delantera>
 
 **¿Buscas solo los datos?** <a href=/coches/nio-el8-2024-precio-ficha-tecnica/>Ver ficha técnica del Nio EL8</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -595,7 +595,7 @@ Si te llega una multa con tu coche nuevo, recuerda: <a href=https://recurretumul
       "nio ec6 europa",
       "nio ec6 nt 2.0"
     ],
-    "content": `<img src=/media/nio-ec6-2024-precio-ficha-tecnica-hero.webp alt=Nio EC6 2024, SUV coupé eléctrico chino rojo, vista tres cuartos delantera>
+    "content": `<img src=/media/nio-ec6-2024-precio-ficha-tecnica-hunt1.webp alt=Nio EC6 2024, SUV coupé eléctrico chino rojo, vista tres cuartos delantera>
 
 **¿Buscas solo los datos?** <a href=/coches/nio-ec6-2024-precio-ficha-tecnica/>Ver ficha técnica del Nio EC6</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 

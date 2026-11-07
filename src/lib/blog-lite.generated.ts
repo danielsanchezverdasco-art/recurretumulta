@@ -64171,7 +64171,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-08",
     "locale": "all",
-    "heroSrc": "/media/tesla-cybertruck-2026-precio-ficha-tecnica-hero.webp",
+    "heroSrc": "/media/tesla-cybertruck-2026-precio-ficha-tecnica-hunt1.webp",
     "heroAlt": "Tesla Cybertruck 2026 pick-up eléctrica",
     "keywords": [
       "tesla cybertruck europa",
