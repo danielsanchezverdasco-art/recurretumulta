@@ -1,8 +1,23 @@
 # Ledger de aportaciones — candidato local
 
-Estado del encargo a partir de `9ce92f2e9`. Este fichero es el tablero único de lo revisado y lo pendiente. La clasificación por hash o por conflicto de la matriz no cuenta como revisión semántica. Un medidor en cero de frases nuevas no demuestra que la prosa de la web sea única.
+Tablero al commit `73da762b7`, más el arreglo de rutas `/coches`, `/motos` y `/patinetes` en `scripts/routes.json` para que el prerender no las pierda. La clasificación por hash no es revisión semántica. Cero frases nuevas del medidor incremental no es originalidad absoluta del HTML renderizado.
 
-No se ha generado dist, ni prerender, ni prueba de velocidad. Las fotos y las cookies no están cerradas. La web no está completa.
+El dist de `/workspace` (bundle `index-C31lVF6x.js`, HEAD de respaldo `dfddce39c`) no es este candidato. El dist anterior del candidato (`index-C2gPq3-G.js`) está apartado en `dist-checkpoint-C2gPq3-G`. El build local de este HEAD escribe en `dist/`. No hay listado nuevo de Netlify: sin token no se afirma cuántas reglas tiene el deploy.
+
+Las 616 cifras en las que la rama difiere del candidato **no están resueltas**. Se conserva el número del candidato porque no hay fuente nueva. Quedan **no verificadas**.
+
+## Por área
+
+- **Autocaravanas, texto.** Integrado con fuente: Sky TI 650 MEG (Preisliste 2026-1: 82.930 € IVA alemán, 2 plazas de noche, 2.958 kg) y Lyseo TD 690 G (82.530 CHF fuera del campo en euros; 80.750 € no es tarifa). Merlín 1 alineado donde la ficha y la fuente coincidían. Merlín 2, 4 y 5 leídos en cifras, enlaces, fotos y estructura: la reescritura del 24/10 está absorbida (más corta, sin fotos nuevas). Pendiente: el resto de conflictos de texto de la matriz `/tmp/audit738/grupos.jsonl` (HEAD de aquella pasada `15c4b6b04`), no leídos frase a frase.
+- **Enlaces de ficha.** Integrado y comprobado tras hidratar en las 124 URLs, a 390 y 1366: H1, canónica y destino. Los cinco slugs de nombre distinto apuntan al id real del mismo modelo.
+- **Carrusel.** Integrado en `6b6202d77`. La diapositiva cabe en el carrusel y se desplaza. El desborde de 24 px a 390 era la URL larga de curiosidades y la fila de pestañas, no un recorte de fotos. Comprobado en las 124 fichas a 390 y 1366: documento sin scroll horizontal, foto visible y no es logo, carrusel desplazable, contador, ampliar y flecha a 1366.
+- **Coches, bloques.** 34 de 126 absorbidos (el id ya los tiene). 92 no integrados: programa de marca o Euro NCAP sin ficha de resultado leída. Registro: `BLOQUES-COCHES-126-20261107.jsonl`. Estado: no verificado en la página del modelo, no resuelto.
+- **Coches, cifras.** 616 diferencias de rama contra el campo vivo, sin fuente. No verificadas. 16 filas del jsonl guardaban una frase en vez del campo; el valor vivo ya es el de la ficha.
+- **Grecale.** Doce reglas `301!` del snapshot histórico siguen sin copiarse. Las tres fichas dedicadas contradicen al padre. Conflicto abierto en `PROPUESTA-REDIRECTS-GRECALE.md`. No se anuncia que el deploy tenga cero reglas de más: no hay listado completo de Netlify.
+- **Patinetes y Cecotec.** Integrado lo que tenía fila DGT o precio de tienda con IVA fechado. Pendiente: Ninebot por código de fábrica, Raptor Dual, K2 a secas, precios solo de retailer, fotos Cecotec sin licencia (`LOTE-CECOTEC-P2-20261107.md`).
+- **Fotos de blog.** 111 portadas revertidas por licencia desconocida o modelo que no coincide. Pendiente. Siete con licencia abierta se conservaron.
+- **Protegidos.** Sin autorización y sin edición: `blog-data.ts` `9a1a70586dd08dc60369d924527f3b45630dce8c`, `blog-posts-autocaravanas-lote125-g02.ts` `771edad218688daf83646811cea25d05648f4bf5`, `blog-posts-autocaravanas-lote125.ts` `d468ba84640ff13b32b857bc11eda28c59dda0fc`.
+- **Dist de este HEAD.** En curso. El prerender, el postproceso, el sitemap frente a las 6209, las fotos del HTML real y las cookies se comprueban cuando el build termina. No es un cierre de la web.
 
 ## Integrado en este lote (enlaces de ficha)
 
@@ -30,7 +45,7 @@ Del commit salen 409 anclas cambiadas y 124 destinos distintos. Cada destino se 
 
 Clics desde el artículo, a 1366 y a 390: BoxLife abre Knaus BoxLife 600 MQ en `/campers/`; Itineo PF600, Carado T 338 EDITION27, Giottiline Therry T34 y Autostar Passion P730LC Lift abren su ficha en `/autocaravanas/`; Cap Land y Etrusco V 5.9 DB abren la suya en `/campers/`. El H1 de llegada es el modelo, no el título del artículo.
 
-A 390, varias fichas de `/autocaravanas/` miden 414 px de scroll frente a 390. El exceso es el carrusel de fotos (figuras en fila con `snap`). No cambia la entidad ni la canónica. La BoxLife en `/campers/` no se sale.
+A 390 el documento medía 414 px. El carrusel ya se desplazaba dentro de su caja. Lo que sobraba era una URL larga en curiosidades y la pestaña FAQ. Eso se corrigió en `6b6202d77` sin ocultar fotos.
 
 Los cinco slugs que no coincidían letra por letra ya apuntan, en el botón de la ficha, al id real:
 
