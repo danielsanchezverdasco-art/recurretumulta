@@ -22,7 +22,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 648,
     categoria: "Clásica",
-    precioDesde: 6787, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 6987, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 34.9,
     potenciaCv: 47,
     autonomiaKm: null,

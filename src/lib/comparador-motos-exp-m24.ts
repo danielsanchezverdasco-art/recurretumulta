@@ -460,7 +460,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 471,
     categoria: "Custom",
-    precioDesde: 6350, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 6450, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47,
     autonomiaKm: null,
@@ -2935,7 +2935,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 895,
     categoria: "Naked",
-    precioDesde: 10650,
+    precioDesde: 9960,
     potenciaKw: 77,
     potenciaCv: 105,
     autonomiaKm: null,
@@ -3272,7 +3272,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 890,
     categoria: "Trail",
-    precioDesde: 19390, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 19790, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 84.6,
     potenciaCv: 115,
     autonomiaKm: null,
@@ -3337,7 +3337,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 890,
     categoria: "Naked",
-    precioDesde: 16590, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 16990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 88,
     potenciaCv: 120,
     autonomiaKm: null,
@@ -3402,7 +3402,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 1158,
     categoria: "Custom",
-    precioDesde: 31090, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 32190, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 124,
     potenciaCv: 168,
     autonomiaKm: null,

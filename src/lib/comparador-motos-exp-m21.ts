@@ -1080,7 +1080,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1802,
     categoria: "Custom",
-    precioDesde: 23560,
+    precioDesde: 19990,
     potenciaKw: 67,
     potenciaCv: 91,
     autonomiaKm: null,
