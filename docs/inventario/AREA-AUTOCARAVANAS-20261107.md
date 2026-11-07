@@ -31,6 +31,10 @@ Merlín 2: los diez artículos ya traen las mismas cifras que la reescritura del
 
 Merlín 3: Frankia y Mobilvetta ya dicen que 142.000 € y 109.888–121.050 € son anuncios, no tarifa de fábrica. Bürstner Lyseo TD 690 G llamaba «PVP recomendado» a 80.750 €. La ficha guardaba 82.530 francos suizos en el campo de euros. El campo queda vacío y el artículo deja de presentar esa cifra como tarifa en euros.
 
+Merlín 4: los diez artículos ya dicen que la marca no publica precio. No se ha copiado ninguna cifra de ficha. El Itineo PF600 deja la MMA sin dato de fábrica; la ficha guarda 3.500 kg de concesionario y el artículo no lo da por oficial. Residual, no sustituido.
+
+Merlín 5: el Knaus Sky TI 650 MEG decía que Knaus no publica precio y que se duerme a cuatro. La Preisliste 2026-1 (impresión de julio de 2025, tabla SKY TI 650 MEG) marca 82.930 € con IVA alemán del 19 %, 2 plazas de noche como máximo, 2.958 kg en orden de marcha y 166 kg de tope para extras de fábrica. Auto Zeitung recoge el mismo importe. El artículo y las dos fichas del modelo quedan en esos datos. El 82.930 € no se presenta como tarifa española. Los otros nueve artículos del módulo ya separan tarifa de anuncio o de libras; no se les ha copiado el número de la ficha.
+
 
 Los blobs marcados `no_leible` se leen con `git cat-file`: son UTF-8. La matriz no los abrió; no se descartan.
 
