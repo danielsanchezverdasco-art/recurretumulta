@@ -152,7 +152,14 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
   const registrada = fotoModelo(patinete.id);
   const principal = registrada?.src || (!patinete.fotoPendiente ? patinete.foto : "");
   const fotosTop: FotoFicha[] = [
-    ...(principal ? [{ src: principal, alt: `Foto oficial del ${nombre}`, ancho: dimDe(principal)?.[0], alto: dimDe(principal)?.[1] }] : []),
+    ...(principal
+      ? [{
+          src: principal,
+          alt: `Foto oficial del ${nombre}`,
+          ancho: dimDe(principal)?.[0],
+          alto: dimDe(principal)?.[1],
+        }]
+      : []),
     ...(patinete.galeria ?? []).map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
   ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
   const datosClave: DatoClave[] = [

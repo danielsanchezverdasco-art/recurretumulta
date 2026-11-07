@@ -175,7 +175,14 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
   const principal = registrada?.src || moto.imagen;
   const galeriaConFoto = moto.galeria.filter((f) => fotoVisible(f.src) && f.src !== principal);
   const fotosTop: FotoFicha[] = [
-    ...(principal && fotoVisible(principal) ? [{ src: principal, alt: `Foto oficial de la ${nombre}`, ancho: dimDe(principal)?.[0], alto: dimDe(principal)?.[1] }] : []),
+    ...(principal && fotoVisible(principal)
+      ? [{
+          src: principal,
+          alt: `Foto oficial de la ${nombre}`,
+          ancho: dimDe(principal)?.[0],
+          alto: dimDe(principal)?.[1],
+        }]
+      : []),
     ...galeriaConFoto.map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
   ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
   const datosClave: DatoClave[] = [
