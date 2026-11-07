@@ -2824,8 +2824,3 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
 ];
 
-/* cifras-ramas-711
-intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
-nombre: "Revisión intermedia / 15.000 km",
-nombre: "Revisión principal / 30.000 km",
-*/

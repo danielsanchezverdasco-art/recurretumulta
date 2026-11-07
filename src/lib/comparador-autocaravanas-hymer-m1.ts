@@ -301,7 +301,3 @@ Para quién es: la Hymer ML-T 580 4x4 CrossTrail es para el viajero que quiere u
   },
 ];
 
-/* cifras-ramas-711
-Cómo lo verificamos: precio «desde» de 141.000 euros para la gama B-MC I en Alemania, según la nota de prensa oficial de Hymer sobre la nueva B-MC (septiembre de 2025), verificada el 19 de octubre de 2026.
-Cómo lo verificamos: precio base de 165.900 euros en Alemania para la edición ML-T 580 CrossTrail, según la nota de prensa oficial de Hymer (septiembre de 2025), verificada el 19 de octubre de 2026.
-*/

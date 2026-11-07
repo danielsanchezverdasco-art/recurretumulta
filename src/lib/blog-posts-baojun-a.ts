@@ -95,8 +95,3 @@ export const BAOJUN_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-*Fuentes: <a href=https://cnevpost.com/2024/04/12/saic-gm-wuling-baojun-launches-updated-yep-and-new-yep-plus/>CnEVPost</a>, <a href=https://www.carscoops.com/2023/06/saic-gm-wulings-baojun-yep-tiny-electric-suv-starts-at-just-11240/>Carscoops</a>, <a href=https://insideevs.com/news/677246/baojun-yep-mini-suv-video-review/>InsideEVs</a>.*"
-*Fuentes: <a href=https://carnewschina.com/2024/04/12/baojun-yep-plus-all-electric-suv-enters-market-in-china/>CarNewsChina</a>, <a href=https://cnevpost.com/2024/04/12/saic-gm-wuling-baojun-launches-updated-yep-and-new-yep-plus/>CnEVPost</a>.*"
-*Fuentes: <a href=https://electrek.co/2023/08/11/gm-launches-baojun-cloud-ev-china-starting-14k/>Electrek</a>, <a href=https://en.wikipedia.org/wiki/Baojun_Yunduo>Wikipedia</a>, <a href=https://www.electrive.com/2023/08/14/saic-gm-wuling-introduces-small-ev-baojun-yunduo/>electrive</a>.*"
-*/

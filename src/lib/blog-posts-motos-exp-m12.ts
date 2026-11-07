@@ -272,8 +272,3 @@ export const MOTOS_EXP_M12_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-**112,5 km/h reales** medidos con telemetría por moto125.cc (unos 120 km/h de marcador).
-"title": "SYM Maxsym TL 508 2026: precio de 8.999 € y ficha técnica",
-"excerpt": "El SYM Maxsym TL 508 2026 desde 8.999 €: bicilíndrico de 508 cc, 45,5 CV, TFT y 5 años de garantía.
-*/

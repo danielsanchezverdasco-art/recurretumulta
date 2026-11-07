@@ -31,6 +31,7 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["velocidadMax", "pesoKg"],
     pros: [
+      "Y refrigerante, de aceite, y los niveles, de los neumáticos, la presión, Verifica cada 1.000 km",
       "Bicilíndrico de 449,5 cc con calado a 270°: sonido y tacto que enamoran, destacan todas las pruebas",
       "Suspensiones KYB totalmente regulables y chasis tubular de acero: parte ciclo de trail de verdad",
       "Botón dedicado para desconectar el ABS trasero: pensada para el campo de verdad",
@@ -3164,8 +3165,3 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   },
 ];
 
-/* cifras-ramas-711
-intervaloMantenimiento: "Primera revisión a los 1.000 que llegue, al año (lo, o una vez, km; después cada 6.000 km antes)",
-"Y refrigerante, de aceite, y los niveles, de los neumáticos, la presión, Verifica cada 1.000 km",
-intervaloMantenimiento: "Aceite y a los, 6.000 km (primera revisión, filtro de aceite cada 1.000 km); refrigerante cada 2 años",
-*/

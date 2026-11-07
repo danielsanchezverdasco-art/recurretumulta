@@ -186,8 +186,3 @@ export const AUTOCARAVANAS_LOTE125_G04_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-El Ducato de 140 CV cumple, pero con la integral cargada se queda corto subiendo puertos; calcula un consumo en torno a 12 l/100 km.
-El salón face-to-face deja viajar a cuatro con holgura, la cocina es de uso real y el frigorífico de compresión ofrece 174 litros, entre los mayores del segmento.
-La construcción combina 100 % poliéster con Styrofoam.
-*/

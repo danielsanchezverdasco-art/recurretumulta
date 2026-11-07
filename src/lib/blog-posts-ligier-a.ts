@@ -140,8 +140,3 @@ export const LIGIER_POSTS: BlogPost[] = [
   },
 ]
 
-/* cifras-ramas-711
-*Fuentes: <a href=https://automovilesligier.es>Ligier España</a>, <a href=https://www.amaxofilia.com>amaxofilia</a>, <a href=https://www.coches.net>coches.net</a>, <a href=https://www.dgt.es>DGT</a>.*"
-*Fuentes: <a href=https://automovilesligier.es>Ligier España</a>, <a href=https://renting-automocion.com>Renting Automoción</a>, <a href=https://www.dgt.es>DGT</a>.*"
-*Fuentes: <a href=https://www.autonocion.com>Autonoción</a>, <a href=https://renting-automocion.com>Renting Automoción</a>, <a href=https://www.amaxofilia.com>amaxofilia</a>, <a href=https://www.dgt.es>DGT</a>.*"
-*/

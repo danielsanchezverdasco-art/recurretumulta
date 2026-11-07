@@ -175,8 +175,3 @@ export const AUTOCARAVANAS_LOTE125_G06_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-excerpt: "El Rapido V62 2026 vuelve con serie 65 aniversario, cama francesa de 125 por 198 cm y base Boxer de 140 CV.
-La cocina dibuja una ele y monta una nevera de 146 litros, pensada para cocinar en ruta de verdad.
-El depósito admite 90 litros de diésel y el precableado para placa solar y cámara trasera permiten ampliar la autonomía sin grandes obras.
-*/

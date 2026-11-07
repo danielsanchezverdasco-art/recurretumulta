@@ -31,6 +31,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
+      "15.000 km/año; diésel 1,55 €/l; todo riesgo.",
       "Motor 3.0 V6 TDI de 241 CV: el pick-up más potente de su clase en Europa",
       "Tracción 4MOTION permanente y 8,8 s de 0-100, cifras de turismo",
       "Caja de carga con 1,16 toneladas de capacidad y 3.500 kg de remolque",
@@ -1204,8 +1205,3 @@ export const COCHES_EXP17: CocheComparador[] = [
   },
 ];
 
-/* cifras-ramas-711
-"15.000 km/año; diésel 1,55 €/l; todo riesgo.",
-intervalo: "12 meses o 15.000 km; servicio flexible LongLife hasta 24 meses o 30.000 km",
-fuente: "Plan de servicio Volkswagen (fijo 15 en concreto.000 km/12 meses; flexible LongLife de hecho 30.000 km/24 meses)",
-*/

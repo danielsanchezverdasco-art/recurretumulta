@@ -150,8 +150,3 @@ export const WULING_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-*Fuentes: <a href=https://cnevpost.com/2025/02/23/wuling-launches-4-door-mini-ev/>CnEVPost</a>, <a href=https://data.carnewschina.com/database/wuling/wuling-hongguang-mini-ev/2025>CarNewsChina</a>, <a href=https://es.digitaltrends.com/autos/este-adorable-vehiculo-electrico-chino-es-barato-y-supera-los-305-kms/>Digital Trends</a>.*"
-*Fuentes: <a href=https://cnevpost.com/2022/12/13/wuling-air-ev-officially-launched-in-china/>CnEVPost</a>, <a href=https://en.wikipedia.org/wiki/Wuling_Air_EV>Wikipedia</a>, <a href=https://techlekh.com/wuling-air-ev-price-nepal/>TechLekh</a>.*"
-*Fuentes: <a href=https://carnewschina.com/2024/12/18/wuling-bingo-sales-reached-400000-units-since-launch-in-2023/>CarNewsChina</a>, <a href=https://en.wikipedia.org/wiki/Wuling_Binguo>Wikipedia</a>.*"
-*/

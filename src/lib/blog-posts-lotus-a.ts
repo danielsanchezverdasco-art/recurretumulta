@@ -127,8 +127,3 @@ export const LOTUS_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-*Fuentes: <a href=https://www.km77.com/coches/lotus/eletre/2023/estandar/datos?amp=1>km77</a>, <a href=https://www.coches.net/fichas_tecnicas/lotus/eletre/suv/5-puertas/600_612cv_electrico/114211/847285920250310/>coches.net</a>.*"
-*Fuentes: <a href=https://www.km77.com/coches/lotus/eletre/2023/estandar/estandar/eletre-r/datos>km77</a>, <a href=https://www.autonocion.com/lotus-eletre-detalles-gama-europa/>Autonoción</a>.*"
-*Fuentes: <a href=https://www.coches.net/videos/lotus-eletre-x>coches.net</a>, <a href=https://forococheselectricos.com/noticias/lotus-eletre-x-hibrido-enchufable-350-km-autonomia-electrica-20260603-41153.html>ForoCochesEléctricos</a>, <a href=https://movilidadelectrica.com/lotus-eletre-x-hibrido-952-cv-autonomia-1200-km/>Movilidad Eléctrica</a>.*"
-*/

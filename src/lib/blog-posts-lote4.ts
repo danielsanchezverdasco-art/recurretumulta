@@ -284,8 +284,3 @@ export const LOTE4_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-*Fuentes: <a href=https://www.autonocion.com/motornocion/bugatti-v16-atomosferico-tourbillon/>autonocion.com</a>, <a href=https://www.todosobreautos.com/bugatti-tourbillon-analisis-hipercoche/>todosobreautos.com</a>*"
-*Fuentes: <a href=https://www.todosobreautos.com/rimac-nevera-r-analisis-hiperauto-electrico/>todosobreautos.com</a>, <a href=https://www.elgaragedepepino.com/noticias/rimac-nevera-r%3A-el-nuevo-rey-de-la-velocidad>elgaragedepepino.com</a>*"
-*Fuentes: <a href=https://revistacar.es/koenigsegg-gemera/>revistacar.es</a>, <a href=https://www.todosobreautos.com/analisis-koenigsegg-gemera-sistema-propulsion/>todosobreautos.com</a>*"
-*/

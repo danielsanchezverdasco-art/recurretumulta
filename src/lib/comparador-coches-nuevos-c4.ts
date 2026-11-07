@@ -1897,8 +1897,3 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
   },
 ];
 
-/* cifras-ramas-711
-fuenteUrl: "https://www.toyota.es/coches/yaris-cross",
-fuenteUrl: "https://www.toyota.es/coches/land-cruiser",
-fuenteUrl: "https://www.toyota.es/coches/bz4x",
-*/

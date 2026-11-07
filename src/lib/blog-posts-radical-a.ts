@@ -60,8 +60,3 @@ export const RADICAL_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-*Fuentes: <a href=https://www.evo.co.uk/radical/206977/radical-sr1-xxr-2024-review-testing-and-racing-radicals-entry-level-prototype>Evo</a>, <a href=https://www.radicalmotorsport.com/cars>Radical Motorsport</a>.*"
-*Fuentes: <a href=https://www.evo.co.uk/radical/207167/radical-sr3-xxr-and-sr10-xxr-upgraded-for-2025>Evo</a>, <a href=https://radicalmotorsport.com/news/radical-sr3-xxr-obliterates-rockingham-lap-record-to-claim-top-spot-on-cinch-leaderboard>Radical Motorsport</a>.*"
-*Fuentes: <a href=https://www.motoringresearch.com/car-reviews/radical-sr10-xxr-review/>Motoring Research</a>, <a href=https://www.evo.co.uk/radical/207167/radical-sr3-xxr-and-sr10-xxr-upgraded-for-2025>Evo</a>, <a href=https://www.radicalmotorsport.com/cars>Radical Motorsport</a>.*"
-*/

@@ -247,8 +247,3 @@ Primero sale el GT 53. Los GT 55 y GT 63 llegarán más tarde; Autocar habla de 
   },
 ];
 
-/* cifras-ramas-711
-Las estimaciones rondan los 850 caballos y 1.000 Nm.
-Los rumores lo colocan alrededor de los 500.000 €, por encima de un 911 Turbo S, en la zona del Ferrari 296.
-**¿Multa en el buzón?** <a href=https://recurretumulta.online/#analizador>Comprueba gratis si puedes recurrirla</a> antes de decidir nada.
-*/

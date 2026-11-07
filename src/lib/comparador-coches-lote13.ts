@@ -2425,8 +2425,3 @@ export const COCHES_LOTE13: CocheComparador[] = [
   ...COCHES_LOTE13_C,
 ];
 
-/* cifras-ramas-711
-"Cálculo con 15.000 km anuales, recarga doméstica a 0,18 €/kWh, con seguro total.
-"Estimación con 15.000 km cada año, carga doméstica a 0,18 euros el kWh, con todo riesgo.
-"Cuenta con 12.000 km anuales, recarga en casa a 0,18 €/kWh, con todo riesgo.
-*/

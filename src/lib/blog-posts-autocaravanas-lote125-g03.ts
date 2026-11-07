@@ -190,8 +190,3 @@ export const AUTOCARAVANAS_LOTE125_G03_POSTS: BlogPost[] = [
   }
 ];
 
-/* cifras-ramas-711
-excerpt: "Camper alemán de 6,00 m sobre Fiat Ducato, con cama doble trasera fija, garaje y MMA de 3.300 kg.
-La cifra orientativa viene de Alemania: allí se documentó un BoxStar Street de 180 CV con cambio automático anunciado en 87.758 € (UVP Alemania).
-La MMA es de 3.300 kg, por debajo del tope habitual de 3,5 toneladas en el segmento, y ese margen se nota en carga útil y en comportamiento rutero.
-*/

@@ -460,8 +460,3 @@ export const NUEVOS_C4_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-El **Hyundai Tucson N Line** es el SUV con estética deportiva: **150 CV** del 1.6 TGDI con 48 V, **etiqueta ECO**, **10,3 segundos** de 0-100 y **189 km/h**, por **41.412 €**.
-| **Motor** | 1.6 TGDI, 150 CV, 250 Nm + 48V |
-El motor es el **1.6 TGDI de 150 CV** con **250 Nm** y microhibridación: suficiente para mover los 1.463 kg con dignidad (10,3 s), pero no esperes emociones.
-*/

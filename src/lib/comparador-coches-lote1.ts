@@ -1738,8 +1738,3 @@ export const COCHES_LOTE1: CocheComparador[] = [
   ...COCHES_LOTE1_D,
 ];
 
-/* cifras-ramas-711
-"15.000 km al año; 0,18 €/kWh; todo riesgo.
-Consumo estimado en 16,2 kWh cada 100 km.",
-intervalo: "24 meses o 25.000 km (versión eléctrica)",
-*/

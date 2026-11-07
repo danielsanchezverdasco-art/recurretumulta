@@ -243,6 +243,3 @@ export const COCHES_LEPAS: CocheComparador[] = [
   },
 ];
 
-/* cifras-ramas-711
-"15.000 km/año, consumo implícito ~14,4 kWh/100 km (65 kWh / 450 km WLTP), 0,18 €/kWh (doméstica) y todo riesgo.
-*/

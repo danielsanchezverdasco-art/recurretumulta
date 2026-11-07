@@ -171,8 +171,3 @@ export const BYD_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-"title": "BYD Qin L EV: 545 km y God's Eye por ~15.200 €",
-"excerpt": "BYD Qin L EV: berlina eléctrica de 148-215 CV, hasta 545 km CLTC, maletero de 460+65 l y God's Eye C desde ~15.200 € en China.",
-"keywords": ["BYD Qin L EV precio", "BYD Qin L EV autonomía", "BYD Qin L EV ficha técnica", "berlina eléctrica china barata", "Qin L EV 545 km", "God's Eye C"],
-*/

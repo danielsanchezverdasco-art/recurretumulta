@@ -85,8 +85,3 @@ export const NETA_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-*Fuentes: <a href=https://2081.nepaldrives.com/detail/40359/neta-aya-neta-v-facelift>Nepal Drives</a>, <a href=https://en.wikipedia.org/wiki/Neta_Aya>Wikipedia</a>, <a href=https://www.hibridosyelectricos.com/coches/posible-compra-toyota-bancarrota-inminente-este-fabricante-china_80034_102.html>Híbridos y Eléctricos</a>.*"
-*Fuentes: <a href=https://www.arenaev.com/updated_neta_x_comes_with_lower_price_and_better_specs-news-3795.php>ArenaEV</a>, <a href=https://cnevpost.com/2024/04/22/neta-launches-neta-l/>CnEVPost</a>, <a href=https://www.hibridosyelectricos.com/coches/posible-compra-toyota-bancarrota-inminente-este-fabricante-china_80034_102.html>Híbridos y Eléctricos</a>.*"
-*Fuentes: <a href=https://cnevpost.com/2023/07/21/neta-launches-facelift-of-flagship-sedan-neta-s/>CnEVPost</a>, <a href=https://carnewschina.com/2022/06/06/neta-s-launched-in-china-with-462hp-and-650km-range-for-51000-usd/>CarNewsChina</a>, <a href=https://www.hibridosyelectricos.com/coches/posible-compra-toyota-bancarrota-inminente-este-fabricante-china_80034_102.html>Híbridos y Eléctricos</a>.*"
-*/

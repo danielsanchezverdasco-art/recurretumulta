@@ -2313,8 +2313,3 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
   },
 ];
 
-/* cifras-ramas-711
-intervalo: "16.000 km o 12 meses, según ficha oficial Triumph",
-intervalo: "12.000 km o 12 meses, según manual oficial Honda",
-intervalo: "10.000 km o 12 meses, según manual oficial Yamaha",
-*/

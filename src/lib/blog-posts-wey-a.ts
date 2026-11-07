@@ -96,8 +96,3 @@ export const WEY_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-*Fuentes: <a href=https://www.adac.de>ADAC</a>, <a href=https://www.autoscout24.de>AutoScout24</a>, <a href=https://www.carwow.de>Carwow Alemania</a>.*"
-*Fuentes: <a href=https://www.autoscout24.de>AutoScout24</a>, <a href=https://www.adac.de>ADAC</a>, <a href=https://www.autohaus.de>Autohaus</a>, <a href=https://www.dmm.travel>dmm.travel</a>.*"
-*Fuentes: <a href=https://cnevpost.com>cnevpost</a>, <a href=https://www.auto.ru>auto.ru</a>, <a href=https://en.wikipedia.org/wiki/Wey_Lanshan>Wikipedia</a>.*"
-*/

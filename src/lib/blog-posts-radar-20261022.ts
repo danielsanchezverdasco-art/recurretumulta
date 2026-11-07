@@ -100,8 +100,3 @@ export const RADAR_20261022_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-Se venderá con híbrido enchufable y con una variante 100 % eléctrica, y la marca asegura que llegará a producción, no que quedará como un simple ejercicio de diseño.
-Lo que de verdad llama la atención son sus cotas camperas: una altura libre de 200 mm, un vadeo de más de 700 mm, 1.800 kg de capacidad de remolque y 75 kg admitidos sobre el techo.
-También anunció una variante 100 % eléctrica.
-*/

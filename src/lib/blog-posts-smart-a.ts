@@ -225,8 +225,3 @@ export const SMART_POSTS: BlogPost[] = [
   }
 ];
 
-/* cifras-ramas-711
-"title": "smart #2: el biplaza eléctrico regresa desde 19.990 €",
-"excerpt": "El heredero eléctrico del fortwo debuta en París con 290 km WLTP, batería de 35,8 kWh y carga en menos de 20 minutos; pedidos abiertos en España.",
-La puesta de largo del modelo de producción tendrá lugar el 12 de octubre de 2026, en París, dentro del Salón del Automóvil, según adelantan <a href=https://www.hibridosyelectricos.com/coches/siete-airbags-carga-en-20-minutos-smart-2-nuevo-fortwo-electrico-llega-paris-con-plataforma-inedita_89540_102.html>hibridosyelectricos.com</a> y <a href=https://www.autonocion.com/motornocion/smart-2-salon-de-paris-mercedes-geely/>autonocion.com</a>.
-*/

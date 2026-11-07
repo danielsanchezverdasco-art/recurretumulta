@@ -689,7 +689,3 @@ export const MOTOS_EXP_M5_POSTS: BlogPost[] = [
   }
 ];
 
-/* cifras-ramas-711
-<a href=/motos/yadea-c1s-pro-2025-ficha-tecnica-precio/>Ficha técnica del Yadea C1S Pro 2025</a>.
-<a href=/motos/maeving-rm1s-2025-ficha-tecnica-precio/>Ficha técnica de la Maeving RM1S 2025</a>.
-*/

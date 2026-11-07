@@ -39,6 +39,9 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
     pros: [
+      "1.548 CV y 1.770 Nm con tracción total",
+      "0-100 km/h en 1,98 s y velocidad máxima de 350 km/h",
+      "Batería de 93,7 kWh a 897 V, del 10 al 80 % en 11 minutos",
       "700 km CLTC con neumático de 19 pulgadas: la mejor autonomía de acceso de su segmento",
       "Arquitectura de 752 V: del 10 al 80 % en 25 minutos con cargador propio de Xiaomi",
       "Cx de 0,195: uno de los coeficientes más bajos del mercado",
@@ -803,8 +806,3 @@ export const COCHES_XIAOMI: CocheComparador[] = [
   },
 ];
 
-/* cifras-ramas-711
-"1.548 CV y 1.770 Nm con tracción total",
-"0-100 km/h en 1,98 s y velocidad máxima de 350 km/h",
-"Batería de 93,7 kWh a 897 V, del 10 al 80 % en 11 minutos",
-*/

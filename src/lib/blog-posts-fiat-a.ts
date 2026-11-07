@@ -271,8 +271,3 @@ export const FIAT_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-"title": "Fiat Multiplina 2028: el cuadriciclo eléctrico de 4 plazas",
-"excerpt": "El Fiat Multiplina es el cuadriciclo eléctrico L7e de 4 plazas previsto para 2028: 90 km/h, menos de 3 metros y el reto de no pasar de 450 kg.",
-"keywords": ["fiat multiplina", "fiat multiplina 2028", "fiat multiplina precio", "cuadriciclo electrico 4 plazas", "fiat multiplina autonomia", "multiplina vs topolino"],
-*/

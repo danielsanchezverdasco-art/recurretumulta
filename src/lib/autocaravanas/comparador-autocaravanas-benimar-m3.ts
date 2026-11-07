@@ -83,6 +83,7 @@ export const AUTOCARAVANAS_BENIMAR_M3: Autocaravana[] = [
 
     Cómo lo verificamos: la existencia del Mileo 297 en la gama 2026 se comprobó en la publicación oficial de Benimar en Instagram (recogida por autoyas.com) y en la ficha del concesionario Mundovan. Las dimensiones, la MMA y la mecánica proceden de la ficha de una unidad 2026 en TruckScout24. La cama isla de 150 cm regulable en altura consta en el PDF de motorvision.es. El precio español queda sin dato porque Benimar no lo publica; la referencia de Mundovan se cita como precio de concesionario con su fuente. Datos verificados el 19/10/2026.`,
     pros: [
+      "Base Fiat Ducato: 2 años / 48.000 km (lo que antes ocurra, según plan Fiat)",
       "Cama isla de 150 cm regulable en altura: dormitorio de matrimonio y garaje a la carta",
       "7,39 metros y 3.500 kg: carnet B y maniobrabilidad de perfilada contenida",
       "Fiat Ducato 2.2 de 140 CV manual o automático: la mecánica más común y barata de mantener",
@@ -320,7 +321,3 @@ Para quién: la pareja que quiere una autocaravana de verdad sin arrastrar siete
   },
 ];
 
-/* cifras-ramas-711
-intervalo: "Base Ford Transit: 2 años / 40.000 km",
-"Base Fiat Ducato: 2 años / 48.000 km (lo que antes ocurra, según plan Fiat)",
-*/

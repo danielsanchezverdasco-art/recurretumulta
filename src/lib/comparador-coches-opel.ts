@@ -35,6 +35,9 @@ export const COCHES_OPEL: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
     pros: [
+      "Desde 20.450 euros, está entre los utilitarios híbridos más baratos del mercado español.",
+      "Con etiqueta ECO, su consumo WLTP es de solo 4,5 litros cada cien kilómetros.",
+      "El maletero de 309 litros es correcto para el segmento.",
       "Desde 20.450 €: uno de los utilitarios híbridos más baratos del mercado español",
       "Etiqueta ECO con un consumo WLTP de solo 4,5 l/100 km",
       "Cambio automático de serie, ideal para ciudad",
@@ -1904,8 +1907,3 @@ export const COCHES_OPEL: CocheComparador[] = [
   },
 ];
 
-/* cifras-ramas-711
-"Desde 20.450 euros, está entre los utilitarios híbridos más baratos del mercado español.",
-"Con etiqueta ECO, su consumo WLTP es de solo 4,5 litros cada cien kilómetros.",
-"El maletero de 309 litros es correcto para el segmento.",
-*/

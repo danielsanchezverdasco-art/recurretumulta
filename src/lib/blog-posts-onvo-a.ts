@@ -30,7 +30,3 @@ export const ONVO_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-*Fuentes: <a href=https://cnevpost.com/2026/06/11/nio-onvo-launches-updated-l60/>CnEVPost</a>, <a href=https://evkx.net/es/models/onvo/l60/l60_rwd/>EVKX</a>, <a href=https://www.auto-data.net/es/onvo-l60-85-kwh-462hp-4wd-long-range-55235>auto-data.net</a>, <a href=https://en.wikipedia.org/wiki/Onvo_L60>Wikipedia</a>.*"
-*Fuentes: <a href=https://cnevpost.com/2026/05/15/onvo-l80-hits-market/>CnEVPost</a>, <a href=https://electriccarsreport.com/2026/05/onvo-l80-electric-suv-launches-with-aggressive-pricing-and-900v-tech/>Electric Cars Report</a>, <a href=https://electrek.co/2026/04/28/nio-onvo-l80-undercuts-tesla-model-y-china-price-2/>Electrek</a>, <a href=https://en.wikipedia.org/wiki/Onvo_L90>Wikipedia</a>.*"
-*/

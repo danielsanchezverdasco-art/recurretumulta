@@ -80,6 +80,7 @@ Verificación de fuentes: medidas (6,99 x 2,32 x 2,92 m), pesos (3.054 kg en ord
 
 Perfil de comprador: el Toscan 69GC encaja con parejas que buscan su primera perfilada —o la definitiva— sin saltar a los siete metros y medio, valoran las camas gemelas traseras, el garaje con capacidad para scooter y una garantía anti-infiltraciones de 10 años poco común en su precio. No encaja con quien necesite seis plazas para dormir de serie ni con quien busque una integral o un formato inferior a 6,5 metros. Balance: la perfilada compacta honesta del catálogo Giottiline, con argumentos de construcción por encima de su precio y el único lunar de la opacidad de precios en España.`,
     pros: [
+      "Base Fiat Ducato 2.2: 2 años / 48.000 km; en bases Citroën Jumper/Peugeot Boxer, seguir el plan Stellantis (2 años, según manual del propietario)",
       "6,99 m de largo: baja de los 7 metros con las ventajas que eso supone en ferris, peajes y aparcamiento",
       "Camas gemelas traseras unificables + dinette en L para cinco + baño pasante en menos de 7 metros",
       "Construcción seria: perímetro de paneles en fibroplast (sin madera) y 10 años de garantía anti-infiltraciones",
@@ -277,6 +278,3 @@ Perfil de comprador: el Compact CX60 encaja con parejas que vienen del mundo fur
   },
 ];
 
-/* cifras-ramas-711
-"Base Fiat Ducato 2.2: 2 años / 48.000 km; en bases Citroën Jumper/Peugeot Boxer, seguir el plan Stellantis (2 años, según manual del propietario)",
-*/

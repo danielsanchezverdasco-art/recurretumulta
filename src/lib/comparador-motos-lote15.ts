@@ -1908,6 +1908,3 @@ export const MOTOS_LOTE15: MotoComparador[] = [
   },
 ];
 
-/* cifras-ramas-711
-intervalo: "12.000 km o 12 meses; servicio Desmo cada 24.000 km",
-*/

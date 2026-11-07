@@ -456,8 +456,3 @@ export const NUEVOS_M1_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-<a href=/motos/segway-e125s-2025-ficha-tecnica-precio/>Ficha técnica del Segway E125S</a>.
-<a href=/motos/segway-e110s-2025-ficha-tecnica-precio/>Ficha técnica del Segway E110S</a>.
-<a href=/motos/segway-e150s-2025-ficha-tecnica-precio/>Ficha técnica del Segway E150S</a>.
-*/

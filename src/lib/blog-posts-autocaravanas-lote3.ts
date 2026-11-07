@@ -909,8 +909,3 @@ export const AUTOCARAVANAS_LOTE3_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-excerpt: "La integral germana mide 7,08 m, alcanza 3,11 m de alto y homologa 4 ocupantes con 2 camas: su MMA de 4.500 kg obliga al C1 y su precio no se publica.",
-El condicionante de la compra aparece antes que ningún otro: su **MMA llega a 4.500 kg**, de modo que exige el **C1**.
-Para ese empleo, los 4.500 kg de MMA suponen más una baza que un freno: frente a las ceñidas a 3.500 kg, sobra mucha más holgura de kilos para el agua, el equipaje y todo lo que se va sumando al vivir a bordo durante periodos extensos sin pisar la báscula cada dos días.
-*/

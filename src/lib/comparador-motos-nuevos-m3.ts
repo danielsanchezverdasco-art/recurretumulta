@@ -2006,8 +2006,3 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
   },
 ];
 
-/* cifras-ramas-711
-intervalo: "6.000 km o 12 meses; primera revisión a los 1.000 km",
-intervalo: "10.000 km o 12 meses; primera revisión a los 1.000 km",
-intervalo: "5.000 km o 12 meses; primera revisión a los 1.000 km",
-*/

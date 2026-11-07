@@ -48,6 +48,3 @@ export const SOLKUNO_B_POSTS: BlogPost[] = [
   },
 ];
 
-/* cifras-ramas-711
-*Fuentes: <a href=https://carnewschina.com/2025/03/24/denza-n9-phev-black-warrior-edition-launched-in-china-925-hp-suv-with-1300-km-range/>CarNewsChina</a>, <a href=https://www.dgt.es>DGT</a>.*"
-*/
