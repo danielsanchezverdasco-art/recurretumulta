@@ -16,22 +16,27 @@ import os, re, sys, json, argparse, glob
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..")
 
 
-def motivo_foto_nueva(ruta, referenciada, evidencia, marcadas_ia):
-    """None si no bloquea. Ni la URL de crédito ni el parecido del nombre deciden.
+def motivo_foto_nueva(ruta, referenciada, uso_potencial, prueba, marcadas_ia):
+    """None si no bloquea. La URL de crédito y el parecido del nombre no deciden.
 
-    'sin-uso' si no hay mención literal: no se borra y no bloquea. No afirma que
-    una plantilla dinámica no la muestre.
-    'ia' si está marcada como generada y alguien la usa.
-    'sin-prueba-modelo' si se usa y no hay un vínculo recuperado (campo de la ficha,
-    primera imagen de ese artículo, registro con origen ficha o blog, o nota visual).
+    'visual' es la única prueba previa que levanta el bloqueo.
+    'solo-asociacion' es un campo o la primera imagen del artículo: no es
+    validación visual y sigue bloqueando.
+    'uso-potencial' es una plantilla dinámica: bloquea hasta resolverla.
+    'sin-validacion-visual' es una mención literal sin prueba visual previa.
+    None, sin mención ni plantilla, no bloquea y no afirma que la foto no se vea.
     """
-    if not referenciada:
-        return "sin-uso"
-    if ruta in marcadas_ia:
+    if ruta in marcadas_ia and (referenciada or uso_potencial):
         return "ia"
-    if ruta in evidencia:
+    if prueba == "visual":
         return None
-    return "sin-prueba-modelo"
+    if not referenciada and not uso_potencial:
+        return None
+    if prueba == "solo-asociacion":
+        return "solo-asociacion"
+    if uso_potencial and not referenciada:
+        return "uso-potencial"
+    return "sin-validacion-visual"
 
 
 def main(argv=None):
@@ -46,11 +51,19 @@ def main(argv=None):
                 src += open(os.path.join(dp, f), encoding="utf8", errors="ignore").read() + "\n"
     IA = set(re.findall(r'"(/media/[^"]+)"[^\n]{0,400}?(?:generada por IA|ilustrativa generada)', src, flags=re.I))
     ev_p = os.path.join(ROOT, "docs", "inventario", "evidencia-modelo-ruta.json")
-    evidencia = set()
+    prueba = {}
     if os.path.exists(ev_p):
         for row in json.load(open(ev_p, encoding="utf8")).get("entradas", []):
-            if row.get("prueba") != "exacta" and row.get("ruta"):
-                evidencia.add(row["ruta"])
+            ruta = row.get("ruta")
+            if not ruta or row.get("prueba") == "exacta":
+                continue
+            if row.get("prueba") == "nota-visual":
+                prueba[ruta] = "visual"
+            elif ruta not in prueba:
+                prueba[ruta] = "solo-asociacion"
+    ids = set(re.findall(r'(?:id:\s*"|"id":\s*"|"slug":\s*")([^"]+)"', src))
+    potenciales = {"/media/%s-oficial.webp" % i for i in ids}
+    potenciales |= {"/media/motos/%s-1.webp" % i for i in ids}
     H = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fotos-hotfix")
     for m in glob.glob(os.path.join(H, "fotos-hotfix-map*.json")):
         IA -= {"/media/" + k + ".webp" for k in json.load(open(m)) if not k.startswith("_")}
@@ -62,13 +75,17 @@ def main(argv=None):
         html_cambiados = [p for p in c["new"] + c["chg"] if p.endswith(".html")]
         nuevas = [p for p in c["new"] if p.startswith("/media/") and not re.search(r"-(480w|828w|1200w|card)\.webp$", p)]
         for p in nuevas:
-            motivo = motivo_foto_nueva(p, p in src, evidencia, IA)
-            if motivo == "sin-uso":
+            motivo = motivo_foto_nueva(p, p in src, p in potenciales, prueba.get(p), IA)
+            if motivo is None and p not in src and p not in potenciales:
                 sin_uso += 1
             elif motivo == "ia":
                 fallos.append("foto nueva marcada como IA: %s" % p)
-            elif motivo == "sin-prueba-modelo":
-                fallos.append("foto nueva SIN prueba de modelo exacto: %s" % p)
+            elif motivo == "solo-asociacion":
+                fallos.append("foto nueva con solo asociacion de campo, sin validacion visual previa: %s" % p)
+            elif motivo == "uso-potencial":
+                fallos.append("foto nueva de uso potencial por plantilla, dependencia sin resolver: %s" % p)
+            elif motivo == "sin-validacion-visual":
+                fallos.append("foto nueva SIN validacion visual previa: %s" % p)
     paginas = html_cambiados if html_cambiados is not None else []
     for p in paginas:
         f = os.path.join(a.dist, p.lstrip("/"))
@@ -78,7 +95,7 @@ def main(argv=None):
         for img in set(re.findall(r'(/media/[^"\s?#]+?)(?:-480w|-828w|-1200w|-card)?\.webp', h)):
             if img + ".webp" in IA:
                 fallos.append("%s usa foto marcada como IA: %s.webp" % (p, img))
-    print("fotos marcadas IA en src:", len(IA), "| evidencia recuperada:", len(evidencia), "| sin mencion literal:", sin_uso, "| páginas revisadas:", len(paginas))
+    print("fotos marcadas IA en src:", len(IA), "| pruebas visuales:", sum(1 for v in prueba.values() if v == "visual"), "| solo asociacion:", sum(1 for v in prueba.values() if v == "solo-asociacion"), "| sin mencion ni plantilla:", sin_uso, "| páginas revisadas:", len(paginas))
     for x in fallos[:200]:
         print("FALLO", x)
     print("RESULTADO:", "OK" if not fallos else "%d FALLOS (no se publica)" % len(fallos))

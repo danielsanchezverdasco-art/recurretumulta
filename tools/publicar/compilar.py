@@ -106,6 +106,57 @@ def escribir_sello(repo, dist, head, inicio, extra):
     return man_sha, n, total
 
 
+def juzgar_reutilizacion(head_sello, head_validacion, head_prov, escritor, sucio, man_sha, man_esperado, dist_sha, dist_esperado, n, n_esperado, total, total_esperado):
+    """No reescribe el sello. El HEAD de validación tiene que ser otro, y el dist el mismo.
+
+    Cualquier fichero distinto cambia el manifiesto y entra como fallo.
+    """
+    fallos = []
+    if escritor != ESCRITOR:
+        fallos.append("el sello no lo escribió compilar.py")
+    if head_sello != head_prov:
+        fallos.append("build-commit y provenance no coinciden")
+    if head_validacion == head_sello:
+        fallos.append("el HEAD de validación es el mismo que el sello; no es una reutilización")
+    if sucio:
+        fallos.append("el árbol vigilado cambió")
+    if man_sha != man_esperado:
+        fallos.append("el manifiesto sellado fue alterado")
+    if dist_sha != dist_esperado or str(n) != str(n_esperado) or str(total) != str(total_esperado):
+        fallos.append("el dist no coincide con el manifiesto sellado")
+    return fallos
+
+
+def comprobar_reutilizacion(repo, dist):
+    """Vacío si el dist sellado sigue íntegro y el HEAD de validación es otro."""
+    work = os.path.join(repo, ".deploy-work")
+    sello = os.path.join(work, "build-commit")
+    prov = os.path.join(work, "build-commit.provenance")
+    if not os.path.isfile(sello) or not os.path.isfile(prov):
+        return ["no hay sello del compilador"]
+    head_sello = open(sello, encoding="utf-8").read().strip()
+    datos = {}
+    for line in open(prov, encoding="utf-8"):
+        if "=" in line:
+            k, v = line.rstrip("\n").split("=", 1)
+            datos[k] = v
+    try:
+        head = cabeza(repo)
+    except RuntimeError as e:
+        return [str(e)]
+    man = os.path.join(work, "MANIFIESTO-SELLO.txt")
+    if not os.path.isfile(man):
+        return ["falta el manifiesto sellado"]
+    man_sha = hashlib.sha256(open(man, "rb").read()).hexdigest()
+    ahora, n, total, _ = manifiesto_dist(dist)
+    return juzgar_reutilizacion(
+        head_sello, head, datos.get("head"), datos.get("escritor"), sucio(repo),
+        man_sha, datos.get("dist_manifest_sha256"),
+        ahora, datos.get("dist_manifest_sha256"),
+        n, datos.get("dist_files"), total, datos.get("dist_bytes"),
+    )
+
+
 def comprobar_sello(repo, dist):
     """Vacío si el sello lo escribió este procedimiento y el dist no cambió."""
     work = os.path.join(repo, ".deploy-work")
@@ -266,6 +317,21 @@ def main():
                 print(" -", f)
             sys.exit(1)
         print("SELLO VALIDO", open(os.path.join(repo, ".deploy-work", "build-commit"), encoding="utf-8").read().strip())
+        sys.exit(0)
+    if len(sys.argv) > 1 and sys.argv[1] == "--comprobar-reutilizacion":
+        dist = sys.argv[2] if len(sys.argv) > 2 else os.path.join(repo, "dist")
+        fallos = comprobar_reutilizacion(repo, dist)
+        sello = open(os.path.join(repo, ".deploy-work", "build-commit"), encoding="utf-8").read().strip()
+        if fallos:
+            print("REUTILIZACION NO VALIDA")
+            print("sello", sello)
+            print("validacion", cabeza(repo))
+            for f in fallos:
+                print(" -", f)
+            sys.exit(1)
+        print("REUTILIZACION VALIDA")
+        print("sello", sello)
+        print("validacion", cabeza(repo))
         sys.exit(0)
     comando = [shutil_which_npm(), "run", "build:full"]
     sys.exit(compilar(repo, comando))
