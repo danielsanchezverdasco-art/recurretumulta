@@ -22,7 +22,7 @@ def motivo_foto_nueva(ruta, referenciada, uso_potencial, prueba, marcadas_ia):
     'visual' es la única prueba previa que levanta el bloqueo.
     'solo-asociacion' es un campo o la primera imagen del artículo: no es
     validación visual y sigue bloqueando.
-    'uso-potencial' es una plantilla dinámica: bloquea hasta resolverla.
+    'uso-potencial' es la plantilla real de la portada: bloquea hasta resolverla.
     'sin-validacion-visual' es una mención literal sin prueba visual previa.
     None, sin mención ni plantilla, no bloquea y no afirma que la foto no se vea.
     """
@@ -61,9 +61,10 @@ def main(argv=None):
                 prueba[ruta] = "visual"
             elif ruta not in prueba:
                 prueba[ruta] = "solo-asociacion"
-    ids = set(re.findall(r'(?:id:\s*"|"id":\s*"|"slug":\s*")([^"]+)"', src))
-    potenciales = {"/media/%s-oficial.webp" % i for i in ids}
-    potenciales |= {"/media/motos/%s-1.webp" % i for i in ids}
+    # La única plantilla que construye una ruta es la portada: /media/{fichaId}-oficial.webp
+    # y solo con los fichaId del ranking. El comentario de motos/{id}-1.webp no es código.
+    ranking = set(re.findall(r'fichaId:\s*"([^"]+)"', src))
+    potenciales = {"/media/%s-oficial.webp" % i for i in ranking}
     H = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fotos-hotfix")
     for m in glob.glob(os.path.join(H, "fotos-hotfix-map*.json")):
         IA -= {"/media/" + k + ".webp" for k in json.load(open(m)) if not k.startswith("_")}

@@ -106,10 +106,51 @@ def escribir_sello(repo, dist, head, inicio, extra):
     return man_sha, n, total
 
 
-def juzgar_reutilizacion(head_sello, head_validacion, head_prov, escritor, sucio, man_sha, man_esperado, dist_sha, dist_esperado, n, n_esperado, total, total_esperado):
+# Lo que entra en el dist de Vite. Un cambio aquí impide reutilizar el sello.
+ENTRADAS_BUILD = (
+    "src/", "public/",
+)
+ENTRADAS_BUILD_EXACTAS = {
+    "index.html", "package.json", "package-lock.json", "vite.config.ts",
+    "tsconfig.json", "tsconfig.app.json", "tsconfig.node.json",
+    "scripts/prerender.mjs", "scripts/routes.json", "netlify.toml",
+}
+# Controles y documentación que no copia el build. Cualquier otra ruta se rechaza.
+CONTROLES_FUERA_DEL_BUILD = {
+    "scripts/deploy/chequeo_fotos.py": "control del borrador; Vite no lo empaqueta",
+    "scripts/deploy/test_chequeo_fotos.py": "prueba de ese control; no entra en dist",
+    "tools/publicar/compilar.py": "comprobador del sello; no entra en dist",
+    "tools/publicar/test_reutilizacion.py": "prueba del comprobador; no entra en dist",
+    "tools/publicar/publicar.py": "orquestación de la publicación; no compila dist",
+}
+
+
+def es_entrada_build(ruta):
+    if ruta in ENTRADAS_BUILD_EXACTAS:
+        return True
+    return ruta.startswith(ENTRADAS_BUILD)
+
+
+def clasificar_cambios(rutas):
+    """Rechaza src, configuración, dependencias y scripts de build.
+
+    Acepta solo controles y docs/inventario, que no entran en el dist.
+    """
+    fallos = []
+    for ruta in rutas:
+        if es_entrada_build(ruta):
+            fallos.append("entrada de build cambiada: " + ruta)
+        elif ruta.startswith("docs/inventario/") or ruta in CONTROLES_FUERA_DEL_BUILD:
+            continue
+        else:
+            fallos.append("cambio no justificado fuera del dist: " + ruta)
+    return fallos
+
+
+def juzgar_reutilizacion(head_sello, head_validacion, head_prov, escritor, sucio, man_sha, man_esperado, dist_sha, dist_esperado, n, n_esperado, total, total_esperado, cambios=()):
     """No reescribe el sello. El HEAD de validación tiene que ser otro, y el dist el mismo.
 
-    Cualquier fichero distinto cambia el manifiesto y entra como fallo.
+    El manifiesto igual no basta: también se miran las rutas cambiadas desde el sello.
     """
     fallos = []
     if escritor != ESCRITOR:
@@ -124,6 +165,7 @@ def juzgar_reutilizacion(head_sello, head_validacion, head_prov, escritor, sucio
         fallos.append("el manifiesto sellado fue alterado")
     if dist_sha != dist_esperado or str(n) != str(n_esperado) or str(total) != str(total_esperado):
         fallos.append("el dist no coincide con el manifiesto sellado")
+    fallos.extend(clasificar_cambios(cambios))
     return fallos
 
 
@@ -149,11 +191,17 @@ def comprobar_reutilizacion(repo, dist):
         return ["falta el manifiesto sellado"]
     man_sha = hashlib.sha256(open(man, "rb").read()).hexdigest()
     ahora, n, total, _ = manifiesto_dist(dist)
+    try:
+        diff = _git(repo, "diff", "--name-only", head_sello, head)
+    except RuntimeError as e:
+        return [str(e)]
+    cambios = [l.strip() for l in diff.splitlines() if l.strip()]
     return juzgar_reutilizacion(
         head_sello, head, datos.get("head"), datos.get("escritor"), sucio(repo),
         man_sha, datos.get("dist_manifest_sha256"),
         ahora, datos.get("dist_manifest_sha256"),
         n, datos.get("dist_files"), total, datos.get("dist_bytes"),
+        cambios,
     )
 
 

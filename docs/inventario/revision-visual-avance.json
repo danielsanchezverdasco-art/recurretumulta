@@ -1,0 +1,163 @@
+{
+"tanda": "2026-11-07-visual-1",
+"miradas": 14,
+"modelo_visible": 6,
+"pendientes": 8,
+"dependencias_24": "La única plantilla que construye /media/{fichaId}-oficial.webp es Top3VentasMes, y solo con los fichaId de mas-vendidos-data.ts. Ninguno de los 24 ids está en ese ranking. No hay código que construya /media/motos/{id}-1.webp. Esas 24 rutas no las pide la plantilla. No quedan confirmadas como modelo.",
+"entradas": [
+{
+"ruta": "/media/hongqi-g919-hero.webp",
+"modelo": "Hongqi G919",
+"resultado": "modelo-visible",
+"visto": "Frontal de un SUV. La matrícula lee 红旗 G919. Parrilla vertical y faros redondos.",
+"fundamento": "El nombre del modelo está escrito en el vehículo.",
+"limite": "Solo el frontal. No se lee el año ni el motopropulsor.",
+"sha256": "2a7b72ced29856b02dec5b08aef852c211d4b0d4edecdf1e814a49a8066f5dc1",
+"bytes": 61648,
+"metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
+},
+{
+"ruta": "/media/motos/ktm-1390-super-duke-gt-2025-ficha-tecnica-precio-1.webp",
+"modelo": "KTM 1390 Super Duke GT",
+"resultado": "modelo-visible",
+"visto": "Moto de estudio naranja y negra, maletas laterales. El carenado lleva 1390 SUPER DUKE GT.",
+"fundamento": "El nombre de la variante está en la moto.",
+"limite": "Fondo de estudio. No se contrasta con otra variante KTM del mismo año.",
+"sha256": "2e6398b584a42767ac253af6f1c0ade699a34e2c0a1bbcd11d62c32b84e358ec",
+"bytes": 279570,
+"metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
+},
+{
+"ruta": "/media/vmoto-off-r-2025-oficial.webp",
+"modelo": "Vmoto OFF-R",
+"resultado": "modelo-visible",
+"visto": "Moto de trial eléctrica de estudio. El chasis y la horquilla leen OFF-R; la tija lee VMOTO.",
+"fundamento": "El nombre está en la moto.",
+"limite": "No es la foto de acción descrita en docs/fotos-182-ord1355/fuentes-vmotos.md, que nombra otro fichero.",
+"sha256": "f3d6aaac35264c7ce3367a8134cd3b96366fb2790152090d36937f3fc3f8431c",
+"bytes": 153590,
+"metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
+},
+{
+"ruta": "/media/vmoto-vs1-2025-oficial.webp",
+"modelo": "Vmoto VS1",
+"resultado": "modelo-visible",
+"visto": "Scooter de reparto de estudio. El lateral lee VS1 y la matrícula lee VMOTO.",
+"fundamento": "El nombre está en el vehículo.",
+"limite": "No es el plano de calle del catálogo citado en la misma nota.",
+"sha256": "93322b17f8e58cc375fa329ab66b868d1abf16f942de0463f3d3fbcd0abcedda",
+"bytes": 28844,
+"metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
+},
+{
+"ruta": "/media/motos/trs-one-r-250-2025-ficha-tecnica-precio-1.webp",
+"modelo": "TRS One R 250",
+"resultado": "modelo-visible",
+"visto": "Moto de trial en roca. Se lee TRS, ONE R y 250.",
+"fundamento": "Marca, familia y cilindrada están en la moto.",
+"limite": "No se lee el año 2025.",
+"sha256": "d6b9bb141723f944d9fd2e88ba42557dadf810fec9c6c492cc1131bdd2cb4c59",
+"bytes": 727500,
+"metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
+},
+{
+"ruta": "/media/patinetes/teverun-blade-q-1.webp",
+"modelo": "Teverun Blade Q",
+"resultado": "modelo-visible",
+"visto": "Patinete negro y rojo. La potencia lee BLADE Q.",
+"fundamento": "La variante está escrita en el vehículo.",
+"limite": "No se lee la palabra Teverun.",
+"sha256": "0f3bbff0c7e3159feb1a08135879f2788b2234e620994a1348f64bb4a6f1c20e",
+"bytes": 29942,
+"metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
+},
+{
+"ruta": "/media/motos/keeway-vieste-300-xdv-2024-ficha-tecnica-precio-1.webp",
+"modelo": "Keeway Vieste 300 XDV",
+"resultado": "pendiente",
+"visto": "Scooter adventure gris. Se lee KEEWAY en el frontal.",
+"fundamento": "La imagen no muestra Vieste, 300 ni XDV.",
+"limite": "Insuficiente para la variante exacta.",
+"sha256": "e161561c157dc60d5e9e3fa9fb3ca8706cc74bca9a906619755682019f0cafbd",
+"bytes": 167840,
+"metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
+},
+{
+"ruta": "/media/patinetes/smartgyro-rockway-gt-1.webp",
+"modelo": "Smartgyro Rockway GT",
+"resultado": "pendiente",
+"visto": "Patinete con SMARTGYRO en la potencia y GT en la plataforma.",
+"fundamento": "No se lee ROCKWAY. GT no separa GT Dual ni GTS.",
+"limite": "Insuficiente para la variante exacta.",
+"sha256": "269d1a309e14b6921ca1bfcc30cae7bee5ef5e600c13350cf677195ce286d634",
+"bytes": 28406,
+"metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
+},
+{
+"ruta": "/media/patinetes/vsett-10-plus-r-1.webp",
+"modelo": "Vsett 10+ R",
+"resultado": "pendiente",
+"visto": "Patinete negro y amarillo en un salto. No hay marca legible.",
+"fundamento": "Sin texto de modelo.",
+"limite": "Insuficiente.",
+"sha256": "dfb150ed288d048afc9682194718818fa53d57ffad5fba44bbd3328008be9f8e",
+"bytes": 110042,
+"metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
+},
+{
+"ruta": "/media/adria-coral-xl-670-dk-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "Adria Coral XL 670 DK",
+"resultado": "pendiente-variante",
+"visto": "Autocaravana blanca sobre Ducato. Se lee ADRIA y Coral XL.",
+"fundamento": "La familia Coral XL sí. No se lee 670 DK.",
+"limite": "La variante de planta no está en la foto.",
+"sha256": "b2cccf3cd6b73e232a9bdbccfaacf38780b3f929edf2fd1154caeac57c5c44f0",
+"bytes": 199438,
+"metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
+},
+{
+"ruta": "/media/knaus-sky-wave-650-meg-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "Knaus Sky Wave 650 MEG",
+"resultado": "pendiente",
+"visto": "Autocaravana blanca de perfil. No hay leyenda de marca ni de modelo.",
+"fundamento": "Sin texto identificable.",
+"limite": "Insuficiente.",
+"sha256": "8bd84f5d4fcfb12aa78082ccb1dc4ffb8d6bc896a1875dc7b575ef72666beb7f",
+"bytes": 244552,
+"metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
+},
+{
+"ruta": "/media/byd-atto-3-precio-ficha-tecnica-oficial.webp",
+"modelo": "BYD Atto 3",
+"resultado": "pendiente",
+"visto": "SUV azul con BYD en la barra de luces. No se lee Atto 3.",
+"fundamento": "La marca sí. El modelo no.",
+"limite": "La plantilla de portada no pide este id: no está entre los fichaId del ranking.",
+"sha256": "6db3c5847600d6be934bc8a25891e0adf1baa3389ee314e1c947d771df4964e3",
+"bytes": 561370,
+"metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
+},
+{
+"ruta": "/media/porsche-911-carrera-2026-precio-ficha-tecnica-oficial.webp",
+"modelo": "Porsche 911 Carrera 2026",
+"resultado": "pendiente-anio",
+"visto": "911 de perfil. Se lee Carrera.",
+"fundamento": "La familia Carrera sí. El año 2026 no está en la foto.",
+"limite": "La plantilla de portada tampoco pide este id.",
+"sha256": "efcf0cadcd39f036b345125fabd929d2e03adc36099976b3556402ee2aa9730e",
+"bytes": 192302,
+"metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
+},
+{
+"ruta": "/media/xiaomi-yu7-max-2025-precio-ficha-tecnica-oficial.webp",
+"modelo": "Xiaomi YU7 Max",
+"resultado": "pendiente",
+"visto": "Crossover naranja. No se lee Xiaomi ni YU7.",
+"fundamento": "Sin texto de modelo.",
+"limite": "La plantilla de portada no pide este id.",
+"sha256": "5b7f148ccc45b71f15248c9572b59bf6f79da0dec4e0153f2bea29042dc4baef",
+"bytes": 138148,
+"metodo": "Lectura visual del fichero local. No se usó el nombre del archivo como prueba."
+}
+]
+}

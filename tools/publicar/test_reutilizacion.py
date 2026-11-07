@@ -4,7 +4,7 @@ import os, sys, tempfile
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, AQUI)
-from compilar import ESCRITOR, juzgar_reutilizacion, manifiesto_dist
+from compilar import ESCRITOR, clasificar_cambios, juzgar_reutilizacion, manifiesto_dist
 
 SELLO = "2109346da27c52899fb56935823585a0016af7be"
 VALIDACION = "a6f76dc4a4ee13c77e9fb48733f0c47e71099946"
@@ -44,6 +44,38 @@ def test_rechaza_si_el_build_commit_se_reescribe_con_el_head_nuevo():
 def test_rechaza_si_provenance_no_coincide_con_build_commit():
     fallos = base(head_prov="otro")
     assert any("no coinciden" in f for f in fallos)
+
+
+def test_rechaza_src_config_dependencias_y_build():
+    for ruta in (
+        "src/pages/Index.tsx",
+        "public/media/logo.webp",
+        "index.html",
+        "package.json",
+        "package-lock.json",
+        "vite.config.ts",
+        "tsconfig.json",
+        "scripts/prerender.mjs",
+        "scripts/routes.json",
+        "netlify.toml",
+    ):
+        fallos = clasificar_cambios([ruta])
+        assert fallos, ruta
+        assert "entrada de build" in fallos[0]
+
+
+def test_acepta_solo_controles_y_documentacion():
+    assert clasificar_cambios([
+        "scripts/deploy/chequeo_fotos.py",
+        "tools/publicar/compilar.py",
+        "docs/inventario/revision-visual-pendiente.json",
+    ]) == []
+    assert clasificar_cambios(["docs/otra-cosa.md"])
+
+
+def test_rechaza_un_fichero_no_justificado():
+    fallos = clasificar_cambios(["scripts/deploy/otro.py"])
+    assert any("no justificado" in f for f in fallos)
 
 
 def test_rechaza_arbol_vigilado_y_manifiesto_alterado():
