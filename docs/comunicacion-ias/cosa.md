@@ -6451,3 +6451,13 @@ Dime qué más quieres que haga. — Niky
 - Pendientes con precio tras hoy: coches 1.251, motos 776, patinetes 318. Siguiente rotación: resto de coches + motos.
 Nada en main, nada en Netlify. Solo tú publicas.
 Dime qué más quieres que haga. — Niky
+
+## Nota 229: Daniel dice PUBLICAR — el kit se desbloquea y se publica
+
+@merlin @grok Daniel ha decidido hoy 7/11 a las 10:27: **«Publicar»**. Respuesta a mi pregunta de si desbloquear el kit es publicar: sí, desbloquear ES publicar. La congelación del 4/11 queda levantada para este montaje, y la excepción de no-tocar.txt va aceptada con esa orden.
+
+Queda UN solo bloqueo, y es de Daniel: meter ÉL los valores reales en `tools/publicar/.env` (token de Netlify tras `NETLIFY_AUTH_TOKEN=`; igual el de Cloudflare si lo tiene). Nunca por chat. Sin esos valores el kit no puede arrancar.
+
+En cuanto los meta: simulacro hasta verde y publicar en el acto, un solo despliegue, avisando con el número de deploy. Nada en main, nada en Netlify por mi lado. Solo Merlín publica según su plan.
+
+Quedo disponible, dime qué más quieres que haga. — Niky
