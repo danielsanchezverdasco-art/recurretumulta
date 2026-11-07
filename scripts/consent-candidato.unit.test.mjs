@@ -144,6 +144,116 @@ describe("UNITARIO consentimiento candidato, señales falsas", () => {
     expect(srcs(sandbox)).toContain("https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4234009516943468");
   });
 
+  const ENUM = { UNKNOWN: 0, GRANTED: 1, DENIED: 2, NOT_APPLICABLE: 3, NOT_CONFIGURED: 4 };
+
+  function modo(parcial) {
+    return {
+      adStoragePurposeConsentStatus: ENUM.NOT_CONFIGURED,
+      adUserDataPurposeConsentStatus: ENUM.NOT_CONFIGURED,
+      adPersonalizationPurposeConsentStatus: ENUM.NOT_CONFIGURED,
+      analyticsStoragePurposeConsentStatus: ENUM.NOT_CONFIGURED,
+      ...parcial,
+    };
+  }
+
+  function disparar(sandbox, valores, enumExtra) {
+    sandbox.googlefc.getGoogleConsentModeValues = () => valores;
+    sandbox.googlefc.ConsentModePurposeStatusEnum = enumExtra || ENUM;
+    const item = sandbox.googlefc.callbackQueue.find((x) => x && typeof x.CONSENT_MODE_DATA_READY === "function");
+    expect(item).toBeTruthy();
+    item.CONSENT_MODE_DATA_READY();
+  }
+
+  it("UNITARIO: anuncios GRANTED y analítica NOT_CONFIGURED conceden solo anuncios", () => {
+    const sandbox = arrancar();
+    disparar(sandbox, modo({
+      adStoragePurposeConsentStatus: ENUM.GRANTED,
+      adUserDataPurposeConsentStatus: ENUM.GRANTED,
+      adPersonalizationPurposeConsentStatus: ENUM.DENIED,
+    }));
+    expect(actualizaciones(sandbox)).toEqual([
+      ["consent", "update", {
+        ad_storage: "granted",
+        ad_user_data: "granted",
+        ad_personalization: "denied",
+        analytics_storage: "denied",
+      }],
+    ]);
+    expect(srcs(sandbox)).toEqual([
+      "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4234009516943468",
+    ]);
+  });
+
+  it("UNITARIO: los cuatro NOT_CONFIGURED quedan denied y no cargan anuncios", () => {
+    const sandbox = arrancar();
+    disparar(sandbox, modo({}));
+    expect(actualizaciones(sandbox)[0][2]).toEqual({
+      ad_storage: "denied",
+      ad_user_data: "denied",
+      ad_personalization: "denied",
+      analytics_storage: "denied",
+    });
+    expect(srcs(sandbox)).toEqual([]);
+  });
+
+  it("UNITARIO: fines TCF aceptados no conceden si el enum sigue NOT_CONFIGURED", () => {
+    let oir;
+    const sandbox = arrancar({
+      tcf(cmd, _ver, cb) {
+        if (cmd === "addEventListener") oir = cb;
+      },
+    });
+    const estado = modo({});
+    sandbox.googlefc.getGoogleConsentModeValues = () => estado;
+    sandbox.googlefc.ConsentModePurposeStatusEnum = ENUM;
+    const tc = { eventStatus: "useractioncomplete", gdprApplies: true, purpose: { consents: { 1: true, 3: true, 4: true, 7: true } } };
+    oir(tc, true);
+    expect(actualizaciones(sandbox).at(-1)[2].ad_storage).toBe("denied");
+    expect(actualizaciones(sandbox).at(-1)[2].analytics_storage).toBe("denied");
+    estado.adStoragePurposeConsentStatus = ENUM.GRANTED;
+    estado.adUserDataPurposeConsentStatus = ENUM.GRANTED;
+    oir(tc, true);
+    expect(actualizaciones(sandbox).at(-1)[2].ad_storage).toBe("granted");
+    expect(actualizaciones(sandbox).at(-1)[2].analytics_storage).toBe("denied");
+    estado.adStoragePurposeConsentStatus = ENUM.DENIED;
+    estado.adUserDataPurposeConsentStatus = ENUM.DENIED;
+    oir(tc, true);
+    expect(actualizaciones(sandbox).at(-1)[2].ad_storage).toBe("denied");
+    expect(srcs(sandbox).some((s) => s.includes("googletagmanager.com"))).toBe(false);
+  });
+
+  it("UNITARIO: UNKNOWN no escribe; una revocación posterior pasa de granted a denied", () => {
+    const sandbox = arrancar();
+    const antes = actualizaciones(sandbox).length;
+    disparar(sandbox, modo({ adStoragePurposeConsentStatus: ENUM.UNKNOWN }));
+    expect(actualizaciones(sandbox)).toHaveLength(antes);
+    const estado = modo({
+      adStoragePurposeConsentStatus: ENUM.GRANTED,
+      adUserDataPurposeConsentStatus: ENUM.GRANTED,
+      adPersonalizationPurposeConsentStatus: ENUM.GRANTED,
+    });
+    disparar(sandbox, estado);
+    estado.adStoragePurposeConsentStatus = ENUM.DENIED;
+    estado.adUserDataPurposeConsentStatus = ENUM.DENIED;
+    estado.adPersonalizationPurposeConsentStatus = ENUM.DENIED;
+    disparar(sandbox, estado);
+    const ups = actualizaciones(sandbox);
+    expect(ups.at(-2)[2].ad_storage).toBe("granted");
+    expect(ups.at(-1)[2].ad_storage).toBe("denied");
+    expect(ups.at(-1)[2].analytics_storage).toBe("denied");
+  });
+
+  it("UNITARIO: NOT_APPLICABLE no se traduce a granted", () => {
+    const sandbox = arrancar();
+    disparar(sandbox, modo({
+      adStoragePurposeConsentStatus: ENUM.NOT_APPLICABLE,
+      analyticsStoragePurposeConsentStatus: ENUM.NOT_APPLICABLE,
+    }));
+    expect(actualizaciones(sandbox)[0][2].ad_storage).toBe("denied");
+    expect(actualizaciones(sandbox)[0][2].analytics_storage).toBe("denied");
+    expect(srcs(sandbox)).toEqual([]);
+  });
+
   it("una aceptación vieja del banner concede analítica aunque ahora exista __tcfapi; sigue sin conceder anuncios", () => {
     const storage = { rtm_consent_v1: JSON.stringify({ an: 1, ad: 0, t: Date.now() }) };
     const sandbox = arrancar({ storage, tcf() {} });

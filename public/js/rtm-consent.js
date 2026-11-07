@@ -27,6 +27,44 @@
     });
     if (an && window.__rtmLoadGA) window.__rtmLoadGA();
   }
+  function numero(E, corto, largo, defecto) {
+    if (E && typeof E[corto] === "number") return E[corto];
+    if (E && typeof E[largo] === "number") return E[largo];
+    return defecto;
+  }
+  /* Solo el enum de getGoogleConsentModeValues. GRANTED es 1.
+     NOT_CONFIGURED (4), DENIED (2), NOT_APPLICABLE (3) y cualquier otro
+     valor quedan denied. UNKNOWN (0) significa que aún no está listo:
+     no se escribe ninguna concesión. No se leen los fines TCF. */
+  function aplicarModo() {
+    var fc = window.googlefc;
+    if (!fc || typeof fc.getGoogleConsentModeValues !== "function" || typeof window.gtag !== "function") return;
+    var st;
+    try { st = fc.getGoogleConsentModeValues(); } catch (e) { return; }
+    if (!st) return;
+    var E = fc.ConsentModePurposeStatusEnum;
+    var listo = numero(E, "UNKNOWN", "CONSENT_MODE_PURPOSE_STATUS_UNKNOWN", 0);
+    var si = numero(E, "GRANTED", "CONSENT_MODE_PURPOSE_STATUS_GRANTED", 1);
+    var vals = [
+      st.adStoragePurposeConsentStatus,
+      st.adUserDataPurposeConsentStatus,
+      st.adPersonalizationPurposeConsentStatus,
+      st.analyticsStoragePurposeConsentStatus,
+    ];
+    for (var i = 0; i < vals.length; i++) if (vals[i] === listo) return;
+    function a(v) { return v === si ? "granted" : "denied"; }
+    window.gtag("consent", "update", {
+      ad_storage: a(st.adStoragePurposeConsentStatus),
+      ad_user_data: a(st.adUserDataPurposeConsentStatus),
+      ad_personalization: a(st.adPersonalizationPurposeConsentStatus),
+      analytics_storage: a(st.analyticsStoragePurposeConsentStatus),
+    });
+  }
+  function encolarModo() {
+    window.googlefc = window.googlefc || {};
+    window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+    window.googlefc.callbackQueue.push({ CONSENT_MODE_DATA_READY: aplicarModo });
+  }
   function oirTcf() {
     var api = window.__tcfapi;
     if (typeof api !== "function") return false;
@@ -37,6 +75,7 @@
         fcVisto = true;
         close();
       }
+      if (st === "tcloaded" || st === "useractioncomplete") aplicarModo();
     });
     return true;
   }
@@ -89,6 +128,7 @@
   var prev = read();
   if (prev) update(!!(prev.an != null ? prev.an : prev.a));
   function inicio() {
+    encolarModo();
     oirTcf();
     if (prev || fcVisto || typeof window.__tcfapi === "function") return;
     show(false);
