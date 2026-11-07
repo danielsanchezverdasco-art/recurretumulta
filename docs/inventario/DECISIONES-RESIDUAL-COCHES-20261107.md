@@ -34,4 +34,18 @@ Los otros huecos y las 632 cifras en las que candidato y rama discrepan no se to
 
 ## Bloques
 
+## Lote SEAT y Dacia, 7 de noviembre de 2026
+
+Una ficha de Euro NCAP cubre varias motorizaciones. La nota en el coche es corta; el detalle está aquí.
+
+- León 2025, cinco estrellas, publicada el 19 de noviembre. Adultos 88 %, infantil 86 %, usuarios vulnerables 81 %, asistencias 77 %. [Ficha](https://www.euroncap.com/assessments/seat/leon/1122pm/). El coche del encabezado es el 1.5 TSI de 85 kW (115 CV) en carrocería hatchback. La tabla incluye además el 1.5 TSI de 110 kW, el eTSI de 110 kW, el 2.0 TDI de 110 kW y los e-Hybrid. Entran el 1.5 TSI 115, el León 1.5 TSI de 150 CV y el e-Hybrid de cinco puertas. El Sportstourer no está en la tabla: sin estrellas. El eTSI de 115 CV y el TDI de 115 CV tampoco coinciden con los 110 kW listados: sin estrellas.
+- Ibiza, cinco estrellas en el [comunicado del 12 de octubre de 2022](https://www.euroncap.com/press-media/eight-manufacturers-achieve-euro-ncap-5-stars-in-impressive-car-line-up/), junto al Arona. Sigue dentro de los seis años.
+- Ateca: la [ficha de 2016](https://www.euroncap.com/en/results/SEAT/Ateca/24847) figura caducada. No se mantienen las cinco estrellas en los Ateca de 2024 y 2026.
+- Duster 2024, tres estrellas, publicado el 10 de julio. [Ficha](https://www.euroncap.com/assessments/dacia/duster/1075/). Entran el TCe 130 de tracción delantera y el híbrido 140, que es el probado. El TCe 130 4x4 sale en la tabla con la casilla en blanco: sin estrellas.
+- Bigster, tres estrellas. Euro NCAP lo publica como pareja del Duster el 20 de mayo de 2025. [Ficha](https://www.euroncap.com/assessments/dacia/duster/1144/). El intervalo de revisión, un año o 30.000 km, está en [Dacia España](https://www.dacia.es/preguntas-frecuentes-vehiculos/bigster/mantenimiento.html) y solo se aplica al Bigster. La misma página general de Dacia dice que otros modelos van a 15.000, 20.000 o 30.000 km: Sandero, Duster y Jogger no copian el intervalo del Bigster.
+- Sandero y Stepway: dos estrellas de 2021. El coche probado fue el Stepway 1.0 TCe. [Ficha](https://www.euroncap.com/assessments/0861p2/).
+- Jogger: una estrella. La ficha, de abril de 2022, se apoya en el Stepway y baja por la tercera fila. [Ficha](https://www.euroncap.com/assessments/dacia/jogger/0947/).
+
+El plan LongLife de SEAT y el de 15.000 km de Toyota no se copian: no se abrió en esta pasada una página de la marca que fije ese intervalo para cada modelo.
+
 De los 126, entran las dos fichas del Santa Fe híbrido e híbrido enchufable de 2026: la prueba de 2024 da cuatro estrellas de serie y cinco con el pack SmartSense (`euroncap.com/en/results/hyundai/santa-fe/53407` y `53840`). El resto de bloques sigue fuera: no se ha abierto su ficha de resultado en esta pasada y no se rellenan estrellas por parecerse a otro modelo.
