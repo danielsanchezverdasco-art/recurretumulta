@@ -391,12 +391,12 @@ export const COCHES_TESLA: CocheComparador[] = [
         "alto": 800
       }
     ],
-    euroncap: {
-          estrellas: 5,
-          ano: 2025,
-          url: "https://news.euroncap.com/safercars/tesla-model-3---euro-ncap-2025-results---5-stars/s/bf232c62-8a8a-435a-aa69-dbafc0a82459",
-          nota: "Test del Tesla Model 3 (2025), válido para toda la gama: 90% adultos, 93% infantil, 89% peatones, 87% asistencias",
-        }
+euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com/assessments/1110/",
+      nota: "Cinco estrellas publicadas en mayo de 2025. La tabla de variantes incluye el Long Range con tracción total. El coche probado fue el de propulsión trasera.",
+    }
   },
   {
     id: "tesla-model-y-standard-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica",

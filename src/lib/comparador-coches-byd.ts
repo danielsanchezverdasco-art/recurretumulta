@@ -100,7 +100,7 @@ export const COCHES_BYD: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+          fuente: "https://www.bydauto.be/en/service-and-repair/",
         }
   },
   {
@@ -190,7 +190,7 @@ export const COCHES_BYD: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+          fuente: "https://www.bydauto.be/en/service-and-repair/",
         }
   },
   {
@@ -279,7 +279,7 @@ export const COCHES_BYD: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+          fuente: "https://www.bydauto.be/en/service-and-repair/",
         }
   },
   {
@@ -368,7 +368,7 @@ export const COCHES_BYD: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+          fuente: "https://www.bydauto.be/en/service-and-repair/",
         }
   },
   {
@@ -617,7 +617,7 @@ export const COCHES_BYD: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+          fuente: "https://www.bydauto.be/en/service-and-repair/",
         }
   },
   {
@@ -834,12 +834,12 @@ export const COCHES_BYD: CocheComparador[] = [
       },
       
     ],
-    euroncap: {
-          estrellas: 5,
-          ano: 2023,
-          url: null,
-          nota: "5 estrellas Euro NCAP (2023): 87% adultos, 87% infantil, 80% peatones, 73% asistencias",
-        },
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "El comunicado de diciembre de 2023 cita al Tang entre los coches de la tanda, pero no se abrió su ficha de estrellas. No se afirma una puntuación.",
+    },
     planMantenimiento: {
           intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
           revisiones: [
@@ -850,7 +850,7 @@ export const COCHES_BYD: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+          fuente: "https://www.bydauto.be/en/service-and-repair/",
         }
   },
   {
@@ -929,12 +929,12 @@ export const COCHES_BYD: CocheComparador[] = [
       },
       
     ],
-    euroncap: {
-          estrellas: 5,
-          ano: 2022,
-          url: "https://www.euroncap.com/press-media/eight-manufacturers-achieve-euro-ncap-5-stars-in-impressive-car-line-up/",
-          nota: "Test del BYD Atto 3 (2022): 91% adultos, 89% infantil, 69% peatones, 74% asistencias",
-        },
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/byd/atto-3/0992/",
+      nota: "Las cinco estrellas de octubre de 2022 son del Atto 3 anterior. El Evo cambia estructura y no tiene una valoración propia publicada.",
+    },
     planMantenimiento: {
           intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
           revisiones: [
@@ -945,7 +945,7 @@ export const COCHES_BYD: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+          fuente: "https://www.bydauto.be/en/service-and-repair/",
         }
   },
   {
@@ -1038,7 +1038,7 @@ export const COCHES_BYD: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+          fuente: "https://www.bydauto.be/en/service-and-repair/",
         }
   },
   {
@@ -1131,7 +1131,7 @@ export const COCHES_BYD: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+          fuente: "https://www.bydauto.be/en/service-and-repair/",
         }
   },
   {

@@ -82,12 +82,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       }
     ],
     planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "El manual del propietario del Kona Electric sitúa la revisión periódica importante cada 2 años o 30.000 km y recomienda sustituir el líquido de frenos cada dos años. Al ser eléctrico no hay aceite de motor que cambiar: la visita se centra en la batería de alto voltaje, los frenos, el filtro del habitáculo y la refrigeración. Ninguna fuente consultada publica tarifas cerradas para España, así que no se da un coste de revisión.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.manualpdf.es/hyundai/kona-electric-2024/manual?p=176"},
-    euroncap: {
-          estrellas: 4,
-          ano: 2023,
-          url: null,
-          nota: "Prueba del Hyundai Kona (2ª generación), 2023",
-        }
+euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: "https://www.euroncap.com/assessments/hyundai/kona/1051/",
+      nota: "Cuatro estrellas del 6 de diciembre de 2023 para la segunda generación. La tabla cubre eléctrico de autonomía corta y larga, híbrido, 1.0 y 1.6 T-GDI. Se probó el eléctrico de autonomía corta.",
+    }
   },
   {
     id: "hyundai-tucson-hibrido-2026-precio-ficha-tecnica",
@@ -169,12 +169,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    euroncap: {
-          estrellas: 5,
-          ano: 2021,
-          url: null,
-          nota: "Prueba del Hyundai Tucson (NX4), 2021",
-        },
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.hyundai.news/eu/articles/press-releases/hyundai-tucson-and-ioniq-5-achieve-five-star-ratings-in-euro-ncap-testing.html",
+      nota: "El Tucson NX4 tuvo cinco estrellas el 27 de octubre de 2021. En la consulta no aparece una revisión de restyling que cubra este modelo posterior, así que no se confirman estrellas para él.",
+    },
     planMantenimiento: {
           intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
           revisiones: [
@@ -184,7 +184,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
               costeAproxEur: null,
             },
           ],
-          fuente: "Hyundai España",
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
         }
   },
   {
@@ -367,12 +367,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    euroncap: {
-          estrellas: 5,
-          ano: 2021,
-          url: null,
-          nota: "Prueba del Hyundai IONIQ 5, 2021 (misma carrocería y estructura)",
-        },
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/0893/",
+      nota: "La ficha de 2021 del IONIQ 5 lista 125, 160, 173 y 225 kW, no el N. No se trasladan esas cinco estrellas a esta versión.",
+    },
     planMantenimiento: {
           intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
           revisiones: [
@@ -382,7 +382,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
               costeAproxEur: null,
             },
           ],
-          fuente: "Hyundai España (plan oficial para eléctricos)",
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
         }
   },
   {
@@ -465,14 +465,14 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    euroncap: {
-          estrellas: 5,
-          ano: 2025,
-          url: null,
-          nota: "Prueba del Hyundai IONIQ 9, 2025",
-        },
+euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com/assessments/hyundai/ioniq-9/1157/",
+      nota: "Cinco estrellas publicadas el 10 de septiembre de 2025. El coche probado fue el 4x4 GLS. Hyundai cita 84 % adultos, 87 % infantil, 77 % usuarios vulnerables y 83 % asistencias.",
+    },
     planMantenimiento: {
-          intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+          intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
           revisiones: [
             {
               nombre: "Revisión bienal / 30.000 km",
@@ -481,7 +481,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Hyundai España (plan oficial para eléctricos)",
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
         }
   },
   {
@@ -664,12 +664,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    euroncap: {
-          estrellas: 5,
-          ano: 2025,
-          url: null,
-          nota: "Prueba del Hyundai NEXO (2ª generación), 2025",
-        }
+euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com/press-media/mercedes-star-shines-bright-as-euro-ncap-s-final-results-deliver-safer-options-for-every-buyer/",
+      nota: "La segunda generación del NEXO tiene cinco estrellas en la publicación del 10 de diciembre de 2025, con 90, 85, 76 y 80 en las cuatro áreas.",
+    }
   },
   {
     id: "hyundai-santa-fe-hibrido-enchufable-2026-precio-ficha-tecnica",
@@ -932,14 +932,14 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    euroncap: {
-          estrellas: 4,
-          ano: 2025,
-          url: null,
-          nota: "Prueba del Hyundai INSTER, 2025 (rating aplicable a toda la gama INSTER)",
-        },
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/hyundai/inster/1200/",
+      nota: "La ficha de julio de 2025 nombra los INSTER eléctricos de 71,1 y 85,4 kW, no un Cross. No se da por cubierta esta variante.",
+    },
     planMantenimiento: {
-          intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+          intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
           revisiones: [
             {
               nombre: "Revisión bienal / 30.000 km",
@@ -948,7 +948,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Hyundai España (plan oficial para eléctricos)",
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
         }
   },
   {
@@ -1031,12 +1031,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    euroncap: {
-          estrellas: 5,
-          ano: 2021,
-          url: null,
-          nota: "Prueba del Hyundai Tucson (NX4), 2021",
-        },
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.hyundai.news/eu/articles/press-releases/hyundai-tucson-and-ioniq-5-achieve-five-star-ratings-in-euro-ncap-testing.html",
+      nota: "El Tucson NX4 tuvo cinco estrellas el 27 de octubre de 2021. En la consulta no aparece una revisión de restyling que cubra este modelo posterior, así que no se confirman estrellas para él.",
+    },
     planMantenimiento: {
           intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
           revisiones: [
@@ -1046,7 +1046,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
               costeAproxEur: null,
             },
           ],
-          fuente: "Hyundai España",
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
         }
   },
   {
@@ -1129,12 +1129,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    euroncap: {
-          estrellas: 4,
-          ano: 2023,
-          url: null,
-          nota: "Prueba del Hyundai Kona (2ª generación), 2023",
-        },
+euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: "https://www.euroncap.com/assessments/hyundai/kona/1051/",
+      nota: "Cuatro estrellas del 6 de diciembre de 2023 para la segunda generación. La tabla cubre eléctrico de autonomía corta y larga, híbrido, 1.0 y 1.6 T-GDI. Se probó el eléctrico de autonomía corta.",
+    },
     planMantenimiento: {
           intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
           revisiones: [
@@ -1145,7 +1145,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Hyundai España",
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
         }
   },
   {
@@ -1317,12 +1317,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       }
     ],
     planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Para este i20 1.0 T-GDI 48V rige la norma general de Hyundai en España: revisión cada 15.000 km o cada año, lo primero que se cumpla, con aviso previo en el cuadro de instrumentos. Solo los IONIQ 5 e IONIQ 6 se salen de ese intervalo y pasan a 30.000 km o dos años, así que no conviene estirar los plazos del tricilíndrico turbo entre aceite y filtros.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/contrato-mantenimiento"},
-    euroncap: {
-          estrellas: 4,
-          ano: 2021,
-          url: null,
-          nota: "Prueba del Hyundai i20, 2021",
-        }
+euroncap: {
+      estrellas: 4,
+      ano: 2021,
+      url: "https://www.euroncap.com/assessments/0891pm/",
+      nota: "Euro NCAP dice que el i20 y el Bayon pueden considerarse iguales en seguridad, y aplica al i20 las cuatro estrellas del Bayon de 2021.",
+    }
   },
   {
     id: "hyundai-kona-electrico-49-kwh-2026-precio-ficha-tecnica",
@@ -1404,12 +1404,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    euroncap: {
-          estrellas: 4,
-          ano: 2023,
-          url: null,
-          nota: "Prueba del Hyundai Kona (2ª generación), 2023",
-        },
+euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: "https://www.euroncap.com/assessments/hyundai/kona/1051/",
+      nota: "Cuatro estrellas del 6 de diciembre de 2023 para la segunda generación. La tabla cubre eléctrico de autonomía corta y larga, híbrido, 1.0 y 1.6 T-GDI. Se probó el eléctrico de autonomía corta.",
+    },
     planMantenimiento: {
           intervalo: "Cada 1 año o 15.000 km (lo que ocurra antes)",
           revisiones: [
@@ -1420,7 +1420,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Hyundai España (intervalo oficial en hyundai.com/es; costes no publicados)",
+          fuente: "https://www.hyundai.com/es/es/modelos/kona-electrico/ahorro-y-mantenimiento.html",
         }
   },
   {
@@ -1503,12 +1503,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    euroncap: {
-          estrellas: 5,
-          ano: 2021,
-          url: null,
-          nota: "Prueba del Hyundai Tucson (NX4), 2021",
-        },
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.hyundai.news/eu/articles/press-releases/hyundai-tucson-and-ioniq-5-achieve-five-star-ratings-in-euro-ncap-testing.html",
+      nota: "El Tucson NX4 tuvo cinco estrellas el 27 de octubre de 2021. En la consulta no aparece una revisión de restyling que cubra este modelo posterior, así que no se confirman estrellas para él.",
+    },
     planMantenimiento: {
           intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
           revisiones: [
@@ -1519,7 +1519,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Hyundai España",
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
         }
   },
   {
@@ -1747,14 +1747,14 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       },
       
     ],
-    euroncap: {
-          estrellas: 4,
-          ano: 2025,
-          url: null,
-          nota: "Prueba del Hyundai INSTER, 2025",
-        },
+euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: "https://www.euroncap.com/assessments/hyundai/inster/1200/",
+      nota: "Cuatro estrellas publicadas el 9 de julio de 2025. La tabla nombra los eléctricos de 71,1 y 85,4 kW. En el comunicado: 70 % adultos, 81 % infantil, 70 % usuarios vulnerables y 67 % asistencias.",
+    },
     planMantenimiento: {
-          intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+          intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
           revisiones: [
             {
               nombre: "Revisión bienal / 30.000 km",
@@ -1762,7 +1762,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
               costeAproxEur: null,
             },
           ],
-          fuente: "Hyundai España (plan oficial para eléctricos)",
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
         }
   },
   {
@@ -2011,12 +2011,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       },
       
     ],
-    euroncap: {
-          estrellas: 4,
-          ano: 2021,
-          url: null,
-          nota: "Prueba del Hyundai Bayon, 2021",
-        },
+euroncap: {
+      estrellas: 4,
+      ano: 2021,
+      url: "https://www.euroncap.com/assessments/hyundai/bayon/0891/",
+      nota: "El 1.0 T-GDI es la variante probada del Bayon. Cuatro estrellas de 2021, con revisión de restyling en mayo de 2024.",
+    },
     planMantenimiento: {
           intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
           revisiones: [
@@ -2027,7 +2027,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Hyundai España",
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
         }
   },
   {
@@ -2105,12 +2105,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       },
       
     ],
-    euroncap: {
-          estrellas: 5,
-          ano: 2017,
-          url: null,
-          nota: "Prueba del Hyundai i30, 2017",
-        },
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/hyundai/i30/0674/",
+      nota: "Este 1.5 T-GDI queda sin estrellas confirmadas. Euro NCAP da por terminada la valoración de 2017 el 1 de enero de 2024.",
+    },
     planMantenimiento: {
           intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
           revisiones: [
@@ -2121,7 +2121,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Hyundai España",
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
         }
   },
   {

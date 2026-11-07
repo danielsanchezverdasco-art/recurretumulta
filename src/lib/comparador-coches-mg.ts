@@ -88,12 +88,12 @@ export const COCHES_MG: CocheComparador[] = [
     ],
     fuenteNombre: "MG España (nota de prensa vía apmc.cat)",
     fuenteUrl: "https://apmc.cat/apmc/nuevos-mg3-y-mg3-hybrid-my-265-desde-13-990-y-17-840-e/",
-    euroncap: {
-          estrellas: 4,
-          ano: 2025,
-          url: null,
-          nota: "Test del MG3 (2025): 74% adultos, 73% infantil, 81% peatones, 69% asistencias",
-        },
+euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: "https://www.euroncap.com/assessments/mg/3/1057/",
+      nota: "Cuatro estrellas publicadas el 10 de septiembre de 2025. Se probó el híbrido 1.5, y la tabla también incluye el gasolina 1.5 GS62. Porcentajes: 74, 73, 81 y 69.",
+    },
     planMantenimiento: {
           intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
           revisiones: [
@@ -109,7 +109,7 @@ export const COCHES_MG: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Red oficial MG España",
+          fuente: "No se abrió un plan de mantenimiento de MG España para este modelo",
         }
   },
   {
@@ -346,11 +346,11 @@ export const COCHES_MG: CocheComparador[] = [
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/mg/hs/2025/estandar/hev/hs-hybrid-plus-comfort/datos",
     euroncap: {
-          estrellas: 5,
-          ano: 2024,
-          url: null,
-          nota: "Test del MG HS (2024): 90% adultos, 85% infantil, 83% peatones, 74% asistencias",
-        },
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "No se abrió la ficha de resultado del HS Hybrid+ de 2024. Esas cinco estrellas y esos porcentajes no quedan confirmados.",
+    },
     planMantenimiento: {
           intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
           revisiones: [
@@ -366,7 +366,7 @@ export const COCHES_MG: CocheComparador[] = [
             },
           ],
           costeAnualAproxEur: null,
-          fuente: "Red oficial MG España",
+          fuente: "No se abrió un plan de mantenimiento de MG España para este modelo",
         }
   },
   {

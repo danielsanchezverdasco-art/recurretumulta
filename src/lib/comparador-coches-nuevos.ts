@@ -1857,12 +1857,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       { src: "/media/hyundai-inster-electrico-precio-ficha-tecnica-hunt2.webp", alt: "Inster (foto: Hyundai Motor (oficial), licencia desconocida)", ancho: 1326, alto: 882 },
       { src: "/media/hyundai-inster-electrico-precio-ficha-tecnica-hunt3.webp", alt: "Inster (foto: Hyundai UK (prensa) / EV Fleet World (Foleon), licencia desconocida)", ancho: 800, alto: 534 },
     ],
-    euroncap: {
-          estrellas: 4,
-          ano: 2025,
-          url: null,
-          nota: "Prueba del Hyundai INSTER, 2025",
-        }
+euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: "https://www.euroncap.com/assessments/hyundai/inster/1200/",
+      nota: "Misma ficha del INSTER de julio de 2025: cuatro estrellas para los dos eléctricos publicados, 71,1 y 85,4 kW.",
+    }
   },
   {
     id: "citroen-e-c3-aircross-electrico-precio-ficha-tecnica",
@@ -3533,12 +3533,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       { src: "/media/seat-arona-10-tsi-hunt2.webp", alt: "Arona 1.0 TSI (foto: SEAT (foto de prensa) / TractioN, licencia desconocida)", ancho: 1280, alto: 720 },
       { src: "/media/seat-arona-10-tsi-hunt3.webp", alt: "Arona 1.0 TSI (foto: SEAT (foto de prensa) / La Guía del Motor, licencia desconocida)", ancho: 1086, alto: 724 },
     ],
-    euroncap: {
-          estrellas: 5,
-          ano: 2022,
-          url: "https://www.euroncap.com",
-          nota: "Prueba oficial del Arona (restyling) 2022 (5 estrellas): 83 % adultos, 83 % infantil, 65 % usuarios vulnerables y 70 % asistencias",
-        }
+euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: "https://www.euroncap.com/assessments/seat/arona/0942/",
+      nota: "Cinco estrellas del 12 de octubre de 2022. El coche probado fue el Arona 1.0 EcoTSI Style. Ficha: 83 % adultos, 83 % infantil, 65 % usuarios vulnerables y 70 % asistencias.",
+    }
   },
   {
     id: "ford-puma-10-ecoboost-mhev",
@@ -3845,12 +3845,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: [],
     imagen: "/media/hyundai-i10-2026.webp",
     opiniones: [],
-    euroncap: {
-          estrellas: 3,
-          ano: 2020,
-          url: null,
-          nota: "Prueba del Hyundai i10, 2020",
-        }
+euroncap: {
+      estrellas: 3,
+      ano: 2020,
+      url: "https://www.euroncap.com/assessments/0847/",
+      nota: "Tres estrellas publicadas el 9 de diciembre de 2020, con revisión de restyling el 15 de junio de 2023. A 7 de noviembre de 2026 sigue dentro de los seis años de validez.",
+    }
   },
   {
     id: "kia-stonic-2026",
@@ -3913,12 +3913,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["consumo"],
     imagen: "/media/kia-stonic-2026.webp",
     opiniones: [],
-    euroncap: {
-          estrellas: 3,
-          ano: 2017,
-          url: null,
-          nota: "Rating de serie 2017: 3 estrellas; 5 estrellas con el pack opcional de seguridad",
-        }
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/kia/stonic/0678s2/",
+      nota: "En 2017 el Stonic tuvo tres estrellas de serie y cinco con el pack, a partir de pruebas del Rio. Esa ficha caducó el 1 de enero de 2024.",
+    }
   },
   {
     id: "skoda-fabia-2026",
@@ -5511,12 +5511,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["bateriaKwh", "autonomiaKm"],
     imagen: "/media/kia-niro-hev-129.webp",
     opiniones: [],
-    euroncap: {
-          estrellas: 4,
-          ano: 2022,
-          url: null,
-          nota: "Prueba del Kia Niro, 2022",
-        }
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "No se abrió la ficha de resultado del Niro de 2022 para este híbrido. No se mantienen las cuatro estrellas sin esa comprobación.",
+    }
   },
   {
     id: "hyundai-kona-hybrid-138",
@@ -5571,12 +5571,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["bateriaKwh", "autonomiaKm", "emisionesCo2"],
     imagen: "/media/hyundai-kona-hybrid-138.webp",
     opiniones: [],
-    euroncap: {
-          estrellas: 4,
-          ano: 2023,
-          url: null,
-          nota: "Prueba del Hyundai Kona (2ª generación), 2023",
-        }
+euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: "https://www.euroncap.com/assessments/hyundai/kona/1051/",
+      nota: "Cuatro estrellas del 6 de diciembre de 2023 para la segunda generación. La tabla cubre eléctrico de autonomía corta y larga, híbrido, 1.0 y 1.6 T-GDI. Se probó el eléctrico de autonomía corta.",
+    }
   },
   {
     id: "kia-sportage-hev-239",
@@ -5632,12 +5632,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["bateriaKwh", "autonomiaKm"],
     imagen: "/media/kia-sportage-hev-239.webp",
     opiniones: [],
-    euroncap: {
-          estrellas: 5,
-          ano: 2022,
-          url: null,
-          nota: "Prueba del Kia Sportage, 2022",
-        }
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "No se abrió una ficha de resultado del Sportage que ate estas cinco estrellas de 2022 a este híbrido. Queda sin evaluación confirmada.",
+    }
   },
   {
     id: "mazda-3-sedan-e-skyactiv-g",
@@ -8075,12 +8075,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     opiniones: [],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/hyundai/bayon/2024/estandar/estandar/bayon-10-t-gdi-100-cv-48v-klass/datos",
-    euroncap: {
-          estrellas: 4,
-          ano: 2021,
-          url: null,
-          nota: "Prueba del Hyundai Bayon, 2021",
-        }
+euroncap: {
+      estrellas: 4,
+      ano: 2021,
+      url: "https://www.euroncap.com/assessments/hyundai/bayon/0891/",
+      nota: "Cuatro estrellas del 27 de octubre de 2021. El coche probado fue el Bayon 1.0 T-GDI, y hay revisión de restyling el 15 de mayo de 2024.",
+    }
   },
   {
     id: "hyundai-i30-2024-precio-ficha-tecnica",
@@ -8149,12 +8149,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     opiniones: [],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/hyundai/i30/2020/5-puertas/estandar/i30-5p-15-dpi-96-cv-n-line-se/datos",
-    euroncap: {
-          estrellas: 5,
-          ano: 2017,
-          url: null,
-          nota: "Prueba del Hyundai i30, 2017",
-        }
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/hyundai/i30/0674/",
+      nota: "La prueba del i30 de 2017 caducó el 1 de enero de 2024. No hay otra evaluación publicada para este coche.",
+    }
   },
   {
     id: "kia-ceed-2024-precio-ficha-tecnica",
@@ -10530,12 +10530,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     opiniones: [],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/hyundai/santa-fe/2024/estandar/datos?market[]=available&amp=1",
-    euroncap: {
-          estrellas: 4,
-          ano: 2024,
-          url: null,
-          nota: "Prueba del Hyundai Santa Fe, 2024",
-        }
+euroncap: {
+      estrellas: 4,
+      ano: 2024,
+      url: "https://www.euroncap.com/en/results/hyundai/santa-fe/53407",
+      nota: "Con el equipo de serie son cuatro estrellas en 2024. Con el pack SmartSense la ficha aparte da cinco: https://www.euroncap.com/en/results/hyundai/santa-fe/53840",
+    }
   },
   {
     id: "toyota-bz4x-precio-ficha-tecnica",
