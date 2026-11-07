@@ -2927,8 +2927,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/challenger-287-2026-precio-ficha-tecnica-detalle.webp",
+    "heroAlt": "Challenger 287 (2026): precio, ficha técnica y opinión honesta — detalle",
     "keywords": [
       "Challenger 287",
       "precio Challenger 287",
@@ -2954,7 +2954,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "camper VW Crafter 2026",
       "opinión Dethleffs Globetrail"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "frankia-neo-i-7-gdk-precio-ficha-tecnica",
@@ -3026,7 +3026,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "camper Pössl 2026",
       "opinión Pössl Summit Shine"
     ],
-    "readTime": 8
+    "readTime": 9
   },
   {
     "slug": "roller-team-zefiro-285-tl-precio-ficha-tecnica",
@@ -27360,7 +27360,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "byd-atto-2-vs-jaecoo-5-cual-comprar",
     "title": "BYD Atto 2 vs Jaecoo 5 2026",
-    "excerpt": "Dos SUV chinos por menos de 23.000 €: el BYD Atto 2 eléctrico desde 18.739 € financiado y el Jaecoo 5 con tres motorizaciones a elegir. Comparamos",
+    "excerpt": "El BYD Atto 2 eléctrico desde 29.990 € contra el Jaecoo 5 desde 26.871 €: precio, autonomía y maletero comparados.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -27376,7 +27376,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "BYD Atto 2 DM-i precio",
       "comparativa SUV chinos"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "xpeng-g6-vs-tesla-model-y-cual-comprar",
@@ -27465,7 +27465,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar",
     "title": "Dacia Bigster Hybrid vs Jaecoo 5 2026",
-    "excerpt": "El Dacia Bigster Hybrid 155 (desde 29.390 €, etiqueta ECO) contra el Jaecoo 5 (desde 19.990 € financiado, con versiones C, ECO y CERO). El duelo de los",
+    "excerpt": "El Dacia Bigster Hybrid 155 (desde 29.390 €, etiqueta ECO) contra el Jaecoo 5 (desde 26.871 € de tarifa, con versiones C, ECO y CERO). El duelo de los",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -27481,7 +27481,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Jaecoo 5 híbrido",
       "qué SUV barato comprar"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "mg4-electric-vs-byd-dolphin-2025-cual-comprar",
@@ -30241,7 +30241,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "haval-h6-hev-2025-precio-ficha-tecnica",
     "title": "Haval H6 HEV: precio en España y ficha técnica",
-    "excerpt": "Haval H6 HEV en España: 243 CV, 530 Nm, 5,9 l/100 km y etiqueta ECO desde 33.800 €. Precio, ficha técnica y videoprueba.",
+    "excerpt": "Haval H6 HEV en España: 243 CV, 530 Nm, 5,9 litros y pegatina ECO, desde 33.800 €. Precio, ficha técnica y videoprueba.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -46763,24 +46763,21 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "honda-pcx125-2025-ficha-tecnica-precio",
-    "title": "Honda PCX125 2025: precio y ficha técnica",
-    "excerpt": "La Honda PCX125 2025 desde 3.199 €: 12,5 CV, 98 km/h, 2,1 l/100 km, ficha técnica, etiqueta DGT y vídeo.",
+    "title": "Honda PCX125 2025: desde 3.499 €, con 12,3 CV y versión DX",
+    "excerpt": "La Honda PCX125 2025 desde 3.499 €: motor eSP+ de 12,3 CV, 385 km de autonomía y versión DX con pantalla TFT y RoadSync. Precio, ficha y opinión.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-11-05",
     "locale": "all",
     "heroSrc": "/media/motos/honda-pcx125-2025-ficha-tecnica-precio-1.webp",
     "heroAlt": "Honda PCX125 2025 azul en tres cuartos",
     "keywords": [
-      "honda pcx125 precio",
+      "honda pcx125 2025 precio",
       "pcx125 2025 ficha técnica",
-      "honda pcx125 opiniones",
-      "scooter 125 barato 2025 comparativa",
-      "pcx125 vs nmax 125",
-      "honda pcx125 12 cv precio españa",
-      "scooter 125 consumo bajo",
-      "pcx125 prueba"
+      "honda pcx125 dx precio",
+      "pcx125 2025 opiniones",
+      "scooter 125 honda 2025"
     ],
-    "readTime": 2
+    "readTime": 11
   },
   {
     "slug": "honda-vision-110-2025-ficha-tecnica-precio",
@@ -50714,7 +50711,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ktm the punisher",
       "990 duke r vs mt-09"
     ],
-    "readTime": 4
+    "readTime": 3
   },
   {
     "slug": "ktm-rc-390-2024-ficha-tecnica-precio",
@@ -50980,7 +50977,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "hypermotard 698 prueba",
       "ducati monocilindrica"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "ducati-desertx-rally-2024-ficha-tecnica-precio",
@@ -51094,7 +51091,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "triumph trident prueba",
       "trident 660 opiniones"
     ],
-    "readTime": 6
+    "readTime": 5
   },
   {
     "slug": "triumph-speed-twin-900-2024-ficha-tecnica-precio",
@@ -54803,7 +54800,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "bobber gran cilindrada",
       "indian chief vs harley"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "piaggio-beverly-310-2025-ficha-tecnica-precio",
@@ -57063,7 +57060,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "moto trial exclusiva",
       "lampkin 12 mundiales"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "mecatecno-dragonfly-e-2025-ficha-tecnica-precio",
@@ -58428,7 +58425,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "the long distance beast",
       "ktm 1390 gt prueba"
     ],
-    "readTime": 3
+    "readTime": 2
   },
   {
     "slug": "ktm-990-rc-r-2025-ficha-tecnica-precio",
@@ -70156,8 +70153,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/currus-nf-1.webp",
-    "heroAlt": "Currus NF negro, vista lateral completa del patinete",
+    "heroSrc": "/media/currus-nf11-hunt1.webp",
+    "heroAlt": "currus nf — fotografía del modelo",
     "keywords": [
       "currus nf",
       "currus nf precio",
@@ -70261,8 +70258,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
-    "heroSrc": "/media/patinetes/etwow-gt-se-sport-1.webp",
-    "heroAlt": "E-TWOW GT SE Sport negro, vista lateral completa del patinete",
+    "heroSrc": "/media/etwow-gt-se-hunt1.webp",
+    "heroAlt": "etwow gt se sport — fotografía del modelo",
     "keywords": [
       "e-twow gt se sport",
       "etwow gt se sport precio",
@@ -75628,7 +75625,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "sport touring Yamaha",
       "Tracer 9 120 CV"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "yamaha-mt-09-2024-ficha-tecnica-precio",
@@ -76064,7 +76061,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "byd-atto-3-precio-ficha-tecnica",
-    "title": "Atto 3: 420 km y 5 estrellas EuroNCAP",
+    "title": "BYD Atto 3: 420 km WLTP y cinco estrellas",
     "excerpt": "El BYD Atto 3: SUV eléctrico de 204 CV, 420 km WLTP y 5 estrellas EuroNCAP 2022, desde 32.990 €. Análisis, rivales y garantía de la batería.",
     "category": "Novedades Motor",
     "date": "2026-10-17",
@@ -79504,6 +79501,25 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 12
   },
   {
+    "slug": "xpeng-mona-l05-2026-precio-ficha-tecnica",
+    "title": "XPeng MONA L05 2026: 1.310 km, 635 km eléctricos y 18.500 €",
+    "excerpt": "El XPeng MONA L05 ya está a la venta en China desde 139.800 yuanes: SUV de 4,87 m con 635 km eléctricos o 1.310 km con extensor, y Europa en 2027.",
+    "category": "Novedades Motor",
+    "date": "2026-10-29",
+    "locale": "all",
+    "heroSrc": "",
+    "heroAlt": "",
+    "keywords": [
+      "XPeng MONA L05",
+      "XPeng MONA L05 precio",
+      "XPeng L05 Europa",
+      "XPeng MONA L05 ficha técnica",
+      "MONA L05 autonomía",
+      "XPeng L05 España"
+    ],
+    "readTime": 12
+  },
+  {
     "slug": "royal-enfield-himalayan-750-2027-ficha-tecnica-precio",
     "title": "Royal Enfield Himalayan 750: 55 CV desde 7.390 € en Europa",
     "excerpt": "La Himalayan 750 debuta en EICMA con un bicilíndrico de 743 cc y 55 CV: reservas abiertas en Europa desde 7.390 € en Italia, sin precio aún en España.",
@@ -79635,6 +79651,162 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ducati panigale v2 sp winter test"
     ],
     "readTime": 16
+  },
+  {
+    "slug": "ducati-diavel-v4-s-2027-ficha-tecnica-precio",
+    "title": "Ducati Diavel V4 S 2027: 168 CV, Öhlins, desde 35.490 €",
+    "excerpt": "La Ducati Diavel V4 S 2027 estrena suspensiones Öhlins SmartEC 3.0: 168 CV y 222 kg, con puños calefactables y 35.490 € recomendados en España.",
+    "category": "Novedades Motor",
+    "date": "2026-11-05",
+    "locale": "es",
+    "heroSrc": "/media/motos/ducati-diavel-v4-s-2027-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Ducati Diavel V4 S 2027 roja de tres cuartos delantera, con horquilla Öhlins dorada y depósito rojo sobre fondo oscuro",
+    "keywords": [
+      "ducati diavel v4 s 2027 precio",
+      "ducati diavel v4 s ficha tecnica",
+      "ducati diavel v4 s 168 cv",
+      "ducati diavel v4 s ohlins smartec",
+      "ducati diavel v4 s 35490 euros",
+      "ducati diavel v4 s vs diavel v4"
+    ],
+    "readTime": 17
+  },
+  {
+    "slug": "omoda-9-shs-black-edition-200-unidades-precio",
+    "title": "Omoda 9 SHS Black Edition: 200 unidades, 537 CV, 54.400 €",
+    "excerpt": "El Omoda 9 SHS estrena chasis revisado, frenos mayores y asistentes recalibrados, y suma la Black Edition: 200 unidades en España desde 54.400 € con 537 CV y 145 km eléctricos.",
+    "category": "Novedades Motor",
+    "date": "2026-11-05",
+    "locale": "es",
+    "heroSrc": "/media/omoda-9-shs-black-edition-200-unidades-precio-hero.webp",
+    "heroAlt": "Omoda 9 SHS Black Edition negro mate de tres cuartos delantera, con llantas negras y parrilla oscurecida",
+    "keywords": [
+      "omoda 9 shs black edition",
+      "omoda 9 shs precio",
+      "omoda 9 shs 2026",
+      "omoda 9 shs black edition 200 unidades",
+      "omoda 9 shs 537 cv",
+      "omoda 9 shs autonomia 145 km"
+    ],
+    "readTime": 14
+  },
+  {
+    "slug": "omoda-5-ev-2027-renovacion-precio-autonomia",
+    "title": "Omoda 5 EV 2027: crece a 4,55 m, 442 litros y 211 CV",
+    "excerpt": "El Omoda 5 EV 2027 se renueva a fondo: 4,55 metros, maletero de 442 litros, pantalla de 15,6 pulgadas, 211 CV y 430 km WLTP. Llega en el primer semestre de 2027.",
+    "category": "Novedades Motor",
+    "date": "2026-11-05",
+    "locale": "es",
+    "heroSrc": "/media/omoda-5-ev-2027-renovacion-precio-autonomia-hero.webp",
+    "heroAlt": "Omoda 5 EV 2027 renovado de perfil, con el nuevo frontal y llantas negras",
+    "keywords": [
+      "omoda 5 ev 2027",
+      "omoda 5 ev renovacion",
+      "omoda 5 ev precio",
+      "omoda 5 ev autonomia 430",
+      "omoda 5 ev maletero 442",
+      "omoda 5 ev 211 cv"
+    ],
+    "readTime": 12
+  },
+  {
+    "slug": "renault-4-e-tech-2027-415-km-roland-garros-precio",
+    "title": "Renault 4 e-Tech 2027: 415 km, Roland Garros y 30.305 €",
+    "excerpt": "El Renault 4 E-Tech 2027 gana autonomía hasta 415 km, estrena la edición Roland Garros y ya admite pedidos en España desde 30.305 €.",
+    "category": "Novedades Motor",
+    "date": "2026-11-05",
+    "locale": "es",
+    "heroSrc": "/media/renault-4-e-tech-2027-415-km-roland-garros-precio-hero.webp",
+    "heroAlt": "Renault 4 E-Tech Roland Garros 2027 blanco con techo negro sobre una pista de tierra batida cubierta de pelotas de tenis",
+    "keywords": [
+      "renault 4 e-tech 2027",
+      "renault 4 415 km autonomia",
+      "renault 4 roland garros precio",
+      "renault 4 e-tech precio espana",
+      "renault 4 plein sud 2027",
+      "renault 4 e-tech 30.305 euros"
+    ],
+    "readTime": 16
+  },
+  {
+    "slug": "yangwang-u9-xtreme-503-km-h-record-mundial-velocidad",
+    "title": "Yangwang U9 Xtreme: 503,17 km/h, el más rápido del mundo",
+    "excerpt": "El Yangwang U9 Xtreme alcanza 503,17 km/h en Abu Dabi y se convierte en el primer coche de producción que supera los 500 km/h, con récord FIA y Guinness.",
+    "category": "Novedades Motor",
+    "date": "2026-11-06",
+    "locale": "es",
+    "heroSrc": "/media/yangwang-u9-xtreme-2025-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Yangwang U9 Xtreme a máxima velocidad en Papenburg",
+    "keywords": [
+      "yangwang u9 xtreme 503 km/h",
+      "coche mas rapido del mundo",
+      "record velocidad 500 km/h",
+      "BYD Yangwang record FIA",
+      "U9 Xtreme Abu Dabi",
+      "hiperdeportivo electrico mas rapido"
+    ],
+    "readTime": 16
+  },
+  {
+    "slug": "mazda-6e-2027-precio-bateria-lfp",
+    "title": "Mazda6e 2027: 560 km y carga de 200 kW desde 44.725 €",
+    "excerpt": "El Mazda6e 2027 deja las dos pilas y se queda con una LFP de 78 kWh: 560 km WLTP, carga a 200 kW y chasis revisado. Desde 44.725 € en España.",
+    "category": "Novedades Motor",
+    "date": "2026-11-06",
+    "locale": "all",
+    "heroSrc": "/media/mazda-6e-2027-1.webp",
+    "heroAlt": "Mazda 6e 2027, berlina eléctrica gris plata, vista tres cuartos delantera",
+    "keywords": [
+      "Mazda6e 2027 precio",
+      "Mazda6e 2027 autonomía",
+      "Mazda6e 2027 batería 78 kWh",
+      "Mazda6e 2027 ficha técnica",
+      "Mazda6e 2027 carga 200 kW",
+      "Mazda6e vs Tesla Model 3",
+      "berlina eléctrica 560 km"
+    ],
+    "readTime": 12
+  },
+  {
+    "slug": "chevrolet-corvette-vuelve-espana-precios-2026",
+    "title": "Corvette vuelve a España: V8 de 646 CV desde 140.000 €",
+    "excerpt": "Tayre presenta en Madrid la gama Corvette para España: Stingray V8 de 482 CV desde 140.000 €, Z06 de 646 CV y E-Ray híbrido, con red oficial.",
+    "category": "Novedades Motor",
+    "date": "2026-11-06",
+    "locale": "all",
+    "heroSrc": "/media/chevrolet-corvette-c8-2025-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Chevrolet Corvette C8 Stingray 2025 rojo, vista tres cuartos delantera",
+    "keywords": [
+      "Corvette España precio",
+      "Corvette Stingray 140.000",
+      "Corvette Z06 España",
+      "Corvette E-Ray híbrido",
+      "Tayre Corvette Madrid",
+      "comprar Corvette España",
+      "Corvette C8 oficial España"
+    ],
+    "readTime": 11
+  },
+  {
+    "slug": "real-decreto-953-2026-zbe-fin-avisos-multas",
+    "title": "ZBE 2026: el BOE exige multas reales y acaba con los avisos",
+    "excerpt": "Real Decreto 953/2026, hoy en el BOE: las ZBE solo cuentan si el ayuntamiento acredita cámaras, control y multas reales, sin periodo de avisos.",
+    "category": "Normativa Vial",
+    "date": "2026-11-06",
+    "locale": "es",
+    "heroSrc": "/media/pilar-zbe.webp",
+    "heroAlt": "Señal de Zona de Bajas Emisiones en Madrid con las etiquetas DGT admitidas",
+    "keywords": [
+      "real decreto 953/2026",
+      "zbe 2026 multas",
+      "zonas bajas emisiones 2026",
+      "zbe fin avisos",
+      "multa zbe 200 euros",
+      "real decreto 1052/2022",
+      "zbe ayuntamientos acreditar",
+      "recurso multa zbe"
+    ],
+    "readTime": 12
   },
   {
     "slug": "byd-seagull-2026-segunda-generacion-precio",
@@ -85762,8 +85934,8 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "yangwang-u9-xtreme-2025-precio-ficha-tecnica",
-    "title": "Yangwang U9 Xtreme: 496,22 km/h, récord mundial",
-    "excerpt": "El Yangwang U9 Xtreme: 496,22 km/h en Papenburg, 6:59.157 en Nürburgring y más de 3.000 CV. Solo 30 unidades. Ficha y vídeo del récord.",
+    "title": "U9 Xtreme de Yangwang: 503,17 km/h y el récord",
+    "excerpt": "El Yangwang U9 Xtreme: 503,17 km/h en Abu Dabi, 6:59.157 en Nürburgring y más de 3.000 CV. Solo 30 unidades. Ficha y vídeo del récord.",
     "category": "Novedades Motor",
     "date": "2026-10-05",
     "locale": "all",
@@ -85771,7 +85943,7 @@ export const BLOG_LITE: BlogLitePost[] = [
     "heroAlt": "Yangwang U9 Xtreme a máxima velocidad",
     "keywords": [
       "Yangwang U9 Xtreme",
-      "U9 Xtreme 496 km/h",
+      "U9 Xtreme 503 km/h",
       "récord velocidad eléctrico",
       "Nürburgring 6:59",
       "hypercar 3000 CV",
@@ -86044,7 +86216,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "scooter adventure 500 2026",
       "zontes 368g hermano mayor"
     ],
-    "readTime": 5
+    "readTime": 4
   },
   {
     "slug": "como-recurrir-multa-dgt-sin-abogado",

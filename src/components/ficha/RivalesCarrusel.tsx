@@ -5,6 +5,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { ArrowLeftRight } from "lucide-react";
 import { fmtEur } from "@/lib/formato.ts";
+import { fotoVisible } from "@/lib/fotos-ausentes.ts";
 import type { Rival, TipoFicha } from "@/lib/ficha-extra.ts";
 
 type Tipo = TipoFicha;
@@ -15,9 +16,10 @@ const COMPARADOR: Record<Tipo, string> = {
 };
 
 function FotoRival({ src, alt, contain }: { src: string; alt: string; contain: boolean }) {
-  const [ok, setOk] = useState(!!src);
-  if (!ok) return <div className="flex aspect-[16/10] w-full items-center justify-center bg-gray-100 text-3xl font-black text-gray-300">{alt.charAt(0)}</div>;
-  return <img src={src} alt={alt} loading="lazy" decoding="async" width={320} height={200} onError={() => setOk(false)} className={`aspect-[16/10] w-full ${contain ? "bg-white object-contain" : "object-cover"}`} />;
+  const visible = fotoVisible(src);
+  const [ok, setOk] = useState(!!visible);
+  if (!ok || !visible) return <div className="flex aspect-[16/10] w-full items-center justify-center bg-gray-100 text-3xl font-black text-gray-300">{alt.charAt(0)}</div>;
+  return <img src={visible} alt={alt} loading="lazy" decoding="async" width={320} height={200} onError={() => setOk(false)} className={`aspect-[16/10] w-full ${contain ? "bg-white object-contain" : "object-cover"}`} />;
 }
 
 export default function RivalesCarrusel({ tipo, id, nombre, rivales, intro }: { tipo: Tipo; id: string; nombre: string; rivales?: Rival[]; intro?: string }) {

@@ -943,9 +943,9 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     categoria: "Scooter",
     precioDesde: 3499,
     potenciaKw: 9.2,
-    potenciaCv: 12.5,
-    autonomiaKm: null,
-    autonomiaCiclo: null,
+    potenciaCv: 12.3, // 9,2 kW: 12,3 CV según tarifa/press-kit Honda (verificado 05/11/2026)
+    autonomiaKm: 385,
+    autonomiaCiclo: "Calculada: depósito de 8,1 L a 2,1 l/100 km (cifras oficiales Honda)",
     bateriaKwh: null,
     velocidadMax: 98,
     ceroCincuenta: null,
@@ -954,16 +954,21 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    versiones: [
+      { nombre: "PCX125 2025", precio: 3499 },
+      { nombre: "PCX125 DX 2025", precio: 3810 },
+    ],
+    aprox: ["autonomiaKm"],
     pros: [
       "3.499 €: la Honda 125 más barata con calidad japonesa",
       "Consumo de 2,1 l/100 km: entre los más bajos del segmento",
       "Ligera (133 kg) y muy manejable en ciudad",
       "Bajo el asiento queda sitio para un casco integral",
       "Sistema Idle Stop que apaga el motor en semáforos",
+      "Versión DX, 3.810 €: pantalla de 5 pulgadas con RoadSync y amortiguador trasero de depósito separado",
     ],
     contras: [
-      "12,5 CV: de las 125 menos potentes, justa en cuestas",
+      "12,3 CV: de las 125 menos potentes, justa en cuestas con pasajero",
       "Sin control de tracción (lleva CBS en vez de ABS en frenada combinada)",
       "La pantalla es pequeña y poco legible al sol",
       "Suspensión trasera seca con pasajero",
@@ -973,6 +978,8 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       "Es el scooter más vendido del mundo en su categoría",
       "Su motor eSP+ monta 4 válvulas y refrigeración líquida",
       "En Asia se vende también en versiones de 150 y 160 cc",
+      "La renovación 2025 estrena carrocería y homologación Euro5+; la DX es novedad de esta generación",
+      "En España la DX solo se vende en negro",
     ],
     imagen: "/media/motos/honda-pcx125-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -994,6 +1001,23 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     fuenteNombre: "Honda España",
     fuenteUrl: "https://www.honda.es/motorcycles/range/scooter/pcx-125/overview.html",
     analisisSlug: "honda-pcx125-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Cada 12.000 km o 12 meses, lo que ocurra antes (primera revisión a los 1.000 km)",
+      revisiones: [
+        {
+          nombre: "Revisión 12.000 km / 12 meses",
+          queSeCambia: "Aceite sintético que indica Honda, más el filtro y una inspección general",
+          costeAproxEur: 140,
+        },
+        {
+          nombre: "Revisión 24.000 km",
+          queSeCambia: "Lo anterior + filtro de aire + bujías + reglaje de válvulas si procede",
+          costeAproxEur: 320,
+        },
+      ],
+      costeAnualAproxEur: 200,
+      fuente: "Manual oficial Honda España",
+    },
     mantenimientoDIY: {
       intervaloMantenimiento: "Cada 8.000 km o 12 meses (primera a los 1.000 km)",
       aceiteTipo: "10W-30 (JASO T 903 MB, API SG o superior)",

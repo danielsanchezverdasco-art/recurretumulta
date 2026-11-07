@@ -1,0 +1,242 @@
+# Entregas frente a este HEAD, y qué no se ha evaluado
+
+Fecha del recuento: 7/11/2026. HEAD de la comparación de blobs: el de esta rama en el momento del script (antes de este documento; los números no cambian por este markdown).
+
+## Qué sí está evaluado
+
+- 146 ramas son ancestro del inventario (`docs/inventario/matriz-ramas.csv`, estado `ya_incorporado_ancestro`). Su commit está en la historia. No se han vuelto a leer.
+- 1 rama tenía, en aquel inventario, el mismo blob en cada fichero que había cambiado.
+- `scripts/recuperar-entregas.py` solo intentó merge a tres bandas de 16 ramas (lista `PRIORITY` del script: radares y precios del 5-6/11, SEO 1026/1102, DART, FAQ, fuentes de patinetes, legales y fotos de blogs). Conflicto o binario: no se aplicó. La muestra está en `docs/inventario/conflictos-no-aplicados.txt` (tope de 200 líneas). Eso no es un veredicto de las otras ramas.
+
+## Qué no está evaluado
+
+La clasificación de 738 ramas como `pendiente_contenido` es una comparación de blobs contra el HEAD de aquel inventario. No se abrió el texto. No significa que el equipo esté integrado.
+
+- 696 de esas 738 son de octubre de 2026. No se han abierto en esta fase.
+- De noviembre, las que no están en `PRIORITY` tampoco se abrieron. Abajo está el recuento rehecho contra este HEAD: ficheros que la rama aporta y aquí no existen, y ficheros cuyo blob sigue distinto. Un blob distinto no es un rechazo leído: es que no se ha decidido el contenido.
+- Las 8 ramas `pendiente_adiciones` del inventario se recontaron igual.
+
+El diff bruto `HEAD` contra una rama vieja da decenas de miles de rutas porque esta rama tiene ficheros que aquella no tiene. Eso no es una entrega pendiente. El recuento de abajo usa el merge-base y solo cuenta lo que la rama cambió respecto a su base.
+
+## adiciones
+
+- `origin/check-fotos`: ficheros de la rama que HEAD no tiene 2; ficheros que ambos tienen y el blob sigue distinto 0. check-fotos: prohíbe imágenes IA (créditos/alt IA, nombres de generador, 1920x1280 sin fuente) y exige URL de origen+aut
+  - ausente aquí: `scripts/check-fotos-baseline.json`
+  - ausente aquí: `scripts/check-fotos.mjs`
+- `origin/fotos-283-niky-w134`: ficheros de la rama que HEAD no tiene 1; ficheros que ambos tienen y el blob sigue distinto 0. fotos283 w134: verificar en base GLB 250 EQ y GLB 350 EQ 2026 (sin duplicar)
+  - ausente aquí: `hidden_files/fotos283-w134/fragment.csv`
+- `origin/fotos-283-niky-w215`: ficheros de la rama que HEAD no tiene 3; ficheros que ambos tienen y el blob sigue distinto 0. fotos final w215: skywell-et5-2026-precio-ficha-tecnica
+  - ausente aquí: `hidden_files/fotos283-w215/fragment.csv`
+- `origin/garantias-b3-niki`: ficheros de la rama que HEAD no tiene 1; ficheros que ambos tienen y el blob sigue distinto 0. Niky: garantias-b3.json (15 garantias del bloque b3, para volcar en garantias-marcas)
+  - ausente aquí: `garantias-b3/garantias-b3.json`
+- `origin/merlin-fotos-blogs-2610`: ficheros de la rama que HEAD no tiene 2; ficheros que ambos tienen y el blob sigue distinto 0. Fotos blogs 2610: Yamaha TMAX 560 2024 (filtro modelo+ano+credito) + CREDITOS con 5 no encontrados
+  - ausente aquí: `fotos-blogs-2610/CREDITOS.md`
+  - ausente aquí: `fotos-blogs-2610/yamaha-tmax-560-2024.jpg`
+- `origin/niky-adsense-2610`: ficheros de la rama que HEAD no tiene 56; ficheros que ambos tienen y el blob sigue distinto 0. Censo AdSense 2610: chunk 06/11 (600 HEADs, 600x200; total 3048/17544; CSV sin cambios, 377)
+  - ausente aquí: `censo/analiza.py`
+  - ausente aquí: `censo/checkpoints/analiza-coches-20261028.log`
+  - ausente aquí: `censo/checkpoints/campers.jsonl`
+  - ausente aquí: `censo/checkpoints/caravanas.jsonl`
+  - ausente aquí: `censo/checkpoints/censo-20261030-resumen.txt`
+  - ausente aquí: `censo/checkpoints/censo-20261031-resumen.txt`
+  - ausente aquí: `censo/checkpoints/censo-20261101-resumen.txt`
+  - ausente aquí: `censo/checkpoints/censo-20261102-resumen.txt`
+  - … 48 ausentes más (sin contar media ni generados).
+- `origin/precios-full-20261018`: ficheros de la rama que HEAD no tiene 2; ficheros que ambos tienen y el blob sigue distinto 0. precios: completar 29 fuente_url que faltaban en cambios-precio-full.csv
+  - ausente aquí: `docs/precios/cambios-precio-full.csv`
+  - ausente aquí: `docs/precios/precios-nuevos-20261018.csv`
+- `origin/radares-madrid-andalucia`: ficheros de la rama que HEAD no tiene 182; ficheros que ambos tienen y el blob sigue distinto 32. tablon: aviso lote radares Madrid+Andalucia listo para Grok
+  - ausente aquí: `docs/comunicacion-ias/cosa.md`
+  - ausente aquí: `docs/radares/README.md`
+  - ausente aquí: `docs/radares/contenido/a-1-14-6-creciente-fijo.md`
+  - ausente aquí: `docs/radares/contenido/a-1-22-1-creciente-fijo.md`
+  - ausente aquí: `docs/radares/contenido/a-1-24-0-decreciente-fijo.md`
+  - ausente aquí: `docs/radares/contenido/a-2-15-0-creciente-fijo.md`
+  - ausente aquí: `docs/radares/contenido/a-2-15-9-decreciente-fijo.md`
+  - ausente aquí: `docs/radares/contenido/a-3-16-4-creciente-fijo.md`
+  - … 174 ausentes más (sin contar media ni generados).
+
+## noviembre-no-abierto
+- `origin/completar-fichas`: ficheros de la rama que HEAD no tiene 106; ficheros que ambos tienen y el blob sigue distinto 5. Nota 225: relevo subida a Cosa/Grok — aviso a Ana (antes Merlín)
+  - ausente aquí: `completar-fichas:docs/comunicacion-ias/merlin.md`
+  - ausente aquí: `cosa.md`
+  - ausente aquí: `docs/adsense-2610/checklist-adsense-niky-1104.md`
+  - ausente aquí: `docs/adsense-2610/merlin.csv`
+  - ausente aquí: `docs/comunicacion-ias/ACK.md`
+  - ausente aquí: `docs/comunicacion-ias/GUIA-SUBIDA.md`
+  - ausente aquí: `docs/comunicacion-ias/NORMAS-COORDINACION.md`
+  - ausente aquí: `docs/comunicacion-ias/NORMAS-PERMANENTES.md`
+  - … 72 ausentes más (sin contar media ni generados).
+  - blob distinto: `src/content/seo/titulos.csv`
+- `origin/merlin-banner-consentimiento-1105`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 1. Consentimiento UE: restaurar el snippet ejecutable de Funding Choices y retirar el banner propio
+- `origin/merlin-fichas-404-1105`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 5. Fichas nuevas para cerrar los 404 heredados: Grecale Folgore, Modena V6 y Trofeo 2027 + Benelli TRK 800 2026 (datos veri
+  - blob distinto: `src/lib/blog-posts-maserati-a.ts`
+  - blob distinto: `src/lib/comparador-coches-benelli.ts`
+  - blob distinto: `src/lib/comparador-coches-maserati.ts`
+  - blob distinto: `src/lib/historia-modelos.ts`
+- `origin/merlin-precio-sealu-1105`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 1. Precio BYD Seal U DM-i actualizado: 28.690 € financiando y 32.940 € al contado (campaña oficial BYD hasta el 30/11/2026,
+  - blob distinto: `src/lib/comparador-coches-nuevos.ts`
+- `origin/niky-adsense-faq-arcen-2611`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 1. AdSense: FAQ del articulo motos-arcen con formato ##/### para schema FAQPage
+  - blob distinto: `src/lib/blog-posts-db.ts`
+- `origin/niky-adsense-meta-2611`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 1. AdSense: meta comparador-garantia-bateria 166 -> 137 caracteres
+  - blob distinto: `src/content/seo/titulos.csv`
+- `origin/niky-arreglos-revision-1104`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 2. guias: hero 'Nueve' -> 'Doce' (segunda mención del conteo; la 177 ya decía 12)
+  - blob distinto: `src/components/ficha/GaleriaFicha.tsx`
+  - blob distinto: `src/pages/MotosFicha.tsx`
+- `origin/niky-google-faq-2611`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 2. Google: FAQ de 3 artículos con formato ##/### para schema FAQPage
+  - blob distinto: `src/lib/blog-posts-accesorios.ts`
+  - blob distinto: `src/lib/blog-posts-db.ts`
+- `origin/niky-google-titulos-2611`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 1. Google: títulos >60 y meta >155 en titulos.csv
+  - blob distinto: `src/content/seo/titulos.csv`
+- `origin/niky-hotlinks-accesorios-1104`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 1. Quitar foto Starlink 404 del post de accesorios (decisión Daniel 04/11/2026)
+  - blob distinto: `src/lib/blog-posts-accesorios.ts`
+- `origin/precios-20261101`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 8. Radar precios 01/11/2026: 29 PVP verificados (Hyundai, BMW iX3, Kia EV4/EV5, Alpine A290, Aixam, Alfa Romeo, motos)
+  - blob distinto: `src/lib/comparador-coches-aixam.ts`
+  - blob distinto: `src/lib/comparador-coches-alfa-romeo.ts`
+  - blob distinto: `src/lib/comparador-coches-alpine.ts`
+  - blob distinto: `src/lib/comparador-coches-bmw.ts`
+  - blob distinto: `src/lib/comparador-coches-hyundai.ts`
+- `origin/precios-20261102`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 5. Radar precios 02/11/2026: 6 PVP verificados (Lexus RX 500h, Volvo XC60 T8, Volvo EX30 Twin Motor, Renault Twingo E-Tech,
+  - blob distinto: `src/lib/comparador-coches-base.ts`
+  - blob distinto: `src/lib/comparador-coches-lexus.ts`
+  - blob distinto: `src/lib/comparador-coches-volvo.ts`
+  - blob distinto: `src/lib/comparador-motos-base.ts`
+- `origin/precios-20261103`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 2. Radar precios 03/11/2026: 3 PVP CUPRA Terramar verificados (e-Hybrid 204, VZ e-Hybrid 272, VZ 265)
+  - blob distinto: `src/lib/comparador-coches-cupra.ts`
+- `origin/precios-20261104`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 4. Radar precios 04/11/2026: CSV acumulado sin borrar las 8 filas 2026-10-29 de main (SEAT/Changan/Segway) + 7 filas de hoy
+  - blob distinto: `src/lib/comparador-coches-exp14.ts`
+  - blob distinto: `src/lib/comparador-motos-exp-m18.ts`
+  - blob distinto: `src/lib/comparador-motos-exp-m2.ts`
+- `origin/radar-20261103-1058`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 6. Radar 03/11 10:58: Renault Captur y Austral 75 Aniversario, ediciones limitadas hechas en España
+  - blob distinto: `src/lib/blog-posts-radar-20261103.ts`
+  - blob distinto: `src/lib/data-loaders/r.ts`
+- `origin/radar-20261103-1558`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 7. Radar 03/11 15:58: Royal Enfield Himalayan 750, presentada en EICMA con reservas en Europa
+  - blob distinto: `src/lib/blog-posts-radar-20261103-1558.ts`
+  - blob distinto: `src/lib/comparador-motos-exp-m23.ts`
+  - blob distinto: `src/lib/data-loaders/r.ts`
+- `origin/radar-20261103-2058`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 7. Radar 03/11 20:58: ajuste excerpt LS3 a 145 caracteres
+  - blob distinto: `src/lib/blog-posts-radar-20261103-2058.ts`
+  - blob distinto: `src/lib/comparador-motos-exp-m5.ts`
+  - blob distinto: `src/lib/data-loaders/z.ts`
+- `origin/radar-20261104-0658`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 9. Radar 04/11 06:58: BMW M 1000 RS 2027, hyper naked EICMA con 218 CV y 1.000 unidades (ficha + blog)
+  - blob distinto: `src/lib/blog-posts-radar-20261103-2058.ts`
+  - blob distinto: `src/lib/blog-posts-radar-20261104-0658.ts`
+  - blob distinto: `src/lib/comparador-motos-exp-m5.ts`
+  - blob distinto: `src/lib/data-loaders/b.ts`
+  - blob distinto: `src/lib/data-loaders/z.ts`
+- `origin/radar-20261104-1158`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 11. Radar 04/11 11:58: Ducati Streetfighter V4 SP 2027, 214 CV y 500 unidades numeradas (ficha + blog)
+  - blob distinto: `src/lib/blog-posts-radar-20261103-2058.ts`
+  - blob distinto: `src/lib/blog-posts-radar-20261104-0658.ts`
+  - blob distinto: `src/lib/blog-posts-radar-20261104-1158.ts`
+  - blob distinto: `src/lib/comparador-motos-exp-m5.ts`
+  - blob distinto: `src/lib/data-loaders/b.ts`
+- `origin/radar-20261104-1658`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 7. Radar 04/11 16:58: Ducati Panigale V4 SP 2027, 218 CV y cambio de carreras (ficha + blog)
+  - blob distinto: `src/lib/blog-posts-radar-20261104-1658.ts`
+  - blob distinto: `src/lib/comparador-motos-exp-m5.ts`
+  - blob distinto: `src/lib/data-loaders/d.ts`
+- `origin/suscripcion-multas-mvp`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 25. Plan anual de vigilancia de multas 7,99 €/año como único plan: checkout en suscripción, webhook y tabla suscriptores (Co
+  - blob distinto: `src/content/seo/titulos.csv`
+  - blob distinto: `src/lib/blog-data.ts`
+  - blob distinto: `src/lib/blog-posts-estudios-geo.ts`
+  - blob distinto: `src/lib/blog-posts-longtail-1.ts`
+  - blob distinto: `src/locales/es/analyzer.json`
+- `origin/w1-seo1026-motos`: ficheros de la rama que HEAD no tiene 1; ficheros que ambos tienen y el blob sigue distinto 10. SEO 1026 motos: entrega parcial CSV (53 cambios) + propuesta 301 (ADV350 no procede, CB1000 sí, EM1 duplicidad)
+  - ausente aquí: `docs/seo/entrega-seo-1026-parcial-motos.csv`
+  - blob distinto: `src/lib/blog-posts-motos-exp-m16.ts`
+  - blob distinto: `src/lib/blog-posts-motos-exp-m18.ts`
+  - blob distinto: `src/lib/blog-posts-motos-exp-m7.ts`
+  - blob distinto: `src/lib/blog-posts-prio-1a.ts`
+  - blob distinto: `src/lib/blog-posts-prio-1b.ts`
+- `origin/w2-seo1026-titulos`: ficheros de la rama que HEAD no tiene 1; ficheros que ambos tienen y el blob sigue distinto 1. SEO 1026: propuestas title/meta P1.4 (32 URLs) + veredictos y tablas verificadas P1.5 (2 duelos)
+  - ausente aquí: `docs/seo/entrega-seo-1026-parcial-titulos.csv`
+  - blob distinto: `src/lib/blog-posts-duelos.ts`
+- `origin/w3-seo1026-multas`: ficheros de la rama que HEAD no tiene 2; ficheros que ambos tienen y el blob sigue distinto 8. SEO multas 1026/1102: provincias/comunidades (IMH Barcelona, Ayto. Huesca, H1 Madrid/Murcia), buscador y CSV de entrega
+  - ausente aquí: `docs/seo/entrega-seo-1026-parcial-multas.csv`
+  - ausente aquí: `docs/seo/entrega-seo-1102-parcial-multas.csv`
+  - blob distinto: `src/lib/blog-data.ts`
+  - blob distinto: `src/lib/blog-posts-db.ts`
+  - blob distinto: `src/lib/blog-posts-demanda-2026.ts`
+  - blob distinto: `src/lib/blog-posts-longtail-1.ts`
+  - blob distinto: `src/lib/comunidades-data.ts`
+- `origin/w4-seo1026-p2`: ficheros de la rama que HEAD no tiene 2; ficheros que ambos tienen y el blob sigue distinto 4. SEO P2: Tracer 900 GT vs 9 GT; Austral precios tarifa oct-2026 + intros diferenciadas; CSV entrega (19 filas) y propuest
+  - ausente aquí: `docs/seo/entrega-seo-1026-parcial-p2.csv`
+  - ausente aquí: `docs/seo/propuesta-301-1026-parcial-austral.csv`
+  - blob distinto: `src/lib/blog-posts-motos-exp-m1.ts`
+  - blob distinto: `src/lib/comparador-coches-exp19.ts`
+  - blob distinto: `src/lib/comparador-coches-renault.ts`
+  - blob distinto: `src/lib/comparador-motos-exp-m1.ts`
+- `origin/w5-seo1102-p1`: ficheros de la rama que HEAD no tiene 1; ficheros que ambos tienen y el blob sigue distinto 7. SEO 1102 P1+P2+P3 (w5): barra-final CSV (112 parejas), precios oficiales Xiaomi/Jetour/Haval/Renault, LatAm V800, /radar
+  - ausente aquí: `docs/seo/entrega-seo-1102-parcial-p1.csv`
+  - blob distinto: `src/lib/blog-posts-haval-a.ts`
+  - blob distinto: `src/lib/blog-posts-jetour-a.ts`
+  - blob distinto: `src/lib/blog-posts-motor-nuevos-f.ts`
+  - blob distinto: `src/lib/blog-posts-xiaomi-a.ts`
+  - blob distinto: `src/lib/comparador-coches-haval.ts`
+
+## merge-intentado
+- `origin/merlin-adsense-legales-1105`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 5. Arreglos AdSense legales y de autoría: línea DART en Privacidad, contacto ampliado (+337 palabras), FAQ visible en glosa
+  - blob distinto: `src/lib/comparador-patinetes-prioridad-20261014.ts`
+  - blob distinto: `src/pages/Privacidad.tsx`
+  - blob distinto: `src/pages/SobreNosotros.tsx`
+  - blob distinto: `src/pages/glosario/page.tsx`
+- `origin/merlin-fotos-blogs-1105`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 114. Fotos blogs 2ª oleada (patinetes cierre): galerías de tienda del modelo exacto — blog-posts-patinetes-exp-p5.ts
+  - blob distinto: `src/lib/blog-posts-accesorios.ts`
+  - blob distinto: `src/lib/blog-posts-alpine-a.ts`
+  - blob distinto: `src/lib/blog-posts-audi-a.ts`
+  - blob distinto: `src/lib/blog-posts-autocaravanas-lote125-g01.ts`
+  - blob distinto: `src/lib/blog-posts-autocaravanas-lote125-g04.ts`
+- `origin/niky-adsense-dart-contacto-2611`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 0. AdSense: línea DART en /cookies/ y texto de ayuda en /contacto/ (auditoría 05/11)
+- `origin/niky-boe-zbe-rd953-20261106`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 7. Radar BOE 06/11/2026: Real Decreto 953/2026, fin de los avisos en las ZBE
+  - blob distinto: `src/lib/blog-posts-radar-boe-20261106.ts`
+  - blob distinto: `src/lib/data-loaders/r.ts`
+- `origin/niky-faq-blogs-2611`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 11. FAQ blogs: schema FAQPage en 37 blogs con FAQ visible (215 preguntas)
+  - blob distinto: `src/lib/blog-posts-autocaravanas-lote125-g04.ts`
+  - blob distinto: `src/lib/blog-posts-autocaravanas-lote125-g06.ts`
+  - blob distinto: `src/lib/blog-posts-autocaravanas-lote125-g08.ts`
+  - blob distinto: `src/lib/blog-posts-autocaravanas-lote125-g10.ts`
+  - blob distinto: `src/lib/blog-posts-autocaravanas-lote125-g12.ts`
+- `origin/niky-fuentes-patinetes-2611`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 1. Fuentes oficiales reales para las 14 fichas de patinetes con fuenteUrl interna
+  - blob distinto: `src/lib/comparador-patinetes-prioridad-20261014.ts`
+- `origin/niky-seo-1026`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 23. SEO 1026: quitar parcial 1102 (su contenido vive en entrega-seo-1102.csv de niky-seo-1102)
+  - blob distinto: `src/content/seo/titulos.csv`
+  - blob distinto: `src/lib/blog-data.ts`
+  - blob distinto: `src/lib/blog-posts-db.ts`
+  - blob distinto: `src/lib/blog-posts-demanda-2026.ts`
+  - blob distinto: `src/lib/blog-posts-duelos.ts`
+- `origin/niky-seo-1102`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 9. SEO 1102: consolidar entrega-seo-1102.csv (43 filas); corregir 5 enlaces internos sin barra a versión con barra (P0)
+  - blob distinto: `src/lib/blog-posts-db.ts`
+  - blob distinto: `src/lib/blog-posts-haval-a.ts`
+  - blob distinto: `src/lib/blog-posts-jetour-a.ts`
+  - blob distinto: `src/lib/blog-posts-motor-nuevos-f.ts`
+  - blob distinto: `src/lib/blog-posts-xiaomi-a.ts`
+- `origin/precios-20261105`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 10. Radar precios 05/11/2026: 31 PVP oficiales verificados (Audi x9, CUPRA x8, Toyota C-HR+, Renault Espace, Alfa Tonale, BY
+  - blob distinto: `src/lib/comparador-coches-alfa-romeo.ts`
+  - blob distinto: `src/lib/comparador-coches-base.ts`
+  - blob distinto: `src/lib/comparador-coches-bmw.ts`
+  - blob distinto: `src/lib/comparador-coches-cupra.ts`
+  - blob distinto: `src/lib/comparador-coches-exp14.ts`
+- `origin/precios-20261106`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 2. Radar precios 06/11/2026: 26 PVP oficiales verificados (17 coches + 9 patinetes)
+  - blob distinto: `src/lib/comparador-patinetes-base.ts`
+- `origin/radar-20261105-0258`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 7. Radar 05/11 02:58: Ducati Panigale V2 SP 2027, 120 CV y base WorldSSP (ficha + blog)
+  - blob distinto: `src/lib/blog-posts-radar-20261105-0258.ts`
+  - blob distinto: `src/lib/comparador-motos-exp-m5.ts`
+  - blob distinto: `src/lib/data-loaders/d.ts`
+- `origin/radar-20261105-1258`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 7. Radar 05/11 12:58: Ducati Diavel V4 S 2027, 168 CV y Öhlins SmartEC 3.0 (ficha + blog)
+  - blob distinto: `src/lib/blog-posts-radar-20261105-1258.ts`
+  - blob distinto: `src/lib/comparador-motos-exp-m5.ts`
+  - blob distinto: `src/lib/data-loaders/d.ts`
+- `origin/radar-20261105-1758`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 5. Radar 05/11 17:58: Omoda 9 SHS Black Edition (200 unidades, 54.400 €) y Omoda 5 EV 2027 renovado (4,55 m, 442 L, 211 CV)
+  - blob distinto: `src/lib/blog-posts-radar-20261105-1758.ts`
+- `origin/radar-20261105-2258`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 6. Radar 05/11 22:58: Renault 4 e-Tech 2027 (415 km, Roland Garros, 30.305 €) — 1 blog
+  - blob distinto: `src/lib/blog-posts-radar-20261105-2258.ts`
+  - blob distinto: `src/lib/data-loaders/r.ts`
+- `origin/radar-20261106-1358`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 9. Radar 06/11 13:58: Yangwang U9 Xtreme 503,17 km/h, primer coche de producción por encima de 500 km/h (FIA + Guinness) — 
+  - blob distinto: `src/lib/analisis-editorial/coche-25.ts`
+  - blob distinto: `src/lib/blog-posts-radar-20261106-1358.ts`
+  - blob distinto: `src/lib/blog-posts-yangwang-a.ts`
+  - blob distinto: `src/lib/comparador-coches-yangwang.ts`
+  - blob distinto: `src/lib/data-loaders/y.ts`
+- `origin/radar-20261106-1858`: ficheros de la rama que HEAD no tiene 0; ficheros que ambos tienen y el blob sigue distinto 7. Radar 06/11 18:58: Mazda6e 2027 (LFP 78 kWh, 560 km, 200 kW, desde 44.725 €) + Corvette vuelve a España (Tayre, Stingray
+  - blob distinto: `src/lib/blog-posts-radar-20261106.ts`
+  - blob distinto: `src/lib/data-loaders/c.ts`
+  - blob distinto: `src/lib/data-loaders/m.ts`

@@ -266,8 +266,29 @@ def f_src(c):
     c.ok("ficheros cambiados respecto a lo vivo: %d" % len(changed))
     nt = set(lines_of(os.path.join(HERE, "no-tocar.txt")))
     tocados = sorted(set(changed) & nt)
-    if tocados: c.abort("Se han tocado %d páginas/ficheros BLOQUEADOS (no-tocar.txt): %s" % (len(tocados), ", ".join(tocados[:10])))
-    c.ok("0 ficheros de no-tocar.txt cambiados (%d en la lista)" % len(nt))
+    exc = {}
+    ep = os.path.join(HERE, "excepciones-hash.txt")
+    if os.path.exists(ep):
+        for raw in open(ep, encoding="utf8"):
+            s = raw.split("#", 1)[0].strip()
+            if not s:
+                continue
+            parts = s.split()
+            if len(parts) != 2 or not re.fullmatch(r"[0-9a-f]{40}", parts[1]):
+                c.abort("excepciones-hash.txt: línea inválida (hace falta ruta y blob de 40 hex): %s" % s[:120])
+            if parts[0] not in nt:
+                c.abort("excepciones-hash.txt no puede cubrir %s: no está en no-tocar.txt. El gate no se desactiva." % parts[0])
+            exc[parts[0]] = parts[1]
+    fuera = []
+    for f in tocados:
+        blob = c.git("rev-parse", "HEAD:" + f).strip()
+        if exc.get(f) == blob:
+            c.ok("excepción de esta tanda, solo este blob: %s %s" % (f, blob))
+        else:
+            fuera.append("%s %s" % (f, blob))
+    if fuera:
+        c.abort("Se han tocado %d páginas/ficheros BLOQUEADOS (no-tocar.txt) sin excepción de hash para ese blob: %s" % (len(fuera), "; ".join(fuera[:10])))
+    c.ok("0 ficheros de no-tocar.txt fuera de la excepción de hash (%d en la lista, %d blobs autorizados y coincidentes)" % (len(nt), len(tocados)))
     # títulos congelados hasta el 1/11/2026 (Madrid)
     csvp = "src/content/seo/titulos.csv"
     def rows(txt):

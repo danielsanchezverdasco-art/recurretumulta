@@ -35,6 +35,10 @@ const FAQS = [
     a: "No. Solo se restan puntos si tienes permiso de conducción y la infracción los lleva aparejados (de 2 a 6 según el caso). Las infracciones en patinete eléctrico, en bici o como peatón no restan puntos porque no exigen carné.",
   },
   {
+    q: "¿Cuánto tiempo tengo para recurrir una multa tras consultar su código?",
+    a: "Desde la notificación, veinte días naturales para alegar (art. 95.1 del RDL 6/2015) y un mes para la reposición (art. 96.2 y 96.3); la DGT dispone de otro mes para contestarlo y, si calla, se entiende desestimado (art. 96.5). Si pagas con el 50 % de descuento, renuncias a recurrir.",
+  },
+  {
     q: "Me han multado por un código que no sale aquí, ¿qué hago?",
     a: "Esta base cubre las infracciones más habituales de la DGT. Si tu código no aparece (por ejemplo, una ordenanza municipal concreta), usa el análisis gratuito con IA de la portada: sube la foto o el PDF de la denuncia y te diremos qué significa y si es recurrible.",
   },
@@ -51,7 +55,7 @@ const jsonLd = {
       "operatingSystem": "All",
       "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR", availability: "https://schema.org/InStock" },
       "description":
-        "Busca cualquier infracción de tráfico por su código o artículo y descubre el importe de la multa, los puntos que resta, su gravedad y la base legal en el BOE.",
+        "Busca cualquier infracción de tráfico por su código o artículo y descubre el importe de la multa, los puntos que resta, su gravedad y el precepto del BOE.",
     },
     {
       "@type": "FAQPage",
@@ -206,7 +210,7 @@ export default function BuscadorInfraccionesPage() {
               Código de tu multa: <span className="text-red-400">qué significa y cuánto pagas</span>
             </motion.h1>
             <motion.p initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.24 }} className="text-white/80 text-sm md:text-base leading-relaxed">
-              ¿Te ha llegado una multa y no entiendes el código? Escribe el artículo (p. ej. «18.2», «50» o «20») o una palabra («móvil», «alcohol», «patinete») y descubre el importe, los puntos, la gravedad y la base legal.
+              Escribe el artículo de tu denuncia y verás al instante el importe, los puntos, la gravedad y la base legal en el BOE. ¿Te ha llegado una multa y no entiendes el código? Escribe el artículo (p. ej. «18.2», «50» o «20») o una palabra («móvil», «alcohol», «patinete») y descubre el importe, los puntos, la gravedad y la base legal.
             </motion.p>
           </div>
         </div>
@@ -285,6 +289,14 @@ export default function BuscadorInfraccionesPage() {
               o los{" "}
               <Link to="/guias/prescripcion/" className="text-red-600 font-bold hover:underline">
                 plazos de prescripción
+              </Link>
+              , la{" "}
+              <Link to="/blog/tabla-multas-exceso-velocidad-2026/" className="text-red-600 font-bold hover:underline">
+                tabla oficial de multas por velocidad
+              </Link>{" "}
+              o{" "}
+              <Link to="/blog/como-pagar-multa-dgt/" className="text-red-600 font-bold hover:underline">
+                cómo pagar una multa DGT
               </Link>
               .
             </p>

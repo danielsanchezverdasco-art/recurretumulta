@@ -124,11 +124,8 @@ function FotoPatinete({ p }: { p: PatineteComparador }) {
     const inicial = (p.marca || "?").charAt(0).toUpperCase();
     return (
       <div className="flex h-full w-full flex-col items-center justify-center gap-1.5 bg-gradient-to-br from-red-50 via-gray-100 to-gray-200 p-2 text-center">
-        <span className="flex h-10 w-10 items-center justify-center rounded-full bg-[#cd001d]/10 text-2xl font-black text-[#cd001d]">
+        <span className="flex h-10 w-10 items-center justify-center rounded-full bg-[#cd001d]/10 text-2xl font-black text-[#cd001d]" aria-hidden="true">
           {inicial}
-        </span>
-        <span className="text-[9px] font-semibold uppercase tracking-wider text-gray-500">
-          Foto pendiente
         </span>
       </div>
     );

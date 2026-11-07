@@ -3323,7 +3323,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "Interior premium con pantalla panorámica de 35,4 pulgadas",
     ],
     contras: [
-      "Precio para España sin confirmar: el de esta ficha es una estimación",
+      "Sin venta ni PVP oficial en España: el precio de esta ficha (56.000 €) es una estimación con aranceles; en China el Zongheng G700 abre la gama en 329.900 yuanes (unos 39.800 €)",
       "Llegada a Europa prevista para 2027",
       "Pesa más de 3.000 kg: atención al carnet necesario",
       "Red de talleres Jetour aún pequeña en España",
@@ -6882,6 +6882,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "renault-scenic-e-tech-2024-precio-ficha-tecnica",
+    textosPropios: {
+      precio: "La gama 2024 ya no se vende. La gama actual (2026/2027) solo ofrece el motor de 220 CV, con batería LFP de 67 kWh (467 km) o NMC de 89 kWh (642 km). Tarifa: techno autonomía confort 39.900 € (30.660 € financiado), techno gran autonomía 45.085 € (35.330 €) y esprit Alpine gran autonomía 47.685 € (37.670 €). Promoción vigente del 01/11/2026 al 30/11/2026 según renault.es.",
+    },
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de revisión/servicio",
         resetAceitePasos: ["Apaga completamente el coche.", "Pulsa el botón START sin pisar el pedal de freno (solo se enciende el cuadro; si pisas el freno no aparecen los plazos de revisión).", "Con los mandos de flecha arriba/abajo situados a la derecha del volante, desplázate por el menú hasta ver los plazos antes de revisión ('délais avant révision').", "Mantén pulsado el botón OK durante 10 segundos para reinicializar los plazos y apagar los testigos."],
@@ -6896,13 +6899,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     modelo: "Scenic E-Tech",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 41906,
-    potenciaCv: 218,
-    autonomiaKm: 623,
+    precioDesde: 39900,
+    potenciaCv: 220,
+    autonomiaKm: 642,
     maleteroL: 440,
     ceroCien: 7.9,
     velocidadMax: 170,
-    bateriaKwh: 87,
+    bateriaKwh: 89,
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
     garantiaBateriaAnos: 8,
@@ -6920,7 +6923,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: [],
     pros: [
-      "Hasta 623 km de autonomía WLTP: de las mejores del segmento",
+      "Hasta 642 km de autonomía WLTP (batería NMC de 89 kWh): de las mejores del segmento",
       "Maletero de 440 L y gran habitabilidad trasera",
       "Techo panorámico Solarbay que se oscurece por segmentos",
       "Coche del Año en Europa 2024",
@@ -6930,7 +6933,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "Solo tracción delantera, sin versión 4x4",
       "Curva de carga mejorable frente a rivales (150 kW)",
       "Peso de casi 2 toneladas",
-      "Precio de partida elevado (desde 41.906 €)",
+      "Precio de partida elevado (desde 39.900 €; 30.660 € financiado, promo hasta el 30/11/2026)",
       "El diseño divide: ya no es el monovolumen de antes",
     ],
     imagen: "/media/renault-scenic-e-tech-2024-precio-ficha-tecnica-hero.webp",
@@ -6950,7 +6953,8 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   {
     id: "renault-austral-2024-precio-ficha-tecnica",
     textosPropios: {
-      precio: "Tarifa de marzo de 2026 según Motor.es: 34.235 € el mild hybrid de 150 CV y 38.054 € el Full Hybrid de 200 CV, ambos Evolution. Renault España anunciaba el 31/10/2026 unidades en stock del Full Hybrid desde 34.992 hasta 35.361 €, IVA incluido. Los 35.815 € del encabezado son una referencia anterior de nuestro catálogo.",
+      precio: "Austral 2024, el pre-restyling: la gama partía del mild hybrid de 160 CV. Tarifa de abril de 2025: evolution mild 160, 33.520 €; techno mild 160, 37.520 €; evolution E-Tech 200, 38.420 €; techno E-Tech 200, 40.420 €; esprit Alpine E-Tech 200, 43.320 €. En marzo de 2026, según Motor.es, el mild hybrid de 150 CV partía de 34.235 € y el Full Hybrid de 200 CV de 38.054 € (ambos Evolution). Renault España anunciaba el 31/10/2026 unidades en stock del Full Hybrid desde 34.992 hasta 35.361 €, IVA incluido.",
+      otrasVersiones: "Este es el Austral 2024 pre-restyling. Mira también el Austral mild hybrid 160 de 2024, el Austral 2025 mild hybrid 150, el Austral 2025 E-Tech 200 y el Austral 2026 E-Tech 200.",
     },
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",

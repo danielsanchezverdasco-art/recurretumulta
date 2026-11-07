@@ -2,6 +2,8 @@ node_modules
 dist
 .env*
 public/media/
+# copia de build (la fuente es docs/radares/; la hace scripts/copy-radares.mjs)
+public/docs/radares/
 
 # kit de publicación: claves y trabajo local (NUNCA subir)
 tools/publicar/.env

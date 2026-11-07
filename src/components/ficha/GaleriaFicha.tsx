@@ -5,6 +5,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { ChevronLeft, ChevronRight, Expand, X } from "lucide-react";
 import CreditoFoto from "@/components/CreditoFoto.tsx";
+import { fotoVisible } from "@/lib/fotos-ausentes.ts";
 
 export interface FotoFicha {
   src: string;
@@ -42,7 +43,7 @@ export default function GaleriaFicha({
   // qué muestra (la vista exacta no siempre consta en los datos). Las
   // miniaturas mantienen alt="" a propósito: su botón ya lleva aria-label.
   const lista = fotos
-    .filter((f) => f.src)
+    .filter((f) => fotoVisible(f.src))
     .map((f, i) => ({ ...f, alt: f.alt || `Foto ${i + 1} del ${nombre}` }));
   const n = lista.length;
   const trackRef = useRef<HTMLDivElement>(null);

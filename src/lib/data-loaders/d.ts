@@ -218,6 +218,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "ducati-diavel-v4-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),
     "ducati-diavel-v4-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m22.ts"),
     "ducati-diavel-v4-rs-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m8.ts"),
+    "ducati-diavel-v4-s-2027-ficha-tecnica-precio": () => import("../blog-posts-radar-20261105-1258.ts"),
     "ducati-hypermotard-698-mono-2024-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m2.ts"),
     "ducati-hypermotard-698-mono-rve-2025-precio-ficha-tecnica": () => import("../blog-posts-prioridad-20261014.ts"),
     "ducati-hypermotard-v2-2026-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m18.ts"),

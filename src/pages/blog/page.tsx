@@ -11,6 +11,7 @@ import { Input } from "@/components/ui/input.tsx";
 import type { BlogLitePost } from "@/lib/blog-lite.generated.ts";
 import { BLOG_CATEGORIES } from "@/lib/blog-meta.ts";
 import { postHeroImage, cardThumb } from "@/lib/blog-image.ts";
+import { fotoVisible } from "@/lib/fotos-ausentes.ts";
 import { useSeo } from "@/hooks/use-seo.ts";
 import AdBanner, { AD_SLOTS } from "@/components/ads/AdBanner.tsx";
 import CocheSemana from "@/components/coche-semana.tsx";
@@ -259,7 +260,7 @@ function BlogPage() {
               {visiblePosts.map((post, i) => {
                 // hero: los posts lite ya traen heroSrc/heroAlt; los de BD se extraen del contenido
                 const dbHero = "content" in post && typeof post.content === "string" ? postHeroImage(post.content) : null;
-                const heroSrc = dbHero?.src || (post as BlogLitePost).heroSrc || "";
+                const heroSrc = fotoVisible(dbHero?.src || (post as BlogLitePost).heroSrc || "") || "";
                 const heroAlt = dbHero?.alt || (post as BlogLitePost).heroAlt || post.title;
                 return (
                 <motion.div

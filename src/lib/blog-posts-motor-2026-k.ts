@@ -331,7 +331,7 @@ No de forma natural: con 111 CV es una moto de **carnet A**. Para el A2 habría 
 
 El monovolumen murió en Europa devorado por los SUV —el propio Espace VI de 2023 ya es un SUV—. Que Renault recupere ahora el nombre que inventó el segmento tiene su lógica: las familias buscan alternativas eléctricas espaciosas y ni el ID.Buzz ni los SUV de 7 plazas han terminado de llenar ese hueco. El veredicto honesto: el E-Space anticipa más la **segunda generación del Scénic** (Palencia, 2028, plataforma de 800 V) que un modelo de producción tal cual. Pero como declaración de intenciones, es la más interesante de Renault en años.
 
-<img src=/media/renault-e-space-concept-paris-2026-galeria-1.webp alt=Interior espacioso de un monovolumen eléctrico con tres filas de asientos y techo panorámico>
+
 
 Más estrenos de París: <a href=/blog/salon-paris-2026-estrenos-electricos-guia/>guía de todos los eléctricos del Salón de París 2026</a> · <a href=/comparador-coches/>Comparador de coches</a>
 
@@ -411,7 +411,7 @@ Es un concept: anticipa el lenguaje de diseño de los futuros familiares eléctr
 | **Volumen** | 7 plazas | 4,4 m³, europalé |
 | **Potencia** | 163 CV | 163 CV |
 
-<img src=/media/kia-pv5-furgoneta-electrica-espana-galeria-1.webp alt=Interior de carga de una furgoneta eléctrica con paquetes y un europalé>
+
 
 ## ¿La "Kangoo eléctrica" de la próxima década?
 

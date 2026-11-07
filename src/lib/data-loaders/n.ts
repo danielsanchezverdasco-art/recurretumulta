@@ -437,6 +437,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "nuevo-hyundai-tucson-2027-presentacion-precio-ficha-tecnica": () => import("../galerias-coches.ts"),
   },
   cat: {
+    "Normativa Vial": () => import("../blog-lite-cat/cat-normativa-vial.generated.ts"),
     "Novedades Motor": () => import("../blog-lite-cat/cat-novedades-motor.generated.ts"),
   }
 };

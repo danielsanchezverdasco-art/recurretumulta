@@ -1306,7 +1306,7 @@ Las revisiones se espacian según el uso: alrededor de un año o entre 15.000 y 
 
 La cobertura del fabricante en modelos parecidos de la gama Audi es de 2 años en España, sujeta a las condiciones oficiales.
 
-## Dudas habituales antes de decidir
+## Preguntas frecuentes
 
 ### ¿Desde cuánto parte en 2025?
 

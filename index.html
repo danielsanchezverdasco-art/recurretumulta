@@ -50,7 +50,13 @@
       }
       t.removeAttribute("srcset");
       if (/-card\.webp$/.test(s) && !t.dataset.fbFull) { t.dataset.fbFull = "1"; t.src = s.replace(/-card\.webp$/, ".webp"); return; }
-      t.dataset.fb = "og"; t.src = "/media/og-recurretumulta-online.png";
+      // 6/11/2026: si no existe ni la miniatura ni el original, no se pone el logo
+      // en el hueco (eso lo presentaba como foto del modelo). Se quita la imagen.
+      t.removeAttribute("src");
+      t.alt = "";
+      t.style.display = "none";
+      var fig = t.closest && t.closest("figure");
+      if (fig && !fig.querySelector("img[src]")) fig.style.display = "none";
     }, true);
   </script>
   <script>
@@ -68,22 +74,44 @@
       gtag('consent', 'default', { ad_storage: 'denied', analytics_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', wait_for_update: 500 });
       gtag('js', new Date());
       gtag('config', 'G-NQD5QTRJPH');
-      var done = false;
-      function load() {
-        if (done) return;
-        done = true;
+      // 7/11/2026: ni Analytics ni AdSense se piden hasta un consent update
+      // con storage granted. El CMP (Funding Choices) sigue cargándose ya,
+      // porque es el que muestra el mensaje. Sin ese update no hay script
+      // de medición ni de anuncios, ni por scroll ni a los 6 s.
+      var doneGA = false, doneAds = false;
+      function asArray(item) { try { return Array.isArray(item) ? item : Array.from(item); } catch (e) { return []; } }
+      function loadGA() {
+        if (doneGA) return;
+        doneGA = true;
         var s = document.createElement('script');
         s.async = true;
         s.src = 'https://www.googletagmanager.com/gtag/js?id=G-NQD5QTRJPH';
         document.head.appendChild(s);
       }
-      // 12/10/2026: GA solo tras la primera interacción o 6 s después de load
-      // (antes se cargaba al pintar el LCP y sumaba ~900 ms de TBT en móvil).
-      ['scroll', 'click', 'touchstart', 'keydown'].forEach(function (ev) {
-        window.addEventListener(ev, load, { once: true, passive: true });
-      });
-      window.addEventListener('load', function () { setTimeout(load, 6000); });
-      window.__rtmLoadGA = load;
+      function loadAds() {
+        if (doneAds) return;
+        doneAds = true;
+        var s = document.createElement('script');
+        s.async = true;
+        s.crossOrigin = 'anonymous';
+        s.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4234009516943468';
+        document.head.appendChild(s);
+      }
+      function onPush(item) {
+        var a = asArray(item);
+        if (a[0] !== 'consent' || a[1] !== 'update' || !a[2]) return;
+        if (a[2].analytics_storage === 'granted') loadGA();
+        if (a[2].ad_storage === 'granted') loadAds();
+      }
+      var dl = window.dataLayer;
+      var orig = dl.push.bind(dl);
+      dl.push = function () {
+        var r = orig.apply(null, arguments);
+        for (var i = 0; i < arguments.length; i++) onPush(arguments[i]);
+        return r;
+      };
+      window.__rtmLoadGA = loadGA;
+      window.__rtmLoadAds = loadAds;
     })();
   </script>
     <meta name="twitter:image" content="/media/file_GwrC2BjvFbzGFY6yvNwZ6tov.png" />
@@ -251,7 +279,7 @@
     <meta name="google-adsense-account" content="ca-pub-4234009516943468" />
     <script async src="https://fundingchoicesmessages.google.com/i/pub-4234009516943468?ers=1"></script>
     <script>(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4234009516943468" crossorigin="anonymous"></script>
+    <!-- AdSense se inyecta solo tras consent update ad_storage=granted (ver el stub de gtag). -->
   <script src="/js/enlaces-301.js" defer></script>
   <script src="/js/rtm-consent.js" defer></script></head>
   <body>
