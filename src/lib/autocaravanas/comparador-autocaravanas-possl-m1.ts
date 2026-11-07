@@ -89,7 +89,7 @@ En precio no hay PVP oficial verificable del 2Win Plus para dar una cifra de fá
     analisisSlug: "possl-2win-plus-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Citroën Jumper 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Citroën)",
+        "Citroën Jumper 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Citroën Jumper (2 años / 40.000 km)",

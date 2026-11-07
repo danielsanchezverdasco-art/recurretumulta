@@ -1,3 +1,6 @@
+// 21/10/2026 (dedupe campers, Niky): retirado el registro «font-vendome-mondea-2026-precio-ficha-tecnica» de este fichero.
+// Era la copia en /autocaravanas/ de una furgoneta camperizada: la versión canónica
+// vive en /campers/font-vendome-mondea-2026-precio-ficha-tecnica/ y la URL vieja redirige con 301 (public/_redirects).
 // Autocaravanas Font Vendôme — lote Merlín 1 (18/10/2026).
 // Datos verificados: web oficial font-vendome.fr (página del modelo Mondéa).
 // CORRECCIÓN 5 (18/10/2026): fuenteUrl concreta (página del modelo exacto, no la

@@ -123,7 +123,7 @@ Perfil de comprador: el Toscan 69GC encaja con parejas que buscan su primera per
     analisisSlug: "giottiline-toscan-69gc-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat); en bases Citroën Jumper/Peugeot Boxer, seguir el plan Stellantis (2 años, según manual del propietario)",
+        "Base Fiat Ducato 2.2: 2 años / 48.000 km; en bases Citroën Jumper/Peugeot Boxer, seguir el plan Stellantis (2 años, según manual del propietario)",
       revisiones: [
         {
           nombre: "Revisión base mecánica (2 años / 48.000 km en Ducato)",
@@ -250,7 +250,7 @@ Perfil de comprador: el Compact CX60 encaja con parejas que vienen del mundo fur
     analisisSlug: "giottiline-compact-cx60-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat); en bases Citroën Jumper/Peugeot Boxer, seguir el plan Stellantis (2 años, según manual del propietario)",
+        "Base Fiat Ducato 2.2: 2 años / 48.000 km; en bases Citroën Jumper/Peugeot Boxer, seguir el plan Stellantis (2 años, según manual del propietario)",
       revisiones: [
         {
           nombre: "Revisión base mecánica (2 años / 48.000 km en Ducato)",

@@ -33,8 +33,8 @@ export const AUTOCARAVANAS_GIOTTILINE_M1: Autocaravana[] = [
       "/media/giottiline-siena-322-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
       "/media/giottiline-siena-322-2026-precio-ficha-tecnica-oficial-interior.webp",
-    videoId: null,
-    videoCanal: null,
+    videoId: "9NpSU-j6eV8",
+    videoCanal: "Bobilagenten",
     largoMm: 5990,
     anchoMm: 2320,
     altoMm: 2990,
@@ -80,13 +80,13 @@ export const AUTOCARAVANAS_GIOTTILINE_M1: Autocaravana[] = [
       },
       {
         src: "/media/giottiline-siena-322-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Salón y cabina del Giottiline Siena 322 (foto oficial)",
+        alt: "Salón y cabina del Giottiline Siena 322",
         ancho: 1000,
         alto: 560,
       },
       {
         src: "/media/giottiline-siena-322-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Cama transversal trasera del Giottiline Siena 322 (foto oficial)",
+        alt: "Cama transversal trasera del Giottiline Siena 322",
         ancho: 1000,
         alto: 560,
       },
@@ -94,7 +94,7 @@ export const AUTOCARAVANAS_GIOTTILINE_M1: Autocaravana[] = [
     analisisSlug: "giottiline-siena-322-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",

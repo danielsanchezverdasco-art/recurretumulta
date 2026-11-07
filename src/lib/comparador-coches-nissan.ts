@@ -130,20 +130,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    pros: [
-      "Precio de acceso contenido: oferta oficial desde 22.725 € al contado",
-      "Consumo homologado de 5,8 l/100 km, muy ajustado para un gasolina",
-      "Diseño urbano con mucha personalidad, icono del segmento B-SUV",
-      "Maletero de 422 litros, correcto para su tamaño (4,21 m)",
-      "Disponible con cambio manual de 6 velocidades o automático DCT de 7",
-    ],
-    contras: [
-      "Etiqueta C de la DGT: sin ventajas en las ZBE frente al Hybrid",
-      "Prestaciones modestas: 10,7 s de 0 a 100 km/h",
-      "Motor tricilíndrico de 1.0 litros: justo con el coche cargado",
-      "El Juke Hybrid 143 CV (etiqueta ECO) cuesta poco más",
-      "Plazas traseras justas para adultos altos",
-    ],
+    pros: ["El precio de acceso del Juke 1.0 DIG-T es contenido: oferta oficial desde 22.725 € al contado", "El consumo homologado del Juke 1.0 DIG-T, de 5,8 litros cada 100 km, es muy ajustado para un gasolina", "El Juke 1.0 DIG-T mantiene un diseño urbano con mucha personalidad, icono del segmento B-SUV", "El maletero del Juke 1.0 DIG-T, de 422 litros, es correcto para su tamaño de 4,21 m", "El Juke 1.0 DIG-T ofrece manual de seis marchas o automático DCT de siete"],
+    contras: ["Con etiqueta C de la DGT, el Juke 1.0 DIG-T no tiene ventajas en las ZBE frente al Hybrid", "Las prestaciones del Juke 1.0 DIG-T son modestas: el 0-100 lleva 10,7 segundos", "El motor tricilíndrico de 1.0 litros del Juke 1.0 DIG-T es justo con el coche cargado", "El Juke Hybrid 143 CV, con etiqueta ECO, cuesta poco más que el Juke 1.0 DIG-T", "Las plazas traseras del Juke 1.0 DIG-T son justas para adultos altos"],
     largoMm: 4210,
     anchoMm: 1800,
     altoMm: 1593,
@@ -417,7 +405,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 87,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "estimación con 12.000 km/año, consumo WLTP 13,8 kWh/100 km y recarga doméstica a 0,18 €/kWh; con el Plan Auto+ y financiación el precio baja sensiblemente",
+      "notas": "estimación con 12.000 km/año, consumo WLTP 13,8 kWh/100 km y 0,18 €/kWh (doméstica); con el Plan Auto+ y financiación el precio baja sensiblemente",
       "estimado": true
     },
     galeria: [
@@ -466,20 +454,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
     bateriaKwh: 87,
     cargaRapidaKw: 130,
     etiquetaDgt: "Cero",
-    pros: [
-      "525 km de autonomía WLTP: de las mejores del segmento",
-      "Interior de estilo lounge japonés, muy refinado y amplio",
-      "Carga rápida de 130 kW y 11 kW en alterna con función V2L",
-      "Etiqueta Cero y suelo plano: ideal como coche único familiar",
-      "Google integrado en el sistema multimedia (gama 2026)",
-    ],
-    contras: [
-      "18,4 kWh/100 km: no es el más eficiente; necesita la batería grande para llegar lejos",
-      "130 kW de carga rápida, por debajo de rivales con 800 V",
-      "Desde 49.800 € de tarifa: el precio ha sido su talón de Aquiles",
-      "160 km/h de velocidad máxima",
-      "Mandos táctiles poco intuitivos según varias pruebas",
-    ],
+    pros: ["El Ariya 2026 homologa 525 km WLTP, entre las mejores cifras del segmento", "El interior del Ariya 2026, de estilo lounge japonés, es muy refinado y amplio", "El Ariya 2026 carga en rápida a 130 kW y en alterna a 11 kW, con función V2L", "Con etiqueta Cero y suelo plano, el Ariya 2026 sirve como coche único familiar", "La gama 2026 del Ariya lleva Google integrado en el sistema multimedia"],
+    contras: ["El Ariya 2026 gasta 18,4 kWh cada 100 km: no es el más eficiente y necesita la batería grande para llegar lejos", "La carga rápida del Ariya 2026, de 130 kW, queda por debajo de rivales con 800 V", "El Ariya 2026 parte de 49.800 € de tarifa: el precio ha sido siempre su punto débil", "El Ariya 2026 se limita a 160 km/h de punta", "Los mandos táctiles del Ariya 2026 resultan poco intuitivos según varias pruebas"],
     largoMm: 4595,
     anchoMm: 1850,
     altoMm: 1660,
@@ -501,7 +477,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 108,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "estimación con 12.000 km/año, consumo WLTP 18,4 kWh/100 km y recarga doméstica a 0,18 €/kWh; los descuentos comerciales reducen mucho el PVP de tarifa",
+      "notas": "estimación con 12.000 km/año, consumo WLTP 18,4 kWh/100 km y 0,18 €/kWh (doméstica); los descuentos comerciales reducen mucho el PVP de tarifa",
       "estimado": true
     },
     galeria: [
@@ -585,7 +561,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 78,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "estimación con 10.000 km/año urbanos, consumo WLTP 14,7 kWh/100 km y recarga doméstica a 0,18 €/kWh; con ayudas y descuentos el precio efectivo baja hasta ~17.550 €",
+      "notas": "estimación con 10.000 km/año urbanos, consumo WLTP 14,7 kWh/100 km y 0,18 €/kWh (doméstica); con ayudas y descuentos el precio efectivo baja hasta ~17.550 €",
       "estimado": true
     },
     galeria: [
@@ -625,7 +601,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     modelo: "Townstar Combi 1.3G 130 CV",
     tipo: "Gasolina",
     categoria: "Monovolumen",
-    precioDesde: 31928,
+    precioDesde: 27090,
     potenciaCv: 130,
     autonomiaKm: 790,
     maleteroL: 775,
@@ -753,7 +729,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 96,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.75,
-      "notas": "estimación con 12.000 km/año, consumo WLTP 18,6 kWh/100 km y recarga doméstica a 0,18 €/kWh; ideal para reparto urbano con rutas de menos de 200 km/día",
+      "notas": "estimación con 12.000 km/año, consumo WLTP 18,6 kWh/100 km y 0,18 €/kWh (doméstica); ideal para reparto urbano con rutas de menos de 200 km/día",
       "estimado": true
     },
     galeria: [
@@ -825,7 +801,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 191,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 7,0 l/100 km de gasóleo (1,65 €/l) y seguro a terceros; uso profesional intensivo",
+      "notas": "15.000 km/año, consumo WLTP 7,0 l/100 km de gasóleo (1,65 €/l) y seguro a terceros; uso profesional intensivo",
       "estimado": true
     },
     galeria: [
@@ -911,7 +887,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 136,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 18,1 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo WLTP 18,1 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -957,20 +933,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
     bateriaKwh: 63,
     cargaRapidaKw: 130,
     etiquetaDgt: "Cero",
-    pros: [
-      "404 km WLTP con la batería de acceso: suficiente para viajar",
-      "Maletero de 468 litros, el más amplio de la gama Ariya",
-      "Interior espacioso con suelo plano y materiales de calidad",
-      "Carga rápida de 130 kW en corriente continua",
-      "Etiqueta Cero de la DGT: acceso libre a todas las ZBE",
-    ],
-    contras: [
-      "Desde 48.800 €: caro frente a rivales chinos equivalentes",
-      "218 CV: prestaciones correctas sin alardes",
-      "160 km/h de velocidad máxima",
-      "Consumo real en autopista superior a 20 kWh/100 km",
-      "Sistema multimedia mejorable frente a la competencia",
-    ],
+    pros: ["Con la batería de acceso, el Ariya 63 kWh homologa 404 km WLTP: suficiente para viajar", "El maletero del Ariya 63 kWh, de 468 litros, es el más amplio de la gama Ariya", "El interior del Ariya 63 kWh es espacioso, con suelo plano y materiales de calidad", "En corriente continua, el Ariya 63 kWh carga en rápida a 130 kW", "Con etiqueta Cero, el Ariya 63 kWh entra libre en todas las ZBE"],
+    contras: ["El Ariya 63 kWh parte de 48.800 €: caro frente a rivales chinos equivalentes", "Los 218 CV del Ariya 63 kWh dan prestaciones correctas, sin alardes", "La punta del Ariya 63 kWh es de 160 km/h", "El consumo real del Ariya 63 kWh en autopista supera los 20 kWh cada 100 km", "El sistema multimedia del Ariya 63 kWh es mejorable frente a la competencia"],
     largoMm: 4595,
     anchoMm: 1850,
     altoMm: 1660,
@@ -992,7 +956,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 142,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 17,6 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo WLTP 17,6 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1041,20 +1005,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
     bateriaKwh: 87,
     cargaRapidaKw: 130,
     etiquetaDgt: "Cero",
-    pros: [
-      "509 km WLTP: la mayor autonomía de la gama Ariya",
-      "306 CV y 600 Nm con tracción total e-4ORCE",
-      "0-100 km/h en 5,7 s y 200 km/h de punta",
-      "Carga en alterna de hasta 22 kW (trifásica)",
-      "Etiqueta Cero de la DGT: acceso libre a todas las ZBE",
-    ],
-    contras: [
-      "Desde 57.500 €: precio de premium alemán",
-      "El maletero baja a 415 litros por el motor trasero",
-      "2.259 kg de peso: se nota en consumos reales",
-      "Carga en continua limitada a 130 kW",
-      "Sistema multimedia mejorable frente a rivales",
-    ],
+    pros: ["El Ariya e-4ORCE homologa 509 km WLTP, el mayor alcance de la gama Ariya", "Con tracción total e-4ORCE, el Ariya e-4ORCE entrega 306 CV y 600 Nm", "El Ariya e-4ORCE tarda 5,7 segundos en llegar a 100 km/h y alcanza 200 km/h de punta", "El Ariya e-4ORCE carga en alterna hasta 22 kW, en trifásica", "La etiqueta Cero del Ariya e-4ORCE abre todas las ZBE"],
+    contras: ["El Ariya e-4ORCE parte de 57.500 €: precio de premium alemán", "El maletero del Ariya e-4ORCE baja a 415 litros por el motor trasero", "Los 2.259 kg del Ariya e-4ORCE se notan en consumos reales", "El Ariya e-4ORCE limita su carga en continua a 130 kW", "El sistema multimedia del Ariya e-4ORCE es mejorable frente a rivales"],
     largoMm: 4595,
     anchoMm: 1850,
     altoMm: 1660,
@@ -1076,7 +1028,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 157,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 19,9 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo WLTP 19,9 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1125,20 +1077,8 @@ export const COCHES_NISSAN: CocheComparador[] = [
     bateriaKwh: 91,
     cargaRapidaKw: 130,
     etiquetaDgt: "Cero",
-    pros: [
-      "435 CV: el Nissan eléctrico más potente a la venta",
-      "0-100 km/h en 5,0 s con tracción total e-4ORCE",
-      "Chasis revisado por Nismo: más preciso en curva",
-      "Estética Nismo diferenciada, interior y exterior",
-      "417 km WLTP: autonomía digna para su potencia",
-    ],
-    contras: [
-      "Desde 60.181 €: el Ariya más caro con diferencia",
-      "Consumo real de 24,5 kWh/100 km: devora batería",
-      "Carga en continua limitada a 130 kW para su precio",
-      "Frenos sin refuerzo respecto al Ariya estándar",
-      "Maletero de 415 litros, justo para un SUV familiar",
-    ],
+    pros: ["Con 435 CV, el Ariya Nismo es el Nissan eléctrico más potente a la venta", "El Ariya Nismo tarda 5,0 segundos en llegar a 100 km/h con tracción total e-4ORCE", "El chasis del Ariya Nismo, revisado por Nismo, es más preciso en curva", "La estética del Ariya Nismo está diferenciada, interior y exterior", "El Ariya Nismo anuncia 417 km WLTP: autonomía digna para su potencia"],
+    contras: ["El Ariya Nismo parte de 60.181 €: el Ariya más caro con diferencia", "El consumo real del Ariya Nismo, de 24,5 kWh cada 100 km, devora batería", "Para su precio, el Ariya Nismo limita la continua a 130 kW", "El Ariya Nismo no lleva frenos reforzados respecto al Ariya estándar", "El maletero del Ariya Nismo, de 415 litros, es justo para un SUV familiar"],
     largoMm: 4655,
     anchoMm: 1850,
     altoMm: 1660,
@@ -1160,7 +1100,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 184,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 24,5 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo WLTP 24,5 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1241,7 +1181,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 115,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 12.000 km/año, consumo WLTP 14,1 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "estimación con 12.000 km/año, consumo WLTP 14,1 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1322,7 +1262,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 148,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 19,3 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo WLTP 19,3 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1394,7 +1334,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
       "costeMensualTotal": 216,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo 7,9 l/100 km de gasóleo (1,65 €/l) y seguro a terceros; uso profesional intensivo",
+      "notas": "15.000 km/año, consumo 7,9 l/100 km de gasóleo (1,65 €/l) y seguro a terceros; uso profesional intensivo",
       "estimado": true
     },
     galeria: [

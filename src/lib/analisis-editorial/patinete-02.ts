@@ -29,7 +29,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
   },
   "hiboy-max3": {
     parrafos: [
-      "El Max3 ya es pieza de museo en el catálogo Hiboy. Está descatalogado y relevado por el Max Pro. En su época se vendía por 449 € con un propulsor de 350 W (500 W de pico). Homologaba 27 km de alcance declarado, unos 18 km reales. Eran números modestos, acordes a su enfoque de urbano asequible.",
+      "El Max3 ya es pieza de museo en el catálogo Hiboy. Está descatalogado y relevado por el Max Pro. En su época se vendía por 449 € con un propulsor de 350 W, con 500 W de pico). Homologaba 27 km de alcance declarado, unos 18 km reales. Eran números modestos, acordes a su enfoque de urbano asequible.",
       "Pesaba 18,1 kg, mucho para su segmento, y la falta de suspensión castigaba cada adoquín. El freno de disco con regeneración electrónica cumplía sin brillo. El tope de 100 kg de carga resultaba justo para muchos usuarios. La recarga se completaba en unas 5 horas.",
       "Hoy solo compensa en el mercado de ocasión y a precio de saldo. Hay que asumir que los repuestos oficiales no están garantizados. Como capricho barato para probar la marca puede servir. Como compra con futuro, su sucesor lo deja en evidencia en casi todo. En ocasión compite con urbanos nuevos de 300 € que ya traen app y más alcance, así que solo compensa si el precio es realmente de derribo.",
     ],
@@ -53,7 +53,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
   },
   "hiboy-s2": {
     parrafos: [
-      "Por 299 €, el S2 abre la puerta de Hiboy. Propulsor de 350 W (500 W de pico), acumulador de 270 Wh y 14,5 kg de peso. La marca promete más de 1.000 ciclos para la batería. Es un dato tranquilizador en la gama de acceso. Su planteamiento es honesto: ciudad en trayectos cortos sin gastar mucho.",
+      "Por 299 €, el S2 abre la puerta de Hiboy. propulsor de 350 W, con 500 W de pico), acumulador de 270 Wh y 14,5 kg de peso. La marca promete más de 1.000 ciclos para la batería. Es un dato tranquilizador en la gama de acceso. Su planteamiento es honesto: ciudad en trayectos cortos sin gastar mucho.",
       "La letra pequeña del alcance: frente a los 25 km anunciados, la realidad ronda los 12-13 km. Conviene ceñirlo a rutinas diarias de menos de 8 km. La plataforma queda pequeña para pies grandes. La suspensión es testimonial y los baches se notan. La recarga se completa en unas 4 horas. El display es básico pero legible, y el plegado rápido facilita combinarlo con el transporte público en la rutina diaria.",
       "Sin certificado DGT verificado, funciona como primer contacto barato con el formato. No es un caballo de batalla diario para rutas largas. Honesto por lo que cuesta y limitado por lo que ofrece. Para iniciarse, difícil pedir más por 299 €.",
     ],
@@ -94,7 +94,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
   "hiboy-s2r-plus": {
     parrafos: [
       "El S2R Plus hereda lo mejor del S2R por 449 €. Mantiene el acumulador extraíble de 313 Wh (36 V y 8,7 Ah). Se enchufa en la oficina sin cargar con el patinete. Con 14,3 kg está entre los más ligeros de su potencia. Las gomas hinchables de 9 pulgadas suavizan la marcha frente a las macizas.",
-      "Anuncia 35 km de alcance, unos 23 km de verdad. El propulsor de 350 W (500 W de pico) basta en ciudad. Frenada electrónica más disco, sin sorpresas. El tope de 100 kg de carga es justo. La recarga completa tarda unas 6 horas.",
+      "Anuncia 35 km de alcance, unos 23 km de verdad. El propulsor de 350 W, con 500 W de pico) basta en ciudad. Frenada electrónica más disco, sin sorpresas. El tope de 100 kg de carga es justo. La recarga completa tarda unas 6 horas.",
       "La punta real de 31 km/h (19 mph) rebasa el techo de 25 km/h. No es VMP legal en la calzada española. Y sin venta oficial en España, la garantía queda en el limbo. Concepto brillante lastrado por la legalidad y la distribución. Una pena, porque la idea es redonda.",
     ],
     veredicto: "Batería extraíble genial en un cuerpo ligero, pero ilegal aquí y sin distribución.",
@@ -125,7 +125,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
   },
   "hiboy-ve1-pro": {
     parrafos: [
-      "El VE1 Pro equilibra báscula y energía. Pesa 22,2 kg para 480 Wh: ligero para lo que almacena. Declara 50 km de alcance, unos 34 km reales. El propulsor de 350 W (500 W de pico) basta en ciudad. Su silueta compacta y discreta pasa desapercibida entre el tráfico. Su diseño compacto y discreto lo hace pasar desapercibido, algo que muchos usuarios urbanos agradecen.",
+      "El VE1 Pro equilibra báscula y energía. Pesa 22,2 kg para 480 Wh: ligero para lo que almacena. Declara 50 km de alcance, unos 34 km reales. El propulsor de 350 W, con 500 W de pico) basta en ciudad. Su silueta compacta y discreta pasa desapercibida entre el tráfico. Su diseño compacto y discreto lo hace pasar desapercibido, algo que muchos usuarios urbanos agradecen.",
       "Acabados justos y suspensión anecdótica: no busques refinamiento premium. En modo rápido el alcance real cae a unos 30 km. Es un dato a considerar si tus rutas son largas. Cumple sin alardes en lo esencial. Los acabados básicos recuerdan que es un producto de precio contenido, sin pretensiones premium.",
       "Los 37 km/h de punta rebasan el límite VMP español. Donde la regulación lo acepte, es un urbano discreto y equilibrado. Aquí circula sin papeles en regla. Una lástima, porque la proporción peso/energía está bien resuelta. Si Hiboy lo limitara a 25 km/h de fábrica, sería un urbano legal muy interesante por su equilibrio.",
     ],
@@ -319,7 +319,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
     parrafos: [
       "El RS milita en otra división del mercado. Declara 160 km de alcance (104 reales): récord del segmento. Lo logra con 2.880 Wh de acumulador premium. El propulsor de 4.000 W nominales (picos de 8.400 W) es descomunal. El doble hidráulico más regenerativo intentan domarlo. Los 8.400 W de pico son una cifra que roza lo absurdo en un patinete. Con 2.880 Wh, su autonomía real supera a la de muchas motos eléctricas.",
       "Cuesta 3.699 € y pesa 56 kg: no es un urbano cualquiera. Calza gomas de 11 pulgadas y ni se sube a mano. Tampoco entra en el transporte público. Es un hyper-scooter en toda regla, sin disimulo. El freno regenerativo ayuda a recuperar energía en deceleraciones largas.",
-      "Ciento diez por hora: ni VMP legal en España ni discusión posible. Solo circuito privado para esta fiera. Máquina extrema para entusiastas con acceso a pista. Como transporte, un imposible. Su hábitat natural son los circuitos de karting y las pistas cerradas. A 110 km/h, el equipamiento de protección del piloto es obligatorio moralmente.",
+      "Ciento diez por hora, sin ser VMP legal en España ni discusión posible. Solo circuito privado para esta fiera. Máquina extrema para entusiastas con acceso a pista. Como transporte, un imposible. Su hábitat natural son los circuitos de karting y las pistas cerradas. A 110 km/h, el equipamiento de protección del piloto es obligatorio moralmente.",
     ],
     veredicto: "Cifras extremas para circuito; como transporte, un imposible.",
   },
@@ -391,7 +391,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
     parrafos: [
       "El OX calza 800 W con 624 Wh de acumulador. Declara 34 km de alcance (22 reales): de sobra para el día a día. Discos de freno y gomas de 10 pulgadas en el conjunto. La doble suspensión de goma busca el punto entre eficacia y confort. Equilibrio campero-urbano. Los 800 W le dan un empuje serio para un patinete de su tamaño. Con 624 Wh tiene energía para el día a día sin ansiedades.",
       "Tolera 120 kg de carga máxima, cifra solvente. Pero los 26,6 kg castigan en escaleras diarias. Es aparato de presencia sólida, no de portabilidad. Para dejarlo aparcado, mejor que para subirlo. La suspensión de goma es simple pero efectiva y sin mantenimiento. Los 26,6 kg lo descartan para quien suba escaleras a diario.",
-      "Cuarenta y cinco por hora: ni VMP legal en España ni calle; circuito privado. Varios datos siguen pendientes de verificación oficial. Potente y cómodo, vetado fuera de la pista. Verificar los datos pendientes con el vendedor es imprescindible.",
+      "cuarenta y cinco por hora, sin ser VMP legal en España ni calle; circuito privado. Varios datos siguen pendientes de verificación oficial. Potente y cómodo, vetado fuera de la pista. Verificar los datos pendientes con el vendedor es imprescindible.",
     ],
     veredicto: "Potente y cómodo, pero pesado e ilegal en la calle.",
   },
@@ -471,7 +471,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
     parrafos: [
       "El i10 Max presume de alcance por 479 €. Declara 80 km (54 reales) con 864 Wh de acumulador. Es de lo más alto por debajo de 500 €. El propulsor de 750 W promete rampas de 20° según la marca. Números que impresionan en su rango. Ochenta kilómetros declarados por 479 € es una propuesta agresiva. Con 864 Wh tiene energía para una semana de uso moderado.",
       "EBAS delante y disco detrás en la frenada. Gomas hinchables de 10 pulgadas para el confort. Tolera 120 kg de carga y pesa 21,2 kg. Conjunto razonable y bien plantado. Los 20° de rampa que anuncia la marca son ambiciosos. El EBAS delantero complementa bien al disco trasero.",
-      "Cuarenta y cinco por hora: ni VMP legal ni DGT en España. Y la recarga es desesperante: de 8 a 9 horas. Alcance top con dos losas, ley y enchufe. Una pena para tan buen producto. Ocho o nueve horas de carga lo atan al enchufe nocturno.",
+      "cuarenta y cinco por hora, sin ser VMP legal ni DGT en España. Y la recarga es desesperante: de 8 a 9 horas. Alcance top con dos losas, ley y enchufe. Una pena para tan buen producto. Ocho o nueve horas de carga lo atan al enchufe nocturno.",
     ],
     veredicto: "Alcance top por 479 €; ilegal y de recarga eterna.",
   },
@@ -501,7 +501,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
   },
   "iscooter-i8": {
     parrafos: [
-      "El i8 es la entrada barata a iScooter. Cuesta unas 189 £, de lo más económico con marca. Pesa 12 kg que se llevan con una mano. El propulsor de 350 W (500 W de pico) rinde dignamente para su peso. Ideal para estudiantes y presupuestos ajustados. Por unas 189 £ es de lo más barato con marca reconocible. Ideal para estudiantes con trayectos cortos al campus.",
+      "El i8 es la entrada barata a iScooter. Cuesta unas 189 £, de lo más económico con marca. Pesa 12 kg que se llevan con una mano. El propulsor de 350 W, con 500 W de pico) rinde dignamente para su peso. Ideal para estudiantes y presupuestos ajustados. Por unas 189 £ es de lo más barato con marca reconocible. Ideal para estudiantes con trayectos cortos al campus.",
       "Los 187 Wh se funden rápido en cuanto se rueda. Declara 20 km, unos 13 reales: solo microtrayectos. Las ruedecillas penalizan el firme roto. No pide más de lo que da, pero da poco. Los 12 kg permiten llevarlo como una bolsa de deporte. Las ruedas pequeñas exigen firmes en buen estado.",
       "Treinta por hora obligan a limitarlo para España. Primer patinete barato para catar el formato. Sin más ambición que iniciarse en el mundo VMP. Barato y ligero, con techo bajo. Como primer contacto con el formato, cumple su misión. A 30 km/h hay que limitarlo para circular legal en España.",
     ],
@@ -519,7 +519,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
     parrafos: [
       "El i9 Pro pesa 13,5 kg: ligero de llevar a mano. Su frenada es eficaz: E-ABS electrónico más disco trasero. Gomas de 8,5 pulgadas y suspensión que cuidan el confort. Declara 25 km de alcance (16 reales) para la ciudad. Trece kilos y medio es un peso excelente para su equipamiento. El E-ABS más disco trasero es un esquema de frenada serio.",
       "El propulsor de 350 W basta en llano sin apuros. Tolera 120 kg de carga máxima y cuesta 399 €. Urbano ligero bien planteado y proporcionado. Pocos peros en lo técnico. La suspensión mejora el confort en firmes irregulares. Las gomas de 8,5 pulgadas son justas en baches grandes.",
-      "Treinta por hora: ni VMP legal en España ni calle; circuito privado. Los Wh y la recarga siguen sin verificarse en la ficha oficial. Ligero y bien frenado, con datos a medias. Los datos pendientes obligan a preguntar al vendedor antes de pagar. A 30 km/h solo vale para circuito privado en España.",
+      "Treinta por hora, sin ser VMP legal en España ni calle; circuito privado. Los Wh y la recarga siguen sin verificarse en la ficha oficial. Ligero y bien frenado, con datos a medias. Los datos pendientes obligan a preguntar al vendedor antes de pagar. A 30 km/h solo vale para circuito privado en España.",
     ],
     veredicto: "Ligero y bien frenado; ilegal y con datos a medias.",
   },
@@ -559,7 +559,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
     parrafos: [
       "El iX5 trepa por 416,99 € con autoridad. Propulsor de 1.000 W que sube pendientes de 15 a 25 grados. Lo hace sin esfuerzo aparente, con par de sobra. Su acumulador de 720 Wh (48 V y 15 Ah) declara 45 km. En la práctica rondan los 30 km reales. Mil vatios por 416,99 € es potencia muy bien comprada. Subir pendientes de 25 grados sin esfuerzo impresiona.",
       "Tolera hasta 150 kg de carga máxima: de lo más capaz. Doble disco y gomas todoterreno de 10 pulgadas para lo exigente. Sus 27,3 kg se notan a diario en el porte. La recarga completa tarda unas 6,5 horas. Los 150 kg de carga máxima son de lo mejor del mercado. Seis horas y media de carga obligan a planificar.",
-      "Cuarenta y cinco por hora: ni VMP legal en España ni DGT. Circular así expone a multa e inmovilización. Potencia con veto absoluto en la calle. Trepador con la ley en contra. La multa e inmovilización son riesgos reales en la vía pública.",
+      "cuarenta y cinco por hora, sin ser VMP legal en España ni DGT. Circular así expone a multa e inmovilización. Potencia con veto absoluto en la calle. Trepador con la ley en contra. La multa e inmovilización son riesgos reales en la vía pública.",
     ],
     veredicto: "Trepador muy capaz; ilegal con riesgo de multa.",
   },
@@ -575,7 +575,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
     parrafos: [
       "El iX6 trepa por 849 € con credenciales serias. Propulsor trasero de 1.000 W (1.200 W de pico) con un 35 % superable. Pocas rampas se le resisten en la práctica. Sus 840 Wh (48 V y 17,5 Ah) están entre lo mayor del off-road. Declara 45 km (30 reales) de alcance. El 35 % de rampa superable es una cifra de auténtico todoterreno. Con 840 Wh tiene de las mayores baterías off-road.",
       "Doble disco mecánico más E-ABS en la frenada. Gomas off-road de 11 pulgadas para el trato duro. Tolera 150 kg de carga máxima con soltura. La recarga completa tarda unas 8 horas. Las gomas de 11 pulgadas dan aplomo en campo abierto. Los 150 kg de carga admiten pilotos corpulentos.",
-      "Cuarenta y cinco por hora: ni VMP legal en España; circuito o fincas. Sin DGT ni distribución oficial en el país. Garantía y recambios quedan en el aire. Trepador con la postventa en el limbo. Ocho horas de carga exigen el enchufe nocturno.",
+      "cuarenta y cinco por hora, sin ser VMP legal en España; circuito o fincas. Sin DGT ni distribución oficial en el país. Garantía y recambios quedan en el aire. Trepador con la postventa en el limbo. Ocho horas de carga exigen el enchufe nocturno.",
     ],
     veredicto: "Trepador off-road notable; ilegal y sin red en España.",
   },
@@ -630,7 +630,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
   "isinwheel-s10plus": {
     parrafos: [
       "El S10Plus es el equilibrado de la serie S10. Monta 750 W con unos 720 Wh de acumulador. Declara 50 km de alcance (34 reales) en 19 kg. Buena relación peso/alcance para el día a día. La doble suspensión delantera cuida el confort. Setecientos cincuenta vatios son el punto dulce de la gama. Cincuenta kilómetros declarados cubren la semana laboral.",
-      "Discos en ambas ruedas para frenar con seguridad. Tolera 120 kg de carga máxima sin apuros. Es el S10 para quien no necesita la máxima potencia. Pero sí quiere alcance de sobra. Diecinueve kilos para 720 Wh es una buena proporción. La doble suspensión delantera cuida el confort.",
+      "Discos en ambas ruedas para frenar con seguridad. soporta 120 kg de carga máxima sin apuros. Es el S10 para quien no necesita la máxima potencia. Pero sí quiere alcance de sobra. Diecinueve kilos para 720 Wh es una buena proporción. La doble suspensión delantera cuida el confort.",
       "Sin tarifa oficial en España: opacidad comercial. En Europa debe circular limitado a 25 km/h. El tiempo de recarga no está publicado. Equilibrado en papel, opaco en la compra. La opacidad comercial lastra a un gran producto. A 25 km/h limitado sigue siendo un gran urbano.",
     ],
     veredicto: "El S10 más equilibrado de la gama, pero sin precio oficial publicado.",
@@ -646,7 +646,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
   "isinwheel-s9": {
     parrafos: [
       "El S9 da 500 W (900 W de pico) por 320 €. Su acumulador de 437 Wh (42 V y 10,4 Ah) declara 40 km. En la práctica rondan los 27 km reales de alcance. Pesa quince kilos y medio: ligero para su empuje. El panal macizo de 10 pulgadas elimina los pinchazos. Quinientos vatios con 900 de pico dan alegría en cuestas. Quince kilos y medio es poco peso para 500 W.",
-      "EABS delante y disco detrás en la frenada, esquema correcto. Tolera 120 kg de carga máxima sin apuros. La recarga completa tarda 5 horas. Urbano de buena relación peso/potencia por poco dinero. Cinco horas de carga es un tiempo razonable.",
+      "EABS delante y disco detrás en la frenada, esquema correcto. soporta 120 kg de carga máxima sin apuros. La recarga completa tarda 5 horas. Urbano de buena relación peso/potencia por poco dinero. Cinco horas de carga es un tiempo razonable.",
       "Aviso de nomenclatura: el S9 de 350 W está descatalogado; el actual es el S9 Max. Sale a 35 km/h de fábrica: a limitar a 25 para la calle. Marca china de servicio corto en España. Potencia barata con deberes. Verificar que es el S9 Max evita confusiones con el descatalogado.",
     ],
     veredicto: "Ligero y con empuje por 320 €; a limitar a 25.",
@@ -694,7 +694,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
   "joyor-a5": {
     parrafos: [
       "El A5 vende practicidad por 499 € sin complejos. Su acumulador extraíble de 468 Wh (36 V y 13 Ah) es la estrella. Se enchufa en casa o en la oficina sin subir el aparato. Declara 35 km de alcance (23 reales). El chasis de magnesio es ligero y resistente. La batería extraíble es su gran argumento práctico. Cuatrocientos sesenta y ocho vatios-hora dan para el día a día.",
-      "Pesa entre 14 y 16 kg: de lo más ligero de su clase. Tolera 120 kg de carga máxima sin apuros. Electrónico delante y de pie detrás: frenada básica pero funcional. Suficiente para su planteamiento urbano. El chasis de magnesio combina ligereza y resistencia. Ciento veinte kilos de carga es una cifra generosa.",
+      "Pesa entre 14 y 16 kg: de lo más ligero de su clase. soporta 120 kg de carga máxima sin apuros. Electrónico delante y de pie detrás: frenada básica pero funcional. Suficiente para su planteamiento urbano. El chasis de magnesio combina ligereza y resistencia. Ciento veinte kilos de carga es una cifra generosa.",
       "Las gomas sólidas olvidan los pinchazos para siempre. A cambio, transmiten cada bache al piloto. Urbano ligero y práctico para amantes de la batería extraíble. Practicidad con firmeza de rodadura. Las gomas sólidas exigen firmes en buen estado. Para commuters que cargan en la oficina es ideal.",
     ],
     veredicto: "Ligero y con batería extraíble muy práctica; ideal para commuters urbanos.",
@@ -726,7 +726,7 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
   "joyor-f5s": {
     parrafos: [
       "El F5S monta 500 W con 624 Wh de acumulador. Declara 27 km de alcance (17 reales) para la ciudad. El disco trasero frena con eficacia probada. Su mantenimiento es fácil y barato. La doble amortiguación dulcifica baches y adoquines. Quinientos vatios con 624 Wh es una combinación equilibrada. Diecisiete kilómetros reales son justos para el día a día. El disco trasero es fácil y barato de mantener.",
-      "Pesa diecisiete kilos con trescientos gramos en la báscula. Tolera 120 kg de carga máxima sin apuros. Gomas de 8 pulgadas y protección al agua en el conjunto. Urbano compacto bien planteado para el día a día. La doble amortiguación mejora el confort urbano. Diecisiete kilos con trescientos gramos es portable.",
+      "Pesa diecisiete kilos con trescientos gramos en la báscula. soporta 120 kg de carga máxima sin apuros. Gomas de 8 pulgadas y protección al agua en el conjunto. Urbano compacto bien planteado para el día a día. La doble amortiguación mejora el confort urbano. Diecisiete kilos con trescientos gramos es portable.",
       "La recarga sigue sin verificarse en la ficha oficial. El DGT tampoco está verificado: atadlo con el vendedor. Sin precio publicado, cuesta situarlo frente a rivales. Compacto con cabos sueltos. Sin precio es difícil compararlo con rivales. Verificar el DGT con el vendedor es imprescindible.",
     ],
     veredicto: "Urbano compacto bien planteado, pero con datos pendientes de verificar.",
@@ -735,14 +735,14 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
     parrafos: [
       "El G3 apuesta por el acumulador gigante sin complejos. Sus 1.056 Wh (48 V y 22 Ah) impresionan en la ficha. Declara hasta 82 km de alcance, unos 57 km reales. El propulsor de 500 W mueve el conjunto con soltura. Rutero nato en formato patinete. Mil cincuenta y seis vatios-hora son una cifra extraordinaria. Ochenta y dos kilómetros declarados son de récord.",
       "Crucero para los tramos largos sin fatiga en el pulgar. Luces ambientales en la plataforma le dan carácter propio. Pesa diecinueve kilos con seiscientos gramos para tanta energía. Tolera 120 kg de carga y frena con E-ABS eléctrico. El E-ABS complementa la frenada con seguridad. Las luces ambientales le dan un toque distintivo.",
-      "Cuarenta y ocho por hora: ni VMP legal en España ni discusión. Rutero de gran alcance donde la norma lo consienta. Alcance gigante con veto en la calzada. Cuarenta y ocho por hora lo dejan fuera de la ley. Como rutero donde sea legal es una gran opción.",
+      "Cuarenta y ocho por hora, sin ser VMP legal en España ni discusión. Rutero de gran alcance donde la norma lo consienta. Alcance gigante con veto en la calzada. Cuarenta y ocho por hora lo dejan fuera de la ley. Como rutero donde sea legal es una gran opción.",
     ],
     veredicto: "Autonomía enorme gracias a su batería gigante, pero ilegal en la vía pública.",
   },
   "joyor-g5": {
     parrafos: [
-      "El G5 da 55 km declarados (36 reales) por 379 €. Su acumulador de 624 Wh (48 V y 13 Ah) rinde bien. El propulsor de 500 W (770 W de pico) sale bien en cuestas urbanas. Tambor trasero y gomas hinchables de 8,5 pulgadas. Conjunto urbano sin complicaciones. Trescientos setenta y nueve euros por 55 km declarados es agresivo. Setecientos setenta vatios de pico dan alegría en cuestas.",
-      "Pesa diecisiete kilos con ochocientos gramos en la báscula. Tolera 120 kg de carga máxima sin apuros. La recarga completa tarda 7 horas de enchufe. Buena relación alcance/precio en papel, con doble suspensión de propina. El tambor trasero es simple y barato de mantener. Diecisiete kilos con ochocientos gramos es portable.",
+      "El G5 da 55 km declarados (36 reales) por 379 €. Su acumulador de 624 Wh con 48 V y 13 Ah) rinde bien. El propulsor de 500 W (770 W de pico) sale bien en cuestas urbanas. Tambor trasero y gomas hinchables de 8,5 pulgadas. Conjunto urbano sin complicaciones. Trescientos setenta y nueve euros por 55 km declarados es agresivo. Setecientos setenta vatios de pico dan alegría en cuestas.",
+      "Pesa diecisiete kilos con ochocientos gramos en la báscula. soporta 120 kg de carga máxima sin apuros. La recarga completa tarda 7 horas de enchufe. Buena relación alcance/precio en papel, con doble suspensión de propina. El tambor trasero es simple y barato de mantener. Diecisiete kilos con ochocientos gramos es portable.",
       "La sentencia la firma el propio fabricante sin paños calientes. Declara que no está aprobado para espacios públicos en España ni Alemania. Comprarlo para la calle aquí es ilegal. Vetado por su propia marca: caso único. El veto del fabricante es un caso casi único.",
     ],
     veredicto: "Buen precio y alcance; vetado por su fabricante.",

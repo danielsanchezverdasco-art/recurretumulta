@@ -85,7 +85,7 @@ El símbolo histórico de Gordini. En el concept deja de ser decoración y pasa 
 
 *Fuentes: <a href=https://prensa.renault.es/?p=64172>Renault España (oficial)</a> y <a href=https://www.carwow.es/renault/noticias/8246/renault-tira-nostalgia-8-gordini-concept-electrico>Carwow</a>.*
 
-¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
+<a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
 },
 {
   "title": "Leapmotor B03: el compacto que reta al R5 en París",
@@ -157,7 +157,7 @@ Precio agresivo, gama eléctrica completa y el respaldo industrial de Stellantis
 
 *Fuentes: <a href=https://www.km77.com/revista/noticias/salon-del-automovil-de-paris-2026-las-novedades-mas-relevantes/>km77</a>, <a href=https://etiqueta0.com/noticias/leapmotor-b03-electrico-392-km-europa-etiqueta-0>etiqueta0</a>.*
 
-¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
+<a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
 },
 {
   "title": "Fiat Grizzly: el SUV familiar que vuelve a lo esencial",
@@ -230,7 +230,7 @@ No de forma directa: abre para Fiat un segmento inédito, el de los C-SUV famili
 
 *Fuentes: <a href=https://elperiodicodelaenergia.com/el-salon-del-automovil-de-paris-concentrara-mas-de-60-estrenos-entre-las-marcas-europeas-y-asiaticas/>elperiodicodelaenergia.com</a>, <a href=https://automedia.mx/salon-de-paris-2026-novedades-y-coches-nuevos/>automedia.mx</a>.*
 
-¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
+<a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
 },
 {
   "title": "Mission Efficiency: 1.278 km con una sola recarga",
@@ -302,7 +302,7 @@ Volkswagen lo presentó en septiembre de 2026, con los tres récords homologados
 
 *Fuentes: <a href=https://volkswagen-mexico.prezly.com/mission-efficiency-volkswagen-presenta-el-auto-electrico-preserie-mas-eficiente-del-mundo>Volkswagen (oficial)</a>, <a href=https://soloauto.net/volkswagen-mission-efficiency-1278-km/>soloauto.net</a>.*
 
-¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
+<a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
 },
 {
   "title": "Desmo450 EDS: la primera enduro de Ducati por 12.990 €",
@@ -375,14 +375,14 @@ Un monocilíndrico de **449,6 cc con distribución desmodrómica** (Desmo450), 4
 Aceite y filtro cada **2.500 km**, holgura de válvulas cada **5.000 km** y servicio principal del motor cada **11.500 km**, según Ducati.
 
 ### ¿Qué garantía tiene?
-**12 meses u 80 horas**, lo que ocurra antes.
+**12 meses u 80 horas**.
 
 ### ¿Es la primera enduro de Ducati?
 Es su **primera moto de enduro moderna**: Ducati no tenía una enduro de serie en las últimas décadas.
 
 *Fuentes: <a href=https://www.ducati.com/mx/es/motocicletas/offroad/desmo450-eds/insights>Ducati (oficial)</a>, <a href=https://moteo.es/ducati-desmo450-eds-primera-moto-de-enduro-de-la-marca/>moteo.es</a>, <a href=https://soymotero.net/noticia/ducati-desmo450-eds-2026-lanzamiento/>soymotero.net</a>.*
 
-¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
+<a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
 },
 {
   "title": "Desmo450 SM: ¿la supermotard definitiva por 13.990 €?",
@@ -462,8 +462,6 @@ Donde cobra sentido es en un karting, un circuito ratonero o una carretera de mo
 
 Fuera de ese hábitat aparecen límites honestos. El depósito de **7,2 litros** recorta cualquier escapada larga, el asiento a **930 mm** castiga en trayectos sostenidos y la autopista se vuelve un trámite ruidoso sin protección aerodinámica. Como segunda moto para tandas encaja; como única moto para todo, exige un propietario muy convencido.
 
-
-
 ## Tenerla en casa: mantenimiento de carreras y carnet A
 
 Conviene repetir lo que ya advierte el análisis: aceite cada **15 horas**, holgura de válvulas y pistón cada **45 horas** y revisión completa del motor cada **90 horas**. Son intervalos de propulsor de competición, que cuenta su vida en horas y no en kilómetros. El módulo opcional Com-Link vigila el desgaste según el uso, pero no abarata esas operaciones: presupuesta mano de obra especializada, recambios y slicks como parte de la compra.
@@ -498,6 +496,6 @@ La **KTM 450 SMR**, la referencia del segmento supermotard.
 
 *Fuentes: <a href=https://soymotero.net/noticia/ducati-desmo450-sm-supermotard-lanzamiento/>soymotero.net</a>, <a href=https://lamoto.com.ar/noticias/ducati-desmo450-sm-2026-la-nueva-supermotard-llegara-a-europa/>lamoto.com.ar</a>.*
 
-¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
+<a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
 },
 ];

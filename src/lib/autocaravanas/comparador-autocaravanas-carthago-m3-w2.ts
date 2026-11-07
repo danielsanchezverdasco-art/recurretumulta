@@ -120,7 +120,7 @@ export const AUTOCARAVANAS_CARTHAGO_M3: Autocaravana[] = [
     analisisSlug: "carthago-chic-c-line-i-59-xl-le-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Fiat Ducato / Mercedes Sprinter: revisión cada 2 años o 48.000 km (según plan del fabricante de la base)",
+        "Base Fiat Ducato / Mercedes Sprinter: 2 años / 48.000 km (según plan del fabricante de la base)",
       revisiones: [
         {
           nombre: "Revisión base (Fiat/Mercedes)",

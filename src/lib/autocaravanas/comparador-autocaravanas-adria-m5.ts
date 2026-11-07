@@ -120,7 +120,7 @@ export const AUTOCARAVANAS_ADRIA_M5: Autocaravana[] = [
     analisisSlug: "adria-supersonic-780-sl-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Mercedes-Benz Sprinter: revisión cada 2 años o 40.000 km (según plan del fabricante de la base)",
+        "Base Mercedes-Benz Sprinter: 2 años / 40.000 km (según plan del fabricante de la base)",
       revisiones: [
         {
           nombre: "Revisión base (Mercedes-Benz)",

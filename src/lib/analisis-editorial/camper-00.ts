@@ -19,7 +19,7 @@ export const ANALISIS_CAMPER_00: MapaAnalisis = {
       "El Twin 600 SPB resuelve en 5,99 metros el dilema clásico del furgón: cama grande y baño de verdad. La distribución SPB monta una cama transversal fija de 196 x 145 cm con un garaje enorme debajo, y el baño con pared giratoria que separa la ducha del inodoro es probablemente el mejor que cabe en este tamaño. La base puede ser Fiat Ducato o Citroën Jumper 2.2 desde 140 CV, con cambio manual o automático de 8 marchas, y la ventana panorámica con diseño cabin-loft llena el interior de luz.",
       "Con 3.500 kg de MMA se conduce con el carnet B, así que la parte legal está clara. Los peros: de serie solo duermen dos (el techo elevable con dos camas más es opcional y caro), la cama transversal queda justa para dos adultos corpulentos, y Adria no publica tarifa en España —hay que pedir oferta al concesionario—. Con etiqueta C, conviene revisar las zonas de bajas emisiones antes de firmar.",
     ],
-    veredicto: "Para la pareja que quiere un baño serio sin subir a los 6,36 m de un van largo; no es para familias que necesiten cuatro camas de serie ni para quien quiera precio cerrado en la web.",
+    veredicto: "Para la pareja que quiere un baño serio sin subir a los 6,36 m de un van largo; no vale para familias que necesiten cuatro camas de serie ni para quien quiera precio cerrado en la web.",
   },
 
   "buerstner-campeo-c-600-2026-precio-ficha-tecnica": {
@@ -57,7 +57,7 @@ export const ANALISIS_CAMPER_00: MapaAnalisis = {
   "dreamer-d55-2026-precio-ficha-tecnica": {
     parrafos: [
       "El D55 llega en un momento especial: en 2026 Dreamer cumple 20 años, con edición limitada de aniversario. Es la marca de acceso del grupo Rapido, y el D55 lo deja claro: en 5,99 m ofrece cama transversal de 192 x 132 cm y ducha separada del WC, calefacción Webasto diésel de 4 kW de serie para no depender del gas, y el Pack FUN+ con colores de carrocería, cuatro tapicerías y segunda batería de célula. El maletero modulable admite skis, tablas de surf o dos bicicletas, y con 3.500 kg de MMA se conduce con el carnet B.",
-      "El precio base es de 69.850 €, pero ojo: es la tarifa de Bélgica, porque Dreamer no publica tarifa oficial española. Los acabados son más sencillos que en un Rapido, de serie solo hay tres plazas de noche (la tercera es la dinette), la cocina es compacta y la red de concesionarios es más pequeña que la de las grandes marcas.",
+      "El precio base es de 69.850 €, pero ojo: es la tarifa de Bélgica, porque Dreamer no publica tarifa oficial española. Los acabados son más sencillos que en un Rapido, de serie solo hay tres plazas de noche (la tercera es la dinette), la cocina es compacta y la red de concesionarios es más reducida que la de las grandes marcas.",
     ],
     veredicto: "Para quien quiera una camper francesa funcional con ducha separada sin pagar la prima de Rapido; no es para quien busque acabados premium ni precio oficial en España.",
   },
@@ -135,7 +135,7 @@ export const ANALISIS_CAMPER_00: MapaAnalisis = {
       "El Grand Canyon S es la camper premium de Hymer sobre Mercedes: Sprinter 417 CDI de 170 CV con cambio automático, tarifa oficial para España desde 102.190 € —precio publicado, sin sorpresas—, y 5,93 m con 3.500 kg de MMA que se conducen con el carnet B. Su carta más seria es la resistencia al invierno probada de serie en cámara fría: calefacción y aislamiento pensados para viajar todo el año. Duermen hasta cuatro con la cama trasera más el techo elevable opcional con cama doble.",
       "El precio la coloca en el segmento premium —casi el doble que una camper generalista de su tamaño—, y con 3.500 kg de MMA la carga útil queda justa si viajan cuatro con equipaje completo. El techo elevable es opcional: sin él solo duermen dos. El mantenimiento Mercedes es más caro que el de las bases Fiat, y los 2,06 m de ancho dejan una cama transversal trasera que no es para los más altos.",
     ],
-    veredicto: "Para quien quiera la camper invernal definitiva sobre Sprinter y pague la prima Mercedes; no es para quien busque la mejor relación precio-espacio.",
+    veredicto: "Para quien quiera la camper invernal definitiva sobre Sprinter y pague la prima Mercedes; no conviene a quien busque la mejor relación precio-espacio.",
   },
 
   "la-strada-regent-s-2026-precio-ficha-tecnica": {

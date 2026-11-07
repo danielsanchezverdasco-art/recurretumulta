@@ -8,7 +8,7 @@ import i from "@/components/shared-navbar.tsx";
 import a from "@/components/shared-footer.tsx";
 import { Link as c } from "react-router-dom";
 import { AVATAR_COSA_HERO as l } from "@/lib/cosa.ts";
-import u from "@/components/caza-monos/MonoEscondido.tsx";
+import u from "@/components/caza-monos/MonoEscondidoLazy.tsx";
 import { fijoId as d } from "@/components/caza-monos/CazaMonosContext.tsx";
 import { DriveInImage as f } from "@/components/motion.tsx";
 import { CosaColgando as p, CosaAvatar as m } from "@/components/Cosa.tsx";

@@ -65,7 +65,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://thebiketlist.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes); servicio Desmo cada 24.000 km",
+      intervalo: "12.000 km o 12 meses; servicio Desmo cada 24.000 km",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -79,7 +79,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
+      fuente: "Intervalos según el manual oficial Ducati; costes sin publicar — consultar red oficial",
     },
   },
   {
@@ -155,7 +155,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
+      fuente: "Intervalos según el manual oficial Ducati; costes sin publicar — consultar red oficial",
     },
   },
   {
@@ -217,7 +217,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/aprilia/rs-457",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -241,7 +241,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 803,
     categoria: "Scrambler",
-    precioDesde: 11190,
+    precioDesde: 11890,
     potenciaKw: 54.4,
     potenciaCv: 74,
     autonomiaKm: null,
@@ -293,7 +293,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/ducati/scrambler-icon",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -307,7 +307,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Ducati; costes no publicados — consultar red oficial",
+      fuente: "Intervalos según el manual oficial Ducati; costes sin publicar — consultar red oficial",
     },
   },
   {
@@ -317,7 +317,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 853,
     categoria: "Trail",
-    precioDesde: 14100,
+    precioDesde: 14050,
     potenciaKw: 58.8,
     potenciaCv: 80,
     autonomiaKm: null,
@@ -369,7 +369,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/trail/moto-guzzi/a-2",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.500 km)",
@@ -445,7 +445,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://millatrece.com/mv-agusta-enduro-veloce-2026/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -521,7 +521,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm/390-smc-r-2025",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "7.500 km o 12 meses (lo que ocurra antes)",
+      intervalo: "7.500 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -597,7 +597,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -673,7 +673,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/ktm",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -749,7 +749,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/husqvarna/svartpilen-801",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -773,7 +773,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 1160,
     categoria: "Trail",
-    precioDesde: 20195,
+    precioDesde: 22845,
     potenciaKw: 110.3,
     potenciaCv: 150,
     autonomiaKm: null,
@@ -825,7 +825,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://motos.coches.net/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -839,7 +839,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
+      fuente: "Intervalos según el manual oficial Triumph; costes sin publicar — consultar red oficial",
     },
   },
   {
@@ -901,7 +901,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/triumph/tiger-sport-800",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -915,7 +915,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
+      fuente: "Intervalos según el manual oficial Triumph; costes sin publicar — consultar red oficial",
     },
   },
   {
@@ -977,7 +977,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/triumph/daytona-660",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -991,7 +991,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
+      fuente: "Intervalos según el manual oficial Triumph; costes sin publicar — consultar red oficial",
     },
   },
   {
@@ -1053,7 +1053,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1129,7 +1129,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/trail/bmw",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1205,7 +1205,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://hondamaquina.com/street/cb-1000-hornet-sp/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1229,7 +1229,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 471,
     categoria: "Scrambler",
-    precioDesde: 6790,
+    precioDesde: 6100,
     potenciaKw: 35,
     potenciaCv: 46,
     autonomiaKm: null,
@@ -1281,7 +1281,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.movento.es/es/motos-nuevas/ficha-imprimir/honda-cl500-gasolina-46-ocasion-en-barcelona/43393186",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1357,7 +1357,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/yamaha",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1433,7 +1433,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://motos.coches.net/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1509,7 +1509,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1585,7 +1585,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/kawasaki-ninja-500-2024/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1661,7 +1661,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.plusmoto.com/suzuki-v-strom-800-vs-yamaha-tracer-7-sport-touring-asequibles-para-rodar-todo.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1737,7 +1737,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/triumph/scrambler-1200-xe",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -1751,7 +1751,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Intervalos según manual oficial Triumph; costes no publicados — consultar red oficial",
+      fuente: "Intervalos según el manual oficial Triumph; costes sin publicar — consultar red oficial",
     },
   },
   {
@@ -1813,7 +1813,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://soymotero.net/motos/royal-enfield/guerrilla-450-2026/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",
@@ -1889,7 +1889,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     fuenteUrl: "https://motos.coches.net/nuevas/royal_enfield/interceptor_650/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (500 km)",

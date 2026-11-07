@@ -108,7 +108,7 @@ export const COCHES_EXP14: CocheComparador[] = [
       "Maletero de 705 litros, el más grande de su categoría",
       "Carga rápida en CC de 50 kW: insólita en un híbrido enchufable",
       "Etiqueta Cero: entra en todas las ZBE sin restricciones",
-      "Consumo homologado de 0,4 l/100 km con la batería cargada",
+      "Consumo homologado de 0,4 l cada 100 km con la batería cargada",
     ],
     contras: [
       "Desde 50.120 €: precio de premium para un VW generalista",
@@ -230,7 +230,7 @@ export const COCHES_EXP14: CocheComparador[] = [
       "131 km de autonomía eléctrica homologada",
       "Carga rápida en CC de 40 kW, rara en un compacto enchufable",
       "El Golf de siempre con etiqueta Cero y espíritu GTI",
-      "Consumo homologado de 0,4 l/100 km y 8 g/km de CO2",
+      "Consumo homologado de 0,4 l cada 100 km y 8 g/km de CO2",
     ],
     contras: [
       "Maletero de solo 273 litros: la batería se lo come",
@@ -300,7 +300,7 @@ export const COCHES_EXP14: CocheComparador[] = [
     ],
     contras: [
       "Desde 55.185 €: el Tiguan más caro de la gama",
-      "Consumo homologado de 1,6 l/100 km: realista solo con carga diaria",
+      "Consumo homologado de 1,6 l cada 100 km: realista solo con carga diaria",
       "1.954 kg: el peso se deja notar",
       "Emisiones de 36 g/km, altas para un enchufable",
       "El acabado R-Line sacrifica algo de confort por estética",
@@ -360,9 +360,9 @@ export const COCHES_EXP14: CocheComparador[] = [
     pros: [
       "578 km de autonomía WLTP por 35.250 €: imbatible en precio por km",
       "286 CV de tracción trasera: 6,6 s de 0-100",
-      "5 estrellas EuroNCAP (2025): 90 % en ocupante adulto",
+      "Euro NCAP 2025 le dio cinco estrellas: el 90 % en ocupante adulto es la nota que más importa en un familiar como este Elroq 85.",
       "Maletero de 470 litros en 4,49 metros",
-      "Carga rápida de 135 kW en corriente continua",
+      "En corriente continua admite hasta 135 kW: el Elroq 85 de 77 kWh recupera autonomía en paradas cortas de viaje.",
     ],
     contras: [
       "Diseño sobrio: no enamora como un Enyaq",
@@ -626,8 +626,8 @@ export const COCHES_EXP14: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
-    imagenOficial: "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-oficial.webp",
-    imagenInteriorOficial: "",
+    imagenOficial: "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-1.webp",
+    imagenInteriorOficial: "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-3.webp",
     videoId: null,
     videoCanal: null,
     marca: "Cupra",
@@ -636,7 +636,7 @@ export const COCHES_EXP14: CocheComparador[] = [
     categoria: "SUV",
     precioDesde: 56010,
     potenciaCv: 272,
-    autonomiaKm: 116,
+    autonomiaKm: 121,
     maleteroL: 400,
     ceroCien: 7.3,
     velocidadMax: 215,
@@ -644,7 +644,7 @@ export const COCHES_EXP14: CocheComparador[] = [
     cargaRapidaKw: 50,
     etiquetaDgt: "Cero",
     pros: ["Al 1.5 TSI de 177 CV se suma un eléctrico de 115 CV: 272 CV conjuntos y 400 Nm para moverlo con la contundencia que se espera de un VZ", "Homologa 116 km en modo eléctrico: varios días de desplazamientos cortos pueden cerrarse sin que arranque el motor de gasolina ni una sola vez", "Euro NCAP lo puntuó en abril de 2025 con la nota máxima y un 89 % protegiendo a los adultos, además de un 87 % con los niños a bordo", "Enchufado a continua admite 50 kW y recupera del 10 al 80 % en 26 minutos según CUPRA; en alterna a 11 kW llena en dos horas y media", "El paquete VZ añade suspensión deportiva, dirección progresiva y el nuevo control de chasis DCC, con frenos Akebono pensados para un uso más exigente que el de un SUV familiar al uso"],
-    contras: ["Partir de 53.010 euros lo convierte en la puerta de entrada más cara a un Terramar, y la lista de opciones empuja la cifra final bastante más arriba", "El maletero se detiene en 400 litros porque bajo el piso viaja la batería: cargar el equipaje de cinco ocupantes en vacaciones exige hacer encaje de bolillos", "Pesa 1.904 kg y esa masa se percibe al enlazar curvas o al frenar fuerte, por mucho que el chasis adaptativo intente disimularla en conducción tranquila", "Su consumo homologado de 0,5 l/100 km exige enchufarlo cada noche; sin carga, el motor térmico sostiene casi dos toneladas en solitario y el gasto real se aleja de la cifra oficial", "Toda la potencia llega al eje delantero: a diferencia del VZ de gasolina, aquí no existe opción de tracción total para repartir los 272 CV entre las cuatro ruedas"],
+    contras: ["Partir de 53.010 euros lo convierte en la puerta de entrada más cara a un Terramar, y la lista de opciones empuja la cifra final bastante más arriba", "El maletero se detiene en 400 litros porque bajo el piso viaja la batería: cargar el equipaje de cinco ocupantes en vacaciones exige hacer encaje de bolillos", "Pesa 1.904 kg y esa masa se percibe al enlazar curvas o al frenar fuerte, por mucho que el chasis adaptativo intente disimularla en conducción tranquila", "Su consumo homologado de 0,5 l cada 100 km exige enchufarlo cada noche; sin carga, el motor térmico sostiene casi dos toneladas en solitario y el gasto real se aleja de la cifra oficial", "Toda la potencia llega al eje delantero: a diferencia del VZ de gasolina, aquí no existe opción de tracción total para repartir los 272 CV entre las cuatro ruedas"],
     largoMm: 4519,
     anchoMm: 1863,
     altoMm: 1584,
@@ -656,22 +656,28 @@ export const COCHES_EXP14: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 10,
     aprox: [],
-    imagen: "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: null,
     galeria: [
       {
-        src: "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Cupra Terramar VZ e-Hybrid 2025 en carretera",
-        ancho: 1920,
-        alto: 1280,
+        "src": "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-2.webp",
+        "alt": "Cupra Terramar, trasera de tres cuartos",
+        "ancho": 1920,
+        "alto": 1080
       },
       {
-        src: "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Cupra Terramar VZ e-Hybrid 2025, vista lateral",
-        ancho: 1920,
-        alto: 1280,
+        "src": "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-3.webp",
+        "alt": "Interior del Cupra Terramar",
+        "ancho": 1920,
+        "alto": 1050
       },
+      {
+        "src": "/media/cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica-4.webp",
+        "alt": "Consola central del Cupra Terramar",
+        "ancho": 1920,
+        "alto": 1286
+      }
     ],
     analisisSlug: "cupra-terramar-vz-ehybrid-2025-precio-ficha-tecnica",
     planMantenimiento: {"intervalo": "CUPRA aplica a sus híbridos una inspección inicial a los dos años o 30.000 km, y después una visita anual o cada 30.000 km. En los híbridos a partir de 2025, el cambio de aceite sigue el ritmo bienal de 30.000 km, frente al intervalo anual o de 15.000 km anterior. La visita del VZ e-Hybrid incluye controlar el sistema de alta tensión y su batería de 19,7 kWh. La marca no publica tarifa en España: manda el presupuesto oficial.", "revisiones": [], "costeAnualAproxEur": null, "fuente": "https://www.seat-cupra-mediacenter.es/CUPRA-Brand/noticias/2024/Ya-es-posible-realizar-pedidos-del-CUPRA-Terramar-el-nuevo-SUV-deportivo-de-la-marca"},
@@ -1022,7 +1028,7 @@ export const COCHES_EXP14: CocheComparador[] = [
       "299 CV y 450 Nm: 6,3 s de 0-100 en la berlina ejecutiva",
       "101 km de autonomía eléctrica WLTP",
       "5 estrellas EuroNCAP (2023) de la Serie 5 G60",
-      "Consumo homologado de 0,6 l/100 km y 13 g/km de CO2",
+      "Consumo homologado de 0,6 l cada 100 km y 13 g/km de CO2",
       "Maletero de 520 litros: igual que el 520d",
     ],
     contras: [
@@ -1075,7 +1081,7 @@ export const COCHES_EXP14: CocheComparador[] = [
     modelo: "CLA 250+ con tecnología EQ",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: 54700,
+    precioDesde: 54710,
     potenciaCv: 272,
     autonomiaKm: 790,
     maleteroL: 405,
@@ -1088,11 +1094,11 @@ export const COCHES_EXP14: CocheComparador[] = [
       "Hasta 792 km de autonomía WLTP: récord entre las berlinas eléctricas",
       "Carga ultrarrápida de 320 kW: del 10 al 80 % en 22 minutos",
       "5 estrellas EuroNCAP (2025): 94 % en ocupante adulto",
-      "Consumo de solo 12,3 kWh/100 km: eficiencia de referencia",
+      "Consumo de solo 12,3 kWh cada 100 km: eficiencia de referencia",
       "272 CV y 335 Nm: 6,7 s de 0-100",
     ],
     contras: [
-      "Precio desde unos 54.700 €: la versión de acceso ya es cara",
+      "Precio desde 54.710 €: la versión de acceso ya es cara",
       "Maletero de 405 litros: justo para una berlina",
       "El frunk de 101 litros no compensa del todo",
       "Mercedes no publica el porcentaje de degradación garantizado",
@@ -1108,7 +1114,7 @@ export const COCHES_EXP14: CocheComparador[] = [
     parNm: 335,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     imagen: "/media/mercedes-cla-250-plus-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: null,
@@ -1141,7 +1147,7 @@ export const COCHES_EXP14: CocheComparador[] = [
     modelo: "GLC 300 e 4MATIC",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 67829,
+    precioDesde: 68114,
     potenciaCv: 313,
     autonomiaKm: 127,
     maleteroL: 470,
@@ -1150,8 +1156,8 @@ export const COCHES_EXP14: CocheComparador[] = [
     bateriaKwh: 31.2,
     cargaRapidaKw: 60,
     etiquetaDgt: "Cero",
-    pros: ["Sus 127 kilómetros homologados sin quemar gasolina permiten encadenar varios desplazamientos diarios por Madrid y alrededores antes de volver a enchufarlo por la noche.", "El acumulador de 31,2 kWh admite corriente continua a 60 kW, una posibilidad rarísima entre SUV enchufables y muy útil durante escapadas largas.", "Cuando ambos motores colaboran entrega 313 CV y firma 6,7 segundos hasta 100 km/h, cifras impropias de un todocamino familiar de diario.", "El distintivo Cero de la DGT llega acompañado de unas emisiones oficiales de solo 12 g/km, ventaja tangible dentro de zonas de bajas emisiones.", "La batería queda cubierta ocho años o 160.000 kilómetros, horizonte amplio para quien compra pensando en conservarlo tras terminar la financiación habitual."],
-    contras: ["La tarifa arranca en 67.829 euros antes de extras, territorio donde también juegan versiones muy equipadas del Audi Q5 y del BMW X3.", "Sobre la báscula declara 2.325 kilos, masa que castiga neumáticos y frenos y resta agilidad cuando la carretera empieza a encadenar curvas.", "Reservar sitio al paquete de baterías deja el maletero en 470 litros, volumen discreto para un vehículo que mide 4.716 milímetros de longitud.", "Mercedes cubre el acumulador durante ocho años, aunque la documentación de esta ficha no fija qué porcentaje mínimo de capacidad debe conservar al vencer.", "El consumo oficial de 0,5 l/100 km depende de salir siempre cargado; en viajes sin paradas de enchufe, el gasolina asume casi todo el esfuerzo."],
+    pros: ["Sus 127 kilómetros homologados sin quemar gasolina permiten encadenar varios desplazamientos diarios por Madrid y alrededores antes de volver a enchufarlo por la noche.", "El acumulador de 31,2 kWh admite corriente continua a 60 kW, una posibilidad rarísima entre SUV enchufables y muy útil durante escapadas largas.", "Cuando ambos motores colaboran entrega 313 CV y firma 6,7 segundos hasta 100 km/h, cifras impropias de un todocamino familiar de diario.", "El distintivo Cero de la DGT llega acompañado de unas emisiones oficiales de solo 12 g/km, ventaja tangible dentro de zonas de bajas emisiones.", "La batería queda cubierta durante ocho años o 160.000 kilómetros, horizonte amplio para quien compra pensando en conservarlo tras terminar la financiación habitual."],
+    contras: ["La tarifa arranca en 67.829 euros antes de extras, territorio donde también juegan versiones muy equipadas del Audi Q5 y del BMW X3.", "Sobre la báscula declara 2.325 kilos, masa que castiga neumáticos y frenos y resta agilidad cuando la carretera empieza a encadenar curvas.", "Reservar sitio al paquete de baterías deja el maletero en 470 litros, volumen discreto para un vehículo que mide 4.716 milímetros de longitud.", "Mercedes cubre el acumulador durante ocho años, aunque la documentación de esta ficha no fija qué porcentaje mínimo de capacidad debe conservar al vencer.", "El consumo oficial de 0,5 l cada 100 km depende de salir siempre cargado; en viajes sin paradas de enchufe, el gasolina asume casi todo el esfuerzo."],
     largoMm: 4716,
     anchoMm: 1890,
     altoMm: 1638,
@@ -1241,6 +1247,31 @@ export const COCHES_EXP14: CocheComparador[] = [
   },
   {
     id: "toyota-urban-cruiser-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: null,
+      nota: "Prueba Euro NCAP del Toyota Urban Cruiser (2025): Euro NCAP aplica al Urban Cruiser los resultados de su gemelo, el Suzuki e Vitara"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Inspección general + filtro de habitáculo + chequeo de la batería de tracción y del sistema de carga",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Inspección general + filtro de habitáculo + líquido de frenos (según plan) + chequeo de la batería de tracción y del sistema de carga",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
+    fuenteNombre: "Toyota Alemania (modelo no comercializado en España)",
+    fuenteUrl: "https://www.toyota.de/entdecke-toyota/news/toyota-urban-cruiser-startet-durch",
     garantiaBateriaAnos: 10,
     garantiaBateriaKm: 1000000,
     garantiaBateriaDegradacionPct: 70,
@@ -1269,7 +1300,7 @@ export const COCHES_EXP14: CocheComparador[] = [
       "Etiqueta Cero con el respaldo de la red Toyota",
     ],
     contras: [
-      "Sin precio oficial en España: no se comercializa aquí de momento",
+      "Sin precio oficial en España, así que no se comercializa aquí de momento",
       "Maletero de solo 310 litros",
       "144 CV y 9,6 s de 0-100: prestaciones justas",
       "Carga rápida de 67 kW: modesta para su batería",
@@ -1307,6 +1338,31 @@ export const COCHES_EXP14: CocheComparador[] = [
   },
   {
     id: "toyota-c-hr-plus-230-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Rating Euro NCAP del Toyota C-HR+ (2025), extendido desde el Toyota bZ4X, el modelo en el que se basa"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Inspección general + filtro de habitáculo + chequeo de la batería de tracción y del sistema de carga",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Inspección general + filtro de habitáculo + líquido de frenos (según plan) + chequeo de la batería de tracción y del sistema de carga",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/toyota-c-hr-plus",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
@@ -1328,18 +1384,18 @@ export const COCHES_EXP14: CocheComparador[] = [
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
     pros: [
-      "607 km de autonomía WLTP: a la altura de los mejores",
-      "Carga rápida de 150 kW: del 10 al 80 % en 28 minutos",
-      "Desde 35.375 €: el eléctrico Toyota más barato con batería grande",
-      "224 CV con la fiabilidad legendaria de Toyota",
-      "Maletero de 416 litros en formato coupé",
+      "El Toyota C-HR+ Advance 224 CV homologa 607 km WLTP, a la altura de los mejores de su segmento.",
+      "Su carga rápida de 150 kW pasa del 10 al 80 por ciento en 28 minutos, según los datos del Toyota C-HR+ Advance 224 CV.",
+      "El Toyota C-HR+ Advance 224 CV parte de 35.375 euros, el eléctrico Toyota más barato con batería grande.",
+      "Los 224 CV del Toyota C-HR+ Advance 224 CV llegan con la fiabilidad legendaria de Toyota como respaldo.",
+      "El maletero de 416 litros del Toyota C-HR+ Advance 224 CV, en formato coupé, es aprovechable para viajar en familia.",
     ],
     contras: [
-      "Sin datos oficiales de 0-100 ni velocidad máxima publicados",
-      "Sin pruebas EuroNCAP publicadas del C-HR+",
-      "La caída del techo limita la habitabilidad trasera",
-      "Toyota no publica el porcentaje de degradación garantizado",
-      "La red de carga rápida Toyota aún es limitada en España",
+      "El Toyota C-HR+ Advance 224 CV no tiene datos oficiales de 0 a 100 ni de velocidad máxima publicados.",
+      "El Toyota C-HR+ Advance 224 CV no tiene pruebas Euro NCAP publicadas, un hueco en su ficha de seguridad.",
+      "La caída del techo del Toyota C-HR+ Advance 224 CV limita la habitabilidad trasera para pasajeros altos.",
+      "Toyota no publica el porcentaje de degradación garantizado del Toyota C-HR+ Advance 224 CV.",
+      "La red de carga rápida Toyota del Toyota C-HR+ Advance 224 CV aún es limitada en España.",
     ],
     largoMm: 4520,
     anchoMm: 1870,
@@ -1373,6 +1429,31 @@ export const COCHES_EXP14: CocheComparador[] = [
   },
   {
     id: "toyota-bz4x-224-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Prueba del Toyota bZ4X actualizado, 2025"
+    },
+    planMantenimiento: {
+      intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+      revisiones: [
+        {
+          nombre: "Revisión intermedia / 15.000 km",
+          queSeCambia: "Inspección general + filtro de habitáculo + chequeo de la batería de tracción y del sistema de carga",
+          costeAproxEur: null
+        },
+        {
+          nombre: "Revisión principal / 30.000 km",
+          queSeCambia: "Inspección general + filtro de habitáculo + líquido de frenos (según plan) + chequeo de la batería de tracción y del sistema de carga",
+          costeAproxEur: null
+        }
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento Toyota España (15.000 km o 12 meses)"
+    },
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/bz4x",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
@@ -1394,18 +1475,18 @@ export const COCHES_EXP14: CocheComparador[] = [
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
     pros: [
-      "569 km de autonomía WLTP: de las mejores de su segmento",
-      "Carga rápida de 150 kW y 22 kW en alterna",
-      "5 estrellas EuroNCAP (2025): 88 % en ocupante adulto",
-      "7,4 s de 0-100 con 224 CV y 269 Nm",
-      "Garantía Toyota de 8 años o 160.000 km para la batería",
+      "El Toyota bZ4X Advance 224 CV homologa 569 km WLTP, de las mejores autonomías de su segmento.",
+      "Su carga rápida de 150 kW y 22 kW en alterna hace práctico al Toyota bZ4X Advance 224 CV en casa y en viaje.",
+      "Las 5 estrellas Euro NCAP de 2025 del Toyota bZ4X Advance 224 CV, con 88 por ciento en ocupante adulto, avalan su seguridad.",
+      "Sus 7,4 segundos de 0 a 100 km/h, con 224 CV y 269 Nm, dan al Toyota bZ4X Advance 224 CV un ritmo suficiente.",
+      "La garantía Toyota de 8 años o 160.000 km para la batería del Toyota bZ4X Advance 224 CV da tranquilidad a largo plazo.",
     ],
     contras: [
-      "Desde 39.375 €: más caro que muchos rivales chinos",
-      "La carga rápida pierde fuelle con frío intenso",
-      "Toyota no publica el porcentaje de degradación garantizado",
-      "Interior sobrio frente a la competencia coreana",
-      "El volante con forma de yugo no es para todos",
+      "El Toyota bZ4X Advance 224 CV parte de 39.375 euros, más caro que muchos rivales chinos de autonomía similar.",
+      "La carga rápida del Toyota bZ4X Advance 224 CV pierde fuelle con frío intenso, como en casi todos los eléctricos.",
+      "Toyota no publica el porcentaje de degradación garantizado del Toyota bZ4X Advance 224 CV, un dato que se echa en falta.",
+      "El interior del Toyota bZ4X Advance 224 CV es sobrio frente a la competencia coreana, sin alardes de diseño.",
+      "El volante con forma de yugo del Toyota bZ4X Advance 224 CV no es para todos los conductores.",
     ],
     largoMm: 4690,
     anchoMm: 1860,
@@ -1439,6 +1520,26 @@ export const COCHES_EXP14: CocheComparador[] = [
   },
   {
     id: "hyundai-ioniq-9-long-range-2025-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: null,
+      nota: "Test del Hyundai IONIQ 9 (2025): 84% adultos, 87% infantil, 77% peatones, 83% asistencias",
+    },
+    planMantenimiento: {
+      intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+      revisiones: [
+        {
+          nombre: "Revisión bienal / 30.000 km",
+          queSeCambia: "Inspección general, filtro de habitáculo y estado de la batería de alto voltaje",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hyundai España (plan oficial para eléctricos)",
+    },
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es",
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
@@ -1468,7 +1569,7 @@ export const COCHES_EXP14: CocheComparador[] = [
     ],
     contras: [
       "Desde 69.900 €: el Hyundai más caro de la historia",
-      "2.549 kg: una mole que se nota en consumos (19,9 kWh/100 km)",
+      "2.549 kg: una mole que se nota en consumos (19,9 kWh cada 100 km)",
       "9,4 s de 0-100: el menos prestacional de esta lista",
       "5,06 metros: complicado en ciudad y parkings",
       "Hyundai no publica el porcentaje de degradación garantizado",
@@ -1525,7 +1626,7 @@ export const COCHES_EXP14: CocheComparador[] = [
     bateriaKwh: 48.4,
     cargaRapidaKw: 101,
     etiquetaDgt: "Cero",
-    pros: ["Es la puerta de entrada al Kona eléctrico: 38.050 € con 380 km WLTP y batería de 48,4 kWh", "Detrás caben 466 litros y bajo el capó delantero quedan otros 27 para los cables, con banqueta abatible en proporción 40:20:40", "Homologa 14,6 kWh/100 km, una cifra baja que en el uso urbano cotidiano aleja las visitas al cargador", "En un poste de corriente continua pasa del 10 al 80 % en 41 minutos, y su función V2L puede alimentar aparatos externos de hasta 3,13 kVA", "Hyundai cubre el coche durante cinco años sin límite de kilómetros, y la batería queda protegida ocho años con tope de 160.000 km"],
+    pros: ["Es la puerta de entrada al Kona eléctrico: 38.050 € con 380 km WLTP y batería de 48,4 kWh", "Detrás caben 466 litros y bajo el capó delantero quedan otros 27 para los cables, con banqueta abatible en proporción 40:20:40", "Homologa 14,6 kWh cada 100 km, una cifra baja que en el uso urbano cotidiano aleja las visitas al cargador", "En un poste de corriente continua pasa del 10 al 80 % en 41 minutos, y su función V2L puede alimentar aparatos externos de hasta 3,13 kVA", "Hyundai cubre el coche durante cinco años sin límite de kilómetros, y la batería queda protegida ocho años con tope de 160.000 km"],
     contras: ["Con 135 CV mueve 1.690 kg y firma 9,9 segundos hasta los 100 km/h: cumple en ciudad, sin que le sobre empuje en incorporaciones con el coche cargado", "Se quedó en cuatro estrellas Euro NCAP en 2023, con solo un 60 % en asistencias a la seguridad: el organismo dijo que rozó las tres estrellas", "La batería grande de 65,4 kWh eleva el alcance homologado hasta 510 km, así que estos 380 km encajan mejor en el trayecto diario que en los viajes largos", "Los asistentes cansan en el uso real: las pruebas del modelo tachan de intrusivo el mantenimiento de carril y de insistente el aviso de atención al conductor", "Toda la gama eléctrica es de tracción delantera, sin opción a las cuatro ruedas motrices, y su velocidad punta se corta a 162 km/h"],
     largoMm: 4355,
     anchoMm: 1825,

@@ -106,7 +106,7 @@ export const AUTOCARAVANAS_MOBILVETTA_M2: Autocaravana[] = [
     analisisSlug: "mobilvetta-kea-p-86-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Motor 2.2 Multijet: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan del fabricante)",
+        "Motor 2.2 Multijet: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión mecánica (2 años / 40.000 km)",

@@ -1168,7 +1168,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.ducati.com/es/es/motocicletas/panigale/panigale-v2",
     analisisSlug: "ducati-panigale-v2-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "15.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 24 meses",
       revisiones: [
         {
           nombre: "Revisión / 15.000 km",
@@ -2565,7 +2565,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.bmw-motorrad.es/es/models/adventure/f800gs.html",
     analisisSlug: "bmw-f-800-gs-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 10.000 km",
@@ -2817,7 +2817,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://hondanews.eu",
     analisisSlug: "honda-cb1000-hornet-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -3296,7 +3296,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki/ninja-650-2024",
     analisisSlug: "kawasaki-ninja-650-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 6.000 km",
@@ -3479,7 +3479,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/is/en/scooters/sport/pdp/xmax-300-2025/",
     analisisSlug: "yamaha-xmax-300-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 10.000 km",
@@ -4604,7 +4604,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://moteo.es/yamaha-mt-125-2024-precio-ficha-tecnica/",
     analisisSlug: "yamaha-mt-125-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 6.000 km",
@@ -5178,7 +5178,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.husqvarna-motorcycles.com/es-es/models/travel/norden-901-2026.html",
     analisisSlug: "husqvarna-norden-901-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "15.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 24 meses",
       revisiones: [
         {
           nombre: "Revisión / 15.000 km",
@@ -6356,7 +6356,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw/s-1000-rr-2023",
     analisisSlug: "bmw-s-1000-rr-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 10.000 km",
@@ -6795,7 +6795,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/piaggio/beverly-400",
     analisisSlug: "piaggio-beverly-400-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -7200,7 +7200,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "GB350S 2025",
     cilindradaCc: 348,
     categoria: "Retro",
-    precioDesde: 4590,
+    precioDesde: 4500,
     potenciaKw: 15.5,
     potenciaCv: 21,
     autonomiaKm: null,
@@ -7244,7 +7244,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/honda/gb350s",
     analisisSlug: "honda-gb350s-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 6.000 km",
@@ -7635,14 +7635,14 @@ export const MOTOS_BASE: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["videoCanal"],
     pros: ["Motor Revolution Max 1250T con 122 CV y 125 Nm de par", "IMU de 6 ejes: ABS y control de tracción en curva", "Pantalla TFT redonda de 4 pulgadas con Bluetooth", "Cuatro modos de conducción: Road, Rain, Sport y Custom", "Horquilla invertida de 43 mm totalmente regulable", "Escape elevado 2-en-1-en-2 de inspiración flat-track"],
-    contras: ["Precio desde 19.200 €", "228 kg en orden de marcha", "Depósito de 11,8 litros: autonomía justa", "El asiento del pasajero y sus estriberas son opcionales", "34° de inclinación máxima: toca pronto en curva"],
+    contras: ["228 kg en orden de marcha", "Depósito de 11,8 litros: autonomía justa", "El asiento del pasajero y sus estriberas son opcionales", "34° de inclinación máxima: toca pronto en curva"],
     curiosidades: ["Su motor deriva del de la Pan America, rebajado de más de 150 a 122 CV", "El motor es parte estructural del chasis: basculante y subchasis van anclados a él", "El escape alto doble rinde homenaje al flat-track americano", "Es la Sportster más potente de la historia de la marca"],
     imagen: "/media/motos/harley-davidson-sportster-s-2024-ficha-tecnica-precio.webp",
     galeria: [],
     videoId: "hvLzpFrDDac",
     videoCanal: "ZigWheels",
     fuenteNombre: "Harley-Davidson España",
-    fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
+    fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/sportster-s.html",
     analisisSlug: null,
   },
   {
@@ -7728,7 +7728,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/honda-cmx1100-rebel-2023/",
     analisisSlug: "honda-rebel-1100-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -7880,7 +7880,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "Niken GT 2025",
     cilindradaCc: 890,
     categoria: "Turismo",
-    precioDesde: 17749,
+    precioDesde: 19599,
     potenciaKw: 85,
     potenciaCv: 115,
     autonomiaKm: 300,
@@ -7903,7 +7903,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Control de tracción, quickshifter y modos de conducción",
     ],
     contras: [
-      "Precio de 17.749 €: casi el doble que una MT-09 con el mismo motor",
+      "Precio de 19.599 €: casi el doble que una MT-09 con el mismo motor",
       "267 kg llena: se nota al maniobrar en parado",
       "Concepto de nicho con mercado de segunda mano muy limitado",
       "Consumo y mantenimiento de moto grande sin la agilidad de una naked",
@@ -7937,8 +7937,8 @@ export const MOTOS_BASE: MotoComparador[] = [
     ],
     videoId: "Jjy8KKvv0V0",
     videoCanal: "Canariasenmoto",
-    fuenteNombre: "canariasenmoto.com",
-    fuenteUrl: "https://www.canariasenmoto.com/noticias/prueba-yamaha-niken-gt-sensaciones-fuera-de-serie-30770.html",
+    fuenteNombre: "Red oficial Yamaha (oct-2026)",
+    fuenteUrl: "https://malagamotocenter.com/motocicletas/carretera/sport-touring/yamaha-niken-gt/",
     analisisSlug: "yamaha-niken-gt-2025-ficha-tecnica-precio",
   },
   {

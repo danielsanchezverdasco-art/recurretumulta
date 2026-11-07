@@ -122,7 +122,7 @@ Para quién es. La Exsis-i 580 Pure encaja con parejas viajeras que quieren una 
     ],
     analisisSlug: "hymer-exsis-i-580-pure-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 48.000 km según plan del fabricante",
+      intervalo: "Base Fiat Ducato: 2 años / 48.000 km según plan del fabricante",
       revisiones: [
         { nombre: "Revisión base (Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Hymer (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 280 },
@@ -262,7 +262,7 @@ límite, y quien busque tracción total deberá mirar a la versión CrossOver en
     ],
     analisisSlug: "hymer-ml-t-570-xperience-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Mercedes Sprinter: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Mercedes Sprinter: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Mercedes Sprinter)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 380 },
         { nombre: "Revisión célula Hymer (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -349,7 +349,7 @@ límite, y quien busque tracción total deberá mirar a la versión CrossOver en
     ],
     analisisSlug: "hymer-tramp-s-585-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Mercedes Sprinter: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Mercedes Sprinter: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Mercedes Sprinter)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 450 },
         { nombre: "Revisión célula Hymer (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 280 },

@@ -268,7 +268,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     pros: [
       "15 CV al límite legal del A1, con motor DOHC de 4 válvulas y refrigeración líquida",
       "Pantalla TFT de 5\\\" con navegación por Google Maps: tecnología de moto grande",
-      "Control de tracción y ABS de doble canal de serie en una 125",
+      "De doble canal, y ABS, Control de tracción de serie en una 125",
       "Horquilla invertida de 37 mm y freno delantero de 292 mm con pinza radial",
       "3.895 € (con promociones de 3.395 €): rompe el mercado de las 125",
     ],
@@ -718,7 +718,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [],
     pros: ["Bicilíndrico de 494 cc pensado solo para Voge, con 47,6 CV justo en el techo del A2 y un par de 44,5 Nm que empuja sin obligarte a ir siempre arriba de vueltas", "Pantalla TFT de 7 pulgadas con brillo automático, Bluetooth para gestionar llamadas y aviso específico si un neumático pierde presión de golpe, algo rarísimo en una neo-retro de este precio", "Rueda delantera de 19 pulgadas con llanta de radios cruzados y neumáticos de dibujo mixto: mantiene el aire scrambler sin renunciar a una pista sencilla cuando se acaba el asfalto", "Depósito de 19 litros heredado de la 500 AC: con esa capacidad no tienes que planificar cada salida larga alrededor de la siguiente gasolinera", "Cinco años de garantía de serie en España, un respaldo poco habitual en una A2 cuyo precio en la ficha figura como aproximado, desde 6.317 euros"],
-    contras: ["198 kg en orden de marcha son muchos para una A2 de estética ligera: en parado y maniobrando muy despacio se notan bastante más que una vez en marcha", "Asiento a 840 mm del suelo: si mides poco, apoyar con seguridad en semáforos con algo de inclinación te va a costar más de la cuenta", "La ficha de esta 2025 no contempla modos de conducción, así que la respuesta del bicilíndrico es fija y no puedes suavizarla desde un menú en días de lluvia", "Su planteamiento es de asfalto con escapadas, no de campo: la rueda de 19 pulgadas ayuda en pistas fáciles, pero no convierte a la 525ACX en una trail para uso exigente fuera de carretera"],
+    contras: ["198 para, son muchos, de marcha, kg en orden una A2 de estética ligera: en parado y maniobrando muy despacio se notan bastante más que una vez en marcha", "Asiento a 840 mm del suelo: si mides poco, apoyar con seguridad en semáforos con algo de inclinación te va a costar más de la cuenta", "La ficha de esta 2025 no contempla modos de conducción, así que la respuesta del bicilíndrico es fija y no puedes suavizarla desde un menú en días de lluvia", "Su planteamiento es de asfalto con escapadas, no de campo: la rueda de 19 pulgadas ayuda en pistas fáciles, pero no convierte a la 525ACX en una trail para uso exigente fuera de carretera"],
     curiosidades: ["Las siglas AC significan Advanced Classic: es la etiqueta que Voge reserva a sus neo-retro que mezclan formas de inspiración clásica con tecnología actual", "Aunque Voge es la marca premium de Loncin, este motor de 494 cc no se cede a otras marcas: según la propia presentación, nació en exclusiva para la plataforma 525"],
     imagen: "/media/motos/voge-525acx-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -740,66 +740,6 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteNombre: "Voge España",
     fuenteUrl: "https://vogespain.es/",
     analisisSlug: "voge-525acx-2025-ficha-tecnica-precio",
-    mantenimientoDIY: null,
-  },
-  {
-    id: "voge-ds525x-2025-ficha-tecnica-precio",
-    marca: "Voge",
-    modelo: "525DSX",
-    version: "525DSX 2025",
-    cilindradaCc: 494,
-    categoria: "Trail",
-    precioDesde: 5392,
-    potenciaKw: 35.3,
-    potenciaCv: 48,
-    autonomiaKm: null,
-    autonomiaCiclo: null,
-    bateriaKwh: null,
-    velocidadMax: null,
-    ceroCincuenta: null,
-    pesoKg: 190,
-    plazas: 2,
-    carnet: "A2",
-    carga: null,
-    etiquetaDgt: "C",
-    aprox: [],
-    pros: [
-      "Equipamiento de trail grande",
-      "TCS y ABS desconectables",
-      "Cámara frontal HD",
-      "Consumo de 3,9 L/100",
-      "Precio de oferta",
-    ],
-    contras: [
-      "190 kg en seco",
-      "Sin quickshifter",
-      "Pantalla LCD en vez de TFT",
-    ],
-    curiosidades: [
-      "Lleva una cámara frontal HD de serie para grabar las rutas.",
-      "El ABS es desconectable en la rueda trasera para el off-road.",
-      "Comparte motor con la 525ACX pero con una puesta a punto más viajera.",
-    ],
-    imagen: "/media/motos/voge-ds525x-2025-ficha-tecnica-precio-1.webp",
-    galeria: [
-      {
-        src: "/media/motos/voge-ds525x-2025-ficha-tecnica-precio-2.webp",
-        alt: "Voge 525DSX 2025, detalle",
-        ancho: 1200,
-        alto: 800,
-      },
-      {
-        src: "/media/motos/voge-ds525x-2025-ficha-tecnica-precio-1.webp",
-        alt: "Voge 525DSX 2025, vista tres cuartos",
-        ancho: 1200,
-        alto: 800,
-      },
-    ],
-    videoId: null,
-    videoCanal: null,
-    fuenteNombre: "Voge España",
-    fuenteUrl: "https://vogespain.es/",
-    analisisSlug: "voge-ds525x-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
   },
   {
@@ -979,13 +919,13 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "368G 2025",
     cilindradaCc: 367.6,
     categoria: "Scooter",
-    precioDesde: 5592,
+    precioDesde: 4888,
     potenciaKw: 28.5,
     potenciaCv: 38.8,
     autonomiaKm: null,
     autonomiaCiclo: null,
     bateriaKwh: null,
-    velocidadMax: null,
+    velocidadMax: 145,
     ceroCincuenta: null,
     pesoKg: 203,
     plazas: 2,
@@ -1035,8 +975,8 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "Zontes España",
-    fuenteUrl: "https://zontesmotos.es/modelo/368g-etc/",
+    fuenteNombre: "motofichas.com (oct-2026; la 2025 baja a 4.888 € hasta agotar existencias)",
+    fuenteUrl: "https://www.motofichas.com/pruebas/7658-prueba-zontes-368g-etc-2026",
     analisisSlug: "zontes-368g-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
   },
@@ -1113,7 +1053,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     autonomiaKm: null,
     autonomiaCiclo: null,
     bateriaKwh: null,
-    velocidadMax: null,
+    velocidadMax: 164,
     ceroCincuenta: null,
     pesoKg: 163,
     plazas: 2,
@@ -1144,7 +1084,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     galeria: [
       {
         src: "/media/zontes-368m-2025-ficha-tecnica-precio-2.webp",
-        alt: "Zontes 368M 2025, vista lateral (foto oficial)",
+        alt: "Zontes 368M 2025, vista lateral",
         ancho: 1200,
         alto: 799,
       },
@@ -1303,7 +1243,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1374,7 +1314,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1449,7 +1389,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     fuenteUrl: "https://www.benelli.com",
     analisisSlug: "benelli-bkx-300-s-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "4.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 4.000 km",
@@ -1468,7 +1408,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1539,7 +1479,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1554,7 +1494,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     version: "TRK 902 Stradale 2025",
     cilindradaCc: 904,
     categoria: "Trail",
-    precioDesde: 8990,
+    precioDesde: 8690,
     potenciaKw: 70,
     potenciaCv: 95.2,
     autonomiaKm: null,
@@ -1574,6 +1514,8 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "TFT de 7\" con navegación",
       "Puños y asiento calefactables",
       "Quickshifter up & down",
+      "Existe una versión limitada a 35 kW al mismo precio, lo que la abre a los conductores con carnet A2 (soymotero.net).",
+      "Depósito metálico de 20 litros: con el consumo declarado de 5 l/100 km, la autonomía teórica llega a los 400 km.",
     ],
     contras: [
       "230 kg en seco",
@@ -1581,11 +1523,15 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "Sin llantas de radios",
       "Precio superior a la 702",
       "Consumo elevado",
+      "La versión Stradale es asfáltica pura: llantas de aleación de 17 pulgadas y neumáticos de carretera, sin una variante campera real (lamoto.com.ar).",
+      "Con el depósito lleno supera los 230 kg, por encima de la media de las crossover de 900 cc (directomotor.com).",
     ],
     curiosidades: [
       "Comparte plataforma con la TRK 902 Xplorer pero orientada a carretera",
       "Su radar ofrece asistencia al cambio de carril, inédita en su precio",
       "El depósito de 21 L da autonomía para grandes viajes",
+      "La ficha la cataloga como modelo 2025, pero en España la prensa la comercializa como modelo 2026: llegó a concesionarios en junio de 2026 (motosan.es).",
+      "Las primeras unidades programadas para julio y agosto de 2026 se agotaron en preventa, según Motosan.",
     ],
     imagen: "/media/motos/benelli-trk-902-stradale-2025-ficha-tecnica-precio-1.webp",
     galeria: [
@@ -1604,13 +1550,13 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     ],
     videoId: null,
     videoCanal: null,
-    fuenteNombre: "Benelli",
-    fuenteUrl: "https://www.benelli.com",
+    fuenteNombre: "SoyMotero (precio en España)",
+    fuenteUrl: "https://soymotero.net/motos/benelli/trk-902-stradale-2026/",
     analisisSlug: "benelli-trk-902-stradale-2025-ficha-tecnica-precio",
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1682,7 +1628,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1753,7 +1699,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1774,7 +1720,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     autonomiaKm: 395,
     autonomiaCiclo: "Calculada: depósito de 17 L a 4,3 l/100 km (cifras de Macbor)",
     bateriaKwh: null,
-    velocidadMax: null,
+    velocidadMax: 145,
     ceroCincuenta: null,
     pesoKg: 185,
     plazas: 2,
@@ -1826,7 +1772,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -1897,7 +1843,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     mantenimientoDIY: {
       cadenaPasos: [
         "Revisa y tensa la cadena cada 1.000 km: holgura de 25-35 mm en el punto medio.",
-        "Cambia el aceite del motor (10W-40) y el filtro cada 6.000 km.",
+        "Cambia el aceite del y el filtro cada 6.000 km, motor (10W-40.",
         "Limpia y engrasa la cadena cada 500 km.",
         "Comprueba pastillas de freno y nivel de líquido DOT 4 cada revisión.",
         "Revisa la presión de los neumáticos cada 2 semanas.",
@@ -2440,7 +2386,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       },
       {
         src: "/media/motos/silence-s04-l6e-2025-ficha-tecnica-precio-1.webp",
-        alt: "Silence S04 circulando por Barcelona (foto oficial de prensa Silence)",
+        alt: "Silence S04 circulando por Barcelona",
         ancho: 1152,
         alto: 768,
       },
@@ -2715,7 +2661,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
       "15 CV, el máximo legal para el A1",
       "Solo 108 kg, la más ligera de su clase",
       "TFT de 5 pulgadas con mirroring y navegación",
-      "Control de tracción y ABS de doble canal",
+      "De doble canal, y ABS, Control de tracción",
       "Hueco para dos cascos integrales",
     ],
     contras: [

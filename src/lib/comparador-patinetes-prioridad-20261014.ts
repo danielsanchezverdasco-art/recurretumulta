@@ -35,7 +35,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de los frenos; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos. Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -71,7 +71,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de tambor delantero + freno motor; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 10\" . Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -107,7 +107,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste del doble tambor + freno motor electrónico; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 10\" . Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -143,7 +143,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de doble disco mecánico + freno regenerativo; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 10\". Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -179,7 +179,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de frenos de disco; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 10\". Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -215,7 +215,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de frenos hidráulicos + abs; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos ."],
     },
   },
@@ -251,7 +251,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de frenos hidráulicos + abs, discos de 160 mm; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 11\" sin cámara."],
     },
   },
@@ -287,7 +287,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de frenos de disco delantero y trasero + abs; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 11\" todoterreno. Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -323,7 +323,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de frenos de disco; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos ."],
     },
   },
@@ -359,7 +359,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de frenos de disco hidráulicos; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 13\". Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -395,7 +395,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de tambor delantero y trasero; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 10\". Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -586,7 +586,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste de doble disco mecánico; ajusta el cable o sustituye las pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo de los neumáticos 10\" todoterreno. Los neumáticos de panal o macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -777,7 +777,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -813,7 +813,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -849,7 +849,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -885,7 +885,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -921,7 +921,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -957,7 +957,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -993,7 +993,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -1029,7 +1029,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },
@@ -1127,7 +1127,7 @@ export const PATINETES_PRIORIDAD_20261014: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Cada 6-12 meses",
       ajusteFrenosPasos: ["Comprueba el tacto y el desgaste; ajusta o sustituye pastillas si la frenada se alarga."],
-      aprieteTornilleria: "Aprieta los tornillos del manillar y del mecanismo de plegado; comprueba que el cierre queda firme.",
+      aprieteTornilleria: "Tornillos de manillar y plegado.",
       trucos: ["Batería: Carga con el cargador original; evita dejar la batería a 0% o al 100% durante semanas; guarda el patinete en sitio seco y fresco.", "Neumáticos: Revisa la presión y el dibujo; los neumáticos macizos no pinchan pero se desgastan igual."],
     },
   },

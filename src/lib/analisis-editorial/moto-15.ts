@@ -421,7 +421,7 @@ export const ANALISIS_MOTO_15: MapaAnalisis = {
   "zontes-125g1-2025-ficha-tecnica-precio": {
     parrafos: [
       "Veinte litros en el tanque de una 125: la G1 de 2025 convierte lo imposible en argumento comercial, con una autonomía anunciada por encima de los 500 kilómetros que humilla a sus rivales. A ello suma 14,7 caballos entre los más altos del A1 y un par de 13 Nm del que la marca presume como récord de la categoría. El encendido sin llave, los programas Eco y Sport y el cuadro LCD completan la dotación, mientras el basculante asimétrico en forma de banana —que deja el escape a la vista por la derecha— le otorga una estética inconfundible por 3.487 euros.",
-      "La báscula marca 160 kilos, el sillín a 830 milímetros excluye a los de talla baja y el monocilíndrico encuentra su techo en la autovía. Habilita el A1 y el B con tres años de antigüedad; porta el distintivo C. La G1 de 2025 es la scrambler pequeña para el joven de espíritu explorador que antepone la autonomía y el carácter a la liviandad: trail estética, depósito de gran turismo y carnet de iniciación.",
+      "La báscula marca 160 kilos, el sillín a 830 milímetros excluye a los de talla baja y el monocilíndrico encuentra su techo en la autovía. Con tres años, y el B, Habilita el A1 de antigüedad; porta el distintivo C. La G1 de 2025 es la scrambler pequeña para el joven de espíritu explorador que antepone la autonomía y el carácter a la liviandad: trail estética, depósito de gran turismo y carnet de iniciación.",
     ],
     veredicto: "Destinada al joven explorador que venera la autonomía sobre todo; inadecuada para los de poca estatura o el uso intensivo en autovía.",
   },
@@ -435,7 +435,7 @@ export const ANALISIS_MOTO_15: MapaAnalisis = {
   "zontes-125m-2025-ficha-tecnica-precio": {
     parrafos: [
       "Frente al rutero 125E, Zontes opone el 125M de 2025 como su baza ciudadana, y su baza es la liviandad: 148 kg en seco lo instalan entre los scooters de 125 más ligeros del segmento, casi 20 menos que su hermano de gran turismo. El propulsor de 14,55 CV responde con solvencia en el trajín diario, y el top case Shad de 39 litros montado de origen —sin suplemento— liquida de un plumazo la compra del accesorio más imprescindible en un urbano. Por 3.787 euros, desplazarse por la ciudad se vuelve un trámite sencillo.",
-      "El tanque de 12 litros sabe a poco junto a los 16 del 125E, la casa no difunde gastos oficiales contrastables y la cobertura de talleres es más estrecha que la de las enseñas niponas. Habilita el A1 y el B con tres años; porta el distintivo C. El 125M es el urbano sin dobleces: liviano, bien surtido y con el baúl solucionado desde fábrica. Para la rutina ciudadana, pocas ecuaciones resultan tan redondas por este desembolso.",
+      "El tanque de 12 litros sabe a poco junto a los 16 del 125E, la casa no difunde gastos oficiales contrastables y la cobertura de talleres es más estrecha que la de las enseñas niponas. Con tres años, y el B, Habilita el A1; porta el distintivo C. El 125M es el urbano sin dobleces: liviano, bien surtido y con el baúl solucionado desde fábrica. Para la rutina ciudadana, pocas ecuaciones resultan tan redondas por este desembolso.",
     ],
     veredicto: "Pensado para la rutina urbana con un 125 liviano y baúl de serie; descartado para la gran ruta o para quien reclame cifras oficiales de gasto.",
   },
@@ -463,7 +463,7 @@ export const ANALISIS_MOTO_15: MapaAnalisis = {
   "zontes-125x-2025-ficha-tecnica-precio": {
     parrafos: [
       "En ingeniería, quitar peso vale más que añadir potencia, y la 125X de 2025 lo demuestra: 15 caballos —el techo del A1— para tan solo 108 kilos, con un bastidor de aluminio de 8,5 kilos que explica su agilidad. La dotación desafía a la lógica comercial: cuadro TFT de 5 pulgadas con duplicado del móvil y navegación, dispositivo start-stop que apaga el motor en los semáforos y dos cúpulas de distinta altura incluidas en los 2.688 euros más matriculación. Ninguna competidora entrega tanto por tan poco.",
-      "El monocilíndrico transmite vibraciones en la zona alta, marca de la casa en la categoría, y la cobertura de talleres no iguala a la nipona. Habilita el A1 y el B con tres años; exhibe el distintivo C. La 125X de 2025 habla al comprador que calcula el cociente entre peso, potencia y precio antes que el logotipo del depósito: la más ligera, la mejor dotada y de las más económicas. Una lección de física aplicada al octavo de litro.",
+      "El monocilíndrico transmite vibraciones en la zona alta, marca de la casa en la categoría, y la cobertura de talleres no iguala a la nipona. Con tres años, y el B, Habilita el A1; exhibe el distintivo C. La 125X de 2025 habla al comprador que calcula el cociente entre peso, potencia y precio antes que el logotipo del depósito: la más ligera, la mejor dotada y de las más económicas. Una lección de física aplicada al octavo de litro.",
     ],
     veredicto: "Concebida para el calculador que venera la ligereza sobre la insignia; poco atractiva para quien exija finura mecánica o servicio omnipresente.",
   },
@@ -477,7 +477,7 @@ export const ANALISIS_MOTO_15: MapaAnalisis = {
   "zontes-125z2-2025-ficha-tecnica-precio": {
     parrafos: [
       "La puerta de entrada a las naked de Zontes se abre con un argumento incontestable: el tanque. La 125Z2 de 2025 carga 17 litros, una desmesura para una desnuda de octavo de litro que establece el récord de su clase. El propulsor entrega 14,7 CV a 9.000 vueltas, apurando casi todo el margen que tolera el A1, y su tarifa de 3.287 euros queda muy lejos de lo que piden las naked niponas de similar planteamiento. Una moto de verdad —con cambio, gran depósito y presencia— sin el tributo japonés.",
-      "El sillín a 830 mm penaliza a quien baje de 1,70 m, los 160 kg en vacío más 17 litros de combustible la vuelven torpona a rebosar y la casa no difunde punta máxima ni gastos oficiales. Habilita el A1 y el B con tres años; luce el distintivo C. La Z2 es la naked del motorista que supedita la liviandad a la autonomía y al precio: la aliada de escapadas con tanque de moto grande y carnet pequeño.",
+      "El sillín a 830 mm penaliza a quien baje de 1,70 m, los 160 kg en vacío más 17 litros de combustible la vuelven torpona a rebosar y la casa no difunde punta máxima ni gastos oficiales. Con tres años, y el B, Habilita el A1; luce el distintivo C. La Z2 es la naked del motorista que supedita la liviandad a la autonomía y al precio: la aliada de escapadas con tanque de moto grande y carnet pequeño.",
     ],
     veredicto: "Dirigida a quien antepone autonomía y precio en una naked 125; poco apta para los de talla baja o los exigentes con las cifras oficiales.",
   },

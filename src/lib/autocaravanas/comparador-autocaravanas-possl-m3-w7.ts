@@ -88,7 +88,7 @@ export const AUTOCARAVANAS_POSSL_M3: Autocaravana[] = [
     ],
     analisisSlug: "possl-summit-540-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Citroën Jumper / Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Citroën Jumper / Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (2.2 diésel)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Pössl (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -173,7 +173,7 @@ export const AUTOCARAVANAS_POSSL_M3: Autocaravana[] = [
     ],
     analisisSlug: "possl-trenta-600-r-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Citroën Jumper 2.2: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Citroën Jumper 2.2: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Citroën Jumper 2.2)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Pössl (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

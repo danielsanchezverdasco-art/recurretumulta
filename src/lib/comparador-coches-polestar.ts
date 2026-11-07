@@ -103,7 +103,7 @@ export const COCHES_POLESTAR: CocheComparador[] = [
     modelo: "3",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 81900, // Rear Motor 333 CV (MY2026, arquitectura 800 V)
+    precioDesde: 69900, // Rear Motor 333 CV (MY2026, arquitectura 800 V)
     potenciaCv: 333,
     autonomiaKm: 604, // Rear Motor (WLTP); el Dual Motor 544 CV llega a 635 km
     maleteroL: 484,
@@ -877,6 +877,6 @@ export const COCHES_POLESTAR: CocheComparador[] = [
       }
     ],
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin ensayo publicado de Euro NCAP para el Polestar 5 a fecha de esta revisión: las pruebas consultadas lo dejan como no evaluado también en ANCAP y señalan que la marca lo desarrolló con objetivo de cinco estrellas, pero eso no es una nota obtenida y no se le asigna ninguna."},
-    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Según el documento Estado y Garantía del Polestar 5, el servicio recomendado por la marca se hace cada 24 meses o 30.000 km, lo que ocurra antes. Incluye la sustitución del filtro de aire del habitáculo y las comprobaciones de estado y funcionamiento del programa de mantenimiento, y el coche avisa del vencimiento con un recordatorio en pantalla. No consta un precio cerrado de ese servicio en la documentación consultada.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.polestar.com/dato-assets/11286/1777368868-26w17-ps5-swb-6-es_es.pdf"},
+    planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Según el documento Estado y Garantía del Polestar 5, el servicio recomendado por la marca se hace cada 24 meses o 30.000 km. Incluye la sustitución del filtro de aire del habitáculo y las comprobaciones de estado y funcionamiento del programa de mantenimiento, y el coche avisa del vencimiento con un recordatorio en pantalla. No consta un precio cerrado de ese servicio en la documentación consultada.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.polestar.com/dato-assets/11286/1777368868-26w17-ps5-swb-6-es_es.pdf"},
   },
 ];

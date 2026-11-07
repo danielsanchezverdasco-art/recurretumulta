@@ -83,7 +83,7 @@ export const ANALISIS_COCHE_13: MapaAnalisis = {
   },
   "land-rover-discovery-p360-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El Discovery P360 ocupa un lugar curioso en la gama Land Rover: siete plazas reales con 360 CV de un seis cilindros de gasolina y etiqueta ECO, en un formato de 4,96 metros más civilizado que el Defender 130. La posición de conducción dominante, la gran visibilidad y el enfoque familiar lo convierten en el aventurero por excelencia para quien necesita espacio sin renunciar a salir del asfalto. El 0 a 100 en 6,5 segundos y los 500 Nm garantizan que nunca se queda corto de respuesta.",
+      "El Discovery P360 ocupa un lugar curioso en la gama Land Rover: siete plazas reales con 360 CV de un seis cilindros de gasolina y etiqueta ECO, en un formato de 4,96 metros más civilizado que el Defender 130. La posición de conducción dominante, la gran visibilidad y el enfoque familiar lo convierten en el aventurero por excelencia para quien necesita espacio sin renunciar a salir del asfalto. El y, en 6,5 segundos, 0 a 100 los 500 Nm garantizan que nunca se queda corto de respuesta.",
       "Su problema es el tiempo: el diseño empieza a acusar los años frente a rivales más modernos, y por su precio hay Range Rover que ofrecen más lujo e imagen. El consumo homologado de 9,7 l/100 km subirá en uso familiar real, y la etiqueta ECO no es Cero. Aun así, como siete plazas honesto con auténtica tracción total y 209 km/h de punta, sigue teniendo pocos rivales directos. Es la compra sensata dentro de una marca poco dada a la sensatez.",
     ],
     veredicto: "Para familias que necesitan siete plazas con capacidad todoterreno real sin llegar al Defender 130; no para quien busque imagen o máxima eficiencia.",
@@ -91,7 +91,7 @@ export const ANALISIS_COCHE_13: MapaAnalisis = {
   "land-rover-discovery-sport-d200-2025-precio-ficha-tecnica": {
     parrafos: [
       "El Discovery Sport D200 es la puerta de acceso al mundo Land Rover con siete plazas: un diésel de 204 CV y 430 Nm con etiqueta ECO y un consumo homologado de 6,6 l/100 km, razonable para un 4x4 de 4,6 metros. Como familiar robusto y práctico tiene su lógica: tracción total, imagen de todoterreno serio y un precio de partida sensiblemente inferior al del Discovery grande. Para familias que necesitan ocasionalmente dos plazas extra sin subir al segmento superior, es la opción más asequible de la marca.",
-      "Los 204 CV van justos para mover casi dos toneladas con agilidad, y el 0 a 100 en 8,6 segundos lo confirma: es un coche tranquilo. Las plazas sexta y séptima son testimoniales, aptas solo para niños en trayectos cortos, y no hay prueba Euro NCAP del modelo actual que respalde su seguridad con datos recientes. Como cinco plazas diésel eficiente con tracción total cumple; como siete plazas de verdad, conviene mirar al Discovery a secas.",
+      "Los 204 CV van justos para mover casi dos toneladas con agilidad, y en 8,6 segundos, a 100, el 0 lo confirma: es un coche tranquilo. Las plazas sexta y séptima son testimoniales, aptas solo para niños en trayectos cortos, y no hay prueba Euro NCAP del modelo actual que respalde su seguridad con datos recientes. Como cinco plazas diésel eficiente con tracción total cumple; como siete plazas de verdad, conviene mirar al Discovery a secas.",
     ],
     veredicto: "Para quien quiere entrar en Land Rover con un diésel eficiente y siete plazas ocasionales; no para familias que usen la tercera fila a diario.",
   },
@@ -167,7 +167,7 @@ export const ANALISIS_COCHE_13: MapaAnalisis = {
   },
   "land-rover-range-rover-velar-d300-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El Velar D300 es el Range Rover de los que valoran la elegancia por encima de la contundencia: un seis cilindros diésel de 300 CV y 650 Nm con etiqueta ECO, en la carrocería más estilizada de la familia. El 0 a 100 en 6,5 segundos y los 210 km/h de punta confirman que no es solo diseño, y el consumo homologado de 7,4 l/100 km es el más contenido de los Range Rover térmicos. El interior minimalista, de gran calidad percibida, refuerza su carácter de objeto de diseño.",
+      "El Velar D300 es el Range Rover de los que valoran la elegancia por encima de la contundencia: un seis cilindros diésel de 300 CV y 650 Nm con etiqueta ECO, en la carrocería más estilizada de la familia. El y, en 6,5 segundos, 0 a 100 los 210 km/h de punta confirman que no es solo diseño, y el consumo homologado de 7,4 l/100 km es el más contenido de los Range Rover térmicos. El interior minimalista, de gran calidad percibida, refuerza su carácter de objeto de diseño.",
       "Le falta, eso sí, una prueba Euro NCAP del Velar actual que avale su seguridad con datos recientes, y el diésel pierde atractivo comercial con cada nueva restricción urbana. El precio es alto para no ser un 'verdadero' Range Rover grande, y sus 4,8 metros ya exigen cierta holgura para aparcar. Es el Range Rover para quien entra por los ojos y hace kilómetros por carretera: el más bonito de conducir a diario, aunque no el más práctico de la familia.",
     ],
     veredicto: "Para quien prioriza el diseño y quiere un diésel refinado para viajar; no para quien busque la máxima practicidad o valor de reventa.",
@@ -293,7 +293,7 @@ export const ANALISIS_COCHE_13: MapaAnalisis = {
   },
   "leapmotor-c16-erev-280-2026-precio-ficha-tecnica": {
     parrafos: [
-      "La versión 280 del C16 EREV lleva el concepto un paso más allá: 38,7 kWh de batería y 280 km de autonomía eléctrica CLTC, récord entre los extensores de autonomía de seis plazas. Es la batería más grande jamás montada en un EREV, y cambia la ecuación: con 280 km eléctricos, la mayoría de los usuarios harían semanas sin encender el generador. Los 231 CV y el 0 a 100 en 8,6 segundos mantienen el tono familiar y tranquilo del modelo.",
+      "La versión 280 del C16 EREV lleva el concepto un paso más allá: 38,7 kWh de batería y 280 km de autonomía eléctrica CLTC, récord entre los extensores de autonomía de seis plazas. Es la batería más grande jamás montada en un EREV, y cambia la ecuación: con 280 km eléctricos, la mayoría de los usuarios harían semanas sin encender el generador. Los 231 CV y en 8,6 segundos, a 100, el 0 mantienen el tono familiar y tranquilo del modelo.",
       "Es una versión 2026 solo para China, con un sobreprecio notable frente al EREV de 28,4 kWh y sin planes de exportación confirmados. La pregunta es si compensa pagar más batería en un coche que ya lleva un generador: para quien cargue a diario, probablemente sí; para quien no, el EREV básico es más lógico. En cualquier caso, el C16 EREV 280 marca el camino de hacia dónde van los extensores: baterías cada vez más grandes que difuminan la frontera con el eléctrico puro.",
     ],
     veredicto: "Para observar hacia dónde evoluciona la autonomía extendida; modelo exclusivo del mercado chino.",
@@ -440,7 +440,7 @@ export const ANALISIS_COCHE_13: MapaAnalisis = {
   },
   "lexus-gx-550": {
     parrafos: [
-      "El Lexus GX 550 es el todoterreno auténtico de la marca: 354 CV, 0 a 100 en 6,5 segundos y siete plazas en 5 metros de 4x4 de verdad, con reductora y chasis de largueros. En un mundo de SUV civilizados, el GX mantiene la esencia del todoterreno clásico con el refinamiento Lexus. Los 292 litros de maletero con las siete plazas en uso y los 169 km/h de máxima confirman su enfoque: campo antes que autopista.",
+      "El Lexus GX 550 es el todoterreno auténtico de la marca: 354 CV, y, en 6,5 segundos, 0 a 100 siete plazas en 5 metros de 4x4 de verdad, con reductora y chasis de largueros. En un mundo de SUV civilizados, el GX mantiene la esencia del todoterreno clásico con el refinamiento Lexus. Los 292 litros de maletero con las siete plazas en uso y los 169 km/h de máxima confirman su enfoque: campo antes que autopista.",
       "En España es un fantasma: no se vende aquí, así que el precio de 62.000 € es del mercado de origen y no tiene etiqueta DGT asignada. El consumo homologado de 13,8 l/100 km anticipa un apetito serio. El GX 550 interesa como referencia de lo que Lexus ofrece fuera de Europa —un Land Cruiser con traje de gala—, pero no es una opción de compra real para el comprador español salvo importación. Una lástima para los amantes del 4x4 puro.",
     ],
     veredicto: "Un todoterreno puro fascinante que no se vende en España; solo viable por importación.",
@@ -532,7 +532,7 @@ export const ANALISIS_COCHE_13: MapaAnalisis = {
   "lexus-rx-350h-2024-precio-ficha-tecnica": {
     parrafos: [
       "El RX 350h es el SUV grande híbrido de Lexus en su versión más sensata: 250 CV con el híbrido de cuarta generación, 6,3 l/100 km para un SUV de 4,89 metros, etiqueta ECO y tracción total de serie. La suavidad de marcha es total, y los 2.095 kg se mueven con una dignidad que pocos SUV de este tamaño ofrecen. Desde 82.650 €, es el acceso a la gama RX con la mecánica más probada de la marca.",
-      "Se dejó de vender en España a finales de 2024: solo queda en ocasión, donde puede ser una compra interesante si el precio acompaña. El maletero de 461 litros es modesto para 4,89 metros, y el 0 a 100 en 7,9 segundos es correcto sin alardes. Como SUV grande, familiar y fiable para viajar con calma, el RX 350h cumple; quien busque emociones o la última tecnología deberá mirar al 500h o al 450h+, también descatalogados o renovados.",
+      "Se dejó de vender en España a finales de 2024: solo queda en ocasión, donde puede ser una compra interesante si el precio acompaña. El maletero de 461 litros es modesto para 4,89 metros, en 7,9, a 100, y el 0 segundos es correcto sin alardes. Como SUV grande, familiar y fiable para viajar con calma, el RX 350h cumple; quien busque emociones o la última tecnología deberá mirar al 500h o al 450h+, también descatalogados o renovados.",
     ],
     veredicto: "Para viajar en familia con suavidad y fiabilidad, en ocasión desde finales de 2024; no como coche nuevo.",
   },
@@ -553,7 +553,7 @@ export const ANALISIS_COCHE_13: MapaAnalisis = {
   "lexus-rz-300e-2024-precio-ficha-tecnica": {
     parrafos: [
       "El RZ 300e es el eléctrico puro de Lexus más asequible: desde 52.900 €, con 204 CV, 429 km de autonomía WLTP, batería de 71,4 kWh y carga rápida de 150 kW en continua. La etiqueta Cero, los 522 litros de maletero y el refinamiento Lexus completan un SUV eléctrico premium de acceso honesto. El 0 a 100 en 8 segundos y los 160 km/h de máxima definen un carácter tranquilo, coherente con la filosofía de la marca.",
-      "Las prestaciones son contenidas y la velocidad máxima limitada a 160 km/h puede frustrar en autopista alemana. Pero el aviso serio viene de km77: el consumo real sube mucho en frío y en autopista, lastrado por los 2.115 kg y los 16,7 kWh/100 km homologados que se disparan en uso exigente. Es el Lexus eléctrico para quien valora el confort y la marca por encima de la eficiencia: un buen coche, pero no el eléctrico más eficiente por 53.000 €.",
+      "Las prestaciones son contenidas y a 160 km/h, la velocidad máxima limitada puede frustrar en autopista alemana. Pero el aviso serio viene de km77: el consumo real sube mucho en frío y en autopista, lastrado por los 2.115 kg y los 16,7 kWh/100 km homologados que se disparan en uso exigente. Es el Lexus eléctrico para quien valora el confort y la marca por encima de la eficiencia: un buen coche, pero no el eléctrico más eficiente por 53.000 €.",
     ],
     veredicto: "Para quien quiere estrenar un Lexus eléctrico con confort y marca; no para quien priorice eficiencia real o prestaciones.",
   },

@@ -24,7 +24,7 @@ export const MOTOR_2026_J_POSTS: BlogPost[] = [
   ],
   content: `<img src=/media/liux-big-salon-paris-2026-hero.jpg alt=Pequeño coche eléctrico español sobre el escenario de un salón del automóvil en París, con focos y público>
 
-La española **Liux** se presenta en el **Salón del Automóvil de París** (12-18 de octubre) con la versión de producción de su **BIG**: un cuadriciclo pesado eléctrico (L7e) con carrocería de **fibra de lino**, precio prometido por **debajo de 18.000 euros** y hasta **270 km de autonomía**. Antes incluso de su puesta de largo, la marca ya acumula unos **7.500 interesados** en su lista de espera.
+La española **Liux** se presenta en el **Salón del Automóvil de París además** (12-18 de octubre) con la versión de producción de su **BIG**: un cuadriciclo pesado eléctrico (L7e) con carrocería de **fibra de lino**, precio prometido por **debajo de 18.000 euros** y hasta **270 km de autonomía**. Antes incluso de su puesta de largo, la marca ya acumula unos **7.500 interesados** en su lista de espera.
 
 ## Datos clave
 
@@ -180,6 +180,8 @@ La marca anuncia más de 80 puntos de venta y 350 talleres asociados en España,
 Compara las tres cara a cara en nuestro <a href=/comparador-motos/?a=velca-eon-2026-ficha-tecnica-precio&b=velca-nude-2026-ficha-tecnica-precio>comparador de motos</a>, con sus fichas detalladas: <a href=/motos/velca-nude-2026-ficha-tecnica-precio/>ficha de la Velca Nude</a>, <a href=/motos/velca-nude-lite-2026-ficha-tecnica-precio/>ficha de la Nude Lite</a> y <a href=/motos/velca-eon-2026-ficha-tecnica-precio/>ficha de la Velca Eon</a>. Y si buscas otra eléctrica con pedigrí, lee el <a href=/blog/honda-wn7-electrica-precio-espana-15000/>análisis de la Honda WN7</a>.
 
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-`,
+
+
+*Fuentes: <a href=http://www.velcamotor.com/velca-nude>Velca Motor, Nude (web oficial)</a>, <a href=http://www.velcamotor.com/eon>Velca Motor, Eon (web oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
 },
 ];

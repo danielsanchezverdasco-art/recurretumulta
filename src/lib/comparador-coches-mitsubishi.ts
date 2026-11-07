@@ -70,7 +70,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
       "costeMensualTotal": 146,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "PHEV 306 CV: uso mixto 50 % eléctrico (20 kWh/100 km a 0,18 €/kWh) + 50 % híbrido (6,5 l/100 km a 1,55 €/l); 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
+      "notas": "PHEV 306 CV: uso mixto 50 % eléctrico (20 kWh/100 km a 0,18 €/kWh) + 50 % híbrido (6,5 l/100 km con 1,55 €/l; 15.000 km al año, con seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
@@ -113,7 +113,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     modelo: "Grandis 180 HEV",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: 29400,
+    precioDesde: 29450,
     potenciaCv: 160,
     autonomiaKm: null,
     maleteroL: 576,
@@ -157,7 +157,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
       "costeMensualTotal": 168,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "HEV 160 CV: consumo estimado 5,2 l/100 km a 1,55 €/l; 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
+      "notas": "HEV 160 CV: consumo estimado 5,2 l/100 km a 1,55 €/l; 15.000 km al año, con seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
@@ -311,7 +311,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
       "costeMensualTotal": 175,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "MHEV 140 CV: 6,0 l/100 km WLTP a 1,55 €/l; 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
+      "notas": "MHEV 140 CV: 6,0 l/100 km WLTP a 1,55 €/l; 15.000 km al año, con seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
@@ -354,7 +354,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     modelo: "Colt 160 HEV",
     tipo: "Híbrido",
     categoria: "Urbano",
-    precioDesde: 25490,
+    precioDesde: 26550,
     potenciaCv: 143,
     autonomiaKm: null,
     maleteroL: 301,
@@ -398,7 +398,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
       "costeMensualTotal": 140,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "HEV 143 CV: 4,3 l/100 km WLTP a 1,55 €/l; 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
+      "notas": "HEV 143 CV: 4,3 l/100 km WLTP a 1,55 €/l; 15.000 km al año, con seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
       "estimado": true
     },
     galeria: [
@@ -644,13 +644,13 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
       },
       {
         "src": "/media/mitsubishi-colt-100t-glp-2025-precio-ficha-tecnica-oficial.webp",
-        "alt": "Mitsubishi Colt rojo en marcha, vista frontal (foto oficial de prensa Mitsubishi)",
+        "alt": "Mitsubishi Colt rojo en marcha, vista frontal",
         "ancho": 1049,
         "alto": 641
       },
       {
         "src": "/media/mitsubishi-colt-100t-glp-2025-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Mitsubishi Colt con pantalla vertical de 9,3 pulgadas (foto oficial de prensa)",
+        "alt": "Interior del Mitsubishi Colt con pantalla vertical de 9,3 pulgadas",
         "ancho": 1024,
         "alto": 614
       }
@@ -810,19 +810,19 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     galeria: [
       {
         "src": "/media/mitsubishi-asx-120t-2026-precio-ficha-tecnica-hero.webp",
-        "alt": "Mitsubishi ASX rojo, tres cuartos delantero en estudio (foto oficial de prensa Mitsubishi)",
+        "alt": "Mitsubishi ASX rojo, tres cuartos delantero en estudio",
         "ancho": 1200,
         "alto": 800
       },
       {
         "src": "/media/mitsubishi-asx-120t-2026-precio-ficha-tecnica-oficial.webp",
-        "alt": "Mitsubishi ASX rojo, vista trasera en estudio (foto oficial de prensa Mitsubishi)",
+        "alt": "Mitsubishi ASX rojo, vista trasera en estudio",
         "ancho": 1200,
         "alto": 800
       },
       {
         "src": "/media/mitsubishi-asx-120t-2026-precio-ficha-tecnica-interior-oficial.webp",
-        "alt": "Interior del Mitsubishi ASX con pantalla vertical de 10,4 pulgadas (foto oficial de prensa)",
+        "alt": "Interior del Mitsubishi ASX con pantalla vertical de 10,4 pulgadas",
         "ancho": 1200,
         "alto": 800
       }
@@ -985,5 +985,96 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     euroncap: {"ano": 2025, "estrellas": 5, "nota": "5 estrellas en la tanda de resultados de diciembre de 2025: 83 % en ocupante adulto, 86 % en infantil, 82 % en usuarios vulnerables y 70 % en asistencias a la seguridad", "url": null},
     fuenteNombre: "Mitsubishi Motors España",
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del Renault Scenic E-Tech (2024), gemelo de plataforma AmpR Medium fabricado en la misma planta de Douai, y su esquema de servicios A/B para eléctricos; Mitsubishi no publica precios de revisión en España para este modelo", "intervalo": "Esquema heredado de su base AmpR Medium: paso anual por el taller para la inspección ligera y servicio completo al segundo año o a los 30.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección anual (servicio A)", "queSeCambia": "Revisión de frenos, neumáticos, luces y niveles, comprobación de la batería de tracción y de su circuito de refrigeración, y sustitución del filtro del habitáculo"}, {"costeAproxEur": null, "nombre": "Servicio mayor (servicio B) a los 2 años o 30.000 km", "queSeCambia": "Mantiene todo lo incluido en la visita anual y suma el cambio del líquido de frenos, cuya renovación cada dos años marca el manual de su gemelo de plataforma, el Renault Scenic E-Tech"}]},
+  },
+  {
+    id: "mitsubishi-colt-2026-precio-ficha-tecnica",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    imagenOficial: "/media/mitsubishi-colt-2026-precio-ficha-tecnica-2.webp",
+    imagenInteriorOficial: "/media/mitsubishi-colt-2026-precio-ficha-tecnica-interior.webp",
+    videoId: null,
+    videoCanal: null,
+    marca: "Mitsubishi",
+    modelo: "Colt 100T",
+    tipo: "Gasolina",
+    categoria: "Urbano",
+    precioDesde: 18938,
+    potenciaCv: 91,
+    autonomiaKm: null,
+    maleteroL: 340,
+    ceroCien: 12.2,
+    velocidadMax: 180,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: "C",
+    pros: [
+      "Desde 18.938 €: el Mitsubishi más barato del mercado español en 2026",
+      "Motor 1.0 turbo de 91 CV con cambio manual: sencillo y probado",
+      "Maletero de 340 l: de los mejores de su segmento",
+      "Garantía oficial de 5 años incluida",
+      "Misma base que el Renault Clio: recambios y mecánica conocidos",
+    ],
+    contras: [
+      "Etiqueta C de la DGT: sin acceso libre a las Zonas de Bajas Emisiones",
+      "91 CV y 0-100 en 12,2 s: justito fuera de ciudad",
+      "Sin prueba Euro NCAP propia del Colt actual",
+      "Interior con plásticos duros en las versiones básicas",
+      "La versión híbrida 160 HEV se va por encima de los 26.500 €",
+    ],
+    largoMm: 4053,
+    anchoMm: 1798,
+    altoMm: 1439,
+    pesoKg: null,
+    consumo: 5.2,
+    consumoUnidad: "l/100 km",
+    plazas: 5,
+    parNm: 160,
+    traccion: "Delantera",
+    emisionesCo2: 118,
+    aprox: [],
+    imagen: "/media/mitsubishi-colt-2026-precio-ficha-tecnica-hero.webp",
+    opiniones: [],
+    costeMensual: {
+      "costeEnergia100km": 8.1,
+      "seguroTercerosAnual": 400,
+      "seguroAmpliadoAnual": 750,
+      "mantenimientoAnual": 350,
+      "costeMensualTotal": 164,
+      "precioKwh": 0.18,
+      "precioGasolinaL": 1.55,
+      "notas": "consumo WLTP combinado 5,2 l/100 km; 15.000 km/año; seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
+      "estimado": true
+    },
+    galeria: [
+      {
+        "src": "/media/mitsubishi-colt-2026-precio-ficha-tecnica-hero.webp",
+        "alt": "Mitsubishi Colt 2026 rojo, tres cuartos delantero en plaza urbana",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/mitsubishi-colt-2026-precio-ficha-tecnica-2.webp",
+        "alt": "Mitsubishi Colt 2026 rojo, vista frontal con ópticas LED",
+        "ancho": 1200,
+        "alto": 800
+      },
+      {
+        "src": "/media/mitsubishi-colt-2026-precio-ficha-tecnica-interior.webp",
+        "alt": "Interior del Mitsubishi Colt 2026 con pantalla vertical",
+        "ancho": 1920,
+        "alto": 1280
+      }
+    ],
+    analisisSlug: "mitsubishi-colt-2026-precio-ficha-tecnica",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: Euro NCAP no ha publicado prueba del Mitsubishi Colt actual (no se heredan las estrellas del Renault Clio)",
+    },
+    fuenteNombre: "coches.net",
+    fuenteUrl: "https://www.coches.net/s/mitsubishi/colt/",
+    planMantenimiento: null,
   },
 ];

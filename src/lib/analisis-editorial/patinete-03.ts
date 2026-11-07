@@ -310,7 +310,7 @@ export const ANALISIS_PATINETE_03: MapaAnalisis = {
   },
   "kaabo-wolf-king-gt-pro": {
     parrafos: [
-      "Pocos aparatos resumen como el Wolf King GT Pro la filosofía Kaabo: 4.000 W nominales —dos grupos motrices de 2.000 W— con puntas de 8.400 W, un paquete de baterías de 2.520 Wh y 180 km de recorrido homologado, unos 120 en empleo real. La marca lo entrega capado a 25 km/h, de modo que circula con homologación VMP en territorio español. La báscula se va a 52 kg, admite 150 kg de peso y rueda sobre gomas de 11 pulgadas, de calle o mixtas. Su tarifa: 3.699 €.",
+      "Pocos aparatos resumen como el Wolf King GT Pro la filosofía Kaabo: 4.000 W nominales —dos grupos motrices de 2.000 W— con picos de 8.400 W, un paquete de baterías de 2.520 Wh y 180 km de recorrido homologado, unos 120 en empleo real. La marca lo entrega capado a 25 km/h, de modo que circula con homologación VMP en territorio español. La báscula se va a 52 kg, admite 150 kg de peso y rueda sobre gomas de 11 pulgadas, de calle o mixtas. Su tarifa: 3.699 €.",
       "Lo que lo hace especial es la violencia de su salida: el 0 a 25 km/h más salvaje entre los VMP con documentación. Y con 120 km de kilometraje efectivo, sirve además para rutas larguísimas sin pasar por el enchufe. Ni el desembolso ni la masa lo hacen popular, pero el aficionado que ansía lo máximo sin líos con la autoridad no tiene alternativa: es el VMP más extremo que admite la ley española.",
       "El dosier técnico añade frenos hidráulicos de 160 mm con ABS y una parte ciclo de moto —horquilla hidráulica delante y doble muelle detrás—. Las contrapartidas: sin sello DGT no hay encaje VMP pleno, 52 kg que nadie sube a pulso, unas 13 horas enchufado para el lleno y 100 km/h si se deslimita, cifra solo para circuito cerrado.",
     ],
@@ -646,7 +646,7 @@ export const ANALISIS_PATINETE_03: MapaAnalisis = {
   },
   "nami-blast-max": {
     parrafos: [
-      "El Blast Max lleva el concepto Blast al extremo: 3.000 W con puntas de 8.400 W, 80 km/h y 100 km homologados (aproximadamente 67 en uso real) con 2.400 Wh. La báscula marca 45 kg y el dosier no publica precio ni carga límite. Es el Blast para quien los 2.000 W del estándar se le quedan cortos: más potencia, más batería, más todo.",
+      "El Blast Max lleva el concepto Blast al extremo: 3.000 W con picos de 8.400 W, 80 km/h y 100 km homologados (aproximadamente 67 en uso real) con 2.400 Wh. La báscula marca 45 kg y el dosier no publica precio ni carga límite. Es el Blast para quien los 2.000 W del estándar se le quedan cortos: más potencia, más batería, más todo.",
       "Con 8.400 W de punta y 67 km reales, es una máquina de circuito serísima con la calidad Nami como aval. Los 45 kg son muchos, pero coherentes con su concepto. La falta de precio publicado obliga a consultar al distribuidor, aunque cabe esperar una cifra premium acorde a la marca. Para el piloto experto de pista particular que quiere lo mejor sin llegar a los Burn-e, el Blast Max es su terreno.",
       "Comunica tracción total de 1.500 W con 8.400 de pico —potencia de Burn-e en chasis Blast—, bloque energético de 2.400 Wh para 100 km declarados, 80 km/h de máxima y 45 kg, algo más ligero que el Burn-e 3. La reverso: precio en Europa sin publicar oficialmente, 45 kg nada portables, al margen de la legalidad VMP a su velocidad máxima en España y un consumo en modo sport que recorta mucho el alcance real.",
     ],
@@ -662,7 +662,7 @@ export const ANALISIS_PATINETE_03: MapaAnalisis = {
   },
   "nami-burn-e-2-max": {
     parrafos: [
-      "El Burn-E 2 Max estira la leyenda con 177 km publicitados de alcance —aunque la estimación realista los deja en unos 80 km— gracias a un acumulador de 2.520 Wh. Mantiene los 3.000 W con puntas de 8.400 W y los 95 km/h, pesa 47 kg, admite 120 kg y calza tubeless de 11 x 3″. Cuesta 3.950 €.",
+      "El Burn-E 2 Max estira la leyenda con 177 km publicitados de alcance —aunque la estimación realista los deja en unos 80 km— gracias a un acumulador de 2.520 Wh. Mantiene los 3.000 W con picos de 8.400 W y los 95 km/h, pesa 47 kg, admite 120 kg y calza tubeless de 11 x 3″. Cuesta 3.950 €.",
       "La discrepancia entre los 177 km homologados y los 80 reales estimados invita a la prudencia: incluso así, 80 km a ritmo deportivo son muchísimos. Por 3.950 € es el Burn-e para el rutero de pista particular que quiere la máxima radio de acción de la saga. Misma receta que el Viper —potencia brutal, calidad legendaria—, con más batería para jornadas maratonianas.",
       "Despliega motorización dual de 1.500 W con 8.400 de pico —aceleración de hyperscooter—, bloque energético de 2.520 Wh entre las mayores autonomías del mercado, amortiguación hidráulica KKE regulable de referencia y frenos Logan hidráulicos de 4 pistones con discos de 160 mm. Pero aviso legal: a 95 km/h y 8.400 W queda fuera de la normativa VMP en ámbito español —solo circuito cerrado—, sin DGT circular en vía pública supone sanción grave, y a 3.950 € el casco integral es obligado más 47 kg imposibles de portar.",
     ],
@@ -678,7 +678,7 @@ export const ANALISIS_PATINETE_03: MapaAnalisis = {
   },
   "nami-burn-e-3-max": {
     parrafos: [
-      "El Burn-e 3 Max es la culminación de Nami: 3.000 W con puntas de 8.400 W, 105 km/h y 135 km declarados —entre 90 y 150 según la fuente— con un acumulador de 2.880 Wh (72V 40Ah). El chasis de aluminio tratado y el basculante de carbono hablan de una calidad de construcción de referencia. La báscula marca 47,5 kg y cuesta 4.449 €, precio de moto de verdad.",
+      "El Burn-e 3 Max es la culminación de Nami: 3.000 W con picos de 8.400 W, 105 km/h y 135 km declarados —entre 90 y 150 según la fuente— con un acumulador de 2.880 Wh (72V 40Ah). El chasis de aluminio tratado y el basculante de carbono hablan de una calidad de construcción de referencia. La báscula marca 47,5 kg y cuesta 4.449 €, precio de moto de verdad.",
       "A 105 km/h y 47,5 kg, es imposible subirlo por escaleras o meterlo en un maletero normal, y desde luego no puede circular por vía pública española. Es el vehículo más extremo de una de las marcas más respetadas, para circuito cerrado y pilotos muy expertos. Por 4.449 € se compra lo mejor que el dinero puede pagar en este formato: aceleración de otro planeta y una autonomía real de unos 90 km.",
       "Sus 8.400 W de pico prometen aceleración de otro planeta, el bloque energético de 2.880 Wh declara 120-150 km, y la calidad de construcción es de referencia con chasis de aluminio tratado y basculante de carbono más suspensión ajustable digna de moto. Los lastres: 4.449 € de precio de moto de verdad, 47,5 kg imposibles de subir por escaleras o meter en un maletero, al margen de la legalidad VMP a esa velocidad en España y recambios de 11 pulgadas caros y poco comunes.",
     ],

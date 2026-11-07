@@ -452,8 +452,8 @@ export const COCHES_JAECOO: CocheComparador[] = [
         "alto": 1280
       }
     ],
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado (21/10/2026)", "url": null},
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Datos CAP del Jaecoo 8 SHS publicados por Carwow Leasey (intervalo de 12 meses / 10.000 millas) y operaciones del mantenimiento programado de OMODA & JAECOO España (omodajaecoo.es); sin precio cerrado de revisión publicado para España", "intervalo": "Cada 12 meses o 16.000 km, lo que ocurra antes (10.000 millas en los datos CAP británicos del Jaecoo 8 SHS)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual / 16.000 km", "queSeCambia": "Cambio de aceite y de filtros, revisión de frenos y comprobación general del vehículo, las operaciones programadas que OMODA & JAECOO España incluye en sus mantenimientos"}]},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP (21/10/2026)", "url": null},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Datos CAP del Jaecoo 8 SHS publicados por Carwow Leasey (intervalo de 12 meses / 10.000 millas) y operaciones del mantenimiento programado de OMODA & JAECOO España (omodajaecoo.es); sin precio cerrado de revisión publicado para España", "intervalo": "Cada 12 meses o 16.000 km (10.000 millas en los datos CAP británicos del Jaecoo 8 SHS)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual / 16.000 km", "queSeCambia": "Cambio de aceite y de filtros, revisión de frenos y comprobación general del vehículo, las operaciones programadas que OMODA & JAECOO España incluye en sus mantenimientos"}]},
   },
   {
     id: "jaecoo-6-ev-2026-precio-ficha-tecnica",
@@ -501,7 +501,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
       "costeMensualTotal": 146,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.58,
-      "notas": "estimación proxy: el Jaecoo 6 EV no se vende en España; recarga doméstica a 0,18 €/kWh y consumo estimado de 18,6 kWh/100 km (65,69 kWh para 354 km WLTP según el distribuidor de Singapur)",
+      "notas": "estimación proxy: el Jaecoo 6 EV no se vende en España; 0,18 €/kWh (doméstica) y consumo estimado de 18,6 kWh/100 km (65,69 kWh para 354 km WLTP según el distribuidor de Singapur)",
       "estimado": true
     },
     galeria: [
@@ -588,7 +588,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
       "costeMensualTotal": 162,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.58,
-      "notas": "estimación proxy: el Jaecoo 6 EV AWD no se vende en España; recarga doméstica a 0,18 €/kWh y consumo declarado de 23,7 kWh/100 km (Asphalt SG)",
+      "notas": "estimación proxy: el Jaecoo 6 EV AWD no se vende en España; 0,18 €/kWh (doméstica) y consumo declarado de 23,7 kWh/100 km (Asphalt SG)",
       "estimado": true
     },
     galeria: [

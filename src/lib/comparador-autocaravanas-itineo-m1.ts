@@ -36,8 +36,8 @@ export const AUTOCARAVANAS_ITINEO_M1: Autocaravana[] = [
     imagenOficial: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial:
       "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial-interior.webp",
-    videoId: null,
-    videoCanal: null,
+    videoId: "Y8kIVGFdhnc",
+    videoCanal: "CamperOnLine",
     largoMm: 5990, // página oficial: 5,99 m
     anchoMm: 2320, // página oficial: 2,32 m
     altoMm: 2880, // página oficial: 2,88 m
@@ -91,25 +91,25 @@ Para quién es: el Itineo PF600 es para quien quiere una perfilada de menos de s
       // Oficiales (web del fabricante, verificadas visualmente): primero el exterior y luego los interiores
       {
         src: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Itineo PF600, vista exterior tres cuartos delantera (foto oficial de la marca)",
+        alt: "Itineo PF600, vista exterior tres cuartos delantera",
         ancho: 1200,
         alto: 877,
       },
       {
         src: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Salón delantero del Itineo PF600 con banqueta cara a la carretera (foto oficial de la marca)",
+        alt: "Salón delantero del Itineo PF600 con banqueta cara a la carretera",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Cama a la francesa trasera del Itineo PF600 (foto oficial de la marca)",
+        alt: "Cama a la francesa trasera del Itineo PF600",
         ancho: 1200,
         alto: 999,
       },
       {
         src: "/media/itineo-pf600-2026-precio-ficha-tecnica-oficial-interior3.webp",
-        alt: "Cocina del Itineo PF600 con dos fuegos y fregadero de acero (foto oficial de la marca)",
+        alt: "Cocina del Itineo PF600 con dos fuegos y fregadero de acero",
         ancho: 1200,
         alto: 1799,
       },
@@ -142,7 +142,7 @@ Para quién es: el Itineo PF600 es para quien quiere una perfilada de menos de s
     analisisSlug: "itineo-pf600-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Peugeot Boxer 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Peugeot)",
+        "Peugeot Boxer 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Peugeot Boxer (2 años / 40.000 km)",

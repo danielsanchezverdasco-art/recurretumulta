@@ -8,7 +8,7 @@ RecurreTuMulta.online es una plataforma española que utiliza inteligencia artif
 
 - **Análisis gratuito de la multa**: el usuario sube la denuncia y la IA detecta posibles vicios de forma y defectos del procedimiento
 - **Recomendación honesta**: si la multa no es recurrible, la herramienta lo dice y recomienda pagar con el 50% de descuento por pronto pago
-- **Recurso de reposición en PDF** (4,99€): si hay base para recurrir, genera el escrito listo para presentar
+- **Plan anual de vigilancia de multas** (7,99 €/año): alertas de multas nuevas, análisis previo de cada multa y recurso preparado con guía paso a paso; no recurrimos en nombre del usuario
 - **Guías por provincia y comunidad autónoma**: 54 provincias y 19 comunidades con normativa local
 - **Comparadores de vehículos**: coches, motos y patinetes eléctricos con fichas técnicas
 

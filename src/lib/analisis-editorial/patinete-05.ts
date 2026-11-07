@@ -237,7 +237,7 @@ export const ANALISIS_PATINETE_05: MapaAnalisis = {
   },
   "smartgyro-raptor-black": {
     parrafos: [
-      "El Raptor Black es el Smartgyro más bestia en formato monomotor: 1.000 W nominales con 1.300 W de pico, batería de 624 Wh (48 V y 13 Ah) con 40-50 km declarados y unos 30 km reales, y doble suspensión con brazos delantero y trasero para tragarse baches. Los frenos de disco con EABS hidráulico prometen pastillas que duran más, y suma intermitentes, app con antirrobo y LEDs en la base. Es un patinete con presencia, pensado para quien quiere potencia y carácter.",
+      "El Raptor Black es el Smartgyro más bestia en formato monomotor: 1.000 W nominales con 1.300 W de pico, batería de 624 Wh a 48 V y 13 Ah con 40-50 km declarados y unos 30 km reales, y doble suspensión con brazos delantero y trasero para tragarse baches. Los frenos de disco con EABS hidráulico prometen pastillas que duran más, y suma intermitentes, app con antirrobo y LEDs en la base. Es un patinete con presencia, pensado para quien quiere potencia y carácter.",
       "Esa ambición tiene costes: 27 kg imposibles de llevar a pulso con comodidad, carga lenta de 6 a 8 horas y, lo más importante, sin precio oficial verificado ni certificado DGT verificado en la ficha consultada. Es un modelo para verificar el certificado DGT antes de comprarlo si se va a circular por vía pública, porque su potencia está pensada para brillar y limitada a 25 km/h pierde parte de su gracia. Potencia y presencia, sí; ligereza y papeles claros, pendientes de confirmar.",
     ],
     veredicto:
@@ -285,7 +285,7 @@ export const ANALISIS_PATINETE_05: MapaAnalisis = {
   },
   "smartgyro-rockway-gl": {
     parrafos: [
-      "El Rockway GL ofrece la mejor relación potencia-precio de la gama de Smartgyro: 600 W nominales con picos de 1.600 W que dan muy buena respuesta en ciudad, y triple sistema de frenado con doble disco más regenerativa para la máxima seguridad. La batería de 624 Wh (48 V y 13 Ah) declara 45 km con unos 30 km reales en uso exigente, y los neumáticos tubeless de 10 pulgadas resisten los pinchazos. El certificado DGT lo convierte en una compra segura y legal.",
+      "El Rockway GL ofrece la mejor relación potencia-precio de la gama de Smartgyro: 600 W nominales con picos de 1.600 W que dan muy buena respuesta en ciudad, y triple sistema de frenado con doble disco más regenerativa para la máxima seguridad. La batería de 624 Wh a 48 V y 13 Ah declara 45 km con unos 30 km reales en uso exigente, y los neumáticos tubeless de 10 pulgadas resisten los pinchazos. El certificado DGT lo convierte en una compra segura y legal.",
       "Su principal pega es el peso: 28,65 kg que lo hacen pesado para transportarlo a mano, con un diseño voluminoso que ocupa bastante plegado. La carga completa lleva 8 horas y obliga a la rutina nocturna, y la carga máxima no está especificada por el fabricante. A 599 € es muy competitivo para sus prestaciones, aunque hay alternativas más ligeras si no se necesita tanta potencia.",
     ],
     veredicto:
@@ -581,7 +581,7 @@ export const ANALISIS_PATINETE_05: MapaAnalisis = {
   },
   "teverun-blade-q": {
     parrafos: [
-      "El Blade Q es la puerta de entrada a Teverun con un planteamiento sencillo: precio contenido, 24 kg manejables para el día a día, batería de 624 Wh (48 V y 13 Ah) suficiente para ciudad y diseño compacto y fácil de plegar. Declara 30 km con unos 20 km reales, y como segundo patinete o para probar la marca sin arruinarse cumple su función.",
+      "El Blade Q es la puerta de entrada a Teverun con un planteamiento sencillo: precio contenido, 24 kg manejables para el día a día, batería de 624 Wh a 48 V y 13 Ah suficiente para ciudad y diseño compacto y fácil de plegar. Declara 30 km con unos 20 km reales, y como segundo patinete o para probar la marca sin arruinarse cumple su función.",
       "Sus límites están claros: la autonomía se queda corta para commuters largos, la potencia del motor no la publica la marca y a 33 km/h no es legal en vía pública española sin limitar. Los acabados están por debajo de sus hermanos mayores y la reventa de la gama baja de Teverun es floja. Para ciudad y trayectos cortos cumple; quien necesite más debería mirar el Blade Q Pro o subir de gama. Con 624 Wh en 24 kg, su batería es generosa para un modelo de acceso, aunque los 30 km anunciados se queden en unos 20 reales.",
     ],
     veredicto:

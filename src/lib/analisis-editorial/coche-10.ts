@@ -16,7 +16,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
     parrafos: [
       "La Free 540 es la camper que se niega a parecer una camper: con 5,41 metros aparca en una plaza normal y se mueve por la ciudad como un turismo grande, algo que quien viene del mundo furgoneta valora más que cualquier gadget. La base es el Fiat Ducato 2.2 Multijet de 140 CV con cambio manual, mecánica probadísima con red de talleres enorme, y la edición Campus añade toldo, pantalla de 10 pulgadas con navegador y cámara trasera. El techo elevable, también de serie y en color de carrocería, esconde una cama doble maxi de 209x143 cm.",
       "El reverso es el precio y el espacio: 79.400 euros de tarifa en Alemania la colocan entre las campers más caras de su tamaño, la nevera de compresor es de solo 70 litros y la cama trasera de 196x132-122 cm se queda estrecha para dos adultos corpulentos. Además, la gama Free desaparece en 2026: solo quedan stock y ocasión, oportunidad de descuento o riesgo de reventa según se mire.",
-      "Con 2.944 kg en orden de marcha y MMA de 3.500 kg, se conduce con el carnet B, algo que no todas las campers resuelven tan limpio.",
+      "Con 2.944 kg en orden de marcha y MMA de 3.500 kg, puede llevarse con el permiso B, algo que no todas las campers resuelven tan limpio.",
     ],
     veredicto: "Para quien quiere una camper compacta y premium y la encuentra en stock con buen descuento; no es la opción si viajan cuatro adultos a menudo.",
   },
@@ -46,7 +46,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyptec-a800-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El A800 juega una carta que en Europa apenas existe: es una berlina con extensor de autonomía, un eléctrico de 340 CV con batería de 35,03 kWh para el día a día y motor de gasolina que solo genera electricidad para los viajes largos. Con 178 kilómetros de autonomía eléctrica homologada, la mayoría de los desplazamientos semanales se hacen en modo cero emisiones, y el consumo de 5,74 l/100 km entra en juego únicamente cuando el generador trabaja. La etiqueta Cero redondea una propuesta pensada para quien quiere conducir eléctrico sin planificar la vida alrededor de los cargadores.",
+      "El A800 juega una carta que en Europa apenas existe: es una berlina con extensor de autonomía, un eléctrico de 340 CV con batería de 35,03 kWh para el día a día y motor de gasolina que solo genera electricidad para los viajes largos. Con 178 kilómetros de autonomía eléctrica homologada, la mayoría de los desplazamientos semanales se hacen en modo cero emisiones, y el consumo de 5,74 l cada 100 km entra en juego únicamente cuando el generador trabaja. La etiqueta Cero redondea una propuesta pensada para quien quiere conducir eléctrico sin planificar la vida alrededor de los cargadores.",
       "El precio orientativo de 23.000 euros es lo que más llama la atención: una berlina de 340 CV de tracción trasera por lo que aquí cuesta un utilitario bien equipado. La contrapartida es la de siempre con las marcas chinas recién llegadas: red comercial por construir, valor de reventa incierto y la duda de cómo envejecerá un sistema EREV con dos trenes de potencia que mantener.",
       "Como concepto, el EREV es la respuesta pragmática a la ansiedad de autonomía: el 90% eléctrico sin renunciar al viaje improvisado de 800 kilómetros.",
     ],
@@ -54,7 +54,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyptec-gt-2024-precio-ficha-tecnica": {
     parrafos: [
-      "El GT es la demostración de fuerza de Hyptec, la marca premium eléctrica de GAC: una berlina de 340 CV y tracción trasera con 710 kilómetros de autonomía homologada gracias a sus 83,3 kWh, que acelera de 0 a 100 en 4,9 segundos y gasta 12,7 kWh/100 km. Son cifras de berlina premium alemana, pero la ficha lo sitúa en 28.587 euros, un precio que en Europa hoy solo alcanza para compactos eléctricos de acceso. El maletero de 450 litros y los 430 Nm de par completan un conjunto muy redondo sobre el papel.",
+      "El GT es la demostración de fuerza de Hyptec, la marca premium eléctrica de GAC: una berlina de 340 CV y tracción trasera con 710 kilómetros de autonomía homologada gracias a sus 83,3 kWh, que acelera de 0 a 100 en 4,9 segundos y gasta 12,7 kWh cada 100 km. Son cifras de berlina premium alemana, pero la ficha lo sitúa en 28.587 euros, un precio que en Europa hoy solo alcanza para compactos eléctricos de acceso. El maletero de 450 litros y los 430 Nm de par completan un conjunto muy redondo sobre el papel.",
       "La pregunta inevitable es qué se esconde detrás de ese precio: la marca aún no tiene presencia consolidada en Europa, y la experiencia con otras firmas chinas dice que los primeros años son los de construir red, recambios y confianza. También conviene leer la autonomía con prudencia hasta ver cifras en ciclo europeo con equipamiento de aquí.",
       "Aun así, el GT marca el listón de lo que la industria china puede ofrecer en 2026: prestaciones y autonomía de gama alta a precio de generalista, y eso ya es una noticia en sí misma.",
     ],
@@ -62,7 +62,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyptec-hl-erev-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El HL traslada la fórmula del extensor de autonomía al formato que más se vende: un SUV familiar con 340 CV, batería de 60,33 kWh para unos 350 kilómetros en modo eléctrico y un consumo de 6,7 l/100 km cuando entra el generador de gasolina. El 0 a 100 en 7,5 segundos y los 430 Nm lo mueven con soltura pese al tamaño, y la etiqueta Cero le abre las zonas de bajas emisiones sin restricciones. Por 35.074 euros orientativos, se coloca donde en Europa militan los SUV híbridos enchufables generalistas, pero con mucha más autonomía eléctrica real.",
+      "El HL traslada la fórmula del extensor de autonomía al formato que más se vende: un SUV familiar con 340 CV, batería de 60,33 kWh para unos 350 kilómetros en modo eléctrico y un consumo de 6,7 l cada 100 km cuando entra el generador de gasolina. El 0-100 en 7,5 segundos y los 430 Nm lo mueven con soltura pese al tamaño, y la etiqueta Cero le abre las zonas de bajas emisiones sin restricciones. Por 35.074 euros orientativos, se coloca donde en Europa militan los SUV híbridos enchufables generalistas, pero con mucha más autonomía eléctrica real.",
       "El EREV tiene su lógica aplastante para la familia que hace diario urbano y escapadas de fin de semana: entre semana es un eléctrico silencioso que se carga en casa, y el depósito elimina cualquier planificación de ruta. El peaje es la complejidad mecánica —dos sistemas que mantener— y una marca, Hyptec, que en España parte de cero en notoriedad y posventa.",
       "Frente a un PHEV europeo equivalente, el HL ofrece más del doble de autonomía eléctrica por un precio similar: esa es su baza comercial entera.",
     ],
@@ -94,8 +94,8 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-bayon-10-tgdi-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El Bayon es el SUV urbano de Hyundai que entiende su misión sin complejos: 100 CV del 1.0 TGDi con hibridación ligera de 48V, etiqueta ECO, 5,2 l/100 km y un maletero de 411 litros que para su tamaño está muy bien resuelto. Con 26.005 euros de partida se coloca en el punto exacto donde el comprador duda entre un utilitario alto de gama y un SUV pequeño, y su baza es ofrecer la postura elevada y la practicidad sin el sobreprecio habitual del formato SUV.",
-      "El 0 a 100 en 11,3 segundos deja claro que no es un coche para impacientes, pero sus 172 Nm lo mueven con dignidad en ciudad, que es su hábitat. Frente a rivales como el Stonic o el Kamiq, el Bayon juega la carta del equipamiento coreano y la garantía de 5 años, dos argumentos que en este segmento pesan más que medio segundo en aceleración.",
+      "El Bayon es el SUV urbano de Hyundai que entiende su misión sin complejos: 100 CV del 1.0 TGDi con hibridación ligera de 48V, etiqueta ECO, 5,2 l cada 100 km y un maletero de 411 litros que para su tamaño está muy bien resuelto. Con 26.005 euros de partida se coloca en el punto exacto donde el comprador duda entre un utilitario alto de gama y un SUV pequeño, y su baza es ofrecer la postura elevada y la practicidad sin el sobreprecio habitual del formato SUV.",
+      "El 0-100 en 11,3 segundos deja claro que no es un coche para impacientes, pero sus 172 Nm lo mueven con dignidad en ciudad, que es su hábitat. Frente a rivales como el Stonic o el Kamiq, el Bayon juega la carta del equipamiento coreano y la garantía de 5 años, dos argumentos que en este segmento pesan más que medio segundo en aceleración.",
       "Es el Hyundai para quien quiere un SUV por la imagen y la practicidad, pero con consumos y precio de utilitario: una fórmula que en España funciona muy bien.",
     ],
     veredicto: "Para conductores urbanos que quieren postura SUV sin pagar de más; no es coche para devorar kilómetros de autovía con prisa.",
@@ -103,14 +103,14 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   "hyundai-bayon-10-tgdi-2026-precio-ficha-tecnica": {
     parrafos: [
       "La gama 2026 del Bayon mantiene la receta que le funciona: el 1.0 TGDi de 100 CV con hibridación ligera, 411 litros de maletero y un precio de partida de 26.005 euros que lo mantiene como una de las puertas de entrada más razonables al SUV con etiqueta ECO. Es el coche que Hyundai vende a quien entra al concesionario pensando en un i20 y sale dudando: por poco más, se lleva la postura elevada, mejor visibilidad y un maletero más aprovechable.",
-      "La hibridación ligera aquí no es marketing: el sistema de 48V suaviza el arranque y las recuperaciones, y ayuda a mantener esos 5,2 l/100 km en uso real urbano, donde este coche pasa su vida. Los 172 Nm del tricilíndrico turbo son suficientes para moverse con soltura entre semáforos, aunque en carretera cargado conviene no tener prisa.",
+      "La hibridación ligera aquí no es marketing: el sistema de 48V suaviza el arranque y las recuperaciones, y ayuda a mantener esos 5,2 l cada 100 km en uso real urbano, donde este coche pasa su vida. Los 172 Nm del tricilíndrico turbo son suficientes para moverse con soltura entre semáforos, aunque en carretera cargado conviene no tener prisa.",
       "Frente a la competencia china que aprieta por abajo, el Bayon defiende su terreno con algo que los recién llegados aún no tienen: red de talleres en cada ciudad y un valor de reventa predecible.",
     ],
     veredicto: "Para el comprador racional que quiere un SUV urbano con costes bajo control; si buscas emociones, este no es tu segmento.",
   },
   "hyundai-bayon-2024-precio-ficha-tecnica": {
     parrafos: [
-      "La versión 2024 del Bayon con el 1.0 T-GDi de 48V es, en la práctica, el mismo coche honesto de siempre: 100 CV, etiqueta ECO, 5,2 l/100 km y 411 litros de maletero por 26.005 euros. En el mercado de ocasión y en las unidades en stock es donde esta versión cobra sentido hoy: un SUV urbano con hibridación ligera y garantía coreana a precio de utilitario, sin las incertidumbres de las marcas recién llegadas.",
+      "La versión 2024 del Bayon con el 1.0 T-GDi de 48V es, en la práctica, el mismo coche honesto de siempre: 100 CV, etiqueta ECO, 5,2 l cada 100 km y 411 litros de maletero por 26.005 euros. En el mercado de ocasión y en las unidades en stock es donde esta versión cobra sentido hoy: un SUV urbano con hibridación ligera y garantía coreana a precio de utilitario, sin las incertidumbres de las marcas recién llegadas.",
       "Sus números son modestos pero coherentes: 11,3 segundos de 0 a 100 y 172 Nm dibujan un coche de ciudad y extrarradio, no un viajero. La etiqueta ECO, en cambio, es un activo que se revaloriza cada año en las ciudades con zonas de bajas emisiones, y aquí el Bayon saca ventaja a muchos rivales de gasolina pura de su época.",
       "Comprarlo hoy tiene sentido si el descuento frente a la gama 2026 es real: mecánicamente es el mismo coche, y el ahorro compensa de sobra la diferencia de año de matriculación.",
     ],
@@ -119,14 +119,14 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   "hyundai-elantra-n-2024": {
     parrafos: [
       "El Elantra N es el tapado de la familia N: mientras todos miran al i30 N, esta berlina esconde el mismo 2.0 turbo de 280 CV y 392 Nm con un 0 a 100 en 5,3 segundos, pero con un maletero de 402 litros y una discreción que el hatchback no tiene. Es el N para quien ya no quiere llamar la atención en cada rotonda pero se niega a renunciar a uno de los chasis de tracción delantera más divertidos del mercado.",
-      "El consumo de 8,0 l/100 km es el peaje honesto de la diversión, y la etiqueta ausente en la ficha anticipa restricciones futuras en las ZBE, el talón de Aquiles de todos los deportivos de gasolina pura. Pero a cambio ofrece algo que se está extinguiendo: un deportivo manual, asequible y utilizable a diario, con cuatro puertas de verdad.",
+      "El consumo de 8,0 l cada 100 km es el peaje honesto de la diversión, y la etiqueta ausente en la ficha anticipa restricciones futuras en las ZBE, el talón de Aquiles de todos los deportivos de gasolina pura. Pero a cambio ofrece algo que se está extinguiendo: un deportivo manual, asequible y utilizable a diario, con cuatro puertas de verdad.",
       "En un mercado donde los deportivos compactos desaparecen uno tras otro, el Elantra N es de los últimos mohicanos: berlina familiar entre semana, máquina de sonrisas el fin de semana.",
     ],
     veredicto: "Para el entusiasta discreto que quiere un N sin alerones; no es coche para quien mira el consumo o necesita etiqueta.",
   },
   "hyundai-i10-2026": {
     parrafos: [
-      "El i10 1.0 MPI de 63 CV es el urbano honesto por definición: 17.800 euros, 5,0 l/100 km, 252 litros de maletero y unas dimensiones que aparcan donde otros ni lo intentan. Sus 15,6 segundos de 0 a 100 son la cifra más lenta de esta lista, y sin embargo es probablemente el Hyundai más sensato para quien hace el 95% de sus kilómetros entre casa, trabajo y compra: gasta poco, cuesta poco y cabe en todas partes.",
+      "El i10 1.0 MPI de 63 CV es el urbano honesto por definición: 17.800 euros, 5,0 l cada 100 km, 252 litros de maletero y unas dimensiones que aparcan donde otros ni lo intentan. Sus 15,6 segundos de 0 a 100 son la cifra más lenta de esta lista, y sin embargo es probablemente el Hyundai más sensato para quien hace el 95% de sus kilómetros entre casa, trabajo y compra: gasta poco, cuesta poco y cabe en todas partes.",
       "La etiqueta C lo deja fuera de las ZBE más estrictas en episodios de alta contaminación, su única pega estructural en 2026. A cambio, la mecánica atmosférica de 63 CV es de una sencillez que hoy parece de otro planeta: sin turbo, sin hibridación, sin complicaciones, con 95 Nm que en ciudad son suficientes.",
       "Es el coche que se recomienda al hijo que se independiza, al abuelo que cambia su viejo utilitario y a quien necesita un segundo coche sin dramas: el i10 no enamora, resuelve.",
     ],
@@ -134,7 +134,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-i10-2026-precio-ficha-tecnica": {
     parrafos: [
-      "Esta ficha del i10 2026 afina el precio hasta los 16.745 euros, convirtiéndolo en uno de los coches nuevos más baratos de España con 5,0 l/100 km de consumo y 252 litros de maletero. El 1.0 MPI de 63 CV con 93 Nm no va a ganar ninguna prueba de aceleración —15,6 segundos lo dejan claro—, pero en el uso urbano para el que está pensado, la ligereza del conjunto hace que esos 63 caballos cundan más de lo que sugiere la cifra.",
+      "Esta ficha del i10 2026 afina el precio hasta los 16.745 euros, convirtiéndolo en uno de los coches nuevos más baratos de España con 5,0 l cada 100 km de consumo y 252 litros de maletero. El 1.0 MPI de 63 CV con 93 Nm no va a ganar ninguna prueba de aceleración —15,6 segundos lo dejan claro—, pero en el uso urbano para el que está pensado, la ligereza del conjunto hace que esos 63 caballos cundan más de lo que sugiere la cifra.",
       "La jugada del i10 es aritmética pura: cuesta menos que casi cualquier alternativa, gasta 5 litros y su mantenimiento es de los más baratos del mercado. La etiqueta C es el único asterisco en un país donde las zonas de bajas emisiones se extienden, aunque para un coche de este precio y este uso, la mayoría de sus rivales directos comparten la misma etiqueta.",
       "Frente a la avalancha de eléctricos urbanos que duplican su precio, el i10 defiende una verdad incómoda: para moverse por la ciudad, el coche más barato sigue siendo imbatible en coste total.",
     ],
@@ -142,7 +142,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-i10-n-line-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El i10 N Line es la prueba de que la deportividad también cabe en 3,67 metros: el 1.0 T-GDi de 90 CV y 172 Nm recorta el 0 a 100 hasta 11,4 segundos y transforma el urbano más modesto de Hyundai en un juguete con estética N. Por 23.290 euros ofrece lo que ningún rival directo da a este precio: un utilitario con turbo, carácter y una puesta a punto con algo de chispa, manteniendo los 252 litros de maletero y unos contenidos 5,4 l/100 km.",
+      "El i10 N Line es la prueba de que la deportividad también cabe en 3,67 metros: el 1.0 T-GDi de 90 CV y 172 Nm recorta el 0 a 100 hasta 11,4 segundos y transforma el urbano más modesto de Hyundai en un juguete con estética N. Por 23.290 euros ofrece lo que ningún rival directo da a este precio: un utilitario con turbo, carácter y una puesta a punto con algo de chispa, manteniendo los 252 litros de maletero y unos contenidos 5,4 l cada 100 km.",
       "La paradoja es deliciosa: cuesta casi lo mismo que un i20 básico, así que su comprador no busca racionalidad, busca el urbano más divertido del mercado. Y lo encuentra: 90 CV en un coche de este peso dan para sonreír en cada incorporación, con un consumo que sigue siendo de utilitario.",
       "Es el capricho sensato dentro de los caprichos: estética deportiva y turbo sin que el seguro ni el consumo se disparen.",
     ],
@@ -158,7 +158,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-i20-baja-precio-octubre-2026": {
     parrafos: [
-      "Esta ficha recoge la noticia comercial del otoño: el i20 baja de precio en octubre de 2026 hasta los 21.520 euros en su versión de gasolina de 79 CV. Con 352 litros de maletero, 5,3 l/100 km y un 0 a 100 en 13,7 segundos, es el utilitario básico de manual: sin hibridación, con etiqueta C y 113 Nm que lo confinan amablemente a la ciudad y el extrarradio.",
+      "Esta ficha recoge la noticia comercial del otoño: el i20 baja de precio en octubre de 2026 hasta los 21.520 euros en su versión de gasolina de 79 CV. Con 352 litros de maletero, 5,3 l cada 100 km y un 0 a 100 en 13,7 segundos, es el utilitario básico de manual: sin hibridación, con etiqueta C y 113 Nm que lo confinan amablemente a la ciudad y el extrarradio.",
       "La jugada es transparente: Hyundai ataca por precio en un momento en que los utilitarios se han encarecido hasta rozar los 25.000 euros. A 21.520 euros, el i20 se convierte en uno de los coches nuevos con mejor relación tamaño/precio, ideal como primer coche o segundo coche familiar donde la etiqueta ECO no es prioritaria.",
       "El aviso honesto: es un coche para quien acepta sus límites. En autovía cargado, los 79 CV se notan; en ciudad, es todo lo que se necesita y gasta poco.",
     ],
@@ -167,22 +167,22 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   "hyundai-i20-n-2024": {
     parrafos: [
       "El i20 N es el matagigantes de Hyundai: 204 CV y 275 Nm en un utilitario que acelera de 0 a 100 en 6,7 segundos, por unos 30.000 euros. Es el deportivo pequeño en su estado más puro —tracción delantera y chasis afilado— y probablemente el último de su especie con motor de gasolina puro antes de que la electrificación se lo lleve por delante. El maletero de 352 litros recuerda que, entre semana, sigue siendo un i20 utilizable.",
-      "El consumo de 6,9 l/100 km es contenido para lo que anda, y la etiqueta C es el precio a pagar por la diversión en la era de las ZBE. Frente al Fiesta ST, ya desaparecido, el i20 N se quedó sin rival directo: es el único utilitario deportivo asequible que queda en el mercado europeo.",
+      "El consumo de 6,9 l cada 100 km es contenido para lo que anda, y la etiqueta C es el precio a pagar por la diversión en la era de las ZBE. Frente al Fiesta ST, ya desaparecido, el i20 N se quedó sin rival directo: es el único utilitario deportivo asequible que queda en el mercado europeo.",
       "Esa condición de último mohicano le da un plus coleccionista: los deportivos pequeños de gasolina se van a cotizar, y el i20 N tiene todos los números para ser recordado.",
     ],
     veredicto: "Para el entusiasta que quiere diversión pura antes de que desaparezca; no es coche racional ni falta que le hace.",
   },
   "hyundai-i20-n-line-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El i20 N Line 2026 es la estética N sin la factura N: 100 CV del 1.0 TGDi con hibridación ligera, etiqueta ECO y 352 litros de maletero por 22.100 euros. El 0 a 100 en 11,1 segundos y los 172 Nm lo sitúan en el terreno de lo razonable, pero lo que vende este coche es la imagen: paragolpes deportivos, llantas específicas y un interior con guiños a la división deportiva por el precio de un utilitario normal.",
-      "Con 5,1 l/100 km es además uno de los N Line más baratos de mantener, y la etiqueta ECO lo hace apto para durar años en ciudad. Es la fórmula que funciona entre conductores jóvenes: parecer deportivo sin pagar seguro deportivo ni consumos deportivos.",
+      "El i20 N Line 2026 es la estética N sin la factura N: 100 CV del 1.0 TGDi con hibridación ligera, etiqueta ECO y 352 litros de maletero por 22.100 euros. El 0-100 en 11,1 segundos y los 172 Nm lo sitúan en el terreno de lo razonable, pero lo que vende este coche es la imagen: paragolpes deportivos, llantas específicas y un interior con guiños a la división deportiva por el precio de un utilitario normal.",
+      "Con 5,1 l cada 100 km es además uno de los N Line más baratos de mantener, y la etiqueta ECO lo hace apto para durar años en ciudad. Es la fórmula que funciona entre conductores jóvenes: parecer deportivo sin pagar seguro deportivo ni consumos deportivos.",
       "Frente al i20 normal, el sobreprecio del N Line se justifica solo por gusto personal; mecánicamente es el mismo coche honesto con otro traje.",
     ],
     veredicto: "Para quien quiere imagen deportiva con costes de utilitario; el purista ahorrará para el i20 N de verdad.",
   },
   "hyundai-i20-n-line-mhev-2026-precio-ficha-tecnica": {
     parrafos: [
-      "Esta variante del i20 N Line explicita lo que la otra insinúa: el 1.0 TGDi de 48V y 100 CV con hibridación ligera, por 26.716 euros. Son 4.600 euros más que el N Line básico de la ficha hermana, una diferencia que invita a comparar equipamientos con lupa antes de firmar: mecánicamente hablamos del mismo tricilíndrico de 172 Nm, 11,1 segundos de 0 a 100 y 5,2 l/100 km, con etiqueta ECO y 352 litros de maletero.",
+      "Esta variante del i20 N Line explicita lo que la otra insinúa: el 1.0 TGDi de 48V y 100 CV con hibridación ligera, por 26.716 euros. Son 4.600 euros más que el N Line básico de la ficha hermana, una diferencia que invita a comparar equipamientos con lupa antes de firmar: mecánicamente hablamos del mismo tricilíndrico de 172 Nm, 11,1 segundos de 0 a 100 y 5,2 l cada 100 km, con etiqueta ECO y 352 litros de maletero.",
       "La lección de esta ficha es comercial más que técnica: en la gama 2026 conviven varias configuraciones del N Line y el precio varía mucho según acabado. El comprador avispado pide oferta de ambas y elige por equipamiento real, no por siglas.",
       "Como coche, sigue siendo el utilitario coqueto y eficiente de siempre: ciudad, extrarradio y consumos contenidos con una estética que no pasa desapercibida.",
     ],
@@ -198,7 +198,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-i30-15-tgdi-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El i30 1.5 TGDi 48V de 2025 es el punto dulce de la gama: 140 CV, 253 Nm, 0 a 100 en 9,6 segundos y 5,9 l/100 km, con etiqueta ECO y 395 litros de maletero por 30.550 euros. Es el compacto que no necesita apellidos deportivos para convencer: anda bien, gasta poco, tiene etiqueta para la ciudad y el maletero da para la familia. La hibridación ligera suaviza la entrega y ayuda en el consumo urbano, que es donde más se nota.",
+      "El i30 1.5 TGDi 48V de 2025 es el punto dulce de la gama: 140 CV, 253 Nm, 0 a 100 en 9,6 segundos y 5,9 l cada 100 km, con etiqueta ECO y 395 litros de maletero por 30.550 euros. Es el compacto que no necesita apellidos deportivos para convencer: anda bien, gasta poco, tiene etiqueta para la ciudad y el maletero da para la familia. La hibridación ligera suaviza la entrega y ayuda en el consumo urbano, que es donde más se nota.",
       "Frente al Golf o al Corolla, el i30 juega sus cartas de siempre: más equipamiento por euro y 5 años de garantía. Los 140 CV lo colocan por encima de la mayoría de los compactos de acceso sin entrar en territorio deportivo, justo donde vive el comprador familiar que quiere ir desahogado.",
       "En el mercado de ocasión, esta versión de 2025 será una de las más buscadas: el equilibrio entre precio, etiqueta y prestaciones es difícil de mejorar.",
     ],
@@ -206,7 +206,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-i30-15-tgdi-2026-precio-ficha-tecnica": {
     parrafos: [
-      "La ficha 2026 del i30 1.5 TGDi mantiene los 140 CV y la etiqueta ECO por 30.550 euros, pero con matices curiosos: el 0 a 100 figura en 11,3 segundos y el consumo en 5,2 l/100 km, cifras que no cuadran del todo con la versión 2025 y que conviene tomar como orientativas hasta la homologación definitiva. Lo que no cambia es la esencia: 253 Nm, 395 litros de maletero y el compacto familiar bien resuelto de siempre.",
+      "La ficha 2026 del i30 1.5 TGDi mantiene los 140 CV y la etiqueta ECO por 30.550 euros, pero con matices curiosos: el 0 a 100 figura en 11,3 segundos y el consumo en 5,2 l cada 100 km, cifras que no cuadran del todo con la versión 2025 y que conviene tomar como orientativas hasta la homologación definitiva. Lo que no cambia es la esencia: 253 Nm, 395 litros de maletero y el compacto familiar bien resuelto de siempre.",
       "La discrepancia de cifras entre fichas del mismo modelo y año es un buen recordatorio de por qué existe este análisis: los datos de preventa bailan, y el comprador debe exigir la ficha técnica definitiva antes de firmar. Mecánicamente, el 1.5 TGDi 48V es un motor conocido y probado, así que no hay sorpresas esperables.",
       "Como propuesta, sigue siendo el i30 recomendable: suficiente potencia, etiqueta ECO y un precio que deja en evidencia a rivales alemanes equivalentes.",
     ],
@@ -214,7 +214,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-i30-2024-precio-ficha-tecnica": {
     parrafos: [
-      "El i30 1.5 DPI de 2024 representa la era anterior: 96 CV atmosféricos, 6,4 l/100 km, etiqueta C y 28.825 euros. Con 13,4 segundos de 0 a 100 y 139 Nm, es el compacto para conductores tranquilos que valoran la sencillez mecánica por encima de todo: sin turbo ni hibridación, este motor es de los que hacen 300.000 kilómetros con mantenimiento básico.",
+      "El i30 1.5 DPI de 2024 representa la era anterior: 96 CV atmosféricos, 6,4 l cada 100 km, etiqueta C y 28.825 euros. Con 13,4 segundos de 0 a 100 y 139 Nm, es el compacto para conductores tranquilos que valoran la sencillez mecánica por encima de todo: sin turbo ni hibridación, este motor es de los que hacen 300.000 kilómetros con mantenimiento básico.",
       "Hoy su interés está en el mercado de ocasión y en el stock: un compacto con 395 litros de maletero y mecánica simple a precio de utilitario alto. La etiqueta C es su límite natural, pero para quien vive fuera de las grandes ZBE es irrelevante.",
       "Es el anti-moda perfecto: mientras el mercado se llena de pantallas y siglas, el 1.5 DPI ofrece lo esencial bien hecho y barato de mantener.",
     ],
@@ -223,7 +223,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   "hyundai-i30-fastback-n-2024": {
     parrafos: [
       "El i30 Fastback N es el N elegante: la misma mecánica de 280 CV y 392 Nm que el hatchback, con un 0 a 100 en 5,4 segundos, pero vestida con una silueta fastback que añade discreción y un maletero de 450 litros. Por 42.000 euros ofrece un deportivo de verdad con cuatro puertas y maletero familiar, una combinación que en el mercado actual casi no existe.",
-      "El consumo de 8,0 l/100 km es el coste de la diversión, y como todo gasolina puro, su futuro en las ZBE tiene fecha de caducidad emocional. Pero a cambio entrega uno de los chasis delanteros más celebrados de la década y la sensación de que Hyundai hizo este coche por pasión, no por planificación de producto.",
+      "El consumo de 8,0 l cada 100 km es el coste de la diversión, y como todo gasolina puro, su futuro en las ZBE tiene fecha de caducidad emocional. Pero a cambio entrega uno de los chasis delanteros más celebrados de la década y la sensación de que Hyundai hizo este coche por pasión, no por planificación de producto.",
       "El fastback además envejece mejor estéticamente que el hatchback: es el N para quien quiere disfrutarlo diez años sin que parezca un coche de tuning.",
     ],
     veredicto: "Para el entusiasta con familia que se niega a un SUV; un futuro clásico a precio de generalista.",
@@ -238,7 +238,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-i30-n-line-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El i30 N Line 1.6 T-GDi de 150 CV es el término medio inteligente: 8,9 segundos de 0 a 100, 250 Nm, 6,5 l/100 km y 395 litros de maletero por 34.350 euros, con la estética N que tanto vende. No es un deportivo —para eso está el N de 280 CV—, pero es el compacto con más carácter de su rango de precio, y su motor turbo le da una alegría que las versiones básicas no tienen.",
+      "El i30 N Line 1.6 T-GDi de 150 CV es el término medio inteligente: 8,9 segundos de 0 a 100, 250 Nm, 6,5 l cada 100 km y 395 litros de maletero por 34.350 euros, con la estética N que tanto vende. No es un deportivo —para eso está el N de 280 CV—, pero es el compacto con más carácter de su rango de precio, y su motor turbo le da una alegría que las versiones básicas no tienen.",
       "La etiqueta C lo penaliza frente a las versiones 48V en el uso urbano intensivo, así que su comprador ideal es el que hace carretera y quiere un compacto con chispa sin pagar el seguro ni el consumo del N. Los 150 CV son suficientes para divertirse sin meterse en líos.",
       "Es el i30 para quien mira el N con deseo pero vive en el mundo real: el 80% de la imagen por el 60% del precio.",
     ],
@@ -246,7 +246,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-inster-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El Inster Klass es el eléctrico urbano que España estaba esperando: 97 CV, 327 kilómetros de autonomía con 42 kWh, 14,3 kWh/100 km de consumo y etiqueta Cero por 24.989 euros. Con 280 litros de maletero y un 0 a 100 en 11,7 segundos, no pretende ser más de lo que es: el coche perfecto para quien hace ciudad y extrarradio y puede cargar en casa o en el trabajo. Los 147 Nm del motor delantero lo mueven con agilidad entre el tráfico.",
+      "El Inster Klass es el eléctrico urbano que España estaba esperando: 97 CV, 327 kilómetros de autonomía con 42 kWh, 14,3 kWh cada 100 km de consumo y etiqueta Cero por 24.989 euros. Con 280 litros de maletero y un 0 a 100 en 11,7 segundos, no pretende ser más de lo que es: el coche perfecto para quien hace ciudad y extrarradio y puede cargar en casa o en el trabajo. Los 147 Nm del motor delantero lo mueven con agilidad entre el tráfico.",
       "Su gran virtud es el precio: por debajo de los 25.000 euros, el Inster deja en evidencia a los eléctricos urbanos europeos que cuestan un 30% más por prestaciones similares. La autonomía de 327 km es honesta para su batería, y el consumo contenido dice mucho de la eficiencia del conjunto.",
       "Es el anti-SUV eléctrico: pequeño, barato y sensato, justo lo que necesita la movilidad urbana real en lugar de otro crossover de dos toneladas.",
     ],
@@ -254,7 +254,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-inster-cross-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Inster Cross añade la estética aventurera al eléctrico urbano: 115 CV, 360 kilómetros de autonomía con 49 kWh y un 0 a 100 en 10,6 segundos, por 29.650 euros. Mantiene los 280 litros de maletero y el consumo ajustado de 15,1 kWh/100 km, pero suma protecciones, barras de techo y una imagen campera que, seamos honestos, vende más que la versión normal aunque nunca pise un camino de tierra.",
+      "El Inster Cross añade la estética aventurera al eléctrico urbano: 115 CV, 360 kilómetros de autonomía con 49 kWh y un 0 a 100 en 10,6 segundos, por 29.650 euros. Mantiene los 280 litros de maletero y el consumo ajustado de 15,1 kWh cada 100 km, pero suma protecciones, barras de techo y una imagen campera que, seamos honestos, vende más que la versión normal aunque nunca pise un camino de tierra.",
       "Los 18 CV extra y la batería mayor se notan: 33 kilómetros más de autonomía y mejores recuperaciones por unos 4.600 euros sobre el Klass. Es el Inster para quien quiere el urbano eléctrico pero con un punto más de presencia y desahogo en carretera.",
       "La jugada de Hyundai es clara: el Cross captura al comprador que duda entre el Inster y un SUV pequeño, ofreciéndole la estética sin el sobrecoste real de un SUV.",
     ],
@@ -262,7 +262,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-inster-electrico-precio-ficha-tecnica": {
     parrafos: [
-      "Esta ficha del Inster eléctrico fija el precio en 25.140 euros para la versión de 97 CV, 42 kWh y 327 kilómetros de autonomía: apenas 150 euros sobre el Klass, lo que sugiere diferencias de equipamiento más que de concepto. Con 14,3 kWh/100 km, 280 litros de maletero y etiqueta Cero, la propuesta no cambia: el eléctrico urbano asequible y honesto.",
+      "Esta ficha del Inster eléctrico fija el precio en 25.140 euros para la versión de 97 CV, 42 kWh y 327 kilómetros de autonomía: apenas 150 euros sobre el Klass, lo que sugiere diferencias de equipamiento más que de concepto. Con 14,3 kWh cada 100 km, 280 litros de maletero y etiqueta Cero, la propuesta no cambia: el eléctrico urbano asequible y honesto.",
       "La existencia de varias fichas del Inster con precios tan cercanos confirma que Hyundai está ajustando la gama al céntimo para pelear con los chinos que vienen: cada 150 euros cuenta cuando el rival ofrece 300 kilómetros por 20.000. El comprador debe comparar equipamientos línea por línea, porque la diferencia está en el detalle.",
       "Como coche, el mensaje es el mismo: 327 kilómetros reales dan para una semana de ciudad sin cargar, y eso para el 80% de los conductores es todo lo que necesitan.",
     ],
@@ -270,7 +270,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-ioniq-3-2026-precio-autonomia": {
     parrafos: [
-      "El Ioniq 3 es la pieza que faltaba en la gama eléctrica de Hyundai: un compacto de 135 CV con 497 kilómetros de autonomía y 61 kWh por 29.995 euros. Con 441 litros de maletero, 14,1 kWh/100 km y un 0 a 100 en 9,6 segundos, ataca el segmento más disputado —el del ID.3, el Megane E-Tech y los chinos— con el argumento definitivo: casi 500 kilómetros de autonomía por debajo de los 30.000 euros.",
+      "El Ioniq 3 es la pieza que faltaba en la gama eléctrica de Hyundai: un compacto de 135 CV con 497 kilómetros de autonomía y 61 kWh por 29.995 euros. Con 441 litros de maletero, 14,1 kWh cada 100 km y un 0 a 100 en 9,6 segundos, ataca el segmento más disputado —el del ID.3, el Megane E-Tech y los chinos— con el argumento definitivo: casi 500 kilómetros de autonomía por debajo de los 30.000 euros.",
       "Los 250 Nm y la tracción delantera lo hacen un coche amable y predecible, y la etiqueta Cero lo blinda para las ZBE. Es el eléctrico para la familia que hace un 80% ciudad y un 20% viajes: 497 kilómetros permiten el Madrid-Valencia sin parar, algo que con rivales de 400 km exige planificación.",
       "Si Hyundai lo posiciona bien en equipamiento, el Ioniq 3 puede ser el eléctrico generalista de referencia en España: autonomía, maletero y precio en la diana.",
     ],
@@ -278,15 +278,15 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-ioniq-5-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Ioniq 5 Light de 2026 democratiza el icono: 170 CV, 440 kilómetros de autonomía con 63 kWh, tracción trasera y 520 litros de maletero por 44.670 euros. Mantiene lo esencial del Ioniq 5 —el diseño retrofuturista, la plataforma de 800V con carga ultrarrápida y un interior amplísimo— renunciando a la potencia que la mayoría no necesita. El 0 a 100 en 8,5 segundos y los 350 Nm son más que suficientes para un SUV familiar.",
-      "La plataforma E-GMP de 800 voltios sigue siendo su as en la manga: cargas ultrarrápidas que en viaje marcan más diferencia que 50 kilómetros extra de autonomía. El consumo de 15,6 kWh/100 km es razonable para su tamaño.",
+      "El Ioniq 5 Light de 2026 democratiza el icono: 170 CV, 440 kilómetros de autonomía con 63 kWh, tracción trasera y 520 litros de maletero por 44.670 euros. Mantiene lo esencial del Ioniq 5 —el diseño retrofuturista, la plataforma de 800V con carga ultrarrápida y un interior amplísimo— renunciando a la potencia que la mayoría no necesita. El 0-100 en 8,5 segundos y los 350 Nm son más que suficientes para un SUV familiar.",
+      "La plataforma E-GMP de 800 voltios sigue siendo su as en la manga: cargas ultrarrápidas que en viaje marcan más diferencia que 50 kilómetros extra de autonomía. El consumo de 15,6 kWh cada 100 km es razonable para su tamaño.",
       "Es el Ioniq 5 para quien lo compra con la cabeza: todo el concepto y la tecnología de carga por el precio de un SUV premium de acceso.",
     ],
     veredicto: "Para familias que viajan y valoran la carga rápida; si buscas potencia, sube de versión.",
   },
   "hyundai-ioniq-5-electrico-precio-ficha-tecnica": {
     parrafos: [
-      "Esta ficha del Ioniq 5 eléctrico refleja la versión de acceso con idénticos argumentos: 170 CV, 63 kWh, 440 kilómetros de autonomía y 44.670 euros. La tracción trasera, los 520 litros de maletero y la carga ultrarrápida de 800V dibujan el mismo coche: el SUV eléctrico que demostró que un coche familiar podía tener personalidad sin renunciar a la eficiencia, con 15,6 kWh/100 km y 8,5 segundos de 0 a 100.",
+      "Esta ficha del Ioniq 5 eléctrico refleja la versión de acceso con idénticos argumentos: 170 CV, 63 kWh, 440 kilómetros de autonomía y 44.670 euros. La tracción trasera, los 520 litros de maletero y la carga ultrarrápida de 800V dibujan el mismo coche: el SUV eléctrico que demostró que un coche familiar podía tener personalidad sin renunciar a la eficiencia, con 15,6 kWh cada 100 km y 8,5 segundos de 0 a 100.",
       "La duplicidad de fichas con los mismos datos confirma que el Ioniq 5 de acceso es un pilar de la gama: Hyundai lo mantiene como referencia estable mientras las versiones N y N Line aportan el brillo. Para el comprador, la lección es que esta configuración es la más probada y con mejor historial de fiabilidad de la familia.",
       "Tres años después de su lanzamiento, el Ioniq 5 sigue siendo el eléctrico que los rivales usan como vara de medir: eso dice todo de lo bien que nació.",
     ],
@@ -295,15 +295,15 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   "hyundai-ioniq-5-n-2025-precio-ficha-tecnica": {
     parrafos: [
       "El Ioniq 5 N es la locura oficial de Hyundai: 650 CV, 770 Nm, tracción total y un 0 a 100 en 3,4 segundos, con 448 kilómetros de autonomía y batería de 84 kWh. Por 78.000 euros ofrece prestaciones de superdeportivo con 480 litros de maletero y cinco plazas: es el coche que demuestra que el eléctrico también puede emocionar, con su cambio simulado, el sonido artificial y un modo derrape que ningún ingeniero sensato habría aprobado.",
-      "El consumo de 21,2 kWh/100 km es el peaje de la diversión, y como todo N, su comprador no mira la eficiencia sino la sonrisa por euro. Frente a un Model Y Performance o un EV6 GT, el Ioniq 5 N juega en otra liga emocional: es el único que finge ser de gasolina para divertir más.",
+      "El consumo de 21,2 kWh cada 100 km es el peaje de la diversión, y como todo N, su comprador no mira la eficiencia sino la sonrisa por euro. Frente a un Model Y Performance o un EV6 GT, el Ioniq 5 N juega en otra liga emocional: es el único que finge ser de gasolina para divertir más.",
       "Es el halo car eléctrico perfecto: pocos se lo comprarán, pero todos hablarán de él, y eso vende Ioniq 5 normales.",
     ],
     veredicto: "Para el entusiasta con presupuesto que quiere el eléctrico más divertido; el resto lo admiraremos desde fuera.",
   },
   "hyundai-ioniq-5-n-line-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El Ioniq 5 N Line con la batería de 84 kWh es el equilibrio que muchos esperaban: 228 CV, 530 kilómetros de autonomía, tracción trasera y 520 litros de maletero por 54.570 euros. El 0 a 100 en 7,5 segundos y los 350 Nm lo hacen ágil sin excesos, y esos 530 kilómetros son la mayor autonomía de la familia Ioniq 5: más que el Light y más que el N.",
-      "A 54.570 euros se coloca entre el acceso y el N, y su argumento es la estética deportiva con la eficiencia intacta: 17,0 kWh/100 km para un coche de este tamaño y presencia está muy bien. Es el Ioniq 5 para quien quiere presencia sin pagar el peaje del N en consumo y precio.",
+      "El Ioniq 5 N Line con la batería de 84 kWh es el equilibrio que muchos esperaban: 228 CV, 530 kilómetros de autonomía, tracción trasera y 520 litros de maletero por 54.570 euros. El 0-100 en 7,5 segundos y los 350 Nm lo hacen ágil sin excesos, y esos 530 kilómetros son la mayor autonomía de la familia Ioniq 5: más que el Light y más que el N.",
+      "A 54.570 euros se coloca entre el acceso y el N, y su argumento es la estética deportiva con la eficiencia intacta: 17,0 kWh cada 100 km para un coche de este tamaño y presencia está muy bien. Es el Ioniq 5 para quien quiere presencia sin pagar el peaje del N en consumo y precio.",
       "La batería grande con motor modesto es además la combinación más eficiente para viajar: autonomía máxima y carga ultrarrápida, la pareja ganadora en carretera.",
     ],
     veredicto: "Para quien quiere el Ioniq 5 con imagen y máxima autonomía; la versión viajera de la gama.",
@@ -318,15 +318,15 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-ioniq-6-electrico-precio-ficha-tecnica": {
     parrafos: [
-      "La versión Light del Ioniq 6 con 170 CV y 63 kWh ofrece 429 kilómetros de autonomía, 13,4 kWh/100 km de consumo y un maletero de 446 litros por 44.650 euros. Con tracción trasera, 350 Nm y un 0 a 100 en 8,3 segundos, es la berlina eléctrica equilibrada: suficiente potencia, consumo de los más bajos de su categoría y la carga ultrarrápida de 800V que en viaje vale su peso en oro.",
-      "Los 13,4 kWh/100 km son la cifra que define a este coche: la aerodinámica trabaja para que cada kWh rinda más, y eso se traduce en menos paradas y menos coste por kilómetro. Frente al Ioniq 5 equivalente, el 6 es más eficiente y más barato de mover, a cambio de menos maletero y menos presencia.",
+      "La versión Light del Ioniq 6 con 170 CV y 63 kWh ofrece 429 kilómetros de autonomía, 13,4 kWh cada 100 km de consumo y un maletero de 446 litros por 44.650 euros. Con tracción trasera, 350 Nm y un 0 a 100 en 8,3 segundos, es la berlina eléctrica equilibrada: suficiente potencia, consumo de los más bajos de su categoría y la carga ultrarrápida de 800V que en viaje vale su peso en oro.",
+      "Los 13,4 kWh cada 100 km son la cifra que define a este coche: la aerodinámica trabaja para que cada kWh rinda más, y eso se traduce en menos paradas y menos coste por kilómetro. Frente al Ioniq 5 equivalente, el 6 es más eficiente y más barato de mover, a cambio de menos maletero y menos presencia.",
       "Es la opción racional dentro de una gama emocional: la berlina que compra quien hace números antes de firmar.",
     ],
     veredicto: "Para quien prioriza la eficiencia y el coste por kilómetro; el Ioniq 5 es más versátil, este más frugal.",
   },
   "hyundai-ioniq-6-n-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Ioniq 6 N lleva la locura del Ioniq 5 N a la berlina: 650 CV, 770 Nm, tracción total, 0 a 100 en 3,2 segundos y 487 kilómetros de autonomía con 84 kWh, por 78.045 euros. Es incluso más rápido que su hermano SUV y, gracias a la aerodinámica, consume menos: 18,7 kWh/100 km frente a los 21,2 del 5 N. El maletero de 401 litros recuerda que sigue siendo una berlina utilizable.",
+      "El Ioniq 6 N lleva la locura del Ioniq 5 N a la berlina: 650 CV, 770 Nm, tracción total, 0 a 100 en 3,2 segundos y 487 kilómetros de autonomía con 84 kWh, por 78.045 euros. Es incluso más rápido que su hermano SUV y, gracias a la aerodinámica, consume menos: 18,7 kWh cada 100 km frente a los 21,2 del 5 N. El maletero de 401 litros recuerda que sigue siendo una berlina utilizable.",
       "La pregunta es quién compra una berlina eléctrica de 650 CV por 78.000 euros, y la respuesta es: el entusiasta que ya tiene un deportivo de gasolina y quiere el juguete eléctrico sin renunciar a la emoción. El cambio simulado y los modos de conducción hacen el resto.",
       "Como el 5 N, su misión es más de imagen que de volumen: demostrar que Hyundai sabe hacer eléctricos que enamoran, no solo que transportan.",
     ],
@@ -335,7 +335,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   "hyundai-ioniq-9-2026-precio-ficha-tecnica": {
     parrafos: [
       "El Ioniq 9 es el buque insignia eléctrico de Hyundai: un SUV de hasta 7 plazas con 218 CV, 620 kilómetros de autonomía y una batería de 110,3 kWh, la mayor que Hyundai ha montado en un turismo. Por 69.900 euros ofrece el formato familiar definitivo en eléctrico: tracción trasera, 350 Nm, 9,4 segundos de 0 a 100 y etiqueta Cero, con un maletero de 338 litros que crece abatiendo filas.",
-      "Los 110,3 kWh son la noticia técnica: una batería de este tamaño en un coche generalista era impensable hace tres años, y permite esos 620 kilómetros que eliminan la ansiedad incluso con siete ocupantes y equipaje. El consumo de 19,9 kWh/100 km es honesto para su mole.",
+      "Los 110,3 kWh son la noticia técnica: una batería de este tamaño en un coche generalista era impensable hace tres años, y permite esos 620 kilómetros que eliminan la ansiedad incluso con siete ocupantes y equipaje. El consumo de 19,9 kWh cada 100 km es honesto para su mole.",
       "Su rival natural es el Kia EV9, su primo hermano: el Ioniq 9 apuesta por un diseño más fluido y familiar frente al EV9 más anguloso. La familia numerosa que quiere eléctrico ya no tiene excusa.",
     ],
     veredicto: "Para familias grandes que necesitan 7 plazas eléctricas de verdad; el precio es de premium, el coche también.",
@@ -343,14 +343,14 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   "hyundai-ioniq-9-long-range-2025-precio-ficha-tecnica": {
     parrafos: [
       "La versión Long Range del Ioniq 9 afina la propuesta del buque insignia: mismos 218 CV, 620 kilómetros y 110,3 kWh por 69.900 euros, pero con un maletero que la ficha eleva hasta 620 litros. Esa diferencia de capacidad sugiere una configuración de plazas distinta —probablemente 6 plazas con más espacio de carga—, el detalle que convierte un gran SUV en un gran familiar.",
-      "Con 9,4 segundos de 0 a 100 no es un coche rápido, pero es que no lo pretende: 350 Nm mueven con dignidad un coche pensado para viajar cargado hasta arriba con la familia al completo. La tracción trasera y el consumo de 19,9 kWh/100 km completan un conjunto coherente.",
+      "Con 9,4 segundos de 0 a 100 no es un coche rápido, pero es que no lo pretende: 350 Nm mueven con dignidad un coche pensado para viajar cargado hasta arriba con la familia al completo. La tracción trasera y el consumo de 19,9 kWh cada 100 km completan un conjunto coherente.",
       "Es el eléctrico para quien antes compraba un Santa Fe o un Palisade: el salto a las siete plazas eléctricas sin pasar por marcas premium alemanas.",
     ],
     veredicto: "Para familias numerosas que viajan cargadas; verificar la configuración de plazas antes de decidir.",
   },
   "hyundai-kona-16-tgdi-180-n-line-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Kona N Line 1.6 TGDi de 180 CV con tracción total es el Kona gasolina más ambicioso: 179 CV, 265 Nm, 0 a 100 en 8,4 segundos y 7,0 l/100 km, por 45.440 euros. La tracción 4x4 lo distingue en un segmento donde casi todo es delantera, y la estética N Line le da la presencia deportiva que el comprador de este nivel busca. El maletero de 466 litros es de los mejores del segmento B-SUV.",
+      "El Kona N Line 1.6 TGDi de 180 CV con tracción total es el Kona gasolina más ambicioso: 179 CV, 265 Nm, 0 a 100 en 8,4 segundos y 7,0 l cada 100 km, por 45.440 euros. La tracción 4x4 lo distingue en un segmento donde casi todo es delantera, y la estética N Line le da la presencia deportiva que el comprador de este nivel busca. El maletero de 466 litros es de los mejores del segmento B-SUV.",
       "El precio es el debate: 45.440 euros por un Kona de gasolina lo acercan a territorio de SUV híbridos enchufables y eléctricos, y la etiqueta C empieza a pesar en 2026. Su comprador es el que quiere tracción total y gasolina sin complicaciones, un perfil cada vez más raro pero que existe.",
       "Frente al Kona híbrido, este 1.6 TGDi 4x4 solo se justifica si la tracción total es imprescindible: en todo lo demás, el híbrido es más barato de comprar y de mover.",
     ],
@@ -358,7 +358,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-kona-16-tgdi-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El Kona 1.6 TGDi de 150 CV es el gasolina equilibrado de la gama: 9,8 segundos de 0 a 100, 250 Nm, 6,6 l/100 km y 466 litros de maletero por 33.040 euros. Con tracción delantera y etiqueta C, es el Kona para quien hace carretera y no quiere ni hibridación ni enchufe: un motor turbo probado, con suficiente empuje para viajar desahogado.",
+      "El Kona 1.6 TGDi de 150 CV es el gasolina equilibrado de la gama: 9,8 segundos de 0 a 100, 250 Nm, 6,6 l cada 100 km y 466 litros de maletero por 33.040 euros. Con tracción delantera y etiqueta C, es el Kona para quien hace carretera y no quiere ni hibridación ni enchufe: un motor turbo probado, con suficiente empuje para viajar desahogado.",
       "A 33.040 euros se sitúa entre el gasolina básico de 115 CV y el híbrido, y ahí está su dilema: por poco más, el híbrido ofrece etiqueta ECO y menos consumo. Este 1.6 TGDi tiene sentido para el conductor de autovía que desconfía de la hibridación y valora la respuesta inmediata del turbo.",
       "Es el Kona más tradicional de la gama, y eso en 2026 ya es casi una rareza: gasolina turbo sin apellidos electrificados.",
     ],
@@ -366,7 +366,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-kona-electrico-135-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El Kona Eléctrico de 135 CV con 48,4 kWh es la puerta de entrada al SUV eléctrico de Hyundai: 380 kilómetros de autonomía, 14,6 kWh/100 km y 466 litros de maletero por 38.050 euros. Con 255 Nm y un 0 a 100 en 9,9 segundos, es un coche urbano y periurbano honesto: la autonomía da para la semana sin cargar si hay punto en casa, y el consumo contenido lo hace barato de mover.",
+      "El Kona Eléctrico de 135 CV con 48,4 kWh es la puerta de entrada al SUV eléctrico de Hyundai: 380 kilómetros de autonomía, 14,6 kWh cada 100 km y 466 litros de maletero por 38.050 euros. Con 255 Nm y un 0 a 100 en 9,9 segundos, es un coche urbano y periurbano honesto: la autonomía da para la semana sin cargar si hay punto en casa, y el consumo contenido lo hace barato de mover.",
       "Su posición en 2026 es delicada: por poco más, la versión de 65 kWh ofrece 130 kilómetros extra de autonomía y 69 CV más, una diferencia que en la práctica se nota mucho. Este 135 CV solo tiene sentido con un buen descuento o para un uso estrictamente urbano donde la batería grande no se amortiza.",
       "Como concepto, fue pionero: el Kona eléctrico original demostró que un SUV generalista podía ser eléctrico sin dramas, y esta versión mantiene esa esencia accesible.",
     ],
@@ -374,7 +374,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-kona-electrico-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Kona Eléctrico de 65 kWh y 2026 es la versión que la mayoría debería mirar: 204 CV, 510 kilómetros de autonomía, 65,4 kWh y un 0 a 100 en 8,1 segundos, por 42.450 euros. Con 466 litros de maletero, 14,7 kWh/100 km y etiqueta Cero, es el SUV eléctrico generalista redondo: autonomía para viajar, potencia para disfrutar y maletero para la familia.",
+      "El Kona Eléctrico de 65 kWh y 2026 es la versión que la mayoría debería mirar: 204 CV, 510 kilómetros de autonomía, 65,4 kWh y un 0 a 100 en 8,1 segundos, por 42.450 euros. Con 466 litros de maletero, 14,7 kWh cada 100 km y etiqueta Cero, es el SUV eléctrico generalista redondo: autonomía para viajar, potencia para disfrutar y maletero para la familia.",
       "Los 510 kilómetros son la cifra que cambia el uso: permiten viajes de verdad sin planificar cada parada, y los 204 CV le dan una alegría que la versión de 135 CV no tiene. A 42.450 euros compite con los chinos de frente, con la ventaja de la red Hyundai y un historial de fiabilidad ya probado.",
       "Es el Kona eléctrico en su mejor momento: batería grande, precio contenido y una plataforma que ya ha demostrado su solidez.",
     ],
@@ -382,15 +382,15 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-kona-electrico-49-kwh-2026-precio-ficha-tecnica": {
     parrafos: [
-      "La versión de 49 kWh del Kona Eléctrico 2026 repite la fórmula de acceso: 135 CV, 380 kilómetros, 48,4 kWh y 38.050 euros, con 466 litros de maletero y 14,6 kWh/100 km. Es el mismo coche que la ficha de 2025 con la gama reordenada: Hyundai mantiene la batería pequeña para quien no necesita más y quiere el precio más bajo posible en un SUV eléctrico con etiqueta Cero.",
-      "El 0 a 100 en 9,9 segundos y los 255 Nm lo hacen un coche tranquilo y eficiente, perfecto como segundo coche familiar o para flotas urbanas. La clave está en el precio final con ayudas: con el Moves, este Kona puede quedarse en una cifra muy tentadora para electrificar la ciudad.",
+      "La versión de 49 kWh del Kona Eléctrico 2026 repite la fórmula de acceso: 135 CV, 380 kilómetros, 48,4 kWh y 38.050 euros, con 466 litros de maletero y 14,6 kWh cada 100 km. Es el mismo coche que la ficha de 2025 con la gama reordenada: Hyundai mantiene la batería pequeña para quien no necesita más y quiere el precio más bajo posible en un SUV eléctrico con etiqueta Cero.",
+      "El 0-100 en 9,9 segundos y los 255 Nm lo hacen un coche tranquilo y eficiente, perfecto como segundo coche familiar o para flotas urbanas. La clave está en el precio final con ayudas: con el Moves, este Kona puede quedarse en una cifra muy tentadora para electrificar la ciudad.",
       "Su enemigo está en casa: la versión de 65 kWh cuesta 4.400 euros más y da 130 km extra. Quien viaja, ni lo duda; quien no sale de la ciudad, ahorra.",
     ],
     veredicto: "Para ciudad con ayudas al eléctrico; si hay un solo viaje largo al año, compensa la batería grande.",
   },
   "hyundai-kona-electrico-65-kwh-2026-precio-ficha-tecnica": {
     parrafos: [
-      "Esta ficha del Kona Eléctrico 65 kWh 2026 presenta datos que invitan a la cautela: figura como 204 CV y 466 litros de maletero por 42.450 euros, pero la autonomía aparece vacía, el consumo figura como 4,2 l/100 km —una unidad imposible para un eléctrico— y la etiqueta como ECO en lugar de Cero. Son errores evidentes de carga de datos que el comprador debe ignorar: un eléctrico puro siempre lleva etiqueta Cero y su consumo se mide en kWh/100 km.",
+      "Esta ficha del Kona Eléctrico 65 kWh 2026 presenta datos que invitan a la cautela: figura como 204 CV y 466 litros de maletero por 42.450 euros, pero la autonomía aparece vacía, el consumo figura como 4,2 l cada 100 km —una unidad imposible para un eléctrico— y la etiqueta como ECO en lugar de Cero. Son errores evidentes de carga de datos que el comprador debe ignorar: un eléctrico puro siempre lleva etiqueta Cero y su consumo se mide en kWh/100 km.",
       "Corregidos los errores, hablamos del mismo Kona EV recomendable: 204 CV, unos 510 kilómetros de autonomía con 65,4 kWh y la versatilidad del SUV compacto eléctrico. La lección de esta ficha es metodológica: ni las bases de datos son infalibles, y conviene contrastar siempre con la ficha oficial.",
       "Como coche, la valoración no cambia: es la versión del Kona eléctrico con mejor equilibrio entre precio, autonomía y prestaciones.",
     ],
@@ -398,7 +398,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-kona-electrico-n-line-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Kona EV N Line es la versión con más carácter de la gama eléctrica: mantiene los 204 CV y la batería de 65,4 kWh —440 kilómetros de alcance—, pero viste paragolpes específicos, llantas deportivas y detalles interiores racing. Cuesta 43.450 euros, 1.000 más que el eléctrico normal, y gasta 16,8 kWh/100 km, algo más por la aerodinámica menos favorable.",
+      "El Kona EV N Line es la versión con más carácter de la gama eléctrica: mantiene los 204 CV y la batería de 65,4 kWh —440 kilómetros de alcance—, pero viste paragolpes específicos, llantas deportivas y detalles interiores racing. Cuesta 43.450 euros, 1.000 más que el eléctrico normal, y gasta 16,8 kWh cada 100 km, algo más por la aerodinámica menos favorable.",
       "Mecánicamente no cambia nada: 255 Nm al eje delantero, 8,1 segundos de 0 a 100, 466 litros de maletero y etiqueta Cero. Es el mismo Kona eléctrico eficiente con otro uniforme, pensado para quien no se conforma con el aspecto sobrio del familiar. El maletero no se resiente y la etiqueta mantiene intactas las ventajas urbanas del cero emisiones.",
       "La decisión es emocional, no racional: esos 1.000 euros compran presencia, no prestaciones. Quien hace números se queda con el normal, y la diferencia da para miles de kilómetros de cargas rápidas.",
     ],
@@ -422,7 +422,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-kona-hibrido-n-line-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Kona Híbrido N Line une la hibridación con la imagen deportiva: 138 CV, 4,7 l/100 km, etiqueta ECO y 466 litros de maletero por 36.540 euros. El 0 a 100 en 11,2 segundos no es deportivo, pero el consumo de 4,7 litros sí es una cifra seria para un SUV, y la estética N Line le da la presencia que el híbrido normal no tiene.",
+      "El Kona Híbrido N Line une la hibridación con la imagen deportiva: 138 CV, 4,7 l cada 100 km, etiqueta ECO y 466 litros de maletero por 36.540 euros. El 0-100 en 11,2 segundos no es deportivo, pero el consumo de 4,7 litros sí es una cifra seria para un SUV, y la estética N Line le da la presencia que el híbrido normal no tiene.",
       "Es el Kona para quien quiere las dos cosas: gastar poco y parecer mucho. La hibridación hace el trabajo silencioso en ciudad mientras la imagen hace el resto en el aparcamiento. A 36.540 euros, el sobreprecio sobre el híbrido normal se paga solo en estética.",
       "Frente a rivales híbridos como el Yaris Cross, el Kona ofrece más maletero y más equipamiento por euro, con una imagen más juvenil.",
     ],
@@ -430,7 +430,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-kona-hybrid-138": {
     parrafos: [
-      "El Kona Hybrid 138 afina la hibridación con 138 CV, 4,6 l/100 km y etiqueta ECO por 34.290 euros, y añade un dato curioso en la ficha: 975 kilómetros de autonomía total. Esa cifra, combinada con los 265 Nm y el 0 a 100 en 11,0 segundos, dibuja el Kona rutero eficiente: un SUV que hace Madrid-Barcelona sin repostar y gasta como un utilitario.",
+      "El Kona Hybrid 138 afina la hibridación con 138 CV, 4,6 l cada 100 km y etiqueta ECO por 34.290 euros, y añade un dato curioso en la ficha: 975 kilómetros de autonomía total. Esa cifra, combinada con los 265 Nm y el 11,0 s en el 0-100 km/hegundos, dibuja el Kona rutero eficiente: un SUV que hace Madrid-Barcelona sin repostar y gasta como un utilitario.",
       "La batería de 1,3 kWh es la típica de los híbridos no enchufables: pequeña, pero suficiente para que el sistema recupere energía y asista en ciudad. Los 466 litros de maletero no se resienten, algo que no todos los híbridos pueden decir.",
       "Es la versión para el conductor que hace de todo: ciudad entre semana, carretera el fin de semana, y un solo coche para ambos mundos con consumos contenidos.",
     ],
@@ -439,14 +439,14 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   "hyundai-kona-n-2023": {
     parrafos: [
       "El Kona N de 2023 es el deportivo que casi nadie vio venir: 280 CV y 392 Nm en un B-SUV, con un 0 a 100 en 5,5 segundos que lo convertía en uno de los SUV pequeños más rápidos del mercado. Por unos 40.000 euros ofrecía el chasis N, el escape con carácter y una diversión impropia de su formato, con un maletero de 361 litros que pagaba el peaje de la deportividad.",
-      "El consumo de 8,5 l/100 km era honesto para lo que andaba, y hoy, descatalogado, el Kona N vive en el mercado de ocasión como una rareza: un SUV deportivo de gasolina pura con sello N, un concepto que la industria ha abandonado.",
+      "El consumo de 8,5 l cada 100 km era honesto para lo que andaba, y hoy, descatalogado, el Kona N vive en el mercado de ocasión como una rareza: un SUV deportivo de gasolina pura con sello N, un concepto que la industria ha abandonado.",
       "Su rareza le da un punto coleccionista: se fabricaron pocos y no habrá sucesor directo. Quien busque diversión con altura libre al suelo no tiene alternativa nueva.",
     ],
     veredicto: "Para el aficionado que lo encuentre en ocasión; un bicho raro que no volverá.",
   },
   "hyundai-kona-n-line-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Kona N Line 2026 de gasolina con 150 CV es la estética deportiva accesible: 27.490 euros, 6,4 l/100 km, 466 litros de maletero y 250 Nm. Es el Kona más barato con imagen N, pensado para quien quiere el SUV con carácter sin subir al híbrido ni al eléctrico.",
+      "El Kona N Line 2026 de gasolina con 150 CV es la estética deportiva accesible: 27.490 euros, 6,4 l cada 100 km, 466 litros de maletero y 250 Nm. Es el Kona más barato con imagen N, pensado para quien quiere el SUV con carácter sin subir al híbrido ni al eléctrico.",
       "A 27.490 euros es también uno de los B-SUV con mejor relación imagen/precio: por menos de lo que cuesta un utilitario alto de gama, ofrece presencia, espacio y un motor turbo suficiente. La etiqueta C es su límite en las ZBE, pero el precio lo compensa para muchos.",
       "Es el Kona que se vende por impulso en el concesionario: entra por los ojos, convence por el precio y cumple en el día a día. Sus 250 Nm le dan además una respuesta más viva que el gasolina atmosférico básico.",
     ],
@@ -455,7 +455,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   "hyundai-nexo-2025-precio-ficha-tecnica": {
     parrafos: [
       "El Nexo es el coche más singular de Hyundai: un SUV de pila de combustible de hidrógeno con 163 CV, 666 kilómetros de autonomía y un consumo de 1 kg/100 km, por 73.450 euros. Reposa en 3-5 minutos como un gasolina, emite solo agua y lleva etiqueta Cero: sobre el papel, es la solución perfecta. En la práctica, España tiene un puñado de hidrogeneras, y eso lo convierte en un coche para pioneros con ruta fija.",
-      "El maletero de 461 litros y los 395 Nm lo hacen un SUV utilizable, y el 0 a 100 en 9,5 segundos es digno. Pero 73.450 euros por un coche que solo puedes repostar en media docena de puntos del país es una apuesta solo apta para flotas con hidrogenera propia o entusiastas de la tecnología.",
+      "El maletero de 461 litros y los 395 Nm lo hacen un SUV utilizable, y el 9,5 s en el 0-100 km/hegundos es digno. Pero 73.450 euros por un coche que solo puedes repostar en media docena de puntos del país es una apuesta solo apta para flotas con hidrogenera propia o entusiastas de la tecnología.",
       "El Nexo es importante como escaparate tecnológico, aunque como compra particular en 2026 sea difícil de justificar fuera de casos muy concretos.",
     ],
     veredicto: "Para flotas y pioneros con acceso a hidrógeno; el particular mejor espera a la infraestructura.",
@@ -470,15 +470,15 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-palisade-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Palisade híbrido es el gran SUV familiar de Hyundai que Europa mira de reojo: 329 CV, tracción total, 460 Nm y etiqueta ECO por unos 40.000 euros orientativos. Con batería de 1,65 kWh y un consumo de 6,8 l/100 km para su tamaño, es la alternativa sensata a los SUV premium alemanes para familias numerosas que necesitan espacio de verdad.",
-      "El 0 a 100 en 7,9 segundos para un coche de este porte habla de unos 329 CV que se notan, y la tracción total le da un plus de seguridad en mojado y nieve. La ficha es escueta en detalles —sin maletero declarado—, lo que sugiere que su comercialización europea aún está en fase de definición.",
+      "El Palisade híbrido es el gran SUV familiar de Hyundai que Europa mira de reojo: 329 CV, tracción total, 460 Nm y etiqueta ECO por unos 40.000 euros orientativos. Con batería de 1,65 kWh y un consumo de 6,8 l cada 100 km para su tamaño, es la alternativa sensata a los SUV premium alemanes para familias numerosas que necesitan espacio de verdad.",
+      "El 0-100 en 7,9 segundos para un coche de este porte habla de unos 329 CV que se notan, y la tracción total le da un plus de seguridad en mojado y nieve. La ficha es escueta en detalles —sin maletero declarado—, lo que sugiere que su comercialización europea aún está en fase de definición.",
       "Si Hyundai lo trae con ese precio, el Palisade puede hacer mucho daño a los SUV grandes premium: 329 CV híbridos por 40.000 euros no tienen rival directo.",
     ],
     veredicto: "Para familias numerosas que esperan su llegada oficial; si se confirma el precio, será una referencia.",
   },
   "hyundai-santa-fe-2024-precio-ficha-tecnica": {
     parrafos: [
-      "El Santa Fe 2024 híbrido con 239 CV por 56.020 euros es el SUV familiar con carácter: su diseño anguloso y aventurero lo distingue de todos los SUV redondeados del segmento, y el maletero de 628 litros con 7 plazas lo convierte en el coche de la familia numerosa por excelencia. Con 367 Nm, 9,8 segundos de 0 a 100 y 6,4 l/100 km, mueve su mole con dignidad y etiqueta ECO.",
+      "El Santa Fe 2024 híbrido con 239 CV por 56.020 euros es el SUV familiar con carácter: su diseño anguloso y aventurero lo distingue de todos los SUV redondeados del segmento, y el maletero de 628 litros con 7 plazas lo convierte en el coche de la familia numerosa por excelencia. Con 367 Nm, 9,8 segundos de 0 a 100 y 6,4 l cada 100 km, mueve su mole con dignidad y etiqueta ECO.",
       "Es un coche que se compra también por imagen: el Santa Fe tiene una presencia que sus rivales más anodinos no ofrecen, y el interior está a un nivel que justifica el precio. La tracción delantera de esta versión lo orienta al uso familiar más que aventurero.",
       "En ocasión, esta versión de 2024 será interesante cuando bajen los precios: el concepto no ha cambiado y el diseño sigue fresco.",
     ],
@@ -486,7 +486,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-santa-fe-hibrido-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Santa Fe Maxx HEV de 2026 actualiza la fórmula con 215 CV, tracción total, 628 litros de maletero y 59.020 euros. Los 367 Nm y el 0 a 100 en 9,8 segundos se mantienen, pero la tracción total añade el plus de seguridad que la versión 2024 de delantera no tenía. El consumo de 7,0 l/100 km es razonable para un 7 plazas de este tamaño con etiqueta ECO.",
+      "El Santa Fe Maxx HEV de 2026 actualiza la fórmula con 215 CV, tracción total, 628 litros de maletero y 59.020 euros. Los 367 Nm y el 9,8 s en el 0-100 km/hegundos se mantienen, pero la tracción total añade el plus de seguridad que la versión 2024 de delantera no tenía. El consumo de 7,0 l cada 100 km es razonable para un 7 plazas de este tamaño con etiqueta ECO.",
       "La gama Santa Fe se complica con versiones y precios cercanos —esta Maxx HEV, la 2024, la enchufable—, así que el comprador debe comparar con calma: la diferencia entre unas y otras está en la tracción, la etiqueta y el precio final con descuentos.",
       "Como coche familiar, el Santa Fe sigue siendo de lo mejor: espacio real para siete, maletero enorme y un diseño que no pasa desapercibido.",
     ],
@@ -495,7 +495,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   "hyundai-santa-fe-hibrido-enchufable-2026-precio-ficha-tecnica": {
     parrafos: [
       "El Santa Fe híbrido enchufable es la versión más completa: 288 CV, 54 kilómetros de autonomía eléctrica con 13,8 kWh, etiqueta Cero y 621 litros de maletero por 54.210 euros. Curiosamente, es más barato que el híbrido no enchufable Maxx, lo que lo convierte en la compra lógica para quien puede cargar en casa: 54 km dan para el día a día en eléctrico y los 288 CV con 380 Nm resuelven los viajes.",
-      "El 0 a 100 en 8 segundos y el consumo homologado de 3,8 l/100 km —cifra optimista que depende de cargar a diario— dibujan un 7 plazas que en uso real puede gastar muy poco. La tracción total y la etiqueta Cero redondean el paquete más versátil de la gama Santa Fe.",
+      "El 0-100 en 8 segundos y el consumo homologado de 3,8 l cada 100 km —cifra optimista que depende de cargar a diario— dibujan un 7 plazas que en uso real puede gastar muy poco. La tracción total y la etiqueta Cero redondean el paquete más versátil de la gama Santa Fe.",
       "Es el Santa Fe para el comprador informado: más potencia, mejor etiqueta y menor precio que el HEV. Difícil encontrarle un pero si hay enchufe en casa.",
     ],
     veredicto: "Para familias con cargador en casa; la mejor versión del Santa Fe en relación precio/etiqueta.",
@@ -510,7 +510,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-staria-hibrido-2026-precio-ficha-tecnica": {
     parrafos: [
-      "La Staria híbrida de 2026 cambia las reglas: 225 CV, etiqueta ECO, batería de 1,49 kWh y un maletero de 831 litros por 48.640 euros. Es más barata que la diésel, más potente y con mejor etiqueta: la hibridación le sienta de maravilla a un monovolumen que pasa su vida en ciudad y extrarradio, donde el sistema híbrido más ahorra. El 0 a 100 en 10,2 segundos es digno para su tamaño.",
+      "La Staria híbrida de 2026 cambia las reglas: 225 CV, etiqueta ECO, batería de 1,49 kWh y un maletero de 831 litros por 48.640 euros. Es más barata que la diésel, más potente y con mejor etiqueta: la hibridación le sienta de maravilla a un monovolumen que pasa su vida en ciudad y extrarradio, donde el sistema híbrido más ahorra. El 0-100 en 10,2 segundos es digno para su tamaño.",
       "Los 831 litros de maletero con todas las plazas en uso son una cifra que ningún SUV de 7 plazas alcanza, y la etiqueta ECO la blinda para el uso urbano profesional. A 48.640 euros, es la Staria lógica para casi todos los usos.",
       "El diésel solo se justifica ya para quien hace autovía cargado a diario; para el resto, la híbrida es mejor en todo y más barata.",
     ],
@@ -526,7 +526,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-tucson-diesel-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El Tucson diésel mild hybrid de 136 CV es el último de su especie: 5,1 l/100 km, 546 litros de maletero, etiqueta ECO y 40.325 euros. Con 320 Nm y un 0 a 100 en 11,4 segundos, es el rutero por excelencia para quien hace 30.000 kilómetros al año de autovía: ningún híbrido de gasolina iguala su consumo real a 120 km/h cargado.",
+      "El Tucson diésel mild hybrid de 136 CV es el último de su especie: 5,1 l cada 100 km, 546 litros de maletero, etiqueta ECO y 40.325 euros. Con 320 Nm y un 0 a 100 en 11,4 segundos, es el rutero por excelencia para quien hace 30.000 kilómetros al año de autovía: ningún híbrido de gasolina iguala su consumo real a 120 km/h cargado.",
       "La hibridación ligera le da la etiqueta ECO, algo que los diésel puros ya no consiguen, y eso le alarga la vida comercial en las ZBE. A 40.325 euros no es barato, pero para el gran rutero se amortiza en combustible.",
       "Es un coche en vías de extinción que aún tiene todo el sentido para su nicho: el comercial que vive en la autovía no necesita un eléctrico, necesita esto.",
     ],
@@ -534,7 +534,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-tucson-gasolina-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El Tucson de gasolina de 160 CV con hibridación ligera por 36.025 euros es la entrada al C-SUV con etiqueta ECO: 9,9 segundos de 0 a 100, 265 Nm, 6,5 l/100 km y 577 litros de maletero. Es el Tucson para quien viene de un compacto y quiere espacio sin saltar al diésel ni al híbrido completo.",
+      "El Tucson de gasolina de 160 CV con hibridación ligera por 36.025 euros es la entrada al C-SUV con etiqueta ECO: 9,9 segundos de 0 a 100, 265 Nm, 6,5 l cada 100 km y 577 litros de maletero. Es el Tucson para quien viene de un compacto y quiere espacio sin saltar al diésel ni al híbrido completo.",
       "Los 160 CV mueven con soltura los 1.650 kg del conjunto, y el consumo de 6,5 litros es honesto para un gasolina de este tamaño. La etiqueta ECO, gracias al sistema de 48V, es su gran activo frente a los gasolina puros de la competencia.",
       "Su rival interno es el híbrido de 239 CV: por unos 4.700 euros más ofrece 79 CV extra y consumos menores. Este gasolina tiene sentido si el precio final con descuento es claramente inferior.",
     ],
@@ -542,7 +542,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-tucson-hibrido-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Tucson híbrido de 2026 es la referencia del C-SUV: 239 CV, 5,6 l/100 km, 616 litros de maletero —el mayor de su categoría— y etiqueta ECO por 40.775 euros. El 0 a 100 en 7,8 segundos con 380 Nm le da prestaciones de compacto deportivo con consumo de utilitario, y la gama 2026 sube la potencia desde los 215 CV anteriores sin subir el precio de acceso.",
+      "El Tucson híbrido de 2026 es la referencia del C-SUV: 239 CV, 5,6 l cada 100 km, 616 litros de maletero —el mayor de su categoría— y etiqueta ECO por 40.775 euros. El 0-100 en 7,8 segundos con 380 Nm le da prestaciones de compacto deportivo con consumo de utilitario, y la gama 2026 sube la potencia desde los 215 CV anteriores sin subir el precio de acceso.",
       "Es el coche que ha convertido al Tucson en superventas: hibridación completa que ahorra de verdad en ciudad, maletero de récord y un precio que deja en evidencia a rivales alemanes y japoneses equivalentes. Los 239 CV además eliminan cualquier complejo de potencia.",
       "Frente al RAV4 o el Qashqai e-Power, el Tucson ofrece más maletero y más equipamiento por euro: la receta coreana en estado puro.",
     ],
@@ -558,7 +558,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-tucson-hibrido-n-line-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Tucson N Line híbrido combina los 239 CV del HEV con la estética deportiva por 47.475 euros: 7,8 segundos de 0 a 100, 380 Nm, 5,8 l/100 km, 616 litros de maletero y etiqueta ECO. Es el Tucson para quien quiere el mejor sistema híbrido con la mejor imagen, y está dispuesto a pagar el sobreprecio de casi 7.000 euros sobre el híbrido normal.",
+      "El Tucson N Line híbrido combina los 239 CV del HEV con la estética deportiva por 47.475 euros: 7,8 segundos de 0 a 100, 380 Nm, 5,8 l cada 100 km, 616 litros de maletero y etiqueta ECO. Es el Tucson para quien quiere el mejor sistema híbrido con la mejor imagen, y está dispuesto a pagar el sobreprecio de casi 7.000 euros sobre el híbrido normal.",
       "La batería de 1,49 kWh y el sistema son los mismos del HEV, así que la diferencia es estética y de equipamiento: llantas, paragolpes, asientos deportivos. Mecánicamente, el mismo superventas con otro traje. El equipamiento N Line suma llantas específicas y asientos deportivos que justifican parte del sobreprecio para quien valora la estética.",
       "Tiene sentido para el comprador que valora la imagen tanto como la eficiencia; el racional se queda con el híbrido normal y ahorra una cifra considerable.",
     ],
@@ -566,7 +566,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-tucson-n-line-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Tucson N Line 2026 con el 1.6 TGDi de 150 CV e hibridación ligera por 41.412 euros es la imagen deportiva accesible: 10,3 segundos de 0 a 100, 250 Nm, 6,7 l/100 km, 577 litros de maletero y etiqueta ECO. No es rápido, pero es el Tucson con más carácter visual sin subir a los híbridos potentes.",
+      "El Tucson N Line 2026 con el 1.6 TGDi de 150 CV e hibridación ligera por 41.412 euros es la imagen deportiva accesible: 10,3 segundos de 0 a 100, 250 Nm, 6,7 l cada 100 km, 577 litros de maletero y etiqueta ECO. No es rápido, pero es el Tucson con más carácter visual sin subir a los híbridos potentes.",
       "A 41.412 euros se solapa con el híbrido completo de 239 CV, y ahí está su dilema: por menos dinero, el HEV ofrece 89 CV más y menos consumo. El N Line MHEV solo se justifica por gusto estético o por una oferta comercial agresiva.",
       "Como coche es correcto y bien equipado; como compra, exige comparar fríamente con el híbrido antes de dejarse llevar por las llantas. Frente a los 239 CV del HEV, que cuesta menos y anda más, este N Line MHEV solo se defiende con una buena oferta comercial.",
     ],
@@ -574,7 +574,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "hyundai-tucson-phev-n-line-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El Tucson N Line PHEV es el tope de gama: 288 CV híbridos enchufables, 67 kilómetros de autonomía eléctrica, etiqueta Cero y estética N Line por 50.325 euros. Con 7,5 segundos de 0 a 100, 380 Nm y un consumo homologado de 2,9 l/100 km —cargando a diario—, es el Tucson más completo y también el más caro, con 558 litros de maletero.",
+      "El Tucson N Line PHEV es el tope de gama: 288 CV híbridos enchufables, 67 kilómetros de autonomía eléctrica, etiqueta Cero y estética N Line por 50.325 euros. Con 7,5 segundos de 0 a 100, 380 Nm y un consumo homologado de 2,9 l cada 100 km —cargando a diario—, es el Tucson más completo y también el más caro, con 558 litros de maletero.",
       "Los 67 km eléctricos lo hacen utilizable como eléctrico puro entre semana, y los 288 CV lo convierten en el Tucson más rápido. La etiqueta Cero lo blinda para las ZBE más exigentes. El precio lo coloca en territorio premium, pero el equipamiento N Line y la tecnología lo justifican para quien lo quiere todo.",
       "Es el Tucson sin renuncias: potencia, etiqueta, imagen y eficiencia. El único pero es el precio, que ya mira de tú a tú a los premium alemanes de acceso.",
     ],
@@ -646,8 +646,8 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "im-l7-2024-precio-ficha-tecnica": {
     parrafos: [
-      "El IM L7 de 2024 es la berlina grande de la marca: 340 CV, 708 kilómetros de autonomía con 90 kWh, 13,4 kWh/100 km de consumo y 435 litros de maletero por 38.987 euros. Con 475 Nm y un 0 a 100 en 5,9 segundos, juega en la liga de las berlinas ejecutivas eléctricas, pero a precio de generalista premium.",
-      "Los 708 kilómetros y el consumo de 13,4 kWh/100 km hablan de una eficiencia notable para su tamaño, y la tracción trasera le da el tacto de berlina clásica. Es el IM para quien necesita más coche que el L6: más presencia, más espacio, más autonomía. Los 13,4 kWh/100 km explican esos 708 kilómetros: es una de las berlinas grandes más eficientes del mercado.",
+      "El IM L7 de 2024 es la berlina grande de la marca: 340 CV, 708 kilómetros de autonomía con 90 kWh, 13,4 kWh cada 100 km de consumo y 435 litros de maletero por 38.987 euros. Con 475 Nm y un 0 a 100 en 5,9 segundos, juega en la liga de las berlinas ejecutivas eléctricas, pero a precio de generalista premium.",
+      "Los 708 kilómetros y el consumo de 13,4 kWh cada 100 km hablan de una eficiencia notable para su tamaño, y la tracción trasera le da el tacto de berlina clásica. Es el IM para quien necesita más coche que el L6: más presencia, más espacio, más autonomía. Los 13,4 kWh cada 100 km explican esos 708 kilómetros: es una de las berlinas grandes más eficientes del mercado.",
       "A 38.987 euros compite con el Tesla Model 3 de gama alta y las berlinas alemanas de acceso, ofreciendo más batería y más tecnología por menos dinero.",
     ],
     veredicto: "Para quien necesita berlina grande eléctrica sin precio premium; el buque insignia razonable de IM.",
@@ -670,7 +670,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "im-ls6-2026-precio-ficha-tecnica": {
     parrafos: [
-      "El LS6 2026 sube a 329 CV y 650 kilómetros de autonomía con 76 kWh, manteniendo los 26.400 euros: más potencia, más batería y mismo precio que el 2025. El 0 a 100 en 6,4 segundos es algo más tranquilo que antes, pero los 650 kilómetros son la cifra que importa en un SUV familiar.",
+      "El LS6 2026 sube a 329 CV y 650 kilómetros de autonomía con 76 kWh, manteniendo los 26.400 euros: más potencia, más batería y mismo precio que el 2025. El 0-100 en 6,4 segundos es algo más tranquilo que antes, pero los 650 kilómetros son la cifra que importa en un SUV familiar.",
       "IM ha entendido lo que quiere el mercado: no más potencia, más autonomía al mismo precio. Los 650 kilómetros eliminan la ansiedad en los viajes familiares, y los 26.400 euros lo colocan por debajo de cualquier rival europeo equivalente.",
       "Tres años de LS6 y cada uno mejor que el anterior al mismo precio: la evolución más favorable al comprador del segmento. Más autonomía al mismo precio: exactamente lo que piden las familias. Difícil pedirle más por 26.400 euros a un SUV eléctrico familiar.",
     ],
@@ -734,7 +734,7 @@ export const ANALISIS_COCHE_10: MapaAnalisis = {
   },
   "ineos-grenadier-station-wagon-2025-precio-ficha-tecnica": {
     parrafos: [
-      "El Grenadier Station Wagon es el 4x4 que el Defender dejó huérfano: 249 CV diésel BMW, 550 Nm, tracción total con reductora y bloqueos, y un maletero de 2.035 litros por 84.530 euros. Con 9,9 segundos de 0 a 100 y 11,2 l/100 km, no esconde que es un hierro de otra época, y esa es precisamente su gracia.",
+      "El Grenadier Station Wagon es el 4x4 que el Defender dejó huérfano: 249 CV diésel BMW, 550 Nm, tracción total con reductora y bloqueos, y un maletero de 2.035 litros por 84.530 euros. Con 9,9 segundos de 0 a 100 y 11,2 l cada 100 km, no esconde que es un hierro de otra época, y esa es precisamente su gracia.",
       "Ineos lo diseñó con una premisa radical: el mejor 4x4 posible sin concesiones a la moda. El resultado es un coche espartano, ruidoso y carismático, con una comunidad de propietarios que lo adora. La etiqueta C y el consumo lo lastran en la era de las ZBE, pero su comprador no mira esas cosas.",
       "A 84.530 euros no es barato, pero es único: no hay otro todoterreno nuevo con esta filosofía en el mercado. Los 2.035 litros de maletero lo convierten además en una herramienta de carga formidable.",
     ],

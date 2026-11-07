@@ -67,7 +67,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 133,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a todo riesgo. Precio en euros convertido desde yuanes (≈0,13 €/CNY).",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio en euros convertido desde yuanes (≈0,13 €/CNY).",
       estimado: true,
     },
     galeria: [
@@ -135,7 +135,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 138,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a todo riesgo. Precio en euros convertido desde yuanes (≈0,13 €/CNY).",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio en euros convertido desde yuanes (≈0,13 €/CNY).",
       estimado: true,
     },
     galeria: [
@@ -203,7 +203,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       mantenimientoAnual: 400,
       costeMensualTotal: 172,
       notas:
-        "Estimación con 15.000 km/año (70 % en modo eléctrico, 30 % con gasolina), recarga doméstica a 0,18 €/kWh y seguro a todo riesgo. Precio en euros convertido desde yuanes (≈0,13 €/CNY).",
+        "15.000 km/año (70 % en modo eléctrico, 30 % con gasolina), 0,18 €/kWh (doméstica); todo riesgo. Precio en euros convertido desde yuanes (≈0,13 €/CNY).",
       estimado: true,
     },
     galeria: [
@@ -281,7 +281,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       mantenimientoAnual: 1200,
       costeMensualTotal: 508,
       notas:
-        "Estimación con 10.000 km/año, recarga doméstica a 0,18 €/kWh y seguro a todo riesgo de hiperdeportivo. Precio en euros convertido desde yuanes (≈0,13 €/CNY).",
+        "Estimación con 10.000 km/año, 0,18 €/kWh (doméstica); todo riesgo de hiperdeportivo. Precio en euros convertido desde yuanes (≈0,13 €/CNY).",
       estimado: true,
     },
     galeria: [
@@ -334,7 +334,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       
       
     ],
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP", "url": null},
   },
   {
     id: "hyptec-a800-2026-precio-ficha-tecnica",
@@ -386,6 +386,6 @@ export const COCHES_HYPTEC: CocheComparador[] = [
       
       
     ],
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP", "url": null},
   },
 ];

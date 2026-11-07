@@ -154,7 +154,7 @@ export const ANALISIS_COCHE_23: MapaAnalisis = {
       "El sobreprecio sobre el 200H Advance —8.900 €— no compra ni un caballo más: misma mecánica de 197 CV, mismo maletero de 364 litros, idéntica visibilidad trasera comprometida y el mismo e-CVT que protesta a fondo. Lo que cambia es la factura y la presencia. Es la versión para quien ya decidió que quiere un C-HR y quiere el más llamativo.",
       "La comparación incómoda es interna: el C-HR PHEV, con 223 CV y etiqueta Cero, cuesta 8.400 € menos que este GR Sport. Solo el enamoramiento del diseño justifica la diferencia. A 42.900 €, este acabado convierte un SUV eficiente en un capricho estético con 5 estrellas EuroNCAP.",
     ],
-    veredicto: "Para quien quiere el C-HR más vistoso y equipado; no para quien busque la mejor relación precio-prestaciones.",
+    veredicto: "Para quien quiere el C-HR más vistoso y equipado; la mejor relación precio, no para quien busque-prestaciones.",
   },
   "toyota-c-hr-phev-2025-precio-ficha-tecnica": {
     parrafos: [
@@ -682,7 +682,7 @@ export const ANALISIS_COCHE_23: MapaAnalisis = {
       "Son 37.330 € frente a un León o un 308 más baratos con la misma mecánica, el maletero de 381 litros es justo para su tamaño, el equipamiento bueno exige paquetes opcionales caros y la pantalla táctil tiene menús mejorables. Se paga imagen y tacto alemán: la mecánica es la del eTSI básico.",
       "El R-Line es el Golf que parece rápido sin serlo: la estética racing por 37.330 €. Funciona porque el Golf tiene el chasis para respaldar la imagen: 8,4 s de 0-100 no son de deportivo, pero el aplomo en curva sí convence. El R-Line no añade potencia, pero el chasis del Golf respalda la imagen con creces.",
     ],
-    veredicto: "Para quien quiere el Golf con estética deportiva; no para quien busque la mejor relación precio-equipamiento.",
+    veredicto: "Para quien quiere el Golf con estética deportiva; la mejor relación precio, no para quien busque-equipamiento.",
   },
   "volkswagen-golf-20-tdi-2026-precio-ficha-tecnica": {
     parrafos: [

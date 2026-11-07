@@ -55,7 +55,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 86,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 13,1 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 13,1 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -140,7 +140,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 114,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 6,0 l/100 km × 1,85 €/l; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 6,0 l/100 km × 1,85 €/l; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -224,7 +224,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 109,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "coste mixto estimado (60 % eléctrico) × 0,18 €/kWh y 1,85 €/l; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "coste mixto estimado (60 % eléctrico) × 0,18 €/kWh y 1,85 €/l; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -305,7 +305,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 113,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 5,8 l/100 km × 1,85 €/l; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 5,8 l/100 km × 1,85 €/l; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -386,7 +386,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 129,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 8,0 l/100 km × 1,85 €/l; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 8,0 l/100 km × 1,85 €/l; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -472,7 +472,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 190,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "sin consumo WLTP publicado; estimado 12 l/100 km × 1,85 €/l; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "sin consumo WLTP publicado; estimado 12 l/100 km × 1,85 €/l; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -555,7 +555,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 212,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 12,4 l/100 km × 1,85 €/l; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 12,4 l/100 km × 1,85 €/l; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -638,7 +638,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 104,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "sin consumo WLTP publicado; estimado 18 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "sin consumo WLTP publicado; estimado 18 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -721,7 +721,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 112,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "sin consumo WLTP publicado; estimado 17,7 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "sin consumo WLTP publicado; estimado 17,7 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -804,7 +804,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 123,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 21 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 21 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -885,7 +885,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 130,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 21,3 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 21,3 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -966,7 +966,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 97,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 14,5 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 14,5 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1049,7 +1049,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 107,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "sin consumo WLTP publicado; estimado 18 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "sin consumo WLTP publicado; estimado 18 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1118,7 +1118,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 97,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 13,8 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 13,8 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1202,7 +1202,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 106,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 24,9 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 24,9 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1285,7 +1285,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 119,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "coste mixto estimado (50 % eléctrico) × 0,18 €/kWh y 1,85 €/l; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "coste mixto estimado (50 % eléctrico) × 0,18 €/kWh y 1,85 €/l; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1368,7 +1368,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 129,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 7,3 l/100 km × 1,85 €/l; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 7,3 l/100 km × 1,85 €/l; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1451,7 +1451,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 142,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "sin consumo WLTP publicado; estimado 9 l/100 km × 1,85 €/l; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "sin consumo WLTP publicado; estimado 9 l/100 km × 1,85 €/l; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1532,7 +1532,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 203,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 13,8 l/100 km × 1,85 €/l; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 13,8 l/100 km × 1,85 €/l; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1615,7 +1615,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 131,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "sin consumo WLTP publicado; estimado 6 l/100 km × 1,85 €/l en uso mixto con carga frecuente; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "sin consumo WLTP publicado; estimado 6 l/100 km × 1,85 €/l en uso mixto con carga frecuente; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1696,7 +1696,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "costeMensualTotal": 103,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 6,7 l/100 km × 1,85 €/l; 1.500 km/mes; seguro a todo riesgo y mantenimiento estimados por segmento",
+      "notas": "consumo WLTP 6,7 l/100 km × 1,85 €/l; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
       "estimado": true
     },
     galeria: [
@@ -1897,7 +1897,7 @@ export const COCHES_FORD: CocheComparador[] = [
     modelo: "E-Transit Courier",
     tipo: "Eléctrico",
     categoria: "Furgoneta",
-    precioDesde: 26900,
+    precioDesde: null,
     potenciaCv: 136,
     autonomiaKm: 292,
     maleteroL: null,
@@ -1914,7 +1914,7 @@ export const COCHES_FORD: CocheComparador[] = [
       "Etiqueta Cero para repartir sin restricciones",
     ],
     contras: [
-      "Precio con discrepancias según la fuente",
+      "Ford España no publica PVP oficial en su web: precio bajo consulta en concesionario",
       "Batería pequeña para ruta larga",
       "Carga útil limitada",
       "Interior funcional y espartano",
@@ -1930,7 +1930,7 @@ export const COCHES_FORD: CocheComparador[] = [
     parNm: 290,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     fuenteNombre: "driveduel.de / Ford",
     fuenteUrl: "https://es.driveduel.de/models/ford/transit-courier",
     imagen: "",

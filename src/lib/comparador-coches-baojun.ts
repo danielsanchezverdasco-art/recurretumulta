@@ -69,7 +69,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 200,
       costeMensualTotal: 91,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [
@@ -147,7 +147,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 220,
       costeMensualTotal: 100,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [
@@ -225,7 +225,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 250,
       costeMensualTotal: 106,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [
@@ -303,7 +303,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 280,
       costeMensualTotal: 113,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [
@@ -369,7 +369,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 118,
       notas:
-        "Estimación en modo eléctrico (12,6 kWh/100 km) con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. En uso mixto con gasolina el coste sube. Precio no disponible en Europa: cálculo orientativo.",
+        "Estimación en modo eléctrico (12,6 kWh/100 km) con 15.000 km/año, 0,18 €/kWh (doméstica) y todo riesgo. En uso mixto con gasolina el coste sube. Precio no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [
@@ -435,7 +435,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 118,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [
@@ -501,7 +501,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 320,
       costeMensualTotal: 126,
       notas:
-        "Estimación en modo eléctrico (14,6 kWh/100 km) con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. En uso mixto con gasolina el coste sube. Precio no disponible en Europa: cálculo orientativo.",
+        "Estimación en modo eléctrico (14,6 kWh/100 km) con 15.000 km/año, 0,18 €/kWh (doméstica) y todo riesgo. En uso mixto con gasolina el coste sube. Precio no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [
@@ -579,7 +579,7 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       mantenimientoAnual: 180,
       costeMensualTotal: 89,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. Precio del coche no disponible en Europa: cálculo orientativo.",
       estimado: true,
     },
     galeria: [
@@ -598,5 +598,38 @@ export const COCHES_BAOJUN: CocheComparador[] = [
       
     ],
     analisisSlug: "baojun-kiwi-ev-2024-precio-ficha-tecnica",
+    euroncap: {
+      "ano": null,
+      "estrellas": null,
+      "nota": "Sin datos EuroNCAP: el KiWi EV no ha sido probado por Euro NCAP (modelo solo a la venta en China).",
+      "url": null
+    },
+    planMantenimiento: {
+      "costeAnualAproxEur": null,
+      "fuente": "Laitimes, análisis de costes de uso del Baojun KiWi EV en China (17/02/2022): primera revisión a los 5.000 km y revisiones cada 10.000 km; sin manual ni plan oficial localizados para España",
+      "intervalo": "Primera revisión a los 5.000 km; después cada 10.000 km (cadencia para China; sin plan oficial publicado para España)",
+      "revisiones": [
+        {
+          "costeAproxEur": null,
+          "nombre": "Primera revisión / 5.000 km",
+          "queSeCambia": "Inspección gratuita del sistema eléctrico de alta tensión (batería, motor y electrónica de potencia), del chasis y del resto de sistemas del vehículo"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Revisión periódica / cada 10.000 km",
+          "queSeCambia": "Inspección general del vehículo; la inspección básica no incluye sustituciones programadas"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada 15.000 km",
+          "queSeCambia": "Filtro del climatizador + líquido de frenos"
+        },
+        {
+          "costeAproxEur": null,
+          "nombre": "Cada 20.000 km",
+          "queSeCambia": "Refrigerante + aceite del reductor"
+        }
+      ]
+    },
   },
 ];

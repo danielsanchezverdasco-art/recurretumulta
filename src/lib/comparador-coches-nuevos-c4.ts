@@ -9,6 +9,8 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 export const COCHES_NUEVOS_C4: CocheComparador[] = [
   {
     id: "toyota-yaris-cross-2026-precio-ficha-tecnica",
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/yaris-cross",
     marca: "Toyota",
     modelo: "Yaris Cross 130H 2026",
     tipo: "Híbrido",
@@ -75,7 +77,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: 5, ano: 2021, url: null, nota: null },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -88,6 +90,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
   },
   {
     id: "toyota-land-cruiser-250-2025-precio-ficha-tecnica",
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/land-cruiser",
     marca: "Toyota",
     modelo: "Land Cruiser 250 2025",
     tipo: "Híbrido ligero",
@@ -152,9 +156,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       { src: "/media/toyota-land-cruiser-250-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Toyota (foto de prensa) vía MotaAuto, licencia desconocida)", ancho: 1000, alto: 616 },
       { src: "/media/toyota-land-cruiser-250-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: AutoReview.nl (prueba del Land Cruiser 250 en Marruecos), licencia desconocida)", ancho: 800, alto: 533 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -167,11 +171,13 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
   },
   {
     id: "toyota-bz4x-2026-precio-ficha-tecnica",
+    fuenteNombre: "Toyota España",
+    fuenteUrl: "https://www.toyota.es/coches/bz4x",
     marca: "Toyota",
     modelo: "bZ4X 2026",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 39500,
+    precioDesde: 39375,
     potenciaCv: 224,
     autonomiaKm: 569,
     maleteroL: 452,
@@ -195,18 +201,18 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["maleteroL"],
     pros: [
-      "569 km WLTP: autonomía de referencia entre los SUV eléctricos",
-      "Desde 39.500 €: más barato que un RAV4 híbrido enchufable",
-      "Carga rápida de 150 kW (10-80 % en 28 minutos)",
-      "Garantía de batería ampliable a 10 años",
-      "Versión Spirit AWD de 343 CV disponible",
+      "El Toyota bZ4X 2026 homologa 569 km WLTP, una autonomía de referencia entre los SUV eléctricos.",
+      "Sus 39.500 euros lo dejan más barato que un RAV4 híbrido enchufable, con la ventaja del eléctrico puro.",
+      "La carga rápida de 150 kW del Toyota bZ4X 2026 pasa del 10 al 80 por ciento en 28 minutos.",
+      "La garantía de batería del Toyota bZ4X 2026 es ampliable a 10 años, un argumento de tranquilidad a largo plazo.",
+      "La versión Spirit AWD de 343 CV del Toyota bZ4X 2026 está disponible para quien busque prestaciones sin salir de Toyota.",
     ],
     contras: [
-      "La versión AWD baja la autonomía a 468 km",
-      "Sin maletero delantero (frunk)",
-      "Interior menos premium que los rivales coreanos",
-      "Velocidad máxima limitada a 160 km/h",
-      "Red de carga rápida propia aún en crecimiento",
+      "La versión AWD del Toyota bZ4X 2026 baja la autonomía a 468 km, frente a los 569 de la de tracción delantera.",
+      "El Toyota bZ4X 2026 no tiene maletero delantero, un hueco útil que otros eléctricos sí aprovechan.",
+      "El interior del Toyota bZ4X 2026 es menos premium que el de los rivales coreanos de precio similar.",
+      "La velocidad máxima del Toyota bZ4X 2026 está limitada a 160 km/h, suficiente pero sin margen para autobahn.",
+      "La red de carga rápida propia del Toyota bZ4X 2026 aún está en crecimiento en España.",
     ],
     imagen: "/media/toyota-bz4x-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/toyota-bz4x-2026-precio-ficha-tecnica-oficial.webp",
@@ -312,7 +318,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: 5, ano: 2021, url: null, nota: null },
     planMantenimiento: {
-      intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -352,20 +358,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 107,
     aprox: ["pesoKg", "parNm", "velocidadMax"],
-    pros: [
-      "Híbrido de 143 CV desde 24.200 €",
-      "4,7 l/100 km y 107 g/km con etiqueta ECO",
-      "El SUV urbano híbrido más asequible de Nissan",
-      "Diseño rompedor que no pasa de moda",
-      "Ideal para ciudad y ZBE",
-    ],
-    contras: [
-      "10,1 s de 0-100: el menos prestacional de la gama",
-      "Maletero de 354 litros, justo",
-      "Plazas traseras estrechas",
-      "Sin versión enchufable",
-      "El cambio automático puede resultar brusco",
-    ],
+    pros: ["El Juke Híbrido 2025 es un híbrido de 143 CV desde 24.200 €", "El Juke Híbrido 2025 gasta 4,7 litros cada 100 km y emite 107 g/km, con etiqueta ECO", "El Juke Híbrido 2025 es el SUV urbano híbrido más asequible de Nissan", "El diseño del Juke Híbrido 2025 es rompedor y no pasa de moda", "El Juke Híbrido 2025 es ideal para ciudad y ZBE"],
+    contras: ["El Juke Híbrido 2025 tarda 10,1 segundos de 0 a 100: el menos prestacional de la gama", "El maletero del Juke Híbrido 2025, de 354 litros, es justo", "Las plazas traseras del Juke Híbrido 2025 son estrechas", "El Juke Híbrido 2025 no tiene versión enchufable", "El cambio automático del Juke Híbrido 2025 puede resultar brusco"],
     imagen: "/media/nissan-juke-hibrido-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/nissan-juke-hibrido-2025-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "",
@@ -391,7 +385,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: 5, ano: 2019, url: null, nota: null },
     planMantenimiento: {
-      intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -431,20 +425,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: ["largoMm"],
-    pros: [
-      "410 km de autonomía WLTP: la eléctrica con más alcance de su clase",
-      "Carga rápida de 130 kW en corriente continua",
-      "Desde 45.000 €: la gran furgoneta eléctrica asequible",
-      "3 plazas y gran capacidad de carga",
-      "Etiqueta Cero para reparto urbano sin restricciones",
-    ],
-    contras: [
-      "Tamaño grande para moverse por ciudad (5,7 m)",
-      "Precio superior a la versión diésel",
-      "Red de carga para furgonetas aún escasa",
-      "Solo con tracción delantera",
-      "Autonomía real baja mucho con carga completa",
-    ],
+    pros: ["La Interstar-e anuncia 410 km de autonomía WLTP: la eléctrica con más alcance de su clase", "En corriente continua, la Interstar-e carga en rápida a 130 kW", "Desde 45.000 €, la Interstar-e es la gran furgoneta eléctrica asequible", "La Interstar-e ofrece 3 plazas y gran capacidad de carga", "Con etiqueta Cero, la Interstar-e reparte en ciudad sin restricciones"],
+    contras: ["La Interstar-e, con 5,7 m, es de tamaño grande para moverse por ciudad", "La Interstar-e cuesta más que la versión diésel", "La red de carga para furgonetas como la Interstar-e aún es escasa", "La Interstar-e solo se ofrece con tracción delantera", "La autonomía real de la Interstar-e baja mucho con carga completa"],
     imagen: "",
     imagenOficial: "/media/nissan-interstar-ev-2025-precio-ficha-tecnica-hero.webp",
     imagenInteriorOficial: "",
@@ -537,7 +519,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: nueva generación no probada" },
     planMantenimiento: {
-      intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -677,7 +659,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: 5, ano: 2021, url: null, nota: null },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -690,6 +672,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
   },
   {
     id: "hyundai-kona-n-line-2026-precio-ficha-tecnica",
+    fuenteNombre: "Hyundai España",
+    fuenteUrl: "https://www.hyundai.com/es/es/modelos/kona.html",
     marca: "Hyundai",
     modelo: "Kona N Line 2026",
     tipo: "Gasolina",
@@ -742,9 +726,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       { src: "/media/hyundai-kona-n-line-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: CarExpert, licencia desconocida)", ancho: 1200, alto: 800 },
       { src: "/media/hyundai-kona-n-line-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: AutoExpress, licencia desconocida)", ancho: 1260, alto: 710 },
     ],
-    euroncap: { estrellas: 5, ano: 2023, url: null, nota: null },
+    euroncap: { estrellas: 4, ano: 2023, url: null, nota: "Prueba del Hyundai Kona (2ª generación), 2023" },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -825,7 +809,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: 4, ano: 2021, url: null, nota: "4 estrellas Euro NCAP (2021)" },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -906,7 +890,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: la versión N no se probó de forma independiente (el i30 obtuvo 5 estrellas en 2017)" },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1064,7 +1048,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP verificados para esta versión" },
     planMantenimiento: {
-      intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 15.000 km",
@@ -1129,8 +1113,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       { src: "/media/kia-pv5-2026-precio-ficha-tecnica-hunt2.webp", alt: "PV5 2026 (foto: Kia (imagen oficial de estudio, vía EV-olution), licencia desconocida)", ancho: 1600, alto: 900 },
       { src: "/media/kia-pv5-2026-precio-ficha-tecnica-hunt3.webp", alt: "PV5 2026 (foto: Kia (foto de prensa oficial, vía Ford Authority), licencia desconocida)", ancho: 1536, alto: 863 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Tabla oficial Kia Service Intervals V26.6 (Kia UK, junio 2026): PV5 desde 2026, EV, 20.000 / 24 (millas / meses, lo que ocurra antes); verificado el 22/10/2026. No se localizó un desglose equivalente publicado por Kia España para el PV5, por eso no se citan costes.", "intervalo": "Cada 24 meses o 20.000 millas (lo que ocurra antes), según tabla oficial de intervalos Kia para el PV5 2026 eléctrico; no es el genérico de 30.000 km que figuraba en la ficha", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada a los 24 meses o 20.000 millas", "queSeCambia": "Inspección programada del vehículo, revisión de frenos, batería de alto voltaje y sistemas eléctricos y filtro de habitáculo según estado; Kia no publica un desglose de sustituciones específico del PV5 localizado en esta verificación"}]},
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Tabla oficial Kia Service Intervals V26.6 (Kia UK, junio 2026): PV5 desde 2026, EV, 20.000 / 24 (millas / meses); verificado el 22/10/2026. No se localizó un desglose equivalente publicado por Kia España para el PV5, por eso no se citan costes.", "intervalo": "Cada 24 meses o 20.000 millas, según tabla oficial de intervalos Kia para el PV5 2026 eléctrico; no es el genérico de 30.000 km que figuraba en la ficha", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada a los 24 meses o 20.000 millas", "queSeCambia": "Inspección programada del vehículo, revisión de frenos, batería de alto voltaje y sistemas eléctricos y filtro de habitáculo según estado; Kia no publica un desglose de sustituciones específico del PV5 localizado en esta verificación"}]},
   },
   {
     id: "kia-ev5-gt-line-2026-precio-ficha-tecnica",
@@ -1358,9 +1342,9 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       { src: "/media/ford-bronco-2025-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 20.000 km (foto: AutoRAI.nl (prueba Ford Bronco Badlands 2024), licencia desconocida)", ancho: 1140, alto: 641 },
       { src: "/media/ford-bronco-2025-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 20.000 km (foto: PruebaTuCoche (prueba Ford Bronco Badlands en España), licencia desconocida)", ancho: 1024, alto: 768 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado en Europa" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP en Europa" },
     planMantenimiento: {
-      intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -1439,7 +1423,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       { src: "/media/ford-transit-city-2026-precio-ficha-tecnica-hunt2.webp", alt: "Transit City 2026 (foto: Ford China / JMC vía Autoblog.gr, licencia desconocida)", ancho: 1600, alto: 1066 },
       { src: "/media/ford-transit-city-2026-precio-ficha-tecnica-hunt3.webp", alt: "Transit City 2026 (foto: Ford Pro (imagen oficial de prensa) vía AutoExpress, licencia desconocida)", ancho: 1260, alto: 710 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP" },
     planMantenimiento: {
       intervalo: "Según plan de mantenimiento Ford",
       revisiones: [],
@@ -1585,7 +1569,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: 5, ano: 2018, url: null, nota: "Ford Focus Mk4: 5 estrellas EuroNCAP (2018)" },
     planMantenimiento: {
-      intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -1665,7 +1649,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     ],
     euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: furgoneta no probada" },
     planMantenimiento: {
-      intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "20.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 20.000 km",
@@ -1706,18 +1690,18 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["autonomiaKm", "velocidadMax", "bateriaKwh", "cargaRapidaKw"],
     pros: [
-      "1.020 CV: la berlina más rápida del mundo",
-      "0-100 km/h en 2,1 segundos",
-      "Producción terminada en 2026: futura pieza de colección",
-      "600 km de autonomía WLTP",
-      "Autopilot de serie",
+      "El Model S Plaid entrega 1.020 CV, y es la berlina más rápida del mundo en aceleración pura.",
+      "Sus 2,1 segundos de 0 a 100 km/h dejan al Model S Plaid en territorio de hiperdeportivos.",
+      "La producción del Model S Plaid terminó en 2026, lo que lo convierte en una futura pieza de colección.",
+      "La autonomía WLTP del Model S Plaid llega a 600 km, así que no es solo un coche de aceleraciones cortas.",
+      "El Autopilot de serie del Model S Plaid forma parte de su equipamiento sin coste adicional.",
     ],
     contras: [
-      "Descatalogado en Europa: solo stock y ocasión",
-      "Sin precio oficial en España",
-      "Tamaño enorme para las calles europeas",
-      "Calidad de acabados mejorable",
-      "Reparaciones caras y con esperas",
+      "El Model S Plaid está descatalogado en Europa: solo quedan stock y ocasión, sin pedidos nuevos a fábrica.",
+      "El Model S Plaid no tiene precio oficial en España, y la cifra de su ficha es solo una referencia de mercado.",
+      "El tamaño del Model S Plaid es enorme para las calles europeas, y aparcarlo en ciudad se complica.",
+      "La calidad de acabados del Model S Plaid es mejorable para un coche de su precio y pretensiones.",
+      "Las reparaciones del Model S Plaid son caras y con esperas, por la red propia y limitada de Tesla.",
     ],
     imagen: "",
     imagenOficial: "/media/tesla-model-s-plaid-2026-precio-ficha-tecnica-interior-oficial.webp",
@@ -1742,6 +1726,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       ],
       fuente: "Tesla",
     },
+    fuenteNombre: "Tesla España",
+    fuenteUrl: "https://www.tesla.com/es_es/models",
   },
   {
     id: "tesla-model-x-plaid-2026-precio-ficha-tecnica",
@@ -1773,18 +1759,18 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["precioDesde", "autonomiaKm", "velocidadMax", "bateriaKwh", "cargaRapidaKw"],
     pros: [
-      "1.020 CV con puertas de ala de halcón",
-      "0-100 km/h en 2,6 segundos",
-      "6 plazas reales",
-      "Producción terminada en abril de 2026",
-      "El SUV eléctrico más rápido del mundo",
+      "El Model X Plaid combina 1.020 CV con puertas de ala de halcón, una combinación que ningún rival ofrece.",
+      "Sus 2,6 segundos de 0 a 100 km/h hacen del Model X Plaid el SUV eléctrico más rápido del mundo.",
+      "El Model X Plaid ofrece 6 plazas reales, algo raro en un SUV de sus prestaciones.",
+      "La producción del Model X Plaid terminó en abril de 2026, cerrando la historia de esta versión extrema.",
+      "El Model X Plaid une espacio familiar con aceleraciones de deportivo, sin renunciar a 543 km WLTP.",
     ],
     contras: [
-      "Descatalogado en Europa: solo stock y ocasión",
-      "Sin precio oficial en España",
-      "Puertas Falcon Wing con mantenimiento delicado",
-      "Enorme y poco práctico en ciudad",
-      "Red de talleres propia limitada",
+      "El Model X Plaid está descatalogado en Europa: solo quedan stock y ocasión, sin pedidos nuevos a fábrica.",
+      "El Model X Plaid no tiene precio oficial en España, y la cifra de su ficha es solo una referencia de mercado.",
+      "Las puertas Falcon Wing del Model X Plaid tienen un mantenimiento delicado y costoso con el paso del tiempo.",
+      "El Model X Plaid es enorme y poco práctico en ciudad, tanto por tamaño como por sus puertas.",
+      "La red de talleres propia del Model X Plaid es limitada, y eso se nota en plazos de reparación.",
     ],
     imagen: "/media/tesla-model-x-plaid-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/tesla-model-x-plaid-2026-precio-ficha-tecnica-oficial.webp",
@@ -1809,7 +1795,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       { src: "/media/tesla-model-x-plaid-2026-precio-ficha-tecnica-hunt2.webp", alt: "Sustitución del filtro de habitáculo (foto: Ethan Llamas / Wikimedia Commons, licencia CC BY-SA 4.0)", ancho: 1280, alto: 720 },
       { src: "/media/tesla-model-x-plaid-2026-precio-ficha-tecnica-hunt3.webp", alt: "Sustitución del filtro de habitáculo (foto: Calreyn88 / Wikimedia Commons, licencia CC0)", ancho: 1280, alto: 929 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado en Europa" },
+    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin test EuroNCAP en Europa" },
     planMantenimiento: {
       intervalo: "Sin mantenimiento programado por el fabricante",
       revisiones: [
@@ -1821,6 +1807,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       ],
       fuente: "Tesla",
     },
+    fuenteNombre: "Tesla España",
+    fuenteUrl: "https://www.tesla.com/es_es/modelx",
   },
   {
     id: "tesla-cybertruck-2026-precio-ficha-tecnica",
@@ -1852,18 +1840,18 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: ["autonomiaKm", "velocidadMax", "bateriaKwh"],
     pros: [
-      "600 CV y 0-100 en 4,3 segundos",
-      "Carrocería de acero inoxidable",
-      "547 km de autonomía (ciclo EPA)",
-      "El coche más mediático del mundo",
-      "Caja de carga de 1,9 m de largo",
+      "El Tesla Cybertruck entrega 600 CV y acelera de 0 a 100 km/h en 4,3 segundos, cifras de deportivo en un pick-up.",
+      "Su carrocería de acero inoxidable hace del Tesla Cybertruck un coche imposible de confundir con otro.",
+      "La autonomía del Tesla Cybertruck llega a 547 km en ciclo EPA, suficiente para viajar sin planificar cada parada.",
+      "El Tesla Cybertruck es el coche más mediático del mundo, y eso se traduce en atención allá donde aparece.",
+      "La caja de carga del Tesla Cybertruck mide 1,9 metros de largo, útil para trabajo y para ocio al aire libre.",
     ],
     contras: [
-      "No homologado en Europa: no se vende en España",
-      "Sin precio ni fecha europea",
-      "Tamaño imposible para la ciudad (5,7 m)",
-      "Sin etiqueta DGT al no venderse aquí",
-      "Repuestos inexistentes en Europa",
+      "El Tesla Cybertruck no está homologado en Europa, así que no se vende en España de forma oficial.",
+      "El Tesla Cybertruck no tiene precio ni fecha europea anunciados, y su llegada sigue siendo una incógnita.",
+      "El tamaño del Tesla Cybertruck, con 5,7 metros, lo hace imposible para la ciudad europea.",
+      "El Tesla Cybertruck no tiene etiqueta DGT al no venderse aquí, así que su acceso urbano queda en el aire.",
+      "Los repuestos del Tesla Cybertruck en Europa son inexistentes, un problema para cualquier unidad importada.",
     ],
     imagen: "/media/tesla-cybertruck-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/tesla-cybertruck-2026-precio-ficha-tecnica-oficial.webp",
@@ -1894,5 +1882,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       revisiones: [],
       fuente: "Tesla",
     },
+    fuenteNombre: "Tesla (web oficial global)",
+    fuenteUrl: "https://www.tesla.com/cybertruck",
   },
 ];

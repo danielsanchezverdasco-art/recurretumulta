@@ -134,7 +134,7 @@ export const AUTOCARAVANAS_RAPIDO_M5: Autocaravana[] = [
     analisisSlug: "rapido-666f-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Fiat Ducato / Peugeot Boxer: revisión cada 2 años o 40.000 km (lo que antes ocurra, según plan del fabricante)",
+        "Base Fiat Ducato / Peugeot Boxer: 2 años / 40.000 km (lo que antes ocurra, según plan del fabricante)",
       revisiones: [
         {
           nombre: "Revisión base (Fiat Ducato / Peugeot Boxer)",

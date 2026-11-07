@@ -38,7 +38,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "coches.net",
@@ -118,7 +118,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "coches.net",
@@ -198,7 +198,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "Europa Press",
@@ -263,14 +263,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     ceroCien: 7.6,
     consumo: 18.1,
     consumoUnidad: "kWh/100 km",
-    contras: [
-      "2.119 kg de peso que se notan en el consumo real, lejos de los 18,1 kWh/100 km homologados",
-      "Los 130 kW de carga quedan por debajo de rivales coreanos que superan los 200 kW",
-      "Solo disponible con tracción delantera; el e-4ORCE total cuesta bastante más",
-      "Ventas testimoniales en España (147 unidades en 2026): valor de reventa e infraestructura inciertos",
-      "A igualdad de precio, la competencia china ofrece más autonomía por euro",
-      "El sistema multimedia y los mandos táctiles están un paso por detrás de los mejores del segmento"
-    ],
+    contras: ["Los 2.119 kg del Ariya 87 kWh 242 2026 se notan en el consumo real, lejos de los 18,1 kWh cada 100 km homologados", "En continua, el Ariya 87 kWh 242 2026 admite hasta 130 kW, por debajo de rivales coreanos que superan los 200 kW", "El Ariya 87 kWh 242 2026 solo se ofrece con tracción delantera; el e-4ORCE total cuesta bastante más", "Las ventas del Ariya 87 kWh 242 2026 son testimoniales en España, 147 unidades en 2026: valor de reventa e infraestructura inciertos", "A igualdad de precio, la competencia china ofrece más autonomía por euro que el Ariya 87 kWh 242 2026", "El sistema multimedia y los mandos táctiles del Ariya 87 kWh 242 2026 quedan por detrás de los mejores del segmento"],
     emisionesCo2: 0,
     etiquetaDgt: "Cero",
     euroncap: {
@@ -283,13 +276,13 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     fuenteUrl: "https://www.km77.com/coches/nissan/ariya/2022/estandar/estandar/ariya-engage-178-kw-242-cv-87-kwh-4x2/datos",
     galeria: [
       {
-        alt: "Nissan Ariya 87 kWh 242 2026, vista lateral exterior",
+        alt: "Vista lateral exterior del Nissan Ariya 87 kWh 242 2026",
         alto: 865,
         ancho: 1538,
         src: "/media/nissan-ariya-87kwh-242-2026-precio-ficha-tecnica-oficial.webp"
       },
       {
-        alt: "Interior del Nissan Ariya 87 kWh 242 2026 con doble pantalla",
+        alt: "El interior del Nissan Ariya 87 kWh 242 2026 y su doble pantalla",
         alto: 675,
         ancho: 1200,
         src: "/media/nissan-ariya-87kwh-242-2026-precio-ficha-tecnica-interior-oficial.webp"
@@ -315,14 +308,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     plazas: 5,
     potenciaCv: 242,
     precioDesde: 44250,
-    pros: [
-      "535 km de autonomía WLTP: la versión de mayor alcance de toda la gama Ariya",
-      "5 estrellas Euro NCAP (2022) con un 93 % en asistentes de seguridad",
-      "242 CV y 300 Nm con tracción delantera: el equilibrio más sensato entre prestaciones y eficiencia",
-      "Carga rápida en continua de hasta 130 kW",
-      "Maletero de 468 litros y suelo completamente plano gracias a la plataforma CMF-EV",
-      "Desde 44.250 € es la forma más accesible de tener el Ariya con la batería grande de 87 kWh"
-    ],
+    pros: ["El Ariya 87 kWh 242 2026 anuncia 535 km de autonomía WLTP: la versión de mayor alcance de toda la gama Ariya", "Euro NCAP dio al Ariya 87 kWh 242 2026 cinco estrellas en 2022 y un 93 % en asistentes de seguridad", "El Ariya 87 kWh 242 2026 combina 242 CV y 300 Nm con tracción delantera: el equilibrio más sensato entre prestaciones y eficiencia", "El Ariya 87 kWh 242 2026 carga en continua hasta 130 kW", "El maletero del Ariya 87 kWh 242 2026, de 468 litros, tiene suelo completamente plano gracias a la plataforma CMF-EV", "Desde 44.250 €, el Ariya 87 kWh 242 2026 es la forma más accesible de tener el Ariya con la batería grande de 87 kWh"],
     tipo: "Eléctrico",
     traccion: "Delantera",
     velocidadMax: 160,
@@ -343,33 +329,26 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     ceroCien: 8.6,
     consumo: 13.8,
     consumoUnidad: "kWh/100 km",
-    contras: [
-      "Carga rápida limitada a 105 kW, frente a los 150 kW de la versión de 75 kWh",
-      "La nueva generación aún no ha sido evaluada por Euro NCAP",
-      "Maletero de 437 litros, por debajo del Kia EV3 (460 L) o el Skoda Elroq (470 L)",
-      "Batería pequeña para viajar: en autopista real los 445 km WLTP se quedan cortos",
-      "Precio de partida elevado frente a rivales como el VW ID.3 o el Citroën ë-C4",
-      "Sin maletero delantero (frunk) para los cables de carga"
-    ],
+    contras: ["La carga rápida del Leaf 52 kWh se limita a 105 kW, frente a los 150 kW de la versión de 75 kWh", "Euro NCAP aún no ha evaluado la nueva generación del Leaf 52 kWh", "El maletero del Leaf 52 kWh, de 437 litros, queda por debajo del Kia EV3, de 460 litros, o el Skoda Elroq, de 470 litros", "El Leaf 52 kWh lleva batería pequeña para viajar: en autopista real, los 445 km WLTP se quedan cortos", "El precio de partida del Leaf 52 kWh es elevado frente a rivales como el VW ID.3 o el Citroën ë-C4", "El Leaf 52 kWh no tiene maletero delantero para los cables de carga"],
     emisionesCo2: 0,
     etiquetaDgt: "Cero",
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/nissan/leaf/informacion",
     galeria: [
       {
-        alt: "Nissan Leaf 52 kWh 2026, vista lateral exterior",
+        alt: "Vista lateral exterior del Nissan Leaf 52 kWh 2026",
         alto: 800,
         ancho: 1200,
         src: "/media/nissan-leaf-2026-52-kwh-precio-ficha-tecnica-oficial.webp"
       },
       {
-        alt: "Interior del Nissan Leaf 52 kWh 2026 con doble pantalla",
+        alt: "El interior del Nissan Leaf 52 kWh 2026 y su doble pantalla",
         alto: 800,
         ancho: 1200,
         src: "/media/nissan-leaf-2026-52-kwh-precio-ficha-tecnica-interior-oficial.webp"
@@ -395,14 +374,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     plazas: 5,
     potenciaCv: 177,
     precioDesde: 37080,
-    pros: [
-      "Desde 37.080 € es la puerta de acceso al nuevo Leaf 2026, ahora con formato crossover",
-      "445 km WLTP con solo 52 kWh: eficiencia desde 13,8 kWh/100 km, de las mejores del segmento",
-      "Cx de 0,25, el coeficiente aerodinámico más bajo entre sus rivales directos",
-      "177 CV y 345 Nm con un 0-100 en 8,6 s: más que suficiente para todo uso",
-      "Plataforma CMF-EV compartida con el Ariya y los Renault Megane y Scenic E-Tech",
-      "Garantía de la batería de 8 años o 160.000 km según la web oficial de Nissan España"
-    ],
+    pros: ["Desde 37.080 €, el Leaf 52 kWh es la puerta de acceso al nuevo Leaf 2026, ahora con formato crossover", "El Leaf 52 kWh anuncia 445 km WLTP con solo 52 kWh: eficiencia desde 13,8 kWh cada 100 km, de las mejores del segmento", "El Leaf 52 kWh tiene un Cx de 0,25, el coeficiente aerodinámico más bajo entre sus rivales directos", "El Leaf 52 kWh combina 177 CV y 345 Nm con un 0-100 en 8,6 segundos: más que suficiente para todo uso", "El Leaf 52 kWh usa la plataforma CMF-EV, compartida con el Ariya y los Renault Megane y Scenic E-Tech", "Según la web oficial de Nissan España, la garantía de la batería del Leaf 52 kWh cubre 8 años o 160.000 km"],
     tipo: "Eléctrico",
     traccion: "Delantera",
     velocidadMax: null,
@@ -423,33 +395,26 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     ceroCien: 7.6,
     consumo: 13.8,
     consumoUnidad: "kWh/100 km",
-    contras: [
-      "Desde 42.080 €: el salto de precio respecto al 52 kWh es notable",
-      "La nueva generación aún no ha pasado las pruebas Euro NCAP",
-      "1.956 kg de peso que penalizan la agilidad en tramos revirados",
-      "Maletero de 437 litros, justo para un crossover familiar de 4,35 m",
-      "Sin maletero delantero para guardar los cables de carga",
-      "Los acabados altos (Advance, Evolve) pierden hasta 38 km de autonomía respecto al Engage"
-    ],
+    contras: ["El Leaf 75 kWh parte de 42.080 €: el salto de precio respecto al 52 kWh es notable", "El Leaf 75 kWh, nueva generación, aún no ha pasado las pruebas Euro NCAP", "Los 1.956 kg del Leaf 75 kWh penalizan la agilidad en tramos revirados", "El maletero del Leaf 75 kWh, de 437 litros, es justo para un crossover familiar de 4,35 m", "En el Leaf 75 kWh tampoco hay frunk donde guardar los cables de carga", "Los acabados altos del Leaf 75 kWh, Advance y Evolve, pierden hasta 38 km de autonomía respecto al Engage"],
     emisionesCo2: 0,
     etiquetaDgt: "Cero",
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/nissan/leaf/informacion",
     galeria: [
       {
-        alt: "Nissan Leaf 75 kWh 2026, vista lateral exterior",
+        alt: "El Nissan Leaf 75 kWh 2026, vista lateral exterior",
         alto: 800,
         ancho: 1200,
         src: "/media/nissan-leaf-2026-75-kwh-precio-ficha-tecnica-oficial.webp"
       },
       {
-        alt: "Interior del Nissan Leaf 75 kWh 2026 con doble pantalla",
+        alt: "Habitáculo del Nissan Leaf 75 kWh 2026 con doble pantalla",
         alto: 800,
         ancho: 1200,
         src: "/media/nissan-leaf-2026-75-kwh-precio-ficha-tecnica-interior-oficial.webp"
@@ -475,14 +440,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     plazas: 5,
     potenciaCv: 218,
     precioDesde: 42080,
-    pros: [
-      "622 km de autonomía WLTP: la mayor de su segmento, por delante del Kia EV3 y el Skoda Elroq",
-      "218 CV, 355 Nm y un 0-100 en 7,6 s con respuesta inmediata",
-      "Carga rápida de 150 kW: recupera hasta 420 km en unos 30 minutos",
-      "Eficiencia de referencia, desde 13,8 kWh/100 km gracias al Cx de 0,25",
-      "Gestión térmica de la batería mejorada para evitar los problemas de degradación de generaciones anteriores",
-      "Cuesta solo 5.000 € más que el 52 kWh Engage y ofrece 177 km extra de autonomía"
-    ],
+    pros: ["El Leaf 75 kWh homologa 622 km WLTP, la mayor cifra de su segmento, por delante del Kia EV3 y el Skoda Elroq", "El Leaf 75 kWh combina 218 CV y 355 Nm con un 0-100 en 7,6 segundos y respuesta inmediata", "La carga rápida del Leaf 75 kWh, de 150 kW, recupera hasta 420 km en unos 30 minutos", "La eficiencia del Leaf 75 kWh es de referencia, desde 13,8 kWh cada 100 km gracias al Cx de 0,25", "La gestión térmica de la batería del Leaf 75 kWh está mejorada para evitar los problemas de degradación de generaciones anteriores", "El Leaf 75 kWh cuesta solo 5.000 € más que el 52 kWh Engage y ofrece 177 km extra de autonomía"],
     tipo: "Eléctrico",
     traccion: "Delantera",
     velocidadMax: null,
@@ -518,7 +476,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "hibridosyelectricos.com",
@@ -558,7 +516,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     potenciaCv: 8,
     precioDesde: 8800,
     pros: [
-      "Se conduce desde los 15 años con el carnet AM: ideal como primer vehículo para adolescentes.",
+      "Con el carnet AM basta para llevarlo desde los 15 años: este S04 L6e de 2.330 mm funciona como primer vehículo para adolescentes.",
       "Baterías extraíbles tipo trolley que se intercambian en 30 segundos en las estaciones Silence, sin esperar cargas.",
       "Fabricado en España (Barcelona) y distribuido en Europa a través de la red de Nissan.",
       "Aire acondicionado y calefacción de serie, algo muy raro en un cuadriciclo.",
@@ -601,7 +559,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "hibridosyelectricos.com",
@@ -643,7 +601,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     pros: [
       "Alcanza 85 km/h: suficiente para rondas y desplazamientos interurbanos cortos.",
       "Mismo sistema de baterías extraíbles con 149 km de autonomía homologada con dos baterías.",
-      "Etiqueta Cero de la DGT: acceso libre a las ZBE de todas las ciudades españolas.",
+      "Con el distintivo Cero, este S04 L7e de 85 km/h entra en cualquier ZBE española, allí donde otros se quedan fuera.",
       "Interior sorprendentemente equipado: pantalla TFT de 7 pulgadas, Bluetooth y mandos en el volante.",
       "Se conduce con el carnet B y cuesta menos de 10.000 € con la batería en alquiler.",
       "Asientos asimétricos que aprovechan al máximo el habitáculo de solo 2,33 metros."
@@ -679,7 +637,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "km77.com",
@@ -762,7 +720,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "invictaelectric.es",
@@ -842,7 +800,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "invictaelectric.es",
@@ -923,7 +881,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "km77.com",
@@ -1005,7 +963,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "invictaelectric.es",
@@ -1234,7 +1192,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "km77",
@@ -1384,13 +1342,13 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     emisionesCo2: 121,
     etiquetaDgt: "C",
     euroncap: {
-      ano: null,
-      estrellas: null,
-      nota: "Sin datos EuroNCAP verificados en esta investigación",
-      url: null
+      ano: 2022,
+      estrellas: 5,
+      nota: "Prueba oficial del Arona (restyling) 2022 (5 estrellas): 83 % adultos, 83 % infantil, 65 % usuarios vulnerables y 70 % asistencias; misma generación que la versión 2026",
+      url: "https://www.euroncap.com"
     },
-    fuenteNombre: "km77",
-    fuenteUrl: null,
+    fuenteNombre: "SEAT España",
+    fuenteUrl: "https://www.seat.es/coches/arona",
     galeria: [
       {
         alt: "SEAT Arona FR 1.0 TSI 115, vista exterior",
@@ -1421,14 +1379,25 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Arona FR 1.0 TSI 115",
     parNm: 200,
     pesoKg: 1213,
-    planMantenimiento: null,
+    planMantenimiento: {
+      costeAnualAproxEur: null,
+      fuente: "Programa de mantenimiento oficial SEAT",
+      intervalo: "30.000 km o 2 años (servicio flexible LongLife, PR QG1) o 15.000 km o 1 año (servicio fijo, PR QG0/QG2), lo que ocurra antes",
+      revisiones: [
+        {
+          costeAproxEur: null,
+          nombre: "Inspección / servicio de aceite",
+          queSeCambia: "Aceite y filtro de aceite + inspección general y filtro de polen según el plan de mantenimiento"
+        }
+      ]
+    },
     plazas: 5,
     potenciaCv: 116,
-    precioDesde: 28250,
+    precioDesde: 27850,
     pros: [
       "Acabado FR con estética deportiva y detalles en rojo sin sobreprecio excesivo",
       "Peso contenido de 1.213 kg que favorece agilidad y consumos",
-      "Motor 1.0 TSI de 116 CV con 200 Nm, suficiente para el día a día",
+      "Con 116 CV y 200 Nm, este Arona FR de 4.138 mm se mueve con soltura en rondas y accesos, sin pedir más motor para el uso diario.",
       "Maletero de 400 litros con doble fondo práctico",
       "Cambio manual de 6 velocidades preciso y agradable"
     ],
@@ -1728,8 +1697,8 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     parNm: null,
     pesoKg: 1575,
     planMantenimiento: {
-      fuente: "Lexus España: intervalo oficial 15.000 km o 1 año; costes no publicados por la marca",
-      intervalo: "Cada 15.000 km o 1 año",
+      fuente: "Lexus España: intervalo en vigor 15.000 km o 1 año; sin costes publicados por la marca",
+      intervalo: "Cada 15.000 km o cada año",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1905,8 +1874,8 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     parNm: 185,
     pesoKg: 1265,
     planMantenimiento: {
-      fuente: "Toyota España: intervalo oficial 15.000 km o 1 año; costes no publicados",
-      intervalo: "Cada 15.000 km o 1 año",
+      fuente: "Toyota España: intervalo en vigor 15.000 km o 1 año; sin costes publicados",
+      intervalo: "Cada 15.000 km o cada año",
       revisiones: [
         {
           costeAproxEur: null,
@@ -1993,8 +1962,8 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     parNm: null,
     pesoKg: 1265,
     planMantenimiento: {
-      fuente: "Lexus España: intervalo oficial 15.000 km o 1 año; costes no publicados",
-      intervalo: "Cada 15.000 km o 1 año",
+      fuente: "Lexus España: intervalo en vigor 15.000 km o 1 año; sin costes publicados",
+      intervalo: "Cada 15.000 km o cada año",
       revisiones: [
         {
           costeAproxEur: null,
@@ -2075,8 +2044,8 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     parNm: 185,
     pesoKg: 1420,
     planMantenimiento: {
-      fuente: "Toyota España: intervalo oficial 15.000 km o 1 año; costes no publicados",
-      intervalo: "Cada 15.000 km o 1 año",
+      fuente: "Toyota España: intervalo en vigor 15.000 km o 1 año; sin costes publicados",
+      intervalo: "Cada 15.000 km o cada año",
       revisiones: [
         {
           costeAproxEur: null,
@@ -2133,7 +2102,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "hyundai.news / km77.com",
@@ -2355,7 +2324,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "BMW España: intervalo oficial para eléctricos; la marca no publica precios de revisiones"
+      fuente: "BMW España: intervalo oficial para eléctricos; la marca no da precios de revisiones"
     },
     fuenteNombre: "BMW España",
     fuenteUrl: "https://www.bmw.es"
@@ -2435,7 +2404,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Mejor resultado de su categoría en 2025 (Best Performer)."
     },
     planMantenimiento: {
-      intervalo: "Cada 15.000 km o 1 año (Service A y Service B alternos)",
+      intervalo: "Cada 15.000 km o cada año (Service A y Service B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -2448,7 +2417,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "Mercedes-Benz España: intervalo oficial 15.000 km/1 año; precios de revisiones no publicados por la marca"
+      fuente: "Mercedes-Benz España: intervalo oficial 15.000 km/1 año; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "Mercedes-Benz España",
     fuenteUrl: "https://www.mercedes-benz.es"
@@ -2528,7 +2497,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Prueba realizada en diciembre de 2024 sobre la generación U25."
     },
     planMantenimiento: {
-      intervalo: "CBS (servicio basado en condición): orientativo cada 2 años o 25.000-30.000 km; el vehículo avisa en el cuadro",
+      intervalo: "CBS (según condición): orientativo cada 2 años o entre 25.000 y 30.000 km; el cuadro avisa al conductor",
       revisiones: [
         {
           nombre: "Cambio de aceite y filtro",
@@ -2536,7 +2505,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "MINI España: intervalo CBS oficial; precios de revisiones no publicados por la marca"
+      fuente: "MINI España: intervalo CBS oficial; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "MINI España",
     fuenteUrl: "https://www.mini.es"
@@ -2616,7 +2585,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Prueba realizada en diciembre de 2024 sobre la generación U25."
     },
     planMantenimiento: {
-      intervalo: "CBS (servicio basado en condición): orientativo cada 2 años o 25.000-30.000 km; el vehículo avisa en el cuadro",
+      intervalo: "CBS (según condición): orientativo cada 2 años o entre 25.000 y 30.000 km; el cuadro avisa al conductor",
       revisiones: [
         {
           nombre: "Cambio de aceite y filtro",
@@ -2624,7 +2593,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "MINI España: intervalo CBS oficial; precios de revisiones no publicados por la marca"
+      fuente: "MINI España: intervalo CBS oficial; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "MINI España",
     fuenteUrl: "https://www.mini.es"
@@ -2704,7 +2673,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Prueba de septiembre de 2025: 78/84/85/80 % en las cuatro áreas."
     },
     planMantenimiento: {
-      intervalo: "CBS (servicio basado en condición): orientativo cada 2 años o 25.000-30.000 km; el vehículo avisa en el cuadro",
+      intervalo: "CBS (según condición): orientativo cada 2 años o entre 25.000 y 30.000 km; el cuadro avisa al conductor",
       revisiones: [
         {
           nombre: "Cambio de aceite y filtro",
@@ -2717,7 +2686,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "BMW España: intervalo CBS oficial; la marca no publica precios de revisiones"
+      fuente: "BMW España: intervalo CBS en vigor; la marca no da precios de revisiones"
     },
     fuenteNombre: "BMW España",
     fuenteUrl: "https://www.bmw.es"
@@ -2728,7 +2697,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "X1 M35i xDrive",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: 73750,
+    precioDesde: 75250,
     potenciaCv: 300,
     autonomiaKm: null,
     maleteroL: 540,
@@ -2797,7 +2766,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Prueba Euro NCAP 5 estrellas (2022) sobre la generación U11; URL del resultado oficial no recuperada."
     },
     planMantenimiento: {
-      intervalo: "CBS (servicio basado en condición): orientativo cada 2 años o 25.000-30.000 km; el vehículo avisa en el cuadro",
+      intervalo: "CBS (según condición): orientativo cada 2 años o entre 25.000 y 30.000 km; el cuadro avisa al conductor",
       revisiones: [
         {
           nombre: "Cambio de aceite y filtro",
@@ -2810,7 +2779,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "BMW España: intervalo CBS oficial; la marca no publica precios de revisiones"
+      fuente: "BMW España: intervalo CBS en vigor; la marca no da precios de revisiones"
     },
     fuenteNombre: "BMW España",
     fuenteUrl: "https://www.bmw.es/es/coches-bmw/m/x1-m35i/bmw-x1-m35i-xdrive.html"
@@ -2890,7 +2859,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Resultado publicado el 09/07/2024 sobre la base del X1 (misma plataforma)."
     },
     planMantenimiento: {
-      intervalo: "CBS (servicio basado en condición): orientativo cada 2 años o 25.000-30.000 km; el vehículo avisa en el cuadro",
+      intervalo: "CBS (según condición): orientativo cada 2 años o entre 25.000 y 30.000 km; el cuadro avisa al conductor",
       revisiones: [
         {
           nombre: "Cambio de aceite y filtro",
@@ -2903,7 +2872,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "BMW España: intervalo CBS oficial; la marca no publica precios de revisiones"
+      fuente: "BMW España: intervalo CBS en vigor; la marca no da precios de revisiones"
     },
     fuenteNombre: "BMW España",
     fuenteUrl: "https://www.bmw.es"
@@ -2985,7 +2954,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Prueba Euro NCAP 5 estrellas (2025) sobre la generación G45; URL del resultado oficial no recuperada."
     },
     planMantenimiento: {
-      intervalo: "CBS (servicio basado en condición): orientativo cada 2 años o 25.000-30.000 km; el vehículo avisa en el cuadro",
+      intervalo: "CBS (según condición): orientativo cada 2 años o entre 25.000 y 30.000 km; el cuadro avisa al conductor",
       revisiones: [
         {
           nombre: "Cambio de aceite y filtro",
@@ -2998,7 +2967,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "BMW España: intervalo CBS oficial; la marca no publica precios de revisiones"
+      fuente: "BMW España: intervalo CBS en vigor; la marca no da precios de revisiones"
     },
     fuenteNombre: "BMW España",
     fuenteUrl: "https://www.bmw.es"
@@ -3078,7 +3047,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Prueba realizada en 2022 sobre la generación X254."
     },
     planMantenimiento: {
-      intervalo: "Cada 15.000 km o 1 año (Service A y Service B alternos)",
+      intervalo: "Cada 15.000 km o cada año (Service A y Service B alternos)",
       revisiones: [
         {
           nombre: "Service A",
@@ -3091,7 +3060,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "Mercedes-Benz España: intervalo oficial 15.000 km/1 año; precios de revisiones no publicados por la marca"
+      fuente: "Mercedes-Benz España: intervalo oficial 15.000 km/1 año; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "Mercedes-Benz España",
     fuenteUrl: "https://www.mercedes-benz.es"
@@ -3184,7 +3153,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "Porsche: intervalo oficial; precios de revisiones no publicados por la marca"
+      fuente: "Porsche: intervalo oficial; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "Porsche España",
     fuenteUrl: "https://www.porsche.com/spain"
@@ -3261,7 +3230,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado"
+      nota: "Sin test EuroNCAP"
     },
     planMantenimiento: {
       intervalo: "Cada 2 años o 30.000 km (lo que ocurra primero)",
@@ -3277,7 +3246,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "Porsche: intervalo oficial; precios de revisiones no publicados por la marca"
+      fuente: "Porsche: intervalo oficial; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "Porsche España",
     fuenteUrl: "https://www.porsche.com/spain"
@@ -3357,7 +3326,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       nota: "Prueba Euro NCAP 5 estrellas (enero de 2024) confirmada por comunicado oficial de BMW; URL del resultado no recuperada."
     },
     planMantenimiento: {
-      intervalo: "CBS (servicio basado en condición): orientativo cada 2 años o 25.000-30.000 km; el vehículo avisa en el cuadro",
+      intervalo: "CBS (según condición): orientativo cada 2 años o entre 25.000 y 30.000 km; el cuadro avisa al conductor",
       revisiones: [
         {
           nombre: "Cambio de aceite y filtro",
@@ -3370,7 +3339,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "BMW España: intervalo CBS oficial; la marca no publica precios de revisiones"
+      fuente: "BMW España: intervalo CBS en vigor; la marca no da precios de revisiones"
     },
     fuenteNombre: "coches.net",
     fuenteUrl: "https://www.coches.net/fichas_tecnicas/bmw/serie_5/berlina/4-puertas/520i_208cv_hibrido/473/785069820251101/"
@@ -3465,7 +3434,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "BMW España: intervalo oficial para eléctricos; la marca no publica precios de revisiones"
+      fuente: "BMW España: intervalo oficial para eléctricos; la marca no da precios de revisiones"
     },
     fuenteNombre: "BMW España",
     fuenteUrl: "https://www.bmw.es"
@@ -3542,7 +3511,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado"
+      nota: "Sin test EuroNCAP"
     },
     planMantenimiento: {
       intervalo: "Cada 2 años o 30.000 km (lo que ocurra primero)",
@@ -3558,7 +3527,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "Porsche: intervalo oficial; precios de revisiones no publicados por la marca"
+      fuente: "Porsche: intervalo oficial; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "Porsche España",
     fuenteUrl: "https://www.porsche.com/spain"
@@ -3635,7 +3604,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado"
+      nota: "Sin test EuroNCAP"
     },
     planMantenimiento: {
       intervalo: "Cada 2 años o 34.000 km (lo que ocurra primero)",
@@ -3646,7 +3615,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "Land Rover España: intervalo oficial; precios de revisiones no publicados por la marca"
+      fuente: "Land Rover España: intervalo oficial; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "Land Rover España",
     fuenteUrl: "https://www.landrover.es"
@@ -3705,7 +3674,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     galeria: [
       {
         src: "/media/land-rover-range-rover-sport-electrico-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Range Rover Sport Eléctrico 2026, imagen oficial de JLR",
+        alt: "Range Rover Sport Eléctrico 2026",
         ancho: 500,
         alto: 357
       },
@@ -3723,7 +3692,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado"
+      nota: "Sin test EuroNCAP"
     },
     planMantenimiento: {
       intervalo: "Cada 2 años o 34.000 km (lo que ocurra primero)",
@@ -3734,7 +3703,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
           costeAproxEur: null
         }
       ],
-      fuente: "Land Rover España: intervalo oficial; precios de revisiones no publicados por la marca"
+      fuente: "Land Rover España: intervalo oficial; precios de revisiones sin publicar por la marca"
     },
     fuenteNombre: "Land Rover España",
     fuenteUrl: "https://www.landrover.es"
@@ -3764,7 +3733,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "EVO / Europa Press",
@@ -3842,7 +3811,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "coches.net",
@@ -3922,7 +3891,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "coches.net",
@@ -4002,7 +3971,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "Autonoción",
@@ -4080,7 +4049,7 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     euroncap: {
       ano: null,
       estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
+      nota: "Sin test EuroNCAP",
       url: null
     },
     fuenteNombre: "Autocar / Quantum Gallery",

@@ -243,7 +243,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     modelo: "Grande Panda Hybrid",
     tipo: "Híbrido",
     categoria: "Urbano",
-    precioDesde: 19039,
+    precioDesde: 18200,
     potenciaCv: 110,
     autonomiaKm: null,
     maleteroL: 412,
@@ -798,7 +798,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       costeMensualTotal: 50,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "8.000 km/año urbanos; estimado 7,2 kWh/100 km (5,4 kWh para 75 km de autonomía); recarga doméstica a 0,18 €/kWh; cuadriciclo L6e sin distintivo DGT",
+      notas: "8.000 km/año urbanos; estimado 7,2 kWh/100 km (5,4 kWh para 75 km de autonomía); 0,18 €/kWh (doméstica); cuadriciclo L6e sin distintivo DGT",
       estimado: true
     },
     galeria: [
@@ -900,7 +900,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "costeMensualTotal": 110,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 12.000 km/año, consumo WLTP 17,4 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "estimación con 12.000 km/año, consumo WLTP 17,4 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -984,7 +984,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "costeMensualTotal": 160,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 4,8 l/100 km de gasolina (1,65 €/l); seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo WLTP 4,8 l/100 km de gasolina (1,65 €/l); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1067,7 +1067,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "costeMensualTotal": 208,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo 7,3 l/100 km de gasóleo (1,65 €/l) y seguro a terceros; uso profesional",
+      "notas": "15.000 km/año, consumo 7,3 l/100 km de gasóleo (1,65 €/l) y seguro a terceros; uso profesional",
       "estimado": true
     },
     galeria: [
@@ -1151,7 +1151,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "costeMensualTotal": 111,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 10.000 km/año, consumo WLTP 14,5 kWh/100 km y recarga doméstica a 0,18 €/kWh; seguro a todo riesgo",
+      "notas": "estimación con 10.000 km/año, consumo WLTP 14,5 kWh/100 km y 0,18 €/kWh (doméstica); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1235,7 +1235,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "costeMensualTotal": 168,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo WLTP 5,3 l/100 km de gasolina (1,65 €/l); seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo WLTP 5,3 l/100 km de gasolina (1,65 €/l); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1319,7 +1319,7 @@ export const COCHES_FIAT: CocheComparador[] = [
       "costeMensualTotal": 188,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.65,
-      "notas": "estimación con 15.000 km/año, consumo 6,7 l/100 km de gasolina (1,65 €/l); seguro a todo riesgo",
+      "notas": "15.000 km/año, consumo 6,7 l/100 km de gasolina (1,65 €/l); todo riesgo",
       "estimado": true
     },
     galeria: [
@@ -1342,5 +1342,92 @@ export const COCHES_FIAT: CocheComparador[] = [
         "alto": 1280
       }
     ]
+  },
+  {
+    id: "fiat-multiplina-2028",
+    marca: "Fiat",
+    modelo: "Multiplina",
+    tipo: "Eléctrico",
+    categoria: "Urbano",
+    precioDesde: null,
+    potenciaCv: 20,
+    autonomiaKm: null,
+    maleteroL: null,
+    ceroCien: null,
+    velocidadMax: 90,
+    bateriaKwh: null,
+    cargaRapidaKw: null,
+    etiquetaDgt: "Cero",
+    garantiaBateriaAnos: null,
+    garantiaBateriaKm: null,
+    garantiaBateriaDegradacionPct: null,
+    largoMm: null,
+    anchoMm: null,
+    altoMm: null,
+    pesoKg: null,
+    consumo: null,
+    consumoUnidad: "kWh/100 km",
+    plazas: 4,
+    parNm: null,
+    traccion: null,
+    emisionesCo2: 0,
+    aprox: ["potenciaCv", "velocidadMax"],
+    pros: [
+      "4 plazas reales en menos de 3 metros: el eslabón perdido entre el Topolino y el 500",
+      "Categoría L7e: hasta 90 km/h y 20 CV, el doble que un cuadriciclo L6e",
+      "Diseño neo-retro fiel al 600 Multipla de 1956: faros redondos y techo de lona",
+      "Etiqueta Cero de la DGT: acceso libre a todas las ZBE",
+      "Producción prevista para 2028 dentro de la apuesta de Fiat por la micromovilidad",
+    ],
+    contras: [
+      "Prototipo: ni precio final, ni batería, ni autonomía confirmados oficialmente",
+      "El gran reto es el peso: el límite L7e son 450 kg y el prototipo lo supera",
+      "Sin fecha de venta confirmada: 2028 es la previsión, no un compromiso",
+      "Batería y autonomía sin publicar: solo se sabe que superará los 74 km del Ami",
+      "Equipamiento por definir: ni siquiera está claro si llevará aire acondicionado",
+    ],
+    imagen: "/media/fiat-multiplina-2028-hero.webp",
+    imagenOficial: "/media/fiat-multiplina-2028-oficial.webp",
+    imagenInteriorOficial: "",
+    analisisSlug: "fiat-multiplina-2028-analisis-opinion",
+    videoId: "aMA4sE7aZ7Q",
+    videoCanal: "Motor1 Italia",
+    opiniones: [],
+    costeMensual: null,
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Sin datos EuroNCAP: prototipo no probado",
+    },
+    planMantenimiento: null,
+    galeria: [
+      {
+        "src": "/media/fiat-multiplina-2028-hero.webp",
+        "alt": "Fiat Multiplina prototipo en el Salón de París 2026, vista frontal",
+        "ancho": 659,
+        "alto": 371
+      },
+      {
+        "src": "/media/fiat-multiplina-2028-oficial.webp",
+        "alt": "Fiat Multiplina prototipo, vista lateral con techo de lona",
+        "ancho": 659,
+        "alto": 371
+      },
+      {
+        "src": "/media/fiat-multiplina-2028-trasera.webp",
+        "alt": "Fiat Multiplina prototipo, vista trasera con pilotos verticales",
+        "ancho": 1200,
+        "alto": 904
+      }
+    ],
+    fuenteNombre: "hibridosyelectricos.com / Wikipedia",
+    fuenteUrl: "https://www.hibridosyelectricos.com/coches/bonito-practico-pero-pasado-peso-nuevo-familiar-electrico-fiat-debera-ponerse-dieta-entrar-en-produccion_89965_102.html",
+    confianza: "media",
+    curiosidad: {
+      texto: "El nombre Multiplina homenajea al Fiat 600 Multipla de 1956, del que se vendieron unas 240.000 unidades hasta 1967: medía 3,53 m y cabían seis personas porque el conductor iba sentado justo encima del eje delantero.",
+      fuenteNombre: "hibridosyelectricos.com",
+      fuenteUrl: "https://www.hibridosyelectricos.com/coches/bonito-practico-pero-pasado-peso-nuevo-familiar-electrico-fiat-debera-ponerse-dieta-entrar-en-produccion_89965_102.html"
+    }
   },
 ];

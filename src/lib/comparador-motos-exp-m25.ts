@@ -53,7 +53,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -183,7 +183,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -248,7 +248,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -313,7 +313,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -381,7 +381,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -450,7 +450,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -518,7 +518,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -586,7 +586,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -651,7 +651,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -716,7 +716,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -781,7 +781,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -847,7 +847,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -912,7 +912,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -977,7 +977,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1042,7 +1042,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1107,7 +1107,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1172,7 +1172,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1237,7 +1237,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1302,7 +1302,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1367,7 +1367,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1432,7 +1432,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1497,7 +1497,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -2668,7 +2668,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
       costeAnualAproxEur: 150,
       fuente: "Manual oficial Wottan España",
     },
-    mantenimientoDIY: {"aceiteTipo": "El especificado en el manual oficial entregado con la moto; en cada revisión programada toca sustituir aceite y filtro de aceite. No se ha localizado una viscosidad pública verificable para la 401, así que no se consigna ninguna sin esa confirmación", "cadenaPasos": ["Apoya la moto en vertical o sobre caballete y gira la rueda trasera a mano para recorrer toda la cadena", "Limpia los eslabones con un producto específico para cadenas con retenes y un cepillo blando, sin usar gasolina ni alta presión directa", "Seca bien la transmisión antes de aplicar lubricante para cadena por la cara interior, eslabón a eslabón", "Comprueba la tensión en el punto medio del ramal inferior y ajústala solo dentro del margen que indique el manual de tu unidad", "Revisa desgaste de corona y piñón y alineación de la rueda trasera tras cualquier ajuste de tensión"], "intervaloMantenimiento": "Primera revisión a los 1.000 km; después cada 3.000 km o 12 meses, lo que ocurra antes, según el plan recogido en la propia ficha con fuente en el manual oficial de Wottan España", "trucos": ["Engrasa siempre al terminar la ruta, con la cadena templada: el lubricante penetra mejor y se queda adherido", "Aprovecha cada limpieza para revisar también filtro de aire y bujía según el kilometraje que marque el plan de revisiones", "Anota fecha y kilómetros de cada intervención en el libro de mantenimiento: es tu prueba para la garantía y para una futura venta"]},
+    mantenimientoDIY: {"aceiteTipo": "El especificado en el manual oficial entregado con la moto; en cada revisión programada toca sustituir aceite y filtro de aceite. No se ha localizado una viscosidad pública verificable para la 401, así que no se consigna ninguna sin esa confirmación", "cadenaPasos": ["Apoya la moto en vertical o sobre caballete y gira la rueda trasera a mano para recorrer toda la cadena", "Limpia los eslabones con un producto específico para cadenas con retenes y un cepillo blando, sin usar gasolina ni alta presión directa", "Seca bien la transmisión antes de aplicar lubricante para cadena por la cara interior, eslabón a eslabón", "Comprueba la tensión en el punto medio del ramal inferior y ajústala solo dentro del margen que indique el manual de tu unidad", "Revisa desgaste de corona y piñón y alineación de la rueda trasera tras cualquier ajuste de tensión"], "intervaloMantenimiento": "Primera revisión a los 1.000 km; después cada 3.000 km o 12 meses, según el plan recogido en la propia ficha con fuente en el manual oficial de Wottan España", "trucos": ["Engrasa siempre al terminar la ruta, con la cadena templada: el lubricante penetra mejor y se queda adherido", "Aprovecha cada limpieza para revisar también filtro de aire y bujía según el kilometraje que marque el plan de revisiones", "Anota fecha y kilómetros de cada intervención en el libro de mantenimiento: es tu prueba para la garantía y para una futura venta"]},
   },
   {
     id: "horwin-sk3-2026-ficha-tecnica-precio",
@@ -4072,7 +4072,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -4156,7 +4156,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: "https://zontesbcn.com/modelo/g1-125/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -4237,7 +4237,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -4318,7 +4318,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",

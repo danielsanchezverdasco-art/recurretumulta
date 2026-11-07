@@ -105,7 +105,7 @@ export const AUTOCARAVANAS_BENIMAR_M3: Autocaravana[] = [
     ],
     analisisSlug: "benimar-mileo-297-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Benimar (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -195,7 +195,7 @@ Para quién: la pareja que quiere una autocaravana de verdad sin arrastrar siete
     ],
     analisisSlug: "benimar-tessoro-440-up-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Ford Transit: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Ford Transit: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Transit)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Benimar (anual recomendada)", queSeCambia: "Estanqueidad, gas, cama basculante, humedades", costeAproxEur: 250 },
@@ -303,7 +303,7 @@ Para quién: la pareja que quiere una autocaravana de verdad sin arrastrar siete
     analisisSlug: "benimar-mileo-286-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Fiat Ducato: revisión cada 2 años o 48.000 km (lo que antes ocurra, según plan Fiat)",
+        "Base Fiat Ducato: 2 años / 48.000 km (lo que antes ocurra, según plan Fiat)",
       revisiones: [
         {
           nombre: "Revisión base (Fiat Ducato)",

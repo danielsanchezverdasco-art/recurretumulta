@@ -91,7 +91,7 @@ De tarifa oficial no hay nada que difundir: Rapido no publica PVP por modelo y c
     analisisSlug: "rapido-v55-2026-precio-ficha-tecnica-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Peugeot Boxer 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Peugeot)",
+        "Peugeot Boxer 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Peugeot Boxer (2 años / 40.000 km)",
@@ -198,7 +198,7 @@ De tarifa oficial no hay nada que difundir: Rapido no publica PVP por modelo y c
     analisisSlug: "rapido-606f-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Peugeot Boxer 2.2 (Francia; Fiat Ducato en exportación): revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan del fabricante del portador)",
+        "Peugeot Boxer 2.2 (Francia; Fiat Ducato en exportación): 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión del portador (2 años / 40.000 km)",

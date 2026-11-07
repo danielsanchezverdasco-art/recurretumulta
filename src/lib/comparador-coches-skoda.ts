@@ -34,7 +34,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       "Desde 35.250 €: el eléctrico familiar más equilibrado de Skoda"
     ],
     contras: [
-      "2.119 kg de peso: se nota en carreteras de curvas",
+      "Pesa 2.119 kg: en carreteras de curvas ese peso se deja notar al cambiar de apoyo y al frenar.",
       "Solo tracción trasera; el 85x con tracción total cuesta más",
       "Velocidad máxima limitada a 180 km/h",
       "La pantalla de 13 pulgadas concentra casi todas las funciones",
@@ -61,7 +61,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       costeMensualTotal: 140,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes y 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -137,7 +137,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       costeMensualTotal: 163,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes, recarga doméstica a 0,18 €/kWh y consumo estimado de 16,5 kWh/100 km; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes, 0,18 €/kWh (doméstica) y consumo estimado de 16,5 kWh/100 km; seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -213,7 +213,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       costeMensualTotal: 150,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes y 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -333,7 +333,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       costeMensualTotal: 152,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes y 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -519,18 +519,17 @@ export const COCHES_SKODA: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "El maletero de 640 litros, ampliable a 1.700 con los asientos abatidos, es su argumento definitivo",
-      "El consumo de 4,6 l/100 km lo sitúa entre los familiares más eficientes del mercado",
-      "Los 150 CV y 360 Nm, con el cambio DSG de 7 marchas, dan empuje sin esfuerzo en cualquier situación",
-      "La autonomía real de más de 900 km por depósito convierte los viajes largos en un trámite",
-      "Desde 39.300 € según la tarifa de enero de 2026, con una relación entre precio y espacio difícil de batir"
+      "El maletero de 640 litros, ampliable a 1.700 con los asientos abatidos, en una carrocería de 4.698 mm de largo y 5 plazas",
+      "El consumo de 4,6 l/100 km, con 120 g/km de CO2 y una autonomía de 900 km por depósito",
+      "Los 150 CV y 360 Nm, con el cambio DSG de 7 marchas, aceleran de 0 a 100 km/h en 8,6 segundos y alcanzan 225 km/h",
+      "La autonomía de 900 km por depósito, con un consumo de 4,6 l/100 km, supone 8,1 € de combustible cada 100 km según la estimación de la ficha",
+      "Desde 39.300 € según la tarifa de enero de 2026, con 640 litros de maletero y 5 plazas"
     ],
     contras: [
-      "La etiqueta C recuerda que el futuro del diésel en las zonas de bajas emisiones es incierto",
-      "Las prestaciones, correctas pero sin brillo, con 8,6 segundos de 0 a 100, no emocionan",
-      "El interior es funcional y poco emocional: todo está donde debe, pero nada sorprende",
-      "El Octavia Combi RS cuesta unos 8.000 € más, una tentación que conviene valorar con calma",
-      "Los 120 g/km de CO2 son la factura ambiental de un diésel eficiente pero diésel al fin"
+      "Etiqueta C, con 120 g/km de CO2 y un consumo de 4,6 l/100 km",
+      "Acelera de 0 a 100 km/h en 8,6 segundos, con 150 CV y una velocidad máxima de 225 km/h",
+      "El Octavia Combi RS cuesta unos 8.000 € más que los 39.300 € de partida",
+      "Emite 120 g/km de CO2, con un consumo de 4,6 l/100 km y etiqueta C"
     ],
     largoMm: 4698,
     anchoMm: 1829,
@@ -666,7 +665,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     modelo: "Superb iV",
     tipo: "Híbrido enchufable",
     categoria: "Berlina",
-    precioDesde: 52900,
+    precioDesde: 42675,
     potenciaCv: 204,
     autonomiaKm: 137,
     maleteroL: 486,
@@ -710,7 +709,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       costeMensualTotal: 205,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes y un 60 % de uso eléctrico (recarga doméstica a 0,18 €/kWh, gasolina a 1,85 €/l); seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes y un 60 % de uso eléctrico (0,18 €/kWh (doméstica), gasolina a 1,85 €/l); seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -953,7 +952,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       costeMensualTotal: 203,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes y un 60 % de uso eléctrico (recarga doméstica a 0,18 €/kWh, gasolina a 1,85 €/l); seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes y un 60 % de uso eléctrico (0,18 €/kWh (doméstica), gasolina a 1,85 €/l); seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -985,7 +984,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     modelo: "Scala 1.0 TSI",
     tipo: "Gasolina",
     categoria: "Compacto",
-    precioDesde: 31800,
+    precioDesde: 18500,
     potenciaCv: 116,
     autonomiaKm: null,
     maleteroL: 467,
@@ -1105,7 +1104,7 @@ export const COCHES_SKODA: CocheComparador[] = [
       costeMensualTotal: 121,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "Estimación con 1.000 km/mes y recarga doméstica a 0,18 €/kWh; seguro y mantenimiento estimados por segmento",
+      notas: "Estimación con 1.000 km/mes y 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
       estimado: true
     },
     galeria: [
@@ -1359,7 +1358,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     modelo: "Superb 1.5 TSI mHEV",
     tipo: "Híbrido ligero (MHEV 48V)",
     categoria: "Berlina",
-    precioDesde: 47000,
+    precioDesde: 41350,
     potenciaCv: 150,
     autonomiaKm: null,
     maleteroL: 645,
@@ -1516,7 +1515,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     modelo: "Kodiaq 1.5 TSI mHEV",
     tipo: "Híbrido ligero (MHEV 48V)",
     categoria: "SUV",
-    precioDesde: 45700,
+    precioDesde: 41800,
     potenciaCv: 150,
     autonomiaKm: null,
     maleteroL: null,
@@ -1592,7 +1591,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     modelo: "Kamiq 1.0 TSI",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: 29600,
+    precioDesde: 19500,
     potenciaCv: 116,
     autonomiaKm: null,
     maleteroL: 400,
@@ -1602,18 +1601,16 @@ export const COCHES_SKODA: CocheComparador[] = [
     cargaRapidaKw: null,
     etiquetaDgt: "C",
     pros: [
-      "Por 29.600 € es el SUV pequeño más sensato de su segmento, sin pagar por imagen ni por potencia innecesaria",
-      "Los 116 CV y 200 Nm, con solo 1.233 kg, mueven el coche con soltura en ciudad y en carretera",
-      "El consumo de 5,4 l/100 km mantiene el gasto en combustible en niveles de utilitario",
-      "El maletero de 400 litros resuelve la compra semanal y el equipaje de fin de semana",
-      "Los 9,7 segundos hasta 100 km/h lo hacen ágil en ciudad, que es donde vivirá la mayor parte del tiempo"
+      "Precio desde 29.600 € para un SUV de gasolina",
+      "116 CV y 200 Nm para 1.233 kg",
+      "Consumo de 5,4 l/100 km",
+      "Maletero de 400 litros",
+      "0-100 km/h en 9,7 s"
     ],
     contras: [
-      "La etiqueta C anticipa limitaciones futuras en las zonas de bajas emisiones",
-      "Probar el 1.5 TSI de 150 CV merece la pena: es bastante más divertido y cambia el carácter del coche",
-      "El interior usa plásticos duros que recuerdan que este es el escalón de acceso de Skoda",
-      "Los 196 km/h de punta no invitan a grandes viajes por autopista, aunque tampoco los impiden",
-      "La competencia aprieta en equipamiento, así que conviene comparar la dotación de serie antes de firmar"
+      "La etiqueta C anticipa limitaciones en las zonas de bajas emisiones",
+      "Tracción delantera",
+      "Velocidad máxima de 196 km/h",
     ],
     largoMm: 4241,
     anchoMm: 1793,
@@ -1749,7 +1746,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     modelo: "Enyaq 60",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 40610,
+    precioDesde: 31400,
     potenciaCv: 204,
     autonomiaKm: 433,
     maleteroL: 585,
@@ -1758,8 +1755,8 @@ export const COCHES_SKODA: CocheComparador[] = [
     bateriaKwh: 63,
     cargaRapidaKw: 165,
     etiquetaDgt: "Cero",
-    pros: ["Con 585 litros tras los cinco asientos, la zaga vertical del SUV admite mejor una silla infantil desmontada o equipaje voluminoso que la caída coupé.", "Declarar 15,5 kWh/100 km con 2.002 kilos explica los 433 kilómetros WLTP obtenidos de una batería de 63 kWh.", "En corriente continua acepta hasta 165 kW, así que la batería pequeña también se beneficia de paradas breves en cargadores rápidos.", "Cuesta 40.610 euros, exactamente 2.280 euros menos que su hermano Coupé 60 ofreciendo idénticos 204 CV traseros.", "La batería queda cubierta ocho años o 160.000 kilómetros hasta un 70 % de capacidad, respaldo relevante en reventa familiar."],
-    contras: ["Acelera de cero a cien en 8,1 segundos: suficiente en incorporaciones, pero sin margen deportivo cuando viaja cargado con cinco ocupantes.", "La velocidad punta está limitada a 160 km/h, techo habitual en eléctricos MEB que penaliza menos en España que en autobahn.", "Frente al Enyaq 85 de batería mayor, estos 63 kWh obligan a planificar más recargas en rutas interurbanas extensas.", "Solo hay tracción trasera en este 60; quien necesite motricidad integral para nieve deberá saltar a otra versión.", "Sus 4.658 milímetros de largo y 1.879 de ancho complican plazas estrechas de garajes antiguos madrileños."],
+    pros: ["Con 585 litros tras los cinco asientos, la zaga vertical del SUV admite mejor una silla infantil desmontada o equipaje voluminoso que la caída coupé.", "Declarar 15,5 kWh/100 km con 2.002 kilos explica los 433 kilómetros WLTP obtenidos de una batería de 63 kWh.", "En corriente continua acepta hasta 165 kW, así que la batería pequeña también se beneficia de paradas breves en cargadores rápidos.", "Cuesta 40.610 euros, exactamente 2.280 euros menos que su hermano Coupé 60 ofreciendo idénticos 204 CV traseros.", "Para la batería, el Enyaq 60 ofrece cobertura de ocho años o 160.000 kilómetros, con el 70 % de capacidad como mínimo garantizado: un respaldo al revender un familiar eléctrico."],
+    contras: ["Los 8,1 segundos hasta 100 km/h bastan para entrar en autovía, pero con el coche lleno de gente y equipaje no hay reserva para alegrías.", "La punta está capada en 160 km/h, el techo habitual de los eléctricos MEB: en España apenas penaliza, en autobahn sí se notaría.", "Frente al Enyaq 85 de batería mayor, estos 63 kWh obligan a planificar más recargas en rutas interurbanas extensas.", "Solo hay tracción trasera en este 60; quien necesite motricidad integral para nieve deberá saltar a otra versión.", "Sus 4.658 milímetros de largo y 1.879 de ancho complican plazas estrechas de garajes antiguos madrileños."],
     largoMm: 4658,
     anchoMm: 1879,
     altoMm: 1622,
@@ -1814,7 +1811,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     modelo: "Enyaq Coupé 60",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 42890,
+    precioDesde: 33700,
     potenciaCv: 204,
     autonomiaKm: 442,
     maleteroL: 570,

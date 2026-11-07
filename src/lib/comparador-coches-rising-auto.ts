@@ -120,7 +120,7 @@ export const COCHES_RISING_AUTO: CocheComparador[] = [
       
     ],
     analisisSlug: "rising-f7-2025-precio-ficha-tecnica",
-    euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
+    euroncap: {"ano": null, "estrellas": null, "nota": "Sin test EuroNCAP", "url": null},
   },
   {
     id: "rising-rc7-2025-precio-ficha-tecnica",
@@ -180,7 +180,7 @@ export const COCHES_RISING_AUTO: CocheComparador[] = [
       mantenimientoAnual: 300,
       costeMensualTotal: 135,
       notas:
-        "Estimación con 15.000 km/año, recarga doméstica a 0,18 €/kWh y todo riesgo. El precio oficial del RC7 aún no se ha anunciado.",
+        "15.000 km/año; 0,18 €/kWh; todo riesgo. El precio oficial del RC7 aún no se ha anunciado.",
       estimado: true,
     },
     galeria: [

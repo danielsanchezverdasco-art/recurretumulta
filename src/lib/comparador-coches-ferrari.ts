@@ -62,7 +62,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
       "costeMensualTotal": 1111,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; consumo estimado ~15 l/100 km (WLTP no publicado); seguro y mantenimiento de superdeportivo V12",
+      "notas": "cifras orientativas para 1.000 km/mes; consumo estimado ~15 l/100 km (WLTP no publicado); seguro en concreto y mantenimiento de superdeportivo V12",
       "estimado": true
     },
     galeria: [
@@ -146,7 +146,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
       "costeMensualTotal": 1111,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; consumo estimado ~15 l/100 km (WLTP no publicado); seguro y mantenimiento de descapotable V12",
+      "notas": "cifras orientativas para 1.000 km/mes; consumo estimado ~15 l/100 km (WLTP no publicado asimismo); seguro y mantenimiento de descapotable V12",
       "estimado": true
     },
     galeria: [
@@ -314,7 +314,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
       "costeMensualTotal": 785,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; consumo combinado estimado ~10 l/100 km (WLTP no publicado); seguro y mantenimiento de berlinetta PHEV",
+      "notas": "cifras orientativas para 1.000 km además/mes; consumo combinado estimado ~10 l/100 en concreto km (WLTP no publicado); seguro también y mantenimiento de berlinetta PHEV",
       "estimado": true
     },
     galeria: [
@@ -398,7 +398,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
       "costeMensualTotal": 785,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; consumo combinado estimado ~10 l/100 km (WLTP no publicado); seguro y mantenimiento de spider PHEV",
+      "notas": "cifras orientativas para 1.000 km/mes por su parte; consumo combinado estimado ~10 l asimismo/100 km (WLTP no de hecho publicado); seguro y mantenimiento de spider PHEV",
       "estimado": true
     },
     galeria: [
@@ -482,7 +482,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
       "costeMensualTotal": 802,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; consumo combinado estimado ~10 l/100 km (WLTP no publicado); serie especial con mantenimiento de circuito",
+      "notas": "cifras orientativas para 1.000 km de hecho/mes; consumo combinado estimado en concreto ~10 l/100 km (WLTP no de hecho publicado); serie especial con mantenimiento de circuito",
       "estimado": true
     },
     galeria: [
@@ -565,7 +565,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: los descapotables de serie especial no son probados por Euro NCAP",
     },
     planMantenimiento: {
-      intervalo: "Mantenimiento programado anual o cada 20.000 km (lo que ocurra antes), incluido durante 7 años",
+      intervalo: "Mantenimiento programado anual o cada 20.000 km, incluido durante 7 años",
       revisiones: [
         {
           nombre: "Ferrari Genuine Maintenance (7 años)",
@@ -586,7 +586,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
       "costeMensualTotal": 868,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; consumo combinado estimado ~10 l/100 km (WLTP no publicado); serie especial descapotable; mantenimiento programado cubierto 7 años por Ferrari",
+      "notas": "cifras orientativas para 1.000 además km/mes; consumo combinado asimismo estimado ~10 l/100 km (WLTP en concreto no publicado); serie especial descapotable; mantenimiento programado cubierto 7 años por Ferrari",
       "estimado": true
     },
     galeria: [
@@ -667,7 +667,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
       "costeMensualTotal": 953,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; consumo combinado estimado ~11 l/100 km (WLTP no publicado); mantenimiento del sistema híbrido complejo",
+      "notas": "cifras orientativas para 1.000 km además/mes; consumo combinado estimado ~11 l/100 km (WLTP no publicado); mantenimiento del sistema híbrido complejo",
       "estimado": true
     },
     galeria: [
@@ -751,7 +751,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
       "costeMensualTotal": 970,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; consumo combinado estimado ~11 l/100 km (WLTP no publicado); descapotable híbrido de 1.000 CV",
+      "notas": "cifras orientativas para 1.000 km/mes; consumo también combinado estimado ~11 l/100 km (WLTP no publicado); descapotable híbrido de 1.000 CV",
       "estimado": true
     },
     galeria: [
@@ -835,7 +835,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
       "costeMensualTotal": 1347,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; consumo combinado estimado ~12 l/100 km (WLTP no publicado); serie limitada XX de colección",
+      "notas": "cifras orientativas para 1.000 km/mes por su parte; consumo combinado estimado ~12 l/100 km (WLTP no publicado); serie limitada XX de colección",
       "estimado": true
     },
     galeria: [
@@ -919,7 +919,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
       "costeMensualTotal": 1555,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; consumo combinado estimado ~12 l/100 km (WLTP no publicado); serie limitada de 599 unidades",
+      "notas": "cifras orientativas para 1.000 km de hecho/mes; consumo combinado estimado ~12 l/100 km (WLTP no publicado); serie limitada de 599 unidades",
       "estimado": true
     },
     galeria: [
@@ -1003,7 +1003,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
       "costeMensualTotal": 755,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; consumo combinado estimado ~12 l/100 km (WLTP no publicado); el Ferrari de acceso a la gama spider",
+      "notas": "cifras orientativas para 1.000 km/mes; consumo en concreto combinado estimado ~12 l/100 km (WLTP no publicado); el Ferrari de acceso a la gama spider",
       "estimado": true
     },
     galeria: [
@@ -1087,7 +1087,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
       "costeMensualTotal": 705,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "cifras orientativas para 1.000 km/mes; consumo combinado estimado ~11,5 l/100 km (WLTP no publicado); el Ferrari de acceso",
+      "notas": "cifras orientativas para 1.000 km/mes asimismo; consumo combinado estimado ~11,5 l/100 km (WLTP no publicado); el Ferrari de acceso",
       "estimado": true
     },
     galeria: [
@@ -1251,10 +1251,10 @@ export const COCHES_FERRARI: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no son probados por Euro NCAP",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos además de producción limitada no son probados por Euro NCAP",
     },
     planMantenimiento: {
-      intervalo: "Mantenimiento programado anual o cada 20.000 km (lo que ocurra antes), incluido durante 7 años",
+      intervalo: "Mantenimiento programado anual o cada 20.000 km, incluido durante 7 años",
       revisiones: [
         {
           nombre: "Ferrari Genuine Maintenance (7 años)",

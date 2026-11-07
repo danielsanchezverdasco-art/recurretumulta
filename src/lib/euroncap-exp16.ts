@@ -1,9 +1,9 @@
 // EURONCAP EXP16 — datos EuroNCAP verificados para el lote 16 Honda/Mazda (07/10/2026).
 // Solo entran modelos con test EuroNCAP verificado. Sin test -> SIN entrada.
-// Notas: Mazda2 Hybrid usa el rating aplicado del Toyota Yaris 2020 (modelo gemelo,
-// 5 estrellas verificadas por Mazda en su guía oficial de precios); CR-V 4★/2024,
-// Civic 5★/2022, HR-V 4★/2022, Jazz 5★/2020, ZR-V 4★/2023, Mazda3 5★/2019,
-// MX-5 (ND) 4★/2016, CX-80 5★/2024, CX-5 (nueva gen) 5★/2025, CX-30 5★/2019,
+// Notas: Mazda2 Hybrid usa el rating vigente del Toyota Yaris re-testado en
+// 2025 (modelo gemelo, 4 estrellas 72/84/83/72; auditoría 20/10/2026);
+// CR-V 4★/2024, Civic 5★/2022, HR-V 4★/2022, Jazz 5★/2020, ZR-V 4★/2023, Mazda3 5★/2019,
+// MX-5 (ND) 4★/2015, CX-80 5★/2024, CX-5 (nueva gen) 5★/2025, CX-30 5★/2019,
 // MX-30 5★/2020.
 // Sin entrada: Honda e:Ny1 (nunca fue evaluado por Euro NCAP — thecarexpert.co.uk, 09/2026).
 import type { SeguridadEuroNCAP } from "./seguridad-euroncap.ts";
@@ -89,7 +89,7 @@ export const EURONCAP_EXP16: Record<string, SeguridadEuroNCAP> = {
   "mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica": {
     fichaId: "mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica",
     estrellas: 4,
-    anioTest: 2016,
+    anioTest: 2015,
     adulto: 84,
     infantil: 80,
     peatones: 93,
@@ -99,12 +99,12 @@ export const EURONCAP_EXP16: Record<string, SeguridadEuroNCAP> = {
   },
   "mazda-2-hybrid-2025-precio-ficha-tecnica": {
     fichaId: "mazda-2-hybrid-2025-precio-ficha-tecnica",
-    estrellas: 5,
-    anioTest: 2020,
-    adulto: 86,
-    infantil: 81,
-    peatones: 78,
-    asistencias: 85,
+    estrellas: 4,
+    anioTest: 2025,
+    adulto: 72,
+    infantil: 84,
+    peatones: 83,
+    asistencias: 72,
     videoCrashId: null,
     videoAlceId: null,
   },

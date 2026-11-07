@@ -94,13 +94,13 @@ export const AUTOCARAVANAS_MCLOUIS_M1: Autocaravana[] = [
     galeria: [
       {
         src: "/media/mclouis-mc4-231-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "McLouis MC4 231, vista tres cuartos delantera (foto oficial de prensa McLouis)",
+        alt: "McLouis MC4 231, vista tres cuartos delantera",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/mclouis-mc4-231-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Salón-comedor del McLouis MC4 231 (foto oficial de la galería del modelo en mclouis.com)",
+        alt: "Salón-comedor del McLouis MC4 231",
         ancho: 600,
         alto: 400,
       },
@@ -132,7 +132,7 @@ export const AUTOCARAVANAS_MCLOUIS_M1: Autocaravana[] = [
     analisisSlug: "mclouis-mc4-231-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat Professional)",
+        "Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",

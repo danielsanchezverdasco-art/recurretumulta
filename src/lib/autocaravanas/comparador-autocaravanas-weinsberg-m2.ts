@@ -115,7 +115,7 @@ Perfil de comprador: el CaraTour 600 MQ encaja con parejas o familias pequeñas 
     analisisSlug: "weinsberg-caratour-600-mq-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -246,7 +246,7 @@ Perfil de comprador: la CaraHome 600 DKG encaja con familias de 4 a 6 miembros q
     analisisSlug: "weinsberg-carahome-600-dkg-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -377,7 +377,7 @@ Perfil de comprador: el CaraCompact 600 MEG encaja con parejas que buscan su pri
     analisisSlug: "weinsberg-caracompact-600-meg-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",

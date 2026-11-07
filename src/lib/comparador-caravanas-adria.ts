@@ -110,7 +110,7 @@ export const CARAVANAS_ADRIA: CocheComparador[] = [
         {
           nombre: "Revisión anual de la caravana",
           queSeCambia:
-            "Estanqueidad, instalación de gas, electricidad y estado de frenos y neumáticos",
+            "De, y estado, de gas, electricidad, Estanqueidad, instalación frenos y neumáticos",
           costeAproxEur: 200,
         },
       ],
@@ -216,7 +216,7 @@ export const CARAVANAS_ADRIA: CocheComparador[] = [
         {
           nombre: "Revisión anual de la caravana",
           queSeCambia:
-            "Estanqueidad, instalación de gas, electricidad y estado de frenos y neumáticos",
+            "De, y estado, de gas, electricidad, Estanqueidad, instalación frenos y neumáticos",
           costeAproxEur: 180,
         },
       ],
@@ -322,7 +322,7 @@ export const CARAVANAS_ADRIA: CocheComparador[] = [
         {
           nombre: "Revisión anual de la caravana",
           queSeCambia:
-            "Estanqueidad, instalación de gas, electricidad y estado de frenos y neumáticos",
+            "De, y estado, de gas, electricidad, Estanqueidad, instalación frenos y neumáticos",
           costeAproxEur: 200,
         },
       ],

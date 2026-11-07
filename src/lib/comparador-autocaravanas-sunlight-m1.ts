@@ -78,13 +78,13 @@ export const AUTOCARAVANAS_SUNLIGHT_M1: Autocaravana[] = [
       },
       {
         src: "/media/sunlight-t-68-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Interior del Sunlight T 68 Adventure, salón visto de delante hacia atrás (foto oficial)",
+        alt: "Interior del Sunlight T 68 Adventure, salón visto de delante hacia atrás",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/sunlight-t-68-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Detalle del armario bajo la cama del Sunlight T 68 Adventure (foto oficial)",
+        alt: "Detalle del armario bajo la cama del Sunlight T 68 Adventure",
         ancho: 1000,
         alto: 1500,
       },
@@ -97,7 +97,7 @@ El dormitorio trasero es el punto fuerte: camas gemelas sobre un garaje pasante 
 
 La Adventure Edition es más que una pegatina: llantas de aleación, gráficos específicos, tapicería propia y detalles en negro por fuera y por dentro. Pero conviene decirlo claro: los materiales interiores son los más sencillos del grupo Hymer y el aislamiento está pensado para tres estaciones; en invierno serio se echa en falta más calefacción, así que quien planee esquiar debería mirar otras gamas. Con 7,41 metros, en carretera se mueve con soltura, pero en campings de parcela pequeña y en pueblos con encanto conviene asumir que no es un vehículo ágil: la longitud se nota al aparcar y al girar.
 
-En precio, Sunlight no publica tarifa para España y el importe final depende de cada punto de venta: no hay PVP oficial que dar. Sus rivales son las perfiladas familiares de 7,2 a 7,5 metros de las generalistas europeas, frente a las que la T 68 compite con estética joven y camas gemelas, no con refinamiento interior. Es para parejas jóvenes o familias que se inician, que quieren una perfilada grande con imagen actual y dormitorio práctico, y que priorizan el precio contenido dentro del grupo Hymer. No es para quien viaja en invierno de verdad ni para quien busca materiales nobles: es una autocaravana honesta de gama de acceso con mucha imagen. Cómo lo verificamos: las medidas (7,41 × 2,32 × 2,93 m), el motor Fiat Ducato 2.2 de 140 CV, la MMA de 3.500 kg, la masa en orden de marcha de 3.007 kg con su horquilla oficial, las 5 plazas para dormir («2 + 3»), las camas gemelas traseras y la cama basculante de 195 × 140 cm proceden de la página oficial del modelo en sunlight.de, revisada el 19/10/2026; la marca no publica la carga útil del modelo, por eso ese campo va sin dato; Sunlight no publica tarifa para España, por eso no hay precio. El veredicto es que es la perfilada de imagen joven más redonda del segmento de acceso: distribución familiar bien resuelta y estética Adventure que la distingue, a cambio de materiales sencillos y un aislamiento de tres estaciones que hay que asumir con realismo.
+En precio, Sunlight no publica tarifa para España y el importe final depende de cada punto de venta: no hay PVP oficial que dar. Sus rivales son las perfiladas familiares de 7,2 a 7,5 metros de las generalistas europeas, frente a las que la T 68 compite con estética joven y camas gemelas, no con refinamiento interior. Es para parejas jóvenes o familias que se inician, que quieren una perfilada grande con imagen actual y dormitorio práctico, y que priorizan el precio contenido dentro del grupo Hymer. No es para quien viaja en invierno de verdad ni para quien busca materiales nobles: es una autocaravana honesta de gama de acceso con mucha imagen. Cómo lo verificamos: las medidas (7,41 × 2,32 × 2,93 m), el motor Fiat Ducato 2.2 de 140 CV, la MMA de 3.500 kg, la masa en orden de marcha de 3.007 kg con su horquilla oficial, las 5 plazas para dormir («2 + 3»), las camas gemelas traseras y la cama basculante de 195 × 140 cm proceden de la página oficial del modelo en sunlight.de, revisada el 19/10/2026; la marca no en concreto publica la carga útil del modelo, por eso ese campo va sin dato; Sunlight no publica tarifa para España, por eso no hay precio. El veredicto es que es la perfilada de imagen joven más redonda del segmento de acceso: distribución familiar bien resuelta y estética Adventure que la distingue, a cambio de materiales sencillos y un aislamiento de tres estaciones que hay que asumir con realismo.
 
 Un detalle que distingue a la T 68 dentro de su franja es la coherencia del conjunto: no intenta ser lo que no es. No hay pantallas táctiles gigantes ni domótica de relumbrón; hay una célula bien distribuida, una mecánica probada y una estética que envejece bien. Para el comprador primerizo, esa honestidad es una virtud: menos sistemas complejos significan menos averías y un mantenimiento más barato a lo largo de los años. Y para el que viene de una camper, el salto a 7,41 metros con garaje pasante se nota desde el primer viaje largo.`,
     analisisSlug: "sunlight-t-68-2026-analisis-opinion",
@@ -105,7 +105,7 @@ Un detalle que distingue a la T 68 dentro de su franja es la coherencia del conj
       "Sunlight pesa cada T 68 al salir de la línea de producción y comunica el peso real al concesionario, dentro de una horquilla oficial de 2.857 a 3.157 kg: en esta marca el peso declarado no es una estimación, es una medición por unidad. Fuente: https://www.sunlight.de/en-int/models/motorhomes/low-profile-motorhomes-adventure/t-68-adventure/",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",
@@ -121,7 +121,7 @@ Un detalle que distingue a la T 68 dentro de su franja es la coherencia del conj
         },
       ],
       costeAnualAproxEur: 600,
-      fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Sunlight",
+      fuente: "Plan de mantenimiento Fiat Ducato asimismo + recomendaciones Sunlight",
     },
     euroncap: null,
     notas:
@@ -193,13 +193,13 @@ Un detalle que distingue a la T 68 dentro de su franja es la coherencia del conj
       },
       {
         src: "/media/sunlight-a-70-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Interior del Sunlight A 70, salón visto de delante hacia atrás (foto oficial)",
+        alt: "Interior del Sunlight A 70, salón visto de delante hacia atrás",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/sunlight-a-70-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Vista panorámica 360° del interior del Sunlight A 70: cocina, baño y cama (foto oficial)",
+        alt: "Vista panorámica 360° del interior del Sunlight A 70: cocina, baño y cama",
         ancho: 1200,
         alto: 600,
       },
@@ -220,7 +220,7 @@ Un aspecto práctico que conviene valorar es la red: al pertenecer al grupo Hyme
       "El A 70 incluye de serie 7 años de garantía de estanqueidad, una cobertura por encima de la media de las capuchinas generalistas y una de las bazas silenciosas de Sunlight dentro del grupo Hymer. Fuente: https://www.sunlight.de/modelle/reisemobile/alkoven/a-70/",
     planMantenimiento: {
       intervalo:
-        "Citroën Jumper: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Citroën)",
+        "Citroën Jumper: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Citroën Jumper (2 años / 40.000 km)",
@@ -308,13 +308,13 @@ Un aspecto práctico que conviene valorar es la red: al pertenecer al grupo Hyme
       },
       {
         src: "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Interior del Sunlight Cliff 640 Adventure, salón visto de delante hacia atrás (foto oficial)",
+        alt: "Interior del Sunlight Cliff 640 Adventure, salón visto de delante hacia atrás",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/sunlight-cliff-640-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Detalle de la cocina del Sunlight Cliff 640 Adventure (foto oficial)",
+        alt: "Detalle de la cocina del Sunlight Cliff 640 Adventure",
         ancho: 1200,
         alto: 1798,
       },
@@ -335,7 +335,7 @@ Otro punto a favor del Cliff es la red del grupo Hymer detrás: concesionarios e
       "Sunlight publica el PVP del Cliff 640 Adventure para España (60.990 €) en su web oficial: una transparencia casi única en el sector, donde lo habitual es remitir al concesionario sin dar cifras. Fuente: https://www.sunlight.de/es/modelos/camper-vans/cliff-adventure/cliff-640-adventure/",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",
@@ -351,7 +351,7 @@ Otro punto a favor del Cliff es la red del grupo Hymer detrás: concesionarios e
         },
       ],
       costeAnualAproxEur: 600,
-      fuente: "Plan de mantenimiento Fiat Ducato + recomendaciones Sunlight",
+      fuente: "Plan de mantenimiento Fiat además Ducato + recomendaciones Sunlight",
     },
     euroncap: null,
     notas:

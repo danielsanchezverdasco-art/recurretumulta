@@ -147,7 +147,7 @@ pasa por el importador y la factura final depende del motor y las opciones elegi
     ],
     analisisSlug: "frankia-f-line-i-680-sg-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 48.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato 2.2)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Frankia (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades, Alde/aire", costeAproxEur: 300 },

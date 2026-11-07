@@ -662,7 +662,7 @@ export const ANALISIS_MOTO_03: MapaAnalisis = {
   "fantic-caballero-700-2026-ficha-tecnica-precio": {
     parrafos: [
       "La Fantic Caballero 700 2026 es un hito: la primera Caballero con motor bicilíndrico de la historia, y no uno cualquiera, sino el CP2 de 689 cc derivado del Yamaha MT-07 —el motor más probado del segmento— con 74 CV. Es limitable para el A2, pesa 175 kg en seco —ligera para una 700 bicilíndrica— y lleva ABS en curva y control de tracción desconectables con IMU. Desde 8.990 € en distribuidor oficial, el precio es rompedor.",
-      "El diseño homenajea a las scrambler Fantic de los años 70 y ofrece tres modos de conducción: Street, Offroad y Custom. Los peros: el diseño clásico no gustará a quien busque modernidad, las suspensiones Marzocchi son correctas sin regulación avanzada, el depósito de 13 litros da una autonomía media, no hay quickshifter ni control de crucero y la red de servicio es más pequeña que la de las japonesas.",
+      "El diseño homenajea a las scrambler Fantic de los años 70 y ofrece tres modos de conducción: Street, Offroad y Custom. Los peros: el diseño clásico no gustará a quien busque modernidad, las suspensiones Marzocchi son correctas sin regulación avanzada, el depósito de 13 litros da una autonomía media, no hay quickshifter ni control de crucero y la red de servicio es más reducida que la de las japonesas.",
       "Motor Yamaha, estilo italiano y precio contenido: la Caballero 700 2026 es la scrambler media más interesante del momento para el carnet A2.",
     ],
     veredicto: "La scrambler media ideal para el A2 con motor probadísimo; no es para quien busque electrónica de última generación.",

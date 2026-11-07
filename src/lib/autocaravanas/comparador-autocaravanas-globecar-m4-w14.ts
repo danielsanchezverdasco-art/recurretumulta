@@ -98,7 +98,7 @@ Para quién es. El Summit 600 Plus encaja con quien quiere un camper de 6 metros
     ],
     analisisSlug: "globecar-summit-600-plus-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Stellantis (Citroën Jumper/Fiat Ducato): revisión cada 2 años o 40.000 km según plan del fabricante",
+      intervalo: "Base Stellantis (Citroën Jumper/Fiat Ducato): 2 años / 40.000 km según plan del fabricante",
       revisiones: [
         { nombre: "Revisión base (furgón)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Globecar/Pössl (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -195,7 +195,7 @@ Para quién es. El CampScout B es para parejas que duermen mejor cada uno en su 
     ],
     analisisSlug: "globecar-campscout-b-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Stellantis (Fiat Ducato/Citroën Jumper): revisión cada 2 años o 40.000 km según plan del fabricante",
+      intervalo: "Base Stellantis (Fiat Ducato/Citroën Jumper): 2 años / 40.000 km según plan del fabricante",
       revisiones: [
         { nombre: "Revisión base (furgón)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Globecar/Pössl (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

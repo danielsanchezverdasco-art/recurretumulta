@@ -146,7 +146,7 @@ export const AUTOCARAVANAS_CHALLENGER_M3: Autocaravana[] = [
     analisisSlug: "challenger-328-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Ford Transit: revisión cada 2 años o 40.000 km (lo que antes ocurra, según plan Ford)",
+        "Base Ford Transit: 2 años / 40.000 km (lo que antes ocurra, según plan Ford)",
       revisiones: [
         {
           nombre: "Revisión base (Ford Transit)",
@@ -257,7 +257,7 @@ export const AUTOCARAVANAS_CHALLENGER_M3: Autocaravana[] = [
     ],
     analisisSlug: "challenger-396-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato / Ford Transit: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato / Ford Transit: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato / Ford Transit)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Challenger (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades y mecanismo Duo Bed", costeAproxEur: 250 },

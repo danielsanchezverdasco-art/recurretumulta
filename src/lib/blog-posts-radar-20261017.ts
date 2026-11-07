@@ -16,9 +16,9 @@ import type { BlogPost } from "./blog-meta.ts";
 export const RADAR_20261017_POSTS: BlogPost[] = [
   {
     slug: "porsche-mission-s-2026-revelado",
-    title: "Porsche Mission S: 8.000 rpm y motor central sobre el 911",
+    title: "Porsche Mission S: el superdeportivo que no será eléctrico",
     excerpt:
-      "Porsche desvela el Mission S: superdeportivo de motor central por encima del 911, con 8.000 rpm y sin pantalla. De combustión o híbrido, nunca eléctrico.",
+      "Porsche desvela el Mission S: superdeportivo de motor central por encima del 911, con 8.000 rpm, sin pantalla y con motor de combustión o híbrido.",
     category: "Novedades Motor",
     date: "2026-10-17",
     readTime: 6,
@@ -33,13 +33,15 @@ export const RADAR_20261017_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/porsche-mission-s-2026-revelado-hero.webp alt=Porsche Mission S 2026, superdeportivo de motor central en blanco, vista trasera desde arriba con el ventilador del capó>
 
-*Foto: Porsche AG (imagen oficial del Mission S, distribuida por batmangarage.com). Licencia desconocida.*
+*Imagen: Porsche AG, difundida por batmangarage.com; licencia sin indicar.*
 
-Porsche ha desvelado el **Mission S**, el superdeportivo de motor central que se situará **por encima del 911** en la gama. Presentado el 15 de octubre de 2026 en un muelle de Queens, Nueva York —el mismo donde se fotografió al 550 Spyder en 1953—, es un "vision model" que anticipa una **nueva familia de modelos permanente**, no una serie limitada como el Carrera GT o el 918 Spyder. Y la gran noticia: **no será eléctrico**. Porsche confirma que llevará motor de combustión o híbrido, con cambio manual o automático.
+Un halo que tiene que hacer ruido: así entiende Porsche su próximo superdeportivo. Ante el escaso interés por los hiperdeportivos eléctricos, la marca apuesta por un modelo con motor central, situado por encima del 911, en gama permanente y con combustión o híbrido, nunca eléctrico puro. No será una serie limitada al estilo del Carrera GT o del 918 Spyder, sino el inicio de una familia estable.
+
+El desvelo tuvo lugar en un muelle de Queens, en Nueva York, el 15 de octubre de 2026, el mismo lugar de la foto del 550 Spyder en 1953. Porsche lo define como un «vision model»: adelanta diseño y plataforma del futuro modelo de serie.
 
 **El hermano mayor del 911:** <a href=/coches/porsche-911-carrera-2026-precio-ficha-tecnica/>Porsche 911 Carrera — ficha técnica y precio</a>
 
-## Lo que Porsche ha confirmado
+## Lo que ya es oficial
 
 | Dato oficial | Porsche Mission S |
 |---|---|
@@ -53,13 +55,13 @@ Porsche ha desvelado el **Mission S**, el superdeportivo de motor central que se
 | Llantas | 21" delante, 22" detrás, diseño del 928 |
 | Colores | Firn White Metallic, Light Red Metallic, Black Chrome |
 
-## La filtración: la foto que se escapó horas antes
+## El adelanto filtrado
 
-Horas antes de la presentación, la primera imagen del Mission S apareció en redes, compartida por @jonnylieberman y @dougswheels: la trasera del coche fotografiada por encima de un muro, con la musculosa zaga, los pilotos finos de LED, los cuatro escapes apilados por parejas y el techo de cristal. La imagen también mostraba el detalle más comentado: un **ventilador horizontal sobre la tapa del motor**, homenaje directo al Porsche 917 de competición.
+Unas horas antes del acto, la primera imagen ya circulaba por redes, compartida por @jonnylieberman y @dougswheels. Mostraba la zaga fotografiada desde encima de un muro: musculatura trasera, pilotos finos de LED, cuatro escapes apilados por parejas y techo de cristal. Y el detalle que más comentarios generó: un ventilador horizontal encima de la tapa del motor, guiño directo al Porsche 917 de competición.
 
-## Diseño: cinco leyendas en un solo coche
+## Diseño con memoria
 
-El jefe de diseño Tobias Sühlmann ha mezclado guiños a los Porsche más grandes:
+Tobias Sühlmann, jefe de diseño, ha mezclado referencias a los Porsche más grandes:
 
 | Detalle | Inspirado en |
 |---|---|
@@ -71,13 +73,13 @@ El jefe de diseño Tobias Sühlmann ha mezclado guiños a los Porsche más grand
 
 <img src=/media/porsche-mission-s-2026-revelado-interior.webp alt=Interior del Porsche Mission S con cinco relojes redondos y cuentarrevoluciones de 8.000 rpm>
 
-*Foto: Porsche AG (cockpit oficial del Mission S, vía batmangarage.com). Licencia desconocida.*
+*Imagen: Porsche AG; puesto de conducción del Mission S difundido por batmangarage.com, licencia sin indicar.*
 
-## Interior: cinco relojes y cero pantallas
+## Analógico por decisión
 
-Lo más radical está dentro: **cinco instrumentos redondos** con el cuentarrevoluciones analógico de 8.000 rpm en el centro, que en algunos modos se acerca al conductor. **No hay pantalla central fija ni pantalla para el pasajero**: un soporte retráctil MagSafe sujeta el móvil del conductor. Vuelven los interruptores físicos, con nuevos mandos "push-pull", el reloj Sport Chrono en la base del parabrisas, la llave a la izquierda del volante (como manda la tradición) y una palanca de cambios con aspecto de manual, además de levas en el volante.
+Dentro está lo más radical: cinco esferas redondas, con un cuentarrevoluciones analógico de 8.000 vueltas en el centro, que en determinados modos se acerca al conductor. Ni pantalla central fija ni monitor para el acompañante: el teléfono del conductor va sujeto por un soporte retráctil MagSafe. Vuelven los botones físicos, con mandos «push-pull» inéditos, el Sport Chrono a los pies del parabrisas, el arranque a la izquierda del volante —tradición de la casa— y una palanca con pinta de manual, acompañada de levas tras el volante.
 
-## Motor: combustión sí, eléctrico no
+## Motor: certezas y rumores
 
 | Estado | Dato |
 |---|---|
@@ -89,13 +91,13 @@ Lo más radical está dentro: **cinco instrumentos redondos** con el cuentarrevo
 | *Sin confirmar* | *Precio en torno a 500.000 € (prensa alemana)* |
 | *Sin confirmar* | *Llegada como modelo 2029 (AutoGuide)* |
 
-Porsche no ha dado ni potencia, ni precio, ni fecha de llegada. Lo que sí ha dejado claro el CEO Michael Leiters es la filosofía: ante la falta de interés por los hiperdeportivos eléctricos, el halo de la marca tiene que hacer ruido. El Mission X eléctrico de 2023 queda así en un segundo plano.
+De momento, Porsche no ha anunciado potencia, precio ni fecha de llegada. Sí ha dejado clara la filosofía su CEO Michael Leiters: el emblema de la marca debe hacer ruido. Así, el Mission X eléctrico de 2023 queda relegado.
 
-## La estrategia: Sportwagenschmiede '35
+## La estrategia '35
 
-El Mission S es la pieza central del plan **"Sportwagenschmiede '35"** con el que Porsche quiere volver a la rentabilidad: menos coches, más caros. El objetivo es bajar el punto de equilibrio por debajo de las 200.000 unidades anuales (frente a las unas 280.000 vendidas en 2025) y subir el precio medio de sus modelos más exclusivos. Un superdeportivo permanente por encima del 911, rival del Ferrari F80 y del Lamborghini Revuelto, encaja en ese plan como un guante.
+Dentro del plan «Sportwagenschmiede '35», el Mission S ocupa el centro: con él, Porsche busca volver a la rentabilidad vendiendo menos unidades a mayor precio. La meta pasa por situar el umbral de rentabilidad bajo 200.000 coches al año, cuando en 2025 rondó las 280.000 ventas, y subir el precio medio de los modelos más exclusivos. Un superdeportivo estable por encima del 911, que plantaría cara al Ferrari F80 y al Lamborghini Revuelto, encaja en ese plan de forma natural.
 
-## El linaje: del 959 al Mission S
+## Antecesores
 
 | Modelo | Años | Motor | Potencia |
 |---|---|---|---|
@@ -104,33 +106,37 @@ El Mission S es la pieza central del plan **"Sportwagenschmiede '35"** con el qu
 | Porsche 918 Spyder | 2013-2015 | V8 4.6 híbrido enchufable | 887 CV |
 | **Porsche Mission S** | **2026 (concept)** | **Combustión o híbrido (sin confirmar: bóxer 8)** | Sin anunciar |
 
-## Preguntas frecuentes
+## Qué significa para el aficionado
 
-### ¿Cuándo se ha presentado el Porsche Mission S?
+Si el Mission S llega como se anuncia, el aficionado recupera algo que echaba de menos: un Porsche halo con motor de combustión, cambio manual disponible y un interior que se mira, no que se toca. Queda por ver la potencia definitiva, el precio y la fecha, pero la dirección ya está marcada: menos pantallas, más mecánica y continuidad en gama por encima del 911, no un juguete numerado para coleccionistas.
 
-El **15 de octubre de 2026**, en un muelle del barrio de Queens, en Nueva York, con el skyline de Manhattan de fondo. Es un "vision model": anticipa el diseño y la plataforma del futuro superdeportivo de serie.
+## Dudas habituales
 
-### ¿El Porsche Mission S es eléctrico?
+### ¿Tiene pantalla táctil el concept?
 
-No. Porsche ha confirmado que el modelo de producción llevará **motor de combustión o híbrido**, nunca 100 % eléctrico, con cambio manual o automático. Es un giro frente al Mission X de 2023, que sí era eléctrico.
+No: prescinde de pantalla central y monta cinco esferas redondas, con un cuentarrevoluciones analógico de 8.000 vueltas en el centro, más un soporte MagSafe retráctil para el teléfono. Los mandos, físicos, usan nuevos controles «push-pull».
 
-### ¿Qué motor llevará el Mission S?
+### ¿Qué motor se espera?
 
-Porsche no lo ha confirmado. La prensa alemana (Handelsblatt) apunta a un **nuevo bóxer de 8 cilindros**, que sería el primer ocho cilindros bóxer en un Porsche de calle. Las estimaciones hablan de unos 850 CV y 1.000 Nm.
+Sin confirmación oficial. La prensa alemana (Handelsblatt) apunta a un bóxer nuevo de 8 cilindros, que sería el primer bóxer de ocho cilindros en un Porsche de calle. Las estimaciones rondan los 850 caballos y 1.000 Nm.
 
-### ¿Cuánto costará el Porsche Mission S?
+### ¿Qué precio se rumorea?
 
-No hay precio oficial. Los rumores lo sitúan en torno a los **500.000 €**, por encima del 911 Turbo S y en la órbita del Ferrari 296. Al ser una gama permanente y no una edición limitada, el precio final podría ajustarse.
+No existe precio oficial. Los rumores lo colocan alrededor de los 500.000 €, por encima de un 911 Turbo S, en la zona del Ferrari 296. Al tratarse de una gama permanente y no de una edición limitada, la cifra final podría ajustarse.
 
-### ¿Cuándo llegará el Mission S de producción?
+### ¿Cuándo llegará a producción?
 
-Porsche no ha dado fecha. Algunas publicaciones apuntan al **año-modelo 2029**. Lo confirmado es que será una **gama permanente** por encima del 911, no una serie limitada que desaparezca a los dos años.
+Porsche no ha facilitado fecha. Algunas publicaciones señalan el año-modelo 2029. Lo confirmado: seguirá en gama por encima del 911, no será una serie corta que desaparezca a los dos años.
 
-### ¿El Mission S tiene pantalla táctil?
+### ¿Será eléctrico el Mission S?
 
-No. El concept prescinde de pantalla central: lleva **cinco relojes redondos** con el cuentarrevoluciones analógico de 8.000 rpm en el centro y un soporte MagSafe retráctil para el móvil. Los mandos son físicos, con nuevos controles "push-pull".
+No: Porsche ha confirmado que la versión de producción montará combustión o híbrido, nunca un eléctrico puro, con cambio manual o automático. Supone un giro respecto al Mission X de 2023, que era eléctrico.
 
-**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
+### ¿Cuándo se desveló el Porsche Mission S?
+
+Se desveló en un muelle de Queens el 15 de octubre de 2026, con Manhattan al fondo. Es un «vision model» que anticipa diseño y plataforma del futuro superdeportivo de serie.
+
+**¿Multa en el buzón?** <a href=https://recurretumulta.online/#analizador>Comprueba gratis si puedes recurrirla</a> antes de decidir nada.
 
 *Fuentes: <a href=https://www.batmangarage.com/news/porsche-mission-s.html>Batman Garage (revelado oficial, diseño e interior, con datos de Porsche Newsroom)</a>, <a href=https://carsbase.com/news/2026/porsche-debuts-mid-engine-mission-s-nid5841>CarsBase (presentación en Nueva York y especificaciones estimadas)</a>, <a href=https://www.europesays.com/germany/110271/>EuropeSays (la filtración horas antes del revelado)</a>, <a href=https://luxe.digital/news/porsche-mission-s-mid-engine-supercar-concept/>Luxe Digital (estrategia Sportwagenschmiede '35 y posicionamiento)</a>.*`,
   },

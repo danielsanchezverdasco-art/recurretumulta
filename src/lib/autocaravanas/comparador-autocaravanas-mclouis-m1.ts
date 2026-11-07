@@ -132,7 +132,7 @@ export const AUTOCARAVANAS_MCLOUIS_M1: Autocaravana[] = [
     analisisSlug: "mclouis-mc4-231-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat Professional)",
+        "Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",

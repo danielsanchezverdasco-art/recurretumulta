@@ -389,7 +389,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
       costeMensualTotal: 161,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; recarga doméstica a 0,18 €/kWh; consumo WLTP 15,9 kWh/100 km; precio de lanzamiento europeo 41.700 €",
+      notas: "15.000 km/año; 0,18 €/kWh (doméstica); consumo WLTP 15,9 kWh/100 km; precio de lanzamiento europeo 41.700 €",
       estimado: true
     },
     galeria: [
@@ -467,7 +467,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
       costeMensualTotal: 167,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; recarga doméstica a 0,18 €/kWh; consumo WLTP 16,6 kWh/100 km; precio de lanzamiento europeo 41.900 €",
+      notas: "15.000 km/año; 0,18 €/kWh (doméstica); consumo WLTP 16,6 kWh/100 km; precio de lanzamiento europeo 41.900 €",
       estimado: true
     },
     galeria: [
@@ -545,7 +545,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
       costeMensualTotal: 171,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; recarga doméstica a 0,18 €/kWh; consumo WLTP 16,6 kWh/100 km; precio de lanzamiento europeo 44.700 €",
+      notas: "15.000 km/año; 0,18 €/kWh (doméstica); consumo WLTP 16,6 kWh/100 km; precio de lanzamiento europeo 44.700 €",
       estimado: true
     },
     galeria: [
@@ -581,7 +581,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     categoria: "Fastback",
     precioDesde: 78000,
     potenciaCv: 470,
-    autonomiaKm: null,
+    autonomiaKm: 520,
     maleteroL: 532,
     ceroCien: 3.9,
     velocidadMax: 220,
@@ -612,7 +612,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     parNm: 808,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["autonomiaKm"],
     imagen: "/media/alpine-a390-gts-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -623,7 +623,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
       costeMensualTotal: 211,
       precioKwh: 0.18,
       precioGasolinaL: 1.85,
-      notas: "15.000 km/año; recarga doméstica a 0,18 €/kWh; consumo estimado 19,5 kWh/100 km (sin dato WLTP verificado para el GTS); precio en España 78.000 €",
+      notas: "15.000 km/año; 0,18 €/kWh (doméstica); consumo estimado 19,5 kWh/100 km (sin dato WLTP verificado para el GTS); precio en España 78.000 €",
       estimado: true
     },
     galeria: [
@@ -703,7 +703,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
       "costeMensualTotal": 313,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; gasolina a 1,85 €/l; consumo WLTP 6,7 l/100 km; precio km77 69.800 €",
+      "notas": "15.000 km/año; gasolina a 1,85 €/l y consumo WLTP 6,7 l/100 km; precio km77 69.800 €",
       "estimado": true
     },
     "galeria": [
@@ -742,7 +742,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     "modelo": "A110 R 70",
     "tipo": "Gasolina",
     "categoria": "Deportivo",
-    "precioDesde": 125200,
+    "precioDesde": 124799,
     "potenciaCv": 300,
     "autonomiaKm": null,
     "maleteroL": 196,
@@ -874,7 +874,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
       "costeMensualTotal": 165,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; recarga doméstica a 0,18 €/kWh; consumo WLTP 15,9 kWh/100 km; precio 38.700 €",
+      "notas": "15.000 km/año; 0,18 €/kWh (doméstica); consumo WLTP 15,9 kWh/100 km; precio 38.700 €",
       "estimado": true
     },
     "galeria": [
@@ -961,7 +961,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
       "costeMensualTotal": 171,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; recarga doméstica a 0,18 €/kWh; consumo estimado 16,6 kWh/100 km; precio 46.200 €",
+      "notas": "15.000 km/año; 0,18 €/kWh (doméstica); consumo estimado 16,6 kWh/100 km; precio 46.200 €",
       "estimado": true
     },
     "galeria": [
@@ -1047,7 +1047,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
       "costeMensualTotal": 205,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "15.000 km/año; recarga doméstica a 0,18 €/kWh; consumo 19,0 kWh/100 km; precio 67.500 €",
+      "notas": "15.000 km/año; 0,18 €/kWh (doméstica); consumo 19,0 kWh/100 km; precio 67.500 €",
       "estimado": true
     },
     "galeria": [

@@ -87,7 +87,7 @@ En precio no hay cifra oficial posible: Mooveo no publica PVP y, al estar descat
     analisisSlug: "mooveo-tei-60fb-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Citroën Jumper 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Citroën)",
+        "Citroën Jumper 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Citroën Jumper (2 años / 40.000 km)",

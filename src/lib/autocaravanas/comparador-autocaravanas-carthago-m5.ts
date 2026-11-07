@@ -122,7 +122,7 @@ export const AUTOCARAVANAS_CARTHAGO_M5: Autocaravana[] = [
     analisisSlug: "carthago-c2-tourer-i-145-rb-le-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Mercedes-Benz Sprinter: revisión cada 2 años o 40.000 km (según plan del fabricante de la base)",
+        "Base Mercedes-Benz Sprinter: 2 años / 40.000 km (según plan del fabricante de la base)",
       revisiones: [
         {
           nombre: "Revisión base (Mercedes-Benz)",

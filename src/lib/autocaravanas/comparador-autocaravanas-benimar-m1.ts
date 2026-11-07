@@ -112,7 +112,7 @@ Perfil de comprador: la Mileo 243 encaja con parejas que buscan la perfilada má
     analisisSlug: "benimar-mileo-243-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",
@@ -235,7 +235,7 @@ A quién va dirigida: la Amphitryon 940 es para familias de cinco que quieren un
   analisisSlug: "benimar-amphitryon-940-2026-analisis-opinion",
   planMantenimiento: {
   intervalo:
-  "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+  "Fiat Ducato 2.2: 2 años / 40.000 km",
   revisiones: [
   {
   nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",

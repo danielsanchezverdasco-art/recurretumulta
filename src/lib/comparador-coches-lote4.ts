@@ -84,7 +84,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Bugatti (programa de servicio oficial).",
@@ -101,7 +101,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
     modelo: "Nevera R",
     tipo: "Eléctrico",
     categoria: "Hiperdeportivo",
-    precioDesde: 2000000,
+    precioDesde: 2300000,
     potenciaCv: 2107,
     autonomiaKm: null,
     maleteroL: null,
@@ -123,7 +123,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
     parNm: 2650,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precioDesde", "ceroCien"],
+    aprox: ["ceroCien"],
     pros: [
       "2.107 CV: el eléctrico de producción más potente del mundo",
       "0-100 en 1,74 s y 24 récords mundiales de aceleración",
@@ -132,7 +132,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       "Usable a diario pese a su enfoque radical",
     ],
     contras: [
-      "Precio en torno a 2 millones de euros (orientativo)",
+      "Precio base anunciado por Rimac: 2,3 millones de euros (serie limitada a 40 unidades)",
       "2.265 kg: la batería pesa lo suyo",
       "Los superricos prefieren el drama de un V12, según el propio Mate Rimac",
       "Autonomía real muy limitada si se usa su potencia",
@@ -170,7 +170,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Rimac Automobili.",
@@ -256,7 +256,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Koenigsegg.",
@@ -342,7 +342,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; programa de servicio personalizado Pagani Automobili.",
@@ -428,7 +428,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los deportivos de producción limitada no pasan la prueba europea.",
+      nota: "EuroNCAP sin datos: los deportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con De Tomaso Automobili.",
@@ -686,7 +686,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los deportivos de producción limitada no pasan la prueba europea.",
+      nota: "EuroNCAP sin datos: los deportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con AC Cars.",
@@ -772,7 +772,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los deportivos de producción limitada no pasan la prueba europea.",
+      nota: "EuroNCAP sin datos: los deportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Dallara.",
@@ -858,7 +858,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; programa de servicio personalizado Automobili Pininfarina.",
@@ -944,7 +944,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Hennessey Special Vehicles.",
@@ -1030,7 +1030,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con SSC North America.",
@@ -1116,7 +1116,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Czinger Vehicles.",
@@ -1202,7 +1202,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no pasan la prueba europea.",
+      nota: "Sin datos EuroNCAP: los hiperdeportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; programa de servicio Gordon Murray Automotive.",
@@ -1288,7 +1288,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los deportivos de producción limitada no pasan la prueba europea.",
+      nota: "EuroNCAP sin datos: los deportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; programa de servicio Gordon Murray Automotive.",
@@ -1460,7 +1460,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los deportivos de producción limitada no pasan la prueba europea.",
+      nota: "EuroNCAP sin datos: los deportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Automobili Turismo e Sport.",
@@ -1546,7 +1546,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
       estrellas: null,
       ano: null,
       url: null,
-      nota: "Sin datos EuroNCAP: los deportivos de producción limitada no pasan la prueba europea.",
+      nota: "EuroNCAP sin datos: los deportivos de producción limitada no se someten a la prueba europea.",
     },
     planMantenimiento: {
       intervalo: "No publicado públicamente; mantenimiento concertado con Zagato / Iso Rivolta.",
@@ -1587,18 +1587,18 @@ export const COCHES_LOTE4: CocheComparador[] = [
     emisionesCo2: null,
     aprox: ["ceroCien", "velocidadMax"],
     pros: [
-      "El Maserati más potente de la historia: 740 CV del V6 Nettuno",
-      "1.250 kg con monocasco de carbono Dallara",
-      "Solo 62 unidades, todas vendidas",
-      "Programa de pista con ingenieros de Maserati incluidos",
-      "Sucesor espiritual del MC12 de competición",
+      "Con 740 CV del V6 Nettuno, es el Maserati más potente de la historia",
+      "El monocasco de carbono Dallara deja el peso en 1.250 kg",
+      "Solo se hicieron 62 unidades y todas están vendidas",
+      "El programa de pista incluye ingenieros de Maserati para el propietario",
+      "Como sucesor espiritual del MC12 de competición, cierra un círculo",
     ],
     contras: [
-      "900.000 € antes de impuestos",
-      "Solo para circuito: no homologado para carretera",
-      "Monoplaza (kit de pasajero opcional)",
-      "Sin etiqueta DGT: no puede pisar la vía pública",
-      "Neumáticos slicks y mantenimiento de carreras",
+      "El precio parte de 900.000 € antes de impuestos",
+      "Es solo para circuito: no está homologado para carretera",
+      "Es monoplaza, con kit de pasajero opcional",
+      "Sin etiqueta DGT, no puede pisar la vía pública",
+      "Los neumáticos slicks y el mantenimiento son de carreras, no de calle",
     ],
     imagen: "/media/maserati-mcxtrema-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/maserati-mcxtrema-2025-precio-ficha-tecnica-oficial.webp",

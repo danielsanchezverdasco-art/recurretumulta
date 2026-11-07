@@ -121,7 +121,7 @@ Para quién es: la Twin Supreme 640 SGX es para parejas que quieren una camper p
     analisisSlug: "adria-twin-supreme-640-sgx-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",
@@ -258,7 +258,7 @@ Para quién es: la Coral Plus 670 SL es para parejas viajeras que quieren una pe
   analisisSlug: "adria-coral-plus-670-sl-2026-analisis-opinion",
   planMantenimiento: {
   intervalo:
-  "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+  "Fiat Ducato 2.2: 2 años / 40.000 km",
   revisiones: [
   {
   nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",

@@ -119,7 +119,7 @@ Para quién es: la Kilig 69 Plus encaja con parejas viajeras que quieren cama ce
     analisisSlug: "rimor-kilig-69-plus-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Ford Transit: revisión cada 2 años o 60.000 km (lo que ocurra antes, según plan Ford)",
+        "Base Ford Transit: 2 años / 60.000 km",
       revisiones: [
         {
           nombre: "Revisión Ford Transit (2 años / 60.000 km)",
@@ -241,7 +241,7 @@ Para quién es: el Kilig 66 Plus encaja con parejas que quieren la cama central 
     analisisSlug: "rimor-kilig-66-plus-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Ford Transit: revisión cada 2 años o 60.000 km (lo que ocurra antes, según plan Ford)",
+        "Base Ford Transit: 2 años / 60.000 km",
       revisiones: [
         {
           nombre: "Revisión Ford Transit (2 años / 60.000 km)",

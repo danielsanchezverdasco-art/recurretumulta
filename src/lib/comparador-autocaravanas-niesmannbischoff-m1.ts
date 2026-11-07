@@ -64,25 +64,25 @@ export const AUTOCARAVANAS_NIESMANNBISCHOFF_M1: Autocaravana[] = [
     galeria: [
       {
         src: "/media/niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Niesmann+Bischoff iSmove 6.9 E, vista tres cuartos (foto oficial de prensa)",
+        alt: "Niesmann+Bischoff iSmove 6.9 E, vista tres cuartos",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica-oficial-ext2.webp",
-        alt: "Niesmann+Bischoff iSmove 6.9 E, vista frontal (foto oficial de prensa)",
+        alt: "Niesmann+Bischoff iSmove 6.9 E, vista frontal",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Interior del Niesmann+Bischoff iSmove 6.9 E, salón y cocina (foto oficial de prensa)",
+        alt: "Interior del Niesmann+Bischoff iSmove 6.9 E, salón y cocina",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/niesmann-bischoff-ismove-69-e-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Cocina del Niesmann+Bischoff iSmove 6.9 E (foto oficial de prensa)",
+        alt: "Cocina del Niesmann+Bischoff iSmove 6.9 E",
         ancho: 1200,
         alto: 800,
       },
@@ -91,7 +91,7 @@ export const AUTOCARAVANAS_NIESMANNBISCHOFF_M1: Autocaravana[] = [
     analisisSlug: "niesmann-bischoff-ismove-69-e-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",

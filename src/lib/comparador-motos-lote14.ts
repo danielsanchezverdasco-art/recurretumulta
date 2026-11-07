@@ -68,7 +68,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://novamotos.com.mx/tienda/lifan/kpt400/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -144,7 +144,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/hanway/sc-125-s",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "4.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -375,7 +375,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.autoevolution.com/moto/qjmotor-srk-400-rs-2025.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -384,7 +384,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + ajuste de válvulas (según km)",
           costeAproxEur: 260,
         },
       ],
@@ -451,7 +451,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://cfmotomx.com/producto/250sr/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -528,7 +528,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://cfmotoferbel.com/producto/cfmoto-250cl-x/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -604,7 +604,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.quadis.es/motos-nuevas/voge/300acx/300acx/466552",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -680,7 +680,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://mototaller.info/voge-625r-llegan-curvas/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -689,7 +689,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + ajuste de válvulas (según km)",
           costeAproxEur: 260,
         },
       ],
@@ -757,7 +757,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://comotos.co/cfmoto-150nk-ficha-tecnica-caracteristicas-precio/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "4.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -833,7 +833,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://moteo.es/voge-525r-2024-precio-ficha-tecnica-y-fotos/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -842,7 +842,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + ajuste de válvulas (según km)",
           costeAproxEur: 260,
         },
       ],
@@ -910,7 +910,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://galgo.com/pe/motos/PE308-lifan-lifan-kpf-150",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "4.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -987,7 +987,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://motodinamia.com/qjmotor-srk-921rr-race-precio/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -996,7 +996,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + ajuste de válvulas (según km)",
           costeAproxEur: 320,
         },
       ],
@@ -1063,7 +1063,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://qjmotor.es/Moto/srk-125s/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1215,7 +1215,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/mbp/morbidelli-t352x",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1224,7 +1224,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + ajuste de válvulas (según km)",
           costeAproxEur: 240,
         },
       ],
@@ -1270,19 +1270,13 @@ export const MOTOS_LOTE14: MotoComparador[] = [
       "Su motor lo suministra Piaggio, garantía de fiabilidad.",
       "La pantalla TFT de 7 pulgadas es enorme para una 125.",
     ],
-    imagen: "/media/fb-mondial-hps-125-1.webp",
+    imagen: "/media/fb-mondial-hps-125-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
       {
-        src: "/media/fb-mondial-hps-125-2.webp",
-        alt: "FB Mondial HPS 125, vista lateral hipster",
-        ancho: 1200,
-        alto: 684,
-      },
-      {
-        src: "/media/fb-mondial-hps-125-3.webp",
-        alt: "FB Mondial HPS 125, detalle del depósito",
-        ancho: 1200,
-        alto: 800,
+        src: "/media/fb-mondial-hps-125-2025-ficha-tecnica-precio-2.webp",
+        alt: "FB Mondial HPS 125 2025, detalle",
+        ancho: 1920,
+        alto: 1280,
       },
     ],
     videoId: null,
@@ -1291,7 +1285,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://factory-bike.es/fb-mondial/88798-fb-mondial-hps-125-abs.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1367,7 +1361,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://factory-bike.es/zontes/131187-zontes-125c.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "4.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1443,7 +1437,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/zontes/e125",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "4.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1521,7 +1515,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/zontes/368e",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1598,7 +1592,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://galgo.com/cl/motos/CL3122-keeway-k-light-250v",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "4.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1674,7 +1668,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/keeway/v302c",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1750,7 +1744,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://motos125.es/motos/motron/x-nord-125",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "4.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1826,7 +1820,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://moto.motorionline.com/es/kove-510f-la-scrambler-che-supera-le-tue-aspettative-prova-su-strada/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1835,7 +1829,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
         },
         {
           nombre: "Revisión 6.000 km / anual",
-          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + reglaje de válvulas (según km)",
+          queSeCambia: "Aceite + filtro de aceite + filtro de aire + bujías + ajuste de válvulas (según km)",
           costeAproxEur: 260,
         },
       ],
@@ -1902,7 +1896,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/fbmondial/piega-125",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",

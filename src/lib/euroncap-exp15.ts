@@ -1,23 +1,25 @@
 // EURONCAP EXP15 — datos EuroNCAP verificados para el lote 15 (07/10/2026).
 // Solo entran modelos con test EuroNCAP verificado. Sin test -> SIN entrada.
-// Notas: los acabados GR Sport / Overtrail / Morizo RR comparten el test del
-// modelo base (misma carrocería y equipamiento de seguridad; EuroNCAP aplica el
-// rating "a todos los <modelo>"); el RZ 2023 aplica a los nuevos 350e/500e/550e.
+// Notas: los acabados GR Sport / Overtrail comparten el test del modelo base
+// (misma carrocería y equipamiento de seguridad; EuroNCAP aplica el rating
+// "a todos los <modelo>"); el RZ 2023 aplica a los nuevos 350e/500e/550e.
 // Sin entrada: Hilux BEV (sin test), GR Supra Final Edition (Supra sin test
 // EuroNCAP), RAV4 GR Sport PHEV (6ª gen sin test), Proace Verso/Max Electric
-// (sin test de turismo), LC 500 Cabrio (sin test).
+// (sin test de turismo), LC 500 Cabrio (sin test), LBX Morizo RR (auditoría
+// 20/10/2026: la validez del test del LBX 2024 solo cubre las variantes
+// híbridas 1.5, no el Morizo RR 1.6 turbo).
 // Fuentes: euroncap.com (datasheets oficiales), newsroom.toyota.eu, lexus.eu.
 import type { SeguridadEuroNCAP } from "./seguridad-euroncap.ts";
 
 export const EURONCAP_EXP15: Record<string, SeguridadEuroNCAP> = {
   "toyota-yaris-cross-gr-sport-2025-precio-ficha-tecnica": {
     fichaId: "toyota-yaris-cross-gr-sport-2025-precio-ficha-tecnica",
-    estrellas: 5,
-    anioTest: 2021,
-    adulto: 86,
-    infantil: 84,
-    peatones: 78,
-    asistencias: 81,
+    estrellas: 4,
+    anioTest: 2025,
+    adulto: 79,
+    infantil: 85,
+    peatones: 83,
+    asistencias: 76,
     videoCrashId: null,
     videoAlceId: null,
   },
@@ -40,17 +42,6 @@ export const EURONCAP_EXP15: Record<string, SeguridadEuroNCAP> = {
     infantil: 84,
     peatones: 86,
     asistencias: 77,
-    videoCrashId: null,
-    videoAlceId: null,
-  },
-  "lexus-lbx-morizo-rr-2025-precio-ficha-tecnica": {
-    fichaId: "lexus-lbx-morizo-rr-2025-precio-ficha-tecnica",
-    estrellas: 5,
-    anioTest: 2024,
-    adulto: 82,
-    infantil: 83,
-    peatones: 79,
-    asistencias: 76,
     videoCrashId: null,
     videoAlceId: null,
   },

@@ -130,7 +130,7 @@ Para quién es: el Dethleffs Trend T 6717 EB es para quien busca en el mercado d
     analisisSlug: "dethleffs-trend-t-6717-eb-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato 2.2: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Fiat)",
+        "Fiat Ducato 2.2: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",

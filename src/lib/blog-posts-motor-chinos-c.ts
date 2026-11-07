@@ -25,7 +25,7 @@ export const MOTOR_CHINOS_C_POSTS: BlogPost[] = [
 
 **¿Buscas solo los datos?** <a href=/coches/xpeng-g6-2026-restyling-precio-espana/>Ver ficha técnica del XPeng G6 2026</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-El **XPeng G6** ya era uno de los eléctricos chinos más serios a la venta en España, pero su actualización de 2026 lo pone en otra liga: toda la gama estrena **batería LFP** y una carga rápida de **451 kW** que recupera del 10 al 80 % en **12 minutos**. Ningún rival de su precio carga tan rápido. Ni siquiera el Tesla Model Y se acerca.
+El **XPeng G6** ya era uno de los eléctricos chinos más serios a la venta en España, pero su actualización de 2026 lo pone en otra liga: toda la gama estrena **batería LFP** y una carga rápida de **451 kW** que recupera del 10 al asimismo 80 % en **12 minutos**. Ningún rival de su precio carga tan rápido. Ni siquiera el Tesla Model Y se acerca.
 
 El restyling (año-modelo MY2026) llegó a los concesionarios españoles a finales de septiembre de 2025, y en febrero de 2026 se sumó la versión de acceso RWD Standard Range. Esto es todo lo que cambia y lo que cuesta.
 
@@ -182,7 +182,7 @@ Sobre el papel, el YU7 gana en casi todo. La gran pregunta es a qué precio lleg
 |---|---|
 | Récord de demanda: 200.000 pedidos en 3 minutos hablan por sí solos | No llegará a Europa hasta 2027 (confirmado por Xiaomi) |
 | 835 km CLTC (685 WLTP estimados): autonomía de referencia | Precio europeo sin confirmar; en China parte de ~30.000 € |
-| Carga de 800 V: del 10 al 80 % en 12 minutos | 2.315 kg en la versión de acceso: es un coche pesado |
+| Carga de 800 V: del 10 al además 80 % en 12 minutos | 2.315 kg en la versión de acceso: es un coche pesado |
 | Maletero de 678 L + frunk de 141 L: practicidad total | La gama se reorganizó en 2026; la configuración europea podría diferir |
 | Tecnología HyperOS, pantalla de 1,1 m y LiDAR de serie | Red de servicio europea aún por construir |
 
@@ -246,7 +246,7 @@ El S07 MY26 se vende en acabado único **Max desde 45.990 €** (antes de ayudas
 
 La red comercial ya suma **71 puntos de venta en España**, con objetivo de 80 a finales de 2026, y Changan planea 8 modelos en 3 años entre sus tres marcas: Changan, Deepal y Avatr (esta última, premium y desarrollada con Huawei y CATL).
 
-<img src=/media/deepal-s07-precio-espana-ficha-tecnica-oficial.webp alt=Deepal S07, SUV eléctrico, foto oficial>
+<img src=/media/deepal-s07-precio-espana-ficha-tecnica-oficial.webp alt=Deepal S07, SUV eléctrico>
 
 <img src=/media/deepal-s07-precio-espana-ficha-tecnica-interior-oficial-2.webp alt=Interior oficial del deepal s07 precio espana ficha tecnica>
 
@@ -308,7 +308,7 @@ Sí, al ser 100 % eléctrico le corresponde la **etiqueta CERO** de la DGT. <a h
 ### ¿Hay una versión híbrida del S07?
 En otros mercados existe el **S07 REEV** (autonomía extendida con generador de gasolina), pero **no se vende en España** y no hay fecha confirmada.
 
-Con etiqueta CERO, el S07 entra en todas las <a href=https://recurretumulta.online/guias/zbe>Zonas de Bajas Emisiones</a> sin problema. Y si alguna vez te llega una multa —eléctrico o no, los radares no discriminan—, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+Con etiqueta CERO, el S07 entra en todas las <a href=https://recurretumulta.online/guias/zbe>Zonas de Bajas Emisiones</a> sin problema. 
 
 ## Fuentes
 

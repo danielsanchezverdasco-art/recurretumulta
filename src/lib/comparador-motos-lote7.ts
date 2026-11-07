@@ -67,7 +67,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://mpracing.es/10499-kove",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -91,7 +91,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 799,
     categoria: "Trail",
-    precioDesde: 10699,
+    precioDesde: 9499,
     potenciaKw: 69.5,
     potenciaCv: 94.5,
     autonomiaKm: null,
@@ -144,7 +144,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/kove/800x-rally",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -220,7 +220,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/trail/kove/a-2",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -297,7 +297,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/trail/kove/a-2",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -373,7 +373,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://fgmotor.com/producto/kove-nk-125-r-nueva",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "4.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -526,7 +526,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/voge/rr660s",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -602,7 +602,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/cfmoto-1000mt-x-2026-prueba-opiniones/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -678,7 +678,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.canariasenmoto.com/noticias/todos-los-detalles-de-la-nueva-aventurera-cfmoto-250-dual-33782.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -718,7 +718,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     aprox: [],
     pros: [
       "95 CV con ADAS: radar de ángulo muerto y dashcam",
-      "Oferta de lanzamiento: 8.299 € con maletas y seguro a todo riesgo",
+      "Oferta de lanzamiento: 8.299 € con maletas; todo riesgo",
       "Marzocchi + Brembo + ABS Bosch desconectable",
       "Depósito de 24 litros para grandes etapas",
       "6 años de garantía y limitable a 35 kW para el A2",
@@ -730,7 +730,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     ],
     curiosidades: [
       "Es la primera trail china de su precio con sistemas ADAS de ayuda a la conducción.",
-      "La oferta de lanzamiento incluye kit de maletas, seguro a todo riesgo y 6 años de garantía.",
+      "La oferta de lanzamiento incluye kit de maletas; todo riesgo y 6 años de garantía.",
       "Comparte el bicilíndrico de 904 cc con la naked SRK 900.",
     ],
     imagen: "/media/qjmotor-srt-900-sx-2026-ficha-tecnica-precio-1.webp",
@@ -754,7 +754,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/qjmotor/srt-900s-sx",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -830,7 +830,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://moto.motorionline.com/es/qjmotor-srk-550-rs-poca-spesa-tanta-resa-prova-su-strada/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -906,7 +906,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://moto.motorionline.com/es/qj-motor-srk-900-2025-lammiraglia-naked-cresce-di-cilindrata-foto/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -982,7 +982,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://moto.motorionline.com/es/qj-motor-lanza-nueve-modelos-0-km-desde-cero-hasta-el-infinito-a-la-venta-en-concesionarios-foto/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "4.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1058,7 +1058,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/mbp/morbidelli-t1002vx",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1082,7 +1082,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 904,
     categoria: "Trail",
-    precioDesde: 9290,
+    precioDesde: 8990,
     potenciaKw: 70,
     potenciaCv: 95.2,
     autonomiaKm: null,
@@ -1134,7 +1134,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://soymotero.net/motos/benelli/trk-902-xplorer-2026/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1213,7 +1213,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/cyclone-ra600-2026-prueba-opiniones/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1289,7 +1289,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://soymotero.net/noticia/cyclone-rc-600-2025-presentacion-oficial/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1366,7 +1366,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://mpracing.es/10705-cyclone",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "4.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1443,7 +1443,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://mpracing.es/10705-cyclone",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "4.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "4.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1521,7 +1521,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://www.vitomotorsport.com/blog/cyclone-rx6-trail-650-precio-opinion/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -1597,7 +1597,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     fuenteUrl: "https://motodinamia.com/cyclone-re5-precio/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "5.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "5.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",

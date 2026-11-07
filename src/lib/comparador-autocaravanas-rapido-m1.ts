@@ -1,3 +1,6 @@
+// 21/10/2026 (dedupe campers, Niky): retirado el registro «rapido-v55-2026-precio-ficha-tecnica» de este fichero.
+// Era la copia en /autocaravanas/ de una furgoneta camperizada: la versión canónica
+// vive en /campers/rapido-v55-2026-precio-ficha-tecnica/ y la URL vieja redirige con 301 (public/_redirects).
 // Autocaravanas Rapido — lote Merlín 1 (18/10/2026). Corrección (b)(c)(d) 22:15 — textos lote 3.
 // V55: ficha FUERA del primer lote (orden Grok): solo cambios mecánicos (puntos 2, 5, 6), sin
 // descripcion. La web oficial solo confirma la pertenencia a la serie especial OPTIMUM LINE y el
@@ -68,19 +71,19 @@ export const AUTOCARAVANAS_RAPIDO_M1: Autocaravana[] = [
     galeria: [
       {
         src: "/media/rapido-606f-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Rapido 606F, vista exterior tres cuartos (imagen oficial Rapido)",
+        alt: "Rapido 606F, vista exterior tres cuartos",
         ancho: 1199,
         alto: 754,
       },
       {
         src: "/media/rapido-606f-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Interior del Rapido 606F, salón cara a cara (imagen oficial Rapido)",
+        alt: "Interior del Rapido 606F, salón cara a cara",
         ancho: 1200,
         alto: 800,
       },
       {
         src: "/media/rapido-606f-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Cocina del Rapido 606F (imagen oficial Rapido)",
+        alt: "Cocina del Rapido 606F",
         ancho: 1200,
         alto: 800,
       },
@@ -89,7 +92,7 @@ export const AUTOCARAVANAS_RAPIDO_M1: Autocaravana[] = [
     analisisSlug: "rapido-606f-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Peugeot Boxer 2.2 (Francia; Fiat Ducato en exportación): revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan del fabricante del portador)",
+        "Peugeot Boxer 2.2 (Francia; Fiat Ducato en exportación): 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión del portador (2 años / 40.000 km)",

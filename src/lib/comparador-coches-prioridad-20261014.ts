@@ -211,7 +211,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     tipo: "Gasolina",
     categoria: "Berlina",
     // Título ficha (sin precio, 50–60 car.): Audi A3 Sedan 2025 ficha técnica: 150 CV y medidas
-    precioDesde: 34200,
+    precioDesde: 34700,
     potenciaCv: 150,
     autonomiaKm: null,
     maleteroL: 425,
@@ -623,6 +623,8 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }],
       fuente: "Mantenimiento orientativo (misma marca)",
     },
+    fuenteNombre: "Dacia España",
+    fuenteUrl: "https://www.dacia.es/",
   },
   {
     id: "daihatsu-copen-2025",
@@ -987,7 +989,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [{"src": "/media/ford-mustang-gtd-2025-hero.webp", "alt": "Ford Mustang GTD — 2025", "ancho": 1200, "alto": 675}, {"src": "/media/ford-mustang-gtd-2025-2.webp", "alt": "Ford Mustang GTD — 2025", "ancho": 980, "alto": 551}],
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado."},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP."},
     planMantenimiento: {
       intervalo: "Mantenimiento orientativo (modelo similar Ford Mustang, misma marca): mantenimiento de superdeportivo; frenos carbocerámicos y neumáticos según uso en pista",
       revisiones: [{
@@ -1475,7 +1477,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }
     ],
     planMantenimiento: {"intervalo": "Según el Maintenance Minder del propio NSX (manual oficial Acura 2022): el coche avisa en el cuadro con códigos A/B y subítems numerados; si el aviso SERVICE no aparece en más de 12 meses desde el último reinicio, el aceite del motor se cambia cada año", "revisiones": [{"nombre": "Código A — Aceite del motor", "queSeCambia": "Sustituir el aceite del motor (sintético completo 0W-40 específico para el NSX)", "costeAproxEur": null}, {"nombre": "Código B — Aceite, filtro e inspección general", "queSeCambia": "Aceite y filtro de aceite; inspección de frenos delanteros y traseros, caducidad del kit reparapinchazos, rótulas y caja de dirección, suspensión, fuelles de transmisión, latiguillos de freno, niveles de líquidos, escape y conductos de combustible", "costeAproxEur": null}, {"nombre": "Subítem 1 — Neumáticos", "queSeCambia": "Inspeccionar el estado de los neumáticos cada 5.000 km", "costeAproxEur": null}, {"nombre": "Subítem 2 — Filtros de aire", "queSeCambia": "Sustituir el elemento del filtro de aire del motor y los filtros de polvo y polen del habitáculo; en zonas polvorientas, el de aire cada 24.000 km", "costeAproxEur": null}, {"nombre": "Subítem 3 — Líquidos de transmisión y embrague", "queSeCambia": "Sustituir el líquido de la caja DCT de 9 marchas y el líquido del embrague; con uso de montaña a baja velocidad, con más frecuencia por la mayor temperatura de la transmisión", "costeAproxEur": null}, {"nombre": "Subítem 4 — Bujías y válvulas", "queSeCambia": "Sustituir las bujías e inspeccionar el juego de válvulas del V6 biturbo", "costeAproxEur": null}, {"nombre": "Subítem 5 — Refrigerante", "queSeCambia": "Sustituir el refrigerante del motor", "costeAproxEur": null}, {"nombre": "Subítem 6 — Twin Motor Unit", "queSeCambia": "Sustituir el líquido de la Twin Motor Unit, la unidad de los dos motores eléctricos delanteros que hace el reparto vectorial de par", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Manual oficial del propietario del Acura NSX 2022 y su guía Maintenance Minder (owners.acura.com, PDF 2022_nsx_maintenance_minder.pdf): códigos principales A/B, subítems 1 a 6 y regla anual del aceite. El manual no publica costes, por lo que ningún coste se ha inventado."},
-    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin datos EuroNCAP: modelo no probado por Euro NCAP"},
+    euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin test EuroNCAP"},
   },
   {
     id: "honda-s2000-2009",
@@ -1551,6 +1553,8 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
   },
   {
     id: "hyundai-elantra-n-2024",
+    fuenteNombre: "Hyundai N (web oficial global; modelo no comercializado en España)",
+    fuenteUrl: "https://www.hyundai-n.com/en/models/n/elantra-n",
     marca: "Hyundai",
     modelo: "Elantra N",
     tipo: "Gasolina",
@@ -1603,7 +1607,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }
     ],
     planMantenimiento: {
-      intervalo: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
+      intervalo: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -1612,7 +1616,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
+      fuente: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
     },
     euroncap: {
       estrellas: null,
@@ -1623,6 +1627,8 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
   },
   {
     id: "hyundai-i20-n-2024",
+    fuenteNombre: "Hyundai N (web oficial global)",
+    fuenteUrl: "https://www.hyundai-n.com/en/models/n/i20-n",
     marca: "Hyundai",
     modelo: "i20 N",
     tipo: "Gasolina",
@@ -1675,7 +1681,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }
     ],
     planMantenimiento: {
-      intervalo: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
+      intervalo: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -1684,7 +1690,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
+      fuente: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
     },
     euroncap: {
       estrellas: 4,
@@ -1695,6 +1701,8 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
   },
   {
     id: "hyundai-i30-fastback-n-2024",
+    fuenteNombre: "Hyundai N (web oficial global)",
+    fuenteUrl: "https://www.hyundai-n.com/en/models/legacy/i30-fastback-n",
     marca: "Hyundai",
     modelo: "i30 Fastback N",
     tipo: "Gasolina",
@@ -1747,7 +1755,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }
     ],
     planMantenimiento: {
-      intervalo: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
+      intervalo: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -1756,7 +1764,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
+      fuente: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
     },
     euroncap: {
       estrellas: 5,
@@ -1767,6 +1775,8 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
   },
   {
     id: "hyundai-kona-n-2023",
+    fuenteNombre: "Hyundai N (web oficial global)",
+    fuenteUrl: "https://www.hyundai-n.com/en/models/legacy/kona-n",
     marca: "Hyundai",
     modelo: "Kona N",
     tipo: "Gasolina",
@@ -1819,7 +1829,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
       }
     ],
     planMantenimiento: {
-      intervalo: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
+      intervalo: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
       revisiones: [
         {
           nombre: "Revisión periódica",
@@ -1828,7 +1838,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
         },
       ],
       costeAnualAproxEur: null,
-      fuente: "Mantenimiento orientativo (modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
+      fuente: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km. Fuente: plan de mantenimiento Hyundai i30 N (misma marca).",
     },
     euroncap: {
       estrellas: 5,
@@ -1890,7 +1900,7 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
         alto: 800,
       }
     ],
-    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Isuzu UTE Australia, Owners FAQs (isuzuute.com.au): intervalo de 15.000 km o 12 meses para modelos 24MY en adelante. CarExpert Australia: revisión inicial gratuita a los 3 meses/3.000 km y revisiones con precio cerrado de 449 AUD en Australia, sin equivalente oficial en euros.", "intervalo": "Cada 15.000 km o 12 meses, lo que ocurra antes, según Isuzu UTE Australia para el MU-X; revisión inicial gratuita a los 3 meses o 3.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión inicial a los 3 meses o 3.000 km", "queSeCambia": "Inspección inicial gratuita del programa australiano de Isuzu UTE; no consta sustitución programada publicada para esta visita"}, {"costeAproxEur": null, "nombre": "Revisión programada cada 15.000 km o 12 meses", "queSeCambia": "Operaciones previstas en el libro de servicio y garantía del MU-X según kilometraje; Isuzu UTE Australia no publica en abierto el desglose por operación"}]},
+    planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Isuzu UTE Australia, Owners FAQs (isuzuute.com.au): intervalo de 15.000 km o 12 meses para modelos 24MY en adelante. CarExpert Australia: revisión inicial gratuita a los 3 meses/3.000 km y revisiones con precio cerrado de 449 AUD en Australia, sin equivalente oficial en euros.", "intervalo": "Cada 15.000 km o 12 meses, según Isuzu UTE Australia para el MU-X; revisión inicial gratuita a los 3 meses o 3.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión inicial a los 3 meses o 3.000 km", "queSeCambia": "Inspección inicial gratuita del programa australiano de Isuzu UTE; no consta sustitución programada publicada para esta visita"}, {"costeAproxEur": null, "nombre": "Revisión programada cada 15.000 km o 12 meses", "queSeCambia": "Operaciones previstas en el libro de servicio y garantía del MU-X según kilometraje; Isuzu UTE Australia no publica en abierto el desglose por operación"}]},
     euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: Euro NCAP no ha publicado prueba del MU-X; la suya es del pick-up hermano D-Max, de 2020. ANCAP Australia otorgó al MU-X 5 estrellas en 2022, con 86 % en ocupante adulto, 85 % en infantil, 69 % en usuario vulnerable y 84 % en asistencias.", "url": null},
   },
   {

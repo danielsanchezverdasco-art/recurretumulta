@@ -437,7 +437,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     modelo: "Joymax Z 300",
     version: "2026",
     categoria: "Scooter",
-    precioDesde: 4599,
+    precioDesde: 3999,
     potenciaKw: 19.1,
     potenciaCv: 26,
     cilindradaCc: 278,
@@ -1081,7 +1081,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2026",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 6490,
+    precioDesde: 6290,
     potenciaKw: 12.2,
     potenciaCv: 16.6,
     autonomiaKm: 220,
@@ -2557,7 +2557,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://mpracing.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 5.000 km o 6 meses (lo que ocurra antes)",
+      intervalo: "Cada 5.000 km o 6 meses",
       revisiones: [
         {
           nombre: "Revisión cada 5.000 km / 6 meses",
@@ -2630,7 +2630,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "8.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.600 km",
+      intervalo: "8.000 km o 12 meses; primera revisión a los 1.600 km",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -2769,7 +2769,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.triumphmotorcycles.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -2847,7 +2847,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -2927,7 +2927,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.bmw-motorrad.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -3006,7 +3006,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://motos.coches.net/noticias/yamaha-tenere-700-rally-2025-prueba-en-marruecos",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -3400,7 +3400,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3474,7 +3474,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3553,7 +3553,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3632,7 +3632,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3711,7 +3711,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3790,7 +3790,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -4128,7 +4128,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "http://www.indianmotorcycle.es/101-scout/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "800 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "800 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -4209,7 +4209,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.indianmotorcycle-barcelona.com/sport-scout",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "800 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "800 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -4290,7 +4290,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "http://indianmotorcycle.es/super-chief-limited/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "800 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "800 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -4314,7 +4314,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1000,
     categoria: "Naked",
-    precioDesde: 11190,
+    precioDesde: 10990,
     potenciaKw: 112,
     potenciaCv: 152,
     autonomiaKm: null,
@@ -4431,7 +4431,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://super7moto.com/revista/salones/24949-triumph-anuncia-nuevas-mejoras-en-la-gama-tiger-1200.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -4572,7 +4572,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://moteo.es/la-triumph-scrambler-400-xc-ya-esta-aqui/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -4908,7 +4908,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 853,
     categoria: "Custom",
-    precioDesde: 10525,
+    precioDesde: 11249,
     potenciaKw: 47.8,
     potenciaCv: 65,
     autonomiaKm: null,
@@ -5282,7 +5282,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.ducati.com/es",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -5361,7 +5361,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://soymotero.net",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
