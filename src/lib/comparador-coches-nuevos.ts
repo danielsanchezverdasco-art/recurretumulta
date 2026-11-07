@@ -1857,6 +1857,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       { src: "/media/hyundai-inster-electrico-precio-ficha-tecnica-hunt2.webp", alt: "Inster (foto: Hyundai Motor (oficial), licencia desconocida)", ancho: 1326, alto: 882 },
       { src: "/media/hyundai-inster-electrico-precio-ficha-tecnica-hunt3.webp", alt: "Inster (foto: Hyundai UK (prensa) / EV Fleet World (Foleon), licencia desconocida)", ancho: 800, alto: 534 },
     ],
+    euroncap: {
+          estrellas: 4,
+          ano: 2025,
+          url: null,
+          nota: "Prueba del Hyundai INSTER, 2025",
+        }
   },
   {
     id: "citroen-e-c3-aircross-electrico-precio-ficha-tecnica",
@@ -3527,6 +3533,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       { src: "/media/seat-arona-10-tsi-hunt2.webp", alt: "Arona 1.0 TSI (foto: SEAT (foto de prensa) / TractioN, licencia desconocida)", ancho: 1280, alto: 720 },
       { src: "/media/seat-arona-10-tsi-hunt3.webp", alt: "Arona 1.0 TSI (foto: SEAT (foto de prensa) / La Guía del Motor, licencia desconocida)", ancho: 1086, alto: 724 },
     ],
+    euroncap: {
+          estrellas: 5,
+          ano: 2022,
+          url: "https://www.euroncap.com",
+          nota: "Prueba oficial del Arona (restyling) 2022 (5 estrellas): 83 % adultos, 83 % infantil, 65 % usuarios vulnerables y 70 % asistencias",
+        }
   },
   {
     id: "ford-puma-10-ecoboost-mhev",
@@ -3833,7 +3845,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: [],
     imagen: "/media/hyundai-i10-2026.webp",
     opiniones: [],
-    },
+    euroncap: {
+          estrellas: 3,
+          ano: 2020,
+          url: null,
+          nota: "Prueba del Hyundai i10, 2020",
+        }
+  },
   {
     id: "kia-stonic-2026",
     mantenimientoDIY: {
@@ -3895,7 +3913,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["consumo"],
     imagen: "/media/kia-stonic-2026.webp",
     opiniones: [],
-    },
+    euroncap: {
+          estrellas: 3,
+          ano: 2017,
+          url: null,
+          nota: "Rating de serie 2017: 3 estrellas; 5 estrellas con el pack opcional de seguridad",
+        }
+  },
   {
     id: "skoda-fabia-2026",
     mantenimientoDIY: {
@@ -5487,7 +5511,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["bateriaKwh", "autonomiaKm"],
     imagen: "/media/kia-niro-hev-129.webp",
     opiniones: [],
-    },
+    euroncap: {
+          estrellas: 4,
+          ano: 2022,
+          url: null,
+          nota: "Prueba del Kia Niro, 2022",
+        }
+  },
   {
     id: "hyundai-kona-hybrid-138",
     mantenimientoDIY: {
@@ -5541,7 +5571,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["bateriaKwh", "autonomiaKm", "emisionesCo2"],
     imagen: "/media/hyundai-kona-hybrid-138.webp",
     opiniones: [],
-    },
+    euroncap: {
+          estrellas: 4,
+          ano: 2023,
+          url: null,
+          nota: "Prueba del Hyundai Kona (2ª generación), 2023",
+        }
+  },
   {
     id: "kia-sportage-hev-239",
     mantenimientoDIY: {
@@ -5596,6 +5632,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["bateriaKwh", "autonomiaKm"],
     imagen: "/media/kia-sportage-hev-239.webp",
     opiniones: [],
+    euroncap: {
+          estrellas: 5,
+          ano: 2022,
+          url: null,
+          nota: "Prueba del Kia Sportage, 2022",
+        }
   },
   {
     id: "mazda-3-sedan-e-skyactiv-g",
@@ -8033,6 +8075,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     opiniones: [],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/hyundai/bayon/2024/estandar/estandar/bayon-10-t-gdi-100-cv-48v-klass/datos",
+    euroncap: {
+          estrellas: 4,
+          ano: 2021,
+          url: null,
+          nota: "Prueba del Hyundai Bayon, 2021",
+        }
   },
   {
     id: "hyundai-i30-2024-precio-ficha-tecnica",
@@ -8101,6 +8149,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     opiniones: [],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/hyundai/i30/2020/5-puertas/estandar/i30-5p-15-dpi-96-cv-n-line-se/datos",
+    euroncap: {
+          estrellas: 5,
+          ano: 2017,
+          url: null,
+          nota: "Prueba del Hyundai i30, 2017",
+        }
   },
   {
     id: "kia-ceed-2024-precio-ficha-tecnica",
@@ -10476,6 +10530,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     opiniones: [],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/hyundai/santa-fe/2024/estandar/datos?market[]=available&amp=1",
+    euroncap: {
+          estrellas: 4,
+          ano: 2024,
+          url: null,
+          nota: "Prueba del Hyundai Santa Fe, 2024",
+        }
   },
   {
     id: "toyota-bz4x-precio-ficha-tecnica",

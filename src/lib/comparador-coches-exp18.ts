@@ -78,6 +78,24 @@ export const COCHES_EXP18: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+          estrellas: 5,
+          ano: 2022,
+          url: null,
+          nota: "Prueba del Hyundai IONIQ 6, 2022 (misma carrocería y estructura)",
+        },
+    planMantenimiento: {
+          intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+          revisiones: [
+            {
+              nombre: "Revisión bienal / 30.000 km",
+              queSeCambia: "Inspección general, filtro de habitáculo y estado de la batería de alto voltaje",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Hyundai España (plan oficial para eléctricos)",
+        }
   },
   {
     id: "hyundai-nexo-2026-precio-ficha-tecnica",
@@ -153,6 +171,12 @@ export const COCHES_EXP18: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+          estrellas: 5,
+          ano: 2025,
+          url: null,
+          nota: "Prueba del Hyundai NEXO (2ª generación), 2025",
+        }
   },
   {
     id: "hyundai-i10-n-line-2026-precio-ficha-tecnica",
@@ -228,6 +252,24 @@ export const COCHES_EXP18: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+          estrellas: 3,
+          ano: 2020,
+          url: null,
+          nota: "Prueba del Hyundai i10, 2020",
+        },
+    planMantenimiento: {
+          intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+          revisiones: [
+            {
+              nombre: "Revisión anual / 15.000 km",
+              queSeCambia: "Aceite, filtros e inspección general",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Hyundai España",
+        }
   },
   {
     id: "hyundai-kona-electrico-n-line-2026-precio-ficha-tecnica",
@@ -292,6 +334,12 @@ export const COCHES_EXP18: CocheComparador[] = [
       }
     ],
     planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Según la página de posventa de Hyundai, un Hyundai eléctrico como este Kona N Line pasa mantenimiento cada año o cada 15.000 km, lo primero que ocurra; la excepción de dos años o 30.000 km es solo para los IONIQ 5 e IONIQ 6. El detalle de operaciones figura en el pasaporte de servicio del coche y el cuadro de instrumentos avisa de la proximidad de la revisión. El manual del Kona Electric 2024 recomienda además cambiar el líquido de frenos cada dos años. Sin costes oficiales publicados: la cifra de mantenimiento que recoge la ficha es una estimación, no una tarifa de Hyundai.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/contrato-mantenimiento"},
+    euroncap: {
+          estrellas: 4,
+          ano: 2023,
+          url: null,
+          nota: "Prueba del Hyundai Kona (2ª generación), 2023",
+        }
   },
   {
     id: "hyundai-i20-n-line-mhev-2026-precio-ficha-tecnica",
@@ -356,6 +404,12 @@ export const COCHES_EXP18: CocheComparador[] = [
       }
     ],
     planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Hyundai establece como norma general para sus modelos un mantenimiento cada 15.000 km o cada año, lo primero que se cumpla, con aviso de proximidad en el cuadro de instrumentos. Es el intervalo aplicable como referencia a este i20 N Line 1.0 T-GDI 48V; el plan concreto de operaciones de cada revisión lo fija el libro de mantenimiento del coche y la red oficial en función de kilometraje y antigüedad.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/contrato-mantenimiento"},
+    euroncap: {
+          estrellas: 4,
+          ano: 2021,
+          url: null,
+          nota: "Prueba del Hyundai i20, 2021",
+        }
   },
   {
     id: "kia-pv5-2025-precio-ficha-tecnica",
@@ -570,6 +624,12 @@ export const COCHES_EXP18: CocheComparador[] = [
       }
     ],
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Hyundai Canarias (web oficial hyundai.com) publica que solo IONIQ 5 e IONIQ 6 hacen los mantenimientos cada 2 años o 30.000 km, lo primero que se cumpla; Hyundai no publica una tarifa cerrada para esta revisión, por lo que no se da coste. Verificado el 22/10/2026", "intervalo": "Cada 2 años o 30.000 km, lo primero que se cumpla (pauta oficial Hyundai específica para IONIQ 5 e IONIQ 6, distinta del año o 15.000 km del resto de la gama)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión de los 2 años o 30.000 km", "queSeCambia": "Inspección programada sin cambio de aceite, porque no hay motor térmico: comprobación del sistema eléctrico y de la batería auxiliar de 12 V, del circuito de refrigeración y de los frenos, cuyo líquido el manual del propietario contempla sustituir dentro del calendario de mantenimiento"}, {"costeAproxEur": null, "nombre": "Revisiones sucesivas cada 2 años o 30.000 km adicionales", "queSeCambia": "Repetición de las inspecciones de refrigeración, frenos, sistema eléctrico y estado de la batería, con aviso previo en el cuadro de instrumentos cuando se acerca la visita, según publica Hyundai"}]},
+    euroncap: {
+          estrellas: 5,
+          ano: 2021,
+          url: null,
+          nota: "Prueba del Hyundai IONIQ 5, 2021",
+        }
   },
   {
     id: "kia-ev4-gt-line-fastback-2025-precio-ficha-tecnica",
@@ -709,6 +769,12 @@ export const COCHES_EXP18: CocheComparador[] = [
       }
     ],
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario oficial de Hyundai del Tucson 2025, programa de mantenimiento normal para Europa (ownersmanual.hyundai.com), y norma general publicada por Hyundai Canarias (hyundai.com): mantenimientos cada 15.000 km o un año. Verificado el 22/10/2026. Hyundai España no publica un precio cerrado oficial para las revisiones de esta versión PHEV, por lo que no se citan costes de revisión ni coste anual.", "intervalo": "Cada 15.000 km o 12 meses, lo primero que se cumpla (plan oficial Hyundai para este tren motriz: norma general de la marca para todos sus modelos salvo IONIQ 5 e IONIQ 6, y programa de mantenimiento normal para Europa del manual del Tucson, que fija ese mismo ritmo para el aceite del 1.6 T-GDi)", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica de 15.000 km o 12 meses", "queSeCambia": "Aceite del motor Smartstream 1.6 T-GDi y su filtro, sustituidos en cada intervalo según el manual europeo; rotación de neumáticos en ese mismo ritmo e inspección de frenos, suspensión, dirección, sistema de refrigeración y sistemas eléctricos."}, {"costeAproxEur": null, "nombre": "Revisión de 30.000 km o 24 meses", "queSeCambia": "Nueva sustitución de aceite y filtro de motor, sustitución del filtro de aire del habitáculo según la tabla europea, inspección del filtro de aire del motor y comprobación de conductos, mangueras y conexiones de freno y de combustible."}, {"costeAproxEur": null, "nombre": "Revisión de 75.000 km o 60 meses", "queSeCambia": "Sustitución de las bujías del 1.6 T-GDi, que el manual europeo fija en 75.000 km o 60 meses, además de las operaciones periódicas de aceite, filtros e inspecciones. El líquido de la transmisión automática figura en ese manual como sin comprobación ni servicio programado."}]},
+    euroncap: {
+          estrellas: 5,
+          ano: 2021,
+          url: null,
+          nota: "Prueba del Hyundai Tucson (NX4), 2021",
+        }
   },
   {
     id: "hyundai-kona-hibrido-n-line-2026-precio-ficha-tecnica",
@@ -784,6 +850,12 @@ export const COCHES_EXP18: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+          estrellas: 4,
+          ano: 2023,
+          url: null,
+          nota: "Prueba del Hyundai Kona (2ª generación), 2023",
+        }
   },
   {
     id: "kia-ceed-gt-line-2025-precio-ficha-tecnica",
@@ -934,6 +1006,12 @@ export const COCHES_EXP18: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+          estrellas: 5,
+          ano: 2021,
+          url: null,
+          nota: "Prueba del Hyundai Tucson (NX4), 2021",
+        }
   },
   {
     id: "hyundai-i30-n-line-2026-precio-ficha-tecnica",
@@ -1009,6 +1087,24 @@ export const COCHES_EXP18: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+          estrellas: 5,
+          ano: 2017,
+          url: null,
+          nota: "Prueba del Hyundai i30, 2017",
+        },
+    planMantenimiento: {
+          intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+          revisiones: [
+            {
+              nombre: "Revisión anual / 15.000 km",
+              queSeCambia: "Aceite, filtros e inspección general",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Hyundai España",
+        }
   },
   {
     id: "hyundai-kona-16-tgdi-180-n-line-2026-precio-ficha-tecnica",
@@ -1084,5 +1180,23 @@ export const COCHES_EXP18: CocheComparador[] = [
         "alto": 1280
       }
     ],
+    euroncap: {
+          estrellas: 4,
+          ano: 2023,
+          url: null,
+          nota: "Prueba del Hyundai Kona (2ª generación), 2023",
+        },
+    planMantenimiento: {
+          intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+          revisiones: [
+            {
+              nombre: "Revisión anual / 15.000 km",
+              queSeCambia: "Aceite, filtros e inspección general",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Hyundai España",
+        }
   },
 ];

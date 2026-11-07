@@ -90,6 +90,18 @@ export const COCHES_BYD: CocheComparador[] = [
         alto: 1280,
       },
     ],
+    planMantenimiento: {
+          intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+          revisiones: [
+            {
+              nombre: "Revisión cada 24 meses / 30.000 km",
+              queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+        }
   },
   {
     id: "byd-seal-2024-precio-ficha-tecnica",
@@ -168,6 +180,18 @@ export const COCHES_BYD: CocheComparador[] = [
       },
       
     ],
+    planMantenimiento: {
+          intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+          revisiones: [
+            {
+              nombre: "Revisión cada 24 meses / 30.000 km",
+              queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+        }
   },
   {
     id: "byd-seal-excellence-2024-precio-ficha-tecnica",
@@ -245,6 +269,18 @@ export const COCHES_BYD: CocheComparador[] = [
       },
       
     ],
+    planMantenimiento: {
+          intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+          revisiones: [
+            {
+              nombre: "Revisión cada 24 meses / 30.000 km",
+              queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+        }
   },
   {
     id: "byd-seal-u-ev-2025-precio-ficha-tecnica",
@@ -322,6 +358,18 @@ export const COCHES_BYD: CocheComparador[] = [
       },
       
     ],
+    planMantenimiento: {
+          intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+          revisiones: [
+            {
+              nombre: "Revisión cada 24 meses / 30.000 km",
+              queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+        }
   },
   {
     id: "byd-seal-6-dm-i-2025-precio-ficha-tecnica",
@@ -559,6 +607,18 @@ export const COCHES_BYD: CocheComparador[] = [
       },
       
     ],
+    planMantenimiento: {
+          intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+          revisiones: [
+            {
+              nombre: "Revisión cada 24 meses / 30.000 km",
+              queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+        }
   },
   {
     id: "byd-sealion-7-excellence-2025-precio-ficha-tecnica",
@@ -774,6 +834,24 @@ export const COCHES_BYD: CocheComparador[] = [
       },
       
     ],
+    euroncap: {
+          estrellas: 5,
+          ano: 2023,
+          url: null,
+          nota: "5 estrellas Euro NCAP (2023): 87% adultos, 87% infantil, 80% peatones, 73% asistencias",
+        },
+    planMantenimiento: {
+          intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+          revisiones: [
+            {
+              nombre: "Revisión cada 24 meses / 30.000 km",
+              queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+        }
   },
   {
     id: "byd-atto-3-evo-2025-precio-ficha-tecnica",
@@ -851,6 +929,24 @@ export const COCHES_BYD: CocheComparador[] = [
       },
       
     ],
+    euroncap: {
+          estrellas: 5,
+          ano: 2022,
+          url: "https://www.euroncap.com/press-media/eight-manufacturers-achieve-euro-ncap-5-stars-in-impressive-car-line-up/",
+          nota: "Test del BYD Atto 3 (2022): 91% adultos, 89% infantil, 69% peatones, 74% asistencias",
+        },
+    planMantenimiento: {
+          intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+          revisiones: [
+            {
+              nombre: "Revisión cada 24 meses / 30.000 km",
+              queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+        }
   },
   {
     id: "byd-seal-u-ev-design-87kwh-2026-precio-ficha-tecnica",
@@ -931,7 +1027,19 @@ export const COCHES_BYD: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    planMantenimiento: {
+          intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+          revisiones: [
+            {
+              nombre: "Revisión cada 24 meses / 30.000 km",
+              queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+        }
   },
   {
     id: "byd-dolphin-active-95-2026-precio-ficha-tecnica",
@@ -1012,7 +1120,19 @@ export const COCHES_BYD: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    planMantenimiento: {
+          intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
+          revisiones: [
+            {
+              nombre: "Revisión cada 24 meses / 30.000 km",
+              queSeCambia: "Inspección general + filtro de polen + líquido de frenos (según plan) + actualización de software",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Plan oficial BYD Europa para vehículos eléctricos",
+        }
   },
   {
     id: "byd-dolphin-g-dmi-active-2026-precio-ficha-tecnica",

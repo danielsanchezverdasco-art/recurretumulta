@@ -93,7 +93,13 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    euroncap: {
+          estrellas: 5,
+          ano: 2019,
+          url: null,
+          nota: null
+        }
   },
   {
     id: "toyota-c-hr-phev-2025-precio-ficha-tecnica",
@@ -176,7 +182,13 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: "https://www.km77.com/coches/toyota/c-hr/2024/estandar/phev/c-hr-plug-in-hybrid-220-advance/datos"
+    fuenteUrl: "https://www.km77.com/coches/toyota/c-hr/2024/estandar/phev/c-hr-plug-in-hybrid-220-advance/datos",
+    euroncap: {
+          estrellas: 5,
+          ano: 2024,
+          url: "https://www.euroncap.com/en/results/toyota/c-hr+phev/51098",
+          nota: null
+        }
   },
   {
     id: "toyota-gr-yaris-2025-precio-ficha-tecnica",
@@ -508,7 +520,24 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no probado"
     },
     fuenteNombre: "somoselectricos",
-    fuenteUrl: "https://somoselectricos.com/toyota-urban-cruiser-electrico-no-llega-espana/"
+    fuenteUrl: "https://somoselectricos.com/toyota-urban-cruiser-electrico-no-llega-espana/",
+    planMantenimiento: {
+          intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+          revisiones: [
+            {
+              nombre: "Revisión anual / 15.000 km",
+              queSeCambia: "Inspección del sistema eléctrico y chequeo de salud de la batería de tracción + filtro de polen + inspección general (sin cambio de aceite: motor eléctrico)",
+              costeAproxEur: null
+            },
+            {
+              nombre: "Revisión / 30.000 km",
+              queSeCambia: "Inspección del sistema eléctrico y chequeo de salud de la batería de tracción + filtro de polen + líquido de frenos (según plan)",
+              costeAproxEur: null
+            }
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Programa de mantenimiento Toyota España para eléctricos (revisión anual o 15.000 km)"
+        }
   },
   {
     id: "toyota-c-hr-plus-2026-precio-ficha-tecnica",
@@ -917,7 +946,13 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    euroncap: {
+          estrellas: 5,
+          ano: 2022,
+          url: "https://www.euroncap.com/assessments/toyota/corolla+cross/0994/",
+          nota: null
+        }
   },
   {
     id: "toyota-mirai-2025-precio-ficha-tecnica",
@@ -1079,7 +1114,13 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+    euroncap: {
+          estrellas: 4,
+          ano: 2025,
+          url: null,
+          nota: null
+        }
   },
   {
     id: "toyota-bz4x-touring-2026-precio-ficha-tecnica",
@@ -1514,7 +1555,13 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: "https://www.km77.com/coches/toyota/yaris/2020/5-puertas/hybrid/yaris-hybrid-130/datos"
+    fuenteUrl: "https://www.km77.com/coches/toyota/yaris/2020/5-puertas/hybrid/yaris-hybrid-130/datos",
+    euroncap: {
+          estrellas: 4,
+          ano: 2025,
+          url: null,
+          nota: null
+        }
   },
   {
     id: "toyota-rav4-hev-2025-precio-ficha-tecnica",
@@ -1592,7 +1639,13 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: "https://www.km77.com/coches/toyota/rav4/2019/estandar/estandar/rav4-hybrid-220h-4x2-advance2/datos"
+    fuenteUrl: "https://www.km77.com/coches/toyota/rav4/2019/estandar/estandar/rav4-hybrid-220h-4x2-advance2/datos",
+    euroncap: {
+          estrellas: 5,
+          ano: 2019,
+          url: null,
+          nota: null
+        }
   },
   {
     id: "toyota-prius-phev-2025-precio-ficha-tecnica",
