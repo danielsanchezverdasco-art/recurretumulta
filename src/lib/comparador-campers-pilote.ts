@@ -24,6 +24,9 @@ export const CAMPERS_PILOTE: CocheComparador[] = [
     videoId: null, videoCanal: null,
     largoMm: 6360, anchoMm: 2050, altoMm: 2670,
     pesoKg: null,
+    mmaKg: 3500, // chasis 3,5 t en la ficha de pilote.fr
+    carnetNecesario: "B",
+    cargaUtilKg: 555, // «Charge utile» publicada en pilote.fr para el V630J
     consumo: null, consumoUnidad: null,
     plazas: 4, parNm: null, traccion: "Delantera", emisionesCo2: null,
     aprox: [],
@@ -40,7 +43,7 @@ export const CAMPERS_PILOTE: CocheComparador[] = [
       "Solo 2 plazas para dormir de serie (las camas gemelas)",
       "Altura de 2,67 m: ojo con parkings cubiertos y peajes con límite",
       "Longitud de 6,36 m: menos ágil que un van compacto en ciudad",
-      "Sin precio de tarifa oficial publicado en la web (consultar red de concesionarios)",
+      "La tarifa de 63.900 € es la de Pilote Francia; la web española no publica otra",
       "El cuarto de baño 3 en 1 exige organización para usar ducha y WC con comodidad",
     ],
     opiniones: [],
