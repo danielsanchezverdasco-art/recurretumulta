@@ -13,7 +13,9 @@ El `dist` de esta pasada pesa 5,2 GB (`dist/media` son 4,4 GB). Un solo artefact
 
 ## Las diez partes del dist sin media
 
-Tar de `dist/` **sin** `dist/media`: 818 MB, bundle `index-C31lVF6x.js`, CSS `index-eSpRw-t6.css`. Partes de 90 MiB (la última, 7,6 MiB), en este orden. El sha256 de cada una está en `docs/inventario/dist-sin-media-C31lVF6x.sha256`.
+Tar de `dist/` **sin** `dist/media`: 818 MB, commit del dist `b0a8abf44`, bundle `index-C31lVF6x.js`, CSS `index-eSpRw-t6.css`. Partes de 90 MiB (la última, 7,6 MiB), en este orden. El sha256 de cada una está en `docs/inventario/dist-sin-media-C31lVF6x.sha256`. La excepción de hash del 7/11 no cambia ese dist.
+
+Descarga oficial, un fichero por artefacto, sin subida por trozos: [Cloud Agents API, Artifacts](https://cursor.com/docs/cloud-agent/api/endpoints) (`GET /v1/agents/{id}/artifacts` y `GET /v1/agents/{id}/artifacts/download`, URL firmada de 15 minutos). El agente de esta tanda es `bc-cc799988-c130-5f92-91cd-2645de6f31ef`.
 
 En el almacén de artefactos de este agente, y también en la VM (`/tmp/dist-parts/` y el tar entero `/tmp/dist-sin-media-C31lVF6x.tar`):
 

@@ -184,4 +184,36 @@ Comprobaciones de este dist, todas a 0 fallos:
 
 El `dist` de 5,2 GB no cabe en un artefacto. La documentación de Cloud Agents describe artefactos de uno en uno (listar y descargar cada fichero) y no un protocolo de subida por partes. En este entorno un fichero de 96 MiB se cierra y uno de 112 MiB falla con `Invalid argument`. El HTML y los assets, sin la carpeta `media`, están en diez partes de 90 MiB o menos. Receta, hashes y lo que no está en git: `docs/inventario/PAQUETE-RECONSTRUCCION.md`. No se ha borrado el dist ni el tar anterior.
 
-`tools/publicar/publicar.py` sigue abortando si un fichero de `no-tocar.txt` difiere de lo vivo. Frente a `main` (`3e93e630`) hay 5, y dos no estaban en `docs/inventario/excepciones-no-tocar.txt`: `src/components/ficha/RivalesCarrusel.tsx` (no pinta la foto que no existe) y `src/lib/blog-posts-zontes-552g.ts` (se quitó una imagen marcada como recreación). No se ha editado `no-tocar.txt`. Sin la aceptación de Daniel el publicador no arranca. No se ha hecho deploy, ni preview, ni merge a `main`. No se afirma que AdSense esté aprobado.
+`tools/publicar/publicar.py` abortaba si un fichero de `no-tocar.txt` difería de lo vivo. Frente al commit en vivo `ea100295` había 5. Daniel, el 7/11 a las 03:11 Madrid, autorizó solo dos. El registro está en `tools/publicar/excepciones-hash.txt` y el gate lo lee. Las rutas no se han quitado de `no-tocar.txt`.
+
+No se ha hecho deploy, ni preview, ni merge a `main`. No se afirma que AdSense esté aprobado.
+
+## Excepciones, dry-run y entregas no leídas (7/11)
+
+Autorización de Daniel, chat, 7/11 03:11 Madrid: «Autorizo los dos cambios en los archivos protegidos para evitar la foto inexistente y retirar la recreación del coche.» Solo estos blobs:
+
+- `src/components/ficha/RivalesCarrusel.tsx` `cac131fd5f5ed745e4c7f979ffa356302b2fcee8`
+- `src/lib/blog-posts-zontes-552g.ts` `664dc3645428f6b74062e2f6d5cf53d3527787e6`
+
+La lista protegida sigue en 33 rutas, las mismas que tras el relevo de Ana. La excepción del 5/11 retiró 60 rutas (de 93 a 33) y no incluyó las tres de abajo. En `9cf8ef85` esas tres coincidían con el vivo. Las cambió esta rama (`166aef81c` y `876d8058c`). `docs/inventario/excepciones-no-tocar.txt` es una lista de espera, no una cita de Daniel. No se les ha puesto excepción de hash. El gate aborta en:
+
+- `src/lib/blog-data.ts` `9a1a70586dd08dc60369d924527f3b45630dce8c`
+- `src/lib/blog-posts-autocaravanas-lote125-g02.ts` `771edad218688daf83646811cea25d05648f4bf5`
+- `src/lib/blog-posts-autocaravanas-lote125.ts` `d468ba84640ff13b32b857bc11eda28c59dda0fc`
+
+No ha aparecido un sexto fichero protegido distinto del vivo.
+
+Dry-run de `publicar.py --sin-build`, sin `--publicar`:
+
+- Fase entorno: aborta. No hay `NETLIFY_AUTH_TOKEN` ni `tools/publicar/.env`. No se ha copiado ninguna clave.
+- Fase vivo: no llega a la API. El listado completo de ficheros del deploy de Netlify **no está verificado**. No se afirma que haya 0 eliminaciones contra ese listado.
+- Candado del tablón (`origin/completar-fichas`): no hay línea `PUBLICANDO`.
+- Git: HEAD contiene `ea100295`.
+- Src: las dos excepciones coinciden con el blob. Las tres de arriba abortan.
+- rev3 contra `ea100295`: **0**. Contra `9cf8ef85` también era 0.
+
+La copia guardada `tools/publicar/redirects-vivo.txt` tiene el sha1 `745db003c67d4f5deb25d8e0ac9989b319fd3b4c`, el de `ESTADO-VIVO.txt`. No es una lectura nueva de Netlify. Frente a esa copia, `dist/_redirects` pierde 12 reglas `301!` de las fichas Grecale Folgore, Modena V6 y Trofeo (blog y coche) hacia `/coches/maserati-grecale-2027-precio-ficha-tecnica/`. Esas tres fichas de coche sí están en este dist, con HTML y en el sitemap. No se han restaurado las reglas: hacerlo las forzaría a redirigir. No están entre las 6.209 del vivo.
+
+El paquete de diez partes sigue siendo el del bundle `index-C31lVF6x.js`, commit del dist `b0a8abf44`. Los sha256 se han vuelto a comprobar contra los ficheros de `/opt/cursor/artifacts`. La descarga oficial es un fichero por artefacto: `GET /v1/agents/{id}/artifacts` y `GET /v1/agents/{id}/artifacts/download` ([documentación](https://cursor.com/docs/cloud-agent/api/endpoints)). Receta de media: `docs/inventario/PAQUETE-RECONSTRUCCION.md`.
+
+Las 738 ramas con blob distinto no son una integración. El detalle de lo no leído y el recuento de las entregas de noviembre y de las 8 ramas de solo adiciones, rehecho contra este HEAD, está en `docs/inventario/ENTREGAS-NO-EVALUADAS.md`.
