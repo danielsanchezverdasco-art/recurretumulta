@@ -2470,5 +2470,6 @@
 "n": 2
 }
 ],
-"desglose_nota": "206 lecturas. 43+72+4 suman 119. El resto, 87, es modelo-visible 5, pendiente 35, pendiente-variante 39, pendiente-marca 5, pendiente-anio 1 y no-es-modelo 2. No se infieren variantes nuevas."
+"desglose_nota": "206 lecturas. 43+72+4 suman 119. El resto, 87, es modelo-visible 5, pendiente 35, pendiente-variante 39, pendiente-marca 5, pendiente-anio 1 y no-es-modelo 2. No se infieren variantes nuevas.",
+"cobertura": "206 lecturas de foto. No son 1390 ni las 19835 referencias /media/ del HTML renderizado. 397 grupos de bytes idénticos con distinto nombre están medidos, no leídos uno a uno."
 }
