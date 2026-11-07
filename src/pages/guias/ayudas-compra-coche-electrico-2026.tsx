@@ -267,9 +267,3 @@ export default function GuiaAyudasCocheElectricoPage() {
     </div>
   );
 }
-
-/* cifras-ramas-711
-Hay pocas excepciones regionales: Navarra tuvo su Plan Tximista (agotado; el Gobierno foral ha anunciado una ampliación de crédito aún sin publicar en el BON a 20/10/2026), Melilla mantiene su convocatoria MOVES III 2025 (en resolución de fases durante 2026) y su programa Eurotaxis para taxis (concesión definitiva del 19/10/2026), Murcia aplica una deducción autonómica del 30 % en el IRPF y Madrid tiene el Plan Mueve Madrid (2.000 € con achatarramiento para turismos M1 y furgonetas N1 con etiqueta ECO o Cero).
-1183: <strong>24.140,05 €</strong> (50 % del vehículo) a un taxi con etiqueta CERO.
-Es la resolución que cierra la propuesta del 09/10: programa de flotas (80.000 €), no una ayuda nueva para particulares.
-*/

@@ -4134,9 +4134,3 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     videoId: "7Zb_JY4UhaU"
   }
 ];
-
-/* cifras-ramas-711
-contras: ["Los 2.119 kg del Ariya 87 kWh 242 2026 se notan en el consumo real, lejos de los 18,1 kWh cada 100 km homologados", "En continua, el Ariya 87 kWh 242 2026 admite hasta 130 kW, por debajo de rivales coreanos que superan los 200 kW", "El Ariya 87 kWh 242 2026 solo se ofrece con tracción delantera; el e-4ORCE total cuesta bastante más", "Las ventas del Ariya 87 kWh 242 2026 son testimoniales en España, 147 unidades en 2026: valor de reventa e infraestructura inciertos", "A igualdad de precio, la competencia china ofrece más autonomía por euro que el Ariya 87 kWh 242 2026", "El sistema multimedia y los mandos táctiles del Ariya 87 kWh 242 2026 quedan por detrás de los mejores del segmento"],
-alt: "Vista lateral exterior del Nissan Ariya 87 kWh 242 2026",
-alt: "El interior del Nissan Ariya 87 kWh 242 2026 y su doble pantalla",
-*/

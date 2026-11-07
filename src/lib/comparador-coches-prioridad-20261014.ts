@@ -2865,9 +2865,3 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     },
   }
 ];
-
-/* cifras-ramas-711
-fuenteUrl: "https://www.hyundai-n.com/en/models/n/elantra-n",
-intervalo: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km",
-fuente: "mantenimiento orientativo, con el modelo similar Hyundai i30 N, misma marca): revisión anual o cada 15.000 km.
-*/

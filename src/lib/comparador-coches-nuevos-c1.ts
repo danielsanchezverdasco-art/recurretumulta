@@ -1637,9 +1637,3 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     planMantenimiento: {"intervalo": "Cada 15.000 km recorridos o cuando se cumpla un año, para el 2.0 turbo del H6S", "revisiones": [{"nombre": "Visita anual del H6S 2.0 turbo", "queSeCambia": "Aceite nuevo para el motor GW4N20 con su filtro, filtro del habitáculo renovado y repaso de frenos, niveles y del cambio DCT de siete marchas", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "Cadencia de servicio publicada para el H6 GT en Australia, el H6S con su nombre de exportación; GWM no opera en España"},
   },
 ];
-
-/* cifras-ramas-711
-nota: "Test del MG S6 EV (2025): 92% adultos, 85% infantil, 84% peatones, 78% asistencias",
-nota: "Test del MG ZS Hybrid+ (2024): 75% adultos, 82% infantil, 73% peatones, 76% asistencias",
-nota: "Test del MG S5 EV (2025): 90% adultos, 82% infantil, 82% peatones, 78% asistencias",
-*/

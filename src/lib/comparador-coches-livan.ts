@@ -611,9 +611,3 @@ export const COCHES_LIVAN: CocheComparador[] = [
     euroncap: {"estrellas": null, "ano": null, "url": null, "nota": "Sin prueba Euro NCAP."},
   },
 ];
-
-/* cifras-ramas-711
-"15.000 km/año, gasolina a 1,58 €/l (7,2 l/100 km) y seguro a terceros.
-"15.000 km/año, gasolina a 1,58 €/l (6,8 l/100 km) y seguro a terceros.
-"15.000 km/año, 0,18 €/kWh (doméstica) (12,1 kWh/100 km) y seguro a terceros.
-*/

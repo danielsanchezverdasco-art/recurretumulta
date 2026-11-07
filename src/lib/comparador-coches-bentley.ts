@@ -1848,9 +1848,3 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     }
   },
 ];
-
-/* cifras-ramas-711
-planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Planes de servicio Bentley recogidos por CarExpert (programa regular cada 12 meses o 16.000 km, con aceite, filtros, líquido de frenos y pilas de llave) y programa Interim/Major del Bentayga publicado por Auto Express", "intervalo": "Cada 12 meses o cada 16.000 km recorridos, lo que antes se cumpla", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión Interim", "queSeCambia": "Aceite nuevo para el V8 4.0 con su filtro, filtro de polen, escobillas limpiaparabrisas y pilas de la llave, más la inspección de componentes incluida en los planes de servicio de la marca"}, {"costeAproxEur": null, "nombre": "Revisión Major, alterna con la Interim", "queSeCambia": "Suma a lo anterior los filtros de aire del motor y la renovación del líquido de frenos"}, {"costeAproxEur": null, "nombre": "Cada tercera revisión", "queSeCambia": "Bujías nuevas para el V8 biturbo, operación prevista por separado en el programa de mantenimiento del Bentayga"}]},
-"notas": "cifras orientativas para 1.000 km/mes; consumo calculado ~18 l/100 km; seguro y mantenimiento de pieza de colección coachbuilt",
-"notas": "cifras orientativas para 1.000 km/mes; consumo calculado ~13,3 l/100 km; SUV de lujo V8",
-*/

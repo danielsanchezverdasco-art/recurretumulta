@@ -584,9 +584,3 @@ export const COCHES_WEY: CocheComparador[] = [
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Wey/GWM: sin plan oficial europeo publicado para el V9X", "intervalo": "No publicado para Europa (modelo no comercializado en España)", "revisiones": []},
   },
 ];
-
-/* cifras-ramas-711
-"El Wey 03 recorre 130 km en modo eléctrico WLTP, de sobra para el trayecto diario al trabajo sin gastar gasolina",
-"Desde 47.900 euros en Alemania, el Wey 03 trae de serie un equipamiento muy completo para su precio",
-"Sus 367 CV y un 0-100 en 7,3 segundos sobran para mover un SUV de 4,67 metros",
-*/

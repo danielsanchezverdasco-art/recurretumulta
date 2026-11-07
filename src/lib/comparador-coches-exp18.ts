@@ -1086,9 +1086,3 @@ export const COCHES_EXP18: CocheComparador[] = [
     ],
   },
 ];
-
-/* cifras-ramas-711
-"Consumo de 18,7 kWh cada 100 km en uso exigente, por encima de la media del segmento",
-"notas": "15.000 km al año; carga en casa a 0,18 €/kWh; precio 78.045 € (carnovo, 10/2026)",
-"notas": "15.000 km al año; hidrógeno a ~15 €/kg; precio 71.000 € (carwow, 10/2026)",
-*/

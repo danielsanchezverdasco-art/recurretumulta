@@ -1335,9 +1335,3 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     mantenimientoDIY: null,
   },
 ];
-
-/* cifras-ramas-711
-Líquido de frenos DOT 4.", "cadenaPasos": ["No lleva cadena, lleva correa: antes de salir revísala a simple vista buscando cortes, grietas, dientes dañados o piedrecillas incrustadas, como pide el manual en la inspección diaria", "Nunca la engrases ni la lubriques: el manual lo prohíbe expresamente; si se ensucia, lávala solo con agua o detergente específico para correas y sécala o sóplala después", "No ajustes su tensión por tu cuenta: el manual exige medidor sónico profesional (68 Hz ± 2 Hz) y advierte de que una tensión incorrecta puede partirla; ese ajuste es trabajo de taller oficial", "En cada revisión periódica haz que comprueben también polea conducida y polea de salida del motor junto con la correa, y respeta su sustitución conjunta a los 20.000 km", "Tras rodar con lluvia, seca la correa cuanto antes y evita acelerones bruscos con ella mojada, siguiendo la recomendación expresa del manual para alargar su vida"], "intervaloMantenimiento": "Según el manual del propietario de la 450CL-C (CF400-10US): revisión de rodaje a los 1.000 km con cambio de aceite y filtro; después, aceite y filtro cada 5.000 km o 6 meses también, lo por su parte que llegue antes, con limpieza del filtro grueso.
-"Depósito de 11,7 litros y 2,6 l/100 km de consumo: autonomía teórica de más de 400 km por depósito (motofichas.com)",
-"160 kg en orden de marcha: pesado para un en concreto 125 urbano",
-*/

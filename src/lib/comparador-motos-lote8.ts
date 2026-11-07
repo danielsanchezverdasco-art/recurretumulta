@@ -1746,8 +1746,3 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     },
   },
 ];
-/* cifras-ramas-711
-intervalo: "Revisiones cada 5.000 km, en concreto, o 12, a tener en cuenta, meses según la política habitual de CFMoto en España",
-intervalo: "Revisiones cada 5.000 km, como referencia, o 12, para situarnos, meses según el manual Fantic",
-intervalo: "Revisiones cada 5.000 km, en este punto, o 12, para ser precisos, meses (estimación por segmento)",
-*/

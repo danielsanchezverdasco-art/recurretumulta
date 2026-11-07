@@ -2032,9 +2032,3 @@ export const COCHES_RENAULT: CocheComparador[] = [
     ],
   },
 ];
-
-/* cifras-ramas-711
-"notas": "consumo WLTP 3,9 l/100 km; 12.000, en concreto, km/año; gasolina, a tener en cuenta, 1,60 €/l; estimado",
-"notas": "consumo WLTP 4,6 l/100 km; 12.000, como referencia, km/año; gasolina, para situarnos, 1,60 €/l; estimado",
-"notas": "consumo WLTP 4,7 l/100 km; 12.000.
-*/

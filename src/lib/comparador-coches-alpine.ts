@@ -1074,9 +1074,3 @@ export const COCHES_ALPINE: CocheComparador[] = [
     "fuenteUrl": "https://en.actualidadmotor.com/Alpine-A390-prices--versions-and-key-data-in-Spain/"
   }
 ];
-
-/* cifras-ramas-711
-notas: "15.000 km/año; 0,18 €/kWh (doméstica); consumo WLTP 15,9 kWh/100 km; precio de lanzamiento europeo 41.700 €",
-notas: "15.000 km/año; 0,18 €/kWh (doméstica); consumo WLTP 16,6 kWh/100 km; precio de lanzamiento europeo 41.900 €",
-notas: "15.000 km/año; 0,18 €/kWh (doméstica); consumo WLTP 16,6 kWh/100 km; precio de lanzamiento europeo 44.700 €",
-*/

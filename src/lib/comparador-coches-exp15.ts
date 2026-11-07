@@ -1080,9 +1080,3 @@ export const COCHES_EXP15: CocheComparador[] = [
     analisisSlug: "lexus-es-300h-2025-precio-ficha-tecnica",
   },
 ];
-
-/* cifras-ramas-711
-"El Toyota C-HR GR Sport entrega 197 CV con 4,9 l/100 km, y es el C-HR más completo de la gama.",
-"Sus 8,1 segundos de 0 a 100 km/h hacen del Toyota C-HR GR Sport el híbrido no enchufable más rápido del segmento.",
-"El Toyota C-HR GR Sport cuesta 42.900 euros, y es el C-HR más caro antes del enchufable.",
-*/

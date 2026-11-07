@@ -1549,9 +1549,3 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     mantenimientoDIY: null,
   },
 ];
-
-/* cifras-ramas-711
-"Batería de 874 Wh a 48 V y 18,2 Ah con hasta 60 km declarados",
-"Batería de 874 Wh a 48 V y 18,2 Ah: hasta 50 km declarados",
-"Alcanza 45 km/h: NO es un VMP legal en España, así que no puede circular por vía pública",
-*/

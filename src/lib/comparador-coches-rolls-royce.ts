@@ -1444,9 +1444,3 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     planMantenimiento: {"intervalo": "Cada 12 meses o 15.000 km, lo que ocurra antes, según sistema Condition Based Service; mantenimiento programado incluido durante los primeros 4 años según el programa oficial de la marca", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión anual / Vehicle Check", "queSeCambia": "Inspección completa del vehículo en cada servicio: frenos y sus conexiones, dirección, neumáticos, alumbrado, cinturones, batería de 12 V, bajos y prueba en carretera, con el alcance estándar de servicio"}, {"costeAproxEur": null, "nombre": "Microfiltro", "queSeCambia": "Sustitución del microfiltro del climatizador cada 12 meses, según la tabla específica del Spectre (RR25) en el folleto oficial de mantenimiento"}, {"costeAproxEur": null, "nombre": "Líquido de frenos", "queSeCambia": "Sustitución del líquido de frenos según la tabla del Spectre: referencia de 24 meses en el resumen de intervalos del folleto oficial, tras la primera indicación"}, {"costeAproxEur": null, "nombre": "Frenos delanteros y traseros", "queSeCambia": "Servicio de frenos delanteros y traseros únicamente cuando aparece el indicador de desgaste, sin intervalo fijo por kilometraje"}, {"costeAproxEur": null, "nombre": "Agente secante de pilotos traseros y batería de telemática", "queSeCambia": "Agente secante de los pilotos traseros cada 12 meses; batería de la unidad de control telemático a los 72 meses o en cada sexta revisión del vehículo, según folleto oficial"}]},
   },
 ];
-
-/* cifras-ramas-711
-"notas": "consumo WLTP 22,2 kWh/100 km; 1.500 km/mes; 0,18 €/kWh (doméstica); sin financiación",
-"notas": "sin consumo WLTP publicado; estimado 21,5 kWh/100 km por la mayor autonomía; 1.500 km/mes; 0,18 €/kWh (doméstica)",
-"notas": "15.000 km/año y consumo WLTP de 15,5 l/100 km (km77)",
-*/

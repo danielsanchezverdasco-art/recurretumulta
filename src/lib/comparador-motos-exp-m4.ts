@@ -3846,9 +3846,3 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     },
   },
 ];
-
-/* cifras-ramas-711
-"Con depósito de 16 litros y un consumo contenido, la autonomía teórica supera los 400 km, de las mejores del segmento 300.",
-"El motor de 26 CV queda justo en recuperaciones y a ritmo alto en autopista, donde la prueba de SoyMotero echa en falta algo más de empuje.",
-fuenteUrl: "https://www.sym.com.es/adx-300-p-52-es",
-*/

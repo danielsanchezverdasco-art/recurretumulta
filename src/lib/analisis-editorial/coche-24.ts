@@ -765,9 +765,3 @@ export const ANALISIS_COCHE_24: MapaAnalisis = {
     veredicto: "Para quien quiere el XC60 con un plus de potencia sin perder la etiqueta ECO.",
   },
 };
-
-/* cifras-ramas-711
-"La bajada general de precios lo deja en 35.490 €, y la garantía de la batería de 8 años o 160.000 km es su mejor argumento frente a los chinos: tranquilidad a largo plazo.
-"Los 2.248 kg se notan en curva, la punta queda limitada a 180 km/h y el interior abusa de los táctiles.
-Los 2.131 kg lastran la agilidad, la plaza central trasera sufre con el techo y la punta queda limitada a 180 km/h.",
-*/

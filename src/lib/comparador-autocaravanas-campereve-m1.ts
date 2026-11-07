@@ -116,7 +116,3 @@ De tarifa oficial no hay nada que publicar: Campérêve no difunde PVP y cada co
     fuenteUrl: null,
   },
 ];
-
-/* cifras-ramas-711
-Fuentes: las cotas (5,99 × 2,05 × 2,56 m), la MMA de 3.500 kg con 4 plazas de día y 3 de noche, la cama transversal de 192 × 132 cm, el módulo patentado Modul'Space y la edición Saphir proceden de fichas coincidentes de concesionarios franceses del modelo exacto y de prensa especializada, contrastadas entre sí; el fabricante no publica la ficha técnica completa del Magellan 643, por lo que todos los valores numéricos se marcan como «dato no oficial · en revisión» y es recomendable confirmar cada cifra con la ficha de la unidad concreta antes de firmar.
-*/

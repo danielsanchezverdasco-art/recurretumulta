@@ -203,7 +203,3 @@ Para quién es. El CampScout B es para parejas que duermen mejor cada uno en su 
     },
   },
 ];
-
-/* cifras-ramas-711
-intervalo: "Base Stellantis (Fiat Ducato/Citroën Jumper): 2 años / 40.000 km según plan del fabricante",
-*/

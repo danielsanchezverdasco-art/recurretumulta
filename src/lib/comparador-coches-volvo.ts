@@ -2009,9 +2009,3 @@ export const COCHES_VOLVO: CocheComparador[] = [
     ],
   },
 ];
-
-/* cifras-ramas-711
-"notas": "15.000 km/año; consumo 17 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
-"notas": "15.000 km/año; consumo 18 kWh/100 km WLTP; carga doméstica a 0,18 €/kWh; todo riesgo con franquicia; mantenimiento de eléctrico",
-"notas": "15.000 km/año; consumo 7 l/100 km WLTP; gasolina a 1,55 €/l; todo riesgo con franquicia; mantenimiento de gasolina (microhíbrido)",
-*/

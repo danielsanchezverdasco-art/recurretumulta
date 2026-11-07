@@ -158,9 +158,3 @@ export const COCHES_ONVO: CocheComparador[] = [
     ],
   },
 ];
-
-/* cifras-ramas-711
-"La batería de serie de 60 kWh declara 560 km CLTC en esta versión trasera de 326 CV, con 11,9 kWh cada cien kilómetros; la opcional de 85 kWh sube a 740 km CLTC.",
-"Pese a la caída del techo, el maletero de este coupé de 4.828 mm y 2.950 mm de batalla conserva 763 litros para viajar cargado."
-"15.000 km/año, 13 kWh/100 km reales y 0,18 €/kWh (doméstica).
-*/

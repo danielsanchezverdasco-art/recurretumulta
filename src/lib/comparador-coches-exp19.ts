@@ -983,9 +983,3 @@ export const COCHES_EXP19: CocheComparador[] = [
     costeMensual: null,
   },
 ];
-
-/* cifras-ramas-711
-notas: "15.000 km/año, gasolina 95 a 1,85 €/l y todo riesgo; consumo WLTP declarado 4,7 l/100 km.",
-notas: "15.000 km/año, gasolina 95 a 1,85 €/l y todo riesgo; consumo WLTP declarado 5,8 l/100 km.",
-notas: "15.000 km/año, gasolina 95 a 1,85 €/l y todo riesgo; consumo WLTP declarado 4,6 l/100 km.",
-*/

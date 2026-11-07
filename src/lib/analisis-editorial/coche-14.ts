@@ -765,9 +765,3 @@ export const ANALISIS_COCHE_14: MapaAnalisis = {
     veredicto: "Para quien busque un urbano divertido con etiqueta ECO; no es para quien quiera un híbrido completo.",
   },
 };
-
-/* cifras-ramas-711
-"El Levante Modena es el escalón intermedio del SUV: 350 CV de gasolina y cinco plazas, y la ficha no trae precio, situado entre el GT híbrido y el Trofeo.",
-"El Levante Trofeo es el SUV más potente de Maserati: 580 CV de gasolina y cinco plazas, y la ficha no trae precio, pero el tope de la gama Levante por definición.",
-"El Quattroporte GT es la berlina insignia de Maserati en su versión de acceso: 350 CV de gasolina y cinco plazas, y la ficha no trae precio, pero la puerta de entrada a la berlina grande del tridente.",
-*/

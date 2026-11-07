@@ -1352,9 +1352,3 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     },
   },
 ];
-
-/* cifras-ramas-711
-intervaloMantenimiento: "Cada 10.000 km o 12 meses, con la primera revisión a los 500 km",
-"243 kg en orden de marcha y es la más pesada de la familia 650",
-"231 kg en orden de marcha y pesada para el off-road serio",
-*/

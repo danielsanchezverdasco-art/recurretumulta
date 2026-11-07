@@ -389,8 +389,3 @@ export const COCHES_HYPTEC: CocheComparador[] = [
     euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
   },
 ];
-
-/* cifras-ramas-711
-"15.000 km/año (70 % en modo eléctrico, 30 % con gasolina), 0,18 €/kWh (doméstica); todo riesgo.
-"Estimación con 10.000 km/año, 0,18 €/kWh (doméstica); todo riesgo de hiperdeportivo.
-*/

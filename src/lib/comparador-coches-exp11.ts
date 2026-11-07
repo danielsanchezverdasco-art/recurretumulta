@@ -1489,9 +1489,3 @@ export const COCHES_EXP11: CocheComparador[] = [
     analisisSlug: "seres-m7-2025-precio-ficha-tecnica",
   },
 ]
-
-/* cifras-ramas-711
-"El llamado anti Model Y de Nio ofrece 326 CV y 555 km CLTC.",
-"El maletero de 763 litros está entre los más grandes del segmento.",
-"En China parte de 206.900 yuanes, unos 26.500 euros al cambio.",
-*/

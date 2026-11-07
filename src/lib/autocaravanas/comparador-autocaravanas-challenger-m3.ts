@@ -265,8 +265,3 @@ export const AUTOCARAVANAS_CHALLENGER_M3: Autocaravana[] = [
     },
   },
 ];
-
-/* cifras-ramas-711
-"Base Ford Transit: 2 años / 40.000 km (lo que antes ocurra, según plan Ford)",
-intervalo: "Base Fiat Ducato / Ford Transit: 2 años / 40.000 km",
-*/

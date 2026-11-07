@@ -2216,9 +2216,3 @@ Diseño coupé más deportivo y puesta a punto más dinámica.
 **¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
   },
 ];
-
-/* cifras-ramas-711
-El **Chery Tiggo 8 Pro** es el SUV grande de Chery: **7 plazas reales**, **2.0 turbo con 254 CV y 390 Nm**, y una versión **híbrida enchufable de 342 CV** con 18,4 kWh.
-"title": "GWM Ora 5: SUV eléctrico de 435 km",
-"excerpt": "Precio y ficha técnica del GWM Ora 5 2026: SUV eléctrico de 204 CV, 435 km WLTP, 120 kW de carga y etiqueta Cero desde 34.950 € en España.",
-*/

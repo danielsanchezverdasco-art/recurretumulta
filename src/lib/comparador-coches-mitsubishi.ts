@@ -987,9 +987,3 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del Renault Scenic E-Tech (2024), gemelo de plataforma AmpR Medium fabricado en la misma planta de Douai, y su esquema de servicios A/B para eléctricos; Mitsubishi no publica precios de revisión en España para este modelo", "intervalo": "Esquema heredado de su base AmpR Medium: paso anual por el taller para la inspección ligera y servicio completo al segundo año o a los 30.000 km", "revisiones": [{"costeAproxEur": null, "nombre": "Inspección anual (servicio A)", "queSeCambia": "Revisión de frenos, neumáticos, luces y niveles, comprobación de la batería de tracción y de su circuito de refrigeración, y sustitución del filtro del habitáculo"}, {"costeAproxEur": null, "nombre": "Servicio mayor (servicio B) a los 2 años o 30.000 km", "queSeCambia": "Mantiene todo lo incluido en la visita anual y suma el cambio del líquido de frenos, cuya renovación cada dos años marca el manual de su gemelo de plataforma, el Renault Scenic E-Tech"}]},
   },
 ];
-
-/* cifras-ramas-711
-"notas": "PHEV 306 CV: uso mixto 50 % eléctrico (20 kWh/100 km a 0,18 €/kWh) + 50 % híbrido (6,5 l/100 km con 1,55 €/l; 15.000 km al año, con seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
-"notas": "HEV 160 CV: consumo estimado 5,2 l/100 km a 1,55 €/l; 15.000 km al año, con seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
-"notas": "MHEV 140 CV: 6,0 l/100 km WLTP a 1,55 €/l; 15.000 km al año, con seguro y mantenimiento estimados; cifras aproximadas (oct-2026)",
-*/

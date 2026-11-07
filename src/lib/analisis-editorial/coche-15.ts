@@ -861,8 +861,3 @@ export const ANALISIS_COCHE_15: MapaAnalisis = {
   },
 
 };
-/* cifras-ramas-711
-"No es un coche pensado para enamorar por prestaciones: 9,7 segundos en el 0 por su parte a 100 y 175 km/h de velocidad máxima lo dejan claro.
-Mecánicamente nada cambia: 9,7 segundos en el de hecho 0 a 100, 175 km/h de punta y un comportamiento noble gracias a sus contenidos 1.180 kilos.",
-"Los 10,6 segundos en el 0 a asimismo 100 y los 195 km/h de máxima dibujan un coche sin prisas, pensado para disfrutar del viaje más que del cronómetro.
-*/

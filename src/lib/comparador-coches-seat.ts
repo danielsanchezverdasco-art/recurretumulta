@@ -1584,9 +1584,3 @@ export const COCHES_SEAT: CocheComparador[] = [
     fuenteUrl: null,
   },
 ];
-
-/* cifras-ramas-711
-pros: ["Los 620 litros de este Sportstourer de 1.392 kg tragan el equipaje familiar sin el peso ni el consumo de un SUV: homologa 5,7 l/100 km.", "Parte de 23.213 €: es la puerta más barata a un familiar del segmento C con plataforma MQB Evo, la misma base que el Golf Variant, bastante más caro.", "El 1.5 TSI de 116 CV entrega sus 220 Nm entre 1.500 y 3.000 rpm, así que en uso diario y con cambio manual de seis marchas no hay que ir buscando revoluciones para adelantar en secundaria", "Mide 4.642 mm, 274 mm más que el León de cinco puertas, y todo ese extra va detrás del eje trasero: las plazas traseras no pierden espacio y el maletero crece de 380 a 620 litros", "Se fabrica en Martorell y comparte mecánica con medio Grupo Volkswagen: encontrar un taller que lo conozca y recambios para el 1.5 TSI no es un problema en España"],
-contras: ["Etiqueta C de la DGT: este 1.5 TSI sin hibridación no tiene las ventajas en ZBE ni en aparcamiento que sí da el 1.5 eTSI de la misma potencia con etiqueta ECO", "Con cinco personas y 620 litros cargados, los 10,7 segundos de 0 a 100 se notan: en puertos y al incorporarse hay que bajar marchas y apurar el motor.", "Solo tracción delantera y sin opción de cambio automático en esta versión concreta: quien quiera DSG tiene que saltar al eTSI y pagar la diferencia", "128 g/km de CO2 y un depósito pensado para un uso eficiente, no para olvidarse de repostar en viajes largos cargado, cuando el consumo real se aleja del WLTP"],
-"notas": "15.000 km/año, consumo WLTP 5,7 l/100 km y gasolina a 1,85 €/l; seguro y mantenimiento orientativos para un familiar compacto",
-*/

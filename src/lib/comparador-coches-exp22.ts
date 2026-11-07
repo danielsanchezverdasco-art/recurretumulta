@@ -3626,9 +3626,3 @@ export const COCHES_EXP22: CocheComparador[] = [
     planMantenimiento: {"costeAnualAproxEur": 230, "fuente": "Plan oficial Geely España", "intervalo": "Cada año como máximo, o al cumplir 15.000 km si se llega antes a ese kilometraje", "revisiones": [{"costeAproxEur": 190, "nombre": "Revisión 15.000 km / 12 meses", "queSeCambia": "En el 1.5 turbo se renuevan aceite y su filtro, se monta filtro de polen nuevo y se revisan 30 puntos de control del coche"}, {"costeAproxEur": 290, "nombre": "Revisión 30.000 km / 24 meses", "queSeCambia": "A lo ya hecho en la primera visita se suman un filtro de aire del motor nuevo y la sustitución del líquido del circuito de frenos, si el plan lo marca para esta revisión"}]},
   },
 ];
-
-/* cifras-ramas-711
-notas: "Estimación con 15.000 km al año con gasolina a 1,65 €/litro.
-{ nombre: "Revisión anual / 15.000 km", queSeCambia: "Aceite nuevo, filtro de aceite, filtro de polen + revisión de treinta puntos", costeAproxEur: 180 },
-{ nombre: "Servicio programado anual / 30.000 km", queSeCambia: "Lo anterior + filtro de aire y el líquido de frenos según el plan", costeAproxEur: 280 },
-*/

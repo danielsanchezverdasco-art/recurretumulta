@@ -947,9 +947,3 @@ export const COCHES_EXP21: CocheComparador[] = [
     },
   },
 ];
-
-/* cifras-ramas-711
-notas: "15.000 km/año; gasolina 1,65 €/l.",
-notas: "15.000 km/año; diésel 1,50 €/l.",
-notas: "15.000 km/año cargando a diario (0,24 €/kWh) y gasolina a 1,65 €/l.
-*/

@@ -210,8 +210,3 @@ Para quién es: para parejas que viajan mucho y valoran la agilidad por encima d
     },
   },
 ];
-
-/* cifras-ramas-711
-Cómo lo verificamos: que el modelo y el acabado Supreme existen se confirmó en la página oficial de la gama Matrix de adria-mobil.com el 19/10/2026; las medidas y la MMA salen de anuncios de unidades nuevas del año-modelo 2026 en signaturemotorhomes.co.uk y truckscout24 (7.490 × 2.300 × 2.890 mm, 4.400 kg); la variante Mercedes y sus 7,69 m, de abacusmotorhomes y la guía 2027 de outandaboutlive.co.uk; el precio de referencia británico, de findmyleisurevehicle.co.uk.
-"Solo 3 plazas para dormir: poco para familias de cuatro",
-*/

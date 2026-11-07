@@ -1873,9 +1873,3 @@ export const COCHES_SKODA: CocheComparador[] = [
     euroncap: {"ano": 2025, "estrellas": 5, "nota": "EuroNCAP 5 estrellas (2025): 90 % adultos, 87 % infantiles, 77 % usuarios vulnerables, 78 % asistencias. La tabla de validez de Euro NCAP incluye la carrocería 5 puertas Hatchback Electric-60 4x2, que corresponde a este Coupé 60, por lo que la calificación sí se le extiende.", "url": "https://www.euroncap.com/en/results/skoda/enyaq/57984"},
   },
 ];
-
-/* cifras-ramas-711
-"Pesa 2.119 kg: en carreteras de curvas ese peso se deja notar al cambiar de apoyo y al frenar.",
-notas: "Estimación con 1.000 km/mes y 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
-notas: "Estimación con 1.000 km/mes, 0,18 €/kWh (doméstica) y consumo estimado de 16,5 kWh/100 km; seguro y mantenimiento estimados por segmento",
-*/

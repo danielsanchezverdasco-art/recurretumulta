@@ -296,9 +296,3 @@ export const BLOG_LOTE12: BlogPost[] = [
   ...BLOG_LOTE12_B,
   ...BLOG_LOTE12_C,
 ];
-
-/* cifras-ramas-711
-*Fuentes: <a href=https://autovidal.es/coches/nuevos/mercedes-benz/sl-roadster/gasolina/mercedes-amg-sl-63-4-matic/2025/1000359931/>Autovidal (configurador Mercedes-Benz)</a>, <a href=https://www.km77.com/coches/mercedes/sl/2022/estandar/amg/amg-sl-63-4matic/datos/equipamiento>km77</a>, <a href=https://www.coches.net/fichas_tecnicas/mercedes-benz/mercedes-amg_sl/cabrio/2-puertas/mercedesamg_sl_63_4matic_585cv_gasolina/104725/832189320250101/>coches.net</a>, <a href=https://www.mercedes-benz.es/passengercars/owners-manuals/es-es/pdf/mercedes-amg-sl-roadster-2025-marzo-r232-mbux-instrucciones-de-servicio-2.pdf>Mercedes-Benz España, manual oficial del AMG SL Roadster</a>*"
-*Fuentes: <a href=https://www.km77.com/coches/volkswagen/id5/2022/estandar/datos?amp=1>km77</a>, <a href=https://www.volkswagen.es>Volkswagen España</a>*"
-*Fuentes: <a href=https://www.km77.com/coches/volkswagen/id7/2024/estandar/gtx/id7-gtx/datos>km77</a>, <a href=https://www.motorgiga.com>MotorGiga</a>, <a href=https://www.volkswagen.es>web oficial de Volkswagen España</a>*"
-*/

@@ -6855,9 +6855,3 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     },
   },
 ];
-
-/* cifras-ramas-711
-"Consumo contenido de 2,5 a 3,0 l cada 100 km segun datos de distribuidores: barato de usar a diario",
-"Motor de 11 CV con refrigeracion liquida y tecnologias LFE y ACG de baja friccion: declara solo 2,1 l cada 100 km",
-"Consumo inferior a 2 l cada 100 km con deposito de 5 litros: unos 250 km de autonomia",
-*/

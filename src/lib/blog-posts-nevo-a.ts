@@ -724,8 +724,3 @@ Como híbrido enchufable con más de 40 km de autonomía eléctrica, le correspo
     locale: "all",
   },
 ];
-
-/* cifras-ramas-711
-<a href=/comparador-coches/>Compara el Nevo A05 con los híbridos que sí se venden en España en nuestro comparador</a> y, antes de recurrir cualquier multa, <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA</a>.</p>`,
-<a href=/comparador-coches/>Compara el Nevo A06 con los eléctricos que se venden en España</a> y recuerda: <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA antes de recurrirla</a>.</p>`,
-*/

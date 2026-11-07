@@ -3288,9 +3288,3 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     },
   },
 ]
-
-/* cifras-ramas-711
-"La reina de las touring: 1.833 cc y 126 CV de suavidad absoluta",
-"373 kg (393 kg la Tour DCT): solo para pilotos con experiencia",
-fuenteUrl: "https://hondanews.eu/es/es/motorcycles/media/pressreleases/555669/honda-gl1800-gold-wing-2026",
-*/

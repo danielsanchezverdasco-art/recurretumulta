@@ -2049,9 +2049,3 @@ export const COCHES_FORD: CocheComparador[] = [
     ],
   },
 ];
-
-/* cifras-ramas-711
-"notas": "consumo WLTP 13,1 kWh/100 km × 0,18 €/kWh; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
-"notas": "consumo WLTP 6,0 l/100 km × 1,85 €/l; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
-"notas": "coste mixto estimado (60 % eléctrico) × 0,18 €/kWh y 1,85 €/l; 1.500 km/mes; todo riesgo y mantenimiento estimados por segmento",
-*/

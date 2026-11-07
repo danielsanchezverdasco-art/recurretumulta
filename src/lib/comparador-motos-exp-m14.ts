@@ -1094,9 +1094,3 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     mantenimientoDIY: null,
   },
 ];
-
-/* cifras-ramas-711
-"247 kg en orden de marcha: demasiado pesada para el off-road exigente",
-pros: ["Con 8,7 CV y 95 km/h de punta, rinde como un 125 de gasolina pero sale por 3.799 euros", "Puedes llevarte las dos baterías a casa y recargarlas allí entre 3 y 6 horas, sin obra ni cargador de pared", "Al frenar recupera parte de la energía y, desde el móvil, permite localizarla y revisar su estado", "Pesa solo 127 kg y admite dos ocupantes, una combinación cómoda para moverse y aparcar en ciudad", "Lleva etiqueta Cero y se lleva con el A1 o con el carné B si ya tienes tres años de antigüedad"],
-pros: ["Alcanza los 100 km/h, margen suficiente para circular por rondas y vías rápidas urbanas sin ir forzado", "Entrega 6,5 kW, equivalentes a 8,8 CV, y se lleva con el A1 o con el permiso B con tres años de antigüedad", "Las dos baterías extraíbles de 72 V permiten cargar en un enchufe casero durante unas 5 h, sin depender de un punto fijo en el garaje", "Lleva etiqueta Cero de la DGT, ventaja clara para moverse y aparcar en zonas de bajas emisiones", "Desde el móvil se puede localizar gracias al GPS, pensado para disuadir robos y facilitar su recuperación"],
-*/

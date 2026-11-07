@@ -2435,9 +2435,3 @@ Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>an
 `
   }
 ];
-
-/* cifras-ramas-711
-| 1.5 eTSI con etiqueta ECO y solo 5,4 l cada 100 km | Maletero de 380 L, por debajo del Golf |
-Homologa **5,4 l cada 100 km** en ciclo WLTP, con unas emisiones de 122 g/km de CO₂.
-Gasta 5,5 l cada 100 km y entra en todas las ZBE.
-*/

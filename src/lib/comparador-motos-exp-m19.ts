@@ -1412,8 +1412,3 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     },
   },
 ];
-
-/* cifras-ramas-711
-"el filtro de aire queda bajo el depósito: revisa su estado cada 12.000 km.",
-"la correa del variador se controla cada 12.000 km y se cambia según desgaste.",
-*/

@@ -4653,9 +4653,3 @@ El peso oficial no está publicado, pero como todo doble motor es **elevado**: t
 *Fuentes: <a href=https://joyor.com/>Joyor oficial</a>.*`,
   },
 ];
-
-/* cifras-ramas-711
-title: "KuKirin A1: potencia de 800 W por unos 439 €",
-"Patinete KuKirin A1 con motor de 800 W, batería de 624 Wh y peso de 25,5 kg: precio orientativo de 439 € y alcance declarado de 45 km.",
-El A1 de KuKirin concentra su propuesta en cuatro cifras: motor de 800 W, acumulador de 624 Wh con 48 V y 13 Ah, velocidad punta de 45 km/h y una masa de 25,5 kg, todo por un precio cercano a 439 €.
-*/

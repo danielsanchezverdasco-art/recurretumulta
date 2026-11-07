@@ -670,9 +670,3 @@ export const ANALISIS_COCHE_13: MapaAnalisis = {
     veredicto: "Para movilidad urbana mínima con carnet AM o flotas de reparto ultraligero; caro frente al diésel equivalente.",
   },
 };
-
-/* cifras-ramas-711
-El y, en 6,5 segundos, 0 a 100 los 500 Nm garantizan que nunca se queda corto de respuesta.",
-"Los 204 CV van justos para mover casi dos toneladas con agilidad, y en 8,6 segundos, a 100, el 0 lo confirma: es un coche tranquilo.
-El y, en 6,5 segundos, 0 a 100 los 210 km/h de punta confirman que no es solo diseño, y el consumo homologado de 7,4 l/100 km es el más contenido de los Range Rover térmicos.
-*/

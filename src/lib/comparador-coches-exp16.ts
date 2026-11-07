@@ -1157,9 +1157,3 @@ export const COCHES_EXP16: CocheComparador[] = [
     analisisSlug: "mazda-mx-30-e-skyactiv-r-ev-2025-precio-ficha-tecnica",
   },
 ];
-
-/* cifras-ramas-711
-"15.000 km/año; gasolina 1,60 €/l; todo riesgo.",
-"15.000 km/año, 0,19 €/kWh (doméstica) y todo riesgo.",
-"El 2.5 atmosférico de 140 CV ofrece suavidad sin turbo ni correas",
-*/

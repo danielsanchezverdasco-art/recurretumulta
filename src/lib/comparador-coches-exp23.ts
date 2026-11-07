@@ -3835,9 +3835,3 @@ export const COCHES_EXP23: CocheComparador[] = [
     },
   },
 ];
-
-/* cifras-ramas-711
-notas: "15.000 km/año; 0,18 €/kWh; todo riesgo.",
-notas: "15.000 km/año; gasóleo 1,58 €/l.",
-notas: "15.000 km/año combinando uso eléctrico y gasolina.",
-*/

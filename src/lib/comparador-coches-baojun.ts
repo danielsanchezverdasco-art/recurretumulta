@@ -600,9 +600,3 @@ export const COCHES_BAOJUN: CocheComparador[] = [
     analisisSlug: "baojun-kiwi-ev-2024-precio-ficha-tecnica",
   },
 ];
-
-/* cifras-ramas-711
-"Estimación en modo eléctrico (12,6 kWh/100 km) con 15.000 km/año, 0,18 €/kWh (doméstica) y todo riesgo.
-"Estimación en modo eléctrico (14,6 kWh/100 km) con 15.000 km/año, 0,18 €/kWh (doméstica) y todo riesgo.
-"fuente": "Laitimes, análisis de costes de uso del Baojun KiWi EV en China (17/02/2022): primera revisión a los 5.000 km y revisiones cada 10.000 km; sin manual ni plan oficial localizados para España",
-*/

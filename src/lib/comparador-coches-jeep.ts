@@ -1059,9 +1059,3 @@ export const COCHES_JEEP: CocheComparador[] = [
     ]
   },
 ];
-
-/* cifras-ramas-711
-"notas": "consumo WLTP 4,9 l/100 km, 15.000 km al año, con seguro y mantenimiento estimados por segmento",
-"notas": "consumo WLTP 5,7 l/100 km, 15.000 km al año, con seguro y mantenimiento estimados por segmento",
-"notas": "consumo WLTP 5,4 l/100 km, 15.000 km al año, con seguro y mantenimiento estimados por segmento",
-*/

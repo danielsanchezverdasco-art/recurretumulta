@@ -765,9 +765,3 @@ export const ANALISIS_COCHE_02: MapaAnalisis = {
     veredicto: "Para conductores que quieren el tacto BMW en formato compacto y eficiente; diversión diaria con etiqueta ECO."
   }
 };
-
-/* cifras-ramas-711
-"El nuevo Continental GT marca un antes y un después en la historia de Bentley: 680 CV híbridos enchufables, 84 km de autonomía eléctrica con etiqueta Cero por 286.330 €.
-"El Flying Spur es la berlina de Bentley reinventada para la era híbrida: 680 CV enchufables, 80 km de autonomía eléctrica con etiqueta Cero por 214.411 €.
-"El BMW 530e es la berlina ejecutiva híbrida enchufable por excelencia: 299 CV, 101 km de autonomía eléctrica con etiqueta Cero por 73.350 €.
-*/

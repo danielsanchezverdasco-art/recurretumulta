@@ -764,9 +764,3 @@ export const ANALISIS_PATINETE_02: MapaAnalisis = {
     veredicto: "Con certificado DGT por 399 €: de las compras más racionales del mercado.",
   },
 };
-
-/* cifras-ramas-711
-En su época se vendía por 449 € con un propulsor de 350 W, con 500 W de pico).
-propulsor de 350 W, con 500 W de pico), acumulador de 270 Wh y 14,5 kg de peso.
-soporta 120 kg de carga máxima sin apuros.
-*/

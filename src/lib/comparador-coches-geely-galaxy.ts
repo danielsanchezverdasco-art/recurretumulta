@@ -617,9 +617,3 @@ export const COCHES_GEELY_GALAXY: CocheComparador[] = [
     deCache: false,
   },
 ];
-
-/* cifras-ramas-711
-"Estimación orientativa: 12.7 kWh cada 100 km × 0,24 €/kWh; 15.000 km al año; mantenimiento de eléctrico (sin aceite ni distribución).",
-"Estimación orientativa: consumo híbrido ~2,9 l cada 100 km a 1,40 €/l; 15.000 km al año; mantenimiento de PHEV con revisiones anuales.",
-"Estimación orientativa: ~1,3 l cada 100 km (WLTC) a 1,40 €/l en uso combinado; 15.000 km al año; mantenimiento de PHEV.",
-*/

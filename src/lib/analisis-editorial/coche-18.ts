@@ -384,8 +384,3 @@ export const ANALISIS_COCHE_18: MapaAnalisis = {
     veredicto: "Para quien busca el mejor precio por kilómetro de autonomía; no para quien necesite tracción total.",
   }
 };
-
-/* cifras-ramas-711
-el portón amplio y el piso bajo facilitan la carga de bultos pesados.", "Con el distintivo Cero y cero emisiones, hace sombra a eléctricos europeos de 50.000 €.
-Los 608 litros, con el piso a doble altura, permiten llevar la compra y el carrito sin apilar nada.", "Los 608 litros, con el portón amplio y el piso bajo, superan a la mayoría de los SUV medios.
-*/

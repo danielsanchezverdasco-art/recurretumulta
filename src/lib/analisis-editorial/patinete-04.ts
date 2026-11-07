@@ -764,9 +764,3 @@ export const ANALISIS_PATINETE_04: MapaAnalisis = {
     veredicto: "El Ninebot de entrada con DGT: 40 km y 350 W por 341 € para ciudad sin complicaciones.",
   },
 };
-
-/* cifras-ramas-711
-"El Navee V40 sube un escalón sobre el V25: 399 €, 40 km de autonomía y 16,2 kg en concreto, con E-ABS delantero y disco trasero.
-"El Advance Flex es la variante del Advance con doble tambor: 500 W nominales, 924 de pico, 52 km de autonomía y 16,2 asimismo kg, con tambor delante y detrás.
-"El Advance+ añade el KERS a la fórmula del Advance: 500 W nominales, 924 de pico, 50 km de autonomía y 16 además,2 kg, con tambor delantero y freno trasero con recuperación de energía.
-*/

@@ -357,8 +357,3 @@ límite, y quien busque tracción total deberá mirar a la versión CrossOver en
     },
   },
 ];
-
-/* cifras-ramas-711
-intervalo: "Base Fiat Ducato: 2 años / 48.000 km según plan del fabricante",
-intervalo: "Base Mercedes Sprinter: 2 años / 40.000 km",
-*/

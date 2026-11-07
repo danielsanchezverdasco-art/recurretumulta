@@ -322,9 +322,3 @@ El importador **Salvador Caetano Auto**, con 25 concesionarios en España y alma
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
 },
 ];
-
-/* cifras-ramas-711
-Desde **29.990 €** (Comfort) y 32.490 € (Luxury), con campaña de lanzamiento de hasta 4.000 € de descuento; todo riesgo gratis.
-*Fuentes: <a href=https://www.mgmotor.es>MG Motor España (web oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
-*Fuentes: <a href=https://www.byd.com/es>BYD España (web oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
-*/

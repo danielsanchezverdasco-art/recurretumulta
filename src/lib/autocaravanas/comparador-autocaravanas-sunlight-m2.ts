@@ -270,8 +270,3 @@ Perfil de comprador: la Cliff 602 encaja con parejas activas que quieren un camp
     fuenteUrl: "https://www.sunlight.de/en-int/models/camper-vans/cliff-adventure/cliff-602-adventure/",
   },
 ];
-
-/* cifras-ramas-711
-La Adventure Edition, que es como se comercializa la inmensa mayoría de las T 67, no es un simple paquete estético: agrupa los extras que casi todos los compradores piden —toldo, portabicicletas para tres bicis, llantas de aleación de 16 pulgadas, ventanas con marco, segunda trampilla exterior de almacenamiento, frigorífico grande de 156 litros con congelador independiente asimismo de 29 litros y la conversión de camas individuales en cama doble— en un precio cerrado que sale más a cuenta que pedirlos sueltos.
-Delante, el planteamiento es el clásico camper bien resuelto: salón con mesa para cuatro aprovechando los asientos giratorios de cabina, cocina lateral con fregadero, cocina de dos o tres fuegos según configuración y el frigorífico grande de 156 litros con congelador además independiente de 29 litros —el mismo que montan las perfiladas de la marca, y una gozada en un camper de menos de 6 metros—.
-*/

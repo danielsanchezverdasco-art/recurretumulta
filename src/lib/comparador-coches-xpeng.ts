@@ -590,8 +590,3 @@ export const COCHES_XPENG: CocheComparador[] = [
     },
   },
 ];
-
-/* cifras-ramas-711
-"notas": "consumo estimado ~19 kWh/100 km (sin dato WLTP publicado por versión); 15.000 km/año; 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
-"notas": "consumo estimado ~21 kWh/100 km (sin dato WLTP publicado para esta versión); 15.000 km/año; 0,18 €/kWh (doméstica); seguro y mantenimiento estimados por segmento",
-*/

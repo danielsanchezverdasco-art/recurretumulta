@@ -1326,7 +1326,3 @@ export function getProvinciaBySlug(slug: string): Provincia | undefined {
 
 // All SEO keywords from all provinces (for sitemap / meta)
 export const ALL_PROVINCIA_KEYWORDS: string[] = PROVINCIAS.flatMap((p) => p.keywords);
-
-/* cifras-ramas-711
-Las de carretera (A-8, A-66) las tramita la DGT: tienes 20 días naturales para alegar o pagar con el 50 % de descuento.
-*/

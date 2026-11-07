@@ -115,9 +115,3 @@ export const CAMPERS_MAN_FORD: CocheComparador[] = [
     fuenteUrl: "https://westfalia-mobil.com/en/motorhomes/sven-hedin/",
   },
 ];
-
-/* cifras-ramas-711
-"Su MAN TGE de 163 CV, con caja automática de ocho relaciones, hace llevaderos los viajes largos",
-"La carga útil de 498 kg según MAN está entre las mejores de su segmento de campers",
-"Baño completo con ducha y nevera de compresor de 90 litros completan una camper pensada para vivir fuera",
-*/

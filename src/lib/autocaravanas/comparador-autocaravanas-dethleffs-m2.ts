@@ -256,8 +256,3 @@ export const AUTOCARAVANAS_DETHLEFFS_M2: Autocaravana[] = [
     fuenteUrl: "https://www.dethleffs.com/",
   }
 ];
-
-/* cifras-ramas-711
-"Base Fiat Ducato Maxi: 2 años / 40.000 km (según plan Fiat); célula: control anual de estanqueidad",
-"VW Crafter 2.0 TDI: 2 años / 40.000 km (según plan Volkswagen)",
-*/

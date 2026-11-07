@@ -206,8 +206,3 @@ Para quién es. El Siena 330 encaja con parejas que hacen escapadas y vacaciones
     },
   },
 ];
-
-/* cifras-ramas-711
-intervalo: "Base Stellantis (Peugeot Boxer/Citroën Jumper/Fiat Ducato): 2 años / 40.000 km según plan del fabricante",
-intervalo: "Base Stellantis (Citroën Jumper/Fiat Ducato): 2 años / 40.000 km según plan del fabricante",
-*/

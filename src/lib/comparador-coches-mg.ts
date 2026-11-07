@@ -1661,9 +1661,3 @@ export const COCHES_MG: CocheComparador[] = [
     fuenteUrl: "https://forococheselectricos.com/noticias/mg2-electrico-fabricacion-ferrol-espana-2028-20261022-42532.html"
   },
 ];
-
-/* cifras-ramas-711
-notas: "Estimación para 1.000 km/mes: 6,1 l/100 km WLTP a 1,85 euros el litro; seguro y mantenimiento orientativos de un urbano de gasolina en España.
-notas: "Estimación para 1.000 km/mes: 6,6 l/100 km WLTP a 1,85 euros el litro; seguro y mantenimiento orientativos de un SUV urbano de gasolina en España.
-nota: "Test del MG ZS de la misma generación (2024): 75% adultos, 82% infantil, 73% peatones, 76% asistencias",
-*/

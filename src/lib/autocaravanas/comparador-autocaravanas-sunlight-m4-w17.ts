@@ -255,7 +255,3 @@ Para quién es: la I 68 encaja con quien siempre soñó con una integral y no qu
     },
   },
 ];
-
-/* cifras-ramas-711
-"Base Citroën Jumper: 2 años / 40.000 km",
-*/
