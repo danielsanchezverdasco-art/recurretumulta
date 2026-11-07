@@ -126,7 +126,7 @@ Para el comprador español, la vía sensata es el mercado de ocasión británico
       "Roller Team respalda la célula del Auto-Roller 746 con 10 años de garantía de integridad de la construcción, además de 5 años para el vehículo base y la transformación: una de las coberturas más largas del segmento. Fuente: análisis de Out and About Live, https://www.outandaboutlive.co.uk/reviews/motorhomes/roller-team-auto-roller-746-1",
     planMantenimiento: {
       intervalo:
-        "Ford Transit: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Ford)",
+        "Ford Transit: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Ford Transit (2 años / 40.000 km)",

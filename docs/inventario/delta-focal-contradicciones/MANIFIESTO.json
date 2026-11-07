@@ -1,0 +1,60 @@
+{
+  "padre": "2109346da27c52899fb56935823585a0016af7be",
+  "manifiesto_padre": "a32d7f84ccbd1ffa0b6b80ac1eb99c7624b142d0983610fd457ceff8915c52c0",
+  "nota": "Delta solo de estas rutas sobre el dist sellado. No reescribe el manifiesto de 52482 ficheros. public/ y src no cambian.",
+  "archivos": [
+    {
+      "ruta": "media/volkswagen-golf-20-tdi-2026-precio-ficha-tecnica-hero.webp",
+      "antes_sha256": "12146565120f80bdc215a4299c5a91e500f38aa860a556c6b884c508a0cc7f1f",
+      "antes_bytes": 151634,
+      "despues_sha256": "09fa61927744641879a5d310969338aba14d78e63c4cdc90e476070674209569",
+      "despues_bytes": 115160
+    },
+    {
+      "ruta": "media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-hero.webp",
+      "antes_sha256": "26eba803b7b893ea9ec36888a654d8c6d0cafc2fa82e2627bd5474eabdbbd8a2",
+      "antes_bytes": 231872,
+      "despues_sha256": "fb63e556edf516a76715459898f97537896473057998ca35d9d5838a0ab3982b",
+      "despues_bytes": 108554
+    },
+    {
+      "ruta": "media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-oficial.webp",
+      "antes_sha256": "8a4542feee384b3192388c1da670f3cf51ce4c098dd8f96a30d7b6867be2dd4a",
+      "antes_bytes": 187180,
+      "despues_sha256": "fb63e556edf516a76715459898f97537896473057998ca35d9d5838a0ab3982b",
+      "despues_bytes": 108554
+    },
+    {
+      "ruta": "coches/volkswagen-golf-20-tdi-2026-precio-ficha-tecnica/index.html",
+      "antes_sha256": "3b6a100404fd8407f34411f62afef7ed9c19dac8f74371ac6cc1d0650cf703de",
+      "antes_bytes": 113096,
+      "despues_sha256": "22660e5758b78fecfe0d2e6f5f9d066f9006f0ba00a05842e2f2249ee5c6df66",
+      "despues_bytes": 113527
+    },
+    {
+      "ruta": "blog/volkswagen-golf-20-tdi-2026-precio-ficha-tecnica/index.html",
+      "antes_sha256": "3980296183fa49ff1b43dda4fec0dd0321365d8a56f025229c99852c63bc9fd1",
+      "antes_bytes": 86885,
+      "despues_sha256": "126d7fc5c5f87b57dbf9410fe66a93b39f6b1208868dcf80e142888f3fa86658",
+      "despues_bytes": 87187
+    },
+    {
+      "ruta": "coches/peugeot-e-308-electrico-2026-precio-ficha-tecnica/index.html",
+      "antes_sha256": "12767b2d25e7204c67408a497c516b541194500584cf5700905e44d95fa7fe0b",
+      "antes_bytes": 126599,
+      "despues_sha256": "1bfa78242411210cd6e55731ca60b1113db89070468480aa0b9766765dc0e280",
+      "despues_bytes": 126746
+    },
+    {
+      "ruta": "blog/peugeot-e-308-electrico-2026-precio-ficha-tecnica/index.html",
+      "antes_sha256": "deea144a360c259b13d43afb47f7fbea8029399f7709687df218b874d64af364",
+      "antes_bytes": 90990,
+      "despues_sha256": "3611ff45c47bc78d100de0c1f27765ebcbfe8fb31481c202576ef434cf6654ce",
+      "despues_bytes": 90975
+    }
+  ],
+  "presupuesto_inodos_y_bloques": 794624,
+  "suma_bytes": 750703,
+  "reserva_libre_caja": 3360256,
+  "cabe": true
+}

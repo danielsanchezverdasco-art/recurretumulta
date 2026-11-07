@@ -131,6 +131,7 @@ const FIJOS = [
   "ficha-coche",
   "ficha-moto",
   "ficha-patinete",
+  "ficha-caravana", // 18/10/2026: mono fijo de /caravanas/<slug>/
   "portada-hero",
   "portada-tras-analizador",
   "sobre-nosotros",

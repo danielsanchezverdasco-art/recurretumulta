@@ -1,7 +1,7 @@
 // Fichas de patinetes eléctricos — Lote P4 (2026-10-05).
-// Marcas: Bogist, Aovopro, Evercross, Minimotors, Currus, Bronco,
+// Marcas: Bogist, Aovopro, Evercross, Minimotors, Currus, Bronco
 // E-TWOW, Egret, Turboant.
-// Datos verificados el 2026-10-05 en webs oficiales de las marcas,
+// Datos verificados el 2026-10-05 en webs oficiales de las marcas
 // manuales oficiales, retailers europeos y medios especializados.
 // Dato no verificado = null. autonomiaRealKm es estimación propia
 // conservadora (~65-70 % de la declarada en ciudad).
@@ -15,7 +15,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: null,
     marca: "Bogist",
     modelo: "M1 Elite",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 250,
     potenciaPicoW: null,
     autonomiaKm: null,
@@ -189,7 +189,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: "Washingtons garage",
     marca: "Bogist",
     modelo: "M5 Pro",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 40,
@@ -408,7 +408,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: null,
     marca: "Aovopro",
     modelo: "365 Go",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 20,
@@ -477,7 +477,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: null,
     marca: "Aovopro",
     modelo: "ES60",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 35,
@@ -544,7 +544,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: "MJTech",
     marca: "Evercross",
     modelo: "H5",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 800,
     potenciaPicoW: 800,
     autonomiaKm: 40,
@@ -616,7 +616,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: "Brent McCluskey Unboxings",
     marca: "Evercross",
     modelo: "H7",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 800,
     potenciaPicoW: 800,
     autonomiaKm: 45,
@@ -687,7 +687,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: null,
     marca: "Evercross",
     modelo: "H9",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 800,
     potenciaPicoW: 800,
     autonomiaKm: 45,
@@ -759,7 +759,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: "ATech Flow ®",
     marca: "Evercross",
     modelo: "EV10K Pro",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 35,
@@ -831,7 +831,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: null,
     marca: "Evercross",
     modelo: "EV85F",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 30,
@@ -902,7 +902,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: null,
     marca: "Evercross",
     modelo: "EV08E",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 32,
@@ -1111,7 +1111,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: "The Electric Scooter Guy!",
     marca: "Minimotors",
     modelo: "Dualtron Victor Luxury Plus",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 4000,
     potenciaPicoW: 4400,
     autonomiaKm: 95,
@@ -1183,7 +1183,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: "Alien Rides",
     marca: "Minimotors",
     modelo: "Dualtron Eagle Pro",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 2200,
     potenciaPicoW: 3600,
     autonomiaKm: 65,
@@ -1573,7 +1573,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: "ERideHero",
     marca: "E-Twow",
     modelo: "GT SE",
-    precioEur: 1190, // tarifa en etwow.net (verificado 30/10/2026),
+    precioEur: 1190, // tarifa en etwow.net (verificado 30/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 700,
     autonomiaKm: 50,
@@ -2052,7 +2052,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: "Electric Scooter Insider",
     marca: "TurboAnt",
     modelo: "X7 Max",
-    precioEur: 500, // 599,98 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 500, // 599,98 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 52,
@@ -2113,7 +2113,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: "JB 360",
     marca: "TurboAnt",
     modelo: "R9",
-    precioEur: 600, // 699,98 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 600, // 699,98 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 500,
     potenciaPicoW: 800,
     autonomiaKm: 56,
@@ -2175,7 +2175,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     videoCanal: "TechMishka",
     marca: "TurboAnt",
     modelo: "M10 Lite",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 350,
     autonomiaKm: 25,
@@ -2232,3 +2232,4 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
     },
   },
 ];
+

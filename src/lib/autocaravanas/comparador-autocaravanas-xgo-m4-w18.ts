@@ -86,7 +86,7 @@ Para quién es: encaja con parejas que buscan su primer camper o un segundo veh�
     ],
     analisisSlug: "xgo-x-van-102-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 48.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 300 },
         { nombre: "Revisión célula XGO (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 220 },

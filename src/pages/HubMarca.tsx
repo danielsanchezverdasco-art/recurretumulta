@@ -128,7 +128,7 @@ export default function HubMarca() {
           )}
         </>) : <p className="text-sm text-gray-500">{error ? "No hemos podido cargar esta marca." : "Cargando…"}</p>}
       </main>
-      <SharedFooter editorial={{ ambito, tipo: "listado", actualizado }} />
+      <SharedFooter editorial={{ ambito, tipo: "listado", modelo: d?.nombre && d.catNombre ? `${d.catNombre} ${d.nombre}` : undefined, actualizado }} />
     </div>
   );
 }

@@ -114,7 +114,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M4: Autocaravana[] = [
       oficial más sólida es la lista suiza 2026, que fija el DBL en 129.990 francos con IVA
       incluido. En el mercado alemán, las unidades nuevas del I 7150-2 DBL se anuncian en torno a
       los 150.000 € según equipamiento, y las versiones muy equipadas (cuero, Alde, paquetes GT)
-      superan esa cifra. En España se comercializa a través de la red de concesionarios Dethleffs,
+      superan esa cifra. En España se comercializa a través, en concreto, de la red de concesionarios Dethleffs,
       con cotización por unidad.
 
       CÓMO LO VERIFICAMOS. Todos los datos técnicos de esta ficha proceden de la lista oficial de
@@ -152,7 +152,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M4: Autocaravana[] = [
     ],
     analisisSlug: "dethleffs-esprit-i-7150-dbl-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Dethleffs (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -294,7 +294,7 @@ export const AUTOCARAVANAS_DETHLEFFS_M4: Autocaravana[] = [
     ],
     analisisSlug: "dethleffs-globebus-i-6-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Dethleffs (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

@@ -1,0 +1,4 @@
+// Generado por scripts/gen-data-loaders.mjs — NO EDITAR.
+// Metadatos lite de la categoría "Normativa Vial" (1 posts).
+import type { BlogLitePost } from "../blog-lite.generated.ts";
+export const BLOG_LITE_CAT: BlogLitePost[] = [{"slug":"real-decreto-953-2026-zbe-fin-avisos-multas","title":"ZBE 2026: el BOE exige multas reales y acaba con los avisos","excerpt":"Real Decreto 953/2026, hoy en el BOE: las ZBE solo cuentan si el ayuntamiento acredita cámaras, control y multas reales, sin periodo de avisos.","category":"Normativa Vial","date":"2026-11-06","locale":"es","heroSrc":"/media/pilar-zbe.webp","heroAlt":"Señal de Zona de Bajas Emisiones en Madrid con las etiquetas DGT admitidas","keywords":["real decreto 953/2026","zbe 2026 multas","zonas bajas emisiones 2026","zbe fin avisos","multa zbe 200 euros","real decreto 1052/2022","zbe ayuntamientos acreditar","recurso multa zbe"],"readTime":12}];

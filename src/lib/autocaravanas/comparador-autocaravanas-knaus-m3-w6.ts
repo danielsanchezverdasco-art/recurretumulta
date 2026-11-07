@@ -93,7 +93,7 @@ Para quién es: encaja con parejas que viajan mucho y quieren una perfilada ampl
     ],
     analisisSlug: "knaus-sky-ti-700-meg-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 48.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Knaus (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -152,7 +152,7 @@ En tecnología, la ficha oficial 2026 detalla un equipamiento de alto nivel para
 
 En mecánica, la base 2026 es el Volkswagen Crafter 35 con el 2.0 TDI de 103 kW (140 CV), cambio manual de 6 velocidades y tracción delantera, con la opción del 2.0 TDI de 120 kW (163 CV) con cambio automático para quien quiera más desahogo. El Crafter aporta su dotación de asistentes: control de crucero electrónico con limitador, ESP, asistente de arranque en pendiente, frenada de emergencia, reconocimiento de señales, detector de fatiga y cámara trasera de serie en el acabado Vansation. La masa en orden de marcha declarada es de 2.880 kg para una MMA de 3.500 kg, así que se conduce con el carnet B. Ojo, eso sí, con la carga útil: la ficha oficial publica 129 kg de carga máxima en la configuración base, una cifra ajustada que obliga a calcular bien el equipamiento opcional antes de firmar. Es el peaje de la ligereza: Knaus lo presenta como «el más ligero de su clase», y lo es, pero cada kilo de opcional cuenta.
 
-En precio y red comercial en España, la honestidad obliga: Knaus publica su Preisliste oficial en Alemania (85.490 € para el Van TI 640 MEG Vansation, IVA 19% incl.) pero no tarifa para España, de modo que el precio aplicado es el alemán («aprox»). El Van TI Vansation se vende a través de la red de distribuidores oficiales de Knaus Tabbert en España; al ser un acabado cerrado con mucho equipamiento incluido, el presupuesto suele moverse menos que en gamas con listas de opcionales interminables, pero conviene pedirlo por escrito con la motorización y el cambio elegidos. Como referencia de mercado, las unidades de ocasión del año-modelo 2023-2024 se anuncian en Alemania en el entorno de los 74.000 €, lo que sitúa al nuevo bien por encima de esa cifra.
+En precio y red comercial además en España, la honestidad obliga: Knaus publica su Preisliste oficial en Alemania (85.490 € para el Van TI 640 MEG Vansation, IVA 19% incl.) pero no tarifa para España, de modo que el precio aplicado es el alemán («aprox»). El Van TI Vansation se vende a través de la red de distribuidores oficiales de Knaus Tabbert en España; al ser un acabado cerrado con mucho equipamiento incluido, el presupuesto suele moverse menos que en gamas con listas de opcionales interminables, pero conviene pedirlo por escrito con la motorización y el cambio elegidos. Como referencia de mercado, las unidades de ocasión del año-modelo 2023-2024 se anuncian en Alemania en el entorno de los 74.000 €, lo que sitúa al nuevo bien por encima de esa cifra.
 
 Cómo lo verificamos: todos los datos técnicos y de equipamiento proceden de la ficha oficial de KNAUS «VAN TI 640 MEG VANSATION — Standard Equipment» (knaus.com, edición 2026, verificada el 19/10/2026), contrastada con la ficha de configuración 2026 del acabado Vansation. Lo que la marca no publica para España —consumos y emisiones— queda sin dato y así se declara; el precio aplicado es el de su Preisliste oficial alemana.
 
@@ -180,7 +180,7 @@ Para quién es: perfecto para parejas que quieren una perfilada ágil y estrecha
     ],
     analisisSlug: "knaus-van-ti-640-meg-vansation-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base VW Crafter: revisión cada 2 años o 50.000 km (LongLife, según plan del fabricante)",
+      intervalo: "Base VW Crafter: 2 años / 50.000 km (LongLife, según plan del fabricante)",
       revisiones: [
         { nombre: "Revisión base (VW Crafter)", queSeCambia: "Aceite LongLife + filtros + inspección general", costeAproxEur: 380 },
         { nombre: "Revisión célula Knaus (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

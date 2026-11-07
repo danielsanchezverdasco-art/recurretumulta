@@ -341,7 +341,7 @@ export const COCHES_TANK: CocheComparador[] = [
     modelo: "300 Hooke Trail",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
+    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026); los 33.200 € del texto son un cambio del yuan, no un PVP español
     potenciaCv: 231,
     autonomiaKm: null,
     versiones: [
@@ -618,7 +618,7 @@ export const COCHES_TANK: CocheComparador[] = [
     largoMm: 5078,
     anchoMm: 1934,
     altoMm: 1905,
-    pesoKg: null,
+    pesoKg: 2535,
     consumo: 10.79,
     consumoUnidad: "l/100 km",
     plazas: 7,

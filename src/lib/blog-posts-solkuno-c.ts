@@ -46,7 +46,7 @@ Puedes <a href=/coches/aito-m8-huawei-2026-precio-ficha-tecnica/>ver la ficha t�
 | **Conducción asistida** | Huawei ADS con LiDAR en el techo |
 | **Etiqueta DGT** | Cero (por autonomía eléctrica; si llegara a España) |
 
-¿Quieres el detalle completo? <a href=/coches/aito-m8-huawei-2026-precio-ficha-tecnica/>Ficha técnica completa del Aito M8</a> con galería de fotos.
+<a href=/coches/aito-m8-huawei-2026-precio-ficha-tecnica/>Ficha técnica completa del Aito M8</a> con galería de fotos.
 
 ## Precio y versiones en China
 
@@ -99,8 +99,7 @@ Precio de lanzamiento (359.800 yuanes), versiones y los 80.000 pedidos en 34 dí
 
 *Fuentes: <a href=https://cnevpost.com/2025/05/21/aito-m8-80000-orders-1-month/>CnEVPost</a>, <a href=https://carnewschina.com/2025/03/06/huaweis-aito-m8-got-21000-orders-in-six-hours-in-china-priced-at-50650-usd/>CarNewsChina</a>, <a href=https://www.somoselectricos.com/coches-electricos/huawei-prepara-asalto-europa-aito-llegara-2027-suv-lujo/20261014113506064351.html>somoselectricos.com</a>, <a href=https://www.dgt.es>DGT</a>.*
 
-¿Te ha puesto una multa un radar y no sabes si es recurrible? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla.
-`
+¿Te ha puesto una multa un radar y no sabes si es recurrible? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla.`
   },
   {
     "title": "Deepal S09: 220 km eléctricos y 6 plazas",
@@ -216,8 +215,7 @@ Sí: el <a href=/coches/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya 
 - <a href=https://www.sobreruedas.news/novedades/la-camioneta-hibrida-mas-grande-e-imponente-de-deepal/>SobreRuedas: la camioneta híbrida más grande de Deepal</a>
 - <a href=https://www.elcarrocolombiano.com/autos-del-mundo/deepal-s09-a-la-venta-con-1-000-km-de-autonomia-y-3-filas-lujo-espacio-a-mitad-de-precio/>El Carro Colombiano: Deepal S09 a la venta</a>
 
-¿Te ha llegado una multa y dudas si puedes recurrirla? <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-`
+¿Te ha llegado una multa y dudas si puedes recurrirla? <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.`
   },
   {
     "title": "IM LS9: el SUV de 1.508 km que quiere jubilar al BMW",
@@ -238,7 +236,7 @@ Sí: el <a href=/coches/deepal-s07-2025-precio-ficha-tecnica/>Deepal S07</a> ya 
 
 *Actualizado el 18/10/2026.*
 
-**¿Buscas solo los datos?** <a href=/coches/im-ls9-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del IM LS9</a>: precio, autonomía y versiones. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+<a href=/coches/im-ls9-2026-precio-ficha-tecnica/>Ficha técnica completa del IM LS9</a>.
 
 **402 km en modo 100 % eléctrico, 1.508 km de autonomía combinada y 530 CV desde 332.800 yuanes (unos 44.373 €).** El IM LS9 es el buque insignia de IM Motors, la marca premium de SAIC Motor (la de MG) nacida de la alianza con Alibaba, y viene a decirle al BMW X7 que su era se acaba: arquitectura de 800 voltios, batería CATL Freevoy de 66 kWh, 1.5 turbo como extensor y un interior de seis plazas con pantallas MiniLED. Se lanzó en China en noviembre de 2025. <a href=/comparador-coches/>Enfréntalo a sus rivales en el comparador</a>.
 
@@ -304,7 +302,6 @@ Una CATL Freevoy de 66 kWh (NMC), con arquitectura de 800 V que carga del 10 al 
 
 *Fuentes: <a href=https://www.hibridosyelectricos.com/coches/ultimo-mg-es-range-rover-hibrido-1500-km-autonomia-con-bateria-mg4_83429_102.html>hibridosyelectricos.com</a>, <a href=https://www.auto-data.net/es/compare?carId1=55788&carId2=&carId3=>auto-data.net</a>.*
 
-¿Te han multado y no sabes si el recurso prospera? <a href=https://recurretumulta.online/#analizador>Pásalo gratis por nuestro analizador de multas</a>.
-`,
+¿Te han multado y no sabes si el recurso prospera? <a href=https://recurretumulta.online/#analizador>Pásalo gratis por nuestro analizador de multas</a>.`,
   },
 ];

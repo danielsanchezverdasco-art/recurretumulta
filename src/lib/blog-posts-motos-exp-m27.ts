@@ -27,7 +27,7 @@ export const MOTOS_EXP_M27_POSTS: BlogPost[] = [
     ],
     content: `<img src=/media/kove-450rr-2024-precio-hero.jpg alt=Kove 450RR 2024 blanca y negra con carenado integral y winglets>
 
-**¿Buscas solo los datos?** <a href=/motos/kove-450rr-2024-ficha-tecnica-precio/>Ver ficha técnica de la Kove 450RR</a>: precio, tetracilíndrico de 66,6 CV, suspensiones KYB y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
+<a href=/motos/kove-450rr-2024-ficha-tecnica-precio/>Ficha técnica de la Kove 450RR</a>. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
 La **Kove 450RR** es la deportiva que rompe todos los guiones del segmento medio: un motor de **cuatro cilindros y 443 cc** donde todas sus rivales usan dos, **66,6 CV a 13.250 rpm**, solo **165 kg** en orden de marcha y un precio de **6.297 €**. Carenado integral con winglets, suspensiones Kayaba multirregulables, quickshifter y ABS con tres modos. Una mini-superbike china con papeles en regla para Europa.
 
@@ -46,7 +46,7 @@ No es una moto lógica: es una moto para quien disfruta llevando un tetracilínd
 | **Carnet** | A |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/motos/kove-450rr-2024-ficha-tecnica-precio/>Ficha técnica completa de la Kove 450RR</a> con pros, contras y curiosidades.
+<a href=/motos/kove-450rr-2024-ficha-tecnica-precio/>Ficha técnica completa de la Kove 450RR</a> con pros, contras y curiosidades.
 
 ## Precio en España
 
@@ -128,7 +128,7 @@ En circuito, un despiste con el puño sale caro: si te ha llegado una denuncia p
     ],
     content: `<img src=/media/kove-800x-gt-2026-ficha-tecnica-precio-1.webp alt=Kove 800X 2025: precio, ficha y prueba — fotografía del modelo>
 
-**¿Buscas solo los datos?** <a href=/motos/kove-800x-2025-ficha-tecnica-precio/>Ver ficha técnica de la Kove 800X</a>: precio, motor de 94,5 CV, suspensiones KYB de 240 mm y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
+<a href=/motos/kove-800x-2025-ficha-tecnica-precio/>Ficha técnica de la Kove 800X</a>. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
 La **Kove 800X Pro** es la trail media que ha puesto nerviosas a las japonesas: **94,5 CV**, **190 kg** en orden de marcha, suspensiones **KYB de 240 mm** totalmente regulables, **ABS de 3 modos** y pantalla **TFT de 7 pulgadas** con mirroring. Todo por **9.899 €**, unos 1.900 € menos que una KTM 790 Adventure con potencia equivalente.
 
@@ -148,11 +148,11 @@ Es la trail para quien quiere campo de verdad sin pagar peaje europeo. Y no vien
 | **Carnet** | A |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/motos/kove-800x-2025-ficha-tecnica-precio/>Ficha técnica completa de la Kove 800X</a> con pros, contras y curiosidades.
+<a href=/motos/kove-800x-2025-ficha-tecnica-precio/>Ficha técnica completa de la Kove 800X</a> con pros, contras y curiosidades.
 
 ## Precio y versiones en España
 
-La **800X Pro** parte de **unos 9.899 €**. Pero la gama va más allá: la **800X Rally** (~10.699 €) es la versión radical off-road, con 176 kg, torre de navegación estilo dakariano, defensas y guardabarros elevado; y la **800X GT** (~7.999 €) es la viajera asfáltica, con llanta de 19 pulgadas, IMU, ABS en curva, control de crucero y puños calefactables. Tres motos distintas sobre la misma base de 799 cc.
+La **800X Pro** parte de **unos 9.899 €**. Pero la gama va más allá: la **800X Rally** (~10.699 €) es la versión radical off-road, con 176 kg, torre de navegación estilo dakariano, defensas y guardabarros elevado; y la **800X GT** (~7.999 €) es la viajera asfáltica, con llanta de 19 pulgadas, IMU, ABS en curva, control, en concreto, de crucero y puños calefactables. Tres motos distintas sobre la misma base de 799 cc.
 
 <img src=/media/kove-800x-2025-precio-galeria-1.webp alt=Kove 800X Pro 2025, detalle de la torre delantera con faro LED>
 
@@ -228,7 +228,7 @@ Con 94 CV bajo el puño, un radar despistado sale caro: si te ha llegado una den
     ],
     content: `<img src=/media/morbidelli-t502x-2026-ficha-tecnica-precio-1.webp alt=Morbidelli T502X 2025: precio y ficha técnica — fotografía del modelo>
 
-**¿Buscas solo los datos?** <a href=/motos/morbidelli-t502x-2025-ficha-tecnica-precio/>Ver ficha técnica de la Morbidelli T502X</a>: precio, motor de 47 CV, TFT de 7" con GPS y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
+<a href=/motos/morbidelli-t502x-2025-ficha-tecnica-precio/>Ficha técnica de la Morbidelli T502X</a>. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
 La **Morbidelli T502X** es la trail A2 que mejor entiende la relación calidad-precio: **5.390 €** con un equipamiento que parece de una maxitrail. **47 CV** en el límite del A2, **pantalla TFT vertical de 7 pulgadas con GPS**, defensas, cubrecárter, caballete central y parrilla **de serie**, ABS Bosch con modo off-road y **5 años de garantía**.
 
@@ -248,7 +248,7 @@ Es la moto para quien estrena el A2 y quiere una trail completa sin pagar el pea
 | **Carnet** | A2 |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/motos/morbidelli-t502x-2025-ficha-tecnica-precio/>Ficha técnica completa de la Morbidelli T502X</a> con pros, contras y curiosidades.
+<a href=/motos/morbidelli-t502x-2025-ficha-tecnica-precio/>Ficha técnica completa de la Morbidelli T502X</a> con pros, contras y curiosidades.
 
 ## Precio en España
 
@@ -326,7 +326,7 @@ Si estrenas el A2 con ella, recuerda que los radares no perdonan a los novatos: 
     ],
     content: `<img src=/media/morbidelli-c1002v-2025-precio-hero.jpg alt=Morbidelli C1002V 2025 negra, custom V-twin vista lateral>
 
-**¿Buscas solo los datos?** <a href=/motos/morbidelli-c1002v-2025-ficha-tecnica-precio/>Ver ficha técnica de la Morbidelli C1002V</a>: precio, V-twin de 88,4 CV, rueda de 240 y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
+<a href=/motos/morbidelli-c1002v-2025-ficha-tecnica-precio/>Ficha técnica de la Morbidelli C1002V</a>. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
 La **Morbidelli C1002V** es la custom que demuestra que no hace falta gastarse 20.000 € para tener una power cruiser de 1000 cc: **9.990 €** con un **V-twin a 80° de 997 cc** que entrega **88,4 CV y 89 Nm**, una imagen **dragster** con rueda trasera de **240 mm**, **transmisión por correa** y **control de crucero** de serie.
 
@@ -346,7 +346,7 @@ Es la moto para quien quiere presencia, par motor y viajes tranquilos sin el man
 | **Carnet** | A (limitable a A2) |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/motos/morbidelli-c1002v-2025-ficha-tecnica-precio/>Ficha técnica completa de la Morbidelli C1002V</a> con pros, contras y curiosidades.
+<a href=/motos/morbidelli-c1002v-2025-ficha-tecnica-precio/>Ficha técnica completa de la Morbidelli C1002V</a> con pros, contras y curiosidades.
 
 ## Precio en España
 
@@ -426,7 +426,7 @@ Una custom así invita a disfrutar la carretera, no a correr: pero si un radar t
     ],
     content: `<img src=/media/macbor-xr5-500-2025-ficha-tecnica-precio-1-480w.webp alt=Macbor XR5 2024: precio y ficha técnica — fotografía del modelo>
 
-**¿Buscas solo los datos?** <a href=/motos/macbor-xr5-2024-ficha-tecnica-precio/>Ver ficha técnica de la Macbor Montana XR5</a>: precio, motor de 47 CV, 178 kg y etiqueta DGT. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
+<a href=/motos/macbor-xr5-2024-ficha-tecnica-precio/>Ficha técnica de la Macbor Montana XR5</a>. <a href=/comparador-motos/>Compárala cara a cara con sus rivales</a>.
 
 La **Macbor Montana XR5** es la trail española que se coló entre las japonesas y las chinas: **47 CV** en el límite del A2, **178 kg en seco** (la más ligera de su categoría), **suspensiones KYB multirregulables**, **ABS con 3 modos** desconectable y un precio de **unos 6.999 €**. Diseñada en España por Motos Bordoy, probada en competición y con un equipamiento de serie que sus rivales cobran aparte.
 
@@ -445,7 +445,7 @@ Ojo, para evitar confusiones: la XR5 es la **471 cc para el carnet A2**; la trai
 | **Carnet** | A2 |
 | **Etiqueta DGT** | C |
 
-¿Quieres el detalle completo? <a href=/motos/macbor-xr5-2024-ficha-tecnica-precio/>Ficha técnica completa de la Macbor Montana XR5</a> con pros, contras y curiosidades.
+<a href=/motos/macbor-xr5-2024-ficha-tecnica-precio/>Ficha técnica completa de la Macbor Montana XR5</a> con pros, contras y curiosidades.
 
 ## Precio en España
 

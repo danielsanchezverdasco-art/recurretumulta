@@ -70,7 +70,7 @@ export interface MotoComparador {
   modelo: string;        // ej. "S01"
   version: string;       // versión comercial, ej. "S01 Connected"
   categoria: string;     // "Scooter" | "Urbana" | "Naked" | "Trail"
-  precioDesde: number | null;   // euros, PVP España
+  precioDesde: number | null;   // euros, precio de venta oficial en España con IVA. No equivale a la palabra PVP si la fuente no la escribe.
   potenciaKw: number | null;
   potenciaCv: number | null;
   /** Cilindrada real en cm³ (solo combustión). null en eléctricas o si no hay dato verificado. No inventar. */
@@ -110,7 +110,7 @@ export interface MotoComparador {
   } | null;
   // ── Plan de mantenimiento oficial (OBLIGATORIO desde 2026-10-07, orden de Daniel) ──
   planMantenimiento?: {
-    intervalo: string;          // ej. "6.000 km o 12 meses (lo que ocurra antes)"
+    intervalo: string;          // ej. "6.000 km o 12 meses"
     revisiones: {               // qué se cambia en cada revisión
       nombre: string;           // ej. "Revisión anual / 6.000 km"
       queSeCambia: string;      // ej. "Aceite 10W-40 + filtro aceite + inspección general"

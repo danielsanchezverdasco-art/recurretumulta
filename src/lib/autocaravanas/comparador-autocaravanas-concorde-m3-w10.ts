@@ -145,7 +145,7 @@ configuración.`,
     ],
     analisisSlug: "concorde-charisma-910-li-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Iveco Daily 70C: revisión anual o cada 40.000 km (según plan del fabricante)",
+      intervalo: "Base Iveco Daily 70C: revisión anual o cada 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Iveco Daily 3.0)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 500 },
         { nombre: "Revisión célula Concorde (anual recomendada)", queSeCambia: "Estanqueidad, Alde, gas, electricidad, humedades", costeAproxEur: 400 },

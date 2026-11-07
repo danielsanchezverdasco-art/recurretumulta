@@ -226,8 +226,8 @@ export const COCHES_EXP24: CocheComparador[] = [
     aprox: ["precioDesde"],
     pros: ["Con un solo motor trasero de 343 CV y 365 Nm acelera de 0 a 100 km/h en 6,1 s y aun así homologa 650 km CLTC con la batería LFP de 72,88 kWh", "La arquitectura de 800 V pasa del 30 al 80 % de carga en 10 minutos, una parada mucho más breve que la de la mayoría de berlinas eléctricas de su precio en China", "El conjunto de Huawei suma LiDAR de 192 líneas con el sistema Qiankun ADS 3.0 y una pantalla superior de 35,4 pulgadas que recorre todo el salpicadero", "Pese a medir 4.855 mm y carecer de luneta trasera, ofrece 416 litros de maletero trasero más 70 litros de frunk, cifras aprovechables para viajar en familia"],
     contras: ["No se comercializa en España: hacerse con uno hoy supone importación sin red oficial de Avatr que garantice recambios, actualizaciones y servicio posventa aquí", "Los 650 km anunciados son en ciclo CLTC chino, no en WLTP europeo, por lo que en autovía real la autonomía útil quedará claramente por debajo", "Sus 2.210 kg y sus 1.960 mm de anchura lo hacen pesado y voluminoso para calles estrechas y aparcamientos frente a rivales como el Tesla Model 3", "Carece de calificación oficial Euro NCAP y, al no tener luneta trasera, ver hacia atrás depende siempre de las cámaras y sus pantallas"],
-    imagen: "/media/avatr-06-2025-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/avatr-06-2025-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/avatr-06-2025-entrega-commons.webp",
+    imagenOficial: "/media/avatr-06-2025-entrega-commons.webp",
     imagenInteriorOficial: "/media/avatr-06-2025-precio-ficha-tecnica-interior.webp",
     galeria: [
       { src: "/media/avatr-06-2025-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del Avatr 06", ancho: 1280, alto: 794 },

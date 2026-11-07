@@ -10,7 +10,7 @@ Flujo del usuario:
 1. El conductor recibe una multa (o la fotografía)
 2. Sube el documento al analizador gratuito de https://recurretumulta.online/
 3. La IA examina la denuncia buscando vicios de forma, errores de tipificación y defectos del procedimiento
-4. La herramienta emite una recomendación: recurrir (con el recurso en PDF por 4,99€) o pagar con el 50% de descuento si no hay base para el recurso
+4. La herramienta emite una recomendación: recurrir (con el plan anual de 7,99 €/año: alertas, análisis previo y recurso preparado con guía paso a paso; no recurrimos en nombre del usuario) o pagar con el 50% de descuento si no hay base para el recurso
 
 La plataforma no promete resultados: si la multa está bien puesta, lo dice y recomienda el pronto pago. No requiere registro para el análisis.
 

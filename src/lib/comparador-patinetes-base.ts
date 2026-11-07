@@ -23,7 +23,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 477,
     frenos: "Tambor delantero + E-ABS trasero",
     neumaticos: '10" tubeless',
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT B1079, versión ES
     foto: "/media/patinetes/xiaomi-electric-scooter-5.webp",
     galeria: [
       {
@@ -74,7 +74,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 275,
     frenos: "E-ABS delantero + freno de disco trasero de doble pastilla",
     neumaticos: "Neumáticos sin cámara (tubeless) de 10\"",
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT B1010, versión EU
     foto: "/media/patinetes/xiaomi-electric-scooter-4-oficial.webp",
     aprox: [
       "autonomiaRealKm"
@@ -306,7 +306,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie A",
-    precioEur: 299,
+    precioEur: null, // La URL bongo-serie-a dio 404 el 7/11/2026. 449 eur es la tarjeta del Serie A Connected.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 25,
@@ -357,7 +357,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie Z Power Mountain",
-    precioEur: 599,
+    precioEur: null, // Ausente del listado 7/11. El 599 no se confirma en cecotec.es.
     potenciaNominalW: 800,
     potenciaPicoW: 1300,
     autonomiaKm: 60,
@@ -369,7 +369,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 600,
     frenos: "Doble disco + e-ABS",
     neumaticos: '10,5" off-road',
-    certificadoDgt: true,
+    certificadoDgt: null, // no hay fila DGT que diga Z Power Mountain
     foto: "/media/patinetes/cecotec-bongo-serie-z-power-mountain.webp",
     galeria: [
       {
@@ -904,7 +904,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie Z City",
-    precioEur: 550,
+    precioEur: null, // 550 eur era Sprinter. El listado 7/11 no trae la Z City.
     potenciaNominalW: 500,
     potenciaPicoW: 1300,
     autonomiaKm: 55,
@@ -916,7 +916,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 480,
     frenos: "Disco delantero + disco trasero y eléctrico",
     neumaticos: '10,5"',
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1023
     foto: "/media/patinetes/cecotec-bongo-serie-z-city.webp",
     galeria: [
       {
@@ -954,7 +954,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie A Connected",
-    precioEur: 449,
+    precioEur: 449, //  serieA 449 eur agotado IVA 7/11/2026.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 25,
@@ -1349,7 +1349,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie M20",
-    precioEur: 330, // tarifa oficial España (verificado 20/10/2026)
+    precioEur: 279, //  m20 279 eur stock IVA 7/11/2026.
     potenciaNominalW: 350,
     potenciaPicoW: 500,
     autonomiaKm: 20,
@@ -1361,7 +1361,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 180,
     frenos: "Disco de alta precisión + e-ABS con frenada regenerativa",
     neumaticos: '8.5" neumáticas',
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1017, ref. 7105
     foto: "/media/patinetes/cecotec-bongo-serie-m20.webp",
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
@@ -1385,7 +1385,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie M30 Connected",
-    precioEur: 339, // tarifa oficial España (verificado 20/10/2026)
+    precioEur: 319, //  m30 319 eur agotado IVA 7/11/2026.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 30,
@@ -1397,7 +1397,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 270,
     frenos: "Eléctrico delantero + disco trasero",
     neumaticos: '8.5" neumáticas',
-    certificadoDgt: true,
+    certificadoDgt: null, // M30 Connected no está en la lista DGT
     foto: "/media/patinetes/cecotec-bongo-serie-m30.webp",
     aprox: ["autonomiaRealKm"],
     pros: [
@@ -2256,9 +2256,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   id: "niu-kqi1",
   videoId: null,
   videoCanal: null,
-  marca: "Niu",
+  marca: "NIU",
   modelo: "KQi1 Pro",
-  precioEur: 199,
+  precioEur: 399,
   potenciaNominalW: 250,
   potenciaPicoW: 450,
   autonomiaKm: 25,
@@ -2546,7 +2546,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Kaabo",
   modelo: "Wolf Warrior X Plus",
-  precioEur: 4449,
+  precioEur: 1799,
   potenciaNominalW: 2200,
   potenciaPicoW: 4000,
   autonomiaKm: 70,
@@ -2839,7 +2839,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   bateriaWh: 561.5,
   frenos: "Freno de tambor + freno eléctrico trasero (E-ABS)",
   neumaticos: "Neumáticos sin cámara de 10\" Xiaomi DuraGel autosellantes",
-  certificadoDgt: true,
+  certificadoDgt: true, // registro DGT B1011, versión EU
   foto: "/media/patinetes/xiaomi-electric-scooter-4-ultra.webp",
   aprox: ["autonomiaRealKm"],
   pros: [
@@ -2867,7 +2867,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Xiaomi",
   modelo: "Electric Scooter 5 Plus",
-  precioEur: 549.99, // tarifa oficial España (verificado 20/10/2026)
+  precioEur: 599.99, // tarifa de marca España (verificado 20/10/2026)
   potenciaNominalW: 400,
   potenciaPicoW: 900,
   autonomiaKm: 60,
@@ -2879,7 +2879,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   bateriaWh: 477,
   frenos: "Doble freno con ABS + freno electrónico regenerativo",
   neumaticos: "Neumáticos sin cámara de 12\"",
-  certificadoDgt: true,
+  certificadoDgt: true, // registro DGT B1117, versión ES
   foto: "/media/patinetes/xiaomi-electric-scooter-5-plus.webp",
   aprox: ["autonomiaRealKm"],
   pros: [
@@ -3108,7 +3108,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Cecotec",
   modelo: "Bongo D30",
-  precioEur: 449, // tarifa oficial España (verificado 20/10/2026)
+  precioEur: 269, //  d30 269 eur agotado IVA 7/11/2026.
   potenciaNominalW: 350,
   potenciaPicoW: 650,
   autonomiaKm: 30,
@@ -3120,7 +3120,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   bateriaWh: 270,
   frenos: "Eléctrico delantero + disco trasero",
   neumaticos: '8,5" inflables',
-  certificadoDgt: true,
+  certificadoDgt: null, // el D30 a secas no está en la lista DGT
   foto: "/media/patinetes/cecotec-bongo-d30.webp",
   aprox: ["autonomiaRealKm", "tiempoCargaH"],
   pros: [
@@ -3201,7 +3201,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   bateriaWh: 768,
   frenos: "Hidráulicos delantero y trasero + regenerativa",
   neumaticos: '10" tubeless Dual Grip',
-  certificadoDgt: true,
+  certificadoDgt: true, // registro DGT A1165
   foto: "/media/patinetes/smartgyro-raptor-evo.webp",
   aprox: ["autonomiaRealKm", "tiempoCargaH"],
   pros: [
@@ -3242,7 +3242,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   bateriaWh: 720,
   frenos: "Doble disco + regenerativa",
   neumaticos: '10" tubeless neumáticas',
-  certificadoDgt: true,
+  certificadoDgt: true, // registro DGT A1061
   foto: "/media/patinetes/smartgyro-k2-pro.webp",
   aprox: ["autonomiaRealKm", "pesoKg"],
   pros: ["900 W nominales (1000 W pico): de los VMP más potentes con certificado DGT", "Batería de 48 V y 15 Ah (720 Wh): Smartgyro promete hasta 60 km por carga en este K2 Pro", "Doble disco + regenerativa y suspensión de largo recorrido", "4 intermitentes (2 en las empuñaduras y 2 detrás) y doble foco LED, uno alto y otro bajo", "App con antirrobo y 140 kg de carga máxima", "Certificado DGT (VMP A1061)"],
@@ -3257,7 +3257,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Dualtron",
   modelo: "Victor",
-  precioEur: 2400, // 2.699 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
+  precioEur: 1899, // 2.699 USD (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
   potenciaNominalW: 2400,
   potenciaPicoW: 4000,
   autonomiaKm: 100,
@@ -3367,7 +3367,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Wolf King GT Pro",
-    precioEur: 3599,
+    precioEur: 3299,
     potenciaNominalW: 4000,
     potenciaPicoW: 8400,
     autonomiaKm: 180,
@@ -4332,7 +4332,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   bateriaWh: 624,
   frenos: "Triple frenada: doble disco de alta precisión + e-ABS regenerativo",
   neumaticos: "Ruedas de 10\" con cámara",
-  certificadoDgt: true,
+  certificadoDgt: true, // registro DGT A1130
   foto: "/media/patinetes/cecotec-bongo-y65.webp",
   aprox: ["autonomiaRealKm", "pesoKg"],
   pros: [
@@ -4361,7 +4361,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Cecotec",
   modelo: "Bongo Y45 Connected",
-  precioEur: 469,
+  precioEur: 469, // Financiación del listado 7/11/2026: «PVP 469.00€». En stock.
   potenciaNominalW: 350,
   potenciaPicoW: 750,
   autonomiaKm: 45,
@@ -4373,7 +4373,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   bateriaWh: 360,
   frenos: "Doble disco de freno + e-ABS regenerativo",
   neumaticos: "Ruedas de 10\" con cámara",
-  certificadoDgt: true,
+  certificadoDgt: true, // registro DGT A1129
   foto: "/media/patinetes/cecotec-bongo-y45.webp",
   aprox: ["autonomiaRealKm", "pesoKg"],
   pros: [
@@ -4401,7 +4401,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   videoCanal: null,
   marca: "Zwheel",
   modelo: "ZFox Max",
-  precioEur: 499,
+  precioEur: 549.99,
   potenciaNominalW: 400,
   potenciaPicoW: 800,
   autonomiaKm: 50,
@@ -4453,7 +4453,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   bateriaWh: 720,
   frenos: "Triple frenada: disco delantero + disco trasero + frenada regenerativa",
   neumaticos: "Neumáticos tubeless de 10\" (mixtas)",
-  certificadoDgt: true,
+  certificadoDgt: true, // registro DGT A1176
   foto: "/media/patinetes/smartgyro-crossover-dual-max-2.webp",
   aprox: ["potenciaPicoW", "autonomiaRealKm"],
   pros: [
@@ -4685,7 +4685,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 360,
     frenos: "Tambor delantero + E-ABS trasero",
     neumaticos: "10\" tubeless de baja resistencia a la rodadura",
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT B1092, versión ES
     foto: "/media/patinetes/xiaomi-5-elite.webp",
     aprox: ["autonomiaRealKm", "tiempoCargaH"],
     pros: [
@@ -4883,7 +4883,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Dualtron",
     modelo: "Popular",
-    precioEur: null, // sin tarifa oficial verificable en ningún mercado (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable en ningún mercado (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 27,
@@ -4924,7 +4924,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Skywalker 8H",
-    precioEur: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026),
+    precioEur: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 50,
@@ -4965,7 +4965,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Vsett",
     modelo: "9+R",
-    precioEur: 1400, // 1.624 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 1400, // 1.624 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 1300,
     potenciaPicoW: null,
     autonomiaKm: 60,
@@ -5006,7 +5006,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "City Pro",
-    precioEur: 1500, // 1.699 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 1500, // 1.699 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 1000,
     potenciaPicoW: 2000,
     autonomiaKm: 61,
@@ -5047,7 +5047,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "KuKirin",
     modelo: "G3 Pro",
-    precioEur: 1100, // 1.249 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 1100, // 1.249 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 2400,
     potenciaPicoW: 2400,
     autonomiaKm: 80,
@@ -5119,7 +5119,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Hiboy",
     modelo: "S2R Plus",
-    precioEur: 700, // 805,99 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 700, // 805,99 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 350,
     potenciaPicoW: 500,
     autonomiaKm: 35,
@@ -5291,7 +5291,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Segway",
     modelo: "Ninebot F3",
-    precioEur: 549,
+    precioEur: 599,
     potenciaNominalW: 450,
     potenciaPicoW: 1000,
     autonomiaKm: 70,
@@ -5375,7 +5375,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "NIU",
     modelo: "KQi 100F",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 600,
     autonomiaKm: 29,
@@ -5459,7 +5459,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Apollo",
     modelo: "Phantom V4",
-    precioEur: null, // versión descatalogada; sin tarifa oficial vigente (verificado 20/10/2026),
+    precioEur: null, // versión descatalogada; sin tarifa oficial vigente (verificado 20/10/2026)
     potenciaNominalW: 2400,
     potenciaPicoW: 2400,
     autonomiaKm: 80,
@@ -5480,7 +5480,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
       "Si buscas el patinete tranquilo para ir a trabajar, descártalo directamente. Esto pertenece a otra liga: 2.400 W, 1.217 Wh, 66 km/h y 35 kg por unos 2.599 € recogidos en esta ficha, rivalizando en concepto con los Dualtron más brutos. Su hábitat en España se reduce a fincas, circuitos y recintos cerrados al tráfico, porque sin homologación DGT no puede pisar la calle como VMP. Quien disponga de ese espacio privado encontrará aceleración, autonomía cercana a 52 km reales y una suspensión muy seria; quien no, solo comprará problemas.",
     fuenteNombre: "Apollo Scooters",
     fuenteUrl: "https://apolloscooters.ca/products/apollo-phantom-2-0?view=phantom_pdp",
-    mantenimientoDIY: {"intervaloRevision": "Inspección rápida antes de cada salida y revisión a fondo tras cada jornada de uso intensivo en tierra o, si el uso es frecuente, una vez al mes, lo que ocurra antes; revisión inmediata si aparece holgura en la dirección, un ruido nuevo o pérdida de frenada", "presionNeumaticos": "Revisar antes de rodar y mantener la presión indicada en el flanco de la propia cubierta hinchable", "ajusteFrenosPasos": ["Comprobar el recorrido de ambas manetas y que ninguna llegue a tocar el puño", "Tensar el cable de los discos mecánicos cuando la maneta gane recorrido", "Revisar a la vista el grosor restante de las pastillas y que los discos de 160 mm giren rectos, sin alabeo ni contaminación de aceite", "Limpiar los discos con un paño limpio y producto específico para frenos", "Probar a baja velocidad que la frenada regenerativa entra de forma progresiva y que las dos ruedas detienen el conjunto sin tirar hacia un lado"], "aprieteTornilleria": "Repasar la tornillería de mástil, dirección y basculantes, el estado de los cuatro muelles de suspensión, el funcionamiento de luces e intermitentes y un plegado firme antes de volver a rodar", "trucos": ["Cargar solo con el cargador original, en superficie seca y ventilada, y dejar enfriar el conjunto tras rodar antes de enchufarlo", "No apurar sistemáticamente la descarga completa ni guardar el patinete semanas con la carga al máximo o agotada", "Revisar que los puertos de carga queden limpios y con sus tapas puestas; ante hinchazón, olor extraño o caída brusca de autonomía, dejar de usarlo y acudir a un taller"]},
+    mantenimientoDIY: {"intervaloRevision": "Inspección rápida antes de cada salida y revisión a fondo tras cada jornada de uso intensivo en tierra o, si el uso es frecuente, una vez al mes; revisión inmediata si aparece holgura en la dirección, un ruido nuevo o pérdida de frenada", "presionNeumaticos": "Revisar antes de rodar y mantener la presión indicada en el flanco de la propia cubierta hinchable", "ajusteFrenosPasos": ["Comprobar el recorrido de ambas manetas y que ninguna llegue a tocar el puño", "Tensar el cable de los discos mecánicos cuando la maneta gane recorrido", "Revisar a la vista el grosor restante de las pastillas y que los discos de 160 mm giren rectos, sin alabeo ni contaminación de aceite", "Limpiar los discos con un paño limpio y producto específico para frenos", "Probar a baja velocidad que la frenada regenerativa entra de forma progresiva y que las dos ruedas detienen el conjunto sin tirar hacia un lado"], "aprieteTornilleria": "Repasar la tornillería de mástil, dirección y basculantes, el estado de los cuatro muelles de suspensión, el funcionamiento de luces e intermitentes y un plegado firme antes de volver a rodar", "trucos": ["Cargar solo con el cargador original, en superficie seca y ventilada, y dejar enfriar el conjunto tras rodar antes de enchufarlo", "No apurar sistemáticamente la descarga completa ni guardar el patinete semanas con la carga al máximo o agotada", "Revisar que los puertos de carga queden limpios y con sus tapas puestas; ante hinchazón, olor extraño o caída brusca de autonomía, dejar de usarlo y acudir a un taller"]},
   },
   {
     id: "inokim-mini-2",
@@ -5488,7 +5488,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Inokim",
     modelo: "Mini 2",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 250,
     potenciaPicoW: 450,
     autonomiaKm: 25,
@@ -5573,7 +5573,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "iScooter",
     modelo: "iX6",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 1000,
     potenciaPicoW: 1200,
     autonomiaKm: 45,
@@ -5616,7 +5616,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Hiboy",
     modelo: "KS4 Pro",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 750,
     autonomiaKm: 40,
@@ -5662,7 +5662,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "KuKirin",
     modelo: "G2 Master",
-    precioEur: 849, // tarifa oficial España (verificado 20/10/2026),
+    precioEur: 849, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 2000,
     potenciaPicoW: 2000,
     autonomiaKm: 70,
@@ -5733,7 +5733,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "TurboAnt",
     modelo: "M10 Pro",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 500,
     autonomiaKm: 48,
@@ -5776,7 +5776,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "GOTRAX",
     modelo: "Apex",
-    precioEur: 300, // 350 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 300, // 350 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 250,
     potenciaPicoW: 300,
     autonomiaKm: 24,
@@ -5819,7 +5819,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure",
     modelo: "Air Pro LR",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 700,
     autonomiaKm: 60,
@@ -5862,7 +5862,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Egret",
     modelo: "Pro",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: null,
     autonomiaKm: 80,
@@ -5904,7 +5904,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Teverun",
     modelo: "Fighter Mini",
-    precioEur: 1200, // 1.299 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 1200, // 1.299 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 2000,
     potenciaPicoW: 2950,
     autonomiaKm: 60,
@@ -5946,7 +5946,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kugoo",
     modelo: "Kirin M4 Pro",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 500,
     potenciaPicoW: 800,
     autonomiaKm: 60,
@@ -6001,7 +6001,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     bateriaWh: 275,
     frenos: "E-ABS delantero + freno de tambor trasero",
     neumaticos: "8,1 pulgadas (antipinchazos)",
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT B1008
     foto: "/media/patinetes/xiaomi-electric-scooter-4-go.webp",
     aprox: ["autonomiaRealKm", "bateriaWh"],
     pros: [

@@ -157,7 +157,7 @@ export default function ComunidadPage() {
             <h1
               className="text-3xl md:text-4xl font-black text-white leading-tight text-balance drop-shadow-lg"
             >
-              Multas de tráfico en {c.nombre}: cómo recurrirlas
+              {c.h1 ?? `Multas de tráfico en ${c.nombre}: cómo recurrirlas`}
             </h1>
             <p
               className="text-white/80 text-sm md:text-base leading-relaxed max-w-xl"
@@ -307,7 +307,7 @@ export default function ComunidadPage() {
                 },
                 {
                   n: "3",
-                  title: "Descarga el recurso PDF listo para enviar (4,99€)",
+                  title: "El recurso va en el plan anual (7,99 €/año)",
                   desc: "El PDF incluye todos los argumentos en lenguaje jurídico, con referencias exactas a la LTSV, el RPSANVI y la jurisprudencia del Tribunal Supremo.",
                 },
                 {
@@ -583,3 +583,4 @@ export default function ComunidadPage() {
     </div>
   );
 }
+

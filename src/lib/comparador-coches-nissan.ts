@@ -449,7 +449,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/nissan-ariya-2026-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/nissan-ariya-commons.webp",
     imagenInteriorOficial: "",
     videoId: "0Toni2LX43Q",
     videoCanal: "SuperMotor.Online",

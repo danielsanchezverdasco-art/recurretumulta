@@ -11,7 +11,7 @@ export const CAMPERS_BUERSTNER: CocheComparador[] = [
     modelo: "Campeo C 600",
     tipo: "Diésel",
     categoria: "Camper",
-    precioDesde: 61600,
+    precioDesde: 61480,
     potenciaCv: 140,
     autonomiaKm: null,
     maleteroL: null,

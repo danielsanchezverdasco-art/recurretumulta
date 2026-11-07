@@ -262,7 +262,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "estándar",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 3999,
+    precioDesde: 4000,
     potenciaKw: 1.7,
     potenciaCv: 2.3,
     autonomiaKm: 30,
@@ -289,7 +289,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "1,7 kW de potencia máxima: prestaciones muy justas, se queda corta en cuestas",
       "6 horas para una carga completa",
       "Pantalla LCD básica, criticada en las pruebas por su aspecto barato",
-      "3.999 € es caro para lo que ofrece frente a rivales chinos y europeos",
+      "4.000 € es caro para lo que ofrece frente a rivales chinos y europeos",
       "Varias pruebas la consideran por debajo del estándar de excelencia habitual de Honda",
     ],
     curiosidades: [
@@ -316,8 +316,8 @@ export const MOTOS_BASE: MotoComparador[] = [
     ],
     videoId: "GKLmRZbsVh0",
     videoCanal: "Honda Motor Europe España",
-    fuenteNombre: "Motofichas – ficha técnica Honda EM1 e:",
-    fuenteUrl: "https://www.motofichas.com/marcas/honda/em1-e",
+    fuenteNombre: "Honda España",
+    fuenteUrl: "https://www.honda.es/motorcycles/range/scooter/em1-e.html",
     analisisSlug: "honda-em1-e-vs-yamaha-neos-cual-comprar",
   },
   {
@@ -1168,7 +1168,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.ducati.com/es/es/motocicletas/panigale/panigale-v2",
     analisisSlug: "ducati-panigale-v2-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "15.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 24 meses",
       revisiones: [
         {
           nombre: "Revisión / 15.000 km",
@@ -1590,7 +1590,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "La pantalla TFT de 3,5\" se queda pequeña frente a rivales",
       "Asiento con forma que desliza hacia el depósito",
       "El escape de doble salida resulta voluminoso estéticamente",
-      "La XSR900 GP (14.099 €) tienta y complica la decisión",
+      "La XSR900 GP (14.299 € de tarifa) tienta y complica la decisión",
       "Consumo real en torno a 5,2 l/100 km si se le exige",
     ],
     curiosidades: [
@@ -2565,7 +2565,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.bmw-motorrad.es/es/models/adventure/f800gs.html",
     analisisSlug: "bmw-f-800-gs-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 10.000 km",
@@ -2716,7 +2716,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     contras: [
       "Consumo homologado de 6,83 l/100 km con depósito de solo 17 litros: autonomía real muy justa",
       "212 kg en orden de marcha, de las más pesadas entre las hypernaked",
-      "Precio de 17.999 €, sensiblemente superior al de las naked japonesas rivales",
+      "Tarifa de 17.999 € en España, sensiblemente superior al de las naked japonesas rivales",
       "La versión base no monta suspensiones electrónicas (reservadas a la SP)",
       "Asiento a 835 mm, alto para uso urbano diario",
       "Sin pantalla TFT grande: la instrumentación de 4,2\" se queda corta frente a rivales con 6,5\"",
@@ -2813,11 +2813,11 @@ export const MOTOS_BASE: MotoComparador[] = [
     ],
     videoId: "XpbDzxUiQl8",
     videoCanal: "Fast Bikes",
-    fuenteNombre: "motorpasionmoto.com",
-    fuenteUrl: "https://www.motorpasionmoto.com/naked/honda-cb1000-hornet-2025-precio/amp",
+    fuenteNombre: "Honda (hondanews.eu)",
+    fuenteUrl: "https://hondanews.eu",
     analisisSlug: "honda-cb1000-hornet-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -3164,7 +3164,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "CBR650R 2024",
     cilindradaCc: 649,
     categoria: "Deportiva",
-    precioDesde: 10100,
+    precioDesde: 10400,
     potenciaKw: 70,
     potenciaCv: 95,
     autonomiaKm: null,
@@ -3189,7 +3189,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     contras: [
       "209 kg en orden de marcha (211 kg con E-Clutch): la más pesada de las deportivas medias",
       "Sin IMU ni ABS en curva: electrónica por detrás de la Aprilia RS 660",
-      "El E-Clutch cuesta 300 € extra sobre el precio base de 10.100 €",
+      "El E-Clutch es opcional: la versión con E-Clutch tiene un PVP oficial de 10.400 €",
       "Postura deportiva con semimanillares: se hace cansada en ciudad",
       "26 kg más que la RS 660 con 5 CV menos: la relación peso-potencia no es su fuerte",
       "Amortiguador trasero regulable solo en precarga",
@@ -3222,8 +3222,8 @@ export const MOTOS_BASE: MotoComparador[] = [
     ],
     videoId: "WuihMSa20PY",
     videoCanal: "Motorbike Magazine",
-    fuenteNombre: "moteo.es",
-    fuenteUrl: "http://moteo.es/honda-cbr650r-2024-precio-ficha-tecnica-y-fotos/",
+    fuenteNombre: "Honda (hondanews.eu)",
+    fuenteUrl: "https://hondanews.eu",
     analisisSlug: "honda-cbr650r-2024-ficha-tecnica-precio",
   },
   {
@@ -3296,7 +3296,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/kawasaki/ninja-650-2024",
     analisisSlug: "kawasaki-ninja-650-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 6.000 km",
@@ -3479,7 +3479,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.yamaha-motor.eu/is/en/scooters/sport/pdp/xmax-300-2025/",
     analisisSlug: "yamaha-xmax-300-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 10.000 km",
@@ -3499,14 +3499,14 @@ export const MOTOS_BASE: MotoComparador[] = [
   {
     id: "honda-forza-350-2024-ficha-tecnica-precio",
     textosPropios: {
-      precio: "Moteo da 6.380 € como precio de salida del Forza 350 en 2024. Honda España lista hoy el modelo 2026 desde 6.550 €, o 6.675 € con la edición especial (honda.es, 31/10/2026). La cifra de la ficha corresponde al lanzamiento de 2024 y no incluye campañas ni gastos de matriculación.",
+      precio: "Honda no publicó PVP oficial para el Forza 350 de 2024; la tarifa en España para los modelos 2025-2026 es de 6.550 € (consulta 5/11/2026), sin campañas ni gastos de matriculación.",
     },
     marca: "Honda",
     modelo: "Forza 350",
     version: "Forza 350 2024",
     cilindradaCc: 330,
     categoria: "Scooter",
-    precioDesde: 6380,
+    precioDesde: 6550,
     potenciaKw: 22,
     potenciaCv: 29,
     autonomiaKm: null,
@@ -3525,7 +3525,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Control de tracción HSTC de serie, algo raro en un scooter de 350",
       "Llave inteligente Smart Key, toma USB y arranque sin llave",
       "Amplio cofre bajo el asiento con cabida para dos cascos integrales",
-      "6.380 €: más barato que el Yamaha XMAX 300 con 1 CV más",
+      "6.550 € de tarifa: un peldaño por encima del Yamaha XMAX 300 (6.499 €) a cambio de más equipamiento",
       "Consumo de solo 3,4 l/100 km",
     ],
     contras: [
@@ -4487,7 +4487,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     autonomiaKm: 450,
     autonomiaCiclo: null,
     bateriaKwh: null,
-    velocidadMax: 115,
+    velocidadMax: 105,
     ceroCincuenta: null,
     pesoKg: 130,
     plazas: 2,
@@ -4604,7 +4604,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://moteo.es/yamaha-mt-125-2024-precio-ficha-tecnica/",
     analisisSlug: "yamaha-mt-125-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 6.000 km",
@@ -5178,7 +5178,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.husqvarna-motorcycles.com/es-es/models/travel/norden-901-2026.html",
     analisisSlug: "husqvarna-norden-901-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "15.000 km o 24 meses (lo que ocurra antes)",
+      intervalo: "15.000 km o 24 meses",
       revisiones: [
         {
           nombre: "Revisión / 15.000 km",
@@ -5881,7 +5881,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "CB750 Hornet 2024",
     cilindradaCc: 750,
     categoria: "Naked",
-    precioDesde: 7880,
+    precioDesde: 7800,
     potenciaKw: 68,
     potenciaCv: 92,
     autonomiaKm: null,
@@ -5901,7 +5901,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "IMU con control de tracción, anti-wheelie, modos de motor y freno motor regulable",
       "Horquilla de tipo invertido Showa SFF-BP con 41 mm y doble disco delantero de 296 mm",
       "Embrague antirrebote asistido de serie",
-      "Precio base de 7.880 €, de los más ajustados del segmento",
+      "Tarifa base de 7.800 €, de las más ajustadas del segmento",
     ],
     contras: [
       "Quickshifter opcional con sobrecoste, no de serie",
@@ -6356,7 +6356,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/bmw/s-1000-rr-2023",
     analisisSlug: "bmw-s-1000-rr-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 10.000 km",
@@ -6589,13 +6589,13 @@ export const MOTOS_BASE: MotoComparador[] = [
   {
     id: "honda-adv350-2024-ficha-tecnica-precio",
     textosPropios: {
-      "notaCosa": "Sus 29 CV por 6.580 € puntúan alto; en practicidad la nota se queda corta.",
-      "precio": "La Honda ADV350 (2024) parte de 6.580 € con el eSP+ de 330 cc; colores y accesorios, en la comparativa:",
+      "notaCosa": "Sus 29 CV por 6.680 € de tarifa puntúan alto; en practicidad la nota se queda corta.",
+      "precio": "La Honda ADV350 (2024) parte de 6.680 € de tarifa en España con el eSP+ de 330 cc; colores y accesorios, en la comparativa:",
       "fotos": "Imágenes de la sala de prensa de Honda Motor Europe.",
       "garantiaNota": "Honda cubre la ADV350 tres años en Europa, hagas los km que hagas",
       "rivalesIntro": "Scooters de 300-400 cc alrededor de 6.500 €.",
-      "fraseRivales": "Sus 6.580 € apenas se separan 17 € de la media de sus seis rivales (6.563 €); por precio es la quinta de siete.",
-      "faqPrecio": "Honda la vende a 6.580 € y no ha variado desde nuestro primer registro, el 14/10/2026.",
+      "fraseRivales": "Con 6.680 € de tarifa se mueve en la franja alta de los scooters de 300-400 cc, algo por encima de la media de sus rivales.",
+      "faqPrecio": "La última tarifa en España es de 6.680 € (tarifa 2022-2024, a 5 de noviembre de 2026). El precio del estreno no consta en la nota de Honda.",
       "faqCarnet": "Con 29 CV entra en el A2; con el B solo no puedes llevarla, porque supera los 125 cc.",
       "faqZbe": "No. Como scooter de gasolina lleva la «C»; en ciudades cuya ZBE limita las motos C, la ADV350 tiene esas mismas restricciones."
     },
@@ -6604,13 +6604,13 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "ADV350 2024",
     cilindradaCc: 350,
     categoria: "Scooter",
-    precioDesde: 6580,
+    precioDesde: 6680,
     potenciaKw: 21.5,
     potenciaCv: 29,
     autonomiaKm: null,
     autonomiaCiclo: null,
     bateriaKwh: null,
-    velocidadMax: 130,
+    velocidadMax: 133,
     ceroCincuenta: null,
     pesoKg: 186,
     plazas: 2,
@@ -6629,7 +6629,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     contras: [
       "Freno delantero de un solo disco de 256 mm, modesto para su peso",
       "Depósito de 11,7 litros: autonomía justa frente a rivales con más capacidad",
-      "Precio de 6.580 €, por encima del Yamaha XMAX 300 (6.499 €)",
+      "Tarifa de 6.680 €, por encima del Yamaha XMAX 300 (6.499 €)",
       "Sin modos de conducción ni pantalla TFT grande en el modelo 2024",
       "La horquilla invertida de 37 mm no es regulable",
     ],
@@ -6656,8 +6656,8 @@ export const MOTOS_BASE: MotoComparador[] = [
     ],
     videoId: "EO338iYsvfs",
     videoCanal: "motos.net",
-    fuenteNombre: "Moteo.es (Honda ADV350 2024: precio, ficha técnica y fotos)",
-    fuenteUrl: "http://moteo.es/honda-adv350-2024-precio-ficha-tecnica/",
+    fuenteNombre: "Honda (hondanews.eu)",
+    fuenteUrl: "https://hondanews.eu",
     analisisSlug: "honda-adv350-2024-ficha-tecnica-precio",
   },
   {
@@ -6795,7 +6795,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/piaggio/beverly-400",
     analisisSlug: "piaggio-beverly-400-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 10.000 km",
@@ -7200,7 +7200,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "GB350S 2025",
     cilindradaCc: 348,
     categoria: "Retro",
-    precioDesde: 4590,
+    precioDesde: 4500,
     potenciaKw: 15.5,
     potenciaCv: 21,
     autonomiaKm: null,
@@ -7244,7 +7244,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/honda/gb350s",
     analisisSlug: "honda-gb350s-2025-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "6.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "6.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión / 6.000 km",
@@ -7635,14 +7635,14 @@ export const MOTOS_BASE: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: ["videoCanal"],
     pros: ["Motor Revolution Max 1250T con 122 CV y 125 Nm de par", "IMU de 6 ejes: ABS y control de tracción en curva", "Pantalla TFT redonda de 4 pulgadas con Bluetooth", "Cuatro modos de conducción: Road, Rain, Sport y Custom", "Horquilla invertida de 43 mm totalmente regulable", "Escape elevado 2-en-1-en-2 de inspiración flat-track"],
-    contras: ["Precio desde 19.200 €", "228 kg en orden de marcha", "Depósito de 11,8 litros: autonomía justa", "El asiento del pasajero y sus estriberas son opcionales", "34° de inclinación máxima: toca pronto en curva"],
+    contras: ["228 kg en orden de marcha", "Depósito de 11,8 litros: autonomía justa", "El asiento del pasajero y sus estriberas son opcionales", "34° de inclinación máxima: toca pronto en curva"],
     curiosidades: ["Su motor deriva del de la Pan America, rebajado de más de 150 a 122 CV", "El motor es parte estructural del chasis: basculante y subchasis van anclados a él", "El escape alto doble rinde homenaje al flat-track americano", "Es la Sportster más potente de la historia de la marca"],
     imagen: "/media/motos/harley-davidson-sportster-s-2024-ficha-tecnica-precio.webp",
     galeria: [],
     videoId: "hvLzpFrDDac",
     videoCanal: "ZigWheels",
     fuenteNombre: "Harley-Davidson España",
-    fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
+    fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/sportster-s.html",
     analisisSlug: null,
   },
   {
@@ -7728,7 +7728,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/honda-cmx1100-rebel-2023/",
     analisisSlug: "honda-rebel-1100-2024-ficha-tecnica-precio",
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Revisión anual / 12.000 km",
@@ -7880,7 +7880,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "Niken GT 2025",
     cilindradaCc: 890,
     categoria: "Turismo",
-    precioDesde: 17749,
+    precioDesde: 19599,
     potenciaKw: 85,
     potenciaCv: 115,
     autonomiaKm: 300,
@@ -7903,7 +7903,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "Control de tracción, quickshifter y modos de conducción",
     ],
     contras: [
-      "Precio de 17.749 €: casi el doble que una MT-09 con el mismo motor",
+      "Precio de 19.599 €: casi el doble que una MT-09 con el mismo motor",
       "267 kg llena: se nota al maniobrar en parado",
       "Concepto de nicho con mercado de segunda mano muy limitado",
       "Consumo y mantenimiento de moto grande sin la agilidad de una naked",
@@ -7937,8 +7937,8 @@ export const MOTOS_BASE: MotoComparador[] = [
     ],
     videoId: "Jjy8KKvv0V0",
     videoCanal: "Canariasenmoto",
-    fuenteNombre: "canariasenmoto.com",
-    fuenteUrl: "https://www.canariasenmoto.com/noticias/prueba-yamaha-niken-gt-sensaciones-fuera-de-serie-30770.html",
+    fuenteNombre: "Red oficial Yamaha (oct-2026)",
+    fuenteUrl: "https://malagamotocenter.com/motocicletas/carretera/sport-touring/yamaha-niken-gt/",
     analisisSlug: "yamaha-niken-gt-2025-ficha-tecnica-precio",
   },
   {

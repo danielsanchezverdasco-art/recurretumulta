@@ -158,3 +158,4 @@ export const COCHES_MAEXTRO: CocheComparador[] = [
     analisisSlug: "maextro-s800-erev-2025-precio-ficha-tecnica",
   },
 ];
+

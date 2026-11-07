@@ -1715,3 +1715,4 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     },
   },
 ];
+

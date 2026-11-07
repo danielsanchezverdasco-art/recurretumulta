@@ -21,7 +21,7 @@ export const AUTOCARAVANAS_BURSTNER_M1: Autocaravana[] = [
     modelo: "Lyseo TD 690 G",
     tipo: "perfilada",
     categoria: "Autocaravana",
-    precioDesde: 82530, // PVP en Suiza (82.530 CHF) publicado en buerstner.com; puede diferir en España
+    precioDesde: null, // 82.530 CHF en buerstner.com (Suiza). No es una tarifa en euros.
     potenciaCv: 140, // «no oficial»: motorización estándar; no visible en el extracto de la página oficial
     autonomiaKm: null,
     maleteroL: null,
@@ -66,7 +66,7 @@ export const AUTOCARAVANAS_BURSTNER_M1: Autocaravana[] = [
 
 Los datos oficiales, publicados por Bürstner en la página del modelo, son completos y permiten comprar con la calculadora en la mano: 699 cm de largo, 230 cm de ancho y 295 cm de alto, con una MMA de 3.500 kg que permite conducirla con el carnet B. La masa en orden de marcha es de 2.990 kg con una tolerancia de ±5 % (rango real entre 2.841 y 3.140 kg según la configuración), y la marca publica además la masa reservada para equipamiento opcional: 160 kg. Ojo: esos 160 kg son la masa máxima para opcionales, un concepto distinto de la carga útil, así que la ficha no calcula ni publica carga útil y ese campo va sin dato. Con 160 kg de margen para extras hay que elegir el equipamiento con la calculadora en la mano, porque entre el toldo, la batería auxiliar, el portabicicletas y el aire acondicionado el margen se agota deprisa. Las plazas homologadas son de 4 a 5 para viajar y de 2 a 5 para dormir: de serie duermen dos en las camas gemelas traseras, y con la cama basculante sobre el salón y la quinta plaza opcionales se llega a cinco.
 
-Las camas gemelas traseras, de 199 y 190 cm con colchones de espuma multizona, son el corazón de la distribución: se duerme sin montar ni desmontar nada, y debajo queda un garaje generoso para el equipo voluminoso. El baño combina un diseño inteligente con mampara pivotante que mantiene seca la zona de cambio durante la ducha, y la cocina monta un frigorífico de 142 litros más 15 de congelador, una capacidad de nevera grande en una perfilada de menos de 7 metros. El depósito de agua limpia es de 100 litros y la calefacción es combinada de gas y agua caliente, un conjunto pensado para aguantar varios días lejos de áreas de servicio. El techo y el suelo son de GRP (poliéster reforzado con fibra de vidrio), materiales que resisten el granizo y envejecen mejor que el aluminio tradicional.
+Las camas gemelas traseras, de 199 y 190 cm con colchones de espuma multizona, son el corazón de la distribución: se duerme sin montar ni desmontar nada, y debajo queda un garaje generoso para el equipo voluminoso. El baño combina un diseño inteligente con mampara pivotante que mantiene seca la zona de cambio durante la ducha, y la cocina monta un frigorífico de 142 litros más 15 de congelador, una capacidad de nevera grande en una perfilada de menos de 7 metros. El depósito de agua limpia tiene 100 litros y la calefacción es combinada de gas y agua caliente, un conjunto pensado para aguantar varios días lejos de áreas de servicio. El techo y el suelo son de GRP (poliéster reforzado con fibra de vidrio), materiales que resisten el granizo y envejecen mejor que el aluminio tradicional.
 
 Mecánicamente, la base es el Fiat Ducato 2.2 de 140 CV, el motor estándar de la gama, con tracción delantera. Es el único motor de serie, y con la autocaravana cargada y un remolque detrás se puede quedar justo en puertos de montaña exigentes; quien prevea ese uso debería valorar las opciones de mayor potencia en el pedido. El puesto de conducción del Ducato, con sus ayudas electrónicas modernas, hace que los 6,99 m se lleven con soltura en carretera, aunque los 2,30 m de anchura y 2,95 m de altura obligan a planificar la ruta en cascos antiguos y bajo techados bajos.
 
@@ -93,19 +93,19 @@ Para quién es: la Lyseo TD 690 G es para parejas —o familias que acepten la c
     galeria: [
       {
         src: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial.webp",
-        alt: "Bürstner Lyseo TD 690 G Harmony Line, vista tres cuartos delantera (foto oficial de estudio)",
+        alt: "Bürstner Lyseo TD 690 G Harmony Line, vista tres cuartos delantera",
         ancho: 960,
         alto: 600,
       },
       {
         src: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial-interior.webp",
-        alt: "Salón y cocina del Bürstner Lyseo TD 690 G Harmony Line (foto oficial del fabricante)",
+        alt: "Salón y cocina del Bürstner Lyseo TD 690 G Harmony Line",
         ancho: 1440,
         alto: 787,
       },
       {
         src: "/media/burstner-lyseo-td-690-g-2026-precio-ficha-tecnica-oficial-interior2.webp",
-        alt: "Cocina del Bürstner Lyseo TD 690 G Harmony Line (foto oficial del fabricante)",
+        alt: "Cocina del Bürstner Lyseo TD 690 G Harmony Line",
         ancho: 1440,
         alto: 787,
       },
@@ -131,7 +131,7 @@ Para quién es: la Lyseo TD 690 G es para parejas —o familias que acepten la c
     analisisSlug: "burstner-lyseo-td-690-g-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Fiat Ducato: revisión cada 2 años o 48.000 km (lo que ocurra antes, según plan Fiat Professional)",
+        "Fiat Ducato: 2 años / 48.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 48.000 km)",
@@ -147,7 +147,7 @@ Para quién es: la Lyseo TD 690 G es para parejas —o familias que acepten la c
         },
       ],
       costeAnualAproxEur: 650,
-      fuente: "Plan de mantenimiento Fiat Professional Ducato + recomendaciones Bürstner",
+      fuente: "Plan de mantenimiento del Fiat Professional Ducato y recomendaciones de Bürstner",
     },
     euroncap: null,
     fuenteNombre: "Bürstner (web oficial)",

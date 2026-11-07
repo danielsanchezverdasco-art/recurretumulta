@@ -1,0 +1,27 @@
+{
+  "que_es": "Certificado de equivalencia. No es build-commit y no lo sustituye.",
+  "autorizacion": "Daniel, 7/11/2026 13:02 Europe/Madrid: Autorizo adaptar el control de versión para reutilizar el resultado solo si se demuestra íntegramente la equivalencia, sin falsear el build-commit ni desactivar las demás protecciones.",
+  "build_commit": "585d69932e10125c09e83a3c50c2fcf1abcda1d7",
+  "funcional_commit": "a19bb770d727deb331970ad0b194d0d220d043f7",
+  "funcionales": ["src/pages/MotosFicha.tsx", "src/pages/PatinetesFicha.tsx"],
+  "control": [
+    "tools/publicar/equivalencia_dist.py",
+    "tools/publicar/equivalencia-dist.json",
+    "tools/publicar/test_equivalencia_dist.py",
+    "tools/publicar/equiv-ast.mjs",
+    "tools/publicar/publicar.py",
+    "tools/publicar/GUIA.md"
+  ],
+  "manifiesto_sha256": "07564e08d92b72b5455696c2e9fed27efb7a3b6cdf356c542f3cf9c6c76437ca",
+  "ficheros": 52484,
+  "bytes": 5427400884,
+  "assets": 1348,
+  "assets_sha256": "41c104adfa4e450c8c19c4dc41b7786760d2f389c269ab784708ebc0e1691085",
+  "index": "assets/index-5gVslHJ_.js",
+  "index_sha256": "d86d68c3ffd47b0c36f09f1529274d41d628af7ff56140f3f7e98982f9a1cfd7",
+  "index_bytes": 387066,
+  "convex": "https://handsome-rhinoceros-259.eu-west-1.convex.cloud",
+  "tar_sha256": "a365e04b4066c402e53d946ebc2bfdfbb5042682172389c2951c53eb728ee1dd",
+  "html": "Prerender de 10706 rutas producido en 585d69932 el 7/11/2026. No se ha vuelto a prerenderizar. Se reutiliza solo despues de verificar este certificado.",
+  "limitacion": "La igualdad es el AST estructural de los dos TSX, el resto del arbol entre esos commits, los 1348 assets y los 52484 ficheros del manifiesto. No afirma un prerender nuevo."
+}

@@ -1802,3 +1802,9 @@ export const COCHES_FERRARI: CocheComparador[] = [
     ]
   },
 ];
+
+/* cifras-ramas-711
+"notas": "cifras orientativas para 1.000 km/mes; consumo estimado ~15 l/100 km (WLTP no publicado); seguro en concreto y mantenimiento de superdeportivo V12",
+"notas": "cifras orientativas para 1.000 km/mes; consumo estimado ~15 l/100 km (WLTP no publicado asimismo); seguro y mantenimiento de descapotable V12",
+"notas": "cifras orientativas para 1.000 km además/mes; consumo combinado estimado ~10 l/100 en concreto km (WLTP no publicado); seguro también y mantenimiento de berlinetta PHEV",
+*/

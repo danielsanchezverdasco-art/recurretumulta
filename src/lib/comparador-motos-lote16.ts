@@ -437,7 +437,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     modelo: "Joymax Z 300",
     version: "2026",
     categoria: "Scooter",
-    precioDesde: 4599,
+    precioDesde: 3999,
     potenciaKw: 19.1,
     potenciaCv: 26,
     cilindradaCc: 278,
@@ -1081,7 +1081,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2026",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: 6490,
+    precioDesde: 6290,
     potenciaKw: 12.2,
     potenciaCv: 16.6,
     autonomiaKm: 220,
@@ -1455,12 +1455,12 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     modelo: "Vulcano",
     version: "2025",
     categoria: "Scooter",
-    precioDesde: 4999, // PVP oficial Cecotec España (cecotec.es), verificado 21/10/2026,
+    precioDesde: 4999, //  vulcano 4999 eur stock IVA 7/11/2026. Titanio agotado al mismo importe. Executive 5499 es otra moto.
     potenciaKw: 6,
     potenciaCv: 8.2,
-    autonomiaKm: null,
+    autonomiaKm: 151,
     autonomiaCiclo: null,
-    bateriaKwh: null,
+    bateriaKwh: 7.2, // 72 V y 100 Ah en la ficha; 7,2 kWh es la cuenta, no un rótulo de la página.
     velocidadMax: 120,
     ceroCincuenta: 3,
     pesoKg: null,
@@ -1468,20 +1468,20 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A1 o B+3 años",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["velocidadMax", "ceroCincuenta"],
+    aprox: ["ceroCincuenta"],
     pros: [
       "Motor de 6.000 W nominales con pico de 17.000 W, cifras de moto grande",
       "Tres modos de conducción: 70, 80 y 120 km/h para adaptarse al uso",
       "Aceleración de 0-50 km/h en menos de 3 segundos",
       "Diseño agresivo tipo maxiscooter que no pasa desapercibido",
-      "Marca española (Cecotec) con amplia red de servicio",
+      "Batería de 72 V y 100 Ah, unos 7,2 kWh, y hasta 151 km en la ficha de la tienda",
       "Ruedas de 14\" delante y 13\" detrás para estabilidad",
     ],
     contras: [
-      "Precio no confirmado oficialmente, genera incertidumbre",
+      "La tienda muestra 4.999 € con IVA y no lo llama PVP; la Executive Series, a 5.499 €, es otra moto",
       "La potencia pico de 17 kW puede requerir carnet A2 según homologación",
       "Marca nueva en motos, sin historial de fiabilidad a largo plazo",
-      "Autonomía no declarada oficialmente",
+      "Sin ciclo WLTP: los 151 km son el máximo que escribe la ficha comercial",
       "Peso no comunicado, pero por las cifras será elevado",
     ],
     curiosidades: [
@@ -1507,7 +1507,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     videoId: null,
     videoCanal: null,
     fuenteNombre: "Cecotec",
-    fuenteUrl: "https://cecotec.es/",
+    fuenteUrl: "https://cecotec.es/es/motocicletas-electricas/cecotec-vulcano-blancorojo",
     analisisSlug: null,
   },
   {
@@ -2145,7 +2145,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 125,
     categoria: "Deportiva",
-    precioDesde: 4999,
+    precioDesde: 5899,
     potenciaKw: 11.0,
     potenciaCv: 15.0,
     autonomiaKm: null,
@@ -2168,7 +2168,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
       "123 km/h de velocidad máxima medida",
     ],
     contras: [
-      "4.999 €: de las 125 deportivas más caras",
+      "5.899 €: de las 125 deportivas más caras",
       "142 kg: no está entre las más ligeras de su clase",
       "Postura racing exigente para el día a día",
       "Depósito de 11,5 litros: autonomía justa",
@@ -2557,7 +2557,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://mpracing.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "Cada 5.000 km o 6 meses (lo que ocurra antes)",
+      intervalo: "Cada 5.000 km o 6 meses",
       revisiones: [
         {
           nombre: "Revisión cada 5.000 km / 6 meses",
@@ -2630,7 +2630,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "8.000 km o 12 meses (lo que ocurra antes); primera revisión a los 1.600 km",
+      intervalo: "8.000 km o 12 meses; primera revisión a los 1.600 km",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -2769,7 +2769,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.triumphmotorcycles.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -2847,7 +2847,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://moto.suzuki.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -2927,7 +2927,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.bmw-motorrad.es/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -3006,7 +3006,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://motos.coches.net/noticias/yamaha-tenere-700-rally-2025-prueba-en-marruecos",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "10.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "10.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -3400,7 +3400,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3474,7 +3474,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3553,7 +3553,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3632,7 +3632,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3711,7 +3711,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -3790,7 +3790,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.harley-davidson.com/es/es/motorcycles/2025/index.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "1.600 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.600 km)",
@@ -4128,7 +4128,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "http://www.indianmotorcycle.es/101-scout/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "800 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "800 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -4209,7 +4209,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.indianmotorcycle-barcelona.com/sport-scout",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "800 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "800 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -4290,7 +4290,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "http://indianmotorcycle.es/super-chief-limited/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "800 km (primera) y cada 8.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "800 km (primera) y cada 8.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (800 km)",
@@ -4314,7 +4314,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1000,
     categoria: "Naked",
-    precioDesde: 11190,
+    precioDesde: 10990,
     potenciaKw: 112,
     potenciaCv: 152,
     autonomiaKm: null,
@@ -4431,7 +4431,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://super7moto.com/revista/salones/24949-triumph-anuncia-nuevas-mejoras-en-la-gama-tiger-1200.html",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -4572,7 +4572,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://moteo.es/la-triumph-scrambler-400-xc-ya-esta-aqui/",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "16.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "16.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -4908,7 +4908,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 853,
     categoria: "Custom",
-    precioDesde: 10525,
+    precioDesde: 11249,
     potenciaKw: 47.8,
     potenciaCv: 65,
     autonomiaKm: null,
@@ -5282,7 +5282,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://www.ducati.com/es",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",
@@ -5361,7 +5361,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     fuenteUrl: "https://soymotero.net",
     analisisSlug: null,
     planMantenimiento: {
-      intervalo: "12.000 km o 12 meses (lo que ocurra antes)",
+      intervalo: "12.000 km o 12 meses",
       revisiones: [
         {
           nombre: "Primera revisión (1.000 km)",

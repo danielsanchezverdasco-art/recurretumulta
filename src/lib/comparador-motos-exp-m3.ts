@@ -3163,3 +3163,4 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
     analisisSlug: "mondial-flat-track-125-2024-ficha-tecnica-precio",
   },
 ];
+

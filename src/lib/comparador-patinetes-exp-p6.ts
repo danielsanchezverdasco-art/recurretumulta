@@ -1,5 +1,5 @@
 // Lote P6 patinetes (05/10/2026) — último lote de patinetes.
-// 49 modelos reales verificados: Urban Glide (19), Hiley (7), Smartgyro (1),
+// 49 modelos reales verificados: Urban Glide (19), Hiley (7), Smartgyro (1)
 // Cecotec (7), Speedway (3), SXT (1), Segway (3), Navee (5), NIU (1), Ruptor (2).
 // Datos verificados en webs oficiales y retailers ES/EU; lo no verificado = null.
 // NO duplicar: comprobado contra comparador-patinetes-data.ts y exp-p1..p5.
@@ -1536,9 +1536,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     mantenimientoDIY: {
       intervaloRevision: "Verificación periódica de holguras, neumáticos y ajuste de tornillos; ante cualquier anomalía, acudir a un Taller Oficial smartGyro",
       trucos: [
-        "Tiempo de carga de unas 4–5 horas; no dejarlo en carga más de 3 horas después de que el LED del cargador pase a verde",
+        "Tiempo de carga máximo de unas 8 horas para reponer los 768 Wh; desconectar el cargador cuando el LED pase a verde",
         "Usar siempre el cargador original y cargar con el patinete apagado",
-        "No dejarlo cargando toda la noche",
+        "Si la carga completa lleva toda la noche, desconectarlo por la mañana al ver el LED en verde",
       ],
     },
   },
@@ -1548,7 +1548,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Doble Y85 2x2 XXL Connected",
-    precioEur: 999, // tarifa oficial España (verificado 20/10/2026)
+    precioEur: 999, // El texto de financiación del listado del 7/11/2026 llama PVP a 999 eur. En stock.
     potenciaNominalW: 1000,
     potenciaPicoW: 2100,
     autonomiaKm: 85,
@@ -1560,7 +1560,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     bateriaWh: 874,
     frenos: "Doble disco + e-ABS",
     neumaticos: "10\" off-road tubeless",
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1131
     foto: "/media/patinetes/cecotec-bongo-doble-y85-2x2-xxl-connected-1.webp",
     galeria: [
       { src: "/media/patinetes/cecotec-bongo-doble-y85-2x2-xxl-connected-2.webp", alt: "Detalle del doble motor del Cecotec Bongo Doble Y85 2x2 XXL Connected", ancho: 1200, alto: 800 },
@@ -1611,19 +1611,19 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie Doble Z75",
-    precioEur: 1329, // tarifa oficial España (verificado 20/10/2026)
+    precioEur: 1199, // Financiación del listado 7/11/2026: «PVP 1199.00€». La tarjeta muestra 1.329 tachado (10 %). En stock. M.O.M. 42,5 kg.
     potenciaNominalW: 1000,
     potenciaPicoW: 2200,
     autonomiaKm: 75,
     autonomiaRealKm: 51,
     velocidadMaxKmh: 25,
-    pesoKg: null,
+    pesoKg: 42.5,
     cargaMaxKg: 120,
     tiempoCargaH: null,
     bateriaWh: 960,
     frenos: "Triple freno: doble disco + e-ABS",
     neumaticos: "10,5\"",
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1052
     foto: "/media/patinetes/cecotec-bongo-serie-doble-z75-1.webp",
     galeria: [
       { src: "/media/fotos-reales/cecotec-bongo-serie-doble-z75/cecotec-bongo-serie-doble-z75-real-1.webp", alt: "Detalle del Cecotec Bongo Serie Doble Z75", ancho: 1200, alto: 800 },
@@ -1639,17 +1639,17 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       "Tracción doble para cualquier pendiente",
     ],
     contras: [
-      "1.329 € en la tienda oficial de Cecotec: precio alto",
+      "1.199 € es el PVP que escribe la financiación de la tienda; 1.329 € sale tachado",
       "No aparece con certificación verificada en el listado oficial de la DGT",
-      "Peso no publicado; será elevado",
+      "42,5 kg en orden de marcha, según la propia tarjeta",
       "Tiempo de carga no publicado",
       "Excesivo para uso urbano normal",
-      "El Z85 da más autonomía por poco más",
+      "El Z85 anuncia 85 km y 44 kg, y su tarjeta marca 1.299 € sin llamarlo PVP",
     ],
     veredicto:
-      "El Doble Z75 es el Bongo intermedio de tracción total: 2.200 W y 960 Wh. Bien equipado, pero el Z85 ofrece más batería por una diferencia pequeña y la certificación DGT no está verificada. Compra con cabeza.",
+      "El Doble Z75 declara 75 km y 42,5 kg. La financiación de la tienda llama PVP a 1.199 € y deja 1.329 € tachado. El Z85 no sale 30 € más barato.",
     fuenteNombre: "Cecotec",
-    fuenteUrl: "https://www.cecotec.es",
+    fuenteUrl: "https://cecotec.es/es/patinetes-electricos/bongo-serie-doble-z-75",
     mantenimientoDIY: {
       intervaloRevision: "Revisiones visuales periódicas de chasis, horquilla, neumáticos y frenos; comprobar la presión de los neumáticos antes de cada uso",
       presionNeumaticos: "36 PSI / 2,5 bares / 250 kPa (presión óptima según el manual oficial)",
@@ -1674,19 +1674,19 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie Doble Z85",
-    precioEur: 1299, // tarifa oficial España (verificado 20/10/2026)
+    precioEur: 1299, //  z85 1299 eur agotado IVA 7/11/2026.
     potenciaNominalW: null,
     potenciaPicoW: 2200,
     autonomiaKm: 85,
     autonomiaRealKm: 58,
     velocidadMaxKmh: 25,
-    pesoKg: null,
+    pesoKg: 44, // M.O.M. en la tarjeta del listado del 7/11/2026.
     cargaMaxKg: 120,
     tiempoCargaH: null,
     bateriaWh: 1200,
     frenos: "Triple freno",
     neumaticos: "10,5\"",
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1053
     foto: "/media/patinetes/cecotec-bongo-serie-doble-z85-1.webp",
     galeria: [
       { src: "/media/fotos-reales/cecotec-bongo-serie-doble-z85/cecotec-bongo-serie-doble-z85-real-1.webp", alt: "Detalle de la batería del Cecotec Bongo Serie Doble Z85", ancho: 1200, alto: 800 },
@@ -1801,7 +1801,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie X65 Connected",
-    precioEur: 499,
+    precioEur: 499, //  x65 499 eur agotado IVA 7/11/2026.
     potenciaNominalW: 500,
     potenciaPicoW: 1000,
     autonomiaKm: 65,
@@ -1813,7 +1813,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     bateriaWh: 576,
     frenos: "Doble freno de disco + e-ABS con frenada regenerativa",
     neumaticos: "Neumáticos tubeless de 10\"",
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1018, ref. 7109
     foto: "/media/patinetes/cecotec-bongo-x65-connected-oficial.webp",
     galeria: [],
     aprox: [
@@ -1925,7 +1925,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cecotec",
     marca: "Cecotec",
     modelo: "Bongo D30 XL Connected",
-    precioEur: 249,
+    precioEur: 249, //  d30xl 249 eur agotado IVA 7/11/2026.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 30,
@@ -1937,7 +1937,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     bateriaWh: 270,
     frenos: "Freno eléctrico delantero + disco trasero",
     neumaticos: "10\" inflables",
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1100
     foto: "/media/patinetes/cecotec-bongo-d30-xl-connected-1.webp",
     galeria: [
       { src: "/media/patinetes/cecotec-bongo-d30-xl-connected-2.webp", alt: "Detalle del Cecotec Bongo D30 XL Connected", ancho: 1200, alto: 800 },

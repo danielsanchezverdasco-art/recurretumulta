@@ -5,6 +5,7 @@
     "/",
     "/blog",
     "/multas",
+    "/comunidades",
     "/privacidad",
     "/terminos",
     "/cookies",
@@ -26,6 +27,8 @@
     "/comparador-patinetes",
     "/comparador-motos",
     "/fichas-tecnicas",
+    "/fichas-tecnicas/caravanas",
+    "/fichas-tecnicas/autocaravanas",
     "/favoritos-del-mes",
     "/comparador/mas-vendidos",
     "/glosario-multa",
@@ -64,6 +67,9 @@
     "/newsletter",
     "/juego-monos",
     "/juego-monos/bases",
+    "/coches",
+    "/motos",
+    "/patinetes",
     "/autocaravanas",
     "/campers",
     "/caravanas",
@@ -167,6 +173,10 @@
       "prefix": "/patinetes/"
     },
     {
+      "file": "scripts/caravanas-slugs.txt",
+      "prefix": "/caravanas/"
+    },
+    {
       "file": "scripts/rankings-slugs.txt",
       "prefix": "/rankings/"
     },
@@ -206,7 +216,9 @@
     "/multas/melilla",
     "/multas/san-sebastian",
     "/multas/vitoria",
-    "/patinetes/turboant-thunder-t1"
+    "/patinetes/turboant-thunder-t1",
+    "/tienda",
+    "/tienda/carrito"
   ],
   "baseline": {
     "stableDir": "~/workspace/backups/dist-20261008-preprod",

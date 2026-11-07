@@ -126,7 +126,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "Yangwang Europa 2027",
       "coche chino que flota"
     ],
-    "content": `<img src=/media/fotos-reales/yangwang-byd-u8-u9-europa-2027/yangwang-desconocidos-hero.webp alt=SUV eléctrico de lujo chino de gran tamaño aparcado frente a rascacielos de cristal al anochecer>
+    "content": `<img src=/media/yangwang-u8-commons.webp alt=SUV eléctrico de lujo chino de gran tamaño aparcado frente a rascacielos de cristal al anochecer>
 
 **¿Buscas solo los datos?** <a href=/coches/yangwang-byd-u8-u9-europa-2027/>Ver ficha técnica del Yangwang U8</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1295,4 +1295,5 @@ Fuentes: <a href=https://autonews.gasgoo.com/articles/news/hongqis-first-hardcor
 Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
   },
 ];
+
 

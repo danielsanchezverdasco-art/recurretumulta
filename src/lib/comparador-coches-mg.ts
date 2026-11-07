@@ -88,6 +88,29 @@ export const COCHES_MG: CocheComparador[] = [
     ],
     fuenteNombre: "MG España (nota de prensa vía apmc.cat)",
     fuenteUrl: "https://apmc.cat/apmc/nuevos-mg3-y-mg3-hybrid-my-265-desde-13-990-y-17-840-e/",
+euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: "https://www.euroncap.com/assessments/mg/3/1057/",
+      nota: "Cuatro estrellas; el gasolina está incluido.",
+    },
+    planMantenimiento: {
+          intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+          revisiones: [
+            {
+              nombre: "Revisión anual / 15.000 km",
+              queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general",
+              costeAproxEur: null,
+            },
+            {
+              nombre: "Revisión 60.000 km",
+              queSeCambia: "Lo anterior + filtro de aire + líquido de frenos + bujías",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Plan de MG no contrastado.",
+        }
   },
   {
     id: "mg-zs-gasolina-2025-precio-ficha-tecnica",
@@ -322,6 +345,29 @@ export const COCHES_MG: CocheComparador[] = [
     ],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/mg/hs/2025/estandar/hev/hs-hybrid-plus-comfort/datos",
+    euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Ficha del HS no contrastada.",
+    },
+    planMantenimiento: {
+          intervalo: "12 meses o 15.000 km (lo que antes ocurra)",
+          revisiones: [
+            {
+              nombre: "Revisión anual / 15.000 km",
+              queSeCambia: "Aceite + filtro de aceite + filtro de polen + inspección general + inspección del sistema híbrido",
+              costeAproxEur: null,
+            },
+            {
+              nombre: "Revisión 60.000 km",
+              queSeCambia: "Lo anterior + filtro de aire + líquido de frenos + bujías",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Plan de MG no contrastado.",
+        }
   },
   {
     id: "mg4-electric-standard-2025-precio-ficha-tecnica",

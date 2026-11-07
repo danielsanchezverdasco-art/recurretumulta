@@ -1,0 +1,29 @@
+matriz 894 ramas escrita en docs/inventario/matriz-ramas.csv
+ficheros ausentes en HEAD: 7464
+radares md recuperados 535, sin fuente 0
+blogs nuevos 36 (slugs +513), saltados por slug ya existente 21
+autocaravanas nuevas 109 (ids +15)
+ALTA origin/niky-fuentes-patinetes-2611 docs/adsense-2610/fuentes-patinetes-2611.csv
+ALTA origin/niky-seo-1026 docs/seo/entrega-seo-1026.csv
+ALTA origin/niky-seo-1026 docs/seo/propuesta-301-1026.csv
+ALTA origin/niky-seo-1102 docs/seo/barra-final-1102.csv
+ALTA origin/niky-seo-1102 docs/seo/entrega-seo-1102.csv
+ALTA origin/niky-seo-1102 docs/seo/latam-v800-1102.md
+ALTA origin/radar-20261105-1258 public/media/motos/ducati-diavel-v4-s-2027-ficha-tecnica-precio-hero.webp
+ALTA origin/radar-20261105-1258 public/media/motos/ducati-diavel-v4-s-2027-ficha-tecnica-precio-oficial.webp
+ALTA origin/radar-20261105-1258 src/lib/blog-posts-radar-20261105-1258.ts
+ALTA origin/radar-20261105-1758 public/media/omoda-5-ev-2027-renovacion-precio-autonomia-hero.webp
+ALTA origin/radar-20261105-1758 public/media/omoda-5-ev-2027-renovacion-precio-autonomia-interior.webp
+ALTA origin/radar-20261105-1758 public/media/omoda-5-ev-2027-renovacion-precio-autonomia-trasera.webp
+ALTA origin/radar-20261105-1758 public/media/omoda-9-shs-black-edition-200-unidades-precio-hero.webp
+ALTA origin/radar-20261105-1758 src/lib/blog-posts-radar-20261105-1758.ts
+ALTA origin/radar-20261105-2258 public/media/renault-4-e-tech-2027-415-km-roland-garros-precio-hero.webp
+ALTA origin/radar-20261105-2258 public/media/renault-4-e-tech-2027-415-km-roland-garros-precio-interior.webp
+ALTA origin/radar-20261105-2258 public/media/renault-4-e-tech-2027-415-km-roland-garros-precio-lateral.webp
+ALTA origin/radar-20261105-2258 src/lib/blog-posts-radar-20261105-2258.ts
+ALTA origin/niky-boe-zbe-rd953-20261106 src/lib/blog-posts-radar-boe-20261106.ts
+ALTA origin/radar-20261106-1358 src/lib/blog-posts-radar-20261106-1358.ts
+ALTA origin/radar-20261106-1858 src/lib/blog-posts-radar-20261106.ts
+merges limpios 43 (de ellos en no-tocar 6), iguales 182, conflictos 573, rechazados 0
+fotos citadas recuperadas 240, placeholder no copiado 55, sin blob 294
+excepciones no-tocar frente a main (worktree): 63

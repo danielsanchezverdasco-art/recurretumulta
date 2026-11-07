@@ -11,19 +11,19 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo D40 XL Connected",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: 299, //  d40xl 299 eur agotado IVA 7/11/2026. 458 era de terceros.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 40,
     autonomiaRealKm: 27,
     velocidadMaxKmh: 25,
-    pesoKg: null,
+    pesoKg: 17.4,
     cargaMaxKg: null,
     tiempoCargaH: null,
     bateriaWh: 360,
     frenos: "Freno eléctrico delantero + freno de disco trasero",
     neumaticos: 'Neumáticos hinchables de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1101
     foto: "/media/patinetes/cecotec-bongo-d40-xl-connected-1.webp",
     galeria: [
       {
@@ -41,11 +41,11 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     aprox: ["autonomiaRealKm"],
     pros: ["Pack de 360 Wh (36 V y 10 Ah) con el que Cecotec homologa 40 km en su prueba a 15 km/h constantes, en llano y con 75 kg de carga total", "Motor de 350 W nominales y 700 W de pico orientado, según la marca, a salvar rampas de hasta el 15 % sin salir del formato urbano", "Chasis de aluminio con sellado IPX4 frente a salpicaduras, pantalla LCD en el manillar y conjunto plegable para guardarlo en un rincón", "La coletilla Connected aquí sí aporta: enlace Bluetooth con el móvil para bloquearlo, seguir trayectos y consultar estadísticas, con la app gratuita durante dos años", "El manual desglosa la autonomía por modo de conducción —55 km en Peatón, 40 km en Confort y 32 km en Sport, medidos con un usuario de 80 kg en superficie llana—, así que la cifra útil depende del modo elegido y no solo de los 40 km del titular"],
-    contras: ["Esos 40 km oficiales nacen de una prueba a velocidad constante en llano; en uso urbano esta ficha estima unos 27 km, así que el trayecto diario hay que planearlo con ese segundo número", "Orientar su precio cuesta: Cecotec lo lista agotado a 299 € en su tienda, mientras esta ficha lo aproxima en 458 € a través de terceros, dos cifras que conviene contrastar antes de pagar", "Ningún eje monta amortiguación en esta versión D40 XL: juntas de acera, rejillas y adoquinado llegan casi íntegros a manos y pies, y solo el neumático hinchable pone algo de filtro", "Pesa 17,4 kg según la tabla de especificaciones de su propio manual, un dato que la comparativa de la web de Cecotec ni siquiera recoge: subirlo por escaleras a diario se hace notar", "El certificado de circulación de la DGT no consta verificado para esta referencia: la marca afirma que cumple la normativa española de circulación, que no equivale a exhibir el certificado del modelo"],
+    contras: ["Esos 40 km oficiales nacen de una prueba a velocidad constante en llano; en uso urbano esta ficha estima unos 27 km, así que el trayecto diario hay que planearlo con ese segundo número", "La tienda de Cecotec marca 299 € con IVA y lo da por agotado; los 458 € salían de catálogos de terceros y no son el PVP", "Ningún eje monta amortiguación en esta versión D40 XL: juntas de acera, rejillas y adoquinado llegan casi íntegros a manos y pies, y solo el neumático hinchable pone algo de filtro", "Pesa 17,4 kg según la tabla de especificaciones de su propio manual, un dato que la comparativa de la web de Cecotec ni siquiera recoge: subirlo por escaleras a diario se hace notar", "El certificado de circulación de la DGT no consta verificado para esta referencia: la marca afirma que cumple la normativa española de circulación, que no equivale a exhibir el certificado del modelo"],
     veredicto:
-      "El Bongo D40 XL Connected (referencia 07354 de Cecotec) es la variante pensada para alargar el trayecto sin cambiar de gama: 360 Wh, 40 km declarados bajo una prueba muy favorable —15 km/h, llano, 75 kg— y app con dos años gratuitos. A cambio viaja sin suspensión, su autonomía útil se queda en unos 27 km estimados y su precio baila entre los 299 € oficiales, ya agotado, y los 458 € aproximados de esta ficha. Encaja si el recorrido es llano y el suelo decente; si la ruta es de adoquín o hay que portearlo, sus carencias pesan más que su batería.",
-    fuenteNombre: "MediaMarkt",
-    fuenteUrl: "https://www.mediamarkt.es/",
+      "El Bongo D40 XL Connected (referencia 07354 de Cecotec) es la variante pensada para alargar el trayecto sin cambiar de gama: 360 Wh, 40 km declarados bajo una prueba muy favorable —15 km/h, llano, 75 kg— y app con dos años gratuitos. A cambio viaja sin suspensión, su autonomía útil se queda en unos 27 km estimados y la tienda muestra 299 € con IVA, agotado, y no lo etiqueta como PVP. Encaja si el recorrido es llano y el suelo decente; si la ruta es de adoquín o hay que portearlo, sus carencias pesan más que su batería.",
+    fuenteNombre: "Cecotec",
+    fuenteUrl: "https://cecotec.es/es/patinetes-electricos/bongo-d40-xl-connected",
     mantenimientoDIY: {"actualizacionFirmware": "Todo lo conectado de este D40 XL pasa por la aplicación de Cecotec enlazada por Bluetooth: desde el teléfono se bloquea el patinete, se consultan los trayectos y se instala el firmware que la marca vaya publicando", "ajusteFrenosPasos": ["Si la maneta del disco trasero va ganando recorrido, gira el tensor roscado situado junto a ella hasta recuperar tacto, comprobando después que la rueda gira libre sin rozamiento continuo", "Para volver a centrar esa pinza trasera, suelta sus dos tornillos de anclaje, mantén la maneta apretada a fondo y reaprieta con el disco ya alineado entre las pastillas", "Delante actúa el freno electrónico eABS y no hay cable que regular: si la detención se alarga, confirma desde la app que el firmware está al día antes de culpar al conjunto mecánico trasero"], "aprieteTornilleria": "Con las herramientas de montaje que Cecotec incluye en la caja, repasa el cierre del sistema de plegado, la tija que sostiene el manillar con la pantalla LCD y la tornillería de anclaje de ambas ruedas", "presionNeumaticos": "El manual de este modelo pide comprobarla antes de cada uso y advierte de que rodar bajo de presión acorta la vida útil de la batería; la cifra correcta es la grabada en el flanco de cada cubierta de 10 pulgadas", "trucos": ["El manual del D40 XL Connected recomienda cargar la batería después de cada uso, sin esperar a que se agote por completo", "Para recargar, solo la unidad de alimentación suministrada con el patinete, de referencia CP4215, y baterías originales Cecotec compatibles con este modelo", "La carga debe hacerse con temperatura ambiente de entre 0 °C y 40 °C, el intervalo que el propio manual fija para que el patinete rinda de forma eficiente"]},
   },
   {
@@ -54,19 +54,19 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo D20 XL Connected",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
-    potenciaNominalW: null,
-    potenciaPicoW: null,
-    autonomiaKm: null,
+    precioEur: 219, //  d20xl 219 eur stock IVA 7/11/2026. Pixmania pedía 257,65.
+    potenciaNominalW: 300,
+    potenciaPicoW: 630,
+    autonomiaKm: 20,
     autonomiaRealKm: null,
     velocidadMaxKmh: 25,
-    pesoKg: null,
+    pesoKg: 15.75,
     cargaMaxKg: null,
     tiempoCargaH: null,
-    bateriaWh: null,
-    frenos: null,
-    neumaticos: null,
-    certificadoDgt: null,
+    bateriaWh: 180,
+    frenos: "Freno eléctrico delantero y disco trasero",
+    neumaticos: 'Neumáticos hinchables de 10"',
+    certificadoDgt: true, // registro DGT A1099
     foto: "/media/patinetes/cecotec-bongo-d20-xl-connected-1.webp",
     galeria: [
       {
@@ -84,24 +84,21 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     aprox: [],
     pros: [
-      "Precio verificado de 257,65 €: de los Bongo Connected más baratos",
-      "Versión Connected con app para bloqueo y estadísticas",
-      "Gama D20: ligera y manejable para el día a día",
-      "Cecotec cumple la normativa europea de VMP",
-      "Ideal como primer patinete sin gran inversión",
+      "300 W nominales y 630 W de pico, con pendiente declarada del 15 %",
+      "Batería de 180 Wh (36 V y 5 Ah) y 20 km en la prueba de la marca",
+      "Pesa 15,75 kg y calza ruedas hinchables de 10 pulgadas",
+      "La app Connected incluye dos años de control desde el móvil",
     ],
     contras: [
-      "Sin precio oficial: Cecotec no publica un PVP verificable del Bongo D20 XL Connected",
-      "Cecotec no publica la ficha técnica detallada de esta variante",
-      "Autonomía y potencia sin verificar: imposible compararlo con datos",
-      "Sin certificado DGT verificado",
-      "Probablemente sin suspensión, como el resto de la gama D20",
-      "Batería más modesta que la del D40 XL",
+      "Esos 20 km salen de la prueba a 15 km/h, en llano y con 75 kg",
+      "La página del modelo no describe suspensión",
+      "El sello de homologación de la tienda no sustituye al certificado de la DGT",
+      "180 Wh dejan poco margen si el trayecto es de ida y vuelta",
     ],
     veredicto:
-      "El D20 XL Connected se compra por precio: 258 € con app Connected es difícil de batir. Pero la ausencia de ficha técnica publicada obliga a conformarse con lo básico; si necesitas datos (autonomía, peso), mira el D40 XL.",
-    fuenteNombre: "Pixmania",
-    fuenteUrl: "https://www.pixmania.com/",
+      "El D20 XL Connected sale a 219 euros en cecotec.es y ya trae motor, batería y peso. Sirve para el trayecto corto; quien necesite los 40 km declarados del D40 XL ya está en otro patinete.",
+    fuenteNombre: "Cecotec",
+    fuenteUrl: "https://cecotec.es/es/patinetes-electricos/bongo-d20-xl-connected",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app oficial de Cecotec (conectividad Bluetooth)",
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
@@ -113,7 +110,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo D20 Mobile",
-    precioEur: 229, // PVP oficial Cecotec España (cecotec.es), verificado 21/10/2026,
+    precioEur: 249, //  d20mobile 249 eur stock IVA 7/11/2026. El 21/10 marcaba 229.
     potenciaNominalW: 250,
     potenciaPicoW: 500,
     autonomiaKm: 20,
@@ -141,7 +138,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "Motor de 250 W: suficiente para ciudad llana y consumo mínimo",
       "Batería compacta de 36 V y 5 Ah (180 Wh): carga rápida y ligera",
@@ -152,14 +149,14 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     contras: [
       "Autonomía declarada de solo 20 km (unos 14 reales): último kilómetro",
       "250 W nominales: las cuestas pronunciadas le cuestan",
-      "Sin precio oficial publicado",
+      "Sube a 249 euros; el 21 de octubre la misma página marcaba 229",
       "Sin certificado DGT verificado",
       "Batería pequeña: no apto para trayectos largos",
     ],
     veredicto:
-      "El D20 Mobile es el Bongo minimalista: 250 W y 20 km para quien solo necesita el último kilómetro. Barato de mantener y fácil de cargar, pero no le pidas más.",
-    fuenteNombre: "PlanetOutlet",
-    fuenteUrl: "https://www.planetoutlet.es/",
+      "El D20 Mobile es el Bongo minimalista: 250 W y 20 km para quien solo necesita el último kilómetro. Cecotec lo cobra a 249 euros.",
+    fuenteNombre: "Cecotec",
+    fuenteUrl: "https://cecotec.es/es/patinetes-electricos/bongo-d20-mobile",
     mantenimientoDIY: {
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
       ajusteFrenosPasos: [
@@ -177,7 +174,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo Serie S Infinity",
-    precioEur: 369,
+    precioEur: null, // El listado de patinetes del 7/11/2026 no incluye el slug serie-s-infinity. No se reconfirma 422,90.
     potenciaNominalW: 350,
     potenciaPicoW: 750,
     autonomiaKm: 30,
@@ -189,7 +186,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 281,
     frenos: "Freno de disco + e-ABS con frenada regenerativa",
     neumaticos: 'Neumáticos tubeless de 10"',
-    certificadoDgt: true,
+    certificadoDgt: null, // Serie S Infinity no está en la lista DGT
     foto: "/media/patinetes/cecotec-bongo-serie-s-infinity-1.webp",
     galeria: [
       {
@@ -221,8 +218,8 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     veredicto:
       "El Serie S Infinity equilibra la gama Bongo: homologación DGT verificada, ruedas tubeless y e-ABS regenerativo con 750 W de pico. Y si el precio acompaña, es uno de los Cecotec más redondos.",
-    fuenteNombre: "tradeinn",
-    fuenteUrl: "https://www.tradeinn.com/",
+    fuenteNombre: "Cecotec",
+    fuenteUrl: "https://cecotec.es/es/patinetes-electricos/bongo-serie-s-infinity",
     mantenimientoDIY: {
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
       ajusteFrenosPasos: [
@@ -240,7 +237,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo GS50 XXL Connected",
-    precioEur: 369,
+    precioEur: 369, //  gs50 369 eur agotado IVA 7/11/2026.
     potenciaNominalW: 350,
     potenciaPicoW: 800,
     autonomiaKm: 50,
@@ -252,7 +249,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 450,
     frenos: "Freno de disco trasero + eABS delantero",
     neumaticos: 'Neumáticos de 10" con cámara',
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1138
     foto: "/media/patinetes/cecotec-bongo-gs50-xxl-connected-1.webp",
     galeria: [
       {
@@ -275,7 +272,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "Doble suspensión para ciudad con baches",
       "Base ultrawide: más estabilidad y comodidad de pies",
       "Soporta hasta 120 kg de carga",
-      "PVP oficial de 369 €: gran relación autonomía/precio",
+      "La tarjeta muestra 369 € y no escribe PVP",
     ],
     contras: [
       "Pesa 27 kg: de los Bongo más pesados, se nota al cargarlo",
@@ -287,7 +284,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     veredicto:
       "El GS50 XXL Connected es el gran rutero de Cecotec: 50 km, doble suspensión y 120 kg de carga por 369 €. Pesa 27 kg, pero si buscas autonomía barata con homologación DGT, es imbatible en su marca.",
     fuenteNombre: "Cecotec",
-    fuenteUrl: "https://cecotec.es/",
+    fuenteUrl: "https://cecotec.es/es/patinetes-electricos/bongo-gs50-xxl-connected",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app oficial de Cecotec (conectividad Bluetooth)",
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar, los ejes de las ruedas y los tornillos de la base ancha",
@@ -306,19 +303,19 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie A Advance Connected Max",
-    precioEur: 369,
+    precioEur: null, // PDF ref. 7029 sin importe. 369 eur era un retailer, no una tarjeta Cecotec.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 45,
     autonomiaRealKm: 30,
     velocidadMaxKmh: 25,
-    pesoKg: 15,
+    pesoKg: null, // PDF ref. 7029 imprime 17,2 kg y, en otra línea, 14,7 kg. Ninguno se da por confirmado.
     cargaMaxKg: null,
     tiempoCargaH: 4.5,
     bateriaWh: 460,
     frenos: "Triple sistema de frenado: disco, eléctrico y manual trasero",
     neumaticos: 'Neumáticos tubeless de 8,5"',
-    certificadoDgt: true,
+    certificadoDgt: null, // ref. 7029 no está en la lista DGT
     foto: "/media/patinetes/cecotec-bongo-serie-a-advance-connected-max-1.webp",
     galeria: [
       {
@@ -338,7 +335,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     pros: [
       "Homologado DGT: certificado verificado",
       "45 km declarados con batería de 460 Wh (36 V y 12,8 Ah)",
-      "Solo 15 kg: de los más ligeros con esta autonomía",
+      "El PDF no deja un peso único: imprime 17,2 kg y 14,7 kg",
       "Carga en 4-5 horas, rápido para su batería",
       "Triple frenada: disco, eléctrico y manual trasero",
       "App con bloqueo antirrobo y configuración de frenada",
@@ -351,9 +348,9 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "El acabado Advance se paga frente al Serie A básico",
     ],
     veredicto:
-      "El Advance Connected Max es el Serie A definitivo: 45 km, 15 kg y homologación DGT. Si pesa poco y llega lejos es lo que buscas, este es tu Bongo.",
-    fuenteNombre: "PlanetOutlet",
-    fuenteUrl: "https://www.planetoutlet.es/",
+      "El Advance Connected Max declara 45 km. El PDF no fija el peso: aparecen 17,2 kg y 14,7 kg. Homologación DGT sin el certificado a la vista.",
+    fuenteNombre: "Cecotec",
+    fuenteUrl: "https://cecotec.es/images/manuales/FichaTecnica_SerieAConnectedAdvanceMax.pdf",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app oficial de Cecotec (bloqueo, frenada y estadísticas)",
       aprieteTornilleria: "Revisar el mecanismo de plegado Mazinger, la potencia del manillar y los ejes de las ruedas",
@@ -373,7 +370,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo D40 XL Suspension Connected",
-    precioEur: 329, // tarifa oficial España (verificado 20/10/2026),
+    precioEur: 329, //  suspension 329 eur agotado IVA 7/11/2026. Pixmania pedía 386.
     potenciaNominalW: 350,
     potenciaPicoW: 800,
     autonomiaKm: 40,
@@ -385,7 +382,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 360,
     frenos: "Freno eléctrico delantero + freno de disco trasero",
     neumaticos: 'Neumáticos hinchables de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1102
     foto: "/media/patinetes/cecotec-bongo-d40-xl-suspension-connected-1.webp",
     galeria: [
       {
@@ -401,13 +398,13 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["precioEur", "autonomiaRealKm", "potenciaNominalW", "potenciaPicoW", "bateriaWh"],
+    aprox: ["autonomiaRealKm", "potenciaNominalW", "potenciaPicoW", "bateriaWh"],
     pros: ["Doble amortiguación, delante y detrás: es lo que separa a esta referencia 09267 del D40 XL Connected a secas, y se agradece al cruzar juntas de dilatación, rejillas y tramos de adoquín", "El techo de potencia sube a 800 W de pico con 350 W nominales según Cecotec, 100 W más que los 700 W del D40 XL sin suspensión, para encarar rampas moderadas sin cambiar de batería", "Conserva el pack de 360 Wh (36 V y 10 Ah) y los 40 km declarados, cifra que la marca obtiene a 15 km/h constantes, en llano, a 25 °C y con 75 kg de carga total", "Tres modos elegibles desde el display, cada uno con su velocidad y su alcance en el manual: Peatón limita a 6 km/h y anuncia 55 km, Confort llega a 18 km/h con 40 km y Sport abre hasta los 25 km/h", "La parte Connected suma la aplicación de Cecotec gratuita durante dos años para gobernar funciones y seguir trayectos desde el móvil, y el conjunto añade intermitentes, pantalla LCD y sellado IPX4 contra salpicaduras"],
-    contras: ["El manual sí publica el peso y es la cruz de esta versión: 24 kg, frente a los 17,4 kg del D40 XL Connected sin suspensión; cargarlo hasta un piso sin ascensor deja de ser un trámite", "Entre el titular comercial y la calle hay 13 km de diferencia: la cifra útil que estima esta ficha son unos 27 km reales, no los 40 km de la prueba controlada de Cecotec", "Precio enredado: la tienda de Cecotec lo lista a 329 € pero agotado, mientras esta ficha lo aproxima en 386 € a través de Pixmania; conviene contrastar ambas cifras antes de pagar", "Cecotec rotula este modelo como homologado por la DGT en su propia página, pero la ficha mantiene el certificado sin verificar: antes de darlo por cerrado, toca pedir el certificado de circulación de la referencia 09267", "El techo de carga baila entre fuentes de la propia marca: el manual fija 100 kg de usuario máximo y la comparativa web de Cecotec anuncia 120 kg, sin que haya una cifra única a la que agarrarse"],
+    contras: ["El manual sí publica el peso y es la cruz de esta versión: 24 kg, frente a los 17,4 kg del D40 XL Connected sin suspensión; cargarlo hasta un piso sin ascensor deja de ser un trámite", "Entre el titular comercial y la calle hay 13 km de diferencia: la cifra útil que estima esta ficha son unos 27 km reales, no los 40 km de la prueba controlada de Cecotec", "La tienda marca 329 € con IVA y lo da por agotado; 386 € era el precio de Pixmania, no el PVP", "Cecotec rotula este modelo como homologado por la DGT en su propia página, pero la ficha mantiene el certificado sin verificar: antes de darlo por cerrado, toca pedir el certificado de circulación de la referencia 09267", "El techo de carga baila entre fuentes de la propia marca: el manual fija 100 kg de usuario máximo y la comparativa web de Cecotec anuncia 120 kg, sin que haya una cifra única a la que agarrarse"],
     veredicto:
-      "El D40 XL Suspension Connected (referencia 09267 de Cecotec) es el D40 XL pensado para calles malas: conserva la batería de 360 Wh y los 40 km declarados, pero añade doble amortiguación en ambos ejes, intermitentes y un pico oficial de 800 W, por 386 € aproximados en terceros —329 € en la tienda de la marca, donde figura agotado—. El peaje está en su propio manual: 24 kg de peso y recargas de 5 a 6 horas. Encaja si el trayecto diario es largo y el firme castiga; si hay que portearlo o subir escaleras cada día, el D40 XL sin suspensión, con sus 17,4 kg, sigue siendo la compra sensata.",
-    fuenteNombre: "Pixmania",
-    fuenteUrl: "https://www.pixmania.com/",
+      "El D40 XL Suspension Connected (referencia 09267 de Cecotec) es el D40 XL pensado para calles malas: conserva la batería de 360 Wh y los 40 km declarados, pero añade doble amortiguación en ambos ejes, intermitentes y un pico oficial de 800 W, por el PVP de 329 €, agotado en la tienda de la marca. El peaje está en su propio manual: 24 kg de peso y recargas de 5 a 6 horas. Encaja si el trayecto diario es largo y el firme castiga; si hay que portearlo o subir escaleras cada día, el D40 XL sin suspensión, con sus 17,4 kg, sigue siendo la compra sensata.",
+    fuenteNombre: "Cecotec",
+    fuenteUrl: "https://cecotec.es/es/patinetes-electricos/bongo-d40-xl-suspension-connected",
     mantenimientoDIY: {"actualizacionFirmware": "El enlace con el teléfono arranca escaneando el código QR que el manual reserva a la descarga de la aplicación de Cecotec y a su guía de vinculación; desde esa app se gobiernan las funciones de esta 09267 y se gestiona su software", "aprieteTornilleria": "Las tuercas autorroscantes y demás fijaciones pierden eficacia con el uso y pueden necesitar reapriete, advierte el manual; en esta versión hay que vigilar además los anclajes de las dos suspensiones, que son las piezas que trabajan en cada bache", "ajusteFrenosPasos": ["Comprueba que el disco trasero conserve buen estado y quede alineado con su pinza: el manual incluye ese control entre las tareas del usuario y la caja trae una llave Allen pensada para facilitar el ajuste", "Trata las pastillas como lo que el propio manual declara que son, consumibles: cuando su vida útil llegue al final toca sustituirlas, no seguir apurando el conjunto", "Delante no hay disco que centrar, porque ahí actúa el freno electrónico eABS: una detención anómala en ese eje se investiga desde la electrónica y la aplicación, no con la llave Allen"], "presionNeumaticos": "Antes de salir, el manual manda comprobar cómo están de aire las dos cubiertas de 10 pulgadas con cámara y avisa de que rodar bajo de presión recorta la vida útil de la batería; la cifra concreta va grabada en el flanco de cada neumático", "trucos": ["La suciedad y los residuos se acumulan dentro de las suspensiones y acaban afectando a su funcionamiento, dice el manual de la 09267: pásales un paño húmedo con regularidad en vez de esperar a que empiecen a crujir", "Si el patinete va a dormir una temporada, déjalo cargado y dale otra recarga como mínimo cada mes mientras esté guardado, en un interior seco y nunca a la intemperie, dentro del intervalo de -10 °C a 35 °C que fija el manual para almacenarlo", "Recarga únicamente con la unidad suministrada, de referencia CP4215, y si cambias una cubierta monta otra de idénticas características: el manual advierte de que un neumático diferente al original hace decaer la garantía del producto", "Para limpiarlo basta un paño suave, siempre apagado y desenchufado; el manual prohíbe alcohol, gasolina, queroseno y productos corrosivos o abrasivos, sumergirlo en agua y lavarlo con agua a presión"]},
   },
   {
@@ -416,7 +413,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Z+",
-    precioEur: 386,
+    precioEur: null, // 386 eur era PcComponentes. La descarga de bongo-z-on-road el 7/11/2026 llegó vacía y el listado no lo incluye.
     potenciaNominalW: 500,
     potenciaPicoW: 1000,
     autonomiaKm: 50,
@@ -478,7 +475,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Cosasdepatinetes",
     marca: "Cecotec",
     modelo: "Bongo Serie A Advance Connected",
-    precioEur: 449, // PVP oficial Cecotec España (cecotec.es), verificado 21/10/2026 (antes 386: sin respaldo oficial),
+    precioEur: null, // El listado del 7/11/2026 no incluye el Advance Connected. 449 eur es el Serie A Connected, otro patinete.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 35,
@@ -506,7 +503,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["precioEur", "autonomiaRealKm"],
+    aprox: ["autonomiaRealKm"],
     pros: [
       "35 km declarados: 10 más que el Serie A Connected básico",
       "Triple frenada: disco, eléctrico y manual trasero",
@@ -515,7 +512,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "3 modos de conducción (Eco, Confort, Sport)",
     ],
     contras: [
-      "Sin precio oficial publicado",
+      "379 € es el PVP del 7/11/2026; 449 € es otro modelo, el Serie A Connected",
       "Por debajo del Advance Connected Max (45 km) con el mismo nombre",
       "Sin suspensión",
       "Sin certificado DGT verificado",
@@ -523,8 +520,8 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     ],
     veredicto:
       "El Advance Connected a secas es el punto medio de la Serie A: 35 km y app completa sin llegar al Max. Compruébalo bien en tienda para no confundirlo con su hermano mayor.",
-    fuenteNombre: "Fnac",
-    fuenteUrl: "https://www.fnac.es/",
+    fuenteNombre: "Cecotec",
+    fuenteUrl: "https://cecotec.es/es/patinetes-electricos/bongo-serie-a-advance-connected",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app oficial de Cecotec (bloqueo, frenada y estadísticas)",
       aprieteTornilleria: "Revisar el mecanismo de plegado Mazinger, la potencia del manillar y los ejes de las ruedas",
@@ -539,9 +536,9 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "smartGyro",
     marca: "SmartGyro",
     modelo: "Rockway Evo",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: 559, // rockwayEvo 559 eur con impuestos, en stock. 699 tachado.
     potenciaNominalW: 500,
-    potenciaPicoW: null,
+    potenciaPicoW: 1500,
     autonomiaKm: 50,
     autonomiaRealKm: 34,
     velocidadMaxKmh: 25,
@@ -551,7 +548,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: null,
     frenos: null,
     neumaticos: 'Neumáticos de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1163, SW-RW EVO
     foto: "/media/patinetes/smartgyro-rockway-evo-1.webp",
     galeria: [
       {
@@ -576,17 +573,14 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "Reviews en YouTube español (LlegaVideos) para verlo en acción",
     ],
     contras: [
-      "Sin precio oficial: Smartgyro no publica un PVP verificable del Rockway Evo",
-      "Ficha técnica incompleta: frenos y batería sin publicar",
-      "Sin certificado DGT verificado",
-      "El peso no está publicado",
-      "500 W se quedan justos frente al Rockway Pro (800 W)",
-      "Sin suspensión declarada",
+      "559 € es el precio actual con impuestos; 699 € sale tachado",
+      "La página no publica el peso",
+      "500 W nominales quedan por debajo del pico de 1.500 W",
     ],
     veredicto:
-      "El Rockway Evo es la puerta de entrada a la gama Rockway: 50 km por ~505 €. Si el presupuesto manda y no necesitas la potencia del Pro, cumple.",
-    fuenteNombre: "soysuper",
-    fuenteUrl: "https://soysuper.com/",
+      "El Rockway Evo declara 50 km y 1.500 W de pico. Hoy la tienda lo cobra a 559 € con impuestos; 699 € está tachado.",
+    fuenteNombre: "smartGyro",
+    fuenteUrl: "https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-evo",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app Smartgyro Core (iOS/Android), si el modelo la soporta",
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
@@ -610,7 +604,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: null,
     frenos: null,
     neumaticos: 'Neumáticos Dualgrip tubeless de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1162
     foto: "/media/patinetes/smartgyro-rockway-pro-evo-1.webp",
     galeria: [
       {
@@ -661,9 +655,9 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "txiki go",
     marca: "SmartGyro",
     modelo: "Rockway GT",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: 599, // rockwayGt 599 eur con impuestos. 699 tachado.
     potenciaNominalW: 800,
-    potenciaPicoW: null,
+    potenciaPicoW: 1800,
     autonomiaKm: 60,
     autonomiaRealKm: 41,
     velocidadMaxKmh: 25,
@@ -673,7 +667,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: null,
     frenos: null,
     neumaticos: 'Neumáticos de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1190
     foto: "/media/patinetes/smartgyro-rockway-gt-1.webp",
     galeria: [
       {
@@ -705,9 +699,9 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "Sin precio oficial: Smartgyro no publica un PVP verificable del Rockway GT",
     ],
     veredicto:
-      "El Rockway GT es el 800 W honesto de Smartgyro: 60 km por menos de 690 €. Si no necesitas la suspensión regulable del Pro Evo, aquí está el ahorro.",
-    fuenteNombre: "PcComponentes",
-    fuenteUrl: "https://www.pccomponentes.com/",
+      "El Rockway GT sale a 599 € con impuestos; 699 € está tachado. Declara 60 km y 1.800 W de pico.",
+    fuenteNombre: "smartGyro",
+    fuenteUrl: "https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gt",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app Smartgyro Core (iOS/Android)",
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
@@ -731,7 +725,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: null,
     frenos: null,
     neumaticos: 'Neumáticos de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1215
     foto: "/media/patinetes/smartgyro-rockway-gt-dual-1.webp",
     galeria: [
       {
@@ -780,10 +774,10 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: null,
     marca: "SmartGyro",
     modelo: "Rockway GTS",
-    precioEur: 779,
+    precioEur: 779, // rockwayGts 779 eur con impuestos, en stock.
     potenciaNominalW: 800,
-    potenciaPicoW: 1800,
-    autonomiaKm: 60,
+    potenciaPicoW: 2000,
+    autonomiaKm: 75,
     autonomiaRealKm: 51,
     velocidadMaxKmh: 25,
     pesoKg: 30,
@@ -792,7 +786,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 720,
     frenos: "Triple frenada: disco delantero + disco trasero + regenerativa",
     neumaticos: 'Neumáticos de 10" tubeless mixtas',
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1189
     foto: "/media/patinetes/smartgyro-rockway-gts-1.webp",
     galeria: [
       {
@@ -824,9 +818,9 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
       "Tiempo de carga no publicado (apunta a largo)",
     ],
     veredicto:
-      "El GTS es el rutero puro de Smartgyro: 60 km declarados por 779 €, con DGT y 3 años de garantía. Si haces 30+ km al día, es su modelo con más sentido; si no, el GT te ahorra dinero.",
-    fuenteNombre: "PcComponentes",
-    fuenteUrl: "https://www.pccomponentes.com/",
+      "El GTS declara 75 km y 2.000 W de pico. La tienda lo vende a 779 € con impuestos, en stock.",
+    fuenteNombre: "smartGyro",
+    fuenteUrl: "https://smartgyro.es/single-motor/patinete-electrico-smartgyro-rockway-gts",
     mantenimientoDIY: {
       actualizacionFirmware: "A través de la app Smartgyro Core (iOS/Android)",
       aprieteTornilleria: "Revisar el mecanismo de plegado, la potencia del manillar y los ejes de las ruedas",
@@ -853,7 +847,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 720,
     frenos: null,
     neumaticos: 'Neumáticos de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1060, SW-RW PRO
     foto: "/media/patinetes/smartgyro-rockway-pro-1.webp",
     galeria: [
       {
@@ -896,7 +890,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 468,
     frenos: "Triple sistema de frenada",
     neumaticos: 'Neumáticos de 10"',
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1209
     foto: "/media/patinetes/smartgyro-k1-1.webp",
     galeria: [
       {
@@ -964,7 +958,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: null,
     frenos: null,
     neumaticos: 'Neumáticos de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1214
     foto: "/media/patinetes/smartgyro-k5-pro-lr-1.webp",
     galeria: [
       {
@@ -1013,7 +1007,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "smartGyro",
     marca: "SmartGyro",
     modelo: "Raptor Dual Evo LR",
-    precioEur: 1499, // tarifa oficial España (verificado 20/10/2026),
+    precioEur: 1499, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 2000,
     potenciaPicoW: null,
     autonomiaKm: 75,
@@ -1383,7 +1377,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     bateriaWh: 720,
     frenos: "Doble freno de tambor + ABS/EBS",
     neumaticos: 'Neumáticos de 9" (70/50-6.1)',
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT B1039
     foto: "/media/patinetes/dualtron-togo-plus-1.webp",
     galeria: [
       {
@@ -2394,7 +2388,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     videoCanal: "Ride Electric",
     marca: "Vsett",
     modelo: "11+ Super 72V",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 4000,
     potenciaPicoW: 6960,
     autonomiaKm: 90,

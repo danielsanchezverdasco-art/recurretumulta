@@ -302,7 +302,7 @@ export default function EmpresasPage() {
               { label: "Multas anuales (flota 5 vehículos)", value: "~18*" },
               { label: "Importe medio por multa", value: "280 €*" },
               { label: "Coste del análisis con IA", value: "Gratis" },
-              { label: "Coste por recurso en PDF", value: "4,99 €" },
+              { label: "Plan anual de vigilancia (por persona)", value: "7,99 €/año" },
             ].map((stat) => (
               <Card key={stat.label} className="bg-gray-800 border-gray-700 rounded-xl p-4 text-center">
                 <p className="text-2xl font-black text-white">{stat.value}</p>

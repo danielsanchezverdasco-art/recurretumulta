@@ -841,7 +841,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/cadillac-optiq-2025-precio-ficha-tecnica-oficial.webp",
+    imagenOficial: "/media/cadillac-optiq-2025-entrega-commons.webp",
     imagenInteriorOficial: "/media/cadillac-optiq-2025-precio-ficha-tecnica-interior.webp",
     videoId: null,
     videoCanal: null,
@@ -883,7 +883,7 @@ export const COCHES_LOTE5: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 0,
     aprox: ["precioDesde", "autonomiaKm", "ceroCien", "consumo", "parNm", "largoMm"],
-    imagen: "/media/cadillac-optiq-2025-precio-ficha-tecnica-hero.webp",
+    imagen: "/media/cadillac-optiq-2025-entrega-commons.webp",
     opiniones: [],
     costeMensual: {
       costeEnergia100km: 3.2,

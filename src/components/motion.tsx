@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useId, useRef, useState, type CSSProperties, type ReactNode } from "react";
+import { fotoVisible } from "@/lib/fotos-ausentes.ts";
 
 /* ═══════════════════════════════════════════════════════════════════
    RTM MOTION v2 — componentes de animación (lote aprobado 03/10/2026)
@@ -1188,7 +1189,9 @@ export const HERO_SIZES = "(max-width: 928px) calc(100vw - 32px), 896px";
 export function DriveInImage({ src, alt, className = "", imgClassName = "", eager = false, width, height }: {
   src: string; alt: string; className?: string; imgClassName?: string; eager?: boolean; width?: number; height?: number;
 }) {
+  const visible = fotoVisible(src);
   const reduced = useReducedMotion();
+  if (!visible) return null;
   return (
     <span className={`block overflow-hidden ${className}`}>
       <style>{`
@@ -1200,7 +1203,7 @@ export function DriveInImage({ src, alt, className = "", imgClassName = "", eage
         }
       `}</style>
       <img
-        src={src}
+        src={visible}
         // 13/10/2026 (LCP móvil): variantes -480w/-828w generadas por scripts/gen-hero-variantes.py
         // para todas las fotos de portada de fichas y blog (/media/*.webp).
         srcSet={eager && /^\/media\/.+\.webp$/.test(src) ? `${src.replace(/\.webp$/, "-480w.webp")} 480w, ${src.replace(/\.webp$/, "-828w.webp")} 828w, ${src} ${width && width > 828 ? width : 1200}w` : undefined}

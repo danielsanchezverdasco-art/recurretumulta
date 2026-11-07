@@ -131,6 +131,20 @@ const FAQS_EXTRA = [
 
 const MEDALLAS = ["🥇", "🥈", "🥉"];
 
+/** Solo pinta foto si la ficha trae una ruta real. Un src vacío horneaba <img> sin src. */
+function fotoRanking(c: CocheComparador, className: string) {
+  const src = c.imagenOficial;
+  if (typeof src !== "string" || !src.startsWith("/media/")) return null;
+  return (
+    <img
+      src={src}
+      alt={`${c.marca} ${c.modelo}`}
+      className={className}
+      loading="lazy"
+    />
+  );
+}
+
 export default function Rankings() {
   const { slug } = useParams<{ slug: string }>();
   const ranking = RANKINGS.find((r) => r.slug === slug);
@@ -273,12 +287,7 @@ export default function Rankings() {
                 className="block overflow-hidden rounded-2xl border-2 border-red-100 bg-white shadow-sm transition hover:border-red-300 hover:shadow-md"
               >
                 <div className="relative">
-                  <img
-                    src={c.imagenOficial}
-                    alt={`${c.marca} ${c.modelo}`}
-                    className="aspect-[16/9] w-full object-cover"
-                    loading="lazy"
-                  />
+                  {fotoRanking(c, "aspect-[16/9] w-full object-cover")}
                   <span
                     className="absolute left-3 top-3 rounded-full bg-white/95 px-3 py-1 text-xl shadow"
                     aria-hidden="true"
@@ -322,12 +331,7 @@ export default function Rankings() {
                   <span className="w-8 shrink-0 text-center text-lg font-extrabold text-gray-400">
                     {i + 4}
                   </span>
-                  <img
-                    src={c.imagenOficial}
-                    alt={`${c.marca} ${c.modelo}`}
-                    className="h-12 w-20 shrink-0 rounded-lg object-cover"
-                    loading="lazy"
-                  />
+                  {fotoRanking(c, "h-12 w-20 shrink-0 rounded-lg object-cover")}
                   <div className="min-w-0 flex-1">
                     <Link
                       to={`/coches/${c.id}/`}

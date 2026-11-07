@@ -123,7 +123,7 @@ La red de Rimor en España, a través del importador del grupo, cubre las princi
     },
     euroncap: null,
     notas:
-      "«precio de tarifa en Alemania»: el PVP de 70.840 € procede de la lista oficial de precios Rimor 2026-2027 (Alemania, IVA incluido, franco fábrica); en España el precio lo fija el importador. La carga útil de 556 kg (manual) / 541 kg (automática) es la publicada por Rimor en su ficha oficial de datos para Reino Unido, no un cálculo: «dato de la ficha oficial de Rimor para Reino Unido; puede variar según el mercado». La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6), no un dato del fabricante: dato no oficial · en revisión.",
+      "«precio de tarifa en Alemania»: el PVP de 70.840 € procede de la lista oficial de precios Rimor 2026-2027 (Alemania, IVA incluido, franco fábrica); en España el precio lo fija el importador. La carga útil de 556 kg (manual) / 541 kg (automática) es la publicada por Rimor en su ficha oficial de datos para Reino Unido, no un cálculo: «dato de la ficha oficial de Rimor para Reino Unido; puede variar según el mercado». La etiqueta ambiental DGT «C» es una inferencia editorial (diésel Euro 6, sin ser un dato del fabricante; dato sin confirmar oficialmente, en revisión.",
     curiosidades:
       "Rimor fue fundada oficialmente el 17 de enero de 1978 por Luano Niccolai, con el entusiasmo de un pionero; más de 45 años después forma parte del grupo francés Trigano, uno de los líderes europeos del caravaning. Fuente: Rimor (web oficial, «Chi siamo»): https://www.rimor.it/it/es/about/chi-siamo",
     fuenteNombre: "Rimor (web oficial + lista oficial de precios 2026-2027)",

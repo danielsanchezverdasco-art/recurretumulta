@@ -42,7 +42,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 128,
     aprox: [],
-    imagen: "/media/seat-leon-sportstourer-15-tsi-2025-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/seat/leon/1122pm/",
+      nota: "El familiar no está en la tabla.",
+    },
+        imagen: "/media/seat-leon-sportstourer-15-tsi-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 10.55,
@@ -126,7 +132,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 117,
     aprox: [],
-    imagen: "/media/seat-ibiza-10-tsi-2026-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: "https://www.euroncap.com/press-media/eight-manufacturers-achieve-euro-ncap-5-stars-in-impressive-car-line-up/",
+      nota: "Cinco estrellas del restyling de 2022.",
+    },
+        imagen: "/media/seat-ibiza-10-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 9.44,
@@ -280,7 +292,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 121,
     aprox: [],
-    imagen: "/media/seat-leon-15-etsi-2026-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/seat/leon/1122pm/",
+      nota: "Esa potencia no está en la tabla.",
+    },
+        imagen: "/media/seat-leon-15-etsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 9.81,
@@ -427,7 +445,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 28,
     aprox: [],
-    imagen: "/media/seat-leon-15-ehybrid-2026-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com/assessments/seat/leon/1122pm/",
+      nota: "Cinco estrellas del León 2025.",
+    },
+        imagen: "/media/seat-leon-15-ehybrid-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 4.79,
@@ -510,7 +534,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 141,
     aprox: [],
-    imagen: "/media/seat-ateca-15-tsi-2026-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/en/results/SEAT/Ateca/24847",
+      nota: "La ficha de 2016 está caducada.",
+    },
+        imagen: "/media/seat-ateca-15-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 11.47,
@@ -656,7 +686,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 127,
     aprox: [],
-    imagen: "/media/seat-ibiza-15-tsi-2026-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: "https://www.euroncap.com/press-media/eight-manufacturers-achieve-euro-ncap-5-stars-in-impressive-car-line-up/",
+      nota: "Cinco estrellas del restyling de 2022.",
+    },
+        imagen: "/media/seat-ibiza-15-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 10.55,
@@ -822,7 +858,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 129,
     aprox: [],
-    imagen: "/media/seat-leon-15-tsi-115-2026-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com/assessments/seat/leon/1122pm/",
+      nota: "Cinco estrellas del León 2025.",
+    },
+        imagen: "/media/seat-leon-15-tsi-115-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 10.55,
@@ -893,7 +935,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 121,
     aprox: [],
-    imagen: "/media/seat-leon-15-etsi-115-2026-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/seat/leon/1122pm/",
+      nota: "Esa potencia no está en la tabla.",
+    },
+        imagen: "/media/seat-leon-15-etsi-115-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 9.62,
@@ -977,7 +1025,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 119,
     aprox: [],
-    imagen: "/media/seat-leon-20-tdi-115-2026-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/seat/leon/1122pm/",
+      nota: "Esa potencia no está en la tabla.",
+    },
+        imagen: "/media/seat-leon-20-tdi-115-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 8.05,
@@ -1048,7 +1102,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 130,
     aprox: [],
-    imagen: "/media/seat-leon-sportstourer-15-tsi-150-2026-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/seat/leon/1122pm/",
+      nota: "El familiar no está en la tabla.",
+    },
+        imagen: "/media/seat-leon-sportstourer-15-tsi-150-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 10.55,
@@ -1132,7 +1192,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 122,
     aprox: [],
-    imagen: "/media/seat-leon-sportstourer-15-etsi-115-2026-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/seat/leon/1122pm/",
+      nota: "El familiar no está en la tabla.",
+    },
+        imagen: "/media/seat-leon-sportstourer-15-etsi-115-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 9.81,
@@ -1215,7 +1281,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 119,
     aprox: [],
-    imagen: "/media/seat-leon-sportstourer-15-etsi-150-2026-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/seat/leon/1122pm/",
+      nota: "El familiar no está en la tabla.",
+    },
+        imagen: "/media/seat-leon-sportstourer-15-etsi-150-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 9.81,
@@ -1298,7 +1370,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 124,
     aprox: [],
-    imagen: "/media/seat-leon-sportstourer-20-tdi-150-2026-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/seat/leon/1122pm/",
+      nota: "El familiar no está en la tabla.",
+    },
+        imagen: "/media/seat-leon-sportstourer-20-tdi-150-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 8.4,
@@ -1381,7 +1459,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 120,
     aprox: [],
-    imagen: "/media/seat-leon-sportstourer-20-tdi-115-2026-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/seat/leon/1122pm/",
+      nota: "El familiar no está en la tabla.",
+    },
+        imagen: "/media/seat-leon-sportstourer-20-tdi-115-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 8.05,
@@ -1464,7 +1548,13 @@ export const COCHES_SEAT: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 9,
     aprox: [],
-    imagen: "/media/seat-leon-sportstourer-15-ehybrid-2026-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/seat/leon/1122pm/",
+      nota: "El familiar no está en la tabla.",
+    },
+        imagen: "/media/seat-leon-sportstourer-15-ehybrid-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 5.4,

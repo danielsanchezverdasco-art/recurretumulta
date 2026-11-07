@@ -90,7 +90,7 @@ El L6 (4,57 m, en versión eléctrica de 218 CV y PHEV) llegará a finales de 20
 ### ¿Merece la pena frente al BYD Seal U DM-i?
 El Lepas L8 es más barato en promoción y apuesta por un acabado más premium (masaje, V2L, modo cama). El BYD ofrece más autonomía eléctrica y una marca más conocida en Europa. Depende de si priorizas precio o red consolidada.
 
-Si te decides por un híbrido enchufable, recuerda que con 279 CV es fácil despistarse con el velocímetro: un <a href=https://recurretumulta.online/guias/radares>exceso de velocidad</a> te puede salir caro. Y si ya te ha llegado una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+Si te decides por un híbrido enchufable, recuerda que con 279 CV es fácil despistarse con el velocímetro: un <a href=https://recurretumulta.online/guias/radares>exceso de velocidad</a> te puede salir caro. 
 
 *Fuentes: <a href=https://elperiodicodelaenergia.com/lepas-abre-la-comercializacion-del-suv-hibrido-enchufable-l8-en-espana-desde-33-990-euros/>elperiodicodelaenergia.com</a>, <a href=https://soymotor.com/coches/noticias/lepas-l8-super-hibrido-a-la-venta>soymotor</a> y <a href=https://soymotor.com/coches/noticias/analisis-lepas-nueva-marca-china-espana>análisis de la marca Lepas en soymotor</a>.*`
   },
@@ -409,7 +409,7 @@ Hasta 700 km en ciclo chino CLTC (versión Long Range de 80 kWh), 602 km la Stan
 ### ¿Tiene etiqueta CERO de la DGT?
 Al ser 100 % eléctrico (o EREV), le correspondería la etiqueta CERO, con acceso a todas las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
-Con 449 CV bajo el pie derecho, conviene recordar que la emoción dura un acelerón y la <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a> dura meses. Si te llega una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar: en 20 días se juega el descuento y el derecho a recurrir.
+Con 449 CV bajo el pie derecho, conviene recordar que la emoción dura un acelerón y la <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a> dura meses. 
 
 *Fuentes: <a href=https://testcoches.es/noticias/449-cv-y-carga-6c-rumbo-a-paris-el-changan-nevo-q06-se-deja-ver-por-primera-vez-en-europa/>la llegada a París en testcoches.es</a>, <a href=https://testcoches.es/noticias/del-30-al-80-en-9-minutos-con-bateria-lfp-el-changan-nevo-q06-lleva-la-carga-6c-a-un-suv-familiar-de-484-metros/>ficha técnica del lanzamiento en testcoches.es</a>, <a href=https://www.autonocion.com/motornocion/changannevo-q06-hibrido-extensor-autonomia/>presentación en autonocion.com</a> y <a href=https://www.hibridosyelectricos.com/coches/socios-chinos-nissan-lanzan-su-propio-byd-seal-483-metros-5-plazas-782-litros-maletero-por-18200_89466_102.html>detalles de equipamiento en hibridosyelectricos.com</a>. Las autonomías son ciclo CLTC (China); el precio europeo es estimación de la prensa especializada, no dato oficial.*`
   },
@@ -508,7 +508,7 @@ La arquitectura electrónica CEA: menos centralitas, software centralizado, actu
 ### ¿Qué etiqueta DGT tendría el ID. Aura T6?
 Al ser 100 % eléctrico, le correspondería la etiqueta CERO, con acceso a todas las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcúlala aquí para cualquier coche</a>.
 
-Con 231 CV bajo el pie derecho, conviene recordar que la emoción dura un acelerón y la <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a> dura meses. Si te llega una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar: en 20 días se juega el descuento y el derecho a recurrir.
+Con 231 CV bajo el pie derecho, conviene recordar que la emoción dura un acelerón y la <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a> dura meses. 
 
 *Fuentes: <a href=https://www.hibridosyelectricos.com/coches/volkswagen-empieza-entregar-primeras-unidades-su-nuevo-coche-electrico-cuesta-17000-tiene-660-km-autonomia_89711_102.html>entregas en hibridosyelectricos.com (06/10/2026)</a>, <a href=https://testcoches.es/noticias/un-volkswagen-con-cerebro-de-xpeng-el-id-aura-t6-ya-se-entrega-en-ch/>ficha y precios en testcoches.es</a>, <a href=https://www.hibridosyelectricos.com/coches/es-100-electrico-tiene-660-km-alcance-volkswagen-lanza-en-china-su-propio-model-17500-podria-llegar-espana_89224_102.html>lanzamiento en hibridosyelectricos.com</a>, <a href=https://www.autonocion.com/motornocion/grupo-volkswagen-id-aura-t6-tiguan/>preventa en autonocion.com</a> y <a href=https://cdn.uc.assets.prezly.com/195909ac-e947-432f-b638-f757f98e5ea2/-/inline/no/bpcon-base-en-la-confianza-y-enfocado-en-la-innovacion-volkswagen-impulsa-su-estrategia-en-china-para-china-en-auto-china-2026.pdf>nota oficial de Volkswagen en Auto China 2026</a>. Las autonomías son ciclo CLTC (China); la llegada a Europa no está confirmada por la marca.*`,
   },
@@ -603,7 +603,7 @@ Unos 200 km en ciclo chino CLTC con su batería de 28,3 kWh. La autonomía combi
 ### ¿Qué etiqueta DGT tendría el Lynk & Co 07 GT?
 Al ser híbrido enchufable con más de 40 km de autonomía eléctrica, le correspondería la etiqueta **CERO**, con acceso a todas las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcúlala aquí para cualquier coche</a>.
 
-Con 523 CV bajo el pie derecho, conviene recordar que la emoción dura un acelerón y la <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a> dura meses. Si te llega una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar: en 20 días se juega el descuento y el derecho a recurrir.
+Con 523 CV bajo el pie derecho, conviene recordar que la emoción dura un acelerón y la <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a> dura meses. 
 
 *Fuentes: <a href=https://d21buns5ku92am.cloudfront.net/69406/pdf/campaigns/141-lynk-co-presenta-el-07-gt-un-nuevo-modelo-sports-touring-cuyo-lanzamiento-en-europa-esta-previsto-par.pdf>nota oficial de Lynk & Co (30/06/2026)</a>, <a href=https://www.autonocion.com/motornocion/lynk-co-07-gt-salon-de-paris-el-12-de-octubre/>debut en París en autonocion.com</a>, <a href=https://movilidadelectrica.com/lynk-co-acudira-primera-vez-salon-automovil-paris-nuevo-07-gt-primicia/>primicia europea en movilidadelectrica.com</a>, <a href=https://cnevpost.com/2026/07/23/lynk-co-07-gt-launch/>lanzamiento y ventas en China en cnevpost.com</a>, <a href=https://newmobility.news/en/2026/07/27/lynk-co-targets-europes-premium-estates-with-523-hp-07-gt/>análisis europeo y rivales en newmobility.news</a> y <a href=https://formula1rd.com/lynk-co-vende-10-000-unidades-de-su-hibrido-familiar-de-20-500-e-con-1-442-km-de-autonomia-que-llegara-a-europa-en-2027/>ventas y llegada a Europa en 2027</a>. Las autonomías son ciclo CLTC (China); el precio europeo es una estimación de la prensa especializada, no oficial.*`
   }

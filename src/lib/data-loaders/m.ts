@@ -78,6 +78,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "mazda-3-25-e-skyactiv-g-sedan-2026-precio-ficha-tecnica": () => import("../blog-posts-coches-exp16.ts"),
     "mazda-3-sedan-e-skyactiv-g-precio-ficha-tecnica": () => import("../blog-posts-mazda-a.ts"),
     "mazda-6e-2025-precio-ficha-tecnica": () => import("../blog-posts-mazda-a.ts"),
+    "mazda-6e-2027-precio-bateria-lfp": () => import("../blog-posts-radar-20261106.ts"),
     "mazda-6e-long-range-2025-precio-ficha-tecnica": () => import("../blog-posts-mazda-a.ts"),
     "mazda-cx-30-20-e-skyactiv-x-2026-precio-ficha-tecnica": () => import("../blog-posts-mazda-a.ts"),
     "mazda-cx-30-25-e-skyactiv-g-2025-precio-ficha-tecnica": () => import("../blog-posts-coches-exp16.ts"),

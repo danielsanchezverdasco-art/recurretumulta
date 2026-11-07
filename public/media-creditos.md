@@ -2,6 +2,10 @@
 
 | Archivo | Fuente | Autor | Licencia |
 |---|---|---|---|
+| /media/audi-q9-tdi-2026-hero.webp | https://www.audi.com/en/images/detail/audi-q9-suv-133036 | AUDI AG, imagen A263880 | uso editorial gratuito |
+| /media/motos/bmw-f-800-gs-2025-ficha-tecnica-precio-oficial.webp | https://www.press.bmwgroup.com/deutschland/photo/detail/P90555530/F-800-GS-06-2024 | BMW Motorrad | desconocida |
+| /media/bmw-f-800-gs-2025-ficha-tecnica-precio-oficial.webp | https://www.press.bmwgroup.com/deutschland/photo/detail/P90555530/F-800-GS-06-2024 | BMW Motorrad | desconocida |
+| /media/kymco-ionex-s7-2026-precio-ficha-tecnica-3.webp | rasgos del vehículo: IONEX y S7 | sin fuente externa | no acreditada |
 | /media/xpeng-g9-awd-performance-2026-2.webp | https://commons.wikimedia.org/wiki/File:XPeng_G9_(2025)_IAA_2025_DSC_2054.jpg | Alexander-93 | CC BY-SA 4.0 |
 | /media/xpeng-g6-awd-performance-2026-2.webp | https://commons.wikimedia.org/wiki/File:XPeng_G6_(2025)_IAA_2025_DSC_1802.jpg | Alexander-93 | CC BY-SA 4.0 |
 | /media/cadillac-escalade-2026-2.webp | https://commons.wikimedia.org/wiki/File:2025_Cadillac_Escalade_ESV_Facelift.jpg | Wlb5V | CC BY-SA 4.0 |
@@ -5081,3 +5085,58 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-interior.webp | https://cnevpost.com/wp-content/uploads/2026/10/2026102706371216.jpg | BYD (foto de prensa) · CnEVPost | prensa |
 | /media/cosa-jungla-apoyado-300w.webp | https://recurretumulta.online/media/cosa-jungla-apoyado.webp | Cosa (mascota de recurretumulta.online, ilustración propia) | propia |
 | /media/cosa-jungla-manos-300w.webp | https://recurretumulta.online/media/cosa-jungla-manos.webp | Cosa (mascota de recurretumulta.online, ilustración propia) | propia |
+| /media/porsche-macan-4-electric-2026-precio-ficha-tecnica-commons.webp | https://commons.wikimedia.org/wiki/File:Porsche_Macan_4_IMG_2159.jpg | Alexander-93 | CC BY-SA 4.0 |
+| /media/volkswagen-id-buzz-2026-precio-ficha-tecnica-commons.webp | https://commons.wikimedia.org/wiki/File:Volkswagen_ID._Buzz_1X7A6264.jpg | Alexander Migl | CC BY-SA 4.0 |
+| /media/mitsubishi-colt-2026-precio-ficha-tecnica-commons.webp | https://commons.wikimedia.org/wiki/File:Mitsubishi_Colt_(2023)_1X7A1657.jpg | Alexander-93 | CC BY-SA 4.0 |
+| /media/aito-m7-2025-precio-ficha-tecnica-commons.webp | https://commons.wikimedia.org/wiki/File:Aito_M7_001.jpg | Zoerides | CC BY-SA 4.0 |
+| /media/yamaha-mt-10-2026-precio-ficha-tecnica-commons.webp | https://commons.wikimedia.org/wiki/File:Yamaha_MT-10.jpg | Rikita | CC BY-SA 4.0 |
+| /media/honda-gold-wing-2026-precio-ficha-tecnica-commons.webp | https://commons.wikimedia.org/wiki/File:Honda_Gold_Wing_GL_1800_(SC79_-_2018).jpg | Tarrakaner | CC BY-SA 4.0 |
+| /media/denza-b8-2026-precio-ficha-tecnica-commons.webp | https://commons.wikimedia.org/wiki/File:Fangchengbao_Bao_8_004.jpg | JustAnotherCarDesigner | CC0 |
+| /media/polestar-2-facelift-commons.webp | https://commons.wikimedia.org/wiki/File:Polestar_2_(Facelift)_IMG_9470.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/polestar-3-commons.webp | https://commons.wikimedia.org/wiki/File:Polestar_3_IAA_2025_DSC_1751.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/polestar-4-commons.webp | https://commons.wikimedia.org/wiki/File:Polestar_4_DSC_7782.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/polestar-5-commons.webp | https://commons.wikimedia.org/wiki/File:Polestar_5_Auto_Zuerich_2025_DSC_3198.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/haval-h6-ii-facelift-commons.webp | https://commons.wikimedia.org/wiki/File:Haval_H6_II_Facelift_Sanming_01_2022-07-04.jpg | JamesYoung8167 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/seres-3-iaa2023-commons.webp | https://commons.wikimedia.org/wiki/File:Seres_3_IAA_2023_1X7A0354.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/jaecoo-8-shs-commons.webp | https://commons.wikimedia.org/wiki/File:JAECOO_8_SHS_hibrido_enchufable.jpg | Jaime Sainz de la Maza · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/li-auto-l7-commons.webp | https://commons.wikimedia.org/wiki/File:Li_Auto_L7_009.jpg | Quzhouliulian · Wikimedia Commons | CC0 |
+| /media/li-auto-i6-commons.webp | https://commons.wikimedia.org/wiki/File:Li_Auto_i6_005.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/im-l6-commons.webp | https://commons.wikimedia.org/wiki/File:IM_L6_GIMS_2024_1X7A2149.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/yangwang-u8-commons.webp | https://commons.wikimedia.org/wiki/File:Yangwang_U8,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0007-5).jpg | Matti Blume · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-3008-c-commons.webp | https://commons.wikimedia.org/wiki/File:Peugeot_3008_C_DSC_8318.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/peugeot-5008-c-commons.webp | https://commons.wikimedia.org/wiki/File:Peugeot_5008_C_Automesse_Ludwigsburg_2024_IMG_1452.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/nissan-qashqai-epower-commons.webp | https://commons.wikimedia.org/wiki/File:Nissan_Qashqai_e-Power_Automesse_Ludwigsburg_2022_1X7A5924.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/citroen-c4-2025-commons.webp | https://commons.wikimedia.org/wiki/File:2025_Citroën_C4_DSC_8774.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ford-puma-gen-e-commons.webp | https://commons.wikimedia.org/wiki/File:Ford_Puma_Gen-E_Autofrühling_Ulm_2025_DSC_8720.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/ford-capri-2024-commons.webp | https://commons.wikimedia.org/wiki/File:Ford_Capri_(2024)_Autofrühling_Ulm_2025_DSC_8745.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/honda-eny1-commons.webp | https://commons.wikimedia.org/wiki/File:Honda_e-Ny1_IAA_2023_1X7A0562.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/honda-civic-hybrid-commons.webp | https://commons.wikimedia.org/wiki/File:Honda_Civic_Hybrid_(2022,_Europe)_IAA_2023_1X7A0545_(2).jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/honda-hrv-hybrid-commons.webp | https://commons.wikimedia.org/wiki/File:Honda_HR-V_Hybrid_1X7A1882.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/nio-et5-touring-commons.webp | https://commons.wikimedia.org/wiki/File:NIO_ET5_Touring_Motorworld_Munich_1X7A0042.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-cooper-e-j01-commons.webp | https://commons.wikimedia.org/wiki/File:BMW_MINI_COOPER_E_(J01)_rear.jpg | Tokumeigakarinoaoshima · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mercedes-g450d-w465-commons.webp | https://commons.wikimedia.org/wiki/File:Mercedes-Benz_G_450_d_Launch_Edition_(W465).jpg | Tokumeigakarinoaoshima · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/bmw-x5-g05-2026-commons.webp | https://commons.wikimedia.org/wiki/File:BMW_X5_xDrive40i_(G05,_2026)_(55206671507).jpg | Charles from Port Chester, New York · Wikimedia Commons | CC0 |
+| /media/fiat-600-2023-commons.webp | https://commons.wikimedia.org/wiki/File:Fiat_600_(2023)_Automesse_Ludwigsburg_2024_IMG_1584.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/fiat-grande-panda-e-commons.webp | https://commons.wikimedia.org/wiki/File:Fiat_Grande_Panda_E_DSC_8528.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/opel-grandland-b-commons.webp | https://commons.wikimedia.org/wiki/File:Opel_Grandland_B_DSC_8689.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/nissan-ariya-commons.webp | https://commons.wikimedia.org/wiki/File:Nissan_Ariya_Automesse_Ludwigsburg_2022_1X7A5877.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/porsche-taycan-gts-commons.webp | https://commons.wikimedia.org/wiki/File:2024_Porsche_Taycan_GTS_IAA_2025_DSC_1988.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/vw-id4-gtx-commons.webp | https://commons.wikimedia.org/wiki/File:Volkswagen_ID.4_GTX_1X7A0301.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/vw-id7-commons.webp | https://commons.wikimedia.org/wiki/File:Volkswagen_ID.7_IAA_2023_1X7A0377.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/toyota-bz4x-commons.webp | https://commons.wikimedia.org/wiki/File:Toyota_bZ4X_Automesse_Ludwigsburg_2022_1X7A5897.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/baic-bj30-commons.webp | https://commons.wikimedia.org/wiki/File:BAIC_BJ30_192613548.jpg | Trop86 · Wikimedia Commons | CC0 |
+| /media/maple-60s-commons.webp | https://commons.wikimedia.org/wiki/File:Maple_60s_on_display.jpg | GZrex · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hyptec-ssr-commons.webp | https://commons.wikimedia.org/wiki/File:Hyptec_SSR_front_Poznań_Motor_Show_2026.jpg | Peżot · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/tesla-cybertruck-foundation-commons.webp | https://commons.wikimedia.org/wiki/File:2024_Tesla_Cybertruck_Foundation_Series_IMG_0634_(cropped).jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/defender-110-l663-commons.webp | https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_110_First_Edition_2020_-_rear.jpg | DeFacto · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/vw-id-buzz-commons.webp | https://commons.wikimedia.org/wiki/File:Volkswagen_ID._Buzz_1X7A6257.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/avatr-06-2025-entrega-commons.webp | https://commons.wikimedia.org/wiki/File:Avatr_06_003.jpg | Quzhouliulian · Wikimedia Commons | CC0 |
+| /media/cadillac-optiq-2025-entrega-commons.webp | https://commons.wikimedia.org/wiki/File:Cadillac_Optiq_Auto_Zuerich_2025_DSC_3328_(cropped).jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/nio-es8-2025-entrega-commons.webp | https://commons.wikimedia.org/wiki/File:Nio_ES8_III_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/peugeot-308-2025-entrega-commons.webp | https://commons.wikimedia.org/wiki/File:2021_-_Peugeot_308_III_(C)_-_02.jpg | A.BourgeoisP · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/skoda-octavia-combi-commons.webp | https://commons.wikimedia.org/wiki/File:Škoda_Octavia_IV_Combi_Facelift_Automesse_Ludwigsburg_2024_IMG_1649.jpg | Alexander-93 · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/hyptec-ht-commons.webp | https://commons.wikimedia.org/wiki/File:Hyptec_HT_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/hyptec-a800-commons.webp | https://commons.wikimedia.org/wiki/File:Hyptec_A800_001.jpg | JustAnotherCarDesigner · Wikimedia Commons | CC0 |
+| /media/dfsk-fengon-600-commons.webp | https://commons.wikimedia.org/wiki/File:DFSK_Fengon_600_DSC_8859.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+| /media/mini-aceman-commons.webp | https://commons.wikimedia.org/wiki/File:Mini_Aceman_JCW_Trim_DSC_7951.jpg | Alexander Migl · Wikimedia Commons | CC BY-SA 4.0 |
+

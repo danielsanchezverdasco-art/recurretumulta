@@ -94,7 +94,9 @@ El C10 es más grande (4,74 m) y más barato, pero el Atto 3 tiene una marca má
 
 Con 218 CV bajo el pie derecho, conviene recordar que la velocidad tiene consecuencias: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
-Fuente oficial: <a href=https://www.leapmotor.com/es>web oficial de Leapmotor</a>.`
+Fuente oficial: <a href=https://www.leapmotor.com/es>web oficial de Leapmotor</a>.
+
+*Fuentes: <a href=https://www.leapmotor.com/es>Leapmotor España (web oficial)</a>, <a href=https://www.media.stellantis.com>Stellantis Media (sala de prensa oficial)</a>, <a href=https://www.euroncap.com>Euro NCAP</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`
   },
   {
     title: "Leapmotor T03: 18.600 €",
@@ -1783,11 +1785,11 @@ Fuente oficial: <a href=https://www.opel.es>web oficial de Opel</a>.`
 
 **¿Buscas solo los datos?** <a href=/coches/jetour-g700-903-cv-precio-ficha-tecnica/>Ver ficha técnica del Jetour G700</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-**903 CV en un todoterreno de 5,2 metros que puede cruzar un río.** El **Jetour G700** es el buque insignia de Jetour, la marca aventurera del gigante chino **Chery**, y acaba de presentarse por primera vez en Argentina durante la **Expo Auto Chino de Buenos Aires**, con llegada prevista para **2027**. Es un híbrido enchufable con chasis de largueros, tres bloqueos de diferencial y una potencia que supera a la de un Ferrari 812 Superfast.
+**903 CV en un todoterreno de 5,2 metros que puede cruzar un río.** El **Jetour G700** no se vende oficialmente en España y no tiene PVP oficial español: sin presencia oficial, ni venta ni preventa. Es el buque insignia de Jetour, la marca aventurera del gigante chino **Chery**, y acaba de presentarse por primera vez en Argentina durante la **Expo Auto Chino de Buenos Aires**, con llegada prevista para **2027**. Es un híbrido enchufable con chasis de largueros, tres bloqueos de diferencial y una potencia que supera a la de un Ferrari 812 Superfast.
 
 ## Precio y llegada a España
 
-En China el G700 parte de **329.900 yuanes** (unos 42.000 € al cambio), con la gama completa entre 329.900 y 442.900 yuanes según acabado y batería. Para España aún no hay precio oficial: aplicando aranceles e impuestos europeos, una estimación razonable lo situaría en torno a los **56.000 €**, aunque la marca no lo ha confirmado.
+En China el Zongheng G700 parte de **329.900 yuanes** (unos 39.800 € al cambio), con la gama completa entre 329.900 y 442.900 yuanes (unos 39.800-49.700 €) según acabado y batería. En España no hay tarifa de marca, ni venta, ni preventa: aplicando aranceles e impuestos europeos, una estimación razonable lo situaría en torno a los **56.000 €**, aunque la marca no lo ha confirmado.
 
 Jetour ya vende en España el **T2**, y la estrategia es clara: primero los modelos de volumen y después el buque insignia. La presentación en Argentina —su primera aparición en Latinoamérica— confirma que la expansión global del G700 va en serio, con **2027** como año objetivo también para nuestro mercado.
 
@@ -1857,7 +1859,7 @@ Vídeo: <a href=https://www.youtube.com/watch?v=iHb8P2byzqc>La Guarida del Mostr
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Jetour G700?
-En China parte de 329.900 yuanes (~42.000 €). Para España no hay precio oficial; la estimación ronda los 56.000 € con aranceles e impuestos.
+En China parte de 329.900 yuanes (~39.800 €). Aquí no hay precio oficial ni reservas abiertas; con aranceles e impuestos la cuenta ronda los 56.000 €.
 
 ### ¿Cuándo llega el Jetour G700 a España?
 La marca apunta a 2027 para su desembarco europeo y latinoamericano, tras su presentación en Argentina en octubre de 2026.
@@ -1875,6 +1877,8 @@ Fuentes: <a href=https://noticias.autocosmos.com.ar/2026/10/02/jetour-anticipa-e
 
 Con 903 CV hasta el trayecto al campo tiene radares: si te llega una <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
-Fuente oficial: <a href=https://www.jetour.es>web oficial de Jetour</a>.`
+Fuente oficial: <a href=https://www.jetour.es>web oficial de Jetour</a>.
+
+*Fuentes: <a href=https://www.jetourglobal.com>Jetour Global (web oficial)</a>, <a href=https://www.jetour.es>Jetour España (web oficial)</a>, <a href=https://www.cheryinternational.com>Chery International (web oficial)</a>.*`
   },
 ];

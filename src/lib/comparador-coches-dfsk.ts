@@ -13,7 +13,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
     imagenOficial:
-      "/media/dfsk-600-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/dfsk-fengon-600-commons.webp",
     imagenInteriorOficial:
       "",
     videoId: null,
@@ -22,7 +22,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     modelo: "600",
     tipo: "Gasolina",
     categoria: "SUV",
-    precioDesde: 28498,
+    precioDesde: 24995,
     potenciaCv: 184,
     autonomiaKm: null,
     maleteroL: 465,
@@ -56,7 +56,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 197,
     aprox: ["pesoKg"],
-    imagen: "/media/dfsk-600-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "/media/dfsk-fengon-600-commons.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 15.9,
@@ -66,7 +66,7 @@ export const COCHES_DFSK: CocheComparador[] = [
       "costeMensualTotal": 303,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP combinado 8,6 l/100 km; 15.000 km/año; incluye seguro a todo riesgo estimado y mantenimiento anual",
+      "notas": "consumo WLTP combinado 8,6 l/100 km; 15.000 km también/año; incluye seguro a todo riesgo estimado y mantenimiento anual",
       "estimado": true
     },
     galeria: [
@@ -149,7 +149,7 @@ export const COCHES_DFSK: CocheComparador[] = [
       "costeMensualTotal": 333,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 9,9 l/100 km; 15.000 km/año; la versión ECO con GLP abarata el coste real por km",
+      "notas": "consumo WLTP 9,9 l/100 km; 15.000 por su parte km/año; la versión ECO con GLP abarata el coste real por km",
       "estimado": true
     },
     galeria: [
@@ -179,7 +179,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
     imagenOficial:
-      "/media/dfsk-seres-3-2026-precio-ficha-tecnica-oficial.webp",
+      "/media/seres-3-iaa2023-commons.webp",
     imagenInteriorOficial:
       "",
     videoId: "uRb_7I7b3ls",
@@ -222,7 +222,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: null,
     aprox: ["consumo"],
-    imagen: "/media/dfsk-seres-3-2026-precio-ficha-tecnica-hero.webp",
+    imagen: "/media/seres-3-iaa2023-commons.webp",
     opiniones: [],
     costeMensual: {
       "costeEnergia100km": 3.2,
@@ -232,7 +232,7 @@ export const COCHES_DFSK: CocheComparador[] = [
       "costeMensualTotal": 128,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 18 kWh/100 km aprox.; carga doméstica a 0,18 €/kWh; 15.000 km/año",
+      "notas": "consumo WLTP 18 kWh/100 km aprox.; carga doméstica a 0,18 €/kWh de hecho; 15.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -315,7 +315,7 @@ export const COCHES_DFSK: CocheComparador[] = [
       "costeMensualTotal": 138,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 15,2 kWh/100 km; carga doméstica a 0,18 €/kWh; 15.000 km/año",
+      "notas": "consumo WLTP 15,2 kWh/100 km; carga doméstica a 0,18 además €/kWh; 15.000 en concreto km/año",
       "estimado": true
     },
     galeria: [
@@ -398,7 +398,7 @@ export const COCHES_DFSK: CocheComparador[] = [
       "costeMensualTotal": 151,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.85,
-      "notas": "consumo WLTP 17,3 kWh/100 km; carga doméstica a 0,18 €/kWh; 15.000 km/año",
+      "notas": "consumo WLTP 17,3 kWh/100 km; carga doméstica a 0,18 €/kWh; 15 asimismo.000 km/año",
       "estimado": true
     },
     galeria: [
@@ -481,7 +481,7 @@ export const COCHES_DFSK: CocheComparador[] = [
       "costeMensualTotal": 235,
       "precioKwh": 0.18,
       "precioGasolinaL": 1.55,
-      "notas": "PHEV: estimación en modo híbrido ~6,5 l/100 km; el coste real depende del hábito de carga; 15.000 km/año; seguro y mantenimiento estimados (oct-2026)",
+      "notas": "PHEV: estimación en modo híbrido ~6,5 l/100 km; el además coste real depende del hábito de carga; 15.000 km/año; seguro y mantenimiento estimados (oct-2026)",
       "estimado": true
     },
     galeria: [

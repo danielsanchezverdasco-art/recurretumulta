@@ -1865,8 +1865,8 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       "Sin etiqueta DGT al no venderse aquí",
       "Repuestos inexistentes en Europa",
     ],
-    imagen: "/media/tesla-cybertruck-2026-precio-ficha-tecnica-hero.webp",
-    imagenOficial: "/media/tesla-cybertruck-2026-precio-ficha-tecnica-oficial.webp",
+    imagen: "/media/tesla-cybertruck-foundation-commons.webp",
+    imagenOficial: "/media/tesla-cybertruck-foundation-commons.webp",
     imagenInteriorOficial: "/media/tesla-cybertruck-2026-precio-ficha-tecnica-interior-oficial.webp",
     analisisSlug: "tesla-cybertruck-2026-precio-ficha-tecnica",
     videoId: null,
@@ -1896,3 +1896,4 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     },
   },
 ];
+

@@ -391,6 +391,12 @@ export const COCHES_TESLA: CocheComparador[] = [
         "alto": 800
       }
     ],
+euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com/assessments/1110/",
+      nota: "Cinco estrellas; incluye el Long Range.",
+    }
   },
   {
     id: "tesla-model-y-standard-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica",

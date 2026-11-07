@@ -115,7 +115,7 @@ export const AUTOCARAVANAS_EURAMOBIL_M1: Autocaravana[] = [
     analisisSlug: "euramobil-integra-line-gt-il-726-ef-2026-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Mercedes Sprinter: revisión cada 2 años o 40.000 km (lo que ocurra antes, según plan Mercedes-Benz)",
+        "Mercedes Sprinter: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Mercedes Sprinter (2 años / 40.000 km)",

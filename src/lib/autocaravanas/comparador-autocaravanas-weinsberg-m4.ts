@@ -129,7 +129,7 @@ Para quién es: la CaraCore 650 MEG encaja con parejas que quieren estrenarse en
     analisisSlug: "weinsberg-caracore-650-meg-analisis-opinion",
     planMantenimiento: {
       intervalo:
-        "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+        "Base Fiat Ducato: 2 años / 40.000 km",
       revisiones: [
         {
           nombre: "Revisión Fiat Ducato (2 años / 40.000 km)",
@@ -226,7 +226,7 @@ Para quién es: encaja con parejas o familias de hasta cuatro miembros que viene
     ],
     analisisSlug: "weinsberg-x-cursion-500-lt-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Volkswagen T6.1: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Volkswagen T6.1: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Volkswagen T6.1)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Weinsberg (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

@@ -20,7 +20,7 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/li-auto-l7-2025-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/li-auto-l7-commons.webp",
     imagenInteriorOficial: "",
     videoId: "EQbEUkhwznQ",
     videoCanal: "Avtopanorama",
@@ -351,7 +351,7 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/li-auto-i6-2025-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/li-auto-i6-commons.webp",
     imagenInteriorOficial: "",
     videoId: "lXGC-d43BD4",
     videoCanal: "Wheelsboy",
@@ -571,3 +571,4 @@ export const COCHES_LIAUTO: CocheComparador[] = [
     euroncap: {"ano": null, "estrellas": null, "nota": "Sin datos EuroNCAP: modelo no probado", "url": null},
   },
 ];
+

@@ -1615,3 +1615,4 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     },
   },
 ];
+

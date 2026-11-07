@@ -23,6 +23,8 @@ const ResenasVehiculoLazy = lazy(() => import("@/components/ResenasVehiculo.tsx"
 const ReaccionesPostLazy = lazy(() => import("@/components/audiencia/ReaccionesPost.tsx"));
 import { Diferido } from "@/components/audiencia/Diferido.tsx";
 import { useSeo } from "@/hooks/use-seo.ts";
+import { fotoVisible } from "@/lib/fotos-ausentes.ts";
+import { fotoModelo } from "@/lib/fotos-modelo.ts";
 import AdBanner, { AD_SLOTS } from "@/components/ads/AdBanner.tsx";
 import { useQuery } from "convex/react";
 import { api } from "@/convex/_generated/api.js";
@@ -56,6 +58,8 @@ function conCreditos(html: string): string {
   return html.replace(/<img\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/g, (tag, src) => {
     const c = creditoDe(src);
     if (!c) return tag;
+    if (c.licencia === "sin verificar")
+      return `${tag}<small class="block mt-1 text-[10px] leading-tight text-gray-400">Foto: fuente no verificada</small>`;
     return `${tag}<small class="block mt-1 text-[10px] leading-tight text-gray-400">Foto: <a href="${escAttr(c.url)}" target="_blank" rel="noopener noreferrer nofollow" class="underline">${escAttr(c.autor)}</a> ${c.licencia === "prensa" ? "(prensa)" : `· ${escAttr(c.licencia)} · Wikimedia Commons`}</small>`;
   });
 }
@@ -618,6 +622,8 @@ function BlogPostPage() {
     const altM = heroTag[0].match(/alt=("[^"]*"|'[^']*'|[^>]+)/);
     if (altM) heroAlt = altM[1].replace(/^["']|["']$/g, "").replace(/\s*\/?$/, "").trim();
   }
+  const registrada = fotoModelo(post.slug);
+  if (registrada?.src) heroSrc = registrada.src;
   const contentWithoutHero = heroTag
     ? post.content.replace(heroTag[0], "").replace(/^\s*\n/, "")
     : post.content;
@@ -629,8 +635,8 @@ function BlogPostPage() {
     <div className="min-h-screen bg-white">
       {/* LCP 05/10/2026: preload de la hero del artículo (React 19 la eleva al <head>;
           el prerender la captura en el HTML estático). */}
-      {heroSrc ? (
-        <link rel="preload" as="image" href={heroSrc} fetchPriority="high" />
+      {fotoVisible(heroSrc) ? (
+        <link rel="preload" as="image" href={heroSrc!} fetchPriority="high" />
       ) : null}
       <ReadingProgress />
       <SharedNavbar />
@@ -638,14 +644,14 @@ function BlogPostPage() {
       <main className="pt-[57px]">
         {/* Hero con imagen de fondo y animación de entrada */}
         <div className="relative overflow-hidden">
-          {heroSrc ? (
+          {fotoVisible(heroSrc) ? (
             <>
               <DriveInImage
-                src={heroSrc}
+                src={heroSrc as string}
                 alt={heroAlt}
                 eager={true}
-                width={dims[heroSrc.split("/").pop() ?? ""]?.[0]}
-                height={dims[heroSrc.split("/").pop() ?? ""]?.[1]}
+                width={dims[(heroSrc as string).split("/").pop() ?? ""]?.[0]}
+                height={dims[(heroSrc as string).split("/").pop() ?? ""]?.[1]}
                 className="absolute inset-0"
                 imgClassName="w-full h-full object-cover"
               />
@@ -654,11 +660,17 @@ function BlogPostPage() {
               <CosaEnBanner />
               {creditoDe(heroSrc) && (
                 <p className="absolute bottom-1 right-2 z-10 text-[10px] text-white/70">
-                  Foto:{" "}
-                  <a href={creditoDe(heroSrc)!.url} target="_blank" rel="noopener noreferrer nofollow" className="underline">
-                    {creditoDe(heroSrc)!.autor}
-                  </a>{" "}
-                  {creditoDe(heroSrc)!.licencia === "prensa" ? "(prensa)" : `· ${creditoDe(heroSrc)!.licencia} · Wikimedia Commons`}
+                  {creditoDe(heroSrc)!.licencia === "sin verificar" ? (
+                    <>Foto: fuente no verificada</>
+                  ) : (
+                    <>
+                      Foto:{" "}
+                      <a href={creditoDe(heroSrc)!.url} target="_blank" rel="noopener noreferrer nofollow" className="underline">
+                        {creditoDe(heroSrc)!.autor}
+                      </a>{" "}
+                      {creditoDe(heroSrc)!.licencia === "prensa" ? "(prensa)" : `· ${creditoDe(heroSrc)!.licencia} · Wikimedia Commons`}
+                    </>
+                  )}
                 </p>
               )}
             </>
@@ -772,18 +784,7 @@ function BlogPostPage() {
               <p className="text-sm font-black text-gray-900">Fuentes y verificación</p>
             </div>
             <p className="text-xs text-gray-600 leading-relaxed">
-              Este artículo se ha redactado y revisado por Daniel, fundador y responsable de contenidos de RecurreTuMulta.online
-              contrastando la normativa aplicable, principalmente el{" "}
-              <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722" target="_blank" rel="noopener noreferrer" className="text-red-600 underline">
-                Real Decreto Legislativo 6/2015 (Ley de Tráfico y Seguridad Vial)
-              </a>{" "}
-              y la información pública de la{" "}
-              <a href="https://www.dgt.es" target="_blank" rel="noopener noreferrer" className="text-red-600 underline">
-                Dirección General de Tráfico (DGT)
-              </a>
-              . La IA de análisis identifica posibles defectos e indicios relevantes en tu documento, pero no
-              sustituye el asesoramiento de un profesional. Consulta más sobre nuestro proceso editorial en{" "}
-              <Link to="/sobre-nosotros/" className="text-red-600 underline">¿Quién está detrás?</Link> y en nuestra{" "}
+              Lo ha revisado Daniel, responsable de contenidos. El criterio está en la{" "}
               <Link to="/politica-editorial/" className="text-red-600 underline">política editorial</Link>.
             </p>
             <EnlacesHerramientas ambito={ambitoPost} />
@@ -817,11 +818,7 @@ function BlogPostPage() {
           <Card className="border-2 border-red-200 overflow-hidden">
             <CardContent className="p-5 space-y-4">
               <div className="flex items-start gap-3">
-                <img
-                  src="/media/file_JCUW0M5ZDov5VKrmqbwPmQSz.png"
-                  alt="RecurreTuMulta.online"
-                  className="w-10 h-10 rounded-2xl object-contain shrink-0 bg-white p-1 shadow-md shadow-red-200"
-                />
+                
                 <div>
                   <p className="font-black text-gray-900">{tpBlog?.cajaTitulo ?? "¿Tu multa encaja con alguno de estos casos?"}</p>
                   <p className="text-xs text-gray-500 mt-0.5">
@@ -834,7 +831,7 @@ function BlogPostPage() {
                   "Análisis con IA en menos de 60 segundos",
                   "% de viabilidad del recurso",
                   "Argumentos legales específicos de tu multa",
-                  "PDF del recurso completo por 4,99€",
+                  "Escrito incluido en la suscripción anual (7,99 €)",
                 ]).map((b) => (
                   <li key={b} className="flex items-center gap-2 text-xs text-gray-600">
                     <Check className="w-3.5 h-3.5 text-red-500 shrink-0" />

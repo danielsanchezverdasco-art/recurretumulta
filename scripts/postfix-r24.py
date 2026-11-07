@@ -7,7 +7,9 @@ Uso: python3 scripts/postfix-r24.py dist [--vivo manifiesto.json] [--cortas pagi
 2) «null/undefined/NaN» visibles en texto -> frase honesta («no publicado»).
 3) Enlaces internos: redirigidos -> URL final; 404 -> se busca el mismo slug en otra sección, si no existe se quita
    el enlace (se conserva el texto). Imágenes inexistentes: se quitan del srcset / se quita el <img>/<source>.
-4) noindex,follow en paginas-cortas.md + noindex-calidad-p2.txt (sitemap-final.py las saca del sitemap).
+4) Desde el 31/10/2026 no se escribe noindex aquí. Solo scripts/politica-noindex.py
+   puede dejarlo, y solo en scripts/noindex-permitidos.txt. noindex-calidad-p2.txt
+   no autoriza a sacar URLs del sitemap.
 5) Duplicados: canonical del duplicado al original; radares tramo/cabina con title/description diferenciados por
    tipo (dato real del slug); apóstrofos en atributos content como &#39;.
 Idempotente. Escribe informe en ../postfix-r24-informe.json."""
@@ -259,7 +261,7 @@ if '--solo-sitemap' in sys.argv:
             loc = re.search(r'<loc>\s*([^<]+?)\s*</loc>', m.group(0))
             if not loc: return m.group(0)
             n = norm(urllib.parse.urlparse(html.unescape(loc.group(1))).path or '/')
-            if n in redir or n not in pidx or n in NOI or n in DUP:
+            if n in redir or n not in pidx or n in DUP:
                 st['sitemap_quitada'] += 1; log['sitemap_quitada'].append(n); return ''
             return m.group(0)
         y = re.sub(r'\s*<url>.*?</url>', g, x, flags=re.S)
@@ -271,8 +273,7 @@ for u, fp in pages.items():
     if not h0.strip(): st['html_vacio'] += 1; log['html_vacio'].append(u); continue
     h = fix_ld(u, h0); h = fix_text_nulls(h); h = fix_links(u, h); h = fix_imgs(u, h); h = quote_apos(h)
     n = norm(u)
-    if n in NOI:
-        h, c = set_noindex(h); st['noindex_puesto'] += c
+    # 31/10/2026: noindex-calidad-p2.txt y paginas-cortas.md ya no marcan noindex.
     if n in DUP:
         h = set_canonical(h, DUP[n]); st['canonical_dup'] += 1
     if u.startswith('/radares/'): h = radar_tipo(h, u)

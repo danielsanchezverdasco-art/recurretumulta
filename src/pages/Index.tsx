@@ -13,9 +13,10 @@ import u from "@/components/shared-navbar.tsx";
 import te from "@/components/shared-footer.tsx";
 import { useTranslation as d } from "react-i18next";
 import { cn as b } from "@/lib/utils.ts";
+import { fotoVisible } from "@/lib/fotos-ausentes.ts";
 import { Button as ne } from "@/components/ui/button.tsx";
 import { Link as S } from "react-router-dom";
-import w from "@/components/caza-monos/MonoEscondido.tsx";
+import w from "@/components/caza-monos/MonoEscondidoLazy.tsx";
 import { fijoId as T } from "@/components/caza-monos/CazaMonosContext.tsx";
 import { CosaAvatar as E } from "@/components/Cosa.tsx";
 import { Card as O, CardContent as D } from "@/components/ui/card.tsx";
@@ -28,7 +29,7 @@ import { BLOG_LITE_HOME, BLOG_COUNT } from "@/lib/blog-lite-home.generated.ts";
 import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 import { LazyConvexProvider } from "@/components/providers/convex-lazy.tsx";
 
-const FAQ_GRATIS_TXT = `Sí, 100% gratis y sin trampa. Subes tu multa, la IA la analiza y te dice qué argumentos tienes, una valoración orientativa (alta, media, baja o no valorable) y cómo presentar el recurso. Sin registrarte, sin tarjeta bancaria. Solo pagas si quieres el PDF listo para firmar (4,99€) — y eso es completamente opcional.`;
+const FAQ_GRATIS_TXT = `Sí, 100% gratis y sin trampa. Subes tu multa, la IA la analiza y te dice qué argumentos tienes, una valoración orientativa (alta, media, baja o no valorable) y cómo presentar el recurso. Sin registrarte, sin tarjeta bancaria. Si quieres vigilancia y el escrito en tu correo, la suscripción son 7,99 € cada año; el PDF no se vende aparte.`;
 // 26/10/2026 (fix menú móvil): estos chunks usan useAction de convex/react. Si
 // terminan de cargar antes que el ConvexProvider raíz (diferido con
 // requestIdleCallback, frecuente en móviles lentos), lanzaban «Could not find
@@ -431,7 +432,7 @@ function re() {
                         className: `mt-2 inline-flex items-center gap-1.5 text-xs font-semibold text-red-700`,
                         children: [
                           (0, B.jsx)(L, { className: `w-3.5 h-3.5` }),
-                          `Analizar la mía gratis (PDF 4,99 €)`,
+                          `Analizar la mía gratis`,
                         ],
                       }),
                     ],
@@ -557,7 +558,7 @@ var X = (0, z.lazy)(() =>
     },
     {
       title: `Cómo recurrir una multa DGT paso a paso`,
-      content: `1. Recibes la notificación de la multa. 2. Tienes 20 días naturales para pagar con el 50% de descuento O para presentar alegaciones — son incompatibles. 3. Sube la multa a RecurreTuMulta.online y obtén el análisis gratuito con los argumentos legales. 4. Si quieres el PDF listo para firmar, genéralo por 4,99€. 5. Firma el documento y envíalo al órgano que impuso la sanción: por la Sede Electrónica de la DGT (sede.dgt.gob.es) con certificado digital o Cl@ve, por correo certificado o presencialmente. 6. La DGT tiene 1 mes para resolver. Si no contesta, se entiende desestimado (silencio administrativo negativo). 7. Si se desestima, puedes acudir a la vía contencioso-administrativa.`,
+      content: `1. Recibes la notificación de la multa. 2. Tienes 20 días naturales para pagar con el 50% de descuento O para presentar alegaciones — son incompatibles. 3. Sube la multa a RecurreTuMulta.online y obtén el análisis gratuito con los argumentos legales. 4. El escrito redactado entra en la suscripción de 7,99 € anuales, no en un pago por documento. 5. Firma el documento y envíalo al órgano que impuso la sanción: por la Sede Electrónica de la DGT (sede.dgt.gob.es) con certificado digital o Cl@ve, por correo certificado o presencialmente. 6. Alegar no se convierte en desestimado al cumplirse un mes. Ese silencio negativo pertenece solo a la reposición ya presentada: el apartado 5 del art. 96 marca ese mes, y el apartado 3 deja la sanción ejecutiva. 7. Si se desestima, puedes acudir a la vía contencioso-administrativa.`,
     },
     {
       title: `Recurrir multa de radar: argumentos clave`,
@@ -745,7 +746,7 @@ function $() {
         applicationCategory: `LegalService`,
         operatingSystem: `Web`,
         url: `https://recurretumulta.online/`,
-        description: `Herramienta de inteligencia artificial para recurrir multas de tráfico DGT gratis en España. Análisis gratuito, recurso PDF por 4,99€.`,
+        description: `Herramienta de inteligencia artificial para recurrir multas de tráfico DGT gratis en España. Análisis gratuito de multas DGT. La suscripción de vigilancia cuesta 7,99 € al año.`,
         offers: [
           {
             "@type": `Offer`,
@@ -757,11 +758,11 @@ function $() {
           },
           {
             "@type": `Offer`,
-            name: `Recurso PDF`,
-            price: `4.99`,
+            name: `Plan anual de vigilancia`,
+            price: `7.99`,
             priceCurrency: `EUR`,
             availability: "https://schema.org/InStock",
-            description: `PDF del recurso de reposición listo para firmar y presentar`,
+            description: `Plan anual de 7,99 €: alertas, análisis y el recurso preparado para que lo envíes tú. No recurrimos en tu nombre.`,
           },
         ],
       },
@@ -1036,7 +1037,7 @@ function $() {
                     }),
                   (0, B.jsx)(`p`, {
                     className: `text-xs text-gray-600 bg-amber-50 border border-amber-200 rounded-xl p-3 text-center mt-2`,
-                    children: `Aviso: el analizador es una herramienta informativa con IA. No es asesoramiento jurídico ni garantiza que la multa se anule; consulta con un abogado si tu caso lo requiere. El análisis es gratis; el recurso en PDF cuesta 4,99 € (opcional).`,
+                    children: `Aviso: el analizador es una herramienta informativa con IA. No es asesoramiento jurídico ni garantiza que la multa se anule; consulta con un abogado si tu caso lo requiere. El análisis es gratis y no sustituye a un abogado. La vigilancia de nuevas multas, si la contratas, son 7,99 € anuales.`,
                   }),
                 ],
               }),
@@ -1218,7 +1219,7 @@ function $() {
                   (0, B.jsx)(`div`, {
                     className: `grid gap-3 sm:grid-cols-2`,
                     children: de.map((e) => {
-                      let t = e.heroSrc,
+                      let t = fotoVisible(e.heroSrc),
                         n = e.heroAlt || e.title;
                       return (0, B.jsx)(
                         S,
@@ -1429,31 +1430,31 @@ function $() {
                               children: [
                                 (0, B.jsx)(`span`, {
                                   className: `font-black text-gray-900`,
-                                  children: e(`pricing.pdf.title`),
+                                  children: e(`pricing.plan.title`),
                                 }),
                                 (0, B.jsx)(A, {
                                   className: `bg-gray-100 text-gray-600 border-0 text-xs font-bold`,
-                                  children: e(`pricing.pdf.badge`),
+                                  children: e(`pricing.plan.badge`),
                                 }),
                               ],
                             }),
                             (0, B.jsxs)(`p`, {
                               className: `text-3xl font-black text-gray-900`,
                               children: [
-                                `4,99€ `,
+                                `7,99 € `,
                                 (0, B.jsx)(`span`, {
                                   className: `text-base font-normal text-gray-400`,
-                                  children: e(`pricing.pdf.perUnit`),
+                                  children: e(`pricing.plan.perUnit`),
                                 }),
                               ],
                             }),
                             (0, B.jsx)(`ul`, {
                               className: `space-y-2 text-xs text-gray-500`,
                               children: [
-                                e(`pricing.pdf.f1`),
-                                e(`pricing.pdf.f2`),
-                                e(`pricing.pdf.f3`),
-                                e(`pricing.pdf.f4`),
+                                e(`pricing.plan.f1`),
+                                e(`pricing.plan.f2`),
+                                e(`pricing.plan.f3`),
+                                e(`pricing.plan.noRecurrimos`),
                               ].map((e) =>
                                 (0, B.jsxs)(
                                   `li`,

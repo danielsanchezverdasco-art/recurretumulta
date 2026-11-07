@@ -228,3 +228,4 @@ De tarifa oficial no hay nada que difundir: Rapido no publica PVP por modelo y c
       "https://www.rapido-camping-car.fr/reisemobil_teilintegrierte_serie-6f_606f.chtml",
   },
 ];
+

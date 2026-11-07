@@ -1169,7 +1169,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     modelo: "Countach LPI 800-4",
     tipo: "Híbrido",
     categoria: "Superdeportivo",
-    precioDesde: 2400000,
+    precioDesde: 2355000,
     potenciaCv: 814,
     autonomiaKm: null,
     maleteroL: 63,
@@ -1186,7 +1186,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
       "Etiqueta ECO gracias a la hibridación ligera",
     ],
     contras: [
-      "Unos 2,4 M€: precio de hiperdeportivo",
+      "Precio oficial anunciado por Lamborghini: 2,64 M USD (unos 2,36 M € al cambio)",
       "Agotado desde 2021: solo subastas",
       "Maletero de 63 litros",
       "Visibilidad trasera casi nula",
@@ -1202,7 +1202,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 720,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precioDesde"],
+    aprox: [],
     imagen: "/media/lamborghini-countach-lpi-800-4-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1267,7 +1267,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
       "Presentado en agosto de 2025: la cima de Sant'Agata",
     ],
     contras: [
-      "Unos 3 M€ antes de impuestos",
+      "Precio oficial: 3 M€ (29 unidades)",
       "Agotado antes de presentarse",
       "Batería de 7 kWh: unos 20 km eléctricos",
       "1.771 kg: el peso de la hibridación",
@@ -1283,7 +1283,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 725,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precioDesde", "autonomiaKm"],
+    aprox: ["autonomiaKm"],
     imagen: "/media/lamborghini-fenomeno-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1348,11 +1348,12 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
       "Techo desmontable: el V12 se escucha sin filtros",
     ],
     contras: [
-      "Precio no anunciado (se rumorean unos 7 M$)",
+      "Lamborghini no ha publicado precio oficial del Roadster (la prensa habla de unos 5 M €)",
       "Agotado: asignación por invitación",
       "Datos técnicos completos aún sin publicar",
       "Mantenimiento de hiperdeportivo único",
       "Sin apenas mercado secundario",
+      "La marca no publica la autonomía eléctrica del Roadster (el coupé declara unos 20 km)",
     ],
     largoMm: null,
     anchoMm: null,

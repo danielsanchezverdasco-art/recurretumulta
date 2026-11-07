@@ -102,7 +102,7 @@ export default function GuiaZbePage() {
       <li><strong>Tu etiqueta y tus excepciones:</strong> empadronamiento, vehículo histórico, movilidad reducida u otras causas pueden eximirte.</li>
       <li><strong>La identificación del vehículo:</strong> la cámara debe identificar correctamente la matrícula.</li>
       </ol>
-      <p className="text-slate-600 mb-4">Tienes el desarrollo completo, con modelos, en <a href="https://recurretumulta.online/blog/como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia" className="text-green-700 font-semibold hover:underline">cómo recurrir multas de la ZBE en Madrid, Barcelona y toda España</a> y en <a href="https://recurretumulta.online/blog/multas-de-trafico-en-barcelona-y-la-zbe-como-recurrir-sanciones-de-la-dgt-y-el-ayuntamiento-al-instante" className="text-green-700 font-semibold hover:underline">multas de tráfico en Barcelona y la ZBE</a>.</p>
+      <p className="text-slate-600 mb-4">Tienes el desarrollo completo, con modelos, en <a href="https://recurretumulta.online/blog/como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia/" className="text-green-700 font-semibold hover:underline">cómo recurrir multas de la ZBE en Madrid, Barcelona y toda España</a> y en <a href="https://recurretumulta.online/blog/multas-de-trafico-en-barcelona-y-la-zbe-como-recurrir-sanciones-de-la-dgt-y-el-ayuntamiento-al-instante/" className="text-green-700 font-semibold hover:underline">multas de tráfico en Barcelona y la ZBE</a>.</p>
 
       <h2 className="text-2xl font-bold mt-10 mb-4">Fuentes oficiales</h2>
       <ul className="list-disc pl-6 space-y-2 text-slate-600 mb-4">

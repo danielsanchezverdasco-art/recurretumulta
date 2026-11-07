@@ -238,7 +238,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
     modelo: "EQE SUV 2025",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 83492,
+    precioDesde: 83244.2,
     potenciaCv: 320,
     autonomiaKm: 617,
     maleteroL: 520,
@@ -341,7 +341,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
     parNm: 400,
     traccion: "Total",
     emisionesCo2: 226,
-    aprox: ["precioDesde", "plazas"],
+    aprox: ["plazas"],
     pros: [
       "Nuevo motor 2.2 Ddi MaxForce: 163 CV y 400 Nm desde 1.600 rpm",
       "5 estrellas Euro NCAP, válidas también para el facelift 2026",
@@ -354,7 +354,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
       "Consumo WLTP de 8,6-9,0 l/100 km: caro de mover a diario",
       "Con 5,28 m de largo, aparcar en ciudad es una odisea",
       "Solo diésel: sin versión híbrida (la D-Max EV aún no llega a España)",
-      "Interiores de plásticos duros impropios de su precio en versiones altas",
+      "Desde 42.600 € según tarifa oficial Isuzu España (junio 2026)",
     ],
     imagen: "/media/isuzu-d-max-2026-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/isuzu-d-max-2026-precio-ficha-tecnica-oficial.webp",
@@ -435,7 +435,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
       "Biplaza estricto con un maletero de solo 180 L",
       "Sin airbags: solo frenos de disco con ABS",
       "Red de servicio y recambios limitada en España",
-      "Desde ~13.000 €: más caro que un Citroën Ami con prestaciones similares",
+      "Sin tarifa oficial vigente en España: PVP de 13.900 € en 2021 y ofertas desde ~12.700 € con financiación",
     ],
     imagen: "/media/xev-yoyo-2025-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/xev-yoyo-2025-precio-ficha-tecnica-oficial.webp",
@@ -608,7 +608,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
     galeria: [
       {
         src: "/media/mercedes-clase-a-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Mercedes-Benz Clase A 2025 gris, vista delantera tres cuartos, foto oficial",
+        alt: "Mercedes-Benz Clase A 2025 gris, vista delantera tres cuartos",
         ancho: 947,
         alto: 482,
       },
@@ -689,7 +689,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
     galeria: [
       {
         src: "/media/mercedes-glb-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Nuevo Mercedes-Benz GLB (X248) rojo, vista delantera tres cuartos, foto oficial de prensa",
+        alt: "Nuevo Mercedes-Benz GLB (X248) rojo, vista delantera tres cuartos",
         ancho: 1534,
         alto: 682,
       },
@@ -770,7 +770,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
     galeria: [
       {
         src: "/media/mercedes-clase-e-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Mercedes-Benz Clase E 2025 (W214) azul oscuro en marcha, vista delantera tres cuartos, foto oficial de prensa",
+        alt: "Mercedes-Benz Clase E 2025 (W214) azul oscuro en marcha, vista delantera tres cuartos",
         ancho: 1300,
         alto: 860,
       },
@@ -919,7 +919,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
       "Autonomía de solo unos 87 km WLTP: solo sirve para trayectos cortos",
       "Velocidad máxima de 80 km/h: sin uso real en autopista",
       "Sin maletero útil y sin carga rápida",
-      "Precio de capricho: unas 35.995 £ en Reino Unido (más de 40.000 € al cambio)",
+      "Sin tarifa oficial publicada en España (venta vía The Jolly Mile, Marbella/Sotogrande); en Reino Unido parte de 35.995 £",
       "Sin prueba EuroNCAP y con equipamiento de seguridad básico",
     ],
     imagen: "/media/moke-electrico-2025-precio-ficha-tecnica-hero.webp",
@@ -937,7 +937,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
       },
       {
         src: "/media/moke-electrico-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "MOKE eléctrico azul, perfil lateral, imagen oficial",
+        alt: "MOKE eléctrico azul, perfil lateral",
         ancho: 1920,
         alto: 960,
       },
@@ -1006,13 +1006,13 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
     galeria: [
       {
         src: "/media/range-rover-electric-2025-precio-ficha-tecnica-hero.webp",
-        alt: "Range Rover Electric verde Belgravia, vista frontal tres cuartos, foto oficial JLR",
+        alt: "Range Rover Electric verde Belgravia, vista frontal tres cuartos",
         ancho: 1920,
         alto: 910,
       },
       {
         src: "/media/range-rover-electric-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Range Rover Electric, vista trasera tres cuartos, foto oficial JLR",
+        alt: "Range Rover Electric, vista trasera tres cuartos",
         ancho: 1920,
         alto: 1006,
       },
@@ -1087,7 +1087,7 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
       },
       {
         src: "/media/porsche-cayenne-electric-2025-precio-ficha-tecnica-oficial.webp",
-        alt: "Porsche Cayenne Electric derrapando en el desierto, foto oficial Porsche",
+        alt: "Porsche Cayenne Electric derrapando en el desierto",
         ancho: 1600,
         alto: 900,
       },

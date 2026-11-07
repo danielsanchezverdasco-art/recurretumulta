@@ -1330,7 +1330,6 @@ malaguti-rst-125-2026-ficha-tecnica-precio
 bultaco-brinco-2026-ficha-tecnica-precio
 mecatecno-t8-2026-ficha-tecnica-precio
 electric-motion-escape-r-2026-ficha-tecnica-precio
-
 lifan-kpt-400
 hanway-sc-125-s
 cyclone-rx1
@@ -1524,3 +1523,6 @@ voge-rr500s-2026-ficha-tecnica-precio
 voge-300rr-2025-ficha-tecnica-precio
 verge-ts-pro-2026-ficha-tecnica-precio
 kove-321rr-2025-ficha-tecnica-precio
+zontes-350d-2026-ficha-tecnica-precio
+zontes-350r-2025-ficha-tecnica-precio
+zontes-350t-2024-ficha-tecnica-precio

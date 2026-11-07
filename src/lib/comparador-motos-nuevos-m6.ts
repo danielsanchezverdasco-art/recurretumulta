@@ -2312,3 +2312,4 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     },
   },
 ];
+

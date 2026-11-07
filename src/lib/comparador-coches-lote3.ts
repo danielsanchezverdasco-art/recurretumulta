@@ -321,6 +321,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
     contras: [
       "206 km de autonomía: solo para ciudad",
       "Aún no se vende en España",
+      "Tarifa en Japón: 3.390.200 yenes, unos 19.100 euros",
       "Batería pequeña de 25,4 kWh",
       "Precio español aún sin confirmar",
       "Sin datos EuroNCAP",
@@ -1871,3 +1872,4 @@ export const COCHES_LOTE3: CocheComparador[] = [
 ];
 
 export const COCHES_LOTE3_IDS: string[] = COCHES_LOTE3.map((c) => c.id);
+

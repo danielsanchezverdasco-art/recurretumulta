@@ -1,6 +1,6 @@
 // Lote P9 — expansión comparador patinetes (50 modelos verificados 2026-10-05).
 // Solo datos verificados en webs oficiales y retailers España/Europa; dato no verificado = null.
-// Inokim, E-Twow, Smartgyro, Cecotec, Kugoo, iScooter, Hiboy, Evercross, Bogist,
+// Inokim, E-Twow, Smartgyro, Cecotec, Kugoo, iScooter, Hiboy, Evercross, Bogist
 // Gotrax, Turboant, Razor, Pure. Modelos reales 2024+.
 // El coordinador fusiona PATINETES_EXP_P9 en el comparador.
 import type { PatineteComparador } from "./comparador-patinetes-data.ts";
@@ -1885,7 +1885,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
     tiempoCargaH: 9,
     frenos: "E-ABS + tambor",
     neumaticos: 'Neumáticos run-flat de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT B1022, versión ES
     foto: "/media/patinetes/xiaomi-electric-scooter-4-pro-plus-1.webp",
     galeria: [
       {

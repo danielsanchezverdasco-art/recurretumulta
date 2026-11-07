@@ -1,6 +1,6 @@
 import { sanearPatinete } from "./fotos-saneadas.ts";
 // Datos estructurados para el comparador de patinetes eléctricos (herramienta "Novedades Motor").
-// Verificados el 02/10/2026 en webs oficiales de las marcas (mi.com, segway.com,
+// Verificados el 02/10/2026 en webs oficiales de las marcas (mi.com, segway.com
 // cecotec.es, niu.com, navee.tech) y manuales oficiales. Solo datos que aparecen
 // en fuentes oficiales o retailers verificados; si un dato no se verifica, el
 // campo es null (se muestra como "no publicado"). No inventar cifras.
@@ -34,7 +34,7 @@ export interface PatineteComparador {
   id: string;              // slug corto del modelo
   marca: string;           // ej. "Xiaomi"
   modelo: string;          // ej. "Electric Scooter 5"
-  precioEur: number | null;       // PVP oficial en España (€); null = no publicado
+  precioEur: number | null;       // Precio de venta oficial en España, IVA incluido (€). Null si no hay tarifa de la marca. No equivale a la palabra PVP cuando la fuente no la usa.
   potenciaNominalW: number | null;
   potenciaPicoW: number | null;
   autonomiaKm: number | null;     // declarada por el fabricante

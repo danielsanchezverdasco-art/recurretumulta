@@ -1907,3 +1907,4 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     },
   },
 ];
+

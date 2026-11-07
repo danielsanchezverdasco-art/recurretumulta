@@ -4,7 +4,7 @@
 // Yadea, SoFlow, Zero, Currus, Bronco (lote C); Segway/Ninebot, iScooter, Joyor, Cecotec (lote D);
 // NIU, Smartgyro, Kaabo, Pure, Zwheel, Hiley, UrbanGlide, Razor (lote E). Modelos reales 2024+.
 // Fotos oficiales de prensa verificadas visualmente (modelo correcto) en /media/patinetes/.
-// Avisos honestos de legalidad VMP: certificadoDgt true solo cuando se verifica; null en el resto,
+// Avisos honestos de legalidad VMP: certificadoDgt true solo cuando se verifica; null en el resto
 // con la advertencia correspondiente en veredicto/contras (modelos >25 km/h no son VMP legales en España).
 // El coordinador fusiona PATINETES_EXP_P11 en el comparador.
 import type { PatineteComparador } from "./comparador-patinetes-data.ts";
@@ -1730,7 +1730,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     videoCanal: null,
     marca: "Cecotec",
     modelo: "Bongo G40 XXL Connected",
-    precioEur: 279,
+    precioEur: 279, //  g40 279 eur agotado IVA 7/11/2026.
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 40,
@@ -1742,7 +1742,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     bateriaWh: 360,
     frenos: "Freno eléctrico delantero + freno de disco trasero",
     neumaticos: 'Neumáticos hinchables de 10"',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT A1137
     foto: "/media/patinetes/cecotec-bongo-g40-xxl-connected.webp",
     galeria: [
       {
@@ -1892,7 +1892,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     bateriaWh: 960,
     frenos: "Frenos hidráulicos delantero y trasero + freno regenerativo",
     neumaticos: 'Neumáticos tubeless Dual Grip de 10"',
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT A1164
     foto: "/media/patinetes/smartgyro-raptor-evo-lr.webp",
     galeria: [
       { alt: "Smartgyro Raptor Evo LR circulando por una pasarela", alto: 1024, ancho: 1024, src: "/media/patinetes/smartgyro-raptor-evo-lr-2.webp" },
@@ -2182,7 +2182,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "100 EVO",
-    precioEur: 269, // PVP oficial UrbanGlide España (urbanglide.com/es), verificado 21/10/2026 (antes 1049: sin respaldo oficial),
+    precioEur: 269, // PVP oficial UrbanGlide España (urbanglide.com/es), verificado 21/10/2026 (antes 1049: sin respaldo oficial)
     potenciaNominalW: 350,
     potenciaPicoW: 450,
     autonomiaKm: 25,

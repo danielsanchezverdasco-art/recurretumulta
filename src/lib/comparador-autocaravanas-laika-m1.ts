@@ -162,3 +162,4 @@ export const AUTOCARAVANAS_LAIKA_M1: Autocaravana[] = [
       "https://www.laika.it/wp-content/uploads/2025/01/Autocaravanas-Camper-Van-Datos-tecnicos-Precios-24-25-3.pdf",
   }
 ];
+

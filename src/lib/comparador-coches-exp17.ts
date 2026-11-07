@@ -119,15 +119,16 @@ export const COCHES_EXP17: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 119,
     aprox: [],
+    textosPropios: { fotos: "La foto del Golf por detrás es de Damian B Oh, CC BY-SA 4.0. No lleva insignia R. El archivo la identifica como 2.0 TDI; la chapa solo lee GOLF." },
     imagen: "/media/volkswagen-golf-20-tdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 6.98, "costeMensualTotal": 174, "estimado": true, "mantenimientoAnual": 320, "notas": "Cifra mensual de esta versión: recorrer 15.000 km al año pagando el gasóleo a 1,55 € por litro da 6,98 € cada 100 km; sumados el seguro amplio de 720 € y los 320 € de taller resultan los 174 € al mes", "precioGasolinaL": 1.55, "precioKwh": 0.18, "seguroAmpliadoAnual": 720, "seguroTercerosAnual": 380},
     galeria: [
       {
         src: "/media/volkswagen-golf-20-tdi-2026-precio-ficha-tecnica-hero.webp",
-        alt: "Volkswagen Golf 2.0 TDI 2026 en carretera secundaria",
-        ancho: 1920,
-        alto: 1280,
+        alt: "Volkswagen Golf por detrás, sin insignia R",
+        ancho: 1280,
+        alto: 960,
       },
       {
         src: "/media/volkswagen-golf-20-tdi-2026-precio-ficha-tecnica-oficial.webp",
@@ -1203,3 +1204,4 @@ export const COCHES_EXP17: CocheComparador[] = [
     ],
   },
 ];
+

@@ -1857,6 +1857,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       { src: "/media/hyundai-inster-electrico-precio-ficha-tecnica-hunt2.webp", alt: "Inster (foto: Hyundai Motor (oficial), licencia desconocida)", ancho: 1326, alto: 882 },
       { src: "/media/hyundai-inster-electrico-precio-ficha-tecnica-hunt3.webp", alt: "Inster (foto: Hyundai UK (prensa) / EV Fleet World (Foleon), licencia desconocida)", ancho: 800, alto: 534 },
     ],
+euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: "https://www.euroncap.com/assessments/hyundai/inster/1200/",
+      nota: "Cuatro estrellas del INSTER eléctrico.",
+    }
   },
   {
     id: "citroen-e-c3-aircross-electrico-precio-ficha-tecnica",
@@ -2731,7 +2737,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: ["autonomiaKm", "bateriaKwh", "cargaRapidaKw", "pesoKg", "precioDesde"],
-    imagen: "/media/yangwang-desconocidos-hero.webp",
+    imagen: "/media/yangwang-u8-commons.webp",
     opiniones: [],
   },
   {
@@ -3323,7 +3329,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "Interior premium con pantalla panorámica de 35,4 pulgadas",
     ],
     contras: [
-      "Precio para España sin confirmar: el de esta ficha es una estimación",
+      "Sin venta ni PVP oficial en España: el precio de esta ficha (56.000 €) es una estimación con aranceles; en China el Zongheng G700 abre la gama en 329.900 yuanes (unos 39.800 €)",
       "Llegada a Europa prevista para 2027",
       "Pesa más de 3.000 kg: atención al carnet necesario",
       "Red de talleres Jetour aún pequeña en España",
@@ -3368,6 +3374,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     largoMm: 4368, anchoMm: 1800, altoMm: 1456, pesoKg: 1346,
     consumo: 5.7, consumoUnidad: "l/100 km", plazas: 5, parNm: 250, traccion: "Delantera", emisionesCo2: 130,
     aprox: ["garantiaBateriaAnos"], imagen: "/media/seat-leon-15-tsi.webp", opiniones: [],
+    euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com/assessments/seat/leon/1122pm/",
+      nota: "Cinco estrellas del León 2025.",
+    },
     galeria: [{ src: "/media/seat-leon-15-tsi-115-2026-precio-ficha-tecnica-oficial.webp", alt: "Foto oficial del SEAT León 1.5 TSI 115", ancho: 1200, alto: 800 },
       { src: "/media/seat-leon-15-tsi-hunt1.webp", alt: "León 1.5 TSI (foto: Periodismo del Motor (prueba del León 1.5 TSI 150 CV), licencia desconocida)", ancho: 1068, alto: 711 },
       { src: "/media/seat-leon-15-tsi-hunt2.webp", alt: "León 1.5 TSI (foto: SEAT (galería oficial SEAT UK), licencia desconocida)", ancho: 1708, alto: 960 },
@@ -3527,6 +3539,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       { src: "/media/seat-arona-10-tsi-hunt2.webp", alt: "Arona 1.0 TSI (foto: SEAT (foto de prensa) / TractioN, licencia desconocida)", ancho: 1280, alto: 720 },
       { src: "/media/seat-arona-10-tsi-hunt3.webp", alt: "Arona 1.0 TSI (foto: SEAT (foto de prensa) / La Guía del Motor, licencia desconocida)", ancho: 1086, alto: 724 },
     ],
+euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: "https://www.euroncap.com/assessments/seat/arona/0942/",
+      nota: "Cinco estrellas del Arona 1.0.",
+    }
   },
   {
     id: "ford-puma-10-ecoboost-mhev",
@@ -3833,7 +3851,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: [],
     imagen: "/media/hyundai-i10-2026.webp",
     opiniones: [],
-    },
+euroncap: {
+      estrellas: 3,
+      ano: 2020,
+      url: "https://www.euroncap.com/assessments/0847/",
+      nota: "Tres estrellas, ficha de 2020.",
+    }
+  },
   {
     id: "kia-stonic-2026",
     mantenimientoDIY: {
@@ -3895,7 +3919,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["consumo"],
     imagen: "/media/kia-stonic-2026.webp",
     opiniones: [],
-    },
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/kia/stonic/0678s2/",
+      nota: "La ficha de 2017 está caducada.",
+    }
+  },
   {
     id: "skoda-fabia-2026",
     mantenimientoDIY: {
@@ -4079,7 +4109,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 119,
     aprox: ["consumo", "garantiaBateriaAnos", "garantiaBateriaDegradacionPct", "garantiaBateriaKm", "maleteroL"],
-    imagen: "/media/seat-ibiza-2026.webp",
+euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: "https://www.euroncap.com/press-media/eight-manufacturers-achieve-euro-ncap-5-stars-in-impressive-car-line-up/",
+      nota: "Cinco estrellas del restyling de 2022.",
+    },
+        imagen: "/media/seat-ibiza-2026.webp",
     opiniones: [],
     },
   {
@@ -5487,7 +5523,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["bateriaKwh", "autonomiaKm"],
     imagen: "/media/kia-niro-hev-129.webp",
     opiniones: [],
-    },
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Ficha del Niro no contrastada.",
+    }
+  },
   {
     id: "hyundai-kona-hybrid-138",
     mantenimientoDIY: {
@@ -5541,7 +5583,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["bateriaKwh", "autonomiaKm", "emisionesCo2"],
     imagen: "/media/hyundai-kona-hybrid-138.webp",
     opiniones: [],
-    },
+euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: "https://www.euroncap.com/assessments/hyundai/kona/1051/",
+      nota: "Cuatro estrellas de esta generación.",
+    }
+  },
   {
     id: "kia-sportage-hev-239",
     mantenimientoDIY: {
@@ -5596,6 +5644,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["bateriaKwh", "autonomiaKm"],
     imagen: "/media/kia-sportage-hev-239.webp",
     opiniones: [],
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: null,
+      nota: "Ficha del Sportage no contrastada.",
+    }
   },
   {
     id: "mazda-3-sedan-e-skyactiv-g",
@@ -6796,7 +6850,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "Prestaciones discretas para viajar cargado (10,1 s)",
       "Desaparece el diésel de la gama",
     ],
-    imagen: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: 3,
+      ano: 2024,
+      url: "https://www.euroncap.com/assessments/dacia/duster/1075/",
+      nota: "Tres estrellas del Duster de 2024.",
+    },
+        imagen: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/dacia-duster-hybrid-2024-precio-ficha-tecnica-interior-oficial.webp",
     galeria: [
@@ -6882,6 +6942,9 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "renault-scenic-e-tech-2024-precio-ficha-tecnica",
+    textosPropios: {
+      precio: "La gama 2024 ya no se vende. La gama actual (2026/2027) solo ofrece el motor de 220 CV, con batería LFP de 67 kWh (467 km) o NMC de 89 kWh (642 km). Tarifa: techno autonomía confort 39.900 € (30.660 € financiado), techno gran autonomía 45.085 € (35.330 €) y esprit Alpine gran autonomía 47.685 € (37.670 €). Promoción vigente del 01/11/2026 al 30/11/2026 según renault.es.",
+    },
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de revisión/servicio",
         resetAceitePasos: ["Apaga completamente el coche.", "Pulsa el botón START sin pisar el pedal de freno (solo se enciende el cuadro; si pisas el freno no aparecen los plazos de revisión).", "Con los mandos de flecha arriba/abajo situados a la derecha del volante, desplázate por el menú hasta ver los plazos antes de revisión ('délais avant révision').", "Mantén pulsado el botón OK durante 10 segundos para reinicializar los plazos y apagar los testigos."],
@@ -6896,13 +6959,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     modelo: "Scenic E-Tech",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 41906,
-    potenciaCv: 218,
-    autonomiaKm: 623,
+    precioDesde: 39900,
+    potenciaCv: 220,
+    autonomiaKm: 642,
     maleteroL: 440,
     ceroCien: 7.9,
     velocidadMax: 170,
-    bateriaKwh: 87,
+    bateriaKwh: 89,
     cargaRapidaKw: 150,
     etiquetaDgt: "Cero",
     garantiaBateriaAnos: 8,
@@ -6920,7 +6983,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: [],
     pros: [
-      "Hasta 623 km de autonomía WLTP: de las mejores del segmento",
+      "Hasta 642 km de autonomía WLTP (batería NMC de 89 kWh): de las mejores del segmento",
       "Maletero de 440 L y gran habitabilidad trasera",
       "Techo panorámico Solarbay que se oscurece por segmentos",
       "Coche del Año en Europa 2024",
@@ -6930,7 +6993,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "Solo tracción delantera, sin versión 4x4",
       "Curva de carga mejorable frente a rivales (150 kW)",
       "Peso de casi 2 toneladas",
-      "Precio de partida elevado (desde 41.906 €)",
+      "Precio de partida elevado (desde 39.900 €; 30.660 € financiado, promo hasta el 30/11/2026)",
       "El diseño divide: ya no es el monovolumen de antes",
     ],
     imagen: "/media/renault-scenic-e-tech-2024-precio-ficha-tecnica-hero.webp",
@@ -6950,7 +7013,8 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   {
     id: "renault-austral-2024-precio-ficha-tecnica",
     textosPropios: {
-      precio: "Tarifa de marzo de 2026 según Motor.es: 34.235 € el mild hybrid de 150 CV y 38.054 € el Full Hybrid de 200 CV, ambos Evolution. Renault España anunciaba el 31/10/2026 unidades en stock del Full Hybrid desde 34.992 hasta 35.361 €, IVA incluido. Los 35.815 € del encabezado son una referencia anterior de nuestro catálogo.",
+      precio: "Austral 2024, el pre-restyling: la gama partía del mild hybrid de 160 CV. Tarifa de abril de 2025: evolution mild 160, 33.520 €; techno mild 160, 37.520 €; evolution E-Tech 200, 38.420 €; techno E-Tech 200, 40.420 €; esprit Alpine E-Tech 200, 43.320 €. En marzo de 2026, según Motor.es, el mild hybrid de 150 CV partía de 34.235 € y el Full Hybrid de 200 CV de 38.054 € (ambos Evolution). Renault España anunciaba el 31/10/2026 unidades en stock del Full Hybrid desde 34.992 hasta 35.361 €, IVA incluido.",
+      otrasVersiones: "Este es el Austral 2024 pre-restyling. Mira también el Austral mild hybrid 160 de 2024, el Austral 2025 mild hybrid 150, el Austral 2025 E-Tech 200 y el Austral 2026 E-Tech 200.",
     },
     mantenimientoDIY: {
         resetAceiteTitulo: "Resetear aviso de cambio de aceite",
@@ -7165,7 +7229,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "Diseño poco agraciado, sobre todo de perfil",
       "Sin tracción total ni versión más potente",
     ],
-    imagen: "/media/dacia-jogger-hybrid-2024-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: 1,
+      ano: 2021,
+      url: "https://www.euroncap.com/assessments/dacia/jogger/0947/",
+      nota: "Una estrella en la ficha de 2021.",
+    },
+        imagen: "/media/dacia-jogger-hybrid-2024-precio-ficha-tecnica-hero.webp",
     imagenOficial: "/media/dacia-jogger-hybrid-2024-precio-ficha-tecnica-oficial.webp",
     imagenInteriorOficial: "/media/dacia-jogger-hybrid-2024-precio-ficha-tecnica-interior-oficial.webp",
     galeria: [
@@ -7323,7 +7393,21 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "Prestaciones discretas (9,8 s de 0 a 100)",
       "Más pesado y torpe en ciudad que un Duster",
     ],
-    imagen: "/media/dacia-bigster-2025-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: 3,
+      ano: 2024,
+      url: "https://www.euroncap.com/assessments/dacia/duster/1144/",
+      nota: "Tres estrellas, pareja del Duster.",
+    },
+planMantenimiento: {
+      intervalo: "Cada año o 30.000 km.",
+      revisiones: [
+        { nombre: "Revisión del Bigster", queSeCambia: "Aceite y filtros.", costeAproxEur: null },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "https://www.dacia.es/preguntas-frecuentes-vehiculos/bigster/mantenimiento.html",
+    },
+            imagen: "/media/dacia-bigster-2025-precio-ficha-tecnica-hero.webp",
     galeria: [
       { src: "/media/dacia-bigster-2025-precio-ficha-tecnica-hero.webp", alt: "Dacia Bigster 2025, el SUV grande de Dacia", ancho: 1500, alto: 800 },
       { src: "/media/dacia-bigster-2025-precio-ficha-tecnica-oficial.webp", alt: "Dacia Bigster 2025, vista lateral", ancho: 1600, alto: 900 },
@@ -7687,7 +7771,13 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 137,
     aprox: [],
-    imagen: "/media/seat-ateca-2024-precio-ficha-tecnica-hero.webp",
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/en/results/SEAT/Ateca/24847",
+      nota: "La ficha de 2016 está caducada.",
+    },
+        imagen: "/media/seat-ateca-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/seat/ateca/2020/estandar/estandar/ateca-10-tsi-85-kw-115-cv-style-evo-edition/datos",
@@ -8029,6 +8119,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     opiniones: [],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/hyundai/bayon/2024/estandar/estandar/bayon-10-t-gdi-100-cv-48v-klass/datos",
+euroncap: {
+      estrellas: 4,
+      ano: 2021,
+      url: "https://www.euroncap.com/assessments/hyundai/bayon/0891/",
+      nota: "Cuatro estrellas, ficha de 2021.",
+    }
   },
   {
     id: "hyundai-i30-2024-precio-ficha-tecnica",
@@ -8097,6 +8193,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     opiniones: [],
     fuenteNombre: "km77",
     fuenteUrl: "https://www.km77.com/coches/hyundai/i30/2020/5-puertas/estandar/i30-5p-15-dpi-96-cv-n-line-se/datos",
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/hyundai/i30/0674/",
+      nota: "La prueba de 2017 está caducada.",
+    }
   },
   {
     id: "kia-ceed-2024-precio-ficha-tecnica",
@@ -10472,6 +10574,12 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     opiniones: [],
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/hyundai/santa-fe/2024/estandar/datos?market[]=available&amp=1",
+euroncap: {
+      estrellas: 4,
+      ano: 2024,
+      url: "https://www.euroncap.com/en/results/hyundai/santa-fe/53407",
+      nota: "Cuatro de serie y cinco con pack.",
+    }
   },
   {
     id: "toyota-bz4x-precio-ficha-tecnica",

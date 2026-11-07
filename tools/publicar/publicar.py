@@ -44,6 +44,7 @@ class Ctx:
         s.logf = open(os.path.join(s.work, "publicar-%s.log" % time.strftime("%Y%m%d-%H%M%S")), "a", encoding="utf8")
         s.estado = {}
         s.avisos = []
+        s.hechas = set()
 
     def sc(s, t):  # quita cualquier secreto de lo que se imprime
         for k in SECRETOS:
@@ -266,8 +267,29 @@ def f_src(c):
     c.ok("ficheros cambiados respecto a lo vivo: %d" % len(changed))
     nt = set(lines_of(os.path.join(HERE, "no-tocar.txt")))
     tocados = sorted(set(changed) & nt)
-    if tocados: c.abort("Se han tocado %d páginas/ficheros BLOQUEADOS (no-tocar.txt): %s" % (len(tocados), ", ".join(tocados[:10])))
-    c.ok("0 ficheros de no-tocar.txt cambiados (%d en la lista)" % len(nt))
+    exc = {}
+    ep = os.path.join(HERE, "excepciones-hash.txt")
+    if os.path.exists(ep):
+        for raw in open(ep, encoding="utf8"):
+            s = raw.split("#", 1)[0].strip()
+            if not s:
+                continue
+            parts = s.split()
+            if len(parts) != 2 or not re.fullmatch(r"[0-9a-f]{40}", parts[1]):
+                c.abort("excepciones-hash.txt: línea inválida (hace falta ruta y blob de 40 hex): %s" % s[:120])
+            if parts[0] not in nt:
+                c.abort("excepciones-hash.txt no puede cubrir %s: no está en no-tocar.txt. El gate no se desactiva." % parts[0])
+            exc[parts[0]] = parts[1]
+    fuera = []
+    for f in tocados:
+        blob = c.git("rev-parse", "HEAD:" + f).strip()
+        if exc.get(f) == blob:
+            c.ok("excepción de esta tanda, solo este blob: %s %s" % (f, blob))
+        else:
+            fuera.append("%s %s" % (f, blob))
+    if fuera:
+        c.abort("Se han tocado %d páginas/ficheros BLOQUEADOS (no-tocar.txt) sin excepción de hash para ese blob: %s" % (len(fuera), "; ".join(fuera[:10])))
+    c.ok("0 ficheros de no-tocar.txt fuera de la excepción de hash (%d en la lista, %d blobs autorizados y coincidentes)" % (len(nt), len(tocados)))
     # títulos congelados hasta el 1/11/2026 (Madrid)
     csvp = "src/content/seo/titulos.csv"
     def rows(txt):
@@ -290,6 +312,7 @@ def f_src(c):
     c.need_full = [x for x in changed if x.startswith("src/") and not DATA_RE.search(x)]
     if c.need_full:
         c.say("  (hay %d cambios de CÓDIGO en src/, p.ej. %s → exige prerender TOTAL)" % (len(c.need_full), c.need_full[0]))
+    c.hechas.add("src")
 
 
 def f_rev3(c):
@@ -302,6 +325,7 @@ def f_rev3(c):
     for l in t.splitlines()[:4]: c.say("    " + l)
     if n != 0: c.abort("rev3: %d frases de 8+ palabras NUEVAS repetidas (detalle en %s). Reescribe sin repetir; no se publica." % (n, out))
     c.ok("rev3 = 0 nuevas repeticiones")
+    c.hechas.add("rev3")
 
 
 def rutas_todas(c, ref=None):
@@ -379,6 +403,8 @@ def f_build(c):
         c.say("  paso: " + " ".join(os.path.basename(x) if i == 0 else x for i, x in enumerate(cmd[:3])))
         c.run(cmd, cwd=cwd, quiet=True)
     c.ok("postproceso (19 pasos) OK")
+    open(os.path.join(c.work, "build-commit"), "w", encoding="utf8").write(c.git("rev-parse", "HEAD").strip() + "\n")
+    c.ok("artefacto marcado con HEAD en build-commit")
     dirty = [l for l in c.git("status", "--porcelain").splitlines() if l.strip()]
     malos = [l for l in dirty if not DIRT_OK.search(l[3:].strip().strip('"'))]
     if malos: c.abort("El build ha modificado ficheros fuente inesperados: " + "; ".join(malos[:6]))
@@ -500,6 +526,7 @@ def f_dist(c):
         c.abort("dist/_redirects PIERDE %d reglas del _redirects en vivo (p.ej. %s). Causa típica: construyes desde main, que no tiene los 301 de lexus-tz-2026, audi-q9-2026, bmw-ix7-2027 y bentley-torcal-first-edition-2026; usa la rama del kit." % (len(perdidas), sorted(perdidas)[:3]))
     c.ok("_redirects completo (%d líneas): 0 reglas del vivo perdidas (comparadas una a una)" % len(rd.splitlines()))
     c.say("\nRESUMEN DRY-RUN: nuevos %d | cambiados %d | eliminaciones 0 | avisos %d" % (c.n_new, c.n_chg, len(c.avisos)))
+    c.hechas.add("dist")
 
 
 def check_urls(c, base, paths, redir_src=None, intentos=5, espera=12):
@@ -521,7 +548,7 @@ def check_urls(c, base, paths, redir_src=None, intentos=5, espera=12):
 
 
 def f_publicar(c):
-    c.fase("publicar", "borrador, QA, publicar, purgar, verificar")
+    c.fase("publicar", "publicación directa, purgar, verificar")
     if not c.a.si_daniel or len(c.a.si_daniel.strip()) < 8:
         c.abort("--publicar exige --si-daniel \"<fecha/hora y frase de Daniel en su chat>\". Sin un sí explícito de Daniel NO se publica.")
     if sys.stdin.isatty():
@@ -538,26 +565,64 @@ def f_publicar(c):
     snap = {p: http(PROD + p)[0] for p in ("/tienda", "/tienda/")}
     mf = os.path.join(c.work, "media-forzar.txt")
     titulo = "%s %s Merlín" % (c.a.titulo or "subida", time.strftime("%d-%m-%Y"))
-    c.py("mkdraft.py", "--dist", c.dist, "--vivo", c.live, "--titulo", titulo, *(["--media-forzar", mf] if os.path.exists(mf) else []), env={"REDIRECTS_VIVO": c.redirects_vivo})
-    D = open(os.path.join(c.work, "draft_id")).read().strip()
-    if open(os.path.join(c.work, "draft_vivo_base")).read().strip() != c.live: c.abort("El borrador no es sobre el vivo actual.")
-    c.say("  BORRADOR %s" % D)
-    for _ in range(60):
-        d = c.comun.api("GET", "/deploys/" + D)
-        if d["state"] == "ready": break
-        if d["state"] in ("error", "rejected"): c.abort("Borrador en estado %s" % d["state"])
-        time.sleep(15)
-    else: c.abort("El borrador no llegó a 'ready' en 15 min. NO publicado.")
-    B = "https://%s--%s.netlify.app" % (D, c.comun.site_name())
-    c.ok("borrador ready: " + B)
-    mal = check_urls(c, B, verif, rd_src, intentos=3, espera=10)
-    if mal: c.abort("QA del BORRADOR falla en %d URLs (p.ej. %s). NO publicado." % (len(mal), mal[:5]))
-    c.ok("borrador: portada, %d nuevas y muestra de %d cambiadas dan 200" % (len(nuevas[:400]), len(muestra)))
-    c.py("qa.py", B, "--rutas", os.path.join(c.work, "rutas.txt"))
-    c.ok("qa.py del borrador TODO OK")
-    c.py("publicar.py", "--draft", D, "--vivo", c.live)
-    c.py("publicar.py", "--draft", D, "--vivo", c.live, "--go")
-    c.ok("PUBLICADO %s (rollback %s)" % (D, c.live))
+    from plan_conservacion import via_publicacion
+    via = via_publicacion(c.a.con_borrador)
+    media_args = ["--media-forzar", mf] if os.path.exists(mf) else []
+    if via == "directo":
+        for req in ("src", "rev3", "dist"):
+            if req not in c.hechas:
+                c.abort("La publicación directa exige las fases src, rev3 y dist en esta misma ejecución. No se saltan con --solo.")
+        head = c.git("rev-parse", "HEAD").strip()
+        stamp_p = os.path.join(c.work, "build-commit")
+        stamp = open(stamp_p, encoding="utf8").read().strip() if os.path.isfile(stamp_p) else ""
+        if stamp != head:
+            sys.path.insert(0, HERE)
+            from compilar import comprobar_reutilizacion
+            fallos = comprobar_reutilizacion(c.repo, c.dist)
+            if fallos:
+                c.abort("Reutilización rechazada (%s -> %s): %s. build-commit no se reescribe." % (stamp[:12] or "ausente", head[:12], "; ".join(fallos[:6])))
+            c.ok("dist de %s reutilizado para %s. Identidades distintas. build-commit sigue en el sello." % (stamp[:12], head[:12]))
+        c.py("mkdraft.py", "--dist", c.dist, "--vivo", c.live, "--titulo", titulo, "--directo", *media_args, env={"REDIRECTS_VIVO": c.redirects_vivo})
+        D = open(os.path.join(c.work, "deploy_id")).read().strip()
+        if open(os.path.join(c.work, "deploy_vivo_base")).read().strip() != c.live:
+            c.abort("El deploy directo no es sobre el vivo actual. No se crea otro.")
+        c.say("  DIRECTO %s (createSiteDeploy draft false; no es un borrador)" % D)
+        d = {}
+        for _ in range(60):
+            d = c.comun.api("GET", "/deploys/" + D)
+            if d.get("state") == "ready": break
+            if d.get("state") in ("error", "rejected"):
+                c.abort("Deploy directo en estado %s. El vivo no se toca si no llegó a ready. No se crea otro." % d.get("state"))
+            time.sleep(15)
+        else:
+            c.abort("El deploy directo no llegó a ready en 15 min. No se crea otro.")
+        if d.get("draft") is True:
+            c.abort("Netlify marcó %s como draft. No lo promociono con restore." % D)
+        now = c.comun.live_id()
+        if now != D:
+            c.abort("Deploy %s ready pero el vivo sigue %s. No se lanza una segunda publicación." % (D, now))
+        c.ok("PUBLICADO %s (rollback %s) por createSiteDeploy con draft false" % (D, c.live))
+    else:
+        c.py("mkdraft.py", "--dist", c.dist, "--vivo", c.live, "--titulo", titulo, *media_args, env={"REDIRECTS_VIVO": c.redirects_vivo})
+        D = open(os.path.join(c.work, "draft_id")).read().strip()
+        if open(os.path.join(c.work, "draft_vivo_base")).read().strip() != c.live: c.abort("El borrador no es sobre el vivo actual.")
+        c.say("  BORRADOR %s" % D)
+        for _ in range(60):
+            d = c.comun.api("GET", "/deploys/" + D)
+            if d["state"] == "ready": break
+            if d["state"] in ("error", "rejected"): c.abort("Borrador en estado %s" % d["state"])
+            time.sleep(15)
+        else: c.abort("El borrador no llegó a 'ready' en 15 min. NO publicado.")
+        B = "https://%s--%s.netlify.app" % (D, c.comun.site_name())
+        c.ok("borrador ready: " + B)
+        mal = check_urls(c, B, verif, rd_src, intentos=3, espera=10)
+        if mal: c.abort("QA del BORRADOR falla en %d URLs (p.ej. %s). NO publicado." % (len(mal), mal[:5]))
+        c.ok("borrador: portada, %d nuevas y muestra de %d cambiadas dan 200" % (len(nuevas[:400]), len(muestra)))
+        c.py("qa.py", B, "--rutas", os.path.join(c.work, "rutas.txt"))
+        c.ok("qa.py del borrador TODO OK")
+        c.py("publicar.py", "--draft", D, "--vivo", c.live)
+        c.py("publicar.py", "--draft", D, "--vivo", c.live, "--go")
+        c.ok("PUBLICADO %s (rollback %s)" % (D, c.live))
     # a partir de aquí cualquier fallo => instrucciones de rollback
     rb = "python3 scripts/deploy/rollback.py --a %s --desde %s --go && python3 scripts/deploy/purgar.py" % (c.live, D)
     try:
@@ -607,7 +672,8 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--repo", default=os.path.abspath(os.path.join(HERE, "..", "..")))
     ap.add_argument("--dist", default="dist")
-    ap.add_argument("--publicar", action="store_true", help="publica de verdad (por defecto es DRY-RUN)")
+    ap.add_argument("--publicar", action="store_true", help="publica de verdad, directa (draft false). Por defecto es DRY-RUN")
+    ap.add_argument("--con-borrador", action="store_true", help="vía antigua: crea borrador y luego restore. No es la preferencia (Daniel 7/11 10:11)")
     ap.add_argument("--si-daniel", help="texto/fecha del sí explícito de Daniel (obligatorio con --publicar)")
     ap.add_argument("--dry-run", action="store_true", help="(es el modo por defecto)")
     ap.add_argument("--ramas", help="ramas de origin a fusionar antes, separadas por comas")

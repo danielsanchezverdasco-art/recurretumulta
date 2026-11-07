@@ -1487,7 +1487,7 @@ El 4 E-Hybrid (470 CV, 135.065 €) es la compra racional; el Turbo añade 210 C
       "suv eléctrico porsche",
     ],
     content: `
-<img src=/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-hero.webp alt=Porsche Macan 4 Electric 2026 en carretera>
+<img src=/media/porsche-macan-4-electric-2026-precio-ficha-tecnica-commons.webp alt="Porsche Macan 4. Foto: Alexander-93, CC BY-SA 4.0">
 
 **¿Buscas solo los datos?** <a href=/coches/porsche-macan-4-electric-2026-precio-ficha-tecnica/>Ver ficha técnica del Macan 4 Electric 2026</a>: precio, autonomía, potencia y carga. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 

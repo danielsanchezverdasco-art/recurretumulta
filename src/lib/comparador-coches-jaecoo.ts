@@ -392,7 +392,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
-    imagenOficial: "/media/jaecoo-8-shs-2026-precio-ficha-tecnica-hero.webp",
+    imagenOficial: "/media/jaecoo-8-shs-commons.webp",
     imagenInteriorOficial: "",
     videoId: "et30-pnlgr0",
     videoCanal: "SoyMotor",

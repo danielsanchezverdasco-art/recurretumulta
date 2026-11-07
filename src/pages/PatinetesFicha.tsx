@@ -22,6 +22,7 @@ import SharedFooter from "@/components/shared-footer.tsx";
 import { Marker, useSpotlight } from "@/components/motion.tsx";
 // 18/10/2026 (rediseño fichas): misma cabecera, pestañas, barra y rivales que coches.
 import GaleriaFicha, { type FotoFicha } from "@/components/ficha/GaleriaFicha.tsx";
+import { fotoModelo } from "@/lib/fotos-modelo.ts";
 import { FranjaPrecio, PanelLateral, cambioDesdeHistorial, type DatoClave } from "@/components/ficha/CabeceraPrecio.tsx";
 import PestanasFicha from "@/components/ficha/PestanasFicha.tsx";
 import BarraInferiorFicha from "@/components/ficha/BarraInferiorFicha.tsx";
@@ -148,8 +149,17 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
 
   // 18/10/2026 (rediseño): galería superior, datos clave y precio.
   const dimDe = (src: string) => dims[src.split("/").pop() ?? ""];
+  const registrada = fotoModelo(patinete.id);
+  const principal = registrada?.src || (!patinete.fotoPendiente ? patinete.foto : "");
   const fotosTop: FotoFicha[] = [
-    ...(!patinete.fotoPendiente && patinete.foto ? [{ src: patinete.foto, alt: `Foto oficial del ${nombre}`, ancho: dimDe(patinete.foto)?.[0], alto: dimDe(patinete.foto)?.[1] }] : []),
+    ...(principal
+      ? [{
+          src: principal,
+          alt: `Foto oficial del ${nombre}`,
+          ancho: dimDe(principal)?.[0],
+          alto: dimDe(principal)?.[1],
+        }]
+      : []),
     ...(patinete.galeria ?? []).map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
   ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
   const datosClave: DatoClave[] = [
@@ -558,7 +568,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             const g = garantiaDeMarca(patinete.marca, "patinetes");
             return g && g.anios != null ? (
               <p className="mt-3 text-sm text-gray-500">
-                {`🛡️ Garantía oficial ${patinete.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
+                {`🛡️ En el ${nombre}, garantía oficial ${patinete.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
                 {g.nota ? <span className="text-gray-400"> ({g.nota.split(".")[0]})</span> : null}
               </p>
             ) : null;

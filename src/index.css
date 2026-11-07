@@ -887,7 +887,25 @@ html.rv .rtm-reveal:not(.is-inview) { opacity: 0; transform: translateY(var(--re
    para que el HTML de esas páginas baje de 1 MB sin quitar ni un enlace a las fichas. */
 .ficha-mini { border: 1px solid #e5e7eb; border-radius: 0.75rem; background: #fff; padding: 0.75rem; box-shadow: 0 1px 2px rgb(0 0 0 / 0.05); content-visibility: auto; contain-intrinsic-size: auto 96px; }
 .ficha-mini p { margin: 0; font-size: 0.875rem; font-weight: 800; color: #cd001d; }
+
+/* 6/11/2026: las fichas de radar meten el identificador y la URL del XML
+   de la DGT en <code> dentro de .prose. Esos tokens no parten y, a 390 px,
+   el artículo empuja el scroll horizontal unos 53 px. RadarPage.tsx está
+   en no-tocar.txt: el corte va aquí, sin tocar ese fichero. */
+.prose :where(code, a, li, p) {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+/* Las fichas meten URLs largas en curiosidades y tablas. Sin esto, a 390 px
+   el párrafo empuja el documento. El corte parte el token; no oculta el texto. */
+#ficha-pdf :where(p, li, td, th, code) {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
 .ficha-mini p:first-child { font-size: 10px; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: #6b7280; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+/* El nav del pie parte la última palabra al borde de 390 px si flex no llega a aplicarse. */
+nav[aria-label="Footer navegación"] { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 0.75rem; max-width: 100%; }
+nav[aria-label="Footer navegación"] a { max-width: 100%; }
 .ficha-mini h3 { margin: 0; font-size: 0.875rem; font-weight: 800; line-height: 1.25; color: #111827; }
 .fila-mini { border: 1px solid #e5e7eb; border-radius: 1rem; background: #fff; padding: 0.5rem 0.75rem; font-size: 0.875rem; color: #4b5563; content-visibility: auto; contain-intrinsic-size: auto 48px; }
 .fila-mini a { font-weight: 700; color: #111827; }

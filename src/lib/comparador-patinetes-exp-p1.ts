@@ -11,7 +11,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: null,
     marca: "Xiaomi",
     modelo: "Electric Scooter 5 Max",
-    precioEur: 599.99, // tarifa oficial España (verificado 20/10/2026),
+    precioEur: 599.99, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 400,
     potenciaPicoW: 1000,
     autonomiaKm: 60,
@@ -23,7 +23,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     bateriaWh: 477,
     frenos: "Tambor delantero + E-ABS trasero",
     neumaticos: 'Neumáticos tubeless de 10" (60 mm de ancho)',
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT B1080, versión ES
     foto: "/media/patinetes/xiaomi-electric-scooter-5-max-1.webp",
     galeria: [
       {
@@ -72,7 +72,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: null,
     marca: "Xiaomi",
     modelo: "Electric Scooter 4 Pro (2nd Gen)",
-    precioEur: 549.99, // tarifa oficial España (verificado 20/10/2026),
+    precioEur: 549.99, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 400,
     potenciaPicoW: 1000,
     autonomiaKm: 60,
@@ -84,7 +84,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     bateriaWh: 468,
     frenos: "Tambor delantero + E-ABS trasero",
     neumaticos: 'Neumáticos tubeless de 10" (60 mm de ancho)',
-    certificadoDgt: true,
+    certificadoDgt: true, // registro DGT B1030, versión ES
     foto: "/media/patinetes/xiaomi-electric-scooter-4-pro-2nd-gen-1.webp",
     galeria: [
       {
@@ -132,7 +132,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: "StratosTech",
     marca: "Xiaomi",
     modelo: "Electric Scooter 4 Lite (2nd Gen)",
-    precioEur: 299.99, // tarifa oficial España (verificado 20/10/2026),
+    precioEur: 299.99, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 500,
     autonomiaKm: 25,
@@ -144,7 +144,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     bateriaWh: 225,
     frenos: "Tambor delantero + E-ABS trasero",
     neumaticos: 'Neumáticos de 10" sin cámara',
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT B1036, versión ES
     foto: "/media/patinetes/xiaomi-electric-scooter-4-lite-2nd-gen-1.webp",
     galeria: [
       {
@@ -192,7 +192,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: "GO Reviews",
     marca: "Xiaomi",
     modelo: "Electric Scooter 6",
-    precioEur: 399.99, // tarifa oficial Europa (verificado 20/10/2026),
+    precioEur: 399.99, // tarifa oficial Europa (verificado 20/10/2026)
     potenciaNominalW: 400,
     potenciaPicoW: 800,
     autonomiaKm: 45,
@@ -312,7 +312,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     bateriaWh: 468,
     frenos: "Freno de disco delantero + E-ABS trasero",
     neumaticos: "Neumáticos todoterreno de 12\"",
-    certificadoDgt: null,
+    certificadoDgt: true, // registro DGT B1131
     foto: "/media/patinetes/xiaomi-electric-scooter-6-pro-oficial.webp",
     galeria: [],
     aprox: [
@@ -441,7 +441,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: "RONIN RIDER",
     marca: "Segway-Ninebot",
     modelo: "KickScooter MAX G3 E",
-    precioEur: 899.99, // tarifa oficial España (verificado 20/10/2026),
+    precioEur: 899.99, // tarifa oficial España (verificado 20/10/2026)
     potenciaNominalW: 700,
     potenciaPicoW: 2000,
     autonomiaKm: 80,
@@ -737,7 +737,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: "santiGO",
     marca: "NIU",
     modelo: "KQi 300P",
-    precioEur: 519, // tarifa oficial Europa (tienda oficial NIU UE) (verificado 20/10/2026),
+    precioEur: 519, // tarifa oficial Europa (tienda oficial NIU UE) (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: 900,
     autonomiaKm: 48,
@@ -798,7 +798,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: null,
     marca: "NIU",
     modelo: "KQi 200P",
-    precioEur: 600, // 649 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 600, // 649 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 54,
@@ -844,7 +844,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: null,
     marca: "NIU",
     modelo: "KQi 200F",
-    precioEur: 600, // 699 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 600, // 699 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 54,
@@ -890,7 +890,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: "Adrián Pérez",
     marca: "NIU",
     modelo: "KQi 100P",
-    precioEur: 400, // 429 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 400, // 429 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 300,
     potenciaPicoW: 600,
     autonomiaKm: 29,
@@ -952,7 +952,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: "Al Vazquez",
     marca: "NAVEE",
     modelo: "S40",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 40,
@@ -1013,7 +1013,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: "La TecnoCueva",
     marca: "NAVEE",
     modelo: "GT3 Max",
-    precioEur: 400, // 499,99 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 400, // 499,99 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 400,
     potenciaPicoW: 1000,
     autonomiaKm: 75,
@@ -1073,7 +1073,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: "clipset",
     marca: "NAVEE",
     modelo: "ST3 Pro",
-    precioEur: 800, // 849,99 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena,
+    precioEur: 800, // 849,99 $ (tarifa oficial EE. UU.) ÷ 1,1225 (BCE 19/10/2026), redondeado a la centena
     potenciaNominalW: 600,
     potenciaPicoW: 1350,
     autonomiaKm: 75,
@@ -1133,7 +1133,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure Electric",
     modelo: "Air 5",
-    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026),
+    precioEur: null, // sin tarifa oficial verificable (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 840,
     autonomiaKm: 47,

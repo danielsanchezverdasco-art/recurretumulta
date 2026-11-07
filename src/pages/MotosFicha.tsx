@@ -17,6 +17,8 @@ import {
   Zap,
 } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
+import { fotoVisible } from "@/lib/fotos-ausentes.ts";
+import { fotoModelo } from "@/lib/fotos-modelo.ts";
 import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
@@ -169,9 +171,19 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
     (!esCombustionMoto(moto) && (moto.autonomiaKm != null || moto.carga != null));
   // 18/10/2026 (rediseño): galería superior, datos clave y precio.
   const dimDe = (src: string) => dims[src.split("/").pop() ?? ""];
+  const registrada = fotoModelo(moto.id);
+  const principal = registrada?.src || moto.imagen;
+  const galeriaConFoto = moto.galeria.filter((f) => fotoVisible(f.src) && f.src !== principal);
   const fotosTop: FotoFicha[] = [
-    ...(moto.imagen ? [{ src: moto.imagen, alt: `Foto oficial de la ${nombre}`, ancho: dimDe(moto.imagen)?.[0], alto: dimDe(moto.imagen)?.[1] }] : []),
-    ...moto.galeria.map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
+    ...(principal && fotoVisible(principal)
+      ? [{
+          src: principal,
+          alt: `Foto oficial de la ${nombre}`,
+          ancho: dimDe(principal)?.[0],
+          alto: dimDe(principal)?.[1],
+        }]
+      : []),
+    ...galeriaConFoto.map((f) => ({ src: f.src, alt: f.alt, ancho: f.ancho, alto: f.alto })),
   ].filter((f, i, a) => a.findIndex((g) => g.src === f.src) === i);
   const datosClave: DatoClave[] = [
     (moto.potenciaCv != null || moto.potenciaKw != null) && { icono: <Zap className="h-5 w-5" />, valor: moto.potenciaCv != null ? `${String(moto.potenciaCv).replace(".", ",")} CV` : `${String(moto.potenciaKw).replace(".", ",")} kW`, label: "Potencia" },
@@ -498,12 +510,12 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
         {/* ── Análisis editorial único por ficha (estándar AdSense 2026-10-19) ── */}
         <AnalisisEditorial slug={moto.id} />
 
-        {moto.galeria.length > 0 && (
+        {galeriaConFoto.length > 0 && (
           <Suspense fallback={null}>
           <section id="fotos" className="mt-8 scroll-mt-32" aria-label="Galería de fotos oficiales">
             <NightGallery label="Galería">
             <div className="mt-3 flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 sm:grid sm:grid-cols-3 sm:overflow-visible">
-              {moto.galeria.map((f) => (
+              {galeriaConFoto.map((f) => (
                 <figure
                   key={f.src}
                   className="rtm-card w-72 shrink-0 snap-center overflow-hidden rounded-2xl sm:w-auto"
@@ -595,7 +607,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             const g = garantiaDeMarca(moto.marca, "motos");
             return g && g.anios != null ? (
               <p className="mt-3 text-sm text-gray-500">
-                {`🛡️ Garantía oficial ${moto.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
+                {`🛡️ En la ${nombre}, garantía oficial ${moto.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
                 {tp?.garantiaNota ? <span className="text-gray-400"> ({tp.garantiaNota})</span> : g.nota ? <span className="text-gray-400"> ({g.nota.split(".")[0]})</span> : null}
               </p>
             ) : null;

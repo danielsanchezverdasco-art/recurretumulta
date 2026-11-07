@@ -82,6 +82,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       }
     ],
     planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "El manual del propietario del Kona Electric sitúa la revisión periódica importante cada 2 años o 30.000 km y recomienda sustituir el líquido de frenos cada dos años. Al ser eléctrico no hay aceite de motor que cambiar: la visita se centra en la batería de alto voltaje, los frenos, el filtro del habitáculo y la refrigeración. Ninguna fuente consultada publica tarifas cerradas para España, así que no se da un coste de revisión.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.manualpdf.es/hyundai/kona-electric-2024/manual?p=176"},
+euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: "https://www.euroncap.com/assessments/hyundai/kona/1051/",
+      nota: "Cuatro estrellas de esta generación.",
+    }
   },
   {
     id: "hyundai-tucson-hibrido-2026-precio-ficha-tecnica",
@@ -163,6 +169,23 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.hyundai.news/eu/articles/press-releases/hyundai-tucson-and-ioniq-5-achieve-five-star-ratings-in-euro-ncap-testing.html",
+      nota: "Restyling sin revisión publicada.",
+    },
+    planMantenimiento: {
+          intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+          revisiones: [
+            {
+              nombre: "Revisión anual / 15.000 km",
+              queSeCambia: "Aceite, filtros e inspección general",
+              costeAproxEur: null,
+            },
+          ],
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
+        }
   },
   {
     id: "hyundai-tucson-hibrido-enchufable-2026-precio-ficha-tecnica",
@@ -344,6 +367,23 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/0893/",
+      nota: "El N no figura en esa ficha.",
+    },
+    planMantenimiento: {
+          intervalo: "Cada 24 meses o 30.000 km (lo que ocurra antes)",
+          revisiones: [
+            {
+              nombre: "Revisión bienal / 30.000 km",
+              queSeCambia: "Inspección general, filtro de habitáculo y estado de la batería de alto voltaje",
+              costeAproxEur: null,
+            },
+          ],
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
+        }
   },
   {
     id: "hyundai-ioniq-9-2026-precio-ficha-tecnica",
@@ -425,6 +465,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
+euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com/assessments/hyundai/ioniq-9/1157/",
+      nota: "Cinco estrellas del IONIQ 9.",
+    },
+    planMantenimiento: {
+          intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+          revisiones: [
+            {
+              nombre: "Revisión bienal / 30.000 km",
+              queSeCambia: "Inspección general, filtro de habitáculo y estado de la batería de alto voltaje",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
+        }
   },
   {
     id: "hyundai-staria-hibrido-2026-precio-ficha-tecnica",
@@ -606,6 +664,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
+euroncap: {
+      estrellas: 5,
+      ano: 2025,
+      url: "https://www.euroncap.com/press-media/mercedes-star-shines-bright-as-euro-ncap-s-final-results-deliver-safer-options-for-every-buyer/",
+      nota: "Cinco estrellas, publicación de 2025.",
+    }
   },
   {
     id: "hyundai-santa-fe-hibrido-enchufable-2026-precio-ficha-tecnica",
@@ -654,6 +718,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: null,
     aprox: [],
+    euroncap: {
+      estrellas: 4,
+      ano: 2024,
+      url: "https://www.euroncap.com/en/results/hyundai/santa-fe/53407",
+      nota: "Cuatro de serie y cinco con pack.",
+    },
     imagen: "/media/hyundai-santa-fe-hibrido-enchufable-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -868,6 +938,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/hyundai/inster/1200/",
+      nota: "El Cross no está en la ficha.",
+    },
+    planMantenimiento: {
+          intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+          revisiones: [
+            {
+              nombre: "Revisión bienal / 30.000 km",
+              queSeCambia: "Inspección general, filtro de habitáculo y estado de la batería de alto voltaje",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
+        }
   },
   {
     id: "hyundai-tucson-gasolina-2025-precio-ficha-tecnica",
@@ -949,6 +1037,23 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.hyundai.news/eu/articles/press-releases/hyundai-tucson-and-ioniq-5-achieve-five-star-ratings-in-euro-ncap-testing.html",
+      nota: "Restyling sin revisión publicada.",
+    },
+    planMantenimiento: {
+          intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+          revisiones: [
+            {
+              nombre: "Revisión anual / 15.000 km",
+              queSeCambia: "Aceite, filtros e inspección general",
+              costeAproxEur: null,
+            },
+          ],
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
+        }
   },
   {
     id: "hyundai-kona-16-tgdi-2025-precio-ficha-tecnica",
@@ -1030,6 +1135,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
+euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: "https://www.euroncap.com/assessments/hyundai/kona/1051/",
+      nota: "Cuatro estrellas de esta generación.",
+    },
+    planMantenimiento: {
+          intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+          revisiones: [
+            {
+              nombre: "Revisión anual / 15.000 km",
+              queSeCambia: "Aceite, filtros e inspección general",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
+        }
   },
   {
     id: "hyundai-i30-10-tgdi-2026-precio-ficha-tecnica",
@@ -1200,6 +1323,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
       }
     ],
     planMantenimiento: {"intervalo": "Plan de mantenimiento del fabricante (detalle en las revisiones)", "revisiones": [{"nombre": "Plan de mantenimiento del fabricante", "queSeCambia": "Para este i20 1.0 T-GDI 48V rige la norma general de Hyundai en España: revisión cada 15.000 km o cada año, lo primero que se cumpla, con aviso previo en el cuadro de instrumentos. Solo los IONIQ 5 e IONIQ 6 se salen de ese intervalo y pasan a 30.000 km o dos años, así que no conviene estirar los plazos del tricilíndrico turbo entre aceite y filtros.", "costeAproxEur": null}], "costeAnualAproxEur": null, "fuente": "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/contrato-mantenimiento"},
+euroncap: {
+      estrellas: 4,
+      ano: 2021,
+      url: "https://www.euroncap.com/assessments/0891pm/",
+      nota: "Cuatro estrellas, misma base que el Bayon.",
+    }
   },
   {
     id: "hyundai-kona-electrico-49-kwh-2026-precio-ficha-tecnica",
@@ -1281,6 +1410,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
+euroncap: {
+      estrellas: 4,
+      ano: 2023,
+      url: "https://www.euroncap.com/assessments/hyundai/kona/1051/",
+      nota: "Cuatro estrellas de esta generación.",
+    },
+    planMantenimiento: {
+          intervalo: "Cada 1 año o 15.000 km (lo que ocurra antes)",
+          revisiones: [
+            {
+              nombre: "Revisión anual",
+              queSeCambia: "Inspección general, filtro de habitáculo y líquido de frenos según plan",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "https://www.hyundai.com/es/es/modelos/kona-electrico/ahorro-y-mantenimiento.html",
+        }
   },
   {
     id: "hyundai-tucson-diesel-2025-precio-ficha-tecnica",
@@ -1362,6 +1509,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         "alto": 1280
       }
     ],
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.hyundai.news/eu/articles/press-releases/hyundai-tucson-and-ioniq-5-achieve-five-star-ratings-in-euro-ncap-testing.html",
+      nota: "Restyling sin revisión publicada.",
+    },
+    planMantenimiento: {
+          intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+          revisiones: [
+            {
+              nombre: "Revisión anual / 15.000 km",
+              queSeCambia: "Aceite, filtros e inspección general",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
+        }
   },
   {
     id: "hyundai-ioniq-5-2026-precio-ficha-tecnica",
@@ -1587,7 +1752,24 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         alto: 800
       },
       
-    ]
+    ],
+euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: "https://www.euroncap.com/assessments/hyundai/inster/1200/",
+      nota: "Cuatro estrellas del INSTER.",
+    },
+    planMantenimiento: {
+          intervalo: "Cada 15.000 km o 12 meses, lo que antes ocurra",
+          revisiones: [
+            {
+              nombre: "Revisión bienal / 30.000 km",
+              queSeCambia: "Inspección general, filtro de habitáculo y estado de la batería de alto voltaje",
+              costeAproxEur: null,
+            },
+          ],
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
+        }
   },
   {
     id: "hyundai-santa-fe-hibrido-2026-precio-ficha-tecnica",
@@ -1636,6 +1818,12 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 160,
     aprox: [],
+    euroncap: {
+      estrellas: 4,
+      ano: 2024,
+      url: "https://www.euroncap.com/en/results/hyundai/santa-fe/53407",
+      nota: "Cuatro de serie; el pack suma la quinta.",
+    },
     imagen: "/media/hyundai-santa-fe-hibrido-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1834,7 +2022,25 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         alto: 800
       },
       
-    ]
+    ],
+euroncap: {
+      estrellas: 4,
+      ano: 2021,
+      url: "https://www.euroncap.com/assessments/hyundai/bayon/0891/",
+      nota: "El 1.0 T-GDI fue el probado.",
+    },
+    planMantenimiento: {
+          intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+          revisiones: [
+            {
+              nombre: "Revisión anual / 15.000 km",
+              queSeCambia: "Aceite, filtros e inspección general",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
+        }
   },
   {
     id: "hyundai-i30-15-tgdi-2025-precio-ficha-tecnica",
@@ -1910,7 +2116,25 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
         alto: 800
       },
       
-    ]
+    ],
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/hyundai/i30/0674/",
+      nota: "Sin estrellas: la de 2017 caducó.",
+    },
+    planMantenimiento: {
+          intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
+          revisiones: [
+            {
+              nombre: "Revisión anual / 15.000 km",
+              queSeCambia: "Aceite, filtros e inspección general",
+              costeAproxEur: null,
+            },
+          ],
+          costeAnualAproxEur: null,
+          fuente: "https://www.hyundai.com/canarias/es/posventa/mantenimiento-y-servicios/preguntas-frecuentes",
+        }
   },
   {
     id: "hyundai-staria-diesel-2025-precio-ficha-tecnica",

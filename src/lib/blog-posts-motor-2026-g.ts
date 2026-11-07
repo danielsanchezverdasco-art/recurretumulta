@@ -83,7 +83,9 @@ El **BYD Dolphin Surf** es tercero del acumulado anual con 4.334 unidades y el *
 Tesla anunció 486.532 entregas en el tercer trimestre de 2026, por encima del consenso, y en Europa sus matriculaciones de enero a agosto subieron cerca de dos tercios interanual según ACEA.
 
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://anfac.com>ANFAC</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "NIU NQi Sport: scooter eléctrico con 130 km por 1.999 €",
@@ -114,7 +116,7 @@ NIU ha movido ficha: renovación completa de su gama de scooters eléctricos par
 - **Presencia en España:** NIU declara unas 300 unidades a particulares en España y Portugal en 2026 (6,5% de cuota) y 25 puntos de venta
 - **Fuente:** <a href=https://global.niu.com/product/FQiX-150>NIU (web oficial)</a>
 
-<img src=/media/niu-nqi-sport-scooter-electrico-1999-euros-gama-2026-cuerpo.webp alt=Detalle del manillar con pantalla TFT y navegación integrada de un scooter eléctrico NIU naranja en una calle de Barcelona>
+
 
 ## La gama 2026 de un vistazo
 
@@ -164,7 +166,9 @@ Navegación con Google Maps integrada, radar trasero de ángulo muerto, ABS, pan
 NIU declara 25 puntos de venta entre España y Portugal y unas 300 unidades vendidas a particulares en 2026, con una cuota del 6,5%.
 
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://global.niu.com/product/FQiX-150>NIU (web oficial)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
   {
     title: "Flying Flea C6: la eléctrica de Royal Enfield por 5.990 €",
@@ -198,7 +202,7 @@ Royal Enfield, la marca de las motos clásicas por excelencia, acaba de hacer lo
 - **Carnet:** A2 (etiqueta 0 de la DGT)
 - **Fuente:** <a href=https://flyingflea.royalenfield.com/in/en/product/c6/>Flying Flea (web oficial de Royal Enfield)</a>
 
-<img src=/media/flying-flea-c6-moto-electrica-royal-enfield-5990-euros-cuerpo.webp alt=Detalle de la horquilla Girder de aluminio forjado de la moto eléctrica Flying Flea C6 verde clásica>
+
 
 ## Ficha técnica rápida
 
@@ -249,6 +253,8 @@ Del 20 al 80% en unos 65 minutos en una toma convencional.
 Su estética clásica con horquilla Girder de aluminio forjado, los 115 km/h de velocidad máxima, solo 124 kg de peso, el ABS en curva y el premio Red Dot Award 2025 de diseño.
 
 
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://flyingflea.royalenfield.com/in/en/product/c6/>Flying Flea (web oficial de Royal Enfield)</a>, <a href=https://www.dgt.es>Dirección General de Tráfico (DGT)</a>.*`,
   },
 ];

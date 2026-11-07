@@ -357,7 +357,7 @@ export const ANALISIS_COCHE_09: MapaAnalisis = {
   "honda-cr-v-ephev-2026-precio-ficha-tecnica": {
     parrafos: [
       "El CR-V e:PHEV 2026 es el CR-V del commuting perfecto: 78 km eléctricos WLTP con distintivo CERO, batería de 17,7 kWh que se llena en 2,5 horas a 6,8 kW —basta el enchufe doméstico—, 635 litros de maletero sin sacrificar carga y 58 g/km de CO2 con paso franco a todas las ZBE. Esas emisiones le abren todas las zonas de bajas emisiones y bonifican el aparcamiento. El PHEV familiar sin renuncias: diario en eléctrico, viajes en híbrido, con el refinamiento del e:HEV de base.",
-      "Es el CR-V más costoso con diferencia desde 50.860 €; descargado bebe 8,5 l/100 km en autovía —obliga a enchufar a diario—; carece de carga rápida en continua, solo alterna a 6,8 kW; los 9,4 segundos de 0-100 no son prestacionales; y el RAV4 PHEV rival da más alcance eléctrico por menos. La excelencia cuesta y exige la disciplina de enchufarlo cada noche para no ver el consumo dispararse."
+      "Es el CR-V más costoso con diferencia desde 50.860 €; descargado bebe 8,5 l/100 km en autovía —obliga a enchufar a diario—; no admite carga rápida en continua y se queda con alterna a 6,8 kW; sus 9,4 segundos de 0-100 no son prestacionales; y el RAV4 PHEV rival da más alcance eléctrico por menos. La excelencia cuesta y exige la disciplina de enchufarlo cada noche para no ver el consumo dispararse."
     ],
     veredicto: "Para familias con garaje y enchufe de mucho urbano; no para quien no pueda cargar cada día.",
   },

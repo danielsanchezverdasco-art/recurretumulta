@@ -114,7 +114,7 @@ Para quién es: la Trend I 7017 EB casa con parejas que desean una integral con 
     ],
     analisisSlug: "dethleffs-trend-i-7017-eb-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Dethleffs (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
@@ -219,7 +219,7 @@ Para quién es: la Trend I 7017 EB casa con parejas que desean una integral con 
     ],
     analisisSlug: "dethleffs-just-go-t-7055-dbl-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Ford Transit: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Ford Transit: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Ford Transit)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Dethleffs (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

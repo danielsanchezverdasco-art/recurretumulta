@@ -78,8 +78,8 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     imagenOficial: "/media/ford-transit-custom-nugget-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial: "/media/ford-transit-custom-nugget-2026-precio-ficha-tecnica-interior.webp",
     analisisSlug: "ford-transit-custom-nugget-2026-precio-ficha-tecnica-analisis-opinion",
-    videoId: null,
-    videoCanal: null,
+    videoId: "rop8xLlwIHE",
+    videoCanal: "Ford Europe",
     planMantenimiento: {
       intervalo: "Según plan Ford",
       revisiones: [
@@ -109,7 +109,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
   {
     id: "ford-transit-custom-nugget-active-2026-precio-ficha-tecnica",
     marca: "Ford",
-    modelo: "Transit Custom Nugget Active 2026",
+    modelo: "Transit Custom Nugget Active PHEV 2026",
     tipo: "Híbrido enchufable",
     categoria: "Camper",
     precioDesde: 78000,
@@ -139,7 +139,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
       "Híbrida enchufable de 233 CV con hasta 56 km en modo eléctrico y etiqueta 0",
       "Estética Active de estilo SUV: parrilla específica, protecciones y llantas de 17 pulgadas",
       "Asientos de tejido hidrófugo pensados para la vida al aire libre",
-      "Tracción total opcional con el diésel EcoBlue de 170 CV y 2,3 t de remolque",
+      "Techo elevable con cama doble y 5 plazas para viajar en familia",
       "Pack de Asistencia al Conductor de serie con crucero adaptativo Stop&Go",
     ],
     contras: [
@@ -179,7 +179,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
     imagen: "/media/ford-transit-custom-nugget-active-2026-precio-ficha-tecnica.webp",
     imagenOficial: "/media/ford-transit-custom-nugget-active-2026-precio-ficha-tecnica.webp",
     imagenInteriorOficial: "/media/ford-transit-custom-nugget-active-2026-precio-ficha-tecnica-interior.webp",
-    analisisSlug: "ford-transit-custom-nugget-active-2026-precio-ficha-tecnica-analisis-opinion",
+    analisisSlug: "ford-transit-custom-nugget-active-2026-analisis-opinion",
     videoId: null,
     videoCanal: null,
     planMantenimiento: {
@@ -356,7 +356,7 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
       "La calefacción estática Webasto y la claraboya son extras: la base no calienta en invierno",
       "Sin baño fijo: el WC químico Dometic se paga aparte",
       "Con 4,40 m de largo la cama es justa para dos adultos altos",
-      "Etiqueta C: restricciones en las ZBE de las grandes ciudades",
+      "Distintivo C del diésel: Madrid y Barcelona ya vetan su acceso al centro en sus ZBE, un hándicap si la Rifter es también el coche de diario"
     ],
     opiniones: [],
     galeria: [
@@ -398,7 +398,12 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
       costeAnualAproxEur: 250,
       fuente: "Camperiz + fabricante base",
     },
-    euroncap: null,
+    euroncap: {
+      "ano": 2018,
+      "estrellas": 4,
+      "nota": "Prueba del vehículo base Peugeot Rifter (no de la camperización Camperiz): 4 estrellas en 2018, 91 % adultos, 81 % infantil, 58 % usuarios vulnerables y 68 % asistencias; modelo probado BlueHDi 100 Allure. Euro NCAP marca esta calificación como caducada.",
+      "url": "https://euroncap.blob.core.windows.net/media/85426/euroncap-2018-peugeot-rifter-datasheet.pdf"
+    },
     mmaKg: null,
     carnetNecesario: "B",
     cargaUtilKg: null,
@@ -499,7 +504,12 @@ export const CAMPERS_NIKY_ESPANOLAS: CocheComparador[] = [
       costeAnualAproxEur: 250,
       fuente: "Camperiz + fabricante base",
     },
-    euroncap: null,
+    euroncap: {
+      "estrellas": 3,
+      "ano": 2012,
+      "url": null,
+      "nota": "Euro NCAP 2012: 3 estrellas de la plataforma Dokker/Lodgy (la probada fue la Dacia Lodgy; la Dokker comparte estructura y la prensa especializada le atribuye la misma calificación). La camperización Camperiz no tiene prueba propia"
+    },
     mmaKg: null,
     carnetNecesario: "B",
     cargaUtilKg: null,

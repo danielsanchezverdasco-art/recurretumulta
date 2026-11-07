@@ -20,6 +20,7 @@ import { readFileSync, writeFileSync, mkdirSync, existsSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 import { spawnSync } from "child_process";
+import { evaluateHtml, getTitle, readEntryAssets } from "./prerender-check.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const SAFE_DIR = join(ROOT, "scripts", ".safe-publish");
@@ -53,7 +54,7 @@ const STATIC_ROUTES_FALLBACK = [
   "/reportar-carretera/gracias", "/herramientas", "/herramientas/contrato-compraventa-vehiculo",
   "/herramientas/precio-itv", "/buscador-codigo-multa", "/senales-trafico",
   "/mejor-coche-por-presupuesto", "/comparador-coches", "/comparador-patinetes",
-  "/comparador-motos", "/fichas-tecnicas", "/comparador/mas-vendidos", "/glosario-multa",
+  "/comparador-motos", "/fichas-tecnicas", "/fichas-tecnicas/caravanas", "/fichas-tecnicas/autocaravanas", "/comparador/mas-vendidos", "/glosario-multa",
   "/metodologia", "/calculadora-kw-a-cv", "/calculadora-consumo-camper",
   "/equivalencia-neumaticos-itv", "/valor-venal-vehiculo", "/guias/radares",
   "/guias/patinetes-electricos", "/guias/zbe", "/guias/prescripcion", "/guias/vicios-forma",
@@ -131,12 +132,28 @@ const distIndex = (route) => {
   return r === "/" ? join(DIST_DIR, "index.html") : join(DIST_DIR, r, "index.html");
 };
 
+const SHELL_TITLE = existsSync(join(ROOT, "index.html"))
+  ? getTitle(readFileSync(join(ROOT, "index.html"), "utf8")) || ""
+  : "";
+const entryFile = join(DIST_DIR, ".prerender-entry.json");
+const ENTRY_ASSETS = existsSync(entryFile)
+  ? JSON.parse(readFileSync(entryFile, "utf8")).assets || []
+  : readEntryAssets(DIST_DIR);
+
 const isComplete = (route) => {
   const f = distIndex(route);
   if (!existsSync(f)) return false;
   try {
     const c = readFileSync(f, "utf8");
-    return c.length > 2000 && c.includes("</html>") && getCanonical(c) === expectedCanonical(route);
+    const v = evaluateHtml({
+      html: c,
+      route,
+      canonicalBase: CANONICAL_BASE,
+      distDir: DIST_DIR,
+      shellTitle: SHELL_TITLE,
+      entryAssets: ENTRY_ASSETS,
+    });
+    return v.ok;
   } catch { return false; }
 };
 

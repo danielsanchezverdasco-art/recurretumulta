@@ -123,7 +123,7 @@ Si te llega una multa con tu coche nuevo, recuerda: <a href=https://recurretumul
       "station wagon eléctrico chino",
       "nio et5 touring vs bmw i5 touring"
     ],
-    "content": `<img src=/media/nio-et5-touring-2025-precio-ficha-tecnica-hero.webp alt=Nio ET5 Touring 2025, familiar eléctrico premium chino azul, vista tres cuartos delantera>
+    "content": `<img src=/media/nio-et5-touring-commons.webp alt=Nio ET5 Touring 2025, familiar eléctrico premium chino azul, vista tres cuartos delantera>
 
 **¿Buscas solo los datos?** <a href=/coches/nio-et5-touring-2025-precio-ficha-tecnica/>Ver ficha técnica del Nio ET5 Touring</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 

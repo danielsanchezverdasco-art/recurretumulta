@@ -94,7 +94,7 @@ Para quién es: encaja con quienes se inician en el caravaning y quieren una cam
     ],
     analisisSlug: "etrusco-van-5-9-db-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Fiat Ducato: revisión cada 2 años o 40.000 km (según plan del fabricante)",
+      intervalo: "Base Fiat Ducato: 2 años / 40.000 km",
       revisiones: [
         { nombre: "Revisión base (Fiat Ducato)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 350 },
         { nombre: "Revisión célula Etrusco (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },

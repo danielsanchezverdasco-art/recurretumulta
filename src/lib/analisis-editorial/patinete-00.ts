@@ -260,7 +260,7 @@ Es una compra de confianza en la marca más que en las cifras: quien conozca los
 
   "cecotec-bongo-d20e-connected": `El Cecotec Bongo D20E Connected es el patinete de entrada de Cecotec para 2025 y su argumento es demoledor: 159 euros, 12,2 kilos y certificado DGT. Es el más barato del catálogo de la marca y uno de los VMP certificados más asequibles del mercado español, con velocidad limitada a 20 km/h, ideal para principiantes que no quieren sustos.
 
-La contrapartida es la autonomía de 20 kilómetros (unos 13 reales) y un motor de 250 vatios justo en pendientes pronunciadas. Las ruedas de 8,5 pulgadas son menos estables que las de 10, aunque a 20 km/h el riesgo se relativiza.
+La contrapartida es la autonomía de 20 kilómetros (unos 13 reales) y un motor de 250 vatios justo en pendientes pronunciadas. Las ruedas de 8,5 pulgadas asimismo son menos estables que las de 10, aunque a 20 km/h el riesgo se relativiza.
 
 Perfecto como primer patinete para un adolescente (con la edad legal), para regalar o para trayectos cortísimos urbanos. No es para commuting serio ni para cuestas: es la puerta de entrada al mundo VMP con papeles en regla y precio imbatible. El freno de disco trasero con e-ABS delantero es un esquema seguro para principiantes, y su batería de 187 vatios-hora se carga rápido precisamente por ser pequeña.`,
 
@@ -319,7 +319,7 @@ Solo para el comprador que confíe ciegamente en la marca y no necesite comparar
 
   "cecotec-bongo-serie-a": `El Cecotec Bongo Serie A es el ultraligero de la comparativa: 13,5 kilos que se suben con una mano, batería extraíble e intercambiable para cargarla en la oficina y triple sistema de frenado con disco, eléctrico y manual trasero. Por unos 299 euros es imbatible en precio entre marcas con presencia oficial.
 
-Sus 25 kilómetros de autonomía lo limitan a trayectos cortos, las ruedas de 8,5 pulgadas son menos estables en baches que las de 10 y la red de servicio española es más limitada que la de Xiaomi o Segway. Pero la batería extraíble es la forma más barata de ampliar autonomía: una segunda batería duplica el alcance.
+Sus 25 kilómetros de autonomía lo limitan a trayectos cortos, las ruedas de 8,5 además pulgadas son menos estables en baches que las de 10 y la red de servicio española es más limitada que la de Xiaomi o Segway. Pero la batería extraíble es la forma más barata de ampliar autonomía: una segunda batería duplica el alcance.
 
 Perfecto para el commuter multimodal que combina metro y patinete y carga en el trabajo. No es para trayectos largos de una tirada ni para firmes malos: es ligereza y practicidad con autonomía contenida. La carga en 4,5 horas es rápida para su batería de 230 vatios-hora, y los tubeless de 8,5 pulgadas eliminan los pinchazos por cámara en un patinete pensado para no pisar el taller.`,
 

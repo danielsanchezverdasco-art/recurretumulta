@@ -93,7 +93,13 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/toyota/corolla/0762/",
+      nota: "Ficha de 2019 caducada, no es este familiar.",
+    }
   },
   {
     id: "toyota-c-hr-phev-2025-precio-ficha-tecnica",
@@ -176,7 +182,13 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: "https://www.km77.com/coches/toyota/c-hr/2024/estandar/phev/c-hr-plug-in-hybrid-220-advance/datos"
+    fuenteUrl: "https://www.km77.com/coches/toyota/c-hr/2024/estandar/phev/c-hr-plug-in-hybrid-220-advance/datos",
+euroncap: {
+      estrellas: 5,
+      ano: 2024,
+      url: "https://www.euroncap.com/assessments/toyota/c-hr+phev/1042/",
+      nota: "Cinco estrellas; el enchufable entra en 2025.",
+    }
   },
   {
     id: "toyota-gr-yaris-2025-precio-ficha-tecnica",
@@ -508,7 +520,24 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       nota: "Sin datos EuroNCAP: modelo no probado"
     },
     fuenteNombre: "somoselectricos",
-    fuenteUrl: "https://somoselectricos.com/toyota-urban-cruiser-electrico-no-llega-espana/"
+    fuenteUrl: "https://somoselectricos.com/toyota-urban-cruiser-electrico-no-llega-espana/",
+    planMantenimiento: {
+          intervalo: "Intervalo de Toyota no contrastado.",
+          revisiones: [
+            {
+              nombre: "Revisión anual / 15.000 km",
+              queSeCambia: "Inspección del sistema eléctrico y chequeo de salud de la batería de tracción + filtro de polen + inspección general (sin cambio de aceite: motor eléctrico)",
+              costeAproxEur: null
+            },
+            {
+              nombre: "Revisión / 30.000 km",
+              queSeCambia: "A los 30.000 km, el plan de este eléctrico añade el líquido de frenos a la revisión anual",
+              costeAproxEur: null
+            }
+          ],
+          costeAnualAproxEur: null,
+          fuente: "Sin página de Toyota España consultada para este intervalo"
+        }
   },
   {
     id: "toyota-c-hr-plus-2026-precio-ficha-tecnica",
@@ -917,7 +946,13 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+euroncap: {
+      estrellas: 5,
+      ano: 2022,
+      url: "https://www.euroncap.com/assessments/toyota/corolla+cross/0994/",
+      nota: "Cinco estrellas del Corolla Cross.",
+    }
   },
   {
     id: "toyota-mirai-2025-precio-ficha-tecnica",
@@ -1079,7 +1114,13 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "ancho": 1920,
         "alto": 1280
       }
-    ]
+    ],
+euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: "https://www.euroncap.com/press-media/mercedes-star-shines-bright-as-euro-ncap-s-final-results-deliver-safer-options-for-every-buyer/",
+      nota: "Cuatro estrellas en diciembre de 2025.",
+    }
   },
   {
     id: "toyota-bz4x-touring-2026-precio-ficha-tecnica",
@@ -1514,7 +1555,13 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: "https://www.km77.com/coches/toyota/yaris/2020/5-puertas/hybrid/yaris-hybrid-130/datos"
+    fuenteUrl: "https://www.km77.com/coches/toyota/yaris/2020/5-puertas/hybrid/yaris-hybrid-130/datos",
+euroncap: {
+      estrellas: 4,
+      ano: 2025,
+      url: "https://www.euroncap.com/assessments/toyota/yaris/1174/",
+      nota: "Cuatro estrellas, Hybrid 130 incluido.",
+    }
   },
   {
     id: "toyota-rav4-hev-2025-precio-ficha-tecnica",
@@ -1592,7 +1639,13 @@ export const COCHES_TOYOTA: CocheComparador[] = [
       }
     ],
     fuenteNombre: "km77",
-    fuenteUrl: "https://www.km77.com/coches/toyota/rav4/2019/estandar/estandar/rav4-hybrid-220h-4x2-advance2/datos"
+    fuenteUrl: "https://www.km77.com/coches/toyota/rav4/2019/estandar/estandar/rav4-hybrid-220h-4x2-advance2/datos",
+euroncap: {
+      estrellas: null,
+      ano: null,
+      url: "https://www.euroncap.com/assessments/toyota/rav4/0764/",
+      nota: "La ficha de 2019 está caducada.",
+    }
   },
   {
     id: "toyota-prius-phev-2025-precio-ficha-tecnica",

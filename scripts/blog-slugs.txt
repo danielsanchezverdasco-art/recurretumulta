@@ -2242,6 +2242,7 @@ leapmotor-c16-erev-280-2026-precio-ficha-tecnica
 leapmotor-d19-2026-precio-ficha-tecnica
 leapmotor-d19-erev-2026-precio-ficha-tecnica
 leapmotor-paris-2026-b03-d19-debut-europa
+leapmotor-b03-2026-precio-ficha-tecnica
 leapmotor-t03-2025-precio-ficha-tecnica
 leapmotor-t03-baja-precio-octubre-2026
 leapmotor-t03-electrico-precio-ficha-tecnica
@@ -3166,6 +3167,7 @@ renault-captur-2025-precio-ficha-tecnica
 renault-captur-2026-e-tech-160-precio-ficha-tecnica
 renault-captur-2026-tce-90-precio-ficha-tecnica
 renault-captur-e-tech-145-2024-precio-ficha-tecnica
+renault-clio-e-tech-145
 renault-clio-vi-2025-e-tech-160-precio-ficha-tecnica
 renault-clio-vi-tce-115-2025-precio-ficha-tecnica
 renault-e-space-concept-paris-2026
@@ -3329,6 +3331,7 @@ seat-leon-15-ehybrid-2026-precio-ficha-tecnica
 seat-leon-15-etsi-115-2026-precio-ficha-tecnica
 seat-leon-15-etsi-150-2026-precio-ficha-tecnica
 seat-leon-15-etsi-2026-precio-ficha-tecnica
+seat-leon-15-tsi
 seat-leon-15-tsi-115-2026-precio-ficha-tecnica
 seat-leon-20-tdi-115-2026-precio-ficha-tecnica
 seat-leon-20-tdi-2026-precio-ficha-tecnica
@@ -3642,6 +3645,7 @@ tesla-cybertruck-2026-precio-ficha-tecnica
 tesla-model-3-gran-autonomia-traccion-total-2026-precio-ficha-tecnica
 tesla-model-3-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica
 tesla-model-3-performance-2025-precio-ficha-tecnica
+tesla-model-3-electrico-precio-ficha-tecnica
 tesla-model-s-plaid-2026-precio-ficha-tecnica
 tesla-model-x-plaid-2026-precio-ficha-tecnica
 tesla-model-y-7-plazas-2026-precio-ficha-tecnica
@@ -3687,6 +3691,7 @@ toyota-camry-2025-precio-ficha-tecnica
 toyota-corolla-5p-140h-2025-precio-ficha-tecnica
 toyota-corolla-5p-140h-2026-precio-ficha-tecnica
 toyota-corolla-baja-precio-octubre-2026
+toyota-corolla-140h
 toyota-corolla-berlina-2025-precio-ficha-tecnica
 toyota-corolla-cross-200h-2025-precio-ficha-tecnica
 toyota-corolla-cross-2025-precio-ficha-tecnica
@@ -4926,6 +4931,7 @@ alpine-a310-vision-concept-paris-2026
 tesla-roadster-2028-presentacion
 bmw-ix4-2027-presentacion-oficial
 xpeng-l03-2026-precio-espana
+xpeng-mona-l05-2026-precio-ficha-tecnica
 porsche-mission-s-2026-revelado
 mercedes-amg-gt-suv-electrico-presentacion-oficial
 yamaha-xsr900-2024-ficha-tecnica-precio
@@ -5362,3 +5368,13 @@ swift-sprite-major-4-eb-2026-precio-ficha-tecnica-analisis-opinion
 swift-challenger-390-2026-precio-ficha-tecnica-analisis-opinion
 swift-challenger-580-2026-precio-ficha-tecnica-analisis-opinion
 swift-elegance-grande-860-2026-precio-ficha-tecnica-analisis-opinion
+
+xpeng-mona-l05-2026-precio-ficha-tecnica
+ducati-diavel-v4-s-2027-ficha-tecnica-precio
+omoda-5-ev-2027-renovacion-precio-autonomia
+omoda-9-shs-black-edition-200-unidades-precio
+renault-4-e-tech-2027-415-km-roland-garros-precio
+yangwang-u9-xtreme-503-km-h-record-mundial-velocidad
+chevrolet-corvette-vuelve-espana-precios-2026
+mazda-6e-2027-precio-bateria-lfp
+real-decreto-953-2026-zbe-fin-avisos-multas

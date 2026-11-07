@@ -2160,3 +2160,4 @@ export const COCHES_LOTE4: CocheComparador[] = [
     fuenteUrl: "https://www.hibridosyelectricos.com/coches/644-km-autonomia-75-km-dia-gratis-primer-coche-solar-ya-esta-listo-pero-tiene-problema-102-millones-euros_89672_102.html",
   },
 ];
+

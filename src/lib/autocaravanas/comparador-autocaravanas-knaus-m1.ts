@@ -6,8 +6,8 @@
 // usada solo para el peso).
 // Correcciones aplicadas: (a) descripcion propia ≥800 palabras por ficha, con párrafos
 // «Cómo lo verificamos» y «Para quién es»; (b) notas con procedencia de cada dato y
-// motivo de cada «aprox»; (c) plazasDormir investigado: 4 en ambas (2 de serie + 2 con
-// cama opcional); (d) bloque costeMensual eliminado; (e) carga útil sin dato publicado (Knaus no
+// motivo de cada «aprox»; (c) BoxLife sigue en 4 plazas de noche; el 650 MEG queda en 2 (Preisliste 2026-1;
+// máximo de la tabla); (d) bloque costeMensual eliminado; (e) carga útil sin dato publicado (Knaus no
 // publica la carga útil por modelo; el cálculo MMA−MRO queda prohibido); (f) analisisSlug
 // en formato «-analisis-opinion»; (g) fuenteNombre/fuenteUrl oficiales de knaus.com;
 // (h) precioDesde = Preisliste oficial Knaus (EUR IVA 19% incl., «aprox»; sin tarifa para España); (i) fotos en
@@ -196,25 +196,25 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
     largoMm: 6960,
     anchoMm: 2320,
     altoMm: 2790,
-    pesoKg: 2990, // «no oficial»: ficha de catálogo 2026 reproducida por la red oficial de concesionarios; knaus.com no publica la masa en su web
+    pesoKg: 2958, // Preisliste 2026-1, masa en orden de marcha del 650 MEG; banda 2810-3106 kg
     mmaKg: 3500,
     carnetNecesario: "B",
     cargaUtilKg: null, // Knaus no publica la carga útil para este modelo; no se calcula MMA−MRO
     consumo: null,
     consumoUnidad: null,
     plazas: 4, // 4 plazas de circulación con cinturón
-    plazasDormir: 4, // 2 camas gemelas fijas + 2 con la cama delantera opcional (salón convertible o cama abatible)
+    plazasDormir: 2, // Preisliste 2026-1: Schlafplätze 2 y máximo 2 en el SKY TI 650 MEG
     parNm: null,
     traccion: "Delantera", // Fiat Ducato, tracción delantera
     emisionesCo2: null,
     aprox: ["pesoKg", "precioDesde"],
     notas:
-      "Dimensiones, motor y equipamiento, de la página oficial del modelo en knaus.com. El peso (2.990 kg) procede de fichas de catálogo 2026 reproducidas por la red oficial de concesionarios —fuente secundaria— y va en «aprox». el PVP «desde» del Sky TI 650 MEG se ha localizado en la Preisliste oficial (ver la nota de precio al final de estas notas). La ficha corresponde al año modelo 2026 sobre Fiat Ducato; la generación siguiente cambia de chasis. Precio: Grundpreis ab Werk 2026 de la Preisliste oficial de Knaus, SKY TI 650 MEG (FIAT 3.500 kg, 140 CV), en EUR con IVA alemán del 19% incluido; no hay tarifa oficial para España.",
+      "Dimensiones, motor y equipamiento, de la página oficial del modelo en knaus.com. La masa en orden de marcha (2.958 kg, tolerancia ±5 %) sale de la Preisliste 2026-1, tabla SKY TI 650 MEG, igual que el precio de lista. La ficha corresponde al año modelo 2026 sobre Fiat Ducato; la generación siguiente cambia de chasis. Precio: Grundpreis ab Werk 2026 de la Preisliste oficial de Knaus, SKY TI 650 MEG (FIAT 3.500 kg, 140 CV), en EUR con IVA alemán del 19% incluido; no hay tarifa oficial para España.",
     curiosidades:
       "El 650 MEG sobrevivirá al cambio de chasis: en 2027 el Sky TI pasa a base Volkswagen Crafter y el 650 MEG será una de las tres únicas distribuciones de la nueva gama, junto al 700 DEG y al 700 DX con cama isla. Fuente: Out and About Live, guía 2027 de autocaravanas Knaus (https://www.outandaboutlive.co.uk/motorhomes/news/buying-advice/knaus-motorhomes-and-campervans-2027-essential-guide).",
     descripcion: `Comprar un Knaus Sky TI 650 MEG del año modelo 2026 es comprar la última unidad de una era: es la despedida del Sky TI sobre el Fiat Ducato, porque la generación siguiente cambia de chasis. Y eso, lejos de ser un problema, es precisamente su argumento más sólido. El Ducato 2.2 Multijet de 140 CV es una mecánica con millones de kilómetros acumulados en toda Europa, con recambios en cualquier taller y con todos sus vicios conocidos y documentados. Quien compra el 650 MEG de 2026 no está comprando la plataforma saliente por descarte: está comprando la plataforma probada, la que ya no da sorpresas. La novedad, en este caso, la pagará otro.
 
-    El Sky TI 650 MEG es una perfilada de 6,96 metros con camas gemelas traseras, el esquema favorito de las parejas que viajan mucho: cada uno tiene su cama, nadie molesta al otro al levantarse de noche y entre ambas queda un pasillo central que se usa como vestidor. Las dos camas se pueden unir para formar una superficie doble continua, así que el dormitorio se adapta lo mismo a la pareja que quiere dormir junta que a dos amigos que prefieren su espacio. De serie son dos plazas para dormir; con la cama delantera opcional —el salón convertible o la cama abatible— se llega a cuatro. Las plazas de circulación son cuatro con cinturón, de modo que es una perfilada familiar sin necesidad de saltar a los siete metros y medio.
+    El Sky TI 650 MEG es una perfilada de 6,96 metros con camas gemelas traseras, el esquema favorito de las parejas que viajan mucho: cada uno tiene su cama, nadie molesta al otro al levantarse de noche y entre ambas queda un pasillo central que se usa como vestidor. Las dos camas se pueden unir para formar una superficie doble continua, así que el dormitorio se adapta lo mismo a la pareja que quiere dormir junta que a dos amigos que prefieren su espacio. La Preisliste 2026-1 deja el 650 MEG en dos plazas de noche, y ese dos es también el máximo: juntar las gemelas forma una doble, no una cama más. Las plazas de circulación son cuatro con cinturón, de modo que es una perfilada familiar sin necesidad de saltar a los siete metros y medio.
 
     La trasera esconde la primera gran idea de Knaus en este modelo: el sistema FoldXpand. El portón trasero es plegable y, al abrirlo, el interior gana casi diez centímetros de espacio útil sin que la carrocería crezca ni un milímetro por fuera. Parece poco, pero en una perfilada cada centímetro cuenta: es la diferencia entre un garaje justo y un garaje donde las bicicletas entran sin desmontar la rueda delantera. La segunda idea está también en la zaga y se llama ServiceBox: las llaves de paso, las conexiones y las válvulas están agrupadas en un módulo accesible desde el exterior, sin necesidad de entrar en la célula ni de desmontar paneles. El mantenimiento rutinario —vaciar, llenar, revisar— se hace desde fuera, de pie y sin contorsionismos. Son esos detalles alemanes que no salen en los anuncios pero se agradecen cada semana de viaje.
 
@@ -222,11 +222,11 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
 
     En marcha, el Fiat Ducato 2.2 de 140 CV mueve los 3.500 kilos de MMA con solvencia para un uso turístico normal; quien arrastre remolque pesado o viva en zona de puertos exigentes echará en falta los 180 CV opcionales. El cambio manual de seis velocidades es de serie y el automático de ocho con convertidor de par está disponible como opción, una combinación que en ciudad y en caravanas de verano se agradece mucho. Con la MMA de 3.500 kilos se conduce con el carnet B, que es como debe ser en este segmento.
 
-    El capítulo del peso merece atención honesta. Las fichas de catálogo que reproduce la red de concesionarios hablan de 2.990 kilos en vacío y de unos 381 kilos de carga máxima teórica, una cifra que con cuatro personas a bordo y el equipamiento de una familia se queda justa. Knaus no publica la carga útil oficial por modelo, así que esa cifra hay que tomarla como lo que es —una referencia de catálogo de red— y hacer los números con el concesionario antes de pedir extras pesados como el toldo, el aire acondicionado de techo o la segunda batería. Es el punto débil de casi todas las perfiladas familiares de 3.500 kilos, y el Sky TI no es la excepción.
+    La tabla del SKY TI 650 MEG en la Preisliste 2026-1 imprime 2.958 kg en orden de marcha, con una banda de fábrica de 2.810 a 3.106 kg, y 166 kg como máximo de equipamiento montado en origen. No figura una carga útil de uso de 381 kg. Antes de pedir toldo o aire de techo hay que mirar ese tope de 166 kg, no una resta hecha con el peso de un catálogo de concesionario.
 
-    Del precio, Knaus no dice nada oficial: trabaja con configurador y cada concesionario presupuesta. Como referencia de mercado —no oficial—, los portales de la red sitúan la entrada en torno a los 81.000 euros en Alemania para unidades básicas, y a partir de ahí cada pack suma. Es una tarifa de perfilada alemana de gama media-alta: por debajo de una integral, por encima de las perfiladas de acceso francesas e italianas. La ecuación solo cuadra si se valora la construcción y el equipamiento de serie; si el criterio es el precio por metro, hay opciones más baratas.
+    El importe de lista del 650 MEG en esa Preisliste, impresa en julio de 2025, es 82.930 euros con el impuesto alemán del 19 % ya incluido. En España no sustituye a la oferta del punto de venta. Es una tarifa de perfilada alemana de gama media-alta: por debajo de una integral, por encima de las perfiladas de acceso francesas e italianas. La ecuación solo cuadra si se valora la construcción y el equipamiento de serie; si el criterio es el precio por metro, hay opciones más baratas.
 
-    Cómo lo verificamos: las dimensiones (696/232/279 cm), el motor Fiat Ducato 2.2 Multijet de 140 CV con Euro 6e, las camas gemelas traseras, el sistema FoldXpand y el ServiceBox proceden de la página oficial del modelo en knaus.com, verificada el 19 de octubre de 2026. El peso de 2.990 kilos procede de fichas de catálogo 2026 reproducidas por la red oficial de concesionarios (fuente secundaria). Knaus no publica la carga útil por modelo para el Sky TI 650 MEG, por lo que esa cifra queda sin dato (el PVP aplicado, 82.930 €, es el de su folleto oficial de precios). La ficha corresponde al año modelo 2026 sobre Fiat Ducato.
+    Cómo lo verificamos: las dimensiones (696/232/279 cm), el motor Fiat Ducato 2.2 Multijet de 140 CV con Euro 6e, las camas gemelas traseras, el sistema FoldXpand y el ServiceBox proceden de la página oficial del modelo en knaus.com, verificada el 19 de octubre de 2026. Masa, precio de lista (82.930 €, IVA alemán del 19 %) y el tope de dos plazas de noche salen de la Preisliste 2026-1, tabla del SKY TI 650 MEG. Knaus no imprime ahí una carga útil de viaje. La ficha corresponde al año modelo 2026 sobre Fiat Ducato.
 
     Para quién es: el Sky TI 650 MEG es para la pareja —o la familia de cuatro— que busca una perfilada de camas gemelas bien construida, con detalles de ingeniería que facilitan la vida a bordo, y que prefiere comprar la última generación de una mecánica probadísima antes que estrenar plataforma. No es para quien necesite la tarifa más baja del segmento ni para quien viaje siempre a plena carga con cuatro adultos: el margen de peso hay que vigilarlo. El veredicto es que es la compra racional dentro de las perfiladas alemanas de su tamaño: construcción seria, esquema de camas gemelas muy vivido y una mecánica sin misterios, a cambio de un precio de configurador y una carga útil que obliga a elegir bien los extras.`,
     pros: [
@@ -237,10 +237,10 @@ export const AUTOCARAVANAS_KNAUS_M1: Autocaravana[] = [
       "Fiat Ducato de 140 CV con cambio automático de 8 velocidades disponible: la perfilada familiar sin pelearse con el embrague en ciudad",
     ],
     contras: [
-      "Knaus no publica precio oficial: cada concesionario configura y la entrada ronda los 81.000 € en Alemania según la red",
-      "Carga útil ajustada (unos 381 kg según las fichas de catálogo de la red): con 4 personas y equipamiento hay que hacer números antes de cargar",
+      "Lista alemana 2026-1: 82.930 € con IVA del 19 %. En España se pide oferta aparte",
+      "La lista no da carga útil de viaje: tope de extras de fábrica, 166 kg, sobre 2.958 kg en orden de marcha",
       "Es la última generación sobre Fiat Ducato: la siguiente cambia de chasis, así que se compra la plataforma saliente",
-      "Solo 2 camas fijas de serie: dormir 4 exige el salón convertible o la cama abatible opcional",
+      "Máximo de dos plazas de noche en la lista del 650 MEG",
       "Con 2,79 m de alto y 6,96 m de largo, los parkings subterráneos y muchos cascos históricos quedan descartados",
     ],
     opiniones: [],

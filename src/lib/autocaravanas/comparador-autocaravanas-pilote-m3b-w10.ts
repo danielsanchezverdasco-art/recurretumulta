@@ -149,7 +149,7 @@ suya.`,
     ],
     analisisSlug: "pilote-atlas-a696g-2026-analisis-opinion",
     planMantenimiento: {
-      intervalo: "Base Ford Transit: revisión cada 2 años o 60.000 km (según plan del fabricante)",
+      intervalo: "Base Ford Transit: 2 años / 60.000 km",
       revisiones: [
         { nombre: "Revisión base (Ford Transit 2.0)", queSeCambia: "Aceite + filtros + inspección general", costeAproxEur: 320 },
         { nombre: "Revisión célula Pilote (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
