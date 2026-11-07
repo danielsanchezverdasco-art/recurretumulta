@@ -1,5 +1,7 @@
 # Autocaravanas no protegidas — censo contra la matriz (7 de noviembre de 2026)
 
+El tablero de lo revisado y lo pendiente es `docs/inventario/LEDGER-APORTACIONES.md`. Las cifras de esta página son el censo de la matriz, no una revisión semántica.
+
 La matriz es `/tmp/audit738/grupos.jsonl` (HEAD de aquella pasada, no el candidato de hoy). Cifras de grupos únicos de ruta que contienen «autocaravana» o «camper».
 
 ## Protegidos, sin editar
