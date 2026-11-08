@@ -1,5 +1,8 @@
 // Xiaomi Auto — gama real 2024+ (10 fichas nuevas).
 // Fecha de verificación: 05/10/2026.
+// Precios gama 2026 actualizados el 05/11/2026 (verificación investigador):
+// Standard 219.900 yuanes (~27.760 €), Pro 249.900 (~31.547 €), Max 303.900 (~38.364 €),
+// fuente xiaomiev.com. Sin venta oficial en España ni PVP español; expansión en 2027.
 // Fuentes: xiaomiev.com, go-electra.com, somoselectricos.com, movilidadelectrica.com,
 // mundoxiaomi.com, hibridosyelectricos.com, fanaticosdelhardware.com,
 // garage.diariofinanciero.cl, elcarrocolombiano.com, es.wikipedia.org (Xiaomi SU7),
@@ -25,7 +28,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     modelo: "SU7",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: 28600,
+    precioDesde: 27760,
     potenciaCv: 299,
     autonomiaKm: 700,
     cicloAutonomia: "CLTC",
@@ -40,7 +43,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
       "Arquitectura de 752 V: del 10 al 80 % en 25 minutos con cargador propio de Xiaomi",
       "Cx de 0,195: uno de los coeficientes más bajos del mercado",
       "HyperOS con Snapdragon 8 Gen 3 y LiDAR de serie",
-      "Precio de lanzamiento en China de 215.900 yuanes: rompe el mercado",
+      "Precio en China de 219.900 yuanes (gama 2026): rompe el mercado",
     ],
     contras: [
       "Solo se vende en China; Europa espera a 2027",
@@ -104,7 +107,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     modelo: "SU7 Pro",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: 32500,
+    precioDesde: 31547,
     potenciaCv: 299,
     autonomiaKm: 830,
     cicloAutonomia: "CLTC",
@@ -118,7 +121,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
       "830 km CLTC con la batería de 94,3 kWh; 758 km con el neumático de 20 pulgadas",
       "Batería de 94,3 kWh con celdas Shenxing de CATL y carga de 10 a 80 % en 30 minutos",
       "Suspensión neumática adaptativa de serie",
-      "Precio de lanzamiento en China de 245.900 yuanes",
+      "Precio en China de 249.900 yuanes (gama 2026)",
       "LiDAR + NVIDIA Thor-U: conducción asistida avanzada",
     ],
     contras: [
@@ -183,7 +186,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     modelo: "SU7 Max",
     tipo: "Eléctrico",
     categoria: "Berlina",
-    precioDesde: 39500,
+    precioDesde: 38364,
     potenciaCv: 673,
     autonomiaKm: 800,
     cicloAutonomia: "CLTC",
@@ -198,7 +201,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
       "Autonomía de 800 km CLTC; batería de 101 kWh y celdas Qilin de CATL",
       "Arquitectura de 897 V: 670 km de autonomía en 15 minutos",
       "Tracción total y suspensión neumática adaptativa",
-      "Precio de lanzamiento en China de 299.900 yuanes",
+      "Precio en China de 303.900 yuanes (gama 2026)",
     ],
     contras: [
       "Solo a la venta en China",
