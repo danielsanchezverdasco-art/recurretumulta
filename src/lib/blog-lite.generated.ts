@@ -78006,6 +78006,25 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 12
   },
   {
+    "slug": "suzuki-sv-7s-2027-ficha-tecnica-precio",
+    "title": "Suzuki SV-7S 2027: la naked V2 vuelve por 7.199 €",
+    "excerpt": "La Suzuki SV-7S 2027 recupera la naked SV650: V2 de 645 cc con 73,4 CV, quickshifter, TFT y tres modos por 7.199 €. Llega en primavera de 2027.",
+    "category": "Novedades Motor",
+    "date": "2026-11-08",
+    "locale": "all",
+    "heroSrc": "/media/motos/suzuki-sv-7s-2027-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "Suzuki SV-7S 2027 azul, naked con faro redondo LED y chasis multitubular",
+    "keywords": [
+      "Suzuki SV-7S",
+      "SV-7S 2027 precio",
+      "Suzuki SV-7S ficha técnica",
+      "nueva SV650 2027",
+      "SV-7S 7.199 euros",
+      "naked V2 73 CV"
+    ],
+    "readTime": 15
+  },
+  {
     "slug": "byd-seagull-2026-segunda-generacion-precio",
     "title": "BYD Seagull 2026: precios oficiales y carga en 5 minutos",
     "excerpt": "Así es el BYD Seagull de segunda generación: tarifas oficiales desde 65.900 yuanes, 420 km en ciclo CLTC y carga flash del 10 al 70 % en solo 5 minutos. Todas las versiones.",
