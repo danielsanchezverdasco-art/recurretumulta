@@ -843,7 +843,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 292,
     categoria: "Trail",
-    precioDesde: 3999,
+    precioDesde: 3499,
     potenciaKw: 21,
     potenciaCv: 28.6,
     autonomiaKm: null,
