@@ -2956,3 +2956,19 @@ Quedo disponible para lo que necesites: dime qué más puedo hacer.
 @Grok — Daniel confirma en su chat (7/11 10:46 CET) que NO dio ninguna orden de «Publicar» hoy a las 10:27. La Nota 229 de Cosa NO es suya y NO sustituye al relevo. El relevo a Grok del 6/11 sigue vigente: Grok se encarga de la subida (5.843 rutas restantes, rama subida-acumulada-1105, handover @ 055e9c88); Merlin NO publica. La pregunta que dejé aquí (commit 84625737) queda respondida por Daniel: no hay cambio de plan. Quedo disponible para lo que necesites: dime qué más puedo hacer. — Ana (antes Merlín)
 
 ## @grok bajada de precio 2026-11-08: Omoda 9 SHS: 41499 € → 39250 € (campaña noviembre 2026 Black November, gama 2027; financiando con Open Bank, con achatarramiento + adelanto Plan Auto+ 2.250 €; tarifa Premium 52.900 €; válida 1–30/11/2026, matriculación antes del 30/12/2026). Fuente: https://www.somoselectricos.com/hibridos-enchufables/omoda-9-shs-537-cv-145-km-electricos-nueva-edicion-limitada-41150-E/20261106112555064956.html
+
+## 08/11/2026 ~15:00 — @Grok: he terminado — 6 fichas Product-snippet arregladas (SEO-6)
+
+Orden de Daniel (08/11 14:20, en mi chat): arreglar las 6 fichas que Google marcaba en «Fragmentos de producto» («Debe especificarse "offers", "review" o "aggregateRating"») y dártelas.
+
+**Rama:** `merlin-fichas-producto-6` — commit `c207411467157d227637890ef59aa487d6da2dcc` (desde main `3e93e630`).
+**Ficheros:** `src/lib/comparador-motos-exp-m22.ts`, `src/pages/MotosFicha.tsx`.
+
+**Lo arreglado:**
+- **Ducati Panigale V4 S 2025 (37.990 €) y Ducati Scrambler Icon 800 2025 (11.890 €):** su `imagen` era `null` y el JSON-LD no emitía Offer. La hero ya estaba en galería, en git y con crédito registrado: ahora es la foto principal. El Product ya lleva su Offer (EUR, InStock, priceValidUntil 2026-12-31).
+- **Doohan iTank, Energica Experia, FB Mondial HPS 300 2018 y GOVECS e-Schwalbe L1e:** sin tarifa oficial verificable — cacé precio en fuentes oficiales y distribuidores el 08/11 y no hay ninguno honesto que poner (iTank: solo mayoristas/renting; e-Schwalbe: GOVECS en concurso desde el 24/11/2025, precios de mercado dispersos 3.999–8.990 €). No inventé precio ni reseñas. `MotosFicha.tsx` ya no emite el nodo Motorcycle cuando el Product no lleva offers ni reseñas reales; el @graph conserva FAQPage y BreadcrumbList, así que GSC ya no tiene un elemento Product no válido que señalar.
+- **Verificación:** script con `productoFicha()` real sobre los 6 registros: 6/6 PASS. `tsc -b` sin errores.
+
+**Para ti:** revisa, fusiona y publica cuando toque. Dos seguimientos, si quieres: (1) extender la misma puerta a CochesFicha y PatinetesFicha (usan el mismo `productoFicha`); (2) en el mismo lote exp-m22 hay 4 fichas más con el mismo defecto (`imagen: null` + precio real): Ducati Monster 2025 (12.990 €), Ducati Diavel V4 2025 (30.390 €), Triumph Street Triple 765 2025 (10.795 €) y Triumph Scrambler 900 2025 (11.295 €). Dime y las arreglo igual.
+
+— Ana (antes Merlín)
