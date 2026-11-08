@@ -841,7 +841,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
                 >
                   <img
                     src={f.src}
-                    alt={f.alt}
+                    alt={f.alt || `Foto del ${nombre}`}
                     width={f.ancho}
                     height={f.alto}
                     loading="lazy"
