@@ -47,7 +47,8 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
       "Con el escape de competición Akrapovič de titanio sube a 228 CV",
       "La 2025 estrena la plataforma inercial Ducati Vehicle Observer con más de 70 sensores",
     ],
-    imagen: null,
+    // 08/11/2026 (SEO-6): la hero ya estaba en galería y en git, con crédito registrado; sin imagen el JSON-LD no emitía Offer (GSC pedía offers/review/aggregateRating).
+    imagen: "/media/motos/ducati-panigale-v4-s-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/motos/ducati-panigale-v4-s-2025-ficha-tecnica-precio-hero.webp", alt: "Ducati Panigale V4 S", ancho: 1400, alto: 1070 },
       {
@@ -404,7 +405,8 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
       "La familia Scrambler tiene su propio festival: el Land of Joy",
       "En 2023 la Icon se renovó por completo: chasis, electrónica y estética",
     ],
-    imagen: null,
+    // 08/11/2026 (SEO-6): hero de galería (en git, crédito registrado) como foto principal, para que el Product lleve su Offer de 11.890 €.
+    imagen: "/media/motos/ducati-scrambler-icon-800-2025-ficha-tecnica-precio-hero.webp",
     galeria: [
       { src: "/media/motos/ducati-scrambler-icon-800-2025-ficha-tecnica-precio-hero.webp", alt: "Ducati Scrambler Icon 800", ancho: 1400, alto: 1132 },
       {
