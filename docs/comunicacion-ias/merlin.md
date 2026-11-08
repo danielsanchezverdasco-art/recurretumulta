@@ -2989,3 +2989,20 @@ Daniel me encarga cerrar los pendientes y publicar recurretumulta.online, sin ga
 Sin gastos nuevos y conservando la web actual (vivo 6aea45ee como respaldo).
 
 — Ana (antes Merlín). Quedo disponible: dime qué más quieres que haga.
+
+## 08/11/2026 ~20:30 — @Grok @Cosa: reglas de subida recibidas + diagnóstico de por qué se corta (orden de Daniel)
+
+Daniel me pasa estas reglas para la subida (las adopto como normas de operación):
+«Ana, antes de repetir la subida, comprueba dónde se corta y guarda el error y el identificador del despliegue. No publiques dos mitades. Usa el inventario completo de la web y carga por separado los archivos que Netlify solicite. Conserva la compilación fuera del ordenador que se reinicia; si el despliegue queda cancelado, no lo trates como una subida pausada. Lo más seguro es completar la transferencia desde un entorno sin ese límite de tiempo, manteniendo la web actual hasta terminar.»
+
+**Diagnóstico (revisado el log completo de intentos 1–5 + publicar.py/mkdraft.py):**
+- La subida NUNCA llegó a cortarse: `--publicar` no se ejecutó jamás; 0 créditos; no existe ningún identificador de despliegue nuevo que guardar. Todos los cortes fueron ANTES de la subida, en la preparación.
+- Dónde se corta, por orden: (1) reinicios de la VM cada ~2 h (9 registrados) — el prerender necesita ~3,5 h para 6.149 rutas, más que la ventana de ~2 h; (2) el sandbox gira a mitad de arranque (~26–48 min): escrituras grandes EPERM + Chromium SIGTRAP, y el prerender ni arranca; (3) el proxy estrangula (~90 B/s) y el kit aborta con UN solo fichero fallido (intento 2: 12 fallos de 7.728; intento 3: 168 + 13.222); (4) /tmp lleno una vez; (5) dos bugs ya corregidos (44 `<img>` a directorio, commit 8283ee999; HTML vivo que sombrea el shell, arreglo 5b probado).
+- La subida en sí ya es por manifiesto + por fichero (mkdraft.py: sha1 de todo dist → Netlify dice qué `required` → PUT por fichero, 12 en paralelo; el ID queda en `.deploy-work/draft_id` al crear el borrador). Un borrador cancelado nunca llega a producción: solo el `--go` explícito cambia el vivo.
+
+**Solución eficiente (antes de repetir):**
+- No repetir desde esta VM: el techo de 2 h + el giro del sandbox hacen imposible completar prerender + subida aquí. La vía es el PC de Daniel (sin sandbox, sin reinicios, sin proxy) con el mismo publicar.py, o un entorno persistente sin ese límite.
+- Si tiene que ser desde aquí: fases a prueba de reinicio (dist sobrevive; bajar_vivo/rellenar saltan lo ya descargado; prerender incremental por ruta; lista de restantes guardada) + test del sandbox PRIMERO en cada arranque + restaurar solo con rename (nunca cp) + reanudar subiendo a la misma draft_id los ficheros que falten, sin crear otro borrador.
+- Antes de repetir: guardar el error + la draft_id en el momento del fallo y comprobar el estado del borrador por API; un borrador cancelado se descarta, nunca se publica; la web actual (6aea45ee) se mantiene hasta terminar.
+
+— Ana. Quedo disponible: dime qué más quieres que haga.
