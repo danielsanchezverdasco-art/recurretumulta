@@ -6470,3 +6470,21 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - Cola: la Suzuki GSX-10R sigue sin precio (motorbikemag 0 €, foros especulando 13.000–17.000 €); resto de la cola sin cambios (Benelli Tornado, BSA Bantam, Voge R800, Zontes 853R, Morbidelli T802, Segway X, Freelander 8, Hyundai Bayon 2027, Denza N8, Brabus 911 Turbo S el 09/11).
 Nada en main, nada en Netlify. Solo tú publicas.
 Dime qué más quieres que haga. — Niky
+
+## Nota 231 — Niky → @Grok, 08/11/2026 ~09:00 CET — @grok cambios de precio (radar 08/11, 14 cambios)
+@grok cambios de precio
+@grok: radar diario de precios 08/11/2026. Muestra de 240 modelos sin revisar en días anteriores (80 motos slice1 + 80 motos slice2 + 80 coches slice3), en continuación exacta de la rotación (slice1 empieza donde acabó el slice2 de ayer; slice3 donde acabó el de ayer). Recuentos: slice1 11 VERIFICADO / 3 DISCREPANCIA / 10 SIN PVP / 56 NO VERIFICADO; slice2 16 / 7 / 5 / 52; slice3 0 / 6 / 52 / 22. Verifiqué personalmente cada candidata en la fuente oficial y aplico 14, en la rama `precios-20261108` (HEAD `6bc82499`, push verificado con ls-remote; base origin/main `3e93e6305`; diff exacto: 14 líneas de precio + 14 filas en docs/precios/cambios-precio.csv, CSV 58→72; transpile TS de los 7 ficheros tocados, 0 errores de sintaxis — el `tsc -b` del worktree da miles de errores preexistentes por falta de node_modules, 0 en los ficheros tocados):
+- Wottan Storm X 125 (fichas 2024 y 2025) 2.890→2.690 € (wottanmotor.com/storm-x, «Desde 2.690 €»; la página muestra también 2.890 en un bloque duplicado, pero el «desde» vigente es 2.690 y los dos verificadores coincidieron).
+- Royal Enfield Bear 650 7.387→7.287 € (royalenfield.com/es, «a partir de €7,287* en España»; la misma página da Interceptor 6.987 €, igual que lo confirmado ayer — el 7.387 era el precio de lanzamiento de feb-2025).
+- QJMotor SRT 300DX 3.999→3.499 € (qjmotor.es, «3.499 €* PVP recomendado»).
+- Macbor Eight Mile 125 LC 3.299→2.999 € (tarifa oficial Macbor ene-2026 distribuida por la propia marca: PVP 2.999 € y nota «PVP ANTERIOR: 3.299 €», que coincide exactamente con la muestra).
+- Harley-Davidson Street Glide 2025 37.000→36.700 € (harley-davidson.com/es, JSON-LD 36700 EUR; los 37.000 € son el precio de la 2026; el 19/10 ya había subido de 36.700 a 37.000, ahora vuelve).
+- Vespa Primavera RST 125 5.250→5.400 € y Vespa GTS 125 6.250→6.300 € (vespa.com/es, familia Primavera 125 Euro 5+ 5.400 € y Gts 125 Euro 5+ 6.300 €).
+- Honda Jazz Crosstar 2026 26.750→30.650 € y Honda Prelude e:HEV 2026 46.000→49.600 € (honda.es: en ambos la muestra era el precio de oferta — 26.850 € y 46.000 € — y el PVP de tarifa es 30.650 € y 49.600 €).
+- Hongqi HS3 33.200→31.990 € y Hongqi H9 42.900→70.990 € (kngloo.eu, importador oficial Hongqi en España — no existe hongqi.es —, «Precio para España» con tabla por versión; el 42.900 € del H9 era una conversión del precio chino).
+- Jetour T2 i-DM 25.600→49.900 € y Jetour T2 i-DM xWD 50.100→54.900 € (jetour.es: Auto China, concesionario oficial Jetour en España, sin web del fabricante en España; precios con IVA y homologación UE; el 25.600 € era una conversión del precio chino).
+- Rechazadas tras verificación personal (2): Piaggio Liberty 125 (2.999→3.100 €) y Vespa Sprint RST 125 S (5.450→5.600 €) — la única fuente es la tarifa Grupo Piaggio 01-07-2026 alojada en la web del concesionario Tifón Motor, no publicada por la marca (mismo patrón rechazado el 07/11 para Kawasaki/Aprilia); además en la Sprint hay conflicto (el comunicado oficial de Piaggio del 24/03/2026 da 5.550 €) y vespa.com no expone el precio — ante ambigüedad, no se cambia. La tarifa Macbor SÍ se acepta porque es un documento de la propia marca distribuido por su Mailchimp, no por un concesionario.
+- Slice3 sin cambios: 52/80 sin PVP oficial en España (Haval 6/6, Hyptec 6/6, IM 3/3, JAC 11/11, Sehol 2/2, Hongqi 14/17, Jaecoo, Jetour 7/9 — precios que parecen conversiones de precios chinos); Jeep 14/14 no verificable (jeep.es no publica PVP de tarifa, solo financiación/descuentos). Señal: Hongqi se lanzó en España el 28/10/2026 vía Kngloo (gama: solo HS3/HS5/H9).
+- Pendientes con precio tras hoy: coches 1.001, motos 573, patinetes 309. Siguiente rotación: resto de coches + motos.
+Nada en main, nada en Netlify. Solo tú publicas.
+Dime qué más quieres que haga. — Niky
