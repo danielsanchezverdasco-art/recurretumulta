@@ -1,0 +1,572 @@
+{
+ "coches": [
+  {
+   "slug": "alfa-romeo-giulietta-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-01/alfa-romeo-giulietta-2025"
+  },
+  {
+   "slug": "alfa-romeo-mito-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-01/alfa-romeo-mito-2025"
+  },
+  {
+   "slug": "audi-a3-sedan-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-01/audi-a3-sedan-2025"
+  },
+  {
+   "slug": "audi-a4-avant-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-01/audi-a4-avant-2025"
+  },
+  {
+   "slug": "audi-rs4-avant-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-01/audi-rs4-avant-2025"
+  },
+  {
+   "slug": "audi-s4-avant-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-01/audi-s4-avant-2025"
+  },
+  {
+   "slug": "audi-s7-sportback-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-01/audi-s7-sportback-2025"
+  },
+  {
+   "slug": "bmw-ix-xdrive40-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-01/bmw-ix-xdrive40-2025"
+  },
+  {
+   "slug": "bmw-serie-7-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-01/bmw-serie-7-2025"
+  },
+  {
+   "slug": "bmw-x6-m-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-01/bmw-x6-m-2025"
+  },
+  {
+   "slug": "citroen-c1-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-01/citroen-c1-2025"
+  },
+  {
+   "slug": "citroen-c4-cactus-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-01/citroen-c4-cactus-2025"
+  },
+  {
+   "slug": "cupra-ateca-vz5-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-01/cupra-ateca-vz5-2025"
+  },
+  {
+   "slug": "dacia-lodgy-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-01/dacia-lodgy-2025"
+  },
+  {
+   "slug": "daihatsu-copen-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-01/daihatsu-copen-2025"
+  },
+  {
+   "slug": "fiat-panda-4x4-2024",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/fiat-panda-4x4-2024"
+  },
+  {
+   "slug": "fiat-tipo-sw-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/fiat-tipo-sw-2025"
+  },
+  {
+   "slug": "ford-explorer-phev-2023",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/ford-explorer-phev-2023"
+  },
+  {
+   "slug": "ford-f-150-lightning-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/ford-f-150-lightning-2025"
+  },
+  {
+   "slug": "ford-fiesta-st-2023",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/ford-fiesta-st-2023"
+  },
+  {
+   "slug": "ford-maverick-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/ford-maverick-2025"
+  },
+  {
+   "slug": "ford-mustang-gtd-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/ford-mustang-gtd-2025"
+  },
+  {
+   "slug": "ford-ranger-ms-rt-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/ford-ranger-ms-rt-2025"
+  },
+  {
+   "slug": "ford-transit-nugget-plus-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/ford-transit-nugget-plus-2025"
+  },
+  {
+   "slug": "genesis-g70-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/genesis-g70-2025"
+  },
+  {
+   "slug": "genesis-g80-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/genesis-g80-2025"
+  },
+  {
+   "slug": "genesis-gv80-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/genesis-gv80-2025"
+  },
+  {
+   "slug": "honda-accord-2024",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/honda-accord-2024"
+  },
+  {
+   "slug": "honda-e-2023",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/honda-e-2023"
+  },
+  {
+   "slug": "honda-nsx-2022",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/honda-nsx-2022"
+  },
+  {
+   "slug": "honda-s2000-2009",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/honda-s2000-2009"
+  },
+  {
+   "slug": "hyundai-elantra-n-2024",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/hyundai-elantra-n-2024"
+  },
+  {
+   "slug": "hyundai-i20-n-2024",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/hyundai-i20-n-2024"
+  },
+  {
+   "slug": "hyundai-i30-fastback-n-2024",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/hyundai-i30-fastback-n-2024"
+  },
+  {
+   "slug": "hyundai-kona-n-2023",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/hyundai-kona-n-2023"
+  },
+  {
+   "slug": "isuzu-mu-x-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/isuzu-mu-x-2025"
+  },
+  {
+   "slug": "jaguar-xe-2024",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/jaguar-xe-2024"
+  },
+  {
+   "slug": "jaguar-xf-2024",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/jaguar-xf-2024"
+  },
+  {
+   "slug": "jeep-compass-trailhawk-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/jeep-compass-trailhawk-2025"
+  },
+  {
+   "slug": "jeep-gladiator-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/jeep-gladiator-2025"
+  },
+  {
+   "slug": "jeep-grand-cherokee-l-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/jeep-grand-cherokee-l-2025"
+  },
+  {
+   "slug": "jeep-wrangler-rubicon-392-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/jeep-wrangler-rubicon-392-2025"
+  },
+  {
+   "slug": "kia-carnival-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/kia-carnival-2025"
+  },
+  {
+   "slug": "kia-ceed-gt-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/kia-ceed-gt-2025"
+  },
+  {
+   "slug": "kia-ev3-gt-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/kia-ev3-gt-2026"
+  },
+  {
+   "slug": "kia-soul-ev-2024",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/kia-soul-ev-2024"
+  },
+  {
+   "slug": "kia-stinger-2024",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-02/kia-stinger-2024"
+  },
+  {
+   "slug": "lexus-gx-550",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-03/lexus-gx-550"
+  },
+  {
+   "slug": "lexus-is-300h",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-03/lexus-is-300h"
+  },
+  {
+   "slug": "lexus-lm-350h",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-03/lexus-lm-350h"
+  }
+ ],
+ "motos": [
+  {
+   "slug": "aprilia-rs-125-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/aprilia-rs-125-2026"
+  },
+  {
+   "slug": "aprilia-rs-660-factory-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/aprilia-rs-660-factory-2026"
+  },
+  {
+   "slug": "aprilia-rsv4-factory-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/aprilia-rsv4-factory-2026"
+  },
+  {
+   "slug": "aprilia-rx-125-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/aprilia-rx-125-2026"
+  },
+  {
+   "slug": "aprilia-sr-gt-200-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/aprilia-sr-gt-200-2026"
+  },
+  {
+   "slug": "aprilia-sx-125-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/aprilia-sx-125-2026"
+  },
+  {
+   "slug": "aprilia-tuareg-660-rally-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/aprilia-tuareg-660-rally-2026"
+  },
+  {
+   "slug": "aprilia-tuono-660-factory-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/aprilia-tuono-660-factory-2026"
+  },
+  {
+   "slug": "benda-rock-300-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/benda-rock-300-2026"
+  },
+  {
+   "slug": "benelli-imperiale-400-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/benelli-imperiale-400-2026"
+  },
+  {
+   "slug": "benelli-leoncino-800-trail-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/benelli-leoncino-800-trail-2026"
+  },
+  {
+   "slug": "benelli-tornado-500-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/benelli-tornado-500-2025"
+  },
+  {
+   "slug": "benelli-trk-502-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/benelli-trk-502-2026"
+  },
+  {
+   "slug": "benelli-trk-502x-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/benelli-trk-502x-2026"
+  },
+  {
+   "slug": "benelli-trk-702-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/benelli-trk-702-2026"
+  },
+  {
+   "slug": "bmw-c-400-x-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/bmw-c-400-x-2026"
+  },
+  {
+   "slug": "bmw-ce-02-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/bmw-ce-02-2026"
+  },
+  {
+   "slug": "bmw-f-900-gs-adventure-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/bmw-f-900-gs-adventure-2026"
+  },
+  {
+   "slug": "bmw-f-900-r-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/bmw-f-900-r-2026"
+  },
+  {
+   "slug": "bmw-g-310-gs-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/bmw-g-310-gs-2025"
+  },
+  {
+   "slug": "bmw-g-310-r-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/bmw-g-310-r-2025"
+  },
+  {
+   "slug": "bmw-m-1000-rr-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/bmw-m-1000-rr-2026"
+  },
+  {
+   "slug": "bmw-r-12-s-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/bmw-r-12-s-2026"
+  },
+  {
+   "slug": "bmw-r-18-classic-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/bmw-r-18-classic-2025"
+  },
+  {
+   "slug": "bmw-s-1000-xr-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/bmw-s-1000-xr-2026"
+  },
+  {
+   "slug": "brixton-cromwell-1200-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/brixton-cromwell-1200-2025"
+  },
+  {
+   "slug": "brixton-crossfire-500-storr-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/brixton-crossfire-500-storr-2026"
+  },
+  {
+   "slug": "bsa-bantam-350-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/bsa-bantam-350-2025"
+  },
+  {
+   "slug": "can-am-origin-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/can-am-origin-2026"
+  },
+  {
+   "slug": "can-am-pulse-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/can-am-pulse-2026"
+  },
+  {
+   "slug": "cfmoto-300nk-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/cfmoto-300nk-2026"
+  },
+  {
+   "slug": "cfmoto-300sr-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/cfmoto-300sr-2026"
+  },
+  {
+   "slug": "cfmoto-500sr-voom-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/cfmoto-500sr-voom-2025"
+  },
+  {
+   "slug": "cfmoto-650nk-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/cfmoto-650nk-2025"
+  },
+  {
+   "slug": "cfmoto-675sr-r-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/cfmoto-675sr-r-2026"
+  },
+  {
+   "slug": "cfmoto-800mt-explore-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/cfmoto-800mt-explore-2026"
+  },
+  {
+   "slug": "ducati-desertx-rally-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/ducati-desertx-rally-2025"
+  },
+  {
+   "slug": "ducati-hypermotard-698-mono-rve-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/ducati-hypermotard-698-mono-rve-2025"
+  },
+  {
+   "slug": "ducati-monster-v2-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/ducati-monster-v2-2026"
+  },
+  {
+   "slug": "ducati-multistrada-v2-s-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/ducati-multistrada-v2-s-2025"
+  },
+  {
+   "slug": "ducati-panigale-v2-s-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/ducati-panigale-v2-s-2025"
+  },
+  {
+   "slug": "ducati-panigale-v4-s-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/ducati-panigale-v4-s-2026"
+  },
+  {
+   "slug": "ducati-scrambler-800-full-throttle-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/ducati-scrambler-800-full-throttle-2026"
+  },
+  {
+   "slug": "ducati-scrambler-icon-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/ducati-scrambler-icon-2026"
+  },
+  {
+   "slug": "ducati-streetfighter-v4-s-2026",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-05/ducati-streetfighter-v4-s-2026"
+  },
+  {
+   "slug": "energica-ego-plus-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-06/energica-ego-plus-2025"
+  },
+  {
+   "slug": "energica-eva-esseesse9-plus-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-06/energica-eva-esseesse9-plus-2025"
+  },
+  {
+   "slug": "fantic-caballero-125-rally-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-06/fantic-caballero-125-rally-2025"
+  },
+  {
+   "slug": "fantic-caballero-500-rally-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-06/fantic-caballero-500-rally-2025"
+  },
+  {
+   "slug": "fb-mondial-hps-125-2025",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-06/fb-mondial-hps-125-2025"
+  }
+ ],
+ "patinetes": [
+  {
+   "slug": "apollo-air",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/apollo-air"
+  },
+  {
+   "slug": "apollo-air-pro",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/apollo-air-pro"
+  },
+  {
+   "slug": "apollo-city",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/apollo-city"
+  },
+  {
+   "slug": "apollo-explore",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/apollo-explore"
+  },
+  {
+   "slug": "apollo-ghost",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/apollo-ghost"
+  },
+  {
+   "slug": "dualtron-storm",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/dualtron-storm"
+  },
+  {
+   "slug": "dualtron-thunder",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/dualtron-thunder"
+  },
+  {
+   "slug": "dualtron-ultra-2",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/dualtron-ultra-2"
+  },
+  {
+   "slug": "dualtron-x2",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/dualtron-x2"
+  },
+  {
+   "slug": "egret-gt",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/egret-gt"
+  },
+  {
+   "slug": "emove-cruiser-s",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/emove-cruiser-s"
+  },
+  {
+   "slug": "hiboy-max-v2",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/hiboy-max-v2"
+  },
+  {
+   "slug": "inmotion-rs",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/inmotion-rs"
+  },
+  {
+   "slug": "inokim-ox",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/inokim-ox"
+  },
+  {
+   "slug": "iscooter-i9-pro",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/iscooter-i9-pro"
+  },
+  {
+   "slug": "joyor-f5s",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/joyor-f5s"
+  },
+  {
+   "slug": "joyor-s8",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/joyor-s8"
+  },
+  {
+   "slug": "kaabo-wolf-king",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/kaabo-wolf-king"
+  },
+  {
+   "slug": "kugoo-kirin-g2-pro",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/kugoo-kirin-g2-pro"
+  },
+  {
+   "slug": "kukirin-g2",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/kukirin-g2"
+  },
+  {
+   "slug": "kukirin-g3",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/kukirin-g3"
+  },
+  {
+   "slug": "kukirin-g4-max",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-09/kukirin-g4-max"
+  },
+  {
+   "slug": "emove-roadrunner",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/emove-roadrunner"
+  },
+  {
+   "slug": "emove-roadrunner-pro",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/emove-roadrunner-pro"
+  },
+  {
+   "slug": "emove-roadster",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/emove-roadster"
+  },
+  {
+   "slug": "fluid-horizon",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/fluid-horizon"
+  },
+  {
+   "slug": "fluid-mosquito",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/fluid-mosquito"
+  },
+  {
+   "slug": "glion-balto",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/glion-balto"
+  },
+  {
+   "slug": "glion-dolly",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/glion-dolly"
+  },
+  {
+   "slug": "gotrax-g2",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/gotrax-g2"
+  },
+  {
+   "slug": "inmotion-s1",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/inmotion-s1"
+  },
+  {
+   "slug": "levy-plus",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/levy-plus"
+  },
+  {
+   "slug": "levy-pro",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/levy-pro"
+  },
+  {
+   "slug": "okai-es10",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/okai-es10"
+  },
+  {
+   "slug": "okai-es30",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/okai-es30"
+  },
+  {
+   "slug": "razor-e100",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/razor-e100"
+  },
+  {
+   "slug": "razor-e200",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/razor-e200"
+  },
+  {
+   "slug": "razor-e325",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/razor-e325"
+  },
+  {
+   "slug": "razor-e500",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/razor-e500"
+  },
+  {
+   "slug": "teverun-blade-gt",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/teverun-blade-gt"
+  },
+  {
+   "slug": "teverun-blade-mini",
+   "dir": "/home/hatch/workspace/fichas-pendientes-20261013/lote-11-nuevos/teverun-blade-mini"
+  }
+ ]
+}

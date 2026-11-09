@@ -1,0 +1,78 @@
+fichero,pagina,veredicto,motivo,chars_antes,chars_despues
+src/lib/blog-data.ts,como-recurrir-multa-dgt-sin-abogado,OK,"mismos datos, redacción propia, sin relleno",4641,4464
+src/lib/blog-posts-octubre-2026.ts,keywords,OK,"mismos datos, redacción propia, sin relleno",9230,9221
+src/lib/blog-posts-patinetes-exp-p9.ts,keywords,OK,"mismos datos, redacción propia, sin relleno",3505,3669
+src/lib/blog-posts-prioridad-20261014.ts,citroen-c4-cactus-2025-precio-opiniones,MEJORAR,"cifra nueva sin fuente visible, verificar: 4.157; coletilla valorativa/relleno (cualquier): sustituir por dato",3074,3936
+src/lib/blog-posts-prioridad-20261014.ts,honda-e-precio-ficha-tecnica,MEJORAR,coletilla valorativa/relleno (lo convierte en): sustituir por dato,4634,4716
+src/lib/blog-posts-prioridad-20261014.ts,honda-nsx-precio-ficha-tecnica,MEJORAR,coletilla valorativa/relleno (cualquier): sustituir por dato; sin renunciar,4912,4441
+src/lib/blog-posts-prioridad-20261014.ts,jeep-compass-trailhawk-precio-ficha-tecnica,MEJORAR,pierde dato útil: 15.000; coletilla valorativa/relleno (cualquier): sustituir por dato; de sobra; reponer intervalo de mantenimiento «revisión anual o cada 15.000 km» con su fuente,4711,4295
+src/lib/blog-posts-prioridad-20261014.ts,kia-soul-ev-precio-ficha-tecnica,MEJORAR,coletilla valorativa/relleno (lo convierte en): sustituir por dato,4745,4598
+src/lib/blog-posts-prioridad-20261014.ts,aprilia-rs-125-2026,MEJORAR,coletilla valorativa/relleno (más de lo que parece): sustituir por dato; toda una,5708,5752
+src/lib/comparador-coches-byd.ts,byd-great-tang-2026-precio-ficha-tecnica,MEJORAR,coletilla valorativa/relleno (busca un confort): sustituir por dato; del momento; demuestra que; más ambiciosos; texto +73% (posible relleno),723,1253
+src/lib/comparador-coches-chery.ts,chery-explorer-06-2024-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",536,675
+src/lib/comparador-coches-dacia.ts,dacia-jogger-eco-g-120-2026-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",697,895
+src/lib/comparador-coches-dongfeng.ts,dongfeng-huge-hev-2025-precio-ficha-tecnica,MEJORAR,coletilla valorativa/relleno (de sobra): sustituir por dato; más de lo que parece; texto +62% (posible relleno),594,964
+src/lib/comparador-coches-exp16.ts,mazda-mx-5-rf-15-skyactiv-g-2026-precio-ficha-tecnica,MEJORAR,coletilla valorativa/relleno (lo convierte en): sustituir por dato,575,675
+src/lib/comparador-coches-exp19.ts,renault-austral-2026-e-tech-200-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",685,1007
+src/lib/comparador-coches-exp23.ts,mini-cooper-c-2024-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",612,884
+src/lib/comparador-coches-exp23.ts,mini-cooper-cabrio-s-2025-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",575,881
+src/lib/comparador-coches-honda.ts,honda-cr-v-ephev-2026-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",735,822
+src/lib/comparador-coches-hyundai.ts,hyundai-inster-2025-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",411,587
+src/lib/comparador-coches-levc.ts,levc-vn5-2024-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",722,837
+src/lib/comparador-coches-ligier.ts,ligier-myli-l7e-2025-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",680,749
+src/lib/comparador-coches-lote1.ts,chery-fulwin-t11-2025-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",693,1049
+src/lib/comparador-coches-lote11.ts,byd-shark-6-2025-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",886,1103
+src/lib/comparador-coches-lote11.ts,volvo-em90-2024-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",736,1043
+src/lib/comparador-coches-lote13.ts,toyota-bz5-2026-precio-ficha-tecnica,MEJORAR,cifra cambiada para cuadrar con la ficha (correcto); coletilla valorativa/relleno (al nivel de): sustituir por dato; de sobra; texto +65% (posible relleno),685,1137
+src/lib/comparador-coches-lote13.ts,jeep-cherokee-2026-precio-ficha-tecnica,MEJORAR,texto +67% (posible relleno),670,1122
+src/lib/comparador-coches-lote5.ts,byd-qin-plus-dm-i-2025-precio-ficha-tecnica,MEJORAR,cifra cambiada para cuadrar con la ficha (correcto); coletilla valorativa/relleno (pesará en): sustituir por dato; texto +83% (posible relleno),659,1209
+src/lib/comparador-coches-mercedes-benz.ts,mercedes-benz-eqa-250-plus-precio-ficha-tecnica,MEJORAR,coletilla valorativa/relleno (lo convierte en): sustituir por dato,635,1005
+src/lib/comparador-coches-nuevos.ts,volkswagen-polo-2026,OK,"mismos datos, redacción propia, sin relleno",294,345
+src/lib/comparador-coches-nuevos.ts,seat-ateca-2024-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",698,721
+src/lib/comparador-coches-polestar.ts,polestar-2-long-range-dual-motor-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",624,680
+src/lib/comparador-coches-renault.ts,renault-arkana-2024-e-tech-145-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",532,612
+src/lib/comparador-coches-roewe.ts,roewe-d6-2025-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",495,613
+src/lib/comparador-coches-seat.ts,seat-ibiza-10-tsi-2026-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",795,968
+src/lib/comparador-coches-seat.ts,seat-leon-sportstourer-15-etsi-115-2026-precio-ficha-tecnica,OK,"mismos datos, redacción propia, sin relleno",512,759
+src/lib/comparador-coches-skoda.ts,skoda-octavia-combi-20-tdi-2026-precio-ficha-tecnica,MEJORAR,coletilla valorativa/relleno (cualquier): sustituir por dato; sorprende; texto +98% (posible relleno),508,1007
+src/lib/comparador-coches-skoda.ts,skoda-kamiq-10-tsi-2025-precio-ficha-tecnica,MEJORAR,coletilla valorativa/relleno (merece la pena): sustituir por dato; texto +171% (posible relleno),376,1020
+src/lib/comparador-coches-toyota.ts,toyota-corolla-cross-2025-precio-ficha-tecnica,MEJORAR,texto +120% (posible relleno),578,1276
+src/lib/comparador-coches-volkswagen.ts,volkswagen-taigo-2026-precio-ficha-tecnica,MEJORAR,coletilla valorativa/relleno (cualquier): sustituir por dato; texto +111% (posible relleno),513,1083
+src/lib/comparador-coches-xiaomi.ts,xiaomi-su7-ultra-2025-precio-ficha-tecnica,MEJORAR,coletilla valorativa/relleno (cualquier): sustituir por dato; sorprende; texto +117% (posible relleno),571,1240
+src/lib/comparador-coches-xiaomi.ts,xiaomi-yu7-max-2025-precio-ficha-tecnica,MEJORAR,coletilla valorativa/relleno (cualquier): sustituir por dato; texto +76% (posible relleno),568,1002
+src/lib/comparador-coches-xiaomi.ts,xiaomi-skynomad-n70-pro-2026-precio-ficha-tecnica,MEJORAR,coletilla valorativa/relleno (sin renunciar): sustituir por dato; texto +142% (posible relleno),517,1253
+src/lib/comparador-motos-base.ts,aprilia-rs-125-2025-ficha-tecnica-precio,OK,"mismos datos, redacción propia, sin relleno",908,1157
+src/lib/comparador-motos-base.ts,husqvarna-svartpilen-125-2024-ficha-tecnica-precio,OK,"mismos datos, redacción propia, sin relleno",706,872
+src/lib/comparador-motos-base.ts,kawasaki-zx-10r-2024-ficha-tecnica-precio,OK,"mismos datos, redacción propia, sin relleno",747,901
+src/lib/comparador-motos-exp-m2.ts,husqvarna-norden-901-expedition-2024-ficha-tecnica-precio,OK,"mismos datos, redacción propia, sin relleno",840,1010
+src/lib/comparador-motos-exp-m3.ts,zontes-350r-2025-ficha-tecnica-precio,MEJORAR,coletilla valorativa/relleno (del momento): sustituir por dato; texto +60% (posible relleno),748,1198
+src/lib/comparador-motos-exp-m4.ts,royal-enfield-himalayan-450-2025-ficha-tecnica-precio,OK,"mismos datos, redacción propia, sin relleno",818,1028
+src/lib/comparador-patinetes-base.ts,navee-s65,MEJORAR,coletilla valorativa/relleno (lo convierte en): sustituir por dato,639,934
+src/lib/comparador-patinetes-base.ts,navee-st3,MEJORAR,cifra cambiada para cuadrar con la ficha (correcto); texto +95% (posible relleno),719,1403
+src/lib/comparador-patinetes-exp-p11.ts,zwheel-zlion-x-max,OK,"mismos datos, redacción propia, sin relleno",947,971
+src/lib/comparador-patinetes-exp-p2.ts,cecotec-bongo-serie-s-infinity,OK,"mismos datos, redacción propia, sin relleno",794,873
+src/lib/comparador-patinetes-exp-p3.ts,inmotion-air,MEJORAR,coletilla valorativa/relleno (perfect): sustituir por dato,314,413
+src/lib/comparador-patinetes-exp-p3.ts,inmotion-air-pro,MEJORAR,"cifra nueva sin fuente visible, verificar: 2.250",761,807
+src/lib/comparador-patinetes-exp-p3.ts,joyor-s5-pro,OK,"mismos datos, redacción propia, sin relleno",615,732
+src/lib/comparador-patinetes-exp-p4.ts,evercross-h5,MEJORAR,texto +135% (posible relleno),314,740
+src/lib/comparador-patinetes-exp-p4.ts,currus-panther,OK,"mismos datos, redacción propia, sin relleno",825,1040
+src/lib/comparador-patinetes-exp-p4.ts,currus-nf,MEJORAR,coletilla valorativa/relleno (cualquier): sustituir por dato; de sobra; texto +159% (posible relleno),563,1460
+src/lib/comparador-patinetes-exp-p4.ts,egret-ey-1,OK,"mismos datos, redacción propia, sin relleno",747,887
+src/lib/comparador-patinetes-exp-p4.ts,egret-ey-3,MEJORAR,texto +170% (posible relleno),488,1319
+src/lib/comparador-patinetes-exp-p4.ts,egret-ey-6,OK,"mismos datos, redacción propia, sin relleno",711,911
+src/lib/comparador-patinetes-exp-p4.ts,turboant-r9,MEJORAR,texto +173% (posible relleno),276,754
+src/lib/comparador-patinetes-exp-p5.ts,walberg-egret-ey-1,MEJORAR,texto +102% (posible relleno),434,881
+src/lib/comparador-patinetes-exp-p5.ts,gotrax-g6,MEJORAR,texto +138% (posible relleno),320,764
+src/lib/comparador-patinetes-exp-p6.ts,urban-glide-e-cross-pro-2,MEJORAR,texto +73% (posible relleno),854,1480
+src/lib/comparador-patinetes-exp-p6.ts,urban-glide-ride-100-max,OK,"mismos datos, redacción propia, sin relleno",852,931
+src/lib/comparador-patinetes-exp-p6.ts,urban-glide-e-cross-one,MEJORAR,texto +122% (posible relleno),660,1467
+src/lib/comparador-patinetes-exp-p6.ts,urban-glide-all-road-5,OK,"mismos datos, redacción propia, sin relleno",812,921
+src/lib/comparador-patinetes-exp-p6.ts,cecotec-bongo-doble-y85-2x2-xxl-connected,MEJORAR,coletilla valorativa/relleno (lo convierte en): sustituir por dato; texto +106% (posible relleno),696,1439
+src/lib/comparador-patinetes-exp-p6.ts,cecotec-bongo-serie-doble-z85,MEJORAR,texto +192% (posible relleno),275,803
+src/lib/comparador-patinetes-exp-p6.ts,cecotec-bongo-serie-x65-connected,MEJORAR,texto +170% (posible relleno),647,1747
+src/lib/comparador-patinetes-exp-p6.ts,speedway-mini-4-pro,MEJORAR,coletilla valorativa/relleno (sorprende): sustituir por dato; texto +76% (posible relleno),717,1262
+src/lib/comparador-patinetes-exp-p6.ts,navee-v25i-pro,OK,"mismos datos, redacción propia, sin relleno",256,337
+src/lib/comparador-patinetes-exp-p8.ts,apollo-explore-2024,MEJORAR,"cifra nueva sin fuente visible, verificar: 1.000, 1.400",419,633
+src/lib/provincias-data.ts,albacete,MEJORAR,texto +67% (posible relleno),378,635
+src/pages/PreguntaDelDia.tsx,PreguntaDelDia.tsx,OK,"mismos datos, redacción propia, sin relleno",642,664
+src/pages/calculadora-autonomia-real/page.tsx,page.tsx,OK,"mismos datos, redacción propia, sin relleno",5100,5091

@@ -1,0 +1,17 @@
+consulta,impresiones_3m,clics,posicion,pagina_actual,problema,accion
+kymco agility nx 125 velocidad máxima,44,0,6.27,/motos/kymco-agility-nx-125-2026-ficha-tecnica-precio/,La ficha no muestra la velocidad máxima,Añadir dato de fabricante + FAQ
+zontes 368 m velocidad máxima,19,0,9.95,/motos/zontes-368m-2025-ficha-tecnica-precio/,La ficha no muestra la velocidad máxima,Añadir dato + FAQ
+benelli bkx 300 velocidad máxima,14,0,5.57,/motos/benelli-bkx-300-s-2025-ficha-tecnica-precio/,La ficha no muestra la velocidad máxima,Añadir dato + FAQ
+sym adxtg 400 velocidad máxima,14,0,10.21,/motos/sym-adxtg-400-2025-ficha-tecnica-precio/,La ficha no muestra la velocidad máxima,Añadir dato + FAQ
+macbor rockster 410 velocidad máxima,8,0,10.12,/motos/macbor-rockster-410-2025-ficha-tecnica-precio/,La ficha no muestra la velocidad máxima,Añadir dato + FAQ
+huawei v800 precio (y variantes),5387,438,4.82,/coches/maextro-v800-huawei-precio-ficha-tecnica/,La ficha en vivo no muestra ningún precio del coche,Precio oficial con fuente arriba + FAQ (página de Cosa)
+maybach nio es9 / maybach nio es9 precio,34,0,8.4-9.3,/coches/nio-es9-2026-precio-ficha-tecnica/,La ficha no explica la relación que buscan (comparación con Maybach),Sección/FAQ solo con hechos citables con fuente
+alfa romeo cuore rosso,78,0,9.18,/blog/alfa-romeo-cuorerosso-concept-salon-paris-2026/,Post desactualizado (habla de la presentación del 12/10 en futuro) y sin la grafía 'Cuore Rosso',Actualizar con lo presentado (nota de prensa oficial)
+renault austral maletero litros / capacidad maletero / autonomía,56,0,12-54,/coches/renault-austral-2024-precio-ficha-tecnica/,Dato existe (430 L) pero sin respuesta directa ni FAQ,FAQ con litros oficiales y autonomía
+dacia bigster autonomia,17,0,19.59,/coches/dacia-bigster-2025-precio-ficha-tecnica/,Sin respuesta directa,FAQ autonomía con dato oficial
+honda forza 350 consumo,17,0,48.29,/motos/honda-forza-350-2024-ficha-tecnica-precio/,Sin respuesta directa,FAQ consumo oficial
+jetour t1 precio españa,21,0,8.43,/coches/jetour-t1-2025-precio-ficha-tecnica/,Meta 21.300 € vs página ≈25.700 €,Verificar y responder '¿cuánto cuesta en España?' arriba
+li auto l6 precio españa,16,0,8.06,/coches/li-auto-l6-ficha-tecnica-precio/,Meta con frase repetida; sin respuesta 'precio en España',Respuesta directa (si no se vende: decirlo + precio en origen con fuente)
+haval h6 precio / precio españa,24,0,7.4-8.7,/coches/haval-h6-hev-2025-precio-ficha-tecnica/,Año title 2025 vs meta 2026; frase repetida,Corregir y respuesta directa de precio
+chery tiggo 9 precio españa,11,0,7,/coches/chery-tiggo-9-2024-precio-ficha-tecnica/ (+csh-2026 y 9l-2026),Varias fichas; revisar cuál responde 'precio España',Respuesta directa en la principal y enlaces entre versiones
+cinemometro laser,27,0,44.7,/blog/cinemometro-laser-como-funciona-multa/,Posición baja,Reforzar con tabla de márgenes de error de la orden metrológica vigente (comprobar en BOE) y enlazar desde /guias/radares/
