@@ -36,7 +36,7 @@ const FAQS = [
   },
   {
     q: "¿Cuánto tiempo tengo para recurrir una multa tras consultar su código?",
-    a: "Desde la notificación, 20 días naturales para alegar (art. 95.1 del RDL 6/2015) y 1 mes para el recurso de reposición (art. 96.2-96.3); la DGT tiene 1 mes para resolverlo y, si calla, se entiende desestimado (art. 96.5). Si pagas con el 50 % de descuento, renuncias a recurrir.",
+    a: "Desde que te notifican, tienes 20 días naturales para alegar (art. 95.1 del RDL 6/2015) y un mes para el recurso de reposición (artículos 96.2 y 96.3); la DGT dispone de 1 mes para resolverlo y, si calla, se entiende desestimado (art. 96.5). Si pagas con el 50 % de descuento, renuncias a recurrir.",
   },
   {
     q: "Me han multado por un código que no sale aquí, ¿qué hago?",
@@ -55,7 +55,7 @@ const jsonLd = {
       "operatingSystem": "All",
       "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR", availability: "https://schema.org/InStock" },
       "description":
-        "Busca cualquier infracción de tráfico por su código o artículo y descubre el importe de la multa, los puntos que resta, su gravedad y la base legal en el BOE.",
+        "Busca cualquier infracción de tráfico por su código o artículo y descubre el importe de la multa, los puntos que resta, su gravedad y su base legal en el BOE.",
     },
     {
       "@type": "FAQPage",
@@ -159,7 +159,7 @@ export default function BuscadorInfraccionesPage() {
   useSeo({
     title: "Qué significa el código de tu multa",
     description:
-      "Busca cualquier infracción de tráfico por su código o artículo: importe de la multa, puntos que resta, gravedad y base legal en el BOE. Gratis y sin registro.",
+      "Busca cualquier infracción de tráfico por su código o artículo: importe de la multa, puntos que resta, gravedad y base legal publicada en el BOE. Gratis y sin registro.",
     canonical: "/buscador-codigo-multa",
     keywords: [
       "buscador de infracciones",
@@ -210,7 +210,7 @@ export default function BuscadorInfraccionesPage() {
               Código de tu multa: <span className="text-red-400">qué significa y cuánto pagas</span>
             </motion.h1>
             <motion.p initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.24 }} className="text-white/80 text-sm md:text-base leading-relaxed">
-              Escribe el artículo de tu denuncia y verás al instante el importe, los puntos, la gravedad y la base legal en el BOE. ¿Te ha llegado una multa y no entiendes el código? Escribe el artículo (p. ej. «18.2», «50» o «20») o una palabra («móvil», «alcohol», «patinete») y descubre el importe, los puntos, la gravedad y la base legal.
+              Escribe el artículo de tu denuncia y verás al instante el importe, los puntos, la gravedad y la norma que la recoge en el BOE. ¿Te ha llegado una multa y no entiendes el código? Escribe el artículo (p. ej. «18.2», «50» o «20») o una palabra («móvil», «alcohol», «patinete») y descubre el importe, los puntos, la gravedad y la base legal.
             </motion.p>
           </div>
         </div>

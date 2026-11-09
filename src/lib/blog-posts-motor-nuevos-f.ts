@@ -1783,11 +1783,11 @@ Fuente oficial: <a href=https://www.opel.es>web oficial de Opel</a>.`
 
 **¿Buscas solo los datos?** <a href=/coches/jetour-g700-903-cv-precio-ficha-tecnica/>Ver ficha técnica del Jetour G700</a>: precio, autonomía, potencia y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
-**903 CV en un todoterreno de 5,2 metros que puede cruzar un río.** El **Jetour G700** no se vende oficialmente en España y no tiene PVP oficial español: sin presencia oficial, ni venta ni preventa. Es el buque insignia de Jetour, la marca aventurera del gigante chino **Chery**, y acaba de presentarse por primera vez en Argentina durante la **Expo Auto Chino de Buenos Aires**, con llegada prevista para **2027**. Es un híbrido enchufable con chasis de largueros, tres bloqueos de diferencial y una potencia que supera a la de un Ferrari 812 Superfast.
+**903 CV en un todoterreno de 5,2 metros que puede cruzar un río.** El **Jetour G700** no tiene venta oficial en España ni PVP oficial español: sin presencia oficial, ni venta ni preventa. Es el buque insignia de Jetour, la marca aventurera del gigante chino **Chery**, y acaba de presentarse por primera vez en Argentina durante la **Expo Auto Chino de Buenos Aires**, con llegada prevista para **2027**. Es un híbrido enchufable con chasis de largueros, tres bloqueos de diferencial y una potencia que supera a la de un Ferrari 812 Superfast.
 
 ## Precio y llegada a España
 
-En China el Zongheng G700 parte de **329.900 yuanes** (unos 39.800 € al cambio), con la gama completa entre 329.900 y 442.900 yuanes (unos 39.800-49.700 €) según acabado y batería. Para España no hay precio oficial ni venta ni preventa: aplicando aranceles e impuestos europeos, una estimación razonable lo situaría en torno a los **56.000 €**, aunque la marca no lo ha confirmado.
+En China el Zongheng G700 parte de **329.900 yuanes** (unos 39.800 € al cambio), con la gama completa entre 329.900 y 442.900 yuanes (unos 39.800-49.700 €) según acabado y batería. En España no hay precio oficial ni venta ni preventa: aplicando aranceles e impuestos europeos, una estimación razonable lo situaría en torno a los **56.000 €**, aunque la marca no lo ha confirmado.
 
 Jetour ya vende en España el **T2**, y la estrategia es clara: primero los modelos de volumen y después el buque insignia. La presentación en Argentina —su primera aparición en Latinoamérica— confirma que la expansión global del G700 va en serio, con **2027** como año objetivo también para nuestro mercado.
 
@@ -1857,7 +1857,7 @@ Vídeo: <a href=https://www.youtube.com/watch?v=iHb8P2byzqc>La Guarida del Mostr
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuesta el Jetour G700?
-En China parte de 329.900 yuanes (~39.800 €). Para España no hay precio oficial ni venta ni preventa; la estimación ronda los 56.000 € con aranceles e impuestos.
+En China parte de 329.900 yuanes (~39.800 €). Aquí no hay ni precio oficial ni venta ni preventa; la estimación ronda los 56.000 € con aranceles e impuestos.
 
 ### ¿Cuándo llega el Jetour G700 a España?
 La marca apunta a 2027 para su desembarco europeo y latinoamericano, tras su presentación en Argentina en octubre de 2026.
