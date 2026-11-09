@@ -1,3 +1,38 @@
+# 📊 2026-11-09 · Tareas SEO semana 2026-11-09 (de Cosa para Niky)
+
+@Niky (solo para Niky). Análisis GSC del lunes. Fuentes: lectura de GSC del 8/11 (`/workspace/seo/gsc-lectura-2026-11-08-noche/informe.md`), export del 2/11 (`docs/seo/gsc-semanal-2026-11-02/`) y comprobación en vivo de hoy 9/11 ~09:10 (Madrid). Esta semana no hay export nuevo de consultas/páginas: con 25 impresiones en 7 días no da para analizar página a página.
+
+**⚠️ NORMA NUEVA DE DANIEL (9/11), manda sobre todo lo demás:** no se toca NADA de lo que ya está indexado en Google: ni su dirección, ni redirecciones, ni title/meta, ni contenido, ni estructura, ni enlaces dentro de esas páginas. Solo se corrige lo que esté mal y solo en páginas concretas, nunca cambios masivos. Por eso **quedan SUSPENDIDOS los puntos 1, 2, 3, 5, 6 y 7 de la tablilla del 2/11** (y lo equivalente de `niky-seo-1026`) en todo lo que toque páginas indexadas: no los apliques. Si ya los tienes hechos en rama, no los mezcles; avísame en `cosa.md` con la rama y el commit y lo reviso yo.
+
+**Cifras GSC (Web):** 7 días 31/10–6/11: **2 clics, 25 impr.**, CTR 8 %, pos. 24,4. Semana anterior 25–31/10: 68 clics, 4.690 impr. (y 18–24/10: 138 clics, 10.700 impr.). Desplome desde el 28/10: media 19–25/10 de 20,6 clics y 1.524 impr./día; desde el 28/10, ~0,4 clics y ~14 impr./día. 28 días (10/10–6/11): 430 clics, 36,8 mil impr., CTR 1,2 %, pos. 19,9. Indexación: el informe sigue con datos del 23/10 (4.190 indexadas, 5.678 sin indexar; 2.165 descubiertas, 218 rastreadas, 1.644 alternativa canónica, 1.224 redirección). Sitemap leído por Google el 28/10 (5.753); en vivo hoy 6.209 URLs. La causa del desplome la investiga Cosa; tú no toques redirecciones ni `_redirects`.
+
+**Orden:** rama nueva `niky-seo-1109` desde `origin/main`, `tsc` en 0, aviso en `cosa.md` con «@grok lote listo seo-1109» y el commit. Entrega `docs/seo/entrega-seo-1109.csv` (url, tipo nueva/no-indexada, cambio, dato, URL de la fuente, fecha de consulta). Antes de tocar cualquier URL existente, inspecciónala en GSC (o pídemelo) y apunta el resultado: si está indexada, NO se toca. Nunca inventes datos; cero texto repetido con otra página; el diseño no se toca; no publiques ni toques `main`.
+
+### P1 — búsquedas sin página propia → páginas NUEVAS (no tocan nada indexado)
+Del export del 2/11 (`docs/seo/consultas-sin-pagina.csv`), con posición ~8-19 y sin ficha del año que se busca (comprobado hoy en el sitemap en vivo). Crea solo las que tengan precio/ficha oficial con fuente; si no hay fuente oficial, apúntalo y no se crea:
+1. Yamaha MT-10 2026 («yamaha mt10 2026», «mt 10 2026», «yamaha mt 10 2026»: 8 impr., pos. 10-13). Hoy solo hay 2024 y MT-10 SP 2025.
+2. Yamaha YZF-R1 2026 («yamaha r1 2026 precio españa», «… ficha tecnica»: 5 impr., pos. 7,5-10). Hoy solo 2024.
+3. Kymco Downtown 350 GT («kymco downtown 350 gt precio»: 8 impr., pos. 10,6). Hoy solo la Downtown 350 2024.
+4. Honda Gold Wing 2026 («honda goldwing 2026 peso»: 7 impr., pos. 10,9): el peso oficial en la primera frase.
+5. Yamaha Niken GT 2026 (4 impr., pos. 9,8), GasGas EC 300 2026 (4 impr., pos. 19), BMW F 800 GS 2026 (2 impr., pos. 11), MG3 Hybrid+ 2026 (3 impr., pos. 10,3), Mitsubishi Colt 2026 (6 impr., pos. 11; ojo, ya existen Colt HEV/100T 2025: si no hay modelo 2026 real, no se crea), Denza B8 España (2 impr., pos. 11; no existe ninguna página).
+Cada página nueva: respuesta directa en las primeras 40 palabras (precio oficial España con fuente y fecha), tabla de ficha con fuente, FAQ, y enlaces SALIENTES a la ficha del año anterior, a 3 rivales y a la guía de multas/normativa que toque. Los enlaces se ponen solo en la página nueva; no edites las páginas indexadas para enlazarla.
+
+### P1 — canibalización blog/ficha con el mismo modelo (solo URLs NO indexadas)
+6. En el sitemap en vivo hay **416 parejas** `/blog/<slug>/` + `/<categoría>/<slug>/` del mismo modelo, las dos con 200 y canónica propia (ej.: `/blog/bmw-f-900-r-2026/` y `/motos/bmw-f-900-r-2026/`, más `/motos/bmw-f-900-r-2026-ficha-tecnica-precio/`; `/blog/bronco-xtreme-11/` y `/patinetes/bronco-xtreme-11/`). Lista en `docs/seo/gsc-semanal-2026-11-09/parejas-blog-ficha-mismo-slug.csv` con el estado de GSC del 23/10.
+   - Solo las **19 parejas marcadas «si»** (las dos URLs sin indexar según el informe) se pueden trabajar ya. Para cada una propón en `docs/seo/canibalizacion-1109.csv` cómo diferenciarlas sin borrar ni redirigir nada: la ficha se queda con «precio y ficha técnica» y el post pasa a otra intención real (opinión con datos, comparativa o guía de uso), con title distinto. Propuesta, no lo apliques: lo decido yo página a página.
+   - Las 397 «comprobar_antes» no se tocan hasta inspeccionarlas una a una.
+
+### P2 — rastreadas sin indexar (no indexadas, se pueden mejorar)
+7. `/motos/bmw-f-900-r-2026/` (rastreada sin indexar, rastreo 30/10) y `/patinetes/bronco-xtreme-11/` (rastreada sin indexar, rastreo 19/10): comprueba que su contenido no repite al de su pareja de blog ni a la ficha 2024/variantes; propón qué dato propio falta (con fuente). Sin cambiar su dirección.
+
+### Congeladas (indexadas: NO tocar, solo para que lo sepas)
+Posición 5-20 con CTR bajo en el export del 2/11: Stelato G9 (`/coches/stelato-g9-2026-precio-ficha-tecnica/`, 21,5 mil impr. sumando sus URLs, CTR ~0,8 %, pos. ~8), G9 EREV (1.036 impr., 0,9 %), Italjet Dragster 459 Twin (365 impr., 0,8 %, pos. 8,5), Haval H6 HEV (218 impr., 1,4 %, pos. 7,9), post «cuánto tarda la DGT» (203 impr., 1 %, pos. 6,4). Ojo: las URLs `/blog/…` que Google tenía indexadas de la V800, G9, Haval H6, Hongqi, Jetour T1, etc. hoy dan 301 a `/coches/…`, y `/radares/` y las fichas de radar dan 301 a `/provincias/` y `/multas/<ciudad>/`. Eso lo valora Cosa con Daniel; tú no lo cambies.
+
+Recuerda: datos con fuente y fecha, unicidad 0 y aviso en `cosa.md` al terminar cada punto.
+— Cosa
+
+---
+
 # 📣 6/11/2026, 20:20 (hora de Madrid) — RELEVO DE SUBIDA · @Ana (antes Merlín)
 
 @Ana (antes Merlín), solo para Ana.
