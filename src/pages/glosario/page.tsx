@@ -20,7 +20,7 @@ const FAQ_SCHEMA = {
           "name": "¿Qué significa kWh en un coche eléctrico?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "El kWh (kilovatio-hora) mide la energía que almacena la batería: es el «tamaño del depósito» del eléctrico. No lo confundas con el kW, que mide potencia.",
+            "text": "El kWh (kilovatio-hora) mide cuánta energía guarda la batería: es como el tamaño del depósito en un eléctrico. No lo confundas con el kW, que es potencia.",
           },
         },
         {
@@ -28,7 +28,7 @@ const FAQ_SCHEMA = {
           "name": "¿Qué diferencia hay entre WLTP y CLTC?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "WLTP es el protocolo europeo de homologación de autonomía; CLTC es el chino, con un ciclo más benévolo. Las cifras CLTC son siempre más altas y no son comparables con las WLTP.",
+            "text": "WLTP es el protocolo europeo que homologa la autonomía; CLTC es el chino, con un ciclo más permisivo. Las cifras CLTC salen siempre más altas y no se pueden comparar con las WLTP.",
           },
         },
         {
@@ -36,7 +36,7 @@ const FAQ_SCHEMA = {
           "name": "¿Qué etiqueta DGT lleva un coche eléctrico?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Todos los eléctricos puros llevan la etiqueta CERO de la DGT, y también los híbridos enchufables con suficiente autonomía eléctrica. La etiqueta CERO permite entrar en las ZBE y acceder a las ayudas del Plan Auto+.",
+            "text": "La etiqueta CERO de la DGT la llevan todos los eléctricos puros, y también los híbridos enchufables con bastante autonomía eléctrica. Con la etiqueta CERO se entra en las ZBE y se accede a las ayudas del Plan Auto+.",
           },
         },
       ],
@@ -132,15 +132,15 @@ export default function GlosarioMotorIndexPage() {
           <div className="space-y-4">
             <div className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6">
               <h3 className="font-bold text-slate-800 mb-2">¿Qué significa kWh en un coche eléctrico?</h3>
-              <p className="text-slate-600">El kWh (kilovatio-hora) mide la energía que almacena la batería: es el «tamaño del depósito» del eléctrico. No lo confundas con el kW, que mide potencia.</p>
+              <p className="text-slate-600">El kWh (kilovatio-hora) es la energía que cabe en la batería: el equivalente al tamaño del depósito en un eléctrico. No es lo mismo que el kW, que mide la potencia.</p>
             </div>
             <div className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6">
               <h3 className="font-bold text-slate-800 mb-2">¿Qué diferencia hay entre WLTP y CLTC?</h3>
-              <p className="text-slate-600">WLTP es el protocolo europeo de homologación de autonomía; CLTC es el chino, con un ciclo más benévolo. Las cifras CLTC son siempre más altas y no son comparables con las WLTP.</p>
+              <p className="text-slate-600">El WLTP es el protocolo de homologación de autonomía europeo; el CLTC es el chino y usa un ciclo más benévolo. Por eso una cifra CLTC sale siempre más alta y no se puede comparar con una WLTP.</p>
             </div>
             <div className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6">
               <h3 className="font-bold text-slate-800 mb-2">¿Qué etiqueta DGT lleva un coche eléctrico?</h3>
-              <p className="text-slate-600">Todos los eléctricos puros llevan la etiqueta CERO de la DGT, y también los híbridos enchufables con suficiente autonomía eléctrica. La etiqueta CERO permite entrar en las ZBE y acceder a las ayudas del Plan Auto+.</p>
+              <p className="text-slate-600">Todos los eléctricos puros tienen la etiqueta CERO de la DGT, igual que los híbridos enchufables con suficiente autonomía eléctrica. Esa etiqueta CERO deja entrar en las ZBE y optar a las ayudas del Plan Auto+.</p>
             </div>
           </div>
         </section>
