@@ -50578,8 +50578,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke 2025 con faro de escalpelo",
     "keywords": [
       "ktm 990 duke 2025 precio",
       "990 duke 2025 ficha técnica",
@@ -50725,8 +50725,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-r-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke R 2026 en curvas",
     "keywords": [
       "ktm 990 duke r 2026 precio",
       "990 duke r ficha técnica",
@@ -50746,8 +50746,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-390-duke-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 390 Duke 2026 naranja en carretera",
     "keywords": [
       "ktm 390 duke 2026 precio",
       "390 duke 2026 ficha técnica",
@@ -79685,6 +79685,152 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ateca 116 cv"
     ],
     "readTime": 5
+  },
+  {
+    "slug": "mitsubishi-colt-2026-precio-ficha-tecnica",
+    "title": "Mitsubishi Colt 2026: 90 CV desde 18.938 €, ficha técnica",
+    "excerpt": "El Mitsubishi Colt 2026 es la generación de 2023: 1.0 turbo de 90 CV desde 18.938 € y el HEV desde 27.138 €. Precios, consumo y qué versión elegir.",
+    "category": "Novedades Motor",
+    "date": "2026-11-09",
+    "locale": "all",
+    "heroSrc": "/media/mitsubishi-colt-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Mitsubishi Colt 100T 2026, utilitario urbano en color azul, vista tres cuartos delantera",
+    "keywords": [
+      "mitsubishi colt 2026",
+      "mitsubishi colt 2026 precio",
+      "colt 100t 90 cv",
+      "mitsubishi colt ficha tecnica",
+      "colt 2026 vs clio",
+      "mitsubishi colt hev precio",
+      "colt 2026 consumo"
+    ],
+    "readTime": 9
+  },
+  {
+    "slug": "yamaha-mt-10-2026-ficha-tecnica-precio",
+    "title": "Yamaha MT-10 2026: precio en España y ficha técnica",
+    "excerpt": "La Yamaha MT-10 2026 sigue en catálogo sin cambios: 165,9 CV, 212 kg y 17.999 € en España. Precio, ficha técnica, etiqueta DGT y rivales.",
+    "category": "Novedades Motor",
+    "date": "2026-11-09",
+    "locale": "all",
+    "heroSrc": "/media/motos/yamaha-mt-10-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Yamaha MT-10 2026 en carretera de montaña",
+    "keywords": [
+      "yamaha mt10 2026",
+      "yamaha mt 10 2026",
+      "yamaha mt-10 2026 precio",
+      "mt-10 2026 ficha técnica",
+      "yamaha mt-10 precio españa",
+      "mt-10 2026 opiniones",
+      "yamaha mt10 2026 españa",
+      "hyper naked yamaha 2026"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "yamaha-yzf-r1-2026-ficha-tecnica-precio",
+    "title": "Yamaha R1 Race 2026: precio en España y ficha técnica",
+    "excerpt": "La Yamaha R1 Race 2026 es la única R1 en Europa: solo circuito, 200 CV y 20.699 €. Precio, ficha técnica y por qué no hay versión de calle.",
+    "category": "Novedades Motor",
+    "date": "2026-11-09",
+    "locale": "all",
+    "heroSrc": "/media/motos/yamaha-yzf-r1-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Yamaha YZF-R1 Race 2026 en circuito",
+    "keywords": [
+      "yamaha r1 2026 precio españa",
+      "yamaha r1 race 2026",
+      "r1 race precio",
+      "yamaha r1 2026",
+      "r1 gytr 2026 precio",
+      "yamaha r1 circuito 2026",
+      "r1 race vs r1",
+      "yamaha yzf-r1 2026"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "honda-gold-wing-2026-ficha-tecnica-precio",
+    "title": "Honda Gold Wing 2026: precio, peso de 373 kg y ficha",
+    "excerpt": "La Honda Gold Wing 2026 pesa 373 kg en orden de marcha y cuesta 31.500 € en España. Precio, ficha técnica y la edición 50.º Aniversario.",
+    "category": "Novedades Motor",
+    "date": "2026-11-09",
+    "locale": "all",
+    "heroSrc": "/media/motos/honda-gold-wing-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Honda Gold Wing 2026 en carretera abierta",
+    "keywords": [
+      "honda goldwing 2026 peso",
+      "honda gold wing 2026 precio",
+      "gold wing 2026 ficha técnica",
+      "honda gold wing 50 aniversario",
+      "gold wing tour 2026 precio",
+      "honda gl1800 2026",
+      "gold wing 373 kg",
+      "touring honda 2026"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "yamaha-niken-gt-2026-ficha-tecnica-precio",
+    "title": "Yamaha Niken GT 2026: precio en España y ficha técnica",
+    "excerpt": "La Yamaha Niken GT 2026 sigue siendo la versión 2023: tres ruedas, 115 CV y 19.599 €. Precio, ficha técnica y etiqueta DGT en España.",
+    "category": "Novedades Motor",
+    "date": "2026-11-09",
+    "locale": "all",
+    "heroSrc": "/media/motos/yamaha-niken-gt-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "Yamaha Niken GT 2026 con tren delantero de dos ruedas",
+    "keywords": [
+      "yamaha niken gt 2026",
+      "yamaha niken gt precio",
+      "niken gt 2026 ficha técnica",
+      "yamaha niken 2026",
+      "moto tres ruedas yamaha precio",
+      "niken gt 890",
+      "yamaha niken gt opiniones",
+      "niken gt maletas"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "gasgas-ec-300-2026-ficha-tecnica-precio",
+    "title": "GasGas EC 300 2026: precio oficial y ficha técnica",
+    "excerpt": "La GasGas EC 300 2026 cuesta 10.195 € oficiales en España: 2T de 293 cc con inyección TBI. Precio, ficha técnica y equipamiento WP.",
+    "category": "Novedades Motor",
+    "date": "2026-11-09",
+    "locale": "all",
+    "heroSrc": "/media/motos/gasgas-ec-300-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "GasGas EC 300 2026 en sendero de enduro",
+    "keywords": [
+      "gas gas ec 300 2026",
+      "gasgas ec 300 2026 precio",
+      "gasgas ec 300 ficha técnica",
+      "ec 300 2026 precio españa",
+      "gasgas ec 300 2t 2026",
+      "enduro 300 2t 2026",
+      "gasgas ec 300 opiniones",
+      "ec 300 tbi"
+    ],
+    "readTime": 8
+  },
+  {
+    "slug": "bmw-f-800-gs-2026-ficha-tecnica-precio",
+    "title": "BMW F 800 GS 2026: precio en España y ficha técnica",
+    "excerpt": "La BMW F 800 GS 2026 sigue sin cambios: 87 CV, 227 kg y 11.180 € de PVP base en España. Precio, ficha técnica y versión limitable al A2.",
+    "category": "Novedades Motor",
+    "date": "2026-11-09",
+    "locale": "all",
+    "heroSrc": "/media/motos/bmw-f-800-gs-2026-ficha-tecnica-precio-1.webp",
+    "heroAlt": "BMW F 800 GS 2026 en carretera de montaña",
+    "keywords": [
+      "bmw f 800 gs 2026 precio",
+      "bmw f800gs 2026",
+      "f 800 gs 2026 ficha técnica",
+      "bmw f 800 gs precio españa",
+      "f 800 gs vs f 900 gs",
+      "bmw f 800 gs a2",
+      "trail bmw 2026",
+      "f 800 gs 87 cv"
+    ],
+    "readTime": 8
   },
   {
     "slug": "skoda-elroq-85-2026-precio-ficha-tecnica",

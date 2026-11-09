@@ -1786,6 +1786,13 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "toyota-bz4x-224-2025-precio-ficha-tecnica": { lanzamiento: 2022, hitos: [{ anio: 2022, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2025, tipo: "restyling", cambio: "restyling/facelift de mitad de ciclo", foto: null }] },
   "hyundai-ioniq-9-long-range-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: null }] },
   "hyundai-kona-electrico-135-2025-precio-ficha-tecnica": { lanzamiento: 2023, hitos: [{ anio: 2023, tipo: "lanzamiento", cambio: null, foto: null }] },
+  "yamaha-mt-10-2026-ficha-tecnica-precio": { lanzamiento: 2016, hitos: [{ anio: 2016, tipo: "lanzamiento", cambio: "la hyper naked con el motor de la R1", foto: null }, { anio: 2022, tipo: "restyling", cambio: "nueva generación con nuevo frontal y pantalla TFT", foto: null }] },
+  "yamaha-yzf-r1-2026-ficha-tecnica-precio": { lanzamiento: 1998, hitos: [{ anio: 1998, tipo: "lanzamiento", cambio: "la superbike que redefinió el segmento", foto: null }, { anio: 2026, tipo: "fin", cambio: "fin de la R1 de calle en Europa; solo queda la R1 Race para circuito", foto: null }] },
+  "honda-gold-wing-2026-ficha-tecnica-precio": { lanzamiento: 1974, hitos: [{ anio: 1974, tipo: "lanzamiento", cambio: "nace la Gold Wing con el GL1000", foto: null }, { anio: 2025, tipo: "restyling", cambio: "edición 50.º Aniversario", foto: null }] },
+  "yamaha-niken-gt-2026-ficha-tecnica-precio": { lanzamiento: 2018, hitos: [{ anio: 2018, tipo: "lanzamiento", cambio: "la triciclo inclinable con dos ruedas delanteras", foto: null }, { anio: 2019, tipo: "restyling", cambio: "llega la versión GT para viajar", foto: null }] },
+  "gasgas-ec-300-2026-ficha-tecnica-precio": { lanzamiento: 1994, hitos: [{ anio: 2026, tipo: "restyling", cambio: "versión 2026 de la EC 300 2T", foto: null }] },
+  "bmw-f-800-gs-2026-ficha-tecnica-precio": { lanzamiento: 2008, hitos: [{ anio: 2008, tipo: "lanzamiento", cambio: "la trail media con bicilíndrico en paralelo", foto: null }, { anio: 2024, tipo: "restyling", cambio: "nueva generación con motor de 895 cc y 87 CV", foto: null }] },
+  "mitsubishi-colt-2026-precio-ficha-tecnica": { lanzamiento: 2023, hitos: [{ anio: 2023, tipo: "lanzamiento", cambio: null, foto: null }] },
 };
 export function historiaDeModelo(fichaId: string): HistoriaModelo | undefined {
   return HISTORIA_MODELOS[fichaId];

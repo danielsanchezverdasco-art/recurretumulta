@@ -2547,3 +2547,4 @@ renault-clio-rally5-2027-precio-ficha-tecnica
 byd-seal-07-gen2-precio-ficha-tecnica
 wuling-atlas-ev-precio-ficha-tecnica
 xpeng-mona-l05-2026-precio-ficha-tecnica
+mitsubishi-colt-2026-precio-ficha-tecnica
