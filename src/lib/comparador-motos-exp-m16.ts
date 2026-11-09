@@ -961,13 +961,13 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     id: "yamaha-xsr900-gp-2025-ficha-tecnica-precio",
     textosPropios: {
       "notaCosa": "Mucho motor por lo que cuesta; a cambio, postura y carenado le restan uso diario.",
-      "precio": "La Yamaha XSR900 GP (2025) parte de 14.299 € de tarifa en España, con el CP3 de 119 CV de serie y el carenado GP incluido; colores y accesorios, en la comparativa:",
+      "precio": "La Yamaha XSR900 GP (2025) arranca en 14.299 € de tarifa en España, con el CP3 de 119 CV de serie y el carenado GP incluido; colores y accesorios, en la comparativa:",
       "fotos": "Imágenes del kit de prensa de Yamaha Motor Europe.",
       "garantiaNota": "dos años de fábrica en la XSR900 GP; Yamaha vende ampliaciones aparte",
       "mantenimientoIntro": "Lo que puedes hacer tú en la XSR900 GP entre revisiones del concesionario.",
       "rivalesIntro": "Deportivas y sport-turismo de media cilindrada entre 12.000 y 16.000 €.",
       "fraseRivales": "Con 14.299 € de tarifa en España se coloca por encima de la Aprilia RS 660 y por debajo de la Ducati SuperSport 950, en la zona media-alta de las deportivas de su cilindrada.",
-      "faqPrecio": "14.299 € de tarifa en España para la versión full (13.999 € la versión A2 de 35 kW), consultada el 5/11/2026. Yamaha no publica PVP oficial y remite al concesionario.",
+      "faqPrecio": "La versión full cuesta 14.299 € de tarifa en España; la A2 de 35 kW, 13.999 €. Tarifa revisada el 5/11/2026; Yamaha no publica PVP oficial y te remite al concesionario.",
       "faqCarnet": "El A: sus 119 CV superan con creces los 35 kW (47,6 CV) que permite el A2.",
       "faqZbe": "No. Su tricilíndrico de gasolina le da la «C»; en las ZBE que limitan motos C, la GP queda sujeta a esas mismas reglas."
     },

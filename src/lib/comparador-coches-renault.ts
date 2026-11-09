@@ -336,8 +336,8 @@ export const COCHES_RENAULT: CocheComparador[] = [
   {
     id: "renault-austral-2025-e-tech-200-precio-ficha-tecnica",
     textosPropios: {
-      "otrasVersiones": "El Austral restylizado de 2025 con el full hybrid E-Tech de 200 CV: aquí van sus otras versiones, la mild hybrid 150 del mismo restyling, la mild hybrid 160 de 2024 anterior al cambio de diseño y la E-Tech 200 de 2026 con los añadidos tecnológicos.",
-      "precio": "El Austral E-Tech 200 de 2025 parte de 38.054 € en acabado Evolution, según la tarifa Renault España de octubre de 2026. Diferencias entre acabados, en el análisis:",
+      "otrasVersiones": "El Austral del restyling de 2025 con el híbrido completo E-Tech de 200 CV: aquí van sus otras versiones, la mild hybrid 150 del mismo restyling, la mild hybrid 160 de 2024 previa al cambio de diseño y la E-Tech 200 de 2026 con los añadidos tecnológicos.",
+      "precio": "El Austral E-Tech 200 de 2025 parte de 38.054 € en acabado Evolution, según la tarifa de Renault España de octubre de 2026. Las diferencias de equipamiento entre acabados, en el análisis:",
     },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
@@ -350,7 +350,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     modelo: "Austral E-Tech 200",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: 38054, // tarifa Renault España oct-2026: Evolution E-Tech 200 (verificado 05/11/2026)
+    precioDesde: 38054, // PVP Renault España oct-2026: Evolution E-Tech 200, como la 2025 (verificado 05/11/2026)
     potenciaCv: 199,
     autonomiaKm: null,
     maleteroL: 555,
@@ -421,8 +421,8 @@ export const COCHES_RENAULT: CocheComparador[] = [
   {
     id: "renault-austral-2025-mild-hybrid-150-precio-ficha-tecnica",
     textosPropios: {
-      "otrasVersiones": "El Austral restylizado de 2025 con el mild hybrid de 150 CV: aquí van sus otras versiones, la E-Tech 200 del mismo año, la mild hybrid 160 de 2024 anterior al restyling y la E-Tech 200 de 2026.",
-      "precio": "El Austral mild hybrid 150 de 2025 parte de 34.235 € en acabado Evolution, según la tarifa Renault España de octubre de 2026. Diferencias entre acabados, en el análisis:",
+      "otrasVersiones": "El Austral con el restyling de 2025 y el mild hybrid de 150 CV: aquí van sus otras versiones, la E-Tech 200 del mismo año, la mild hybrid 160 de 2024 previa al restyling y la E-Tech 200 de 2026.",
+      "precio": "El Austral mild hybrid 150 de 2025 parte de 34.235 € en acabado Evolution, según la tarifa de octubre de 2026 de Renault España. Qué cambia de un acabado a otro, en el análisis:",
     },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,

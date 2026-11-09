@@ -1006,7 +1006,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
       revisiones: [
         {
           nombre: "Revisión 12.000 km / 12 meses",
-          queSeCambia: "Aceite sintético recomendado por Honda + filtro de aceite + inspección general",
+          queSeCambia: "Aceite sintético que recomienda Honda + filtro de aceite + revisión general",
           costeAproxEur: 140,
         },
         {

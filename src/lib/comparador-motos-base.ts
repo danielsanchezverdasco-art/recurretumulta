@@ -3499,7 +3499,7 @@ export const MOTOS_BASE: MotoComparador[] = [
   {
     id: "honda-forza-350-2024-ficha-tecnica-precio",
     textosPropios: {
-      precio: "Honda no publicó PVP oficial para el Forza 350 de 2024; la tarifa en España para los modelos 2025-2026 es de 6.550 € (consulta 5/11/2026), sin campañas ni gastos de matriculación.",
+      precio: "Para el Forza 350 de 2024 Honda no publicó PVP oficial; los modelos 2025-2026 tienen una tarifa en España de 6.550 € (revisada el 5/11/2026), sin campañas ni gastos de matriculación.",
     },
     marca: "Honda",
     modelo: "Forza 350",
@@ -6595,7 +6595,7 @@ export const MOTOS_BASE: MotoComparador[] = [
       "garantiaNota": "Honda cubre la ADV350 tres años en Europa, hagas los km que hagas",
       "rivalesIntro": "Scooters de 300-400 cc alrededor de 6.500 €.",
       "fraseRivales": "Con 6.680 € de tarifa se mueve en la franja alta de los scooters de 300-400 cc, algo por encima de la media de sus rivales.",
-      "faqPrecio": "La última tarifa en España es de 6.680 € (tarifa 2022-2024, consultada el 5/11/2026); Honda no publicó PVP oficial de lanzamiento.",
+      "faqPrecio": "La tarifa más reciente en España es de 6.680 € (tarifa 2022-2024, revisada el 5/11/2026); Honda no publicó PVP oficial de lanzamiento.",
       "faqCarnet": "Con 29 CV entra en el A2; con el B solo no puedes llevarla, porque supera los 125 cc.",
       "faqZbe": "No. Como scooter de gasolina lleva la «C»; en ciudades cuya ZBE limita las motos C, la ADV350 tiene esas mismas restricciones."
     },

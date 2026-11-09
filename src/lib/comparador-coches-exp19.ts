@@ -17,7 +17,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     id: "renault-austral-2026-e-tech-200-precio-ficha-tecnica",
     textosPropios: {
       "otrasVersiones": "El Austral E-Tech 200 de 2026: misma carrocería y motores que el restyling de 2025, con Qi2, Airnity, Gemini por OTA y modo Smart. Aquí van sus otras versiones, incluida la E-Tech 200 de 2025, esencialmente el mismo coche.",
-      "precio": "El Austral E-Tech 200 de 2026 parte de 38.054 € en acabado Evolution, la misma tarifa que el de 2025, según Renault España (octubre de 2026). Diferencias entre acabados, en el análisis:",
+      "precio": "El Austral E-Tech 200 de 2026 parte de 38.054 € en acabado Evolution, la misma tarifa que el de 2025, según Renault España (octubre de 2026). Las diferencias entre acabados, en el análisis:",
     },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
@@ -34,7 +34,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     modelo: "Austral E-Tech 200",
     tipo: "Híbrido",
     categoria: "SUV",
-    precioDesde: 38054, // tarifa Renault España oct-2026: Evolution E-Tech 200, misma que la 2025 (verificado 05/11/2026)
+    precioDesde: 38054, // tarifa de Renault España de oct-2026: Evolution E-Tech 200, igual que la 2025 (verificado 05/11/2026)
     potenciaCv: 200,
     autonomiaKm: null,
     maleteroL: 555,
