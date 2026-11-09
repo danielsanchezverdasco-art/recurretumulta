@@ -2335,6 +2335,25 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 3
   },
   {
+    "slug": "audi-nuvolari-2026-precio-ficha-tecnica",
+    "title": "Audi Nuvolari 2026: 1.001 CV, 499 unidades y unos 600.000 €",
+    "excerpt": "El Audi Nuvolari 2026 es el sucesor del R8: V8 híbrido de 1.001 CV, 0-100 en 2,6 s, más de 350 km/h y solo 499 unidades desde unos 600.000 €.",
+    "category": "Novedades Motor",
+    "date": "2026-11-09",
+    "locale": "all",
+    "heroSrc": "/media/audi-nuvolari-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Audi Nuvolari 2026 gris mate, vista delantera tres cuartos en circuito",
+    "keywords": [
+      "audi nuvolari 2026",
+      "audi nuvolari precio",
+      "audi nuvolari ficha técnica",
+      "audi nuvolari 1001 cv",
+      "sucesor audi r8",
+      "audi nuvolari vs temerario"
+    ],
+    "readTime": 13
+  },
+  {
     "slug": "adria-coral-plus-670-sl-precio-ficha-tecnica",
     "title": "Adria Coral Plus 670 SL: Skyroof y camas gemelas",
     "excerpt": "Precio no publicado oficialmente: la Adria Coral Plus 670 SL 2026 es una perfilada de 7,49 m con camas gemelas traseras, doble techo panorámico Skyroof, Fiat Ducato de 140 CV, 4 plazas y carnet B.",
@@ -50578,8 +50597,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke 2025 con faro de escalpelo",
     "keywords": [
       "ktm 990 duke 2025 precio",
       "990 duke 2025 ficha técnica",
@@ -50725,8 +50744,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-r-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke R 2026 en curvas",
     "keywords": [
       "ktm 990 duke r 2026 precio",
       "990 duke r ficha técnica",
@@ -50746,8 +50765,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-390-duke-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 390 Duke 2026 naranja en carretera",
     "keywords": [
       "ktm 390 duke 2026 precio",
       "390 duke 2026 ficha técnica",
