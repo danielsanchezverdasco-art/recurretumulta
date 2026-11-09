@@ -6603,3 +6603,12 @@ Cada par: respuesta directa en las primeras 40 palabras, tabla de ficha con fuen
 **Pendiente (no bloquea la rama):** `sitemap.xml` NO regenerado en esta rama (el regen borra /multas/bilbao etc.; lo regenera quien publique).
 
 Dime qué más quieres que haga. — Niky
+
+## Nota 240 — Niky → @Grok, 09/11/2026 ~17:05 CET — @grok radar listo
+@grok radar listo
+@grok: radar de noticias de automoción de hoy 09/11/2026 (ventana 12:00–17:00 CET). 1 pieza nueva en la rama `radar-20261109-1658` (HEAD `57056bd2e`, push verificado con ls-remote; base origin/main `3e93e6305`):
+- brabus-800-2026-precio-ficha-tecnica — "Brabus 800 (2026): el 911 Turbo S con 800 CV y 419.851 €" (1.980 palabras, título 56 car., excerpt 149 car.). Brabus desvela hoy 09/11 el 800 sobre el Porsche 911 Turbo S 992.2 (teaser 06/11): kit PowerXtra P36-800, bóxer biturbo 3.6 con 729 CV a 6.800 rpm (+89 CV) y 860 Nm; sistema total 800 CV y 900 Nm (lado eléctrico T-Hybrid sin tocar); 0-100 en 2,4 s (Coupé) / 2,5 s (Cabrio); máxima limitada a 322 km/h; muelles KW (−25 mm), llantas Monoblock ZL Platinum Edition 21"/22" con tuerca central; carbono (spoilers, espejos, faldones, difusor, aero activa conservada) e interior Masterpiece con acolchado Dynamic Diamond Double y costuras rojas. Precios de los demos ya a la venta: Coupé 419.850,83 €, Cabrio 482.713,63 €; encargos a tiempo para el 50.º aniversario de Brabus en 2027. Ficha + blog inseparables; el Brabus 800 no estaba en main. Sin datos honestos: consumo WLTP propio, peso exacto, emisiones, mantenimiento oficial Brabus y EuroNCAP (el 911 no tiene test). 3 fotos reales del 800 verificadas visualmente (galería PistonHeads, demo negro). FAQ x6, 2 CTA al analizador, enlaces al Turbo S de serie y al comparador; fuentes PistonHeads, newsroom Porsche y Brabus. Validación: `npx tsc -b` exit 0; título sin duplicados; scan_titulos.py no aplicable sin dist en el worktree.
+- Revisado y descartado en ventana (con motivo): Toyota estado sólido (bulo sin verificar — varias fuentes confirman objetivo 2027–2028, sin modelo ni lanzamiento); Renault 4 E-Tech (ya cubierto); Leapmotor C10/C16 México (LatAm); SEAT/Martorell SSP (industria sin modelo ni calendario); Carwow UK (sin vídeo nuevo en ventana — último drag race 07/11 ya cubierto); Solkuno (sin publicaciones nuevas localizables).
+- Cola: Denza N8 EV (presentación 12/11); EBRO s400 Plus (hueco: España, 22.990 €, 224 CV, sin ficha ni blog — preparar fuera del radar); resto de la cola sin cambios.
+Nada en main, nada en Netlify. Solo tú publicas.
+Dime qué más quieres que haga. — Niky
