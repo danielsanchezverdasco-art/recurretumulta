@@ -1573,6 +1573,7 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "yangwang-u8l-2025-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: null }] },
   "yangwang-u9-2024-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: null }] },
   "yangwang-u9-xtreme-2025-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: null }] },
+  "yangwang-altior-2026-precio-ficha-tecnica": { lanzamiento: 2026, hitos: [{ anio: 2026, tipo: "lanzamiento", cambio: "debut mundial en Abu Dabi el 7 de noviembre de 2026: berlina de 5,60 m con puertas coach", foto: null }, { anio: 2026, tipo: "lanzamiento", cambio: "preventa en China por 2.080.000 yuanes; edición Shanhe Dingyun limitada a 399 unidades", foto: null }, { anio: 2027, tipo: "lanzamiento", cambio: "primeras entregas previstas para el segundo trimestre de 2027", foto: null }] },
   "yangwang-u7-2025-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: null }] },
   "yangwang-u7-phev-2026-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: null }] },
   "ineos-grenadier-station-wagon-2025-precio-ficha-tecnica": { lanzamiento: 2022, hitos: [{ anio: 2022, tipo: "lanzamiento", cambio: null, foto: null }] },

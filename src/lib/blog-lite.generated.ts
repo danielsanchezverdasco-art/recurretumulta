@@ -50578,8 +50578,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke 2025 con faro de escalpelo",
     "keywords": [
       "ktm 990 duke 2025 precio",
       "990 duke 2025 ficha técnica",
@@ -50725,8 +50725,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-r-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke R 2026 en curvas",
     "keywords": [
       "ktm 990 duke r 2026 precio",
       "990 duke r ficha técnica",
@@ -50746,8 +50746,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-390-duke-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 390 Duke 2026 naranja en carretera",
     "keywords": [
       "ktm 390 duke 2026 precio",
       "390 duke 2026 ficha técnica",
@@ -78004,6 +78004,25 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Li Auto i6 ficha técnica"
     ],
     "readTime": 12
+  },
+  {
+    "slug": "yangwang-altior-2026-precio-ficha-tecnica",
+    "title": "Yangwang Altior 2026: lujo chino de 260.000 € y 1.000 km",
+    "excerpt": "El Yangwang Altior debutó en Abu Dabi el 7 de noviembre de 2026: berlina de 5,60 m, puertas coach y preventa en China por 2.080.000 yuanes.",
+    "category": "Novedades Motor",
+    "date": "2026-11-09",
+    "locale": "all",
+    "heroSrc": "/media/yangwang-altior-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Yangwang Altior dorado y negro, tres cuartos delantero junto a un palacio",
+    "keywords": [
+      "Yangwang Altior",
+      "Yangwang Altior precio",
+      "Altior 2.080.000 yuanes",
+      "Yangwang Altior ficha técnica",
+      "berlina lujo BYD",
+      "Altior autonomía 1000 km"
+    ],
+    "readTime": 19
   },
   {
     "slug": "byd-seagull-2026-segunda-generacion-precio",

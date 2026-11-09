@@ -79,6 +79,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "yamaha-yzf-r7-2024-ficha-tecnica-precio": () => import("../blog-posts-prio-3.ts"),
     "yamaha-yzf-r7-2025-ficha-tecnica-precio": () => import("../blog-posts-motos-exp-m7.ts"),
     "yamaha-yzf-r9-2025-ficha-tecnica-precio": () => import("../blog-posts-prio-1b.ts"),
+    "yangwang-altior-2026-precio-ficha-tecnica": () => import("../blog-posts-radar-20261109-1158.ts"),
     "yangwang-byd-berlina-260000-euros-rolls-royce": () => import("../blog-posts-yangwang-hu.ts"),
     "yangwang-byd-u8-u9-europa-2027": () => import("../blog-posts-modelos-desconocidos.ts"),
     "yangwang-u7-2025-precio-ficha-tecnica": () => import("../blog-posts-yangwang-a.ts"),
@@ -89,6 +90,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "yangwang-u9-xtreme-2025-precio-ficha-tecnica": () => import("../blog-posts-yangwang-a.ts"),
   },
   coche: {
+    "yangwang-altior-2026-precio-ficha-tecnica": () => import("../comparador-coches-yangwang.ts"),
     "yangwang-byd-berlina-260000-euros-rolls-royce": () => import("../comparador-coches-chinos-2026.ts"),
     "yangwang-byd-u8-u9-europa-2027": () => import("../comparador-coches-nuevos.ts"),
     "yangwang-u7-2025-precio-ficha-tecnica": () => import("../comparador-coches-yangwang.ts"),
@@ -223,6 +225,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "yamaha-xsr900-gp-2025-ficha-tecnica-precio": () => import("../historia-m15.ts"),
     "yamaha-yz250f-2025-ficha-tecnica-precio": () => import("../historia-m13.ts"),
     "yamaha-yz450f-2025-ficha-tecnica-precio": () => import("../historia-m15.ts"),
+    "yangwang-altior-2026-precio-ficha-tecnica": () => import("../historia-modelos.ts"),
     "yangwang-byd-berlina-260000-euros-rolls-royce": () => import("../historia-modelos.ts"),
     "yangwang-byd-u8-u9-europa-2027": () => import("../historia-modelos.ts"),
     "yangwang-u7-2025-precio-ficha-tecnica": () => import("../historia-modelos.ts"),
