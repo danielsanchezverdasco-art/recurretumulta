@@ -86,7 +86,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
       "faqPreguntaAnalisis": "¿Hay un análisis más extenso del H6 HEV?",
       "notaCosa": "Puntúa alto por dar 243 CV y gastar 5,9 l/100 km (precio de referencia colombiano: unos 33.800 € al cambio; sin PVP en España).",
       "zbe": "Sí. Al ser híbrido sin enchufe, el H6 HEV lleva el distintivo ECO y circula por la ZBE de Madrid a diario. La excepción son los escenarios de alta contaminación del protocolo municipal, cuando el Ayuntamiento puede cerrar zonas a los ECO.",
-      "precio": "No se vende en España y no tiene PVP español: GWM trae aquí el Ora 5, el Haval H7, el Jolion Max y el Tank 300, pero el H6 no está en su gama. Como referencia, en Colombia arranca en 139.900.000 COP (unos 33.800 € al cambio). No confundir con el Haval H7. Qué cambia entre acabados, en el análisis:",
+      "precio": "En España no se vende y no tiene PVP español: GWM trae aquí el Ora 5, el Tank 300, el Jolion Max y el Haval H7, pero el H6 no está en su gama. Como referencia, en Colombia arranca en 139.900.000 COP (unos 33.800 € al cambio). No confundir con el Haval H7. Qué cambia entre acabados, en el análisis:",
       "fotos": "Imágenes del dossier de prensa de Haval (Great Wall Motor).",
       "costeNota": "Cálculo de octubre de 2026 para un H6 HEV con 15.000 km anuales, los 5,9 l/100 km homologados, gasolina 95 a 1,60 €/l, póliza ampliada y revisiones en la red Haval. Conduciendo mucho por autovía el gasto en combustible sube; en ciudad el híbrido rinde mejor.",
       "rivalesIntro": "SUV familiares híbridos alrededor de los 34.000 €.",
