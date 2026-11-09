@@ -213,11 +213,17 @@ export function useSeo({
     // Meta básicos
     setMeta("description", descFinal);
     
+    // 09/11/2026 Cosa: comparadores con ?a=&b=&c= -> noindex,follow; la base /comparador-x/ sigue index.
+    const esComparadorConQuery =
+      /^\/comparador-(coches|motos|patinetes|garantia-bateria)\/?$/.test(location.pathname) &&
+      location.search.length > 1;
     setMeta(
       "robots",
       noindex
         ? "noindex, nofollow"
-        : NOINDEX.includes(location.pathname.replace(/\/?$/, "/")) || location.pathname.replace(/\/?$/, "/") === NOINDEX_FIJO
+        : esComparadorConQuery ||
+            NOINDEX.includes(location.pathname.replace(/\/?$/, "/")) ||
+            location.pathname.replace(/\/?$/, "/") === NOINDEX_FIJO
         ? "noindex, follow"
         : "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
     );
@@ -288,9 +294,9 @@ export function useSeo({
   return null;
 }
 
-// 13/10/2026 (indexación): canonical autorreferente en los comparadores con ?a=<id>
-// (también ?b= y ?c=, en ese orden). Sin parámetros -> la ruta base.
+// 13/10/2026 (indexación): canonical SIN parámetros para comparadores (?a/?b/?c).
+// 09/11/2026 Cosa: la URL con query lleva noindex,follow (arriba); la base sigue indexable.
 export function canonicalComparador(base: string): string {
-  // Canonical autorreferente sin parámetros: /comparador-x/?a=... apunta a /comparador-x/.
+  // /comparador-x/?a=... -> canonical /comparador-x/ (o /comparador-x si viene sin barra; useSeo añade /).
   return base;
 }
