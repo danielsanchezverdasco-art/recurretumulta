@@ -24,6 +24,12 @@ import CosaEnBanner from "@/components/CosaEnBanner.tsx";
 // Base pública donde el sitio sirve los datos de radares (igual que RadarPage).
 const RADARES_INDICE_URL = "/docs/radares/indice.json";
 
+// Comparador compartido: ordena entradas [clave, ...] por clave en español.
+
+function sortByKeyEs<T>(a: [string, T], b: [string, T]): number {
+  return a[0].localeCompare(b[0], "es");
+}
+
 type Radar = {
   id_unico: string;
   comunidad: string;
@@ -165,7 +171,7 @@ export default function RadaresIndexPage() {
       g.set(r.comunidad, [...(g.get(r.comunidad) ?? []), r]);
     }
     return [...g.entries()]
-      .sort((a, b) => a[0].localeCompare(b[0], "es"))
+      .sort(sortByKeyEs)
       .map(
         ([comunidad, items]) =>
           [
@@ -197,7 +203,7 @@ export default function RadaresIndexPage() {
     for (const p of PROVINCIAS) {
       g.set(p.ccaa, [...(g.get(p.ccaa) ?? []), { slug: p.slug, nombre: p.nombre }]);
     }
-    return [...g.entries()].sort((a, b) => a[0].localeCompare(b[0], "es"));
+    return [...g.entries()].sort(sortByKeyEs);
   }, []);
 
   return (
@@ -247,7 +253,7 @@ export default function RadaresIndexPage() {
             . Los radares nuevos se publican en la web de la DGT. Aquí tienes
             el mismo listado agrupado por comunidad autónoma, con carretera,
             punto kilométrico, sentido, tipo de radar y límite de velocidad.
-            Datos oficiales verificados: la ausencia de un radar en esta lista
+            Datos oficiales verificados: que un radar no aparezca en esta lista
             no significa que no exista.
           </p>
           <p className="text-xs text-white/60 pt-1">

@@ -67,6 +67,8 @@ import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 
 // Extrae parejas pregunta/respuesta de la sección "Preguntas frecuentes" del markdown
 // para generar el schema FAQPage (rich snippets en Google).
+// Regex compartido: el CTA final «¿Te han puesto / ha llegado una multa...» que cierra las FAQ.
+const RE_MI_MULTA = /^\*\*¿Te (han puesto|ha llegado) una multa/;
 function extractFaqs(content: string): { question: string; answer: string }[] {
   const faqs: { question: string; answer: string }[] = [];
   const normalized = content.replace(/\\n/g, "\n");
@@ -88,7 +90,7 @@ function extractFaqs(content: string): { question: string; answer: string }[] {
       // final van DESPUES de la ultima respuesta y sin encabezado entre medias,
       // asi que sin este corte acababan dentro de acceptedAnswer (3.955 blogs).
       if (/^\*+\s*Fuentes\s*:/.test(t)) break;
-      if (/^\*\*¿Te (han puesto|ha llegado) una multa/.test(t)) break;
+      if (RE_MI_MULTA.test(t)) break;
       if (/^---+\s*$/.test(t)) break;
       answerLines.push(line);
     }
@@ -103,7 +105,7 @@ function extractFaqs(content: string): { question: string; answer: string }[] {
       const s = p.trim();
       if (/^\*+\s*Fuentes\s*:/.test(s)) return true;
       if (/anal[ií]zala gratis/i.test(s) && /#analizador|recurretumulta\.online/.test(s)) return true;
-      if (/^\*\*¿Te (han puesto|ha llegado) una multa/.test(s)) return true;
+      if (RE_MI_MULTA.test(s)) return true;
       if (/^¿Te (han puesto|ha llegado) una multa/i.test(s)) return true;
       if (/^(\*\*)?También te puede interesar/.test(s)) return true;
       return false;
