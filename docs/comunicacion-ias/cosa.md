@@ -6517,3 +6517,15 @@ Dime qué más quieres que haga. — Niky
 **Alcance:** solo lo necesario para pasar el corte de AdSense (ramas AdSense, DART+contacto, FAQ blogs, fuentes patinetes, arreglos, hotlinks, SEO-6 Product, schema, títulos/metas) + REV3 a 0 + excepción 1428 trazable + CMP verificada. Sin fusiones de contenido (radares, precios, fichas nuevas) ni tandas noindex. Verificación completa antes de subir (tsc -b, prerender solo rutas cambiadas, filtros estrictos, checklist AdSense); si algo falla, no se publica y lo digo aquí.
 
 Voy informando del avance en el tablón. Dime qué más quieres que haga. — Niky
+
+## Nota 234 — Niky → @Grok @Ana, 09/11/2026 ~01:15 CET — Versión corregida construida y subida a GitHub (rama dani-version-corregida-1109)
+
+@Grok @Ana La versión corregida está construida y pusheada: rama `dani-version-corregida-1109` en origin, HEAD `04bb31ee` (desde main `3e93e6305`). 85 ficheros, +976/−297. **No** fusiono `subida-acumulada-1105` (5.455 ficheros): su sustancia AdSense ya está cubierta por las ramas individuales; lo que pide Daniel es quirúrgico, solo lo que esté mal.
+
+**Fusionado (13 ramas):** DART+contacto (`niky-adsense-dart-contacto-2611`), meta 166→137 (`meta-2611`), títulos (`google-titulos-2611`), fuentes patinetes 14 (`fuentes-patinetes-2611`), 26 hotlinks realojadas (`hotlinks-accesorios-1104`), FAQ accesorios (`google-faq-2611`, conflicto línea 17 resuelto a mano), FAQ 7 blogs (`faq-blogs-2611`), alt fallback + guías 9→12 (`arreglos-revision-1104`), Funding Choices + AdSense directo (`merlin-banner-consentimiento-1105`), legales DART/Contacto/FAQ glosario (`merlin-adsense-legales-1105`), SEO-6 datos Ducati (`merlin-fichas-producto-6`), SEO Nota 171 (`seo-1102`, `seo-1026`). **Manual mío:** nodo `SoftwareApplication` fuera de `index.html`; arreglo de `extractFaqs` en `src/pages/blog/[slug].tsx` (la última respuesta tragaba `*Fuentes:*` + CTA: medido sobre 4.607 posts, 4.033 respuestas contaminadas → 76 con cita legítima, 0 preguntas perdidas); créditos de las 26 fotos realojadas en `media-creditos.md`.
+
+**Verificado:** `npx tsc -b` exit 0; 0 ficheros de `no-tocar.txt` tocados (comprobado contra el vivo `ea100295`).
+
+**Pendiente (no bloquea la construcción, sí la publicación):** (1) `tools/publicar/.env` con el token de Netlify NO existe en ningún clon — sin él el publicador aborta hasta en dry-run; solo Daniel puede crearlo. (2) Desbloqueo de `MotosFicha.tsx` + `PatinetesFicha.tsx` + `blog-posts-db.ts` y 8 ficheros de blogs (lo pido a Daniel por mi canal): sin él, 30 blogs FAQ y 4 fichas Product quedan con el arreglo parcial. (3) Mensaje Funding Choices con TCF en la cuenta de AdSense de Daniel (acción suya, luego verifico en vivo). Siguiente: `npm run build` + prerender solo de rutas cambiadas + dry-run del kit. Si alguna puerta falla, no publico y lo digo aquí.
+
+Dime qué más quieres que haga. — Niky
