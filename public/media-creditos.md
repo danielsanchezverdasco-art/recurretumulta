@@ -5094,3 +5094,35 @@ Licencia desconocida; fotos reales del modelo exacto.
 | /media/byd-qin-plus-dm-i-2026-precio-ficha-tecnica-interior.webp | https://cnevpost.com/wp-content/uploads/2026/10/2026102706371216.jpg | BYD (foto de prensa) · CnEVPost | prensa |
 | /media/cosa-jungla-apoyado-300w.webp | https://recurretumulta.online/media/cosa-jungla-apoyado.webp | Cosa (mascota de recurretumulta.online, ilustración propia) | propia |
 | /media/cosa-jungla-manos-300w.webp | https://recurretumulta.online/media/cosa-jungla-manos.webp | Cosa (mascota de recurretumulta.online, ilustración propia) | propia |
+
+## Accesorios de caravana — fotos de producto realojadas (04/11/2026)
+Fotos del post `/blog/accesorios-caravana-autocaravana-virales-gadgets-chinos-2026/`, antes hotlinks externos, realojadas en `/media/` (WebP <300 KB). Son las mismas imágenes que ya publicaba el post; la columna Fuente es la URL de origen.
+
+| Archivo | Fuente | Autor | Licencia |
+|---|---|---|---|
+| /media/accesorios-caravana-02.webp | https://whatsupdownunder.com.au/wp-content/uploads/2026/02/starlink-mini-caravan-outback-australia-hero.webp | WhatsUpDownUnder | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-03.webp | https://cdn-shopkit.com/usercontent/ftshopping/media/images/cace7a8-164032-51gz-ftdjbl_ac_sx679_.jpg | ShopKit | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-04.webp | https://cdn11.bigcommerce.com/s-rbtuebnwu6/products/1890/images/9374/Mark_3_AC-1__38668.1762291165.386.513.jpg?c=1 | BigCommerce | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-05.webp | https://i5.walmartimages.com/seo/WACACO-Nanopresso-Portable-Espresso-Maker-Upgrade-Version-Minipresso-18-Bar-Pressure-Mini-Travel-Coffee-Machine-Manually-Operated-Perfect-Camping-Hik_0e4f5232-bb0c-4874-8e91-2108fd5bcab5.a6ac63563b8cded8a8005975817bdb13.jpeg | Walmart | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-06.webp | https://cdn.4camping.at/files/photos/780/7/78990c59-campingofen-omnia-stovetop-oven.webp | 4camping | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-07.webp | https://m.media-amazon.com/images/I/71caf7Q5R4L._AC_SL1500_.jpg | Amazon | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-08.webp | https://m.media-amazon.com/images/I/51-fGDPuZJL.jpg | Amazon | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-09.webp | https://www.best-batteries.com/img/blog/avis-bluetti-ac180.jpg | Best Batteries | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-10.webp | https://audioshop.com.ua/images2/redodo_45156(1)bigoriginal.png | Audioshop | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-11.webp | https://cdn.which.one/productimages/F/K/6/B0CL9JR6KF.jpg | Which.one | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-12.webp | https://www.picclickimg.com/M10AAOSwi21mdYGy/EPEVER-Tracer-AN-Series-4210AN-40A-MPPT-Solar.webp | PicClick | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-13.webp | https://media.cdn.kaufland.de/product-images/original/837ac10da4947b645e3e4195e036ee00.jpg | Kaufland | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-14.webp | https://images.thdstatic.com/productImages/7d28f2072e0149718d6fb59ca2fc95c1/svn/greens-alpicool-chest-coolers-sz-zgw51-gn-thdus-64_1000.jpg | Home Depot | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-15.webp | https://m.media-amazon.com/images/I/71at0Uxrg6L._SR600%2c315.jpg | Amazon | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-16.webp | https://img.michollo.com/r/600/app/deal/37079-1791891930305.webp | Michollo | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-17.webp | https://m.media-amazon.com/images/I/313gAhvgwlL._SL160_.jpg | Amazon | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-18.webp | https://alpinist.pk/wp-content/uploads/2021/08/naturehike-outdoor-upgrade-yl04-m-ultralight-folding-camping-chair.webp | Alpinist | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-19.webp | https://m.media-amazon.com/images/I/51m7edu29EL.jpg | Amazon | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-20.webp | https://m.media-amazon.com/images/I/51eFpCS4IoL._SL500_.jpg | Amazon | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-21.webp | https://cdn.treehouse.co/xiaomi-mi-vacuum-cleaner-mini-bhr4562gl.jpg | Treehouse | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-22.webp | https://m.media-amazon.com/images/I/71lMeXWtN6L.jpg | Amazon | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-23.webp | https://ae01.alicdn.com/kf/H83391eda689c4b29b1b9582b6ba51b0aG.jpg | AliExpress | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-24.webp | http://www.prolinemax.com/cdn/shop/files/z_226605_0_0.jpg?v=1715927695 | ProlineMax | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-25.webp | https://ae01.alicdn.com/kf/HTB10FX8aotWMKJjy0Faq6ACDpXao/KERUI-D1-Wireless-Small-Independent-Door-Magnetic-Standalone-Door-Window-Sensor-Alarm-Sucerity-Protection-alarm.jpg_640x640.jpg | AliExpress | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-26.webp | https://m.media-amazon.com/images/I/71birIcbJfL._AC_US1000_.jpg | Amazon | Imagen de producto — ver fuente |
+| /media/accesorios-caravana-27.webp | https://m.media-amazon.com/images/I/51poaEcD92S.jpg | Amazon | Imagen de producto — ver fuente |

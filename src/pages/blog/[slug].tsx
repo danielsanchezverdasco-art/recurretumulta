@@ -83,10 +83,35 @@ function extractFaqs(content: string): { question: string; answer: string }[] {
     for (let i = 1; i < lines.length; i++) {
       const line = lines[i];
       if (/^#{1,3}\s+/.test(line)) break; // siguiente encabezado
+      const t = line.trim();
+      // Fin de la FAQ (09/11/2026, AdSense): el bloque de fuentes y el CTA
+      // final van DESPUES de la ultima respuesta y sin encabezado entre medias,
+      // asi que sin este corte acababan dentro de acceptedAnswer (3.955 blogs).
+      if (/^\*+\s*Fuentes\s*:/.test(t)) break;
+      if (/^\*\*¿Te (han puesto|ha llegado) una multa/.test(t)) break;
+      if (/^---+\s*$/.test(t)) break;
       answerLines.push(line);
     }
+    // Recortar parrafos finales promocionales: el CTA al analizador va tejido
+    // como ultimo parrafo ANTES de *Fuentes:*, asi que el corte anterior no lo
+    // alcanza. Solo se recortan parrafos finales; nunca texto en mitad de la
+    // respuesta. Medido 09/11 sobre 4.607 posts: 4.033 respuestas contaminadas
+    // -> 76 restantes (citas de fuente legitimas dentro de la respuesta).
+    let answerText = answerLines.join("\n").trim();
+    const paras = answerText.split(/\n\s*\n/);
+    const isPromoPara = (p: string): boolean => {
+      const s = p.trim();
+      if (/^\*+\s*Fuentes\s*:/.test(s)) return true;
+      if (/anal[ií]zala gratis/i.test(s) && /#analizador|recurretumulta\.online/.test(s)) return true;
+      if (/^\*\*¿Te (han puesto|ha llegado) una multa/.test(s)) return true;
+      if (/^¿Te (han puesto|ha llegado) una multa/i.test(s)) return true;
+      if (/^(\*\*)?También te puede interesar/.test(s)) return true;
+      return false;
+    };
+    while (paras.length > 1 && isPromoPara(paras[paras.length - 1])) paras.pop();
+    answerText = paras.join("\n\n").trim();
     // Limpiar markdown básico para el texto del schema
-    const answer = answerLines.join("\n").trim()
+    const answer = answerText
       .replace(/\*\*([^*]+)\*\*/g, "$1")
       .replace(/\[([^\]]+)\]\(([^)]+)\)/g, "$1")
       .replace(/<a[^>]*>([^<]*)<\/a>/g, "$1")
