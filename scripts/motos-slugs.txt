@@ -1524,3 +1524,6 @@ voge-rr500s-2026-ficha-tecnica-precio
 voge-300rr-2025-ficha-tecnica-precio
 verge-ts-pro-2026-ficha-tecnica-precio
 kove-321rr-2025-ficha-tecnica-precio
+zontes-350d-2026-ficha-tecnica-precio
+zontes-350r-2025-ficha-tecnica-precio
+zontes-350t-2024-ficha-tecnica-precio
