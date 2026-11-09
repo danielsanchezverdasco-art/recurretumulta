@@ -142,20 +142,38 @@ export const PERIODOS_COCHES: PeriodoVentas[] = [
       { modelo: "Toyota C-HR", unidades: 2121, fichaId: "toyota-c-hr-200h-2025-precio-ficha-tecnica" },
     ],
   },
+  {
+    periodo: "2026-10",
+    etiqueta: "Octubre 2026",
+    totalMercado: 98487,
+    fuente: "ANFAC (nota de prensa 02/11/2026)",
+    ranking: [
+      { modelo: "Dacia Sandero", unidades: 3284, fichaId: "dacia-sandero-tce-90-2026-precio-ficha-tecnica" },
+      { modelo: "Toyota Corolla", unidades: 2143, fichaId: "toyota-corolla-berlina-2025-precio-ficha-tecnica" },
+      { modelo: "BYD Atto 2", unidades: 1911, fichaId: "byd-atto-2-precio-ficha-tecnica" },
+      { modelo: "MG ZS", unidades: 1781, fichaId: "mg-zs-gasolina-2025-precio-ficha-tecnica" },
+      { modelo: "Kia Sportage", unidades: 1769, fichaId: "kia-sportage-hev-2025-precio-ficha-tecnica" },
+      { modelo: "Peugeot 2008", unidades: 1701, fichaId: "peugeot-e-2008-electrico-2026-precio-ficha-tecnica" },
+      { modelo: "Volkswagen T-Roc", unidades: 1645, fichaId: "volkswagen-t-roc-15-etsi-2026-precio-ficha-tecnica" },
+      { modelo: "SEAT Ibiza", unidades: 1644, fichaId: "seat-ibiza-10-tsi-2026-precio-ficha-tecnica" },
+      { modelo: "Toyota C-HR", unidades: 1612, fichaId: "toyota-c-hr-200h-2025-precio-ficha-tecnica" },
+      { modelo: "Volkswagen Tiguan", unidades: 1506, fichaId: "volkswagen-tiguan-15-etsi-2026-precio-ficha-tecnica" },
+    ],
+  },
 ];
 
-/** Acumulado 2026 turismos (ene–sep), publicado por Cadena SER con datos ANFAC/Faconauto/Ganvam. */
+/** Acumulado 2026 turismos (ene–oct), publicado por ANFAC en la nota de octubre (02/11/2026). */
 export const ACUMULADO_COCHES_2026: ModeloVendido[] = [
-  { modelo: "Dacia Sandero", unidades: 25926, fichaId: "dacia-sandero-tce-90-2026-precio-ficha-tecnica" },
-  { modelo: "SEAT Ibiza", unidades: 22020, fichaId: "seat-ibiza-10-tsi-2026-precio-ficha-tecnica" },
-  { modelo: "Toyota Corolla", unidades: 19257, fichaId: "toyota-corolla-berlina-2025-precio-ficha-tecnica" },
-  { modelo: "Toyota C-HR", unidades: 18051, fichaId: "toyota-c-hr-200h-2025-precio-ficha-tecnica" },
-  { modelo: "MG ZS", unidades: 16708, fichaId: "mg-zs-gasolina-2025-precio-ficha-tecnica" },
-  { modelo: "SEAT Arona", unidades: 16406, fichaId: "seat-arona-15-tsi-2026-precio-ficha-tecnica" },
-  { modelo: "Peugeot 208", unidades: 16327, fichaId: "peugeot-208-hibrido-110-2026-precio-ficha-tecnica" },
-  { modelo: "Toyota Yaris Cross", unidades: 15738, fichaId: "toyota-yaris-cross-hybrid-2024-precio-ficha-tecnica" },
-  { modelo: "Peugeot 2008", unidades: 15289, fichaId: "peugeot-e-2008-electrico-2026-precio-ficha-tecnica" },
-  { modelo: "Hyundai Tucson", unidades: 14406, fichaId: "hyundai-tucson-hibrido-2026-precio-ficha-tecnica" },
+  { modelo: "Dacia Sandero", unidades: 29210, fichaId: "dacia-sandero-tce-90-2026-precio-ficha-tecnica" },
+  { modelo: "SEAT Ibiza", unidades: 23664, fichaId: "seat-ibiza-10-tsi-2026-precio-ficha-tecnica" },
+  { modelo: "Toyota Corolla", unidades: 21400, fichaId: "toyota-corolla-berlina-2025-precio-ficha-tecnica" },
+  { modelo: "Toyota C-HR", unidades: 19663, fichaId: "toyota-c-hr-200h-2025-precio-ficha-tecnica" },
+  { modelo: "MG ZS", unidades: 18489, fichaId: "mg-zs-gasolina-2025-precio-ficha-tecnica" },
+  { modelo: "Peugeot 208", unidades: 17548, fichaId: "peugeot-208-hibrido-110-2026-precio-ficha-tecnica" },
+  { modelo: "SEAT Arona", unidades: 17508, fichaId: "seat-arona-15-tsi-2026-precio-ficha-tecnica" },
+  { modelo: "Toyota Yaris Cross", unidades: 17117, fichaId: "toyota-yaris-cross-hybrid-2024-precio-ficha-tecnica" },
+  { modelo: "Peugeot 2008", unidades: 16990, fichaId: "peugeot-e-2008-electrico-2026-precio-ficha-tecnica" },
+  { modelo: "Hyundai Tucson", unidades: 15535, fichaId: "hyundai-tucson-hibrido-2026-precio-ficha-tecnica" },
 ];
 
 export const PERIODOS_MOTOS: PeriodoVentas[] = [
@@ -273,22 +291,42 @@ export const PERIODOS_MOTOS: PeriodoVentas[] = [
       { modelo: "Zontes 368 G", unidades: 881 },
     ],
   },
+  {
+    periodo: "2026-10",
+    etiqueta: "Octubre 2026",
+    totalMercado: 27936,
+    fuente: "ANESDOR vía motos.net (top 5); puestos 6–10 DGT vía loscochesmasvendidos.com",
+    ranking: [
+      { modelo: "Zontes X 125", unidades: 1701 },
+      { modelo: "Zontes 125 V", unidades: 1594 },
+      { modelo: "Yamaha NMAX 125", unidades: 1263, fichaId: "yamaha-nmax-125-2025-ficha-tecnica-precio" },
+      { modelo: "Honda PCX 125", unidades: 921, fichaId: "honda-pcx125-2025-ficha-tecnica-precio" },
+      { modelo: "Zontes 368 G", unidades: 671 },
+      { modelo: "Honda Forza 125", unidades: 449, fichaId: "honda-forza-125-2025-ficha-tecnica-precio" },
+      { modelo: "SYM Symphony 125", unidades: 430, fichaId: "sym-symphony-st-125-2026-ficha-tecnica-precio" },
+      { modelo: "Kymco Agility NX 125", unidades: 410, fichaId: "kymco-agility-nx-125-2026-ficha-tecnica-precio" },
+      { modelo: "Voge SR450X", unidades: 370, fichaId: "voge-sr450x-2026-ficha-tecnica-precio" },
+      { modelo: "Yamaha XMAX 125", unidades: 367, fichaId: "yamaha-xmax-125-2025-ficha-tecnica-precio" },
+    ],
+  },
 ];
 
 /**
- * Acumulado 2026 motos (ene–sep): suma de los meses publicados en PERIODOS_MOTOS.
+ * Acumulado 2026 motos (ene–oct): suma de los meses publicados en PERIODOS_MOTOS.
  * Nota honesta: en agosto solo se publicaron los dos primeros puestos por modelo,
- * así que las cifras de agosto no están incluidas para el resto de modelos.
+ * así que las cifras de agosto no están incluidas para el resto de modelos. Desde
+ * octubre se publican los 10 primeros por mes; los meses anteriores solo aportan
+ * su top 5. "Zontes X 125 / 125X" agrupa las dos grafías del mismo modelo.
  */
 export const ACUMULADO_MOTOS_2026: ModeloVendido[] = [
-  { modelo: "Yamaha NMAX 125", unidades: 10534, fichaId: "yamaha-nmax-125-2025-ficha-tecnica-precio" },
-  { modelo: "Honda PCX 125", unidades: 8086, fichaId: "honda-pcx125-2025-ficha-tecnica-precio" },
-  { modelo: "Zontes X 125 / 125X", unidades: 7310 },
-  { modelo: "Zontes 368 G", unidades: 7050 },
-  { modelo: "SYM Symphony 125", unidades: 4834, fichaId: "sym-symphony-st-125-2026-ficha-tecnica-precio" },
+  { modelo: "Yamaha NMAX 125", unidades: 11797, fichaId: "yamaha-nmax-125-2025-ficha-tecnica-precio" },
+  { modelo: "Zontes X 125 / 125X", unidades: 9011 },
+  { modelo: "Honda PCX 125", unidades: 9007, fichaId: "honda-pcx125-2025-ficha-tecnica-precio" },
+  { modelo: "Zontes 368 G", unidades: 7721 },
+  { modelo: "SYM Symphony 125", unidades: 5264, fichaId: "sym-symphony-st-125-2026-ficha-tecnica-precio" },
   { modelo: "Voge DS 800 Rally", unidades: 4145 },
+  { modelo: "Honda Forza 125", unidades: 3964, fichaId: "honda-forza-125-2025-ficha-tecnica-precio" },
   { modelo: "Honda SH 125 Scoopy", unidades: 3758 },
-  { modelo: "Honda Forza 125", unidades: 3515, fichaId: "honda-forza-125-2025-ficha-tecnica-precio" },
-  { modelo: "Zontes 125V", unidades: 1899 },
+  { modelo: "Zontes 125V", unidades: 3493 },
   { modelo: "Voge 900 DSX", unidades: 1746, fichaId: "voge-900dsx-2024-ficha-tecnica-precio" },
 ];

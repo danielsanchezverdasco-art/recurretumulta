@@ -41278,6 +41278,25 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 6
   },
   {
+    "slug": "electricos-mas-vendidos-espana-octubre-2026",
+    "title": "10 eléctricos más vendidos octubre 2026",
+    "excerpt": "El Tesla Model 3 repite como eléctrico más vendido en octubre de 2026 con 1.150 matriculaciones; el Geely E2 se cuela en el podio. Top 10 con datos de ANFAC y la DGT.",
+    "category": "Novedades Motor",
+    "date": "2026-11-09",
+    "locale": "all",
+    "heroSrc": "",
+    "heroAlt": "",
+    "keywords": [
+      "coches eléctricos más vendidos",
+      "matriculaciones coches eléctricos octubre 2026",
+      "Tesla Model 3 ventas España",
+      "top ventas eléctricos España",
+      "ANFAC matriculaciones octubre 2026",
+      "Geely E2 ventas"
+    ],
+    "readTime": 6
+  },
+  {
     "slug": "maserati-grecale-2027-precio-ficha-tecnica",
     "title": "Maserati Grecale 2027: precio, gama y 250 CV del restyling",
     "excerpt": "El Maserati Grecale 2027 estrena morro de tiburón: mHEV de 250 CV con etiqueta ECO, maletero de 535 l y gama hasta el Trofeo de 530 CV. Precio y ficha.",

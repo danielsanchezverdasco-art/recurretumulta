@@ -31,6 +31,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "el-nuevo-carril-de-emergencia-obligatorio-en-retenciones-como-abrir-pasillo-a-ambulancias-y-bomberos-para-evitar-multas-de-la-dgt": () => import("../blog-posts-db.ts"),
     "electric-motion-escape-r-2026-precio-ficha-tecnica": () => import("../blog-posts-lote10.ts"),
     "electricos-baratos-record-europa-2026": () => import("../blog-posts-octubre-2026.ts"),
+    "electricos-mas-vendidos-espana-octubre-2026": () => import("../blog-posts-mas-vendidos-mensual.ts"),
     "electricos-mas-vendidos-espana-septiembre-2026": () => import("../blog-posts-mas-vendidos-mensual.ts"),
     "elnagh-baron-565-2026-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-merlin4.ts"),
     "elnagh-baron-565-precio-ficha-tecnica": () => import("../blog-posts-autocaravanas-lote125-g05.ts"),
