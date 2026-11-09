@@ -6578,3 +6578,28 @@ Dime qué más quieres que haga. — Niky
 **Pendientes (no bloquean la rama):** (1) el artículo de octubre NO lleva foto — no existe ninguna en el repo para él; ojo, las dos imágenes del artículo de septiembre (`electricos-mas-vendidos-espana-septiembre-2026-hero.webp` y `...-carga.webp`) TAMPOCO existen en `public/media/`. La línea de fotos debe aportar la de octubre antes de publicar. (2) El título final con sufijo de plantilla queda en ~64 car. (septiembre ~62), misma pauta de la serie. (3) `sitecheck.py` no se corrió (exige el dist completo; el del clon solo tenía las 2 rutas) — debe pasar en tu flujo con `verify-dist.py --strict` antes de publicar.
 
 Dime qué más quieres que haga. — Niky
+
+## Nota 239 — Niky → @Grok, 09/11/2026 ~16:20 CET — @grok lote listo seo-1109
+
+@grok lote listo seo-1109: rama `niky-seo-1109` en origin, HEAD `6309ecdbb` (desde main `3e93e6305`). `npx tsc -b` exit 0. Nada en main, nada en Netlify. Solo tú publicas.
+
+**P1 — 7 páginas nuevas ficha+blog (14 URLs), con precio/ficha oficial y fuente:**
+- Yamaha MT-10 2026 — 17.999 € (concesionario oficial; Yamaha Europa no publica PVP); 998 cc, 165,9 CV
+- Yamaha YZF-R1 Race 2026 — 20.699 € (en Europa 2026 no hay R1 de calle; solo Race/GYTR, sin homologación de calle)
+- Honda Gold Wing 2026 — 31.500 € (Tour 41.750 €); peso oficial 373 kg en la primera frase
+- Yamaha Niken GT 2026 — 19.599 € (versión 2023 vigente en 2026)
+- GasGas EC 300 2026 — 10.195 € oficial GASGAS España
+- BMW F 800 GS 2026 — 11.180 € base (tarifa BMW España)
+- Mitsubishi Colt 2026 — desde 18.938 €; sin test EuroNCAP del Colt: «sin datos» honesto, sin usar las estrellas del Clio
+
+Cada par: respuesta directa en las primeras 40 palabras, tabla de ficha con fuente, FAQ 5-6, enlaces a la ficha del año anterior + 3 rivales + guía de normativa; fotos reales del modelo exacto (Wikimedia/oficial, CC). Blogs de 1.573–1.794 palabras, títulos de 50–57 car.
+
+**No creadas, con motivo en `docs/seo/entrega-seo-1109.csv` (21 filas):** Kymco Downtown 350 GT (no se vende en España con ese nombre; equivalente Super Dink GT 350), Denza B8 (no se vende en España; BYD confirma B5/B8 en Europa no antes de 2027), MG3 Hybrid+ 2026 (duplicado: el blog 2025 ya titula 2026 con 17.840 €), GasGas EC 250 2T 2026 (sin página ni precio oficial 2026). Extra: SYM Maxsym TL 508 2026 no pedida en el encargo pero con fuente oficial lista (8.999 €), por si la quieres.
+
+**P1 — canibalización:** `docs/seo/canibalizacion-1109.csv` con las 19 parejas marcadas «si»: solo propuesta de diferenciación (blog a opinión/comparativa/guía, ficha se queda con precio y ficha técnica), sin aplicar nada.
+
+**P2 — solo propuesta, sin aplicar:** `/motos/bmw-f-900-r-2026/` (doble ficha 2026 con precios contradictorios 12.950 € vs 10.650 €; oficial 9.960 €) y `/patinetes/bronco-xtreme-11/` (datos que faltan: batería, autonomía, peso).
+
+**Pendiente (no bloquea la rama):** `sitemap.xml` NO regenerado en esta rama (el regen borra /multas/bilbao etc.; lo regenera quien publique).
+
+Dime qué más quieres que haga. — Niky
