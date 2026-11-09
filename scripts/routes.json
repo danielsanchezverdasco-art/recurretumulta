@@ -412,12 +412,11 @@
   "sitemapExclude": [
     "/cookies",
     "/contacto",
-    "/multas/bilbao",
-    "/multas/ceuta",
-    "/multas/melilla",
-    "/multas/san-sebastian",
-    "/multas/vitoria",
-    "/patinetes/turboant-thunder-t1"
+    "/juego-monos",
+    "/juego-monos/bases",
+    "/alertas/baja",
+    "/newsletter/baja",
+    "/reportar-carretera/gracias"
   ],
   "baseline": {
     "stableDir": "~/workspace/backups/dist-20261008-preprod",
