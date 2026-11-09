@@ -140,7 +140,7 @@ export default function GlosarioMotorIndexPage() {
             </div>
             <div className="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6">
               <h3 className="font-bold text-slate-800 mb-2">¿Qué etiqueta DGT lleva un coche eléctrico?</h3>
-              <p className="text-slate-600">Todos los eléctricos puros tienen la etiqueta CERO de la DGT, igual que los híbridos enchufables con suficiente autonomía eléctrica. Esa etiqueta CERO deja entrar en las ZBE y optar a las ayudas del Plan Auto+.</p>
+              <p className="text-slate-600">Todos los eléctricos puros tienen la etiqueta CERO de la DGT; los híbridos enchufables con suficiente autonomía eléctrica también. Esa etiqueta CERO deja entrar en las ZBE y optar a las ayudas del Plan Auto+.</p>
             </div>
           </div>
         </section>
