@@ -1438,7 +1438,7 @@ const COCHES_LOTE1_D: CocheComparador[] = [
     modelo: "EX2",
     tipo: "Eléctrico",
     categoria: "Urbano",
-    precioDesde: 8700,
+    precioDesde: 20990,
     potenciaCv: 116,
     autonomiaKm: 325,
     maleteroL: 375,

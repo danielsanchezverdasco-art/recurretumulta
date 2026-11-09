@@ -1025,7 +1025,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2027", // gama 2027: sin cambios técnicos ni estéticos
     cilindradaCc: 258,
     categoria: "Trial",
-    precioDesde: 8450, // tarifa oficial gama 2027 (10/2026)
+    precioDesde: 8250, // tarifa oficial gama 2027 (10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
