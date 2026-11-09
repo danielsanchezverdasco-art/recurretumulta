@@ -849,7 +849,7 @@ Fichas técnicas: <a href=/coches/dacia-bigster-hybrid-precio-espana/>ver ficha 
 - ❌ Alta demanda: puede haber lista de espera en algunas versiones
 
 **Jaecoo 5:**
-- ✅ Precio rompedor: desde 26.871 € de tarifa (gasolina) o 29.395 € (híbrido)
+- ✅ Precio rompedor: gasolina desde 26.871 € de tarifa; híbrido desde 29.395 €
 - ✅ Tres motorizaciones (C, ECO y CERO): hay un Jaecoo 5 para cada comprador
 - ✅ El salto a híbrido cuesta solo 2.500 € y aporta 224 CV y etiqueta ECO
 - ✅ Equipamiento generoso: 19 ADAS y 7 airbags desde el acabado base

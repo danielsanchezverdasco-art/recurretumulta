@@ -36,7 +36,7 @@ const FAQS = [
   },
   {
     q: "¿Cuánto tiempo tengo para recurrir una multa tras consultar su código?",
-    a: "Desde que te notifican, tienes 20 días naturales para alegar (art. 95.1 del RDL 6/2015) y un mes para el recurso de reposición (artículos 96.2 y 96.3); la DGT dispone de 1 mes para resolverlo y, si calla, se entiende desestimado (art. 96.5). Si pagas con el 50 % de descuento, renuncias a recurrir.",
+    a: "Desde que te notifican, tienes 20 días naturales para alegar (art. 95.1 del RDL 6/2015) y treinta días para el recurso de reposición (artículos 96.2 y 96.3); la DGT dispone de 1 mes para resolverlo y, si calla, se entiende desestimado (art. 96.5). Si pagas con el 50 % de descuento, renuncias a recurrir.",
   },
   {
     q: "Me han multado por un código que no sale aquí, ¿qué hago?",
