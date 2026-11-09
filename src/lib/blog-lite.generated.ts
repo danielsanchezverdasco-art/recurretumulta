@@ -50578,8 +50578,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke 2025 con faro de escalpelo",
     "keywords": [
       "ktm 990 duke 2025 precio",
       "990 duke 2025 ficha técnica",
@@ -50725,8 +50725,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-r-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke R 2026 en curvas",
     "keywords": [
       "ktm 990 duke r 2026 precio",
       "990 duke r ficha técnica",
@@ -50746,8 +50746,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-390-duke-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 390 Duke 2026 naranja en carretera",
     "keywords": [
       "ktm 390 duke 2026 precio",
       "390 duke 2026 ficha técnica",
@@ -73507,6 +73507,25 @@ export const BLOG_LITE: BlogLitePost[] = [
       "992.2 turbo s"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "brabus-800-2026-precio-ficha-tecnica",
+    "title": "Brabus 800 (2026): el 911 Turbo S con 800 CV y 419.851 €",
+    "excerpt": "El Brabus 800 lleva el Porsche 911 Turbo S 2026 a 800 CV y 900 Nm: 0-100 en 2,4 s, 322 km/h y 419.851 €. Precio del Coupé y el Cabrio, ficha y fotos.",
+    "category": "Novedades Motor",
+    "date": "2026-11-09",
+    "locale": "all",
+    "heroSrc": "/media/brabus-800-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Brabus 800 2026, vista trasera tres cuartos",
+    "keywords": [
+      "brabus 800 2026",
+      "brabus 800 precio",
+      "brabus 911 turbo s",
+      "brabus 800 ficha técnica",
+      "porsche 911 turbo s brabus",
+      "brabus 800 cv"
+    ],
+    "readTime": 11
   },
   {
     "slug": "porsche-911-gt3-2026-precio-ficha-tecnica",

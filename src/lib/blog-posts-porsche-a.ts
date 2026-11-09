@@ -481,6 +481,159 @@ A 322 km/h de máxima, mejor no tentar a la DGT: si te llega una denuncia, <a hr
     `,
   },
   {
+    slug: "brabus-800-2026-precio-ficha-tecnica",
+    title: "Brabus 800 (2026): el 911 Turbo S con 800 CV y 419.851 €",
+    "excerpt":
+      "El Brabus 800 lleva el Porsche 911 Turbo S 2026 a 800 CV y 900 Nm: 0-100 en 2,4 s, 322 km/h y 419.851 €. Precio del Coupé y el Cabrio, ficha y fotos.",
+    category: "Novedades Motor",
+    date: "2026-11-09",
+    readTime: 9,
+    locale: "all",
+    keywords: [
+      "brabus 800 2026",
+      "brabus 800 precio",
+      "brabus 911 turbo s",
+      "brabus 800 ficha técnica",
+      "porsche 911 turbo s brabus",
+      "brabus 800 cv",
+    ],
+    content: `
+<img src=/media/brabus-800-2026-precio-ficha-tecnica-hero.webp alt=Brabus 800 2026, vista trasera tres cuartos>
+
+**¿Buscas solo los datos?** <a href=/coches/brabus-800-2026-precio-ficha-tecnica/>Ver ficha técnica del Brabus 800 2026</a>: precio, potencia, prestaciones y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
+
+El **Brabus 800** es la respuesta de Bottrop al Porsche 911 Turbo S más rápido de la historia: **800 CV** y **900 Nm** sobre la base del 992.2, con un 0-100 de **2,4 segundos** en el Coupé y una velocidad máxima limitada a **322 km/h**. El Coupé de demostración cuesta **419.851 €** y el Cabrio **482.714 €**, y ambos están ya a la venta. Brabus lo ha desvelado hoy, 9 de noviembre de 2026, tres días después del teaser.
+
+## Ficha técnica resumida: Brabus 800 2026
+
+| Dato | Valor |
+|---|---|
+| **Precio** | 419.851 € (Coupé) / 482.714 € (Cabrio) |
+| **Base** | Porsche 911 Turbo S 992.2 (T-Hybrid) |
+| **Potencia / Par** | 800 CV / 900 Nm (sistema) |
+| **Motor** | Bóxer biturbo 3.6 con kit PowerXtra P36-800: 729 CV |
+| **0-100 km/h** | 2,4 s (Coupé) / 2,5 s (Cabrio) |
+| **Velocidad máxima** | 322 km/h (limitada) |
+| **Consumo WLTP** | Sin dato oficial |
+| **Peso** | Sin dato oficial (el coche base ronda 1.785 kg, aprox.) |
+| **Maletero** | 128 l (heredado del Turbo S) |
+| **Plazas** | 4 (2+2) |
+| **Tracción** | Total |
+| **Etiqueta DGT** | ECO |
+
+¿Quieres el detalle completo? <a href=/coches/brabus-800-2026-precio-ficha-tecnica/>Ficha técnica completa del Brabus 800</a>.
+
+## Qué es el Brabus 800
+
+Brabus ya había tocado el 911 Turbo S antes: el anterior, sobre el 992.1, fue el primer Porsche que el preparador alemán modificó, y salió tan bien que Bottrop ha vuelto a por el nuevo. El Brabus 800 parte del Turbo S 992.2, el 911 de serie más potente jamás fabricado, con lo que la marca llama «una amplia gama de mejoras exclusivas», disponible para quien ya tenga un Turbo S o encargue el coche completo.
+
+No es un coche nuevo desde cero ni un prototipo: es un paquete de transformación integral —mecánica, chasis, aerodinámica e interior— pedible sobre un Turbo S existente o ya hecho en los dos coches de demostración a la venta hoy mismo. Los encargos individuales llegarán a tiempo para el año del 50.º aniversario de Brabus, en 2027.
+
+El punto de partida ya era un misil: el <a href=/coches/porsche-911-turbo-s-2026-precio-ficha-tecnica/>Porsche 911 Turbo S 2026</a> entrega 711 CV, 800 Nm, un 0-100 en 2,5 segundos y 322 km/h, con etiqueta ECO gracias al T-Hybrid. Brabus no ha reinventado ese coche: lo ha afinado donde quedaba margen, en el motor de combustión.
+
+## El motor: kit PowerXtra P36-800
+
+La cifra que da nombre al coche sale del sistema completo, pero el trabajo gordo está en el bóxer. El kit **PowerXtra P36-800** retoca los mapas de inyección y encendido y sube la presión de sobrealimentación del biturbo de 3,6 litros. El motor de combustión pasa de 640 CV a **729 CV a 6.800 rpm**, una ganancia de 89 CV, y su par sube de 561 lb-ft (761 Nm) a **634 lb-ft (860 Nm)**.
+
+El lado eléctrico del T-Hybrid, en cambio, no se toca. Brabus deja intactos el motor eléctrico y la batería de 1,9 kWh del sistema de serie, la parte más delicada del conjunto y la que Porsche ha calibrado al milímetro. Sumando el empuje eléctrico sin modificar a los 729 CV del bóxer, el sistema completo alcanza los **800 CV** y un par total de **664 lb-ft, es decir, 900 Nm**. La ganancia es contenida y documentada, justo lo que hace falta para que el conjunto redondo del Turbo S sea todavía más serio sin romper el equilibrio de Porsche.
+
+## Prestaciones: 2,4 segundos y 322 km/h
+
+Brabus anuncia un 0-100 km/h (0-62 mph) de **2,4 segundos para el Coupé** y **2,5 segundos para el Cabrio**. El Coupé recorta una décima al Turbo S de serie, que ya paraba el cronómetro en 2,5 segundos, y el Cabrio iguala el registro del Coupé de fábrica pese al peso extra de la capota.
+
+La velocidad máxima queda **limitada a 200 mph, 322 km/h**, la misma cifra que el Turbo S de serie. Brabus la limita para proteger las nuevas llantas Monoblock ZL. No hay ganancia en punta; la mejora está en cómo se llega hasta allí, con más empuje en la zona media gracias a los 100 Nm extra del sistema.
+
+## Chasis y llantas: un pulgada más cerca del suelo
+
+El apartado dinámico se resuelve con muelles de **KW** que rebajan la altura **alrededor de una pulgada, unos 25 mm**, y que según Brabus trabajan «a la perfección» con los amortiguadores de serie. El coche gana postura sin renunciar a la amortiguación adaptativa de fábrica, así que sigue siendo utilizable a diario.
+
+Las llantas son las nuevas **Brabus Monoblock ZL Platinum Edition con tuerca central**, de **21 pulgadas delante y 22 detrás**. Sí: 22 pulgadas en el eje trasero de un 911, una medida que hace pocos años parecía reservada a los SUV de lujo. El diseño de radios finos y el acabado oscuro refuerzan la imagen del coche, y la tuerca central —herencia directa de la competición— es el detalle que delata que esto no es un Turbo S cualquiera.
+
+<img src=/media/brabus-800-2026-precio-ficha-tecnica-oficial.webp alt=Brabus 800 2026, vista lateral>
+
+## Carbono por fuera, Masterpiece por dentro
+
+Si algo define a Brabus desde hace décadas es el carbono, y el 800 no es la excepción. Los **spoilers delantero y trasero** son nuevos y más grandes, pero mantienen la aerodinámica activa de serie: las piezas móviles del Turbo S siguen haciendo su trabajo, solo que con más presencia. A eso se suman **espejos, faldones laterales y difusor** en fibra de carbono, además de los detalles de capó y zaga visibles en las fotos oficiales.
+
+Dentro, el habitáculo recibe el **acolchado Dynamic Diamond Double**, un pespunteado en rombo doble que cubre asientos y paneles, con **costuras rojas, más carbono y logos de Brabus** en salpicadero, umbrales y reposacabezas. Es el acabado **Masterpiece**, el nivel más alto de personalización interior del preparador.
+
+<img src=/media/brabus-800-2026-precio-ficha-tecnica-interior.webp alt=Interior del Brabus 800 2026 con acolchado Dynamic Diamond Double>
+
+## Precio: 419.851 € el Coupé, 482.714 € el Cabrio
+
+Los dos coches de demostración están ya a la venta: el **Coupé cuesta 419.850,83 €** (unos 350.000 libras) y el **Cabrio 482.713,63 €** (unas 400.000 libras). El Coupé sale por unos **107.650 € más que el Turbo S de serie**, que en España parte de 312.200 €. El Cabrio se va casi 63.000 € por encima de su hermano cerrado.
+
+¿Vale la pena la diferencia? Depende de qué se busque. Por esos 107.650 € extra, el comprador se lleva 89 CV más, una décima en el 0-100, el kit completo de carbono, las llantas Monoblock ZL con tuerca central, los muelles KW y el interior Masterpiece. Quien encargue un 800 a medida podrá además configurar colores, materiales y detalles a su gusto, con entrega prevista para el año del 50.º aniversario de la marca.
+
+Con un coche de 419.851 €, una denuncia por exceso de velocidad duele el doble: si te llega una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
+
+## Brabus 800 frente al Turbo S de serie
+
+| Dato | Brabus 800 | Porsche 911 Turbo S 2026 |
+|---|---|---|
+| **Precio** | 419.851 € | 312.200 € |
+| **Potencia** | 800 CV | 711 CV |
+| **Par** | 900 Nm | 800 Nm |
+| **0-100 km/h** | 2,4 s (Coupé) | 2,5 s |
+| **Velocidad máxima** | 322 km/h | 322 km/h |
+| **Llantas** | 21"/22" Monoblock ZL | De serie |
+| **Altura** | −25 mm (muelles KW) | De serie |
+| **Etiqueta DGT** | ECO | ECO |
+
+## El linaje: del Brabus 820 al Rocket R
+
+El 800 no surge de la nada. Sobre el 992.1, Brabus ya ofreció el **Brabus 820**, con **820 CV, 950 Nm, un 0-100 en 2,5 segundos y 211 mph (unos 340 km/h)** de máxima, desde unos 405.157 €. Y por encima de él estaba el **Brabus 900 Rocket R «1 of 25»**, una serie limitadísima a 25 unidades con **900 CV y 1.000 Nm**. El nuevo 800 se coloca por debajo de ambos en potencia bruta, pero sobre una base mucho más moderna: el 992.2 con su T-Hybrid, que el 820 no tenía.
+
+La jerarquía, por tanto, está clara: el 800 es la puerta de entrada al mundo Brabus sobre el 911 actual, antes de que llegue el Rocket completo del 992.2, que según The Supercar Blog se espera para el año que viene y previsiblemente superará los 900 CV del anterior.
+
+## Para quién es (y para quién no)
+
+El Brabus 800 es para quien quiere un Turbo S y le sobran 100.000 € para que nadie lo confunda con uno normal. Es un coche de coleccionista usable a diario: tracción total, cuatro plazas, etiqueta ECO y la fiabilidad del conjunto Porsche, con una exclusividad que el modelo de serie no puede dar.
+
+No es para quien busque la mejor relación precio-prestaciones: un Turbo S de serie hace el 0-100 en 2,5 segundos por 107.650 € menos. Tampoco es para circuito: Brabus no ha publicado tiempos y el GT3 RS sigue siendo el 911 para ese uso. Ni para quien necesite discreción: el carbono, las llantas de 22 pulgadas y los logos no pasan desapercibidos.
+
+## Lo que Brabus no ha contado (todavía)
+
+Ser honestos también es contar lo que falta. Brabus **no ha publicado el consumo WLTP propio del 800**: la referencia sigue siendo la del Turbo S de serie, 11,5 l/100 km, y el consumo real será mayor si se aprovechan los 89 CV extra. Tampoco hay **peso exacto**: los 1.785 kg corresponden al coche base y son aproximados. Ni **emisiones oficiales** del conjunto modificado ni **mantenimiento oficial Brabus** publicado para el 800.
+
+Sobre la garantía: Brabus cubre sus kits con su **garantía de preparador estándar, 3 años o 100.000 km** según sus comunicados oficiales históricos, un dato que conviene confirmar al encargar el coche. Y un apunte necesario: el 911 **no tiene test EuroNCAP**; la seguridad del 800 es la del Turbo S de serie, sin más.
+
+## Pros y contras
+
+| ✅ Pros | ❌ Contras |
+|---|---|
+| 800 CV y 900 Nm: 89 CV más que el Turbo S de serie | 419.851 € el Coupé: más de 100.000 € sobre el de serie |
+| 0-100 en 2,4 s en el Coupé, una décima más rápido | Consumo WLTP propio sin publicar |
+| Llantas Monoblock ZL 21"/22" con tuerca central y muelles KW | Peso exacto sin publicar |
+| Carbono por todas partes e interior Masterpiece | Velocidad máxima limitada a 322 km/h, como el de serie |
+| Etiqueta ECO con 800 CV | El lado eléctrico del T-Hybrid no se toca |
+
+## Preguntas frecuentes
+
+### ¿Cuánto cuesta el Brabus 800?
+El Coupé de demostración cuesta **419.850,83 €** y el Cabrio **482.713,63 €**. Los encargos a medida se cotizan aparte y llegan para el 50.º aniversario de Brabus en 2027.
+
+### ¿Cuántos caballos tiene el Brabus 800?
+**800 CV y 900 Nm** en total. El bóxer biturbo de 3,6 litros rinde 729 CV con el kit PowerXtra P36-800; el resto lo aporta el T-Hybrid, que no se modifica.
+
+### ¿Qué acelera de 0 a 100?
+**2,4 segundos el Coupé y 2,5 segundos el Cabrio**. El Coupé es una décima más rápido que el Turbo S de serie.
+
+### ¿Es un modelo nuevo o una preparación?
+Es una **preparación completa de Brabus sobre el Porsche 911 Turbo S 992.2**. No es un modelo de Porsche: es el Turbo S con el kit PowerXtra P36-800, chasis, llantas, carbono e interior Masterpiece de Brabus.
+
+### ¿Tiene etiqueta ECO?
+Sí. Al mantener intacto el sistema T-Hybrid del coche base, el Brabus 800 conserva la **etiqueta ECO** de la DGT, con acceso a las ZBE y las ventajas fiscales que conlleva.
+
+### ¿Merece la pena frente al Turbo S de serie?
+Si buscas exclusividad, sí: 89 CV más, carbono, llantas de tuerca central e interior Masterpiece por unos 107.650 € extra en el Coupé. Si buscas prestaciones por euro, el Turbo S de serie ya es casi imbatible.
+
+Con 800 CV bajo el pie derecho, cualquier acelerón puede acabar en denuncia: si te llega una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+
+*Fuentes: <a href=https://www.pistonheads.com/news/ph-germancars/brabus-gets-busy-with-latest-911-turbo-s/51887>PistonHeads — New Brabus 800 remakes 911 Turbo S (09/11/2026)</a>, <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a> y <a href=https://www.brabus.com/en-int/>Brabus</a>.*
+    `,
+  },
+  {
     slug: "porsche-911-gt3-2026-precio-ficha-tecnica",
     title: "Porsche 911 GT3 2026: precio y ficha técnica",
     "excerpt":

@@ -3130,6 +3130,7 @@ export const BLOG_POST_SLUGS: ReadonlySet<string> = new Set([
   "porsche-911-gt3-rs-2025-precio-ficha-tecnica",
   "porsche-911-targa-4-gts-2026-precio-ficha-tecnica",
   "porsche-911-turbo-s-2026-precio-ficha-tecnica",
+  "brabus-800-2026-precio-ficha-tecnica",
   "porsche-cayenne-2026-precio-ficha-tecnica",
   "porsche-cayenne-coupe-2026-precio-ficha-tecnica",
   "porsche-cayenne-e-hybrid-2026-precio-ficha-tecnica",
