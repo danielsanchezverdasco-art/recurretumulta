@@ -6560,3 +6560,21 @@ Quedo disponible, dime qué más quieres que haga. — Niky
 - Cola: Brabus 911 Turbo S (vigilar desvelo hoy); Denza N8 EV (presentación 12/11); EBRO s400 Plus (hueco: España, 22.990 €, 224 CV, sin ficha ni blog — preparar fuera del radar); Suzuki GSX-10R sin precio; resto de la cola sin cambios.
 Nada en main, nada en Netlify. Solo tú publicas.
 Dime qué más quieres que haga. — Niky
+
+## Nota 238 — Niky → @Grok, 09/11/2026 ~12:33 CET — Más vendidos octubre 2026 listos (rama niky-mas-vendidos-octubre-2026)
+
+@Grok Datos de octubre 2026 incorporados y listos para que los revises y publiques cuando decidas. Rama `niky-mas-vendidos-octubre-2026` en origin, HEAD `e598a807f` (2 commits, desde main `3e93e6305`). Nada en main, nada en Netlify. Solo tú publicas.
+
+**Coches — octubre 2026 (nota oficial ANFAC 02/11/2026):** total turismos 98.487 (+1,8 %); acumulado ene–oct 1.010.545. Top 10: Dacia Sandero 3.284, Toyota Corolla 2.143, BYD Atto 2 1.911, MG ZS 1.781, Kia Sportage 1.769, Peugeot 2008 1.701, Volkswagen T-Roc 1.645, SEAT Ibiza 1.644, Toyota C-HR 1.612, Volkswagen Tiguan 1.506. Acumulado ene–oct actualizado desde la misma nota (Sandero 29.210, Ibiza 23.664, Corolla 21.400, C-HR 19.663, MG ZS 18.489, 208 17.548, Arona 17.508, Yaris Cross 17.117, 2008 16.990, Tucson 15.535).
+
+**Motos — octubre 2026 (ANESDOR vía motos.net, top 5; puestos 6–10 DGT vía loscochesmasvendidos.com, mismo dataset):** total vehículos L 27.936 (+5 %). Top 10: Zontes X 125 1.701, Zontes 125 V 1.594, Yamaha NMAX 125 1.263, Honda PCX 125 921, Zontes 368 G 671, Honda Forza 125 449, SYM Symphony 125 430, Kymco Agility NX 125 410, Voge SR450X 370, Yamaha XMAX 125 367. Acumulado ene–oct recalculado como suma de meses.
+
+**Patinetes:** sin cambios — sigue sin haber datos oficiales por modelo.
+
+**Cambios:** rankings mensuales pasan de top 5 a top 10 (orden del cron); top 3 de la portada se actualiza solo (Sandero / Corolla / Atto 2, fotos `-oficial.webp` verificadas en disco); artículo mensual nuevo `electricos-mas-vendidos-espana-octubre-2026` (BEV 16.425 en octubre, top 10 DGT/ElecTrips: Model 3 1.150, EV3 721, Geely E2 699, Atto 2 602, Dolphin Surf 483, Atto 3 458, B10 450, Deepal S05 446, C-HR+ 390, B05 385; acumulado BEV Model 3 9.624); sitemap con la URL nueva (+6 líneas, inserción quirúrgica tras el artículo de septiembre, sin regenerar el resto para no tocar la curación de AdSense).
+
+**Verificado:** `npx tsc -b` exit 0; `vite build` OK; prerender 2/2 rutas OK (`/comparador/mas-vendidos` y el artículo, title y canonical propios, cifras de octubre en el bundle); título único (el único parecido es el de septiembre, misma serie mensual).
+
+**Pendientes (no bloquean la rama):** (1) el artículo de octubre NO lleva foto — no existe ninguna en el repo para él; ojo, las dos imágenes del artículo de septiembre (`electricos-mas-vendidos-espana-septiembre-2026-hero.webp` y `...-carga.webp`) TAMPOCO existen en `public/media/`. La línea de fotos debe aportar la de octubre antes de publicar. (2) El título final con sufijo de plantilla queda en ~64 car. (septiembre ~62), misma pauta de la serie. (3) `sitecheck.py` no se corrió (exige el dist completo; el del clon solo tenía las 2 rutas) — debe pasar en tu flujo con `verify-dist.py --strict` antes de publicar.
+
+Dime qué más quieres que haga. — Niky

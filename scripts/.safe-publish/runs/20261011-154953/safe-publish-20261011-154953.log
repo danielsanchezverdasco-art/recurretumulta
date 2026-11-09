@@ -1,8 +1,0 @@
-[15:49:53] === SAFE PUBLISH v2 (20261011-154953) ===
-[15:49:53] Rutas a prerenderizar: 3 (ver scripts/.safe-publish/runs/20261011-154953/routes.txt)
-[15:49:53] Run dir (persistente): scripts/.safe-publish/runs/20261011-154953
-[15:49:53] [0] TypeScript...
-[15:49:56]   ✓ tsc -b OK
-[15:49:56] [0b] Preflight de auth Netlify...
-[15:49:56] ⛔ FALLO: puerta 0b: NETLIFY_TOKEN no está definido (el preflight usa curl con Bearer; un token vacío daría 401). Revisa NETLIFY_TOKEN o el conector custom.netlify y vuelve a intentarlo.
-[15:49:56] Backup intacto en dist-backup-20261011-154953/ — producción NO tocada

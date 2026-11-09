@@ -1,7 +1,0 @@
-{
-  "phase": "restore",
-  "ts": "20261011-155341",
-  "backupDir": "dist-backup-20261011-155341",
-  "routesFile": "scripts/.safe-publish/runs/20261011-155341/routes.txt",
-  "logFile": "scripts/.safe-publish/runs/20261011-155341/safe-publish-20261011-155341.log"
-}
