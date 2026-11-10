@@ -14,6 +14,7 @@ const NOINDEX_FIJO: string | null =
 
 import { useEffect } from "react";
 import { AUTOR_DANIEL, PUBLISHER, isoDia } from "@/lib/eeat.ts";
+import { ogPorRuta } from "@/lib/og-seccion.ts";
 
 const DOMAIN = "https://recurretumulta.online";
 const DEFAULT_IMG = "https://recurretumulta.online/media/og-recurretumulta-online.png";
@@ -164,7 +165,7 @@ export function useSeo({
   title,
   description,
   canonical,
-  image = DEFAULT_IMG,
+  image,
   type = "website",
   keywords = [],
   noindex = false,
@@ -231,10 +232,15 @@ export function useSeo({
     setLink("canonical", url);
 
     // Open Graph
+    // 10/11/2026 (AdSense L1, ampliación: 472 páginas con la genérica): si la
+    // plantilla no pasa imagen propia, se usa la de la ruta (marca, hub o hero
+    // de sección) antes de caer en la genérica de marca.
+    const ogRel = image ? null : ogPorRuta(canonPath);
+    const img = image ?? (ogRel ? `${DOMAIN}${ogRel}` : DEFAULT_IMG);
     setMeta("og:title", tituloFinal, "property");
     setMeta("og:description", descFinal, "property");
     setMeta("og:url", url, "property");
-    setMeta("og:image", image, "property");
+    setMeta("og:image", img, "property");
     setMeta("og:type", type, "property");
     setMeta("og:locale", "es_ES", "property");
     setMeta("og:site_name", "RecurreTuMulta.online", "property");
@@ -242,7 +248,7 @@ export function useSeo({
     // Twitter
     setMeta("twitter:title", tituloFinal, "name");
     setMeta("twitter:description", descFinal, "name");
-    setMeta("twitter:image", image, "name");
+    setMeta("twitter:image", img, "name");
     setMeta("twitter:card", "summary_large_image", "name");
 
     // E-E-A-T 17/10/2026: og:updated_time solo con la fecha real de actualización
