@@ -525,10 +525,12 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             <tbody>
               {FILAS.filter((f) => { const _v = f.campo === "etiquetaDgt" ? ((patinete as any).etiquetaDgt || "—") : f.get(patinete); return _v !== "—" && _v !== "Sin datos" && _v !== "No publicada" && !/^—/.test(String(_v)); }).map((f) => {
                 const esAprox = patinete.aprox.includes(f.campo);
+                // F-21 (10/11/2026): un precio estimado no puede rotularse «oficial».
+                const label = f.campo === "precioEur" && esAprox ? "Precio estimado" : f.label;
                 return (
-                  <tr key={f.label} className="border-t border-gray-200/70">
+                  <tr key={label} className="border-t border-gray-200/70">
                     <th className="py-2.5 pr-2 text-left font-medium text-gray-500">
-                      {f.label}
+                      {label}
                     </th>
                     <td className="py-2.5 text-right font-semibold text-gray-900">
                       <span className="inline-flex items-center gap-1">

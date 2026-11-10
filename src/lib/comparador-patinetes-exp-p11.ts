@@ -2025,7 +2025,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     videoCanal: null,
     marca: "Pure",
     modelo: "Flex",
-    precioEur: 489,
+    precioEur: null, // Sin PVP en España: 899 £ en Reino Unido y 816 £ en la tienda IE; sin precio en € verificable como PVP ES
     potenciaNominalW: 500,
     potenciaPicoW: 924,
     autonomiaKm: 52,
@@ -2062,7 +2062,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "16,2 kg sin ser especialmente ligero para su tamaño",
     ],
     veredicto: "El Pure Flex es el plegable más radical del mercado: cabe en un maletero pequeño y su postura frontal cambia la forma de pilotar un patinete. Pero en España es casi un desconocido, sin PVP oficial ni certificado DGT verificado. Interesante como concepto; complicado como compra nacional hoy.",
-    fuenteNombre: "Pure Electric (oficial)",
+    fuenteNombre: "Pure Electric IE (tienda oficial Irlanda)",
     fuenteUrl: "https://pureelectric.ie/products/pure-advance-flex-electric-scooter",
     mantenimientoDIY: null,
   },
