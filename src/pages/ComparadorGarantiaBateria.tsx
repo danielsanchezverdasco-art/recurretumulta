@@ -303,11 +303,6 @@ export default function ComparadorGarantiaBateriaPage() {
           </div>
         </section>
 
-        <figure className="mt-10 max-w-3xl">
-          <video src="/media/garantia-bateria.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: un técnico con guantes revisa la batería de un coche eléctrico en un taller" />
-          <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: un técnico revisa la batería de un eléctrico en el taller.</figcaption>
-        </figure>
-
         <section aria-label="Preguntas frecuentes" className="mt-10 max-w-3xl">
           <h2 className="text-xl font-extrabold text-gray-900">Preguntas frecuentes</h2>
           <div className="mt-4 space-y-3">

@@ -455,17 +455,6 @@ export default function ComunidadPage() {
             <h2 className="text-xl font-black text-gray-900">
               Vídeo: los defectos que pueden anular tu multa en {c.nombre}
             </h2>
-            <div className="rounded-2xl overflow-hidden border border-gray-200 bg-gray-950">
-              <video
-                controls
-                preload="metadata"
-                className="w-full aspect-video"
-                aria-label="Vídeo explicativo: defectos de forma que pueden anular una multa de tráfico"
-              >
-                <source src="/media/guia-vicios-forma.mp4" type="video/mp4" />
-                Tu navegador no soporta la reproducción de vídeo.
-              </video>
-            </div>
             <p className="text-xs text-gray-500 leading-relaxed">
               Falta de señalización, errores en la notificación, radar sin verificación vigente o prescripción: estos son los
               defectos que más multas anulan en {c.nombre}. La IA de RecurreTuMulta.online los detecta automáticamente al analizar tu multa.

@@ -189,11 +189,6 @@ export default function CalculadoraEtiquetaDgtPage() {
           </ul>
         </section>
 
-        <figure className="mb-2">
-          <video src="/media/etiqueta-dgt.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: una mano pega la etiqueta medioambiental de la DGT en el parabrisas" />
-          <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: así se coloca el distintivo ambiental en el parabrisas.</figcaption>
-        </figure>
-
         <div className="flex items-center gap-2 flex-wrap">
           <span className="text-sm font-semibold text-slate-700">Compartir:</span>
           <a href="https://wa.me/?text=Calculadora%20gratuita%20de%20etiqueta%20medioambiental%20DGT%20https%3A%2F%2Frecurretumulta.online%2Fcalculadora-etiqueta-dgt" target="_blank" rel="noopener noreferrer" aria-label="Compartir en WhatsApp" title="Compartir en WhatsApp" className="w-9 h-9 rounded-full bg-slate-100 text-slate-500 flex items-center justify-center hover:bg-green-600 hover:text-white transition-colors">

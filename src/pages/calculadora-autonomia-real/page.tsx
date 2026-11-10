@@ -156,11 +156,6 @@ export default function CalculadoraAutonomiaRealPage() {
           <p className="text-sm text-amber-700 bg-amber-50 border border-amber-200 rounded-xl p-4 mt-5">Aviso: es una estimación orientativa. Tu estilo al volante, el estado de la batería, el viento y la orografía también influyen.</p>
         </section>
 
-        <figure className="mb-2">
-          <video src="/media/autonomia-real.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: coche eléctrico circulando por una autopista española al atardecer" />
-          <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: la autonomía real se decide en la carretera, no en el laboratorio.</figcaption>
-        </figure>
-
         <div className="flex items-center gap-2 flex-wrap">
           <span className="text-sm font-semibold text-slate-700">Compartir:</span>
           <a href="https://wa.me/?text=Calculadora%20gratuita%20de%20autonom%C3%ADa%20real%20de%20coches%20el%C3%A9ctricos%20https%3A%2F%2Frecurretumulta.online%2Fcalculadora-autonomia-real" target="_blank" rel="noopener noreferrer" aria-label="Compartir en WhatsApp" title="Compartir en WhatsApp" className="w-9 h-9 rounded-full bg-slate-100 text-slate-500 flex items-center justify-center hover:bg-green-600 hover:text-white transition-colors">

@@ -121,10 +121,6 @@ export default function GuiaRadaresPage() {
         </div>
         <p className="text-slate-600 mb-4">Si la denuncia no descuenta ese margen, la medición puede ser recurrible.</p>
 
-                <figure className="mb-8">
-          <video src="/media/guia-radares.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: circulación por una autopista española al atardecer" />
-          <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: así se ve un pórtico de control de velocidad en una autopista española.</figcaption>
-        </figure>
 <h2 className="text-2xl font-bold mt-10 mb-4">Sanciones por exceso de velocidad</h2>
         <div className="rounded-2xl border border-slate-200 mb-4">
         <table className="w-full text-xs sm:text-sm text-left bg-white">

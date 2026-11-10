@@ -397,11 +397,6 @@ export default function MejorCochePresupuesto() {
           </div>
         </section>
 
-        <figure className="mt-10 max-w-3xl">
-          <video src="/media/mejor-presupuesto.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: entrega de un coche nuevo en un concesionario luminoso" />
-          <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: el momento de estrenar coche en el concesionario.</figcaption>
-        </figure>
-
         {/* FAQ */}
         <section className="mt-10">
           <h2 className="text-2xl font-black text-gray-900 mb-4">Preguntas frecuentes</h2>

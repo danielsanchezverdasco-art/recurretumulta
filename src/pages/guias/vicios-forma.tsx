@@ -73,10 +73,6 @@ export default function GuiaViciosFormaPage() {
       </div>
       <p className="text-slate-600 mb-4">Desarrollo completo en <a href="https://recurretumulta.online/blog/defectos-forma-anulan-multa-dgt" className="text-green-700 font-semibold hover:underline">defectos de forma que anulan multas de la DGT</a>.</p>
       
-      <figure className="mb-8">
-  <video src="/media/guia-vicios-forma.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: lupa sobre un documento legal con letra pequeña" />
-  <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: revisando con lupa la letra pequeña de una denuncia.</figcaption>
-</figure>
       <figure className="my-8">
         <img src="/media/vicios-forma-documento.webp" alt="Lupa sobre una denuncia de tráfico con marcas rojas señalando posibles defectos de forma" className="w-full rounded-3xl border border-slate-200" loading="lazy" />
       </figure>

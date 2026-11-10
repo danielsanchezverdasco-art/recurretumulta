@@ -98,10 +98,6 @@ export default function GuiaPrescripcionPage() {
       </ul>
       <p className="text-slate-600 mb-4">El plazo cuenta igual en Madrid, Barcelona o cualquier provincia: lo marca la ley estatal. Revisa también si tu multa tiene algún <a href="https://recurretumulta.online/guias/vicios-forma" className="text-green-700 font-semibold hover:underline">defecto de forma</a>, que es otra vía para anularla.</p>
 
-      <figure className="mb-8">
-  <video src="/media/guia-prescripcion.mp4" className="w-full rounded-3xl border border-slate-200" muted autoPlay loop playsInline preload="metadata" aria-label="Vídeo: reloj antiguo y calendario, el paso del tiempo" />
-  <figcaption className="text-sm text-slate-500 mt-2 text-center">Vídeo ilustrativo: el paso del tiempo, clave en la prescripción de las multas.</figcaption>
-</figure>
       <figure className="my-8">
         <img src="/media/prescripcion-calendario-plazos.webp" alt="Calendario con fechas límite marcadas en rojo junto a una notificación oficial en un sobre" className="w-full rounded-3xl border border-slate-200" loading="lazy" />
       </figure>
