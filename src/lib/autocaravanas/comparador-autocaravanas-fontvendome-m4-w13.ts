@@ -3,8 +3,8 @@
 //   (docs.campingcar-infos.com), página oficial del Rando Camp en font-vendome.fr,
 //   plein-air.fr y groupejean-auto.fr (ficha y precio anunciado).
 // Verificado el 19/10/2026.
-// Notas honestas: precioDesde=null (Font Vendôme no publica tarifa oficial; un
-//   concesionario francés anuncia el RandoCamp desde 59.990 €). plazasDormir=2
+// Notas honestas: precioDesde=59990 (precio anunciado por el concesionario
+//   Groupe Jean; Font Vendôme no publica tarifa oficial). plazasDormir=2
 //   de serie (3 con techo elevable opcional). El modelo 2026 se denomina RandoCamp
 //   Série S (sustituye a la denominación «Rando 45», que no existe en catálogo).
 import type { Autocaravana } from "./tipos.ts";
@@ -16,7 +16,7 @@ export const AUTOCARAVANAS_FONTVENDOME_M4: Autocaravana[] = [
     modelo: "RandoCamp",
     tipo: "camper",
     categoria: "Autocaravana",
-    precioDesde: null, // Sin tarifa oficial; un concesionario lo anuncia desde 59.990 €
+    precioDesde: 59990, // Precio anunciado por el concesionario Groupe Jean (Font Vendôme no publica tarifa oficial)
     potenciaCv: 140, // Fiat Ducato 2.2 Multijet 140 CV
     autonomiaKm: null,
     maleteroL: null,
@@ -47,7 +47,7 @@ export const AUTOCARAVANAS_FONTVENDOME_M4: Autocaravana[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     notas:
       "Dimensiones (5,413×2,05×2,66 m), PTAC 3.500 kg, 4 plazas, cama transversal " +
       "194×132,5/107 cm, 2 plazas de noche (3 en opción), motor Fiat Ducato 2.2 de " +
@@ -57,10 +57,9 @@ export const AUTOCARAVANAS_FONTVENDOME_M4: Autocaravana[] = [
       "(https://docs.campingcar-infos.com/docs/Font-Vendome%20(vans)/FontVendome%202026%20RandoCamp%20Serie%20S.pdf) " +
       "y página oficial https://www.font-vendome.fr/van/rando-camp/. El modelo " +
       "asignado («Rando 45») no existe en ningún catálogo de la marca; se sustituyó " +
-      "por el RandoCamp, el camper de 5,41 m de la gama 2026. Sin precio aplicado: la " +
-      "marca no publica tarifa oficial; el concesionario Groupe Jean " +
-      "sin PVP oficial verificable." +
-      "anuncia desde 59.990 €. La carga útil no la publica la marca.",
+      "por el RandoCamp, el camper de 5,41 m de la gama 2026. Precio aplicado: " +
+      "59.990 € anunciados por el concesionario Groupe Jean (Font Vendôme no " +
+      "publica tarifa oficial). La carga útil no la publica la marca.",
     curiosidades:
       "El RandoCamp mete una cama transversal de 194 cm de largo en un furgón de " +
       "solo 5,41 metros, una de las mejores relaciones cama/longitud del segmento " +
@@ -154,5 +153,7 @@ export const AUTOCARAVANAS_FONTVENDOME_M4: Autocaravana[] = [
         { nombre: "Revisión célula Font Vendôme (anual recomendada)", queSeCambia: "Estanqueidad, gas, electricidad, humedades", costeAproxEur: 250 },
       ],
     },
+    fuenteNombre: "Groupe Jean (concesionario, precio anunciado)",
+    fuenteUrl: "https://groupejean-auto.fr/fiche-technique-font-vendome-rando-camp/",
   },
 ];
