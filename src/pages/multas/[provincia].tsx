@@ -469,9 +469,7 @@ export default function MultaProvinciaPage() {
                     </li>
                   ))}
                 </ul>
-                {cm ? (cm.zbeNota && <p className="text-xs text-amber-700">{cm.zbeNota}</p>) : (
-                  <p className="text-xs text-amber-700">Las multas de ZBE se anulan frecuentemente por falta de señalización o error en la etiqueta del vehículo.</p>
-                )}
+                {cm && cm.zbeNota && <p className="text-xs text-amber-700">{cm.zbeNota}</p>}
               </CardContent>
             </Card>
           )}
@@ -489,16 +487,25 @@ export default function MultaProvinciaPage() {
               </CardContent>
             </Card>
           )}
-          {/* Cómo recurrir (A1/A3 18/10/2026: sin pasos de plantilla; plazos correctos) */}
+          {/* Cómo recurrir (A1/A3 18/10/2026: sin pasos de plantilla; plazos correctos)
+              10/11/2026 (AdSense A5): datos como lista, sin el párrafo de plantilla
+              que se repetía igual en las 54 provincias; los hechos son los mismos. */}
           <section className="space-y-2">
             <h2 className="text-xl font-black text-gray-900">Dónde y en qué plazo recurrir en {p.nombre}</h2>
-            <p className="text-sm text-gray-600 leading-relaxed">
-              {auto
-                ? <>Si la denuncia es de carretera, preséntala ante {auto.art} {auto.nombre} ({auto.urlTexto}).</>
-                : <>Si la denuncia es de la DGT, preséntala ante la {p.dgtDelegacion}{p.emailDgt ? ` (${p.emailDgt})` : ""} o en sede.dgt.gob.es.</>}
-              {" "}{cm ? cm.municipal : `Si es del Ayuntamiento de ${p.capital}, ante el propio ayuntamiento.`}
-              {" "}<strong>Alegaciones:</strong> {PLAZO_ALEGACIONES_MULTAS} de la denuncia. <strong>Recurso de reposición:</strong> 1 mes desde la resolución sancionadora.
-              {" "}Explicamos el procedimiento completo en la <Link to="/multas/" className="text-red-600 hover:underline">guía general para recurrir multas</Link>.
+            <dl className="grid grid-cols-[auto,1fr] gap-x-4 gap-y-1 text-sm text-gray-600 leading-relaxed">
+              <dt className="font-semibold text-gray-900">Carretera</dt>
+              <dd>
+                {auto
+                  ? <>Ante {auto.art} {auto.nombre} ({auto.urlTexto}).</>
+                  : <>Ante la {p.dgtDelegacion}{p.emailDgt ? ` (${p.emailDgt})` : ""} o en sede.dgt.gob.es.</>}
+              </dd>
+              <dt className="font-semibold text-gray-900">Municipal</dt>
+              <dd>{cm ? cm.municipal : `Ante el Ayuntamiento de ${p.capital}.`}</dd>
+              <dt className="font-semibold text-gray-900">Plazos</dt>
+              <dd>Alegaciones: {PLAZO_ALEGACIONES_MULTAS} de la denuncia. Recurso de reposición: 1 mes desde la resolución sancionadora.</dd>
+            </dl>
+            <p className="text-sm text-gray-600">
+              Procedimiento completo en la <Link to="/multas/" className="text-red-600 hover:underline">guía general para recurrir multas</Link>.
             </p>
           </section>
 

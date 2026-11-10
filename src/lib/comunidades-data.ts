@@ -69,7 +69,7 @@ function respuestaOrganismo(c: Omit<Comunidad, "faq">): { pregunta: string; resp
     default:
       return {
         pregunta: `¿Dónde presento el recurso de una multa de la DGT en ${n}?`,
-        respuesta: `La resolución sancionadora indica el órgano competente. ${ART_RECURSO} La DGT permite también tramitarlo por vía electrónica en sede.dgt.gob.es.`,
+        respuesta: `La resolución sancionadora indica el órgano competente. La DGT permite también tramitarlo por vía electrónica en sede.dgt.gob.es.`,
       };
   }
 }
@@ -91,6 +91,10 @@ function faqComun(c: Omit<Comunidad, "faq">): Comunidad["faq"] {
           },
         ]
       : [];
+  // 10/11/2026 (AdSense A5): solo las preguntas con respuesta propia de la
+  // comunidad (órgano competente, ZBE, ayuntamiento y plazos). Las genéricas
+  // (pronto pago, qué pasa si no se paga, prescripción) eran el mismo texto en
+  // las 19 comunidades y ya están en /guias/ y en los pasos de esta página.
   return [
     respuestaOrganismo(c),
     ...extra,
@@ -107,21 +111,6 @@ function faqComun(c: Omit<Comunidad, "faq">): Comunidad["faq"] {
       pregunta: "¿Cuánto tiempo tengo para recurrir una multa de tráfico?",
       respuesta:
         "Desde el día siguiente a la notificación corren 20 días naturales para abonar con la rebaja del 50 % o presentar alegaciones (artículos 94 y 95 del Real Decreto Legislativo 6/2015). Contra la resolución sancionadora cabe el recurso de reposición en un mes o acudir a la vía contencioso-administrativa.",
-    },
-    {
-      pregunta: "¿Puedo recurrir una multa si ya la he pagado?",
-      respuesta:
-        "Depende de cómo se pagó. El pago con la reducción del 50 % dentro de los 20 días pone fin al procedimiento, supone renunciar a presentar alegaciones y deja abierta solo la vía contencioso-administrativa, con plazo desde el día siguiente al pago (artículo 94). En los demás casos, la notificación indica los recursos que caben.",
-    },
-    {
-      pregunta: "¿Qué pasa si no pago ni recurro la multa?",
-      respuesta:
-        "Si no se paga ni se alega, la denuncia actúa como resolución y la sanción se puede ejecutar a los 30 días (artículo 95.4). Cuando la sanción es firme hay 15 días naturales para pagar; después se reclama por la vía de apremio con las normas de recaudación tributaria (artículo 110). Los recargos de la Ley General Tributaria son del 5 %, del 10 % o del 20 % según el momento del pago (artículo 28).",
-    },
-    {
-      pregunta: "¿Cuándo prescribe una multa de tráfico?",
-      respuesta:
-        "Las infracciones leves prescriben a los 3 meses y las graves y muy graves a los 6 meses (art. 112 RDL 6/2015). Si pasa un año desde que se inicia el procedimiento sin resolución sancionadora, la ley prevé la caducidad.",
     },
   ];
 }
@@ -418,14 +407,11 @@ function particularidadesComun(c: Omit<Comunidad, "faq">): string[] {
     c.zbe.length > 0
       ? [`En el Punto de Acceso Nacional de la DGT constan como ZBE: ${unir(c.zbe)}.`]
       : [];
-  const propios =
-    c.organismo === "DGT"
-      ? [`En las carreteras interurbanas de ${c.nombre} sanciona la DGT; en las calles de cada municipio, su ayuntamiento.`]
-      : [];
-  const pronto = [
-    "Abonar con la rebaja del 50 % antes de que acabe el plazo cierra el expediente, y la sanción solo podrá discutirse ante los juzgados (artículo 94).",
-  ];
-  return [...propios, ...c.particularidades, ...zbe, ...pronto];
+  // 10/11/2026 (AdSense A5): solo particularidades propias de la comunidad y
+  // su lista ZBE. Las dos frases genéricas (quién sanciona en interurbanas,
+  // pronto pago) eran el mismo texto en todas las comunidades y ya están en
+  // el órgano competente y en los pasos de esta página.
+  return [...c.particularidades, ...zbe];
 }
 
 export const COMUNIDADES: Comunidad[] = BASE.map((c) => ({

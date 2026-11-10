@@ -259,7 +259,10 @@ export default function ComunidadPage() {
             </section>
           )}
 
-          {/* Particularidades de la CCAA */}
+          {/* Particularidades de la CCAA (10/11/2026 AdSense A5: solo si hay
+              datos propios; las genéricas se eliminaron de comunidades-data.ts
+              y una tarjeta vacía no aporta nada) */}
+          {c.particularidades.length > 0 && (
           <div className="space-y-3">
             <h2 className="text-xl font-black text-gray-900">
               Lo que debes saber sobre las multas en {c.nombre}
@@ -277,6 +280,7 @@ export default function ComunidadPage() {
               </CardContent>
             </Card>
           </div>
+          )}
 
           {/* Datos locales propios (Ceuta y Melilla, 01/11/2026) */}
           {c.local && (
@@ -298,17 +302,17 @@ export default function ComunidadPage() {
                 {
                   n: "1",
                   title: "Analiza tu multa con IA (gratis)",
-                  desc: "Sube tu multa a RecurreTuMulta.online. La IA detecta en segundos los defectos legales, una valoración orientativa de los motivos para recurrir (sin porcentajes) y los argumentos exactos para tu recurso.",
+                  desc: "Sube la multa: la IA detecta los defectos y los argumentos para tu recurso.",
                 },
                 {
                   n: "2",
                   title: "Revisa los argumentos detectados",
-                  desc: "Verás una lista detallada de defectos: falta de señalización, prescripción, error en la identificación del conductor, verificación caducada del radar, etc.",
+                  desc: "Verás la lista de defectos: señalización, prescripción, conductor, verificación del radar.",
                 },
                 {
                   n: "3",
                   title: "Descarga el recurso PDF listo para enviar (4,99€)",
-                  desc: "El PDF incluye todos los argumentos en lenguaje jurídico, con referencias exactas a la LTSV, el RPSANVI y la jurisprudencia del Tribunal Supremo.",
+                  desc: "El PDF trae los argumentos en lenguaje jurídico, con sus referencias legales.",
                 },
                 {
                   n: "4",
@@ -409,10 +413,10 @@ export default function ComunidadPage() {
             {radares.length > 0 ? (
               <>
                 <p className="text-sm text-gray-600 leading-relaxed">
-                  Estos son los radares fijos, de tramo y de cabina con ficha propia en {c.nombre}:
-                  carretera, punto kilométrico, sentido, límite y municipio. Si tu multa viene de uno
-                  de ellos, en su ficha verás qué revisar antes de pagar: verificación metrológica en
-                  vigor, señalización del límite y foto que identifique tu vehículo.
+                  Radares fijos, de tramo y de cabina con ficha propia en {c.nombre}:
+                  carretera, punto kilométrico, sentido, límite y municipio. En cada
+                  ficha, qué revisar antes de pagar: verificación del radar,
+                  señalización del límite y foto que identifique tu vehículo.
                 </p>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
                   {radares.map((r) => (
