@@ -1850,7 +1850,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     version: "Piega 125 ABS",
     cilindradaCc: 124,
     categoria: "Naked",
-    precioDesde: 4449,
+    precioDesde: 3999,
     potenciaKw: 10.5,
     potenciaCv: 14.28,
     autonomiaKm: null,

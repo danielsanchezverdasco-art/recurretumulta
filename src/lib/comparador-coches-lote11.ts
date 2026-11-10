@@ -1157,7 +1157,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
     modelo: "Trumpchi Xiangwang S7",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 36000,
+    precioDesde: 49995,
     potenciaCv: 335,
     autonomiaKm: 153,
     maleteroL: null,

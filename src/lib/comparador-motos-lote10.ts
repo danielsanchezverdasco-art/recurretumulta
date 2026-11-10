@@ -398,7 +398,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "Storm-S 300 ABS",
     cilindradaCc: 300,
     categoria: "Scooter",
-    precioDesde: 4490, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 4290, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 19.9,
     potenciaCv: 27,
     autonomiaKm: null,

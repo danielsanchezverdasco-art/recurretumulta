@@ -773,7 +773,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 1160,
     categoria: "Trail",
-    precioDesde: 20195,
+    precioDesde: 22845,
     potenciaKw: 110.3,
     potenciaCv: 150,
     autonomiaKm: null,

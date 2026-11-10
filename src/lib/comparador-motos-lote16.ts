@@ -1393,7 +1393,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     modelo: "Bora+",
     version: "2025",
     categoria: "Scooter",
-    precioDesde: 2500, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 1990, // tarifa oficial España (verificado 20/10/2026)
     potenciaKw: 2,
     potenciaCv: 2.7,
     autonomiaKm: 75,
@@ -2287,7 +2287,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 471,
     categoria: "Deportiva",
-    precioDesde: 7475,
+    precioDesde: 7400,
     potenciaKw: 35.0,
     potenciaCv: 47.0,
     autonomiaKm: 480,
