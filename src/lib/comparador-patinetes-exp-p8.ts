@@ -1680,7 +1680,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
     videoCanal: null,
     marca: "Kaabo",
     modelo: "Wolf Warrior X",
-    precioEur: null, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
+    precioEur: 2819.9, // Kaabo no publica tarifa oficial de venta al público; solo distribuidores (verificado 20/10/2026)
     potenciaNominalW: 2200,
     potenciaPicoW: null,
     autonomiaKm: 100,
@@ -1702,7 +1702,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "2200 W nominales y 100 km declarados",
       "Disponible en tienda española (2819,90 €)",

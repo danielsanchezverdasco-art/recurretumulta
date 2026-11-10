@@ -915,7 +915,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Urban Glide",
     modelo: "EON X",
-    precioEur: null, // Urban Glide no publica PVP oficial de este modelo (verificado 20/10/2026)
+    precioEur: 1480, // Urban Glide no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: 4400,
     autonomiaKm: 140,
@@ -933,7 +933,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-eon-x-2.webp", alt: "Detalle de las ruedas de 12 pulgadas del Urban Glide EON X", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-eon-x-3.webp", alt: "Urban Glide EON X en una pista forestal", ancho: 1200, alto: 800 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble motor (2x2.200 W máximos): lo más potente de Urban Glide",
       "Batería de 1.800 Wh (60 V 30 Ah): 140 km declarados",
@@ -1163,7 +1163,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "Hiley",
     modelo: "Tiger 10 GTR",
-    precioEur: null, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
+    precioEur: 1600, // Hiley no publica PVP oficial de este modelo (verificado 20/10/2026)
     potenciaNominalW: 2800,
     potenciaPicoW: 4000,
     autonomiaKm: 80,
@@ -1181,7 +1181,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/hiley-tiger-10-gtr-2.webp", alt: "Detalle de la suspensión hidráulica del Hiley Tiger 10 GTR", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/hiley-tiger-10-gtr-3.webp", alt: "Hiley Tiger 10 GTR en una carretera de montaña", ancho: 1200, alto: 800 },
     ],
-    aprox: ["potenciaNominalW", "potenciaPicoW", "autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["potenciaNominalW", "potenciaPicoW", "autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "Doble motor (2x1.400 W, 4.000 W de pico combinados): aceleración brutal",
       "Batería de 1.800 Wh (60 V 30 Ah): 70-90 km según distribuidores europeos",
@@ -1508,7 +1508,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "smartGyro",
     marca: "SmartGyro",
     modelo: "Raptor Dual Evo",
-    precioEur: null, // sin PVP oficial verificable de Smartgyro para este modelo (verificado 20/10/2026)
+    precioEur: 949,
     potenciaNominalW: 1000,
     potenciaPicoW: 2800,
     autonomiaKm: 60,
@@ -1526,7 +1526,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/smartgyro-raptor-dual-evo-2.webp", alt: "Detalle de los frenos hidráulicos del Smartgyro Raptor Dual Evo", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/smartgyro-raptor-dual-evo-3.webp", alt: "Smartgyro Raptor Dual Evo en una pista", ancho: 1200, alto: 800 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: ["Tracción en las dos ruedas con dos motores de 500 W cada uno: los 1.000 W nominales y los 2.800 W de pico se notan arrancando en rampas cargado, sin depender solo del empuje trasero", "Frenada hidráulica en ambos ejes apoyada por la regenerativa: detiene con mordiente un conjunto de 30,4 kg que además puede llevar a un conductor de hasta 140 kg", "Pack de 768 Wh (48 V y 16 Ah) con 60 km declarados y unos 41 km reales en uso mixto: permite encadenar varios días de trayectos urbanos sin recargar cada noche", "Certificado por la DGT y listo de serie para circular legal en España, con intermitentes accionables desde el manillar, iluminación Full Line en mástil y base y app con bloqueo antirrobo"],
     contras: ["Los 30,4 kg lo sacan de cualquier rutina con escaleras o maletero alto: incluso plegado es un bulto grande que se desplaza rodando, no cargándolo a pulso", "Reponer los 768 Wh lleva unas 8 horas, así que si lo dejas seco por la mañana no vuelve a estar operativo para un segundo uso intensivo esa misma tarde", "Con los dos motores trabajando la autonomía real se queda en unos 41 km frente a los 60 km oficiales: cada salida exigente en modo dual se paga en consumo", "A 949 € pagas un segundo motor que en llano a 25 km/h apenas se aprovecha: si tu ciudad es plana, el sobreprecio frente al Raptor Evo de un solo motor no se amortiza"],
     veredicto:
@@ -1861,7 +1861,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Cecotec",
     marca: "Cecotec",
     modelo: "Bongo Serie X45 Sport Connected",
-    precioEur: null, // Cecotec ya no lo comercializa ni publica tarifa oficial (verificado 20/10/2026)
+    precioEur: 419, // Cecotec ya no lo comercializa ni publica tarifa oficial (verificado 20/10/2026)
     potenciaNominalW: 450,
     potenciaPicoW: 900,
     autonomiaKm: 45,
@@ -1879,7 +1879,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/cecotec-bongo-serie-x45-sport-connected-2.webp", alt: "Detalle del Cecotec Bongo Serie X45 Sport Connected", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/cecotec-bongo-serie-x45-sport-connected-3.webp", alt: "Cecotec Bongo Serie X45 Sport Connected en marcha", ancho: 1200, alto: 800 },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "Con solo 16 kg, es ligero para 45 km declarados",
       "450 W nominales con picos de 900 W",
@@ -2367,7 +2367,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "NAVEE",
     modelo: "V40i",
-    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
+    precioEur: 309, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 40,
@@ -2385,7 +2385,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/navee-v40i-2.webp", alt: "Detalle del Navee V40i", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/navee-v40i-3.webp", alt: "Navee V40i en una calle europea", ancho: 1200, alto: 800 },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: ["Con certificado DGT y el límite de 25 km/h de su versión para España, evita el problema de los modelos importados sin homologación para circular aquí", "Los intermitentes integrados y el faro con sensor automático lo separan de los urbanos básicos de 350 W, que obligan a señalizar los giros con el brazo", "El freno de disco trasero combinado con el freno eléctrico delantero y los neumáticos neumáticos de 10 pulgadas encajan con bordillos bajos y firme urbano sin recurrir a ruedas macizas", "Su batería de 275,4 Wh, con 36 V y 7,65 Ah, y la protección IPX5 cubren el uso diario corto manteniendo el conjunto en 17,7 kg, por debajo de su hermano V50i en batería y autonomía"],
     contras: ["Los 40 km declarados son a 15 km/h: a 25 km/h la propia marca lo deja en unos 25 km y la autonomía real recogida en la ficha se queda en 27 km, justa para ida y vuelta larga", "Con 350 W nominales, una rampa prolongada o un conductor cercano a la carga máxima de 120 kg ponen a prueba un motor pensado para ritmo urbano tranquilo", "Recargar por completo lleva unas 6 horas, así que olvidar el enchufe por la noche no se arregla con un rato de carga antes de salir por la mañana", "La ficha no recoge precio para España, por lo que no se puede valorar sobre el papel si compensa frente a un Xiaomi de potencia parecida hasta ver su importe real en tienda"],
     veredicto:
@@ -2416,7 +2416,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: null,
     marca: "NAVEE",
     modelo: "V50i",
-    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
+    precioEur: 309, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: null,
     autonomiaKm: 50,
@@ -2434,7 +2434,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/navee-v50i-2.webp", alt: "Detalle del Navee V50i", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/navee-v50i-3.webp", alt: "Navee V50i en marcha por la ciudad", ancho: 1200, alto: 800 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: ["Con certificado DGT y tope de 25 km/h, la variante i está pensada para circular como VMP en España tal cual, sin versiones deslimitadas pensadas para otros mercados", "Sus 367 Wh dejan unos 34 km reales por carga: con una ida y vuelta diaria de unos 15 km puedes espaciar la recarga a días alternos en vez de enchufarlo cada noche", "El manual europeo lo da para conductores de 25 a 120 kg, un margen que deja fuera de juego a muchos urbanos que se quedan en 100 kg de carga máxima", "Freno de disco apoyado por el freno eléctrico sobre neumáticos neumáticos de 10 pulgadas: hay frenada mecánica de verdad y algo de balón para las juntas del asfalto, sin recurrir a la rueda maciza"],
     contras: ["La recarga completa pide unas 8 horas con un cargador de solo 53,3 W según el manual: si lo vacías por la tarde, hasta la mañana siguiente no vuelve a estar al cien por cien", "Los 350 W nominales y el 18 % de pendiente máxima que declara el manual se quedan cortos en rampas largas, y más aún acercándote a su límite de 120 kg de conductor", "Los 50 km oficiales se miden a 15 km/h constantes con un conductor de 75 kg; en uso normal la propia ficha lo deja en unos 34 km, un tercio menos de lo anunciado", "Sin suspensión, el propio manual lo limita a cemento o asfalto con resaltes de menos de 1 cm y grietas de menos de 3 cm: adoquín y firme roto no son su terreno"],
     veredicto:
@@ -2465,7 +2465,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "Adrián Pérez",
     marca: "NAVEE",
     modelo: "N65i",
-    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
+    precioEur: 309, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 600,
     potenciaPicoW: 1000,
     autonomiaKm: 65,
@@ -2483,7 +2483,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/navee-n65i-2.webp", alt: "Detalle de los frenos del Navee N65i", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/navee-n65i-3.webp", alt: "Navee N65i en una ruta urbana larga", ancho: 1200, alto: 800 },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: ["Su batería de 48 V y 12,5 Ah suma 600 Wh y deja unos 44 km reales, margen de sobra para encadenar dos o tres jornadas urbanas de ida y vuelta sin buscar enchufe", "Llega con certificado DGT e intermitentes delanteros y traseros con homologación e-Mark, así que señalizar un giro no obliga a soltar el manillar en pleno tráfico", "Las cubiertas tubeless de 10,5 pulgadas y 80 mm de ancho, sobre una plataforma de 205 mm y con 86 mm de altura libre, dan una pisada muy plantada para conductores de hasta 120 kg", "El conjunto de tambor delantero, disco trasero y EABS reparte la detención entre las dos ruedas y la regeneración, útil cuando bajas una rampa del 24 % con la batería llena de equipaje en la mochila"],
     contras: ["Los 22,8 kg se notan en serio al subirlo a un cuarto sin ascensor o al meterlo en el maletero: el plegado DoubleFlip reduce el volumen, no el esfuerzo", "Agotar los 600 Wh supone unas 10 horas de cargador, así que un olvido al llegar a casa deja el trayecto de la mañana siguiente sin patinete", "No monta suspensión delantera ni trasera pese a su imagen SUV: en adoquín o firme parcheado todo el filtrado queda en manos del balón de las cubiertas de 80 mm", "Los 65 km oficiales se miden a 15 km/h con un conductor de 75 kg; a 25 km/h la propia marca ya baja a unos 53 km y en la ficha la cifra real se queda en 44 km"],
     veredicto:
@@ -2498,7 +2498,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "NAVEE",
     marca: "NAVEE",
     modelo: "V25i Pro",
-    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
+    precioEur: 309, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 600,
     autonomiaKm: 25,
@@ -2516,7 +2516,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/navee-v25i-pro-2.webp", alt: "Detalle de la pantalla del Navee V25i Pro", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/navee-v25i-pro-3.webp", alt: "Navee V25i Pro en la ciudad", ancho: 1200, alto: 800 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Pantalla LED de 4 pulgadas inclinada 14° y legible bajo el sol",
       "Sistema Smart BMS que protege la batería con 6 medidas de seguridad",
@@ -2545,7 +2545,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     videoCanal: "NAVEE",
     marca: "NAVEE",
     modelo: "V40 Pro",
-    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
+    precioEur: 399, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: null,
     potenciaPicoW: 600,
     autonomiaKm: null,
@@ -2563,7 +2563,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/navee-v40-pro-2.webp", alt: "Detalle del Navee V40 Pro", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/navee-v40-pro-3.webp", alt: "Navee V40 Pro circulando", ancho: 1200, alto: 800 },
     ],
-    aprox: [],
+    aprox: ["precioEur"],
     pros: [
       "600 W de pico: más empuje que el V40i",
       "Ranura para AirTag: antirrobo integrado",

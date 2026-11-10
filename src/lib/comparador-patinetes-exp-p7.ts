@@ -408,7 +408,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     videoCanal: null,
     marca: "NAVEE",
     modelo: "V40i Pro",
-    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
+    precioEur: 399, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 40,
@@ -430,7 +430,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: [],
+    aprox: ["precioEur"],
     pros: ["Su cifra declarada de autonomía convive con un peso contenido, así que en el V40i Pro no tienes que elegir entre llegar lejos o poder subirlo a pulso por unas escaleras.", "El empuje de pico ayuda a que las arrancadas en cuesta no se conviertan en un empujón con el pie, justo donde un patinete urbano flojo suele rendirse.", "Repartir la frenada entre el E-ABS delantero y el disco trasero da una detención más equilibrada que confiar todo a un solo sistema.", "Que admita una carga máxima amplia e incorpore intermitentes de serie lo deja mejor preparado para moverte con mochila y señalar tus giros sin accesorios añadidos."],
     contras: ["Sin precio oficial confirmado en España en la ficha, comparar su coste real frente a rivales queda a medias hasta consultarlo en tienda.", "Las seis horas de carga obligan a dejarlo enchufado con calma: no es un patinete de recargar entre un recado y el siguiente.", "Sin suspensión dedicada, los baches y adoquines quedan a merced de lo que absorban sus neumáticos, y en calles rotas eso se nota en muñecas y tobillos.", "La red de servicio técnico en España es más reducida que la de las marcas grandes, algo a tener en cuenta si surge una avería fuera de garantía."],
     veredicto:
@@ -469,7 +469,8 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
       }
     ],
     aprox: [
-      "autonomiaRealKm"
+      "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Horquilla delantera de 28 mm de recorrido y control de tracción TCS (se activa desde la app)",
@@ -496,7 +497,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
         "El TCS se activa desde la app; sin activarlo, el control de tracción no interviene"
       ]
     },
-    precioEur: null
+    precioEur: 399
   },
   {
     id: "navee-v50i-pro",
@@ -504,7 +505,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     videoCanal: null,
     marca: "NAVEE",
     modelo: "V50i Pro",
-    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
+    precioEur: 399, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 350,
     potenciaPicoW: 700,
     autonomiaKm: 50,
@@ -526,7 +527,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: [],
+    aprox: ["precioEur"],
     pros: ["Con 367 Wh bajo el reposapiés se coloca como el integrante de la serie V pensado para espaciar enchufes: la ficha oficial le atribuye 50 km por carga.", "Pesa 18,3 kg pese a esa batería generosa, un equilibrio que se agradece si toca subirlo a un ascensor o meterlo en el maletero entre semana.", "Admite hasta 120 kg encima de la plataforma, margen útil para conductores corpulentos o para llevar mochila pesada sin ir al límite.", "Combina E-ABS delante con disco detrás, reparto menos habitual en patinetes de diario, y monta cubiertas de 10 pulgadas.", "Los 700 W de pico frente a los 350 W nominales le dan un empujón extra en arranques, y trae intermitentes integrados de fábrica."],
     contras: ["Recargar esos 367 Wh lleva 8 horas según la propia ficha: si lo vacías por la tarde, queda en el enchufe toda la noche.", "La ficha no consigna precio en España (precioEur vacío), así que no hay PVP oficial contrastable en la fuente enlazada para compararlo.", "Carece de suspensión específica, por lo que adoquines, juntas de dilatación y bordillos bajos se notan tal cual en manillar y plataforma.", "La cifra de 50 km corresponde a la medición a 15 km/h que recoge la ficha; circulando a su tope de 25 km/h esa distancia se acorta."],
     veredicto:
@@ -543,7 +544,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
     videoCanal: null,
     marca: "NAVEE",
     modelo: "V40",
-    precioEur: null, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
+    precioEur: 399, // NAVEE no publica tarifa oficial para este modelo en su tienda europea (verificado 20/10/2026)
     potenciaNominalW: 300,
     potenciaPicoW: 600,
     autonomiaKm: 40,
@@ -565,7 +566,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: [],
+    aprox: ["precioEur"],
     pros: [
       "Solo 16,2 kg para 40 km declarados: el V más ligero",
       "Compartimento oculto para AirTag de serie",
