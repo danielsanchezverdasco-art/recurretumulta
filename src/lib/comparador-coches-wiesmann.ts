@@ -38,7 +38,7 @@ export const COCHES_WIESMANN: CocheComparador[] = [
     parNm: 1100,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm", "bateriaKwh", "pesoKg", "maleteroL", "anchoMm"],
+    aprox: ["autonomiaKm", "bateriaKwh", "pesoKg", "maleteroL", "anchoMm", "precioDesde"],
     pros: [
       "El Project Thunderball combina 680 CV y 1.100 Nm en un roadster de unos 1.775 kg para un 0-100 en 2,9 segundos",
       "Su arquitectura de 800 voltios admite carga ultrarrápida de 300 kW en corriente continua",

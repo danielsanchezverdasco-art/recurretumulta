@@ -39,7 +39,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 22,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "74 km eléctricos WLTP: trayectos diarios sin gasolina",
       "Etiqueta Cero con acceso total a ZBE",
@@ -220,7 +220,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
     parNm: 520,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "Hasta 906 km WLTP: récord entre berlinas eléctricas",
       "Arquitectura 800 V con carga ultrarrápida",
@@ -840,7 +840,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "18.368 € con 7 plazas: el SUV familiar más barato de España",
       "Se vende oficialmente en España con garantía de 5 años",
@@ -1104,7 +1104,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Desde 30.770 € en España con etiqueta ECO",
       "Berlina compacta de 4,44 m con maletero de 438 litros",
@@ -1632,7 +1632,7 @@ export const COCHES_LOTE3: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Precio europeo desde 35.550 €, muy competitivo dentro de su segmento",
       "Cobertura de 7 años o 160.000 km incluida",

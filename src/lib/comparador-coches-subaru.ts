@@ -54,7 +54,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
     parNm: 248,
     traccion: "Total",
     emisionesCo2: 183,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/subaru-forester-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -148,7 +148,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
     parNm: 248,
     traccion: "Total",
     emisionesCo2: 174,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/subaru-crosstrek-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -229,7 +229,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/subaru-solterra-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -310,7 +310,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
     parNm: 252,
     traccion: "Total",
     emisionesCo2: 193,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/subaru-outback-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -391,7 +391,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/subaru-uncharted-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -439,7 +439,8 @@ export const COCHES_SUBARU: CocheComparador[] = [
     modelo: "E-Outback",
     tipo: "Eléctrico",
     categoria: "Familiar",
-    precioDesde: 44000, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 44000,
+    fuenteNombre: "Subaru — tarifa oficial España", // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 376,
     autonomiaKm: 523,
     maleteroL: 633,
@@ -541,7 +542,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
     parNm: 437,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["pesoKg", "consumo", "parNm"],
+    aprox: ["pesoKg", "consumo", "parNm", "precioDesde"],
     imagen: "/media/subaru-solterra-trek-4wd-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 2.7, "costeMensualTotal": 97, "estimado": true, "mantenimientoAnual": 250, "notas": "Cifra propia de este Trek: a 15,2 kWh cada 100 km y 0,18 € el kWh doméstico salen 2,7 € por cada 100 km. Sumando 15.000 km al año, seguro a terceros de 500 € y 250 € de mantenimiento se llega a unos 97 € al mes.", "precioGasolinaL": 1.55, "precioKwh": 0.18, "seguroAmpliadoAnual": 850, "seguroTercerosAnual": 500},
@@ -581,7 +582,8 @@ export const COCHES_SUBARU: CocheComparador[] = [
     modelo: "Uncharted Field",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 37500, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 37500,
+    fuenteNombre: "Subaru — tarifa oficial España", // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 227,
     autonomiaKm: 588,
     maleteroL: 404,
@@ -683,7 +685,7 @@ export const COCHES_SUBARU: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["potenciaCv"],
+    aprox: ["potenciaCv", "precioDesde"],
     imagen: "/media/subaru-uncharted-touring-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 3, "costeMensualTotal": 99, "estimado": true, "mantenimientoAnual": 250, "notas": "Estimación para el Touring de dos motores y llantas de 20 pulgadas: se parte de unos 16,5 kWh por cada 100 km, todavía sin consumo WLTP cerrado de esta versión en la ficha, y de un precio doméstico de 0,18 euros por kWh, de ahí los 3 euros por cada 100 km. El kilometraje de referencia es de 15.000 al año; seguro y mantenimiento son importes estimados en octubre de 2026, no una tarifa cerrada de Subaru España.", "precioGasolinaL": 1.55, "precioKwh": 0.18, "seguroAmpliadoAnual": 825, "seguroTercerosAnual": 475},

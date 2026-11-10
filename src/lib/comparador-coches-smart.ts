@@ -79,7 +79,7 @@ export const COCHES_SMART: CocheComparador[] = [
     parNm: 130,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     imagen: "/media/smart-2-2026-precio-autonomia-paris-hero.webp",
     analisisSlug: "smart-2-2026-precio-autonomia-paris",
     opiniones: [],
@@ -163,7 +163,7 @@ export const COCHES_SMART: CocheComparador[] = [
     parNm: 343,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     imagen: "/media/smart-3-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -244,7 +244,7 @@ export const COCHES_SMART: CocheComparador[] = [
     parNm: 543,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/smart-3-brabus-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -307,7 +307,7 @@ export const COCHES_SMART: CocheComparador[] = [
     "parNm": 343,
     "traccion": "Trasera",
     "emisionesCo2": 0,
-    "aprox": [],
+    "aprox": ["precioDesde"],
     "pros": [
       "31.400 €: el smart eléctrico más barato, 7.000 € menos que el anterior acceso",
       "272 CV y 343 Nm con tracción trasera: potencia de sobra para un B-SUV",
@@ -388,7 +388,7 @@ export const COCHES_SMART: CocheComparador[] = [
     "parNm": 343,
     "traccion": "Trasera",
     "emisionesCo2": 0,
-    "aprox": [],
+    "aprox": ["precioDesde"],
     "pros": [
       "35.600 €: 7.800 € menos que el Pro+ con la misma batería de 66 kWh",
       "420 km WLTP: 110 km más que el Pure por solo 4.200 € más",
@@ -620,7 +620,7 @@ export const COCHES_SMART: CocheComparador[] = [
     "parNm": 343,
     "traccion": "Trasera",
     "emisionesCo2": 0,
-    "aprox": [],
+    "aprox": ["precioDesde"],
     "pros": [
       "440 km WLTP: la mayor autonomía de los #1 de un motor",
       "40.700 € (km77, tarifa 08/2026): el tope de gama racional",
@@ -702,7 +702,8 @@ export const COCHES_SMART: CocheComparador[] = [
     "traccion": "Total",
     "emisionesCo2": 0,
     "aprox": [
-      "autonomiaKm"
+      "autonomiaKm",
+      "precioDesde",
     ],
     "pros": ["Es el salto a los dos motores sin pagar el Brabus: 428 CV y el 0 a 100 en 4,5 segundos dentro de un B-SUV de solo 4,27 metros", "41.166 € según km77 (tarifa 12/2025): por 466 € más que el Premium cambia el motor trasero único por tracción a las cuatro ruedas", "Enchufa como los grandes de la casa: 150 kW en continua para recuperar del 10 al 80 % en media hora escasa y cargador de 22 kW en alterna", "También trabaja remolcando: admite hasta 1.600 kg con freno, una cifra rara en un eléctrico compacto de este tamaño", "Su carrocería firmó un 96 % en protección de adultos en Euro NCAP 2022, por encima del Tesla Model S probado aquel mismo año"],
     "contras": ["Sus 400 km WLTP se quedan 40 por debajo del Premium de un solo motor, que anuncia 440 llevando idéntica batería de 66 kWh", "El Brabus comparte motores y batería y baja hasta 3,9 segundos: el Pulse ahorra 5.044 €, pero renuncia a su chasis específico y a su imagen", "Homologa 18,2 kWh/100 km según JATO: en autopista el segundo motor se cobra su peaje en consumo y en paradas de carga", "El maletero de 288 litros que recoge esta ficha se queda corto para cinco ocupantes en un viaje largo con equipaje", "Ronda las 1,9 toneladas con conductor según JATO: frenos y neumáticos trabajarán como los de un SUV de un segmento superior"],
@@ -764,7 +765,7 @@ export const COCHES_SMART: CocheComparador[] = [
     "parNm": 543,
     "traccion": "Total",
     "emisionesCo2": 0,
-    "aprox": [],
+    "aprox": ["precioDesde"],
     "pros": [
       "428 CV y 543 Nm: 0-100 en 3,9 s, el #1 más rápido",
       "46.210 € (km77): el Brabus más asequible de la historia",
@@ -845,7 +846,7 @@ export const COCHES_SMART: CocheComparador[] = [
     "parNm": 343,
     "traccion": "Trasera",
     "emisionesCo2": 0,
-    "aprox": [],
+    "aprox": ["precioDesde"],
     "pros": [
       "SUV coupé con 272 CV y tracción trasera: el #3 más divertido de acceso",
       "Batería LFP de 49 kWh: admite el 100 % diario sin degradar",
@@ -997,7 +998,8 @@ export const COCHES_SMART: CocheComparador[] = [
     "emisionesCo2": 0,
     "aprox": [
       "autonomiaKm",
-      "ceroCien"
+      "ceroCien",
+      "precioDesde",
     ],
     "pros": [
       "48.000 €: el #5 más asequible, 5.000 € menos que el Pro+",
@@ -1080,7 +1082,8 @@ export const COCHES_SMART: CocheComparador[] = [
     "traccion": "Trasera",
     "emisionesCo2": 0,
     "aprox": [
-      "cargaRapidaKw"
+      "cargaRapidaKw",
+      "precioDesde",
     ],
     "pros": [
       "590 km WLTP: la mayor autonomía de todo smart",
@@ -1163,7 +1166,8 @@ export const COCHES_SMART: CocheComparador[] = [
     "traccion": "Trasera",
     "emisionesCo2": 0,
     "aprox": [
-      "cargaRapidaKw"
+      "cargaRapidaKw",
+      "precioDesde",
     ],
     "pros": ["Autonomía homologada de 590 kilómetros que permite afrontar viajes largos sin encadenar paradas constantes", "Empuje de 363 CV enviado al eje posterior, con salida hasta cien en 6,5 segundos", "Admite recargas de hasta 400 kW apoyándose en su plataforma de ochocientos voltios y acumulador de 100 kWh", "Cabina planteada como salón rodante, con tres pantallas seguidas y butacas especialmente mullidas en trayectos largos", "Ningún smart anterior fue tan grande: sus 630 litros de maletero resumen el salto de la etapa Geely"],
     "contras": ["Pagar 57.500 euros duele cuando el Pro+ recurre al mismo conjunto propulsor y resulta claramente más asequible", "Por idéntica tarifa, el Pulse incorpora tracción integral, dejando a este Premium en una posición comercial incómoda", "La química NMC desaconseja abusar de cargas completas si pretendes preservar la salud del acumulador con los años", "Moverse a diario entre garajes estrechos se complica con 1,92 metros de anchura y 4,71 de longitud", "En este escalón ya acechan Tesla Model Y, Hyundai Ioniq 5, Kia EV6 y alternativas alemanas con red consolidada"],
@@ -1236,7 +1240,8 @@ export const COCHES_SMART: CocheComparador[] = [
     "aprox": [
       "potenciaCv",
       "autonomiaKm",
-      "cargaRapidaKw"
+      "cargaRapidaKw",
+      "precioDesde",
     ],
     "pros": ["Es la puerta de entrada a la tracción total en el #5: dos motores, uno por eje, que suman 587 CV y dejan el sprint hasta 100 km/h en 4,9 segundos", "Cuesta lo mismo que el Premium, 57.500 euros, pero juega a otra cosa: cambia el salón rodante de tracción trasera por un segundo motor, tracción integral inteligente y 224 CV extra", "Su cabina se reconoce por la doble pantalla central OLED en formato extra ancho, y suma bomba de calor para que el invierno no se coma la autonomía", "Llega con el sello de SUV grande mejor puntuado por Euro NCAP en 2025: 93 % en protección infantil y 92 % en asistentes, las notas más altas de su año en ambas áreas", "También trabaja cargando: 630 litros de maletero trasero, otros 47 en el delantero y hasta 1.600 kg de remolque con freno si se equipa el enganche"],
     "contras": ["Su consumo homologado de 19,9 kWh/100 km empata con el del Brabus como el más alto de la gama: por eso se queda en 540 km mientras las versiones de un solo motor anuncian 590", "Pesa 2.345 kg en vacío y calza neumáticos 255/45 R20: el gasto en gomas y frenos será el de un SUV grande, no el de los smart urbanos de antes", "El pack NMC de 94 kWh útiles pide mesura al enchufar cada noche: reservar la carga completa para los días de viaje largo ayuda a cuidar su degradación", "Quien busque lo máximo de la casa lo tiene a 6.160 euros de distancia: el Brabus suma 59 CV y un chasis con su firma, y deja al Pulse en un punto intermedio incómodo", "Mide 4,71 metros de largo y es el smart más familiar y menos urbano de la historia de la marca: en un garaje estrecho se nota cada centímetro de más"],
@@ -1301,7 +1306,8 @@ export const COCHES_SMART: CocheComparador[] = [
     "aprox": [
       "potenciaCv",
       "autonomiaKm",
-      "cargaRapidaKw"
+      "cargaRapidaKw",
+      "precioDesde",
     ],
     "pros": [
       "Edición aventurera con pack off-road: baca, escalera y protecciones",
@@ -1385,7 +1391,8 @@ export const COCHES_SMART: CocheComparador[] = [
     "emisionesCo2": 0,
     "aprox": [
       "autonomiaKm",
-      "cargaRapidaKw"
+      "cargaRapidaKw",
+      "precioDesde",
     ],
     "pros": [
       "646 CV: el smart más potente de la historia, 0-100 en 3,8 s",

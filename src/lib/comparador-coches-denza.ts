@@ -40,7 +40,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     parNm: 681,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "210 km eléctricos WLTP: el PHEV con más autonomía eléctrica del segmento",
       "950 km de autonomía combinada para viajar sin parar",
@@ -829,7 +829,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     parNm: 1035,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "775 CV y 1.035 Nm: 0-100 en 3,6 s con carrocería familiar",
       "Batería de 63,8 kWh: 203 km eléctricos, récord en un PHEV",
@@ -907,7 +907,7 @@ export const COCHES_DENZA: CocheComparador[] = [
     parNm: 1210,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "1.156 CV con tres motores: 0-100 en 2,7 s, nivel hipercoche",
       "Batería de 122,5 kWh: la más grande montada en un coche en Europa",

@@ -36,7 +36,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "Desde 27.500 €: el SUV chino más barato de su tamaño",
       "Maletero de 480 L, ampliable a 1.284 L",
@@ -124,7 +124,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     parNm: 210,
     traccion: "Delantera",
     emisionesCo2: 200,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "7 plazas de verdad por menos de 26.000 €",
       "Versión GLP con etiqueta ECO disponible",
@@ -297,7 +297,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     parNm: 255,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Desde 26.200 €: la eléctrica de reparto más asequible",
       "Batería LFP de 50 kWh: 238 km WLTP (371 km en ciudad)",
@@ -384,7 +384,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 207,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "Desde 20.800 €: imbatible por precio en su tamaño",
       "2.0 diésel de 170 CV con cambio manual",
@@ -472,7 +472,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     parNm: 240,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Batería LFP de 64 kWh: 335 km WLTP",
       "Carga rápida de 70 kW: 20-80 % en 36 minutos",
@@ -559,7 +559,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     parNm: 450,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "530 km WLTP: la mayor autonomía de la gama P7+",
       "Carga de 446 kW: 10-80 % en 12 minutos",
@@ -733,7 +733,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     parNm: 343,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Cinco estrellas Euro NCAP en 2024 y premio Best in Class entre los SUV pequeños eléctricos de ese año", "Un único motor trasero de 272 CV y 343 Nm lo lleva a 100 km/h en 5,9 segundos", "La Core española parte de 37.137 euros con batería LFP de 49 kWh y etiqueta Cero de la DGT", "Con 4.432 mm de largo entra en huecos urbanos donde un SUV mediano ya obliga a maniobrar de más", "La batería queda cubierta durante ocho años o 200.000 km, margen amplio para un eléctrico de este precio"],
     contras: ["Solo homologa 330 km WLTP: en autopista invernal la autonomía útil cae bastante y exige planificar cada parada", "El maletero se queda en 362 litros, escaso si viajas con sillita, maletas grandes y carrito a la vez", "Su pico en corriente continua es de 130 kW, por debajo de lo que ofrecen versiones superiores del propio X", "Pesa 1.855 kg pese a medir 4,43 metros, lastre que explica un consumo homologado de 17,4 kWh cada 100 km", "Zeekr recién aterriza en España: su red de ventas y talleres todavía no iguala la cobertura de marcas asentadas"],
     imagen: "",
@@ -1061,7 +1061,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     parNm: 535,
     traccion: "Delantera",
     emisionesCo2: 20,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Los 75 km de autonomía eléctrica homologada le dan la etiqueta Cero de la DGT y permiten hacer el trayecto diario al trabajo sin arrancar el motor de gasolina, si se enchufa cada noche.", "276 CV y 535 Nm para un SUV de 4,54 metros: acelera de 0 a 100 km/h en 7,7 segundos, una cifra más propia de un compacto deportivo que de un enchufable familiar.", "Cinco estrellas Euro NCAP en 2021, con un 96 % en protección de ocupantes adultos y la nota máxima en impacto lateral, herencia directa de compartir plataforma CMA con el Volvo XC40.", "El consumo homologado de 0,9 l/100 km y las emisiones de 20 g/km de CO2 salen de la actualización del sistema híbrido, que subió la potencia desde los 261 CV anteriores sin empeorar la eficiencia.", "La pantalla central de 15,4 pulgadas con procesador Snapdragon 8155 de la versión renovada corrige la lentitud del sistema multimedia original, uno de los puntos más criticados del primer 01 europeo."],
     contras: ["El maletero se queda en 349 litros según la ficha, poco para un SUV familiar de este tamaño y claramente por debajo de lo que espera quien carga maletas o un carrito a diario.", "La batería de 17,7 kWh no admite carga rápida en corriente continua, así que aprovechar un cargador público en una parada corta no es una opción real: toca cargar en alterna y con tiempo.", "Pesa 1.879 kg y toda la potencia va solo a las ruedas delanteras; con 535 Nm de par, en firme mojado o en salidas fuertes la electrónica tiene trabajo extra para evitar pérdidas de tracción.", "Su base técnica viene de un modelo presentado en 2016 y vendido en China desde 2017, así que, aunque la actualización de 2024 lo puso al día, no es un diseño de última generación frente a enchufables recién lanzados."],
     imagen: "/media/lynk-co-01-2026-precio-ficha-tecnica-hero.webp",
@@ -1224,7 +1224,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     parNm: 320,
     traccion: null,
     emisionesCo2: 10,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "5 estrellas Euro NCAP (2024)",
       "145 km eléctricos + extensor: sin ansiedad",
@@ -1312,7 +1312,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     parNm: 615,
     traccion: "Delantera",
     emisionesCo2: 23,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Hasta 200 km WLTP sin quemar gasolina, apoyados en una batería de 39,6 kWh que aplaza semanas el primer repostaje", "Acepta corriente continua a 85 kW, rareza entre los enchufables, recuperando del 10 al 80 % en 33 minutos", "Sumando depósito y batería declara más de 1.000 km combinados, margen que desdramatiza los viajes largos sin planificar paradas", "Euro NCAP lo situó en lo más alto en septiembre de 2025: cinco estrellas y mejor nota entre los PHEV evaluados", "Sus 345 CV y 615 Nm mueven el conjunto con soltura, cerrando el sprint hasta 100 km/h en 6,8 segundos"],
     contras: ["Partir de 52.995 euros lo enfrenta a BMW X3, Audi Q5 y Mercedes-Benz GLC, rivales con red española mucho más densa", "Los 2.112 kg condicionan agilidad y frenadas, y penalizan el gasto cuando la batería ya no aporta energía", "Toda la fuerza pasa por delante: con 615 Nm, arrancar fuerte obliga a la electrónica a contener pérdidas de tracción", "A pesar de medir 4,82 metros de longitud, homologa cinco plazas únicamente, sin tercera fila disponible ni como opción", "La marca sigue siendo minoritaria en España, así que su valor de reventa permanece por demostrar frente a fabricantes asentados"],
     imagen: "/media/lynk-co-08-emp-2026-precio-ficha-tecnica-hero.webp",
@@ -1470,7 +1470,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     parNm: 295,
     traccion: "Delantera",
     emisionesCo2: 120,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "5 estrellas Euro NCAP (Omoda 5, 2022)",
       "224 CV híbridos por 29.400 €",
@@ -1959,7 +1959,7 @@ export const COCHES_NUEVOS_C2: CocheComparador[] = [
     parNm: 210,
     traccion: "Delantera",
     emisionesCo2: 168,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Desde 22.400 € con cambio automático CVT de serie",
       "Versión thermohybrid GLP con etiqueta ECO",

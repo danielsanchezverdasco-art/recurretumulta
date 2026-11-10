@@ -180,7 +180,7 @@ export const COCHES_EXP22: CocheComparador[] = [
     parNm: 132,
     traccion: "Delantera",
     emisionesCo2: 189,
-    aprox: ["potenciaCv", "velocidadMax", "parNm", "emisionesCo2"],
+    aprox: ["potenciaCv", "velocidadMax", "parNm", "emisionesCo2", "precioDesde"],
     pros: [
       "Desde 19.900 €: uno de los SUV más baratos del mercado",
       "Maletero de 340 litros ampliable a 1.100 l",

@@ -55,7 +55,7 @@ export const COCHES_BYD: CocheComparador[] = [
     parNm: 310,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/byd-dolphin-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -105,6 +105,7 @@ export const COCHES_BYD: CocheComparador[] = [
     tipo: "Eléctrico",
     categoria: "Berlina",
     precioDesde: 37115,
+    fuenteNombre: "BYD España — tarifa oficial (abril 2026)",
     potenciaCv: 313,
     autonomiaKm: 570,
     maleteroL: 485,
@@ -215,7 +216,7 @@ export const COCHES_BYD: CocheComparador[] = [
     parNm: 670,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/byd-seal-excellence-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -292,7 +293,7 @@ export const COCHES_BYD: CocheComparador[] = [
     parNm: 310,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/byd-seal-u-ev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -369,7 +370,7 @@ export const COCHES_BYD: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 20,
-    aprox: ["pesoKg", "parNm"],
+    aprox: ["pesoKg", "parNm", "precioDesde"],
     imagen: "/media/byd-seal-6-dm-i-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -451,7 +452,7 @@ export const COCHES_BYD: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 20,
-    aprox: ["pesoKg", "parNm"],
+    aprox: ["pesoKg", "parNm", "precioDesde"],
     imagen: "/media/byd-seal-6-dm-i-touring-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -529,7 +530,7 @@ export const COCHES_BYD: CocheComparador[] = [
     parNm: 380,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/byd-sealion-7-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -594,7 +595,7 @@ export const COCHES_BYD: CocheComparador[] = [
     parNm: 690,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/byd-sealion-7-excellence-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -665,7 +666,7 @@ export const COCHES_BYD: CocheComparador[] = [
     parNm: 700,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/byd-han-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -744,7 +745,7 @@ export const COCHES_BYD: CocheComparador[] = [
     parNm: 700,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     imagen: "/media/byd-tang-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -821,7 +822,7 @@ export const COCHES_BYD: CocheComparador[] = [
     parNm: 380,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["pesoKg", "velocidadMax"],
+    aprox: ["pesoKg", "velocidadMax", "precioDesde"],
     imagen: "/media/byd-atto-3-evo-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -979,7 +980,7 @@ export const COCHES_BYD: CocheComparador[] = [
     parNm: 180,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm", "ceroCien", "cargaRapidaKw", "pesoKg", "consumo"],
+    aprox: ["autonomiaKm", "ceroCien", "cargaRapidaKw", "pesoKg", "consumo", "precioDesde"],
     imagen: "/media/byd-dolphin-active-95-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1048,7 +1049,7 @@ export const COCHES_BYD: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 22,
-    aprox: ["potenciaCv", "ceroCien", "pesoKg", "consumo", "emisionesCo2"],
+    aprox: ["potenciaCv", "ceroCien", "pesoKg", "consumo", "emisionesCo2", "precioDesde"],
     imagen: "/media/byd-dolphin-g-dmi-active-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

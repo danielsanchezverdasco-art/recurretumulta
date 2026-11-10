@@ -51,7 +51,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 870,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volvo-ex90-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -134,7 +134,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 480,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volvo-es90-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -217,7 +217,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 480,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volvo-ex60-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -300,7 +300,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 710,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volvo-ex60-cross-country-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -383,7 +383,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 543,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volvo-ex30-cross-country-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -466,7 +466,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 420,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volvo-ec40-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -549,7 +549,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 420,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volvo-ex40-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -632,7 +632,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 360,
     traccion: "Total",
     emisionesCo2: 169,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volvo-xc60-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -715,7 +715,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volvo-xc60-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -796,7 +796,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 360,
     traccion: "Total",
     emisionesCo2: 191,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volvo-xc90-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -867,7 +867,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 709,
     traccion: "Total",
     emisionesCo2: 30,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volvo-xc90-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -951,7 +951,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 265,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volvo-xc40-b3-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1032,7 +1032,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volvo-v60-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1103,7 +1103,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 17,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volvo-v60-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1186,7 +1186,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 18,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volvo-v90-t6-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1316,7 +1316,8 @@ export const COCHES_VOLVO: CocheComparador[] = [
     modelo: "EX30 Twin Motor Performance",
     tipo: "Eléctrico",
     categoria: "SUV",
-    precioDesde: 47961, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 47961,
+    fuenteNombre: "Volvo — tarifa oficial España", // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 428,
     autonomiaKm: 450,
     maleteroL: 318,
@@ -1580,7 +1581,7 @@ export const COCHES_VOLVO: CocheComparador[] = [
     parNm: 659,
     traccion: "Total",
     emisionesCo2: 19,
-    aprox: ["autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg", "precioDesde"],
     imagen: "/media/volvo-xc60-t6-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1859,7 +1860,8 @@ export const COCHES_VOLVO: CocheComparador[] = [
     modelo: "V60 Cross Country B5",
     tipo: "Híbrido ligero",
     categoria: "Familiar",
-    precioDesde: 58200, // tarifa oficial España (verificado 20/10/2026)
+    precioDesde: 58200,
+    fuenteNombre: "Volvo — tarifa oficial España", // tarifa oficial España (verificado 20/10/2026)
     potenciaCv: 250,
     autonomiaKm: null,
     maleteroL: 529,

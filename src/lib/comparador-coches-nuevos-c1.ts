@@ -35,7 +35,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 34,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Con 212 CV en el Boost, este SUV de 4,33 m cubre el 0 a 100 km/h en 7,5 segundos, un ritmo impropio de enchufables urbanos generalistas", "Los 90 km eléctricos homologados del Boost dan para cubrir la jornada sin arrancar el gasolina 1,5, siempre que cada noche duerma enchufado en casa", "Sumando depósito lleno y batería cargada, BYD declara hasta 1.000 km seguidos: viajar lejos no exige planificar paradas como sí ocurre en su hermano eléctrico", "Homologa solo 34 g/km de CO2 y luce distintivo Cero, el mismo de un eléctrico puro, pese a conservar gasolina de respaldo para trayectos largos", "La Blade de 18 kWh queda cubierta ocho años o 200.000 km hasta el 70 % de capacidad, respaldo prolongado para un nombre recién aterrizado"],
     contras: ["Recargar exige paciencia: no admite corriente continua y el Boost se limita a 6,6 kW en alterna, unas tres horas del 15 al 100 % según BYD", "Marca 1.620 kg pesando solo 4,33 m de largo; cargar con dos motores y batería se paga en agilidad frente a SUV urbanos de gasolina", "El escalón Active recorta mucho el planteamiento: baja a 166 CV, deja la batería en 7,8 kWh y se conforma con 40 km eléctricos homologados", "Aún no consta choque puntuado por Euro NCAP para este modelo; lo publicado en 2024 fue Green NCAP del eléctrico, que valora eficiencia, no seguridad pasiva", "Los 28.200 € de tarifa conviven con anuncios desde 18.190 € condicionados a ayudas, achatarramiento y financiación: el coste final solo se entiende leyendo condiciones"],
     imagen: "/media/byd-atto-2-dm-i-2026-precio-ficha-tecnica-hero.webp",
@@ -428,7 +428,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     parNm: 350,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["maleteroL", "garantiaBateriaAnos", "garantiaBateriaKm", "garantiaBateriaDegradacionPct"],
+    aprox: ["maleteroL", "garantiaBateriaAnos", "garantiaBateriaKm", "garantiaBateriaDegradacionPct", "precioDesde"],
     pros: [
       "Sustituto del Marvel R: 245 CV, 530 km WLTP y 0-100 en 7,3 s",
       "Carga rápida de 144 kW: del 10 al 80 % en 38 minutos",
@@ -496,7 +496,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["maleteroL", "ceroCien", "largoMm", "consumo", "garantiaBateriaAnos", "garantiaBateriaKm"],
+    aprox: ["maleteroL", "ceroCien", "largoMm", "consumo", "garantiaBateriaAnos", "garantiaBateriaKm", "precioDesde"],
     pros: [
       "197 CV híbridos desde 20.340 €: el SUV híbrido más barato de su tamaño",
       "Etiqueta ECO con consumos en torno a 5 l/100 km",
@@ -1014,7 +1014,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["garantiaBateriaDegradacionPct"],
+    aprox: ["garantiaBateriaDegradacionPct", "precioDesde"],
     pros: [
       "500 km WLTP con batería LFP de 78 kWh y 258 CV de propulsión trasera",
       "Carga ultrarrápida de 200 kW: del 10 al 80 % en 24 minutos",
@@ -1416,7 +1416,7 @@ export const COCHES_NUEVOS_C1: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["garantiaBateriaDegradacionPct"],
+    aprox: ["garantiaBateriaDegradacionPct", "precioDesde"],
     pros: [
       "SUV eléctrico de 204 CV con 435 km WLTP desde 37.500 € (23.850 € con ayudas)",
       "Carga rápida de 120 kW y bomba de calor de serie",

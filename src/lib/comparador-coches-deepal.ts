@@ -55,7 +55,7 @@ export const COCHES_DEEPAL: CocheComparador[] = [
     parNm: 290,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/deepal-s05-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -149,7 +149,7 @@ export const COCHES_DEEPAL: CocheComparador[] = [
     parNm: 502,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/deepal-s05-awd-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -243,7 +243,7 @@ export const COCHES_DEEPAL: CocheComparador[] = [
     parNm: 290,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     imagen: "/media/deepal-s05-phev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {

@@ -57,7 +57,7 @@ export const COCHES_LEPAS: CocheComparador[] = [
     parNm: 275,
     traccion: null,
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lepas-l4-ev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -135,7 +135,7 @@ export const COCHES_LEPAS: CocheComparador[] = [
     parNm: 275,
     traccion: null,
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lepas-l6-ev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

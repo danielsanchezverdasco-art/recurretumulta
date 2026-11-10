@@ -57,7 +57,7 @@ export const COCHES_EXP16: CocheComparador[] = [
     parNm: 335,
     traccion: "Delantera",
     emisionesCo2: 134,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/honda-cr-v-ehev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -519,7 +519,7 @@ export const COCHES_EXP16: CocheComparador[] = [
     parNm: 310,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/honda-e-ny1-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -596,7 +596,7 @@ export const COCHES_EXP16: CocheComparador[] = [
     parNm: 238,
     traccion: "Delantera",
     emisionesCo2: 130,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-3-25-e-skyactiv-g-sedan-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -673,7 +673,7 @@ export const COCHES_EXP16: CocheComparador[] = [
     parNm: 152,
     traccion: "Trasera",
     emisionesCo2: 142,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -817,7 +817,7 @@ export const COCHES_EXP16: CocheComparador[] = [
     parNm: 550,
     traccion: "Total",
     emisionesCo2: 148,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-cx-80-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

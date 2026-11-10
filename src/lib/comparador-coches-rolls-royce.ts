@@ -39,7 +39,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     parNm: 900,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "V12 biturbo de 6,75 litros con 571 CV y 900 Nm: el silencio como bandera",
       "El coche más silencioso del mundo: cristales dobles de 6 mm y 130 kg de aislante",
@@ -525,7 +525,7 @@ export const COCHES_ROLLS_ROYCE: CocheComparador[] = [
     parNm: 900,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: ["La propulsión eléctrica le va a Goodwood como un guante: marcha en silencio casi absoluto, entrega inmediata de 900 Nm y tracción total, y aun así firma 4,5 segundos en el 0 a 100 sin que se oiga trabajar a la mecánica.", "En su año modelo 2026 sigue sin un rival eléctrico directo: un Bentley Continental GT o un Mercedes-Maybach juegan a la combustión o al híbrido, mientras este coupé circula con etiqueta Cero y entra sin restricciones en las zonas restringidas.", "Pensado para gran turismo y no para trayectos cortos de escaparate: homologa 530 km, gasta 22,2 kWh/100 km pese a su envergadura y permite escapadas largas sin vivir pendiente del enchufe, algo impensable en un Rolls-Royce de otra época.", "Alimentar su batería de 102 kWh no se eterniza en ruta, porque admite carga continua de hasta 195 kW: las paradas en viajes largos se acortan y el coche recupera el papel de devorador de autovías para el que nació su silueta.", "Conserva intacto el ceremonial de la casa —silueta fastback de 5.475 mm de largo, presencia solemne y acabado artesanal a medida— pero lo envuelve en un automóvil sin tubo de escape y con 0 emisiones de CO2 en marcha."],
     contras: ["Partir de 520.000 € antes de pasar por el programa de personalización de la casa lo aleja incluso de la órbita de un Porsche Taycan Turbo muy equipado o de la mayoría de Continental GT nuevos: aquí se paga estatus, no relación potencia-precio.", "Sobre la báscula marca 2.890 kg y no hay puesta a punto que lo disimule en un puerto de montaña: frena, gira y cambia de apoyo como un transatlántico muy rápido, concebido para autovía despejada y no para carreteras de curvas enlazadas.", "La parte práctica queda en anécdota: solo ofrece 4 plazas y un maletero de 368 litros, poco generoso para un coche que supera los dos metros de anchura y complica tanto el equipaje de una escapada como aparcar en ciudad.", "Quien busque una calificación oficial de choque para contrastarla no la encontrará: la marca no ha sometido este modelo a las pruebas de Euro NCAP, así que su seguridad estructural no tiene una nota pública que la respalde.", "Fuera de la red de carga potente, su gran batería juega en su contra: sin un cargador capaz de acercarse a su techo de carga, reponer 102 kWh se vuelve una espera larga y muy poco glamurosa para un coche de este precio."],
     imagen: "/media/rolls-royce-spectre-2026-precio-ficha-tecnica-hero.webp",

@@ -36,7 +36,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
     parNm: 430,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomia"],
+    aprox: ["precio", "autonomia", "precioDesde"],
     pros: [
       "710 km de autonomía CLTC con 83,3 kWh y arquitectura de 800 V",
       "Cx de 0,197, el más bajo del mundo en un coche de producción",
@@ -104,7 +104,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
     parNm: 355,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio"],
+    aprox: ["precio", "precioDesde"],
     pros: [
       "Maletero de 670 litros más frunk delantero de 55 litros",
       "Puertas traseras de alas de gaviota opcionales, únicas en su precio",
@@ -172,7 +172,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
     parNm: 430,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["precio", "autonomia"],
+    aprox: ["precio", "autonomia", "precioDesde"],
     pros: [
       "350 km de autonomía eléctrica CLTC: la mayor de cualquier EREV vendido",
       "1.369 km de autonomía total con el depósito lleno y la batería cargada",
@@ -250,7 +250,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
     parNm: 1230,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomia"],
+    aprox: ["precio", "autonomia", "precioDesde"],
     pros: [
       "0-100 km/h en 1,9 segundos: al nivel del Rimac Nevera",
       "1.224 CV de tres motores con plataforma de 900 V en carburo de silicio",
@@ -318,7 +318,7 @@ export const COCHES_HYPTEC: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomia"],
+    aprox: ["precio", "autonomia", "precioDesde"],
     pros: ["Presentado en el Salón de Pekín de abril de 2026, el eléctrico trasero de 340 CV homologa 660 km en ciclo CLTC con su batería LFP de 83,3 kWh", "LiDAR de serie en las cuatro versiones, con ADiGO GSD 3.0 apoyado en el modelo R6 de Momenta y 27 unidades de percepción", "Sobre su plataforma de 800 V pasa del 30 al 80 % de carga en un cuarto de hora", "Neumática de doble cámara y amortiguación SDC de serie, con doble horquilla delante y eje trasero de cinco brazos", "El EREV combina un 1.5 turbo de 118 kW con una LFP de 36 kWh y anuncia 1.260 km combinados en CLTC"],
     contras: ["Hyptec no tiene importador ni talleres propios en España: hacerse con uno pasaría por una importación paralela sin soporte de marca", "Del eléctrico puro solo consta la medición CLTC; la cifra WLTP que se conoce es la del EREV, con 170-180 km en modo eléctrico", "Con las cinco plazas en uso carga 500 litros, poco para 5,02 m de coche; los 1.292 litros exigen abatir la segunda fila", "Su precio chino se mueve entre la guía de 199.900-219.900 yuanes y los 179.900-199.900 con privilegios de lanzamiento: el importe en euros de esta ficha es solo una conversión", "El 0-100 de 4,3 s que difunde GAC pertenece al AWD de 370 kW; para este trasero de 340 CV la nota de lanzamiento no desglosa aceleración"],
     imagen: "",

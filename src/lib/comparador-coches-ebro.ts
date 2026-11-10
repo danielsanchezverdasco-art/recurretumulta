@@ -61,7 +61,7 @@ export const COCHES_EBRO: CocheComparador[] = [
     parNm: 295,
     traccion: "Delantera",
     emisionesCo2: 129,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ebro-s700-hibrido-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -142,7 +142,7 @@ export const COCHES_EBRO: CocheComparador[] = [
     parNm: 365,
     traccion: "Delantera",
     emisionesCo2: 19,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ebro-s700-phev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -223,7 +223,7 @@ export const COCHES_EBRO: CocheComparador[] = [
     parNm: 580,
     traccion: "Total",
     emisionesCo2: 40,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ebro-s900-phev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

@@ -63,7 +63,7 @@ const COCHES_LOTE12_A: CocheComparador[] = [
     parNm: 800,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-amg-sl-63-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -325,7 +325,7 @@ const COCHES_LOTE12_A: CocheComparador[] = [
     parNm: 400,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-arteon-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -436,7 +436,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
     parNm: 320,
     traccion: "Delantera",
     emisionesCo2: 138,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-touran-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -544,7 +544,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
     parNm: 400,
     traccion: "Delantera",
     emisionesCo2: 112,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bmw-serie-1-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -760,7 +760,7 @@ const COCHES_LOTE12_B: CocheComparador[] = [
     parNm: 400,
     traccion: "Trasera",
     emisionesCo2: 129,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bmw-serie-3-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -871,7 +871,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
     parNm: 300,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["potenciaCv"],
+    aprox: ["potenciaCv", "precioDesde"],
     imagen: "/media/bmw-serie-4-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -977,7 +977,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
     parNm: 400,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["potenciaCv"],
+    aprox: ["potenciaCv", "precioDesde"],
     imagen: "/media/bmw-x4-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -1083,7 +1083,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
     parNm: 370,
     traccion: "Delantera",
     emisionesCo2: 161,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-tt-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -1189,7 +1189,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
     parNm: 580,
     traccion: "Total",
     emisionesCo2: 293,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-r8-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -1295,7 +1295,7 @@ const COCHES_LOTE12_C: CocheComparador[] = [
     parNm: 850,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-rs7-sportback-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -1404,7 +1404,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
     parNm: 400,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-amg-a35-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -1616,7 +1616,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-amg-c43-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -1722,7 +1722,7 @@ const COCHES_LOTE12_D: CocheComparador[] = [
     parNm: 1020,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-amg-c63-s-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -1937,7 +1937,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 198,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-amg-one-2025-precio-ficha-tecnica-1.webp",
     fuenteNombre: "autonocion.com (datos oficiales Mercedes-AMG)",
     fuenteUrl: "https://www.autonocion.com/mercedes-amg-one-detalles-equipamiento-especificaciones/",
@@ -2040,7 +2040,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-gls-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -2134,7 +2134,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
     parNm: 696,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/jaguar-i-pace-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -2224,7 +2224,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
     parNm: 650,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/jaguar-f-pace-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -2325,7 +2325,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
     parNm: 430,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/jaguar-e-pace-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -2426,7 +2426,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
     parNm: 580,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/jaguar-f-type-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -2527,7 +2527,7 @@ const COCHES_LOTE12_E: CocheComparador[] = [
     parNm: 210,
     traccion: "Delantera",
     emisionesCo2: 114,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ford-fiesta-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {

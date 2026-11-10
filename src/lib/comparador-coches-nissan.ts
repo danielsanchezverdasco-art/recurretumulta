@@ -70,7 +70,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: 270,
     traccion: "Delantera",
     emisionesCo2: 142,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -154,7 +154,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 131,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -238,7 +238,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: 330,
     traccion: "Delantera",
     emisionesCo2: 129,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -322,7 +322,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: 330,
     traccion: "Total",
     emisionesCo2: 143,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -406,7 +406,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: 345,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -490,7 +490,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -574,7 +574,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -658,7 +658,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: 240,
     traccion: "Delantera",
     emisionesCo2: 154,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -742,7 +742,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: 245,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -814,7 +814,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/nissan-primastar-combi-dci-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -900,7 +900,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: 340,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["pesoKg", "cargaRapidaKw"],
+    aprox: ["pesoKg", "cargaRapidaKw", "precioDesde"],
     imagen: "/media/nissan-leaf-e-plus-62kwh-2023-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -981,7 +981,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["pesoKg", "consumo"],
+    aprox: ["pesoKg", "consumo", "precioDesde"],
     imagen: "/media/nissan-ariya-63kwh-218-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1065,7 +1065,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: 600,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/nissan-ariya-e4orce-306-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1149,7 +1149,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: 600,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/nissan-ariya-nismo-435-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1230,7 +1230,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: 245,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["pesoKg", "consumo", "ceroCien"],
+    aprox: ["pesoKg", "consumo", "ceroCien", "precioDesde"],
     imagen: "/media/nissan-micra-ev-40kwh-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1311,7 +1311,7 @@ export const COCHES_NISSAN: CocheComparador[] = [
     parNm: 245,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["pesoKg", "consumo", "ceroCien", "autonomiaKm"],
+    aprox: ["pesoKg", "consumo", "ceroCien", "autonomiaKm", "precioDesde"],
     imagen: "/media/nissan-townstar-evalia-ev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

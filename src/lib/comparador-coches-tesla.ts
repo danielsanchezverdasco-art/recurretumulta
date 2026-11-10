@@ -53,7 +53,7 @@ export const COCHES_TESLA: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/tesla-model-3-performance-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -134,7 +134,7 @@ export const COCHES_TESLA: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/tesla-model-3-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -215,7 +215,7 @@ export const COCHES_TESLA: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["pesoKg", "maleteroL"],
+    aprox: ["pesoKg", "maleteroL", "precioDesde"],
     imagen: "/media/tesla-model-y-performance-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -284,7 +284,7 @@ export const COCHES_TESLA: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["maleteroL"],
+    aprox: ["maleteroL", "precioDesde"],
     imagen: "/media/tesla-model-y-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 2.56, "costeMensualTotal": 132, "estimado": true, "mantenimientoAnual": 300, "notas": "Cálculo hecho a medida de esta versión propulsada detrás: parte de su consumo homologado de 14,2 kWh/100 km y de cargar en casa pagando el kWh a 0,18 euros, lo que deja cada 100 km en 2,56 euros. Repartiendo 15.000 km entre los doce meses y sumando el seguro a todo riesgo junto a un mantenimiento anual estimado para el segmento, la cuota resultante es de 132 euros al mes.", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 900, "seguroTercerosAnual": 450},
@@ -357,7 +357,7 @@ export const COCHES_TESLA: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/tesla-model-3-gran-autonomia-traccion-total-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -438,7 +438,7 @@ export const COCHES_TESLA: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["maleteroL", "velocidadMax"],
+    aprox: ["maleteroL", "velocidadMax", "precioDesde"],
     imagen: "/media/tesla-model-y-standard-gran-autonomia-traccion-trasera-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -507,7 +507,7 @@ export const COCHES_TESLA: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["maleteroL", "velocidadMax"],
+    aprox: ["maleteroL", "velocidadMax", "precioDesde"],
     imagen: "/media/tesla-model-y-gran-autonomia-traccion-total-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 2.88, "costeMensualTotal": 136, "estimado": true, "mantenimientoAnual": 300, "notas": "Estimación pensada para este bimotor de 600 km: como Tesla no publica un consumo WLTP para él, se trabaja con unos 16 kWh a los 100 km, que cargando en casa a 0,18 € el kWh dan los 2,88 € por cada 100 km. El total de cada mes reparte 15.000 km al año y suma unos seguros y un mantenimiento anual que son orientativos, sin tarifa oficial cerrada de la marca.", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 900, "seguroTercerosAnual": 450},
@@ -580,7 +580,7 @@ export const COCHES_TESLA: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["maleteroL", "ceroCien", "velocidadMax"],
+    aprox: ["maleteroL", "ceroCien", "velocidadMax", "precioDesde"],
     imagen: "/media/tesla-model-y-7-plazas-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {

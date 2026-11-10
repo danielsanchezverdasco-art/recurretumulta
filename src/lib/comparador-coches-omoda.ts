@@ -52,7 +52,7 @@ export const COCHES_OMODA: CocheComparador[] = [
     parNm: 275,
     traccion: "Delantera",
     emisionesCo2: 159,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/omoda-5-gasolina-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -133,7 +133,7 @@ export const COCHES_OMODA: CocheComparador[] = [
     parNm: 295,
     traccion: "Delantera",
     emisionesCo2: 120,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     imagen: "/media/omoda-5-shs-h-hibrido-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -214,7 +214,7 @@ export const COCHES_OMODA: CocheComparador[] = [
     parNm: 365,
     traccion: "Delantera",
     emisionesCo2: 53,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/omoda-7-shs-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

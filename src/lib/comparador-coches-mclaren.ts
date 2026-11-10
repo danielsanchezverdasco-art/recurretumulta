@@ -59,7 +59,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     parNm: 800,
     traccion: "Trasera",
     emisionesCo2: 276,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mclaren-750s-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -128,7 +128,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     parNm: 800,
     traccion: "Trasera",
     emisionesCo2: 276,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mclaren-750s-spider-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 22.57, "costeMensualTotal": 899, "estimado": true, "mantenimientoAnual": 2400, "notas": "Cálculo hecho solo para este Spider: con 15.000 km al año y el consumo homologado de 12,2 litros, quemar gasolina a 1,85 € el litro deja el gasto en 22,57 € por cada 100 km. El seguro ampliado estimado en 5.000 € anuales y los 2.400 € de mantenimiento son orientativos para un descapotable de 354.700 €; McLaren incluía de serie las revisiones de los tres primeros años, con paso por taller al cumplir un año o 15.000 km.", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 5000, "seguroTercerosAnual": 2300},
@@ -201,7 +201,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     parNm: 720,
     traccion: "Trasera",
     emisionesCo2: null, // sin dato WLTP publicado para el coupé MY2025
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mclaren-artura-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -282,7 +282,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     parNm: 720,
     traccion: "Trasera",
     emisionesCo2: 108,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mclaren-artura-spider-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -363,7 +363,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     parNm: 630,
     traccion: "Trasera",
     emisionesCo2: 270,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mclaren-gts-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -444,7 +444,7 @@ export const COCHES_MCLAREN: CocheComparador[] = [
     parNm: 1340,
     traccion: "Trasera",
     emisionesCo2: null, // sin dato WLTP verificado con 2 fuentes
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mclaren-w1-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

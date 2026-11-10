@@ -52,7 +52,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 310,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-id3-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -121,7 +121,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 545,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-id7-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -191,7 +191,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 545,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-id7-tourer-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 2.56, "costeMensualTotal": 130, "estimado": true, "mantenimientoAnual": 300, "notas": "Estimación pensada para este Tourer Pro S: con su consumo homologado de 14,2 kWh cada cien kilómetros y la tarifa doméstica de 0,18 euros por kWh salen los 2,56 euros por cada 100 km; seguro y mantenimiento se estiman para un familiar de 4,96 metros y 2.235 kg que, según el plan ID. de Volkswagen, solo pasa por el taller cada dos años.", "precioGasolinaL": 1.55, "precioKwh": 0.18, "seguroAmpliadoAnual": 880, "seguroTercerosAnual": 480},
@@ -345,7 +345,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 600,
     traccion: "Total",
     emisionesCo2: 217,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-touareg-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -426,7 +426,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 350,
     traccion: "Total",
     emisionesCo2: 19,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-multivan-t7-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -507,7 +507,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-caravelle-t7-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -588,7 +588,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-transporter-t7-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -669,7 +669,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 320,
     traccion: "Delantera",
     emisionesCo2: 147,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-caddy-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -750,7 +750,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 370,
     traccion: "Delantera",
     emisionesCo2: 160,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-golf-gti-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -831,7 +831,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 420,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-golf-r-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -912,7 +912,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 320,
     traccion: "Delantera",
     emisionesCo2: 153,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-polo-gti-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -993,7 +993,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 400,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-tayron-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1154,7 +1154,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 119,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-golf-variant-15-etsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1223,7 +1223,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 400,
     traccion: "Delantera",
     emisionesCo2: 9,
-    aprox: ["autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg", "precioDesde"],
     imagen: "/media/volkswagen-golf-gte-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1306,7 +1306,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 122,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/volkswagen-polo-10-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1387,7 +1387,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 125,
-    aprox: ["co2"],
+    aprox: ["co2", "precioDesde"],
     imagen: "/media/volkswagen-t-roc-15-etsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1468,7 +1468,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 129,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/volkswagen-t-cross-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1549,7 +1549,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 131,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/volkswagen-taigo-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1630,7 +1630,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 545,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["pesoKg", "consumo"],
+    aprox: ["pesoKg", "consumo", "precioDesde"],
     imagen: "/media/volkswagen-id3-gtx-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1711,7 +1711,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 545,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg", "precioDesde"],
     imagen: "/media/volkswagen-id4-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1792,7 +1792,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 545,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm", "pesoKg", "consumo"],
+    aprox: ["autonomiaKm", "pesoKg", "consumo", "precioDesde"],
     imagen: "/media/volkswagen-id5-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1873,7 +1873,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 137,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/volkswagen-passat-variant-20-tdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1942,7 +1942,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 10,
-    aprox: ["autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg", "precioDesde"],
     imagen: "/media/volkswagen-tiguan-ehybrid-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -2032,7 +2032,7 @@ export const COCHES_VOLKSWAGEN: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-id-tiguan-2027-hero.webp",
     analisisSlug: "volkswagen-id-tiguan-2026-precio-ficha-tecnica",
     opiniones: [],

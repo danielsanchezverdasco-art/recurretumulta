@@ -61,7 +61,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: 186,
-    aprox: ["ceroCien", "pesoKg", "consumo", "emisionesCo2"],
+    aprox: ["ceroCien", "pesoKg", "consumo", "emisionesCo2", "precioDesde"],
     imagen: "/media/bmw-m340i-xdrive-touring-2025-2.webp",
     opiniones: [],
     costeMensual: {
@@ -143,7 +143,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 795,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     imagen: "/media/bmw-i5-m60-xdrive-touring-2025-2.webp",
     opiniones: [],
     costeMensual: {
@@ -237,7 +237,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 650,
     traccion: "Total",
     emisionesCo2: 231,
-    aprox: ["pesoKg", "consumo", "emisionesCo2"],
+    aprox: ["pesoKg", "consumo", "emisionesCo2", "precioDesde"],
     imagen: "/media/bmw-m3-cs-touring-2025-2.webp",
     opiniones: [],
     costeMensual: {
@@ -331,7 +331,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 360,
     traccion: "Total",
     emisionesCo2: 154,
-    aprox: ["pesoKg", "consumo", "emisionesCo2"],
+    aprox: ["pesoKg", "consumo", "emisionesCo2", "precioDesde"],
     imagen: "/media/mini-countryman-s-all4-2025-2.webp",
     opiniones: [],
     costeMensual: {
@@ -413,7 +413,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     imagen: "/media/mini-countryman-e-2026-2.webp",
     opiniones: [],
     costeMensual: {
@@ -491,7 +491,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 335,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["maleteroL", "ceroCien", "pesoKg", "consumo", "parNm"],
+    aprox: ["maleteroL", "ceroCien", "pesoKg", "consumo", "parNm", "precioDesde"],
     imagen: "/media/mercedes-glb-250-eq-2026-2.webp",
     opiniones: [],
     costeMensual: {
@@ -585,7 +585,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 520,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["maleteroL", "ceroCien", "pesoKg", "consumo", "parNm"],
+    aprox: ["maleteroL", "ceroCien", "pesoKg", "consumo", "parNm", "precioDesde"],
     imagen: "/media/mercedes-glb-350-eq-2026-1.webp",
     opiniones: [],
     costeMensual: {
@@ -679,7 +679,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 560,
     traccion: "Total",
     emisionesCo2: 222,
-    aprox: ["maleteroL", "ceroCien", "pesoKg", "consumo", "emisionesCo2"],
+    aprox: ["maleteroL", "ceroCien", "pesoKg", "consumo", "emisionesCo2", "precioDesde"],
     imagen: "/media/mercedes-amg-cle-53-cabrio-2025-1.webp",
     opiniones: [],
     costeMensual: {
@@ -773,7 +773,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 400,
     traccion: "Delantera",
     emisionesCo2: 152,
-    aprox: ["ceroCien", "pesoKg", "consumo", "parNm", "emisionesCo2"],
+    aprox: ["ceroCien", "pesoKg", "consumo", "parNm", "emisionesCo2", "precioDesde"],
     imagen: "/media/audi-a6-avant-2025-2.webp",
     opiniones: [],
     costeMensual: {
@@ -867,7 +867,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 340,
     traccion: "Total",
     emisionesCo2: 170,
-    aprox: ["ceroCien", "pesoKg", "consumo", "parNm", "emisionesCo2"],
+    aprox: ["ceroCien", "pesoKg", "consumo", "parNm", "emisionesCo2", "precioDesde"],
     imagen: "/media/audi-q5-sportback-2025-2.webp",
     opiniones: [],
     costeMensual: {
@@ -961,7 +961,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 148,
-    aprox: ["ceroCien", "pesoKg", "consumo", "parNm", "emisionesCo2"],
+    aprox: ["ceroCien", "pesoKg", "consumo", "parNm", "emisionesCo2", "precioDesde"],
     imagen: "/media/audi-a5-avant-2025-2.webp",
     opiniones: [],
     costeMensual: {
@@ -1149,7 +1149,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 550,
     traccion: "Total",
     emisionesCo2: 200,
-    aprox: ["pesoKg", "consumo", "parNm", "emisionesCo2"],
+    aprox: ["pesoKg", "consumo", "parNm", "emisionesCo2", "precioDesde"],
     imagen: "/media/audi-s5-avant-2025-2.webp",
     opiniones: [],
     costeMensual: {
@@ -1243,7 +1243,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 560,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-id-buzz-cargo-2025-1.webp",
     opiniones: [],
     costeMensual: {
@@ -1343,7 +1343,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["parNm"],
+    aprox: ["parNm", "precioDesde"],
     imagen: "/media/volkswagen-id7-gtx-tourer-2026-1.webp",
     opiniones: [],
     costeMensual: {
@@ -1454,7 +1454,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 11,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-caddy-ehybrid-2025-1.webp",
     opiniones: [],
     costeMensual: {
@@ -1566,7 +1566,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 350,
     traccion: "Total",
     emisionesCo2: 19,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-multivan-ehybrid-2026-1.webp",
     opiniones: [],
     costeMensual: {
@@ -1679,7 +1679,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 350,
     traccion: "Total",
     emisionesCo2: 21,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-california-ehybrid-2026-1.webp",
     opiniones: [],
     costeMensual: {
@@ -1785,7 +1785,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-e-caravelle-2026-1.webp",
     opiniones: [],
     costeMensual: {
@@ -1889,7 +1889,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 420,
     traccion: "Delantera",
     emisionesCo2: 173,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-golf-gti-edition-50-2026-2.webp",
     opiniones: [],
     costeMensual: {
@@ -1988,7 +1988,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["parNm", "garantiaBateriaDegradacionPct"],
+    aprox: ["parNm", "garantiaBateriaDegradacionPct", "precioDesde"],
     imagen: "/media/skoda-enyaq-coupe-85x-2026-1.webp",
     opiniones: [],
     costeMensual: {
@@ -2087,7 +2087,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["pesoKg", "parNm", "garantiaBateriaDegradacionPct"],
+    aprox: ["pesoKg", "parNm", "garantiaBateriaDegradacionPct", "precioDesde"],
     imagen: "/media/skoda-elroq-85x-2026-1.webp",
     opiniones: [],
     costeMensual: {
@@ -2186,7 +2186,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 127,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/cupra-leon-20-tdi-2026-1.webp",
     opiniones: [],
     costeMensual: {
@@ -2510,7 +2510,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 320,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-6e-2027-1.webp",
     opiniones: [],
     costeMensual: {
@@ -2824,7 +2824,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 290,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["ceroCien", "garantiaBateriaDegradacionPct"],
+    aprox: ["ceroCien", "garantiaBateriaDegradacionPct", "precioDesde"],
     imagen: "/media/ford-e-tourneo-courier-2025-2.webp",
     opiniones: [],
     costeMensual: {
@@ -2923,7 +2923,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 595,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["maleteroL", "largoMm", "anchoMm", "altoMm", "pesoKg", "consumo", "emisionesCo2"],
+    aprox: ["maleteroL", "largoMm", "anchoMm", "altoMm", "pesoKg", "consumo", "emisionesCo2", "precioDesde"],
     imagen: "/media/chevrolet-corvette-z06-2025-2.webp",
     opiniones: [],
     costeMensual: {
@@ -3121,7 +3121,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 691,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["maleteroL", "ceroCien", "velocidadMax", "pesoKg", "consumo", "emisionesCo2"],
+    aprox: ["maleteroL", "ceroCien", "velocidadMax", "pesoKg", "consumo", "emisionesCo2", "precioDesde"],
     imagen: "/media/ford-f-150-raptor-2025-1.webp",
     opiniones: [],
     costeMensual: {
@@ -3220,7 +3220,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 624,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["maleteroL", "ceroCien", "velocidadMax", "pesoKg", "consumo", "traccion", "emisionesCo2"],
+    aprox: ["maleteroL", "ceroCien", "velocidadMax", "pesoKg", "consumo", "traccion", "emisionesCo2", "precioDesde"],
     imagen: "/media/gmc-yukon-2025-2.webp",
     opiniones: [],
     costeMensual: {
@@ -3319,7 +3319,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 623,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["maleteroL", "ceroCien", "velocidadMax", "pesoKg", "consumo", "plazas", "emisionesCo2"],
+    aprox: ["maleteroL", "ceroCien", "velocidadMax", "pesoKg", "consumo", "plazas", "emisionesCo2", "precioDesde"],
     imagen: "/media/cadillac-escalade-2026-2.webp",
     opiniones: [],
     costeMensual: {
@@ -3418,7 +3418,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 660,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     imagen: "/media/xpeng-g6-awd-performance-2026-2.webp",
     opiniones: [],
     costeMensual: {
@@ -3513,7 +3513,7 @@ export const COCHES_LOTE17: CocheComparador[] = [
     parNm: 695,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/xpeng-g9-awd-performance-2026-2.webp",
     opiniones: [],
     costeMensual: {

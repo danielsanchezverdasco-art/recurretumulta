@@ -40,7 +40,7 @@ export const CAMPERS_BUERSTNER: CocheComparador[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Precio recomendado oficial de 61.600 francos suizos: de los campers con mejor relación precio-equipamiento",
       "Con 5,99 m y 3.500 kg de MMA se aparca casi como un turismo y se conduce con el carnet B",

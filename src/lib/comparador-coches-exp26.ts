@@ -34,7 +34,7 @@ export const COCHES_EXP26: CocheComparador[] = [
     parNm: 205,
     traccion: "Delantera",
     emisionesCo2: 103,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Híbrido de 110 CV con etiqueta ECO desde 23.019 €",
       "Diseño con personalidad: faros traseros redondos y mesita Tavolino",
@@ -142,7 +142,7 @@ export const COCHES_EXP26: CocheComparador[] = [
     parNm: 225,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Desde 27.700 € con 319 km de autonomía WLTP",
       "Versión Long Range de 52 kWh con 419 km de autonomía",

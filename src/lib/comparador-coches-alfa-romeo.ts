@@ -55,7 +55,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/alfa-romeo-junior-elettrica-156-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -136,7 +136,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     parNm: 345,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/alfa-romeo-junior-elettrica-veloce-280-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -217,7 +217,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     parNm: 240,
     traccion: "Delantera",
     emisionesCo2: 129,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/alfa-romeo-tonale-hibrida-160-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -286,7 +286,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     parNm: 470,
     traccion: "Total",
     emisionesCo2: 26,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/alfa-romeo-tonale-phev-q4-280-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -369,7 +369,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     parNm: 400,
     traccion: "Total",
     emisionesCo2: 184,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/alfa-romeo-giulia-veloce-280-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -450,7 +450,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     parNm: 450,
     traccion: "Trasera",
     emisionesCo2: 153,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     imagen: "/media/alfa-romeo-stelvio-2-2-diesel-160-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -519,7 +519,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     parNm: 730,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/alfa-romeo-33-stradale-v6-620-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -601,7 +601,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "parNm": null,
     "traccion": "Total",
     "emisionesCo2": 119,
-    "aprox": [],
+    "aprox": ["precioDesde"],
     "imagen": "/media/alfa-romeo-junior-ibrida-q4-145-precio-ficha-tecnica-hero.webp",
     "opiniones": [],
     "costeMensual": {
@@ -767,7 +767,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "parNm": null,
     "traccion": "Delantera",
     "emisionesCo2": 128,
-    "aprox": [],
+    "aprox": ["precioDesde"],
     "imagen": "/media/alfa-romeo-tonale-ibrida-175-precio-ficha-tecnica-hero.webp",
     "opiniones": [],
     "costeMensual": {
@@ -850,7 +850,7 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "parNm": 320,
     "traccion": "Delantera",
     "emisionesCo2": 142,
-    "aprox": [],
+    "aprox": ["precioDesde"],
     "imagen": "/media/alfa-romeo-tonale-diesel-130-precio-ficha-tecnica-hero.webp",
     "opiniones": [],
     "costeMensual": {
@@ -924,7 +924,8 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "aprox": [
       "pesoKg",
       "consumo",
-      "emisionesCo2"
+      "emisionesCo2",
+      "precioDesde",
     ],
     "imagen": "/media/alfa-romeo-tonale-phev-q4-270-precio-ficha-tecnica-hero.webp",
     "opiniones": [],
@@ -1013,7 +1014,8 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "aprox": [
       "ceroCien",
       "velocidadMax",
-      "consumo"
+      "consumo",
+      "precioDesde",
     ],
     "imagen": "/media/alfa-romeo-giulia-diesel-160-precio-ficha-tecnica-hero.webp",
     "opiniones": [],
@@ -1184,7 +1186,8 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "traccion": "Trasera",
     "emisionesCo2": null,
     "aprox": [
-      "consumo"
+      "consumo",
+      "precioDesde",
     ],
     "imagen": "/media/alfa-romeo-giulia-quadrifoglio-520-precio-ficha-tecnica-hero.webp",
     "opiniones": [],
@@ -1269,7 +1272,8 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "traccion": "Total",
     "emisionesCo2": 192,
     "aprox": [
-      "consumo"
+      "consumo",
+      "precioDesde",
     ],
     "imagen": "/media/alfa-romeo-stelvio-20-turbo-280-precio-ficha-tecnica-hero.webp",
     "opiniones": [],
@@ -1356,7 +1360,8 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "aprox": [
       "ceroCien",
       "velocidadMax",
-      "consumo"
+      "consumo",
+      "precioDesde",
     ],
     "imagen": "/media/alfa-romeo-stelvio-diesel-210-precio-ficha-tecnica-hero.webp",
     "opiniones": [],
@@ -1441,7 +1446,8 @@ export const COCHES_ALFA_ROMEO: CocheComparador[] = [
     "traccion": "Total",
     "emisionesCo2": null,
     "aprox": [
-      "consumo"
+      "consumo",
+      "precioDesde",
     ],
     "imagen": "/media/alfa-romeo-stelvio-quadrifoglio-520-precio-ficha-tecnica-hero.webp",
     "opiniones": [],

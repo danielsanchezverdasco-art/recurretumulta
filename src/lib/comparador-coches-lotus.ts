@@ -57,7 +57,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
     parNm: 710,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lotus-eletre-600-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -135,7 +135,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
     parNm: 985,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["pesoKg", "consumo"],
+    aprox: ["pesoKg", "consumo", "precioDesde"],
     imagen: "/media/lotus-eletre-900-sport-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -213,7 +213,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lotus-eletre-x-h550-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -296,7 +296,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
     parNm: 935,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lotus-eletre-x-h1000-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -374,7 +374,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
     parNm: 710,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lotus-emeya-600-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -452,7 +452,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
     parNm: 985,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["pesoKg", "consumo"],
+    aprox: ["pesoKg", "consumo", "precioDesde"],
     imagen: "/media/lotus-emeya-900-sport-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -535,7 +535,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
     parNm: 430,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["consumo", "velocidadMax"],
+    aprox: ["consumo", "velocidadMax", "precioDesde"],
     imagen: "/media/lotus-emira-turbo-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -613,7 +613,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
     parNm: 480,
     traccion: "Trasera",
     emisionesCo2: 209,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lotus-emira-turbo-se-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -696,7 +696,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
     parNm: 420,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/lotus-emira-v6-se-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -774,7 +774,7 @@ export const COCHES_LOTUS: CocheComparador[] = [
     parNm: 500,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lotus-emira-420-sport-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

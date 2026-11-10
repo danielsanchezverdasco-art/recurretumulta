@@ -59,7 +59,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     parNm: 220,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/fiat-500e-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -140,7 +140,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     parNm: 92,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -208,7 +208,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     parNm: 92,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -276,7 +276,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 115,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [
       {
@@ -444,7 +444,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     parNm: 230,
     traccion: "Delantera",
     emisionesCo2: 109,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -512,7 +512,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     parNm: 320,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/fiat-tipo-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -593,7 +593,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 145,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -649,7 +649,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     parNm: 270,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -718,7 +718,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -889,7 +889,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     parNm: 122,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["pesoKg", "consumo", "largoMm", "anchoMm", "altoMm", "ceroCien"],
+    aprox: ["pesoKg", "consumo", "largoMm", "anchoMm", "altoMm", "ceroCien", "precioDesde"],
     imagen: "/media/fiat-grande-panda-ev-113-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -973,7 +973,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     parNm: 205,
     traccion: "Delantera",
     emisionesCo2: 109,
-    aprox: ["ceroCien", "parNm"],
+    aprox: ["ceroCien", "parNm", "precioDesde"],
     imagen: "/media/fiat-600-hybrid-110-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1224,7 +1224,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     parNm: 240,
     traccion: "Delantera",
     emisionesCo2: 121,
-    aprox: ["emisionesCo2", "ceroCien"],
+    aprox: ["emisionesCo2", "ceroCien", "precioDesde"],
     imagen: "/media/fiat-tipo-cross-hybrid-130-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1308,7 +1308,7 @@ export const COCHES_FIAT: CocheComparador[] = [
     parNm: 205,
     traccion: "Delantera",
     emisionesCo2: 152,
-    aprox: ["maleteroL", "ceroCien", "consumo", "pesoKg", "largoMm", "anchoMm", "altoMm", "emisionesCo2"],
+    aprox: ["maleteroL", "ceroCien", "consumo", "pesoKg", "largoMm", "anchoMm", "altoMm", "emisionesCo2", "precioDesde"],
     imagen: "/media/fiat-doblo-12-puretech-110-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

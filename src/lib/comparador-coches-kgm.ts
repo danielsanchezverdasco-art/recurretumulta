@@ -54,7 +54,7 @@ export const COCHES_KGM: CocheComparador[] = [
     parNm: 280,
     traccion: "Delantera",
     emisionesCo2: 181,
-    aprox: ["ceroCien"],
+    aprox: ["ceroCien", "precioDesde"],
     imagen: "/media/kgm-torres-g15t-gasolina-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -137,7 +137,7 @@ export const COCHES_KGM: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 137,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kgm-torres-hev-hibrido-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -220,7 +220,7 @@ export const COCHES_KGM: CocheComparador[] = [
     parNm: 280,
     traccion: "Delantera",
     emisionesCo2: 181,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kgm-actyon-gasolina-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -310,7 +310,7 @@ export const COCHES_KGM: CocheComparador[] = [
     parNm: 280,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kgm-korando-g15t-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -393,7 +393,7 @@ export const COCHES_KGM: CocheComparador[] = [
     parNm: 280,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kgm-tivoli-g15t-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -476,7 +476,7 @@ export const COCHES_KGM: CocheComparador[] = [
     parNm: 441,
     traccion: "4x4",
     emisionesCo2: 219,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kgm-rexton-diesel-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -559,7 +559,7 @@ export const COCHES_KGM: CocheComparador[] = [
     parNm: 441,
     traccion: "4x4",
     emisionesCo2: 237,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kgm-musso-diesel-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -642,7 +642,7 @@ export const COCHES_KGM: CocheComparador[] = [
     parNm: 339,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["emisionesCo2"],
+    aprox: ["emisionesCo2", "precioDesde"],
     imagen: "/media/kgm-musso-evx-electrico-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -730,7 +730,7 @@ export const COCHES_KGM: CocheComparador[] = [
     parNm: 339,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["cargaRapidaKw"],
+    aprox: ["cargaRapidaKw", "precioDesde"],
     imagen: "/media/kgm-korando-emotion-electrico-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -813,7 +813,7 @@ export const COCHES_KGM: CocheComparador[] = [
     parNm: 280,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kgm-tivoli-grand-g15t-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

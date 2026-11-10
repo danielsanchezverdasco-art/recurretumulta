@@ -57,7 +57,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["bateriaKwh"],
+    aprox: ["bateriaKwh", "precioDesde"],
     imagen: "/media/suzuki-vitara-strong-hybrid-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -141,7 +141,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/suzuki-s-cross-mild-hybrid-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -225,7 +225,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 116,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/suzuki-s-cross-strong-hybrid-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -309,7 +309,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/suzuki-across-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -393,7 +393,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     parNm: 185,
     traccion: "Delantera",
     emisionesCo2: 102,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/suzuki-swace-hybrid-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -477,7 +477,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     parNm: 189,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/suzuki-e-vitara-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -561,7 +561,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     parNm: 235,
     traccion: "Delantera",
     emisionesCo2: 125,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/suzuki-swift-sport-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -645,7 +645,7 @@ export const COCHES_SUZUKI: CocheComparador[] = [
     parNm: 130,
     traccion: "Total",
     emisionesCo2: 173,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/suzuki-jimny-pro-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {

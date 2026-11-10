@@ -52,7 +52,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 930,
     traccion: "Total",
     emisionesCo2: 93,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-continental-gt-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -133,7 +133,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 930,
     traccion: "Total",
     emisionesCo2: 93,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-continental-gt-azure-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -214,7 +214,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 1000,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-continental-gt-speed-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -295,7 +295,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 1000,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-continental-gt-mulliner-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -376,7 +376,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 930,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-continental-gtc-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -457,7 +457,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 930,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-continental-gtc-azure-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -538,7 +538,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 1000,
     traccion: "Total",
     emisionesCo2: 31,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-continental-gtc-speed-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -607,7 +607,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 1000,
     traccion: "Total",
     emisionesCo2: 31,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-continental-gtc-mulliner-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 8, "costeMensualTotal": 740, "estimado": true, "mantenimientoAnual": 1800, "notas": "Estimación pensada para este descapotable Mulliner: si se aprovechan sus 78 km eléctricos cargando en casa a 11 kW, el coste por kilómetro baja mucho; si no se enchufa, manda el V8. Seguro y mantenimiento son los de un Bentley de más de 400.000 €.", "precioGasolinaL": 1.65, "precioKwh": 0.18, "seguroAmpliadoAnual": 3200, "seguroTercerosAnual": 1500},
@@ -680,7 +680,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 930,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-flying-spur-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -923,7 +923,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 1000,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-flying-spur-mulliner-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1004,7 +1004,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 770,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-bentayga-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1085,7 +1085,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 770,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-bentayga-azure-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1166,7 +1166,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 850,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-bentayga-speed-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1247,7 +1247,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 770,
     traccion: "Total",
     emisionesCo2: 296,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-bentayga-ewb-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1328,7 +1328,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 770,
     traccion: "Total",
     emisionesCo2: 296,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-bentayga-ewb-azure-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1397,7 +1397,7 @@ export const COCHES_BENTLEY: CocheComparador[] = [
     parNm: 770,
     traccion: "Total",
     emisionesCo2: 296,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/bentley-bentayga-ewb-mulliner-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 21.1, "costeMensualTotal": 910, "estimado": true, "mantenimientoAnual": 1900, "notas": "Estimación para este V8 de gasolina sin hibridar: sus 12,8 l/100 km WLTP a 1,65 € por litro dan unos 21 € de combustible cada 100 km, y seguro y mantenimiento corresponden a un SUV artesanal de 367.552 €", "precioGasolinaL": 1.65, "precioKwh": 0.18, "seguroAmpliadoAnual": 3200, "seguroTercerosAnual": 1500},

@@ -56,7 +56,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     parNm: 340,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/alpine-a110-s-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -212,7 +212,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     parNm: 340,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/alpine-a110-r-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -295,7 +295,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     parNm: 420,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/alpine-a110-r-ultime-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -378,7 +378,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     parNm: 285,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/alpine-a290-gt-premium-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -456,7 +456,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/alpine-a290-gt-performance-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -534,7 +534,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/alpine-a290-gts-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -612,7 +612,7 @@ export const COCHES_ALPINE: CocheComparador[] = [
     parNm: 808,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/alpine-a390-gts-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -691,7 +691,8 @@ export const COCHES_ALPINE: CocheComparador[] = [
     "traccion": "Trasera",
     "emisionesCo2": null,
     "aprox": [
-      "pesoKg"
+      "pesoKg",
+      "precioDesde",
     ],
     "imagen": "/media/alpine-a110-252-2026-precio-ficha-tecnica-hero.webp",
     "opiniones": [],
@@ -779,7 +780,8 @@ export const COCHES_ALPINE: CocheComparador[] = [
       "ceroCien",
       "velocidadMax",
       "consumo",
-      "pesoKg"
+      "pesoKg",
+      "precioDesde",
     ],
     "imagen": "/media/alpine-a110-r70-2026-precio-ficha-tecnica-hero.webp",
     "opiniones": [],
@@ -1035,7 +1037,8 @@ export const COCHES_ALPINE: CocheComparador[] = [
     "emisionesCo2": 0,
     "aprox": [
       "autonomiaKm",
-      "velocidadMax"
+      "velocidadMax",
+      "precioDesde",
     ],
     "imagen": "/media/alpine-a390-gt-2026-precio-ficha-tecnica-hero.webp",
     "opiniones": [],

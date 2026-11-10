@@ -32,7 +32,7 @@ export const COCHES_EXP21: CocheComparador[] = [
     parNm: 650,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "530 CV y 0-100 en 3,6 s con 500 litros de maletero familiar",
       "Tracción M xDrive con modo propulsión puro desconectable",
@@ -96,7 +96,7 @@ export const COCHES_EXP21: CocheComparador[] = [
     parNm: 580,
     traccion: "Total",
     emisionesCo2: 175,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "398 CV y 580 Nm con etiqueta ECO",
       "0-100 en 4,6 s con 7,7 l/100 km homologados",
@@ -160,7 +160,7 @@ export const COCHES_EXP21: CocheComparador[] = [
     parNm: 720,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["ceroCien", "velocidadMax"],
+    aprox: ["ceroCien", "velocidadMax", "precioDesde"],
     pros: [
       "352 CV y 720 Nm con solo 7,2 l/100 km",
       "Etiqueta ECO en un diésel de 6 cilindros",
@@ -224,7 +224,7 @@ export const COCHES_EXP21: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: 177,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "374 CV y 500 Nm con etiqueta ECO",
       "0-100 en 4,4 s por 83.250 €",
@@ -288,7 +288,7 @@ export const COCHES_EXP21: CocheComparador[] = [
     parNm: 1000,
     traccion: "Total",
     emisionesCo2: 39,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "727 CV y 1.000 Nm: el BMW M más potente de la historia",
       "66 km eléctricos y etiqueta Cero",
@@ -416,7 +416,7 @@ export const COCHES_EXP21: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "6,4 l/100 km con etiqueta ECO",
       "5 estrellas EuroNCAP 2024 (92 % adultos)",
@@ -480,7 +480,7 @@ export const COCHES_EXP21: CocheComparador[] = [
     parNm: 550,
     traccion: "Total",
     emisionesCo2: 177,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "6,7 l/100 km en un SUV de 2.335 kg",
       "Etiqueta ECO por microhibridación",
@@ -608,7 +608,7 @@ export const COCHES_EXP21: CocheComparador[] = [
     parNm: 750,
     traccion: "Total",
     emisionesCo2: 167,
-    aprox: ["emisionesCo2", "anchoMm", "altoMm"],
+    aprox: ["emisionesCo2", "anchoMm", "altoMm", "precioDesde"],
     pros: [
       "367 CV y 750 Nm con 6,3 l/100 km",
       "Etiqueta ECO por microhibridación",
@@ -672,7 +672,7 @@ export const COCHES_EXP21: CocheComparador[] = [
     parNm: 400,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "4,9 l/100 km: el A6 más eficiente de la historia",
       "Etiqueta ECO por microhibridación MHEV plus",
@@ -736,7 +736,7 @@ export const COCHES_EXP21: CocheComparador[] = [
     parNm: 480,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo", "velocidadMax"],
+    aprox: ["consumo", "velocidadMax", "precioDesde"],
     pros: [
       "El 5 cilindros 2.5 TFSI: sonido y carácter únicos",
       "400 CV con 0-100 en 4,5 s",
@@ -800,7 +800,7 @@ export const COCHES_EXP21: CocheComparador[] = [
     parNm: 855,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Su arquitectura PPE de 800 voltios admite picos de 270 kW, así que una parada breve en un cargador potente devuelve muchos kilómetros para seguir viajando sin rutinas largas de enchufe.", "Con 517 CV y 855 Nm repartidos entre ambos ejes, este SUV coupé acelera con contundencia y mantiene tracción quattro eléctrica también saliendo despacio sobre firme mojado o roto.", "Homologa 599 kilómetros WLTP con la batería de 100 kWh: cifra alta para un S de este peso, que permite enlazar jornadas largas sin convertir cada desplazamiento en ejercicio de planificación.", "La familia Q6 logró en EuroNCAP 2024 un 92 % protegiendo a menores, mejor marca infantil de su año, además de tres plazas i-Size poco habituales entre SUV premium.", "Frente a la berlina S6 e-tron, conserva postura elevada, portón amplio y capacidad de remolque de 2.400 kilos según Audi, sumando una silueta Sportback 37 milímetros más baja que el Q6 SUV."],
     contras: ["Arranca en 96.960 euros antes de opciones: queda lejos del Q6 Sportback quattro y obliga a justificar el sobreprecio solo por prestaciones, porque equipamiento y batería comparten base con hermanos más baratos.", "Pesa 2.425 kilos según la ficha, lastre que se nota al frenar fuerte, al cambiar apoyos y en el desgaste esperable de unos neumáticos anchos de 21 pulgadas.", "El maletero se queda en 499 litros y la caída coupé recorta altura útil trasera: para bultos altos o perros grandes, el Q6 SUV e-tron convencional resulta bastante más agradecido.", "Su alcance de 599 kilómetros queda por debajo de los 662 del S6 e-tron y de los 656 del Q6 Sportback performance, pese a compartir batería grande: es el peaje de potencia y aerodinámica S.", "Mide 1.965 milímetros de ancho y 4.771 de largo, así que garajes antiguos, calles estrechas y aparcamientos justos exigen cautela constante; tampoco ayuda una luneta trasera tendida de visibilidad reducida."],
     imagen: "/media/audi-sq6-sportback-e-tron-2025-precio-ficha-tecnica-hero.webp",
@@ -855,7 +855,7 @@ export const COCHES_EXP21: CocheComparador[] = [
     parNm: 855,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Homologa 662 kilómetros con una sola carga, una cifra inhabitual en una berlina eléctrica que al mismo tiempo declara 551 CV y tracción total permanente.", "Sus dos motores suman 855 Nm y catapultan esta carrocería Sportback hasta los 100 km/h en apenas 3,9 segundos, con la velocidad punta fijada en 240 km/h.", "La arquitectura PPE de 800 voltios admite picos de 270 kW en corriente continua, así que en ruta las paradas dependen más del cargador disponible que del propio coche.", "Declara 16,1 kWh cada cien kilómetros según la ficha, una contención notable si se recuerdan sus 2.400 kilos y que viene acompañada de la etiqueta Cero de la DGT.", "La batería queda cubierta durante ocho años o 160.000 kilómetros, un respaldo relevante en un modelo cuyo paquete alcanza los 100 kWh de capacidad bruta."],
     contras: ["Partir de 104.380 euros lo coloca en precio de berlina de representación, antes incluso de sumar cualquier paquete opcional de la lista de extras de Audi.", "Los 2.400 kilos se dejan notar donde más duele en un S: en el desgaste de neumáticos y frenos y en los cambios rápidos de apoyo.", "El maletero se queda en 502 litros, un volumen justo para una carrocería de 4.928 milímetros que pretende servir como único coche familiar de cinco plazas.", "En esta generación ya no queda un S6 térmico al que agarrarse: quien valore el sonido o el ritual de repostar un V8 tendrá que mirar fuera de esta ficha.", "Su pico de 270 kW solo aparece en cargadores HPC compatibles con la arquitectura de 800 voltios; fuera de esa red ideal, la ventaja de la plataforma PPE se diluye en cada parada."],
     imagen: "/media/audi-s6-e-tron-2025-precio-ficha-tecnica-hero.webp",
@@ -910,7 +910,7 @@ export const COCHES_EXP21: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["ceroCien", "velocidadMax", "anchoMm", "altoMm"],
+    aprox: ["ceroCien", "velocidadMax", "anchoMm", "altoMm", "precioDesde"],
     pros: [
       "54.430 €: el SUV coupé de Audi más accesible",
       "6,3 l/100 km con microhibridación",

@@ -55,7 +55,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: 265,
     traccion: "Delantera",
     emisionesCo2: 89,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-clio-vi-2025-e-tech-160-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -136,7 +136,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 104,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-symbioz-2024-e-tech-145-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -379,7 +379,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: 410,
     traccion: "Delantera",
     emisionesCo2: 107,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-austral-2025-e-tech-200-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -460,7 +460,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: 270,
     traccion: "Delantera",
     emisionesCo2: 145,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-austral-2025-mild-hybrid-150-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -541,7 +541,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 12,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-rafale-2024-e-tech-4x4-300-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -622,7 +622,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 12,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-rafale-2025-atelier-alpine-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -703,7 +703,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-megane-e-tech-2026-precio-autonomia-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -772,7 +772,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: 245,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-kangoo-e-tech-combi-2024-precio-autonomia-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -855,7 +855,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: 240,
     traccion: "Delantera",
     emisionesCo2: 152,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-kangoo-2024-tce-130-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -936,7 +936,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: 245,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-5-e-tech-roland-garros-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1005,7 +1005,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: 245,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-5-e-tech-52-kwh-2025-precio-autonomia-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 2.7, "seguroTercerosAnual": 580, "seguroAmpliadoAnual": 980, "mantenimientoAnual": 250, "costeMensualTotal": 96, "precioKwh": 0.18, "precioGasolinaL": 1.6, "notas": "Así sale la cuenta de esta versión concreta: con los 15 kWh/100 km que declara la ficha, hacer 1.000 km al mes pide 150 kWh. Pagando la luz doméstica a 0,18 €/kWh son unos 27 € mensuales de recarga, en línea con los 2,7 € por cada 100 km del objeto. Seguro y mantenimiento se mantienen como estimaciones de la ficha, sin pretender ser una tarifa oficial de Renault.", "estimado": true},
@@ -1159,7 +1159,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: 160,
     traccion: "Delantera",
     emisionesCo2: 132,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-captur-2024-tce-90-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1309,7 +1309,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: 225,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-5-e-tech-40-kwh-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 2.6, "costeMensualTotal": 122, "estimado": true, "mantenimientoAnual": 350, "notas": "Nota calculada solo para este R5 de 40 kWh: homologa 14,5 kWh cada 100 km, así que recorrer 1.000 km en un mes consume en torno a 145 kWh. A 0,18 € por kWh, recargar en casa sale por unos 26 € mensuales. Las partidas de seguro y de revisión anual son orientativas para un urbano eléctrico de este tamaño, no una tarifa cerrada de Renault.", "precioGasolinaL": 0.18, "precioKwh": 0.18, "seguroAmpliadoAnual": 800, "seguroTercerosAnual": 450},
@@ -1377,7 +1377,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: 225,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-4-e-tech-40-kwh-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1446,7 +1446,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-scenic-e-tech-87-kwh-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 3, "costeMensualTotal": 130, "estimado": true, "mantenimientoAnual": 400, "notas": "Cálculo hecho solo para este Scenic de 87 kWh: con su consumo homologado de 16,8 kWh/100 km, recorrer 1.000 km al mes consume unos 168 kWh, que a 0,18 €/kWh salen por unos 30 € mensuales de electricidad. El seguro y la revisión se han estimado mirando lo que pagan SUV eléctricos familiares de su tamaño, no con una tarifa cerrada de Renault.", "precioGasolinaL": 0.18, "precioKwh": 0.18, "seguroAmpliadoAnual": 800, "seguroTercerosAnual": 450},
@@ -1681,7 +1681,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-kangoo-blue-dci-95-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1757,7 +1757,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: 190,
     traccion: "Delantera",
     emisionesCo2: 114,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-clio-vi-tce-115-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1838,7 +1838,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-megane-e-tech-40-kwh-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1919,7 +1919,7 @@ export const COCHES_RENAULT: CocheComparador[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-austral-mild-hybrid-160-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     galeria: [

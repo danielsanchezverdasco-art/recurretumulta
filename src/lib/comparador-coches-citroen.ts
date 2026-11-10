@@ -54,7 +54,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 114,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/citroen-c3-hibrido-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -135,7 +135,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: 125,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/citroen-e-c3-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -223,7 +223,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 120,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/citroen-c3-aircross-hibrido-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -304,7 +304,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: 230,
     traccion: "Delantera",
     emisionesCo2: 106,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/citroen-c4-hibrido-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -385,7 +385,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: 230,
     traccion: "Delantera",
     emisionesCo2: 106,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/citroen-c4-x-hibrido-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -454,7 +454,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/citroen-e-c4-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -537,7 +537,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/citroen-e-c4-x-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -618,7 +618,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/citroen-c5-aircross-hibrido-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -699,7 +699,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/citroen-c5-aircross-phev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -780,7 +780,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: 230,
     traccion: "Delantera",
     emisionesCo2: 116,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/citroen-c5-x-hibrido-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -861,7 +861,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 145,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/citroen-berlingo-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -942,7 +942,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: 400,
     traccion: "Delantera",
     emisionesCo2: 190,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/citroen-spacetourer-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1023,7 +1023,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: 270,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/citroen-e-berlingo-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1104,7 +1104,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/citroen-e-spacetourer-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1185,7 +1185,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: 40,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/citroen-ami-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1455,7 +1455,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: 345,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["pesoKg", "consumo"],
+    aprox: ["pesoKg", "consumo", "precioDesde"],
     imagen: "/media/citroen-e-c5-aircross-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1524,7 +1524,7 @@ export const COCHES_CITROEN: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 16,
-    aprox: ["autonomiaKm", "pesoKg", "bateriaKwh"],
+    aprox: ["autonomiaKm", "pesoKg", "bateriaKwh", "precioDesde"],
     imagen: "/media/citroen-c5-aircross-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

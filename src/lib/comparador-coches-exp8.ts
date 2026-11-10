@@ -135,7 +135,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm", "maleteroL", "parNm"],
+    aprox: ["autonomiaKm", "maleteroL", "parNm", "precioDesde"],
     pros: [
       "Familiar eléctrico de 4,64 m con maletero de 548 litros",
       "Consumo contenido de 15,1 kWh/100 km WLTP",
@@ -190,7 +190,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: 205,
     traccion: "Delantera",
     emisionesCo2: 118,
-    aprox: ["ceroCien", "velocidadMax", "pesoKg", "consumo", "emisionesCo2"],
+    aprox: ["ceroCien", "velocidadMax", "pesoKg", "consumo", "emisionesCo2", "precioDesde"],
     pros: [
       "Motor 1.2 PureTech de 100 CV probado y de mantenimiento sencillo",
       "Consumo contenido para un gasolina: unos 5,2 l/100 km",
@@ -401,7 +401,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: 230,
     traccion: "Delantera",
     emisionesCo2: 127,
-    aprox: ["ceroCien", "velocidadMax", "pesoKg", "consumo", "parNm", "emisionesCo2"],
+    aprox: ["ceroCien", "velocidadMax", "pesoKg", "consumo", "parNm", "emisionesCo2", "precioDesde"],
     pros: [
       "Acceso a la gama 3008 con etiqueta ECO y consumo de 5,6 l/100 km",
       "Sistema de 48 V que permite rodar en eléctrico a baja velocidad",
@@ -456,7 +456,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: 230,
     traccion: "Delantera",
     emisionesCo2: 131,
-    aprox: ["ceroCien", "velocidadMax", "pesoKg", "consumo", "parNm", "emisionesCo2"],
+    aprox: ["ceroCien", "velocidadMax", "pesoKg", "consumo", "parNm", "emisionesCo2", "precioDesde"],
     pros: [
       "7 plazas con etiqueta ECO y consumo de 5,8 l/100 km",
       "Maletero de 748 litros en configuración de 5 plazas",
@@ -719,7 +719,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "400 litros de carga en solo 2,41 m: reparto urbano imbatible",
       "Se conduce con carnet AM desde los 15 años",
@@ -1415,7 +1415,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: 205,
     traccion: "Delantera",
     emisionesCo2: 123,
-    aprox: ["ceroCien", "velocidadMax", "pesoKg", "consumo", "emisionesCo2"],
+    aprox: ["ceroCien", "velocidadMax", "pesoKg", "consumo", "emisionesCo2", "precioDesde"],
     pros: [
       "El 600 de acceso: 1.2 Turbo de 100 CV sencillo y barato de mantener",
       "Maletero de 385 litros, el mejor del 600",
@@ -1955,7 +1955,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: 4800,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["potenciaCv", "autonomiaKm"],
+    aprox: ["potenciaCv", "autonomiaKm", "precioDesde"],
     pros: [
       "540 CV con dos motores en las ruedas traseras: el Renault más potente de la historia",
       "0-100 en 3,5 s y 270 km/h de máxima",
@@ -2010,7 +2010,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 108,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Híbrido de 199 CV con consumo de solo 4,8 l/100 km",
       "Desde 40.284 €: el SUV grande híbrido más asequible",
@@ -2120,7 +2120,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "Batería de 87 kWh con hasta 460 km WLTP: el furgón grande con más autonomía",
       "140 CV y 300 Nm con carga rápida de 130 kW",
@@ -2175,7 +2175,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 99,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Nuevo híbrido de 160 CV con motor 1.8: más empuje que el 145",
       "Consumo de 4,4 l/100 km y solo 99 g/km de CO2",
@@ -2230,7 +2230,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 105,
-    aprox: ["ceroCien", "velocidadMax", "pesoKg"],
+    aprox: ["ceroCien", "velocidadMax", "pesoKg", "precioDesde"],
     pros: [
       "SUV coupé híbrido con consumo de 4,7 l/100 km",
       "Autonomía total de más de 1.000 km con un depósito",
@@ -2285,7 +2285,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: 245,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "7 plazas reales en un eléctrico familiar de 4,91 m",
       "122 CV con 245 Nm: suficiente para uso familiar",
@@ -2340,7 +2340,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: 380,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "2.0 dCi de 170 CV con 380 Nm: el Trafic diésel más capaz",
       "Autonomía para rutas largas sin repostar",
@@ -2450,7 +2450,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: 160,
     traccion: "Delantera",
     emisionesCo2: 132,
-    aprox: ["ceroCien", "velocidadMax", "consumo", "emisionesCo2"],
+    aprox: ["ceroCien", "velocidadMax", "consumo", "emisionesCo2", "precioDesde"],
     pros: [
       "El Captur más asequible: 1.0 TCe de 90 CV",
       "Maletero de 422 litros con banqueta deslizante",
@@ -2505,7 +2505,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 104,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "Nuevo híbrido de 155 CV con motor 1.8 'made in Spain'",
       "Desde 24.450 €: el familiar híbrido de 7 plazas más barato",
@@ -2617,7 +2617,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 134,
-    aprox: ["maleteroL"],
+    aprox: ["maleteroL", "precioDesde"],
     pros: [
       "Primera mecánica del mundo con gasolina, GLP y electricidad a la vez",
       "Tracción 4x4 con motor eléctrico trasero y caja automática",
@@ -2672,7 +2672,7 @@ export const COCHES_EXP8: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 132,
-    aprox: ["maleteroL"],
+    aprox: ["maleteroL", "precioDesde"],
     pros: [
       "El Bigster más versátil: 3 energías y tracción 4x4",
       "Maletero de 667 litros, el mayor de los Dacia",

@@ -63,7 +63,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
     parNm: 305,
     traccion: "Delantera",
     emisionesCo2: 181,
-    aprox: ["consumo", "ceroCien", "velocidadMax", "emisionesCo2"],
+    aprox: ["consumo", "ceroCien", "velocidadMax", "emisionesCo2", "precioDesde"],
     imagen: "/media/beijing-x55-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -375,7 +375,7 @@ export const COCHES_BEIJING_BAIC: CocheComparador[] = [
     parNm: 400,
     traccion: "Total",
     emisionesCo2: 227,
-    aprox: ["parNm"],
+    aprox: ["parNm", "precioDesde"],
     imagen: "/media/beijing-bj60-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

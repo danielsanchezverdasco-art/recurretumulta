@@ -55,7 +55,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 197,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/dfsk-600-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -138,7 +138,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     parNm: 220,
     traccion: "Delantera",
     emisionesCo2: 224,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/dfsk-f5-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -221,7 +221,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     imagen: "/media/dfsk-seres-3-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -387,7 +387,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     parNm: 940,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/dfsk-seres-5-4wd-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -470,7 +470,7 @@ export const COCHES_DFSK: CocheComparador[] = [
     parNm: 465,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["potenciaCv", "parNm", "ceroCien", "maleteroL"],
+    aprox: ["potenciaCv", "parNm", "ceroCien", "maleteroL", "precioDesde"],
     imagen: "/media/dfsk-e5-plus-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

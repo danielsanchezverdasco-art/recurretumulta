@@ -56,7 +56,7 @@ export const COCHES_WULING: CocheComparador[] = [
     parNm: 85,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio"],
+    aprox: ["precio", "precioDesde"],
     imagen: "/media/wuling-hongguang-mini-ev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -134,7 +134,7 @@ export const COCHES_WULING: CocheComparador[] = [
     parNm: 140,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "pesoKg", "consumo"],
+    aprox: ["precio", "pesoKg", "consumo", "precioDesde"],
     imagen: "/media/wuling-air-ev-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -212,7 +212,7 @@ export const COCHES_WULING: CocheComparador[] = [
     parNm: 125,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precio", "pesoKg", "consumo"],
+    aprox: ["precio", "pesoKg", "consumo", "precioDesde"],
     imagen: "/media/wuling-bingo-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -278,7 +278,7 @@ export const COCHES_WULING: CocheComparador[] = [
     parNm: 180,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precio", "consumo"],
+    aprox: ["precio", "consumo", "precioDesde"],
     imagen: "/media/wuling-bingo-plus-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -344,7 +344,7 @@ export const COCHES_WULING: CocheComparador[] = [
     parNm: 330,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precio", "pesoKg", "consumo", "parNm"],
+    aprox: ["precio", "pesoKg", "consumo", "parNm", "precioDesde"],
     imagen: "/media/wuling-cloud-ev-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -423,7 +423,7 @@ export const COCHES_WULING: CocheComparador[] = [
     parNm: 310,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "potenciaCv", "pesoKg", "parNm"],
+    aprox: ["precio", "potenciaCv", "pesoKg", "parNm", "precioDesde"],
     imagen: "/media/wuling-starlight-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -506,7 +506,7 @@ export const COCHES_WULING: CocheComparador[] = [
     parNm: 310,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precio", "pesoKg", "consumo"],
+    aprox: ["precio", "pesoKg", "consumo", "precioDesde"],
     imagen: "/media/wuling-starlight-ev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -584,7 +584,7 @@ export const COCHES_WULING: CocheComparador[] = [
     parNm: 310,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "potenciaCv", "pesoKg"],
+    aprox: ["precio", "potenciaCv", "pesoKg", "precioDesde"],
     imagen: "/media/wuling-starlight-s-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -662,7 +662,7 @@ export const COCHES_WULING: CocheComparador[] = [
     parNm: 310,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precio", "pesoKg", "consumo"],
+    aprox: ["precio", "pesoKg", "consumo", "precioDesde"],
     imagen: "/media/wuling-starlight-s-ev-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -733,7 +733,7 @@ export const COCHES_WULING: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio"],
+    aprox: ["precio", "precioDesde"],
     imagen: "/media/wuling-starlight-730-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 5.2, "costeMensualTotal": 167, "estimado": true, "mantenimientoAnual": 380, "notas": "Nota calculada solo para este monovolumen: se reparte el uso entre trayectos con la batería Shenlian de 20,5 kWh cargada en casa y viajes largos quemando gasolina, porque un siete plazas enchufable rara vez vive siempre en eléctrico. Cuando la carga se agota, la referencia es el consumo oficial de 5,3 l/100 km en ciclo CLTC. Los 380 euros anuales de mantenimiento son una estimación de esta ficha y no una tarifa SGMW: la marca no publica precios de revisión en Europa.", "precioGasolinaL": 1.58, "precioKwh": 0.18, "seguroAmpliadoAnual": 840, "seguroTercerosAnual": 450},
@@ -790,7 +790,7 @@ export const COCHES_WULING: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precio", "velocidadMax"],
+    aprox: ["precio", "velocidadMax", "precioDesde"],
     imagen: "/media/wuling-starlight-730-ev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 2.45, "costeMensualTotal": 126, "estimado": true, "mantenimientoAnual": 300, "notas": "Coste calculado para este 730 EV: con su consumo homologado de 13,6 kWh/100 km, cargar en casa a 0,18 €/kWh sale a 2,45 € cada 100 km. El seguro a todo riesgo de 840 € al año es una estimación española para un monovolumen eléctrico de 136 CV que hoy no se vende aquí, no una tarifa publicada por Wuling.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 840, "seguroTercerosAnual": 450},
@@ -859,7 +859,7 @@ export const COCHES_WULING: CocheComparador[] = [
     parNm: 85,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio"],
+    aprox: ["precio", "precioDesde"],
     imagen: "/media/wuling-zhiguang-ev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -937,7 +937,7 @@ export const COCHES_WULING: CocheComparador[] = [
     parNm: 220,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio"],
+    aprox: ["precio", "precioDesde"],
     imagen: "/media/wuling-yangguang-ev-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

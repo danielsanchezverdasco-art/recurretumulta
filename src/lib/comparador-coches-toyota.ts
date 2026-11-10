@@ -60,7 +60,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: 142,
     traccion: "Delantera",
     emisionesCo2: 100,
-    aprox: ["bateriaKwh"],
+    aprox: ["bateriaKwh", "precioDesde"],
     imagen: "/media/toyota-corolla-touring-sports-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -141,7 +141,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 19,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/toyota-c-hr-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -224,7 +224,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: 390,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/toyota-gr-yaris-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -305,7 +305,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: 500,
     traccion: "Trasera",
     emisionesCo2: 183,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/toyota-gr-supra-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -386,7 +386,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/toyota-highlander-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -556,7 +556,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["bateriaKwh"],
+    aprox: ["bateriaKwh", "precioDesde"],
     imagen: "/media/toyota-c-hr-plus-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -637,7 +637,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/toyota-hilux-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -718,7 +718,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 145,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/toyota-proace-city-verso-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -801,7 +801,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: 370,
     traccion: "Delantera",
     emisionesCo2: 139,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     imagen: "/media/toyota-proace-verso-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -965,7 +965,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: 300,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg", "precioDesde"],
     imagen: "/media/toyota-mirai-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1046,7 +1046,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: 120,
     traccion: "Delantera",
     emisionesCo2: 85,
-    aprox: ["bateriaKwh"],
+    aprox: ["bateriaKwh", "precioDesde"],
     imagen: "/media/toyota-aygo-x-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1127,7 +1127,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: 269,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["bateriaKwh"],
+    aprox: ["bateriaKwh", "precioDesde"],
     imagen: "/media/toyota-bz4x-touring-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1210,7 +1210,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["ceroCien"],
+    aprox: ["ceroCien", "precioDesde"],
     imagen: "/media/toyota-rav4-phev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1293,7 +1293,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: 142,
     traccion: "Delantera",
     emisionesCo2: 100,
-    aprox: ["bateriaKwh"],
+    aprox: ["bateriaKwh", "precioDesde"],
     imagen: "/media/toyota-corolla-berlina-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1479,7 +1479,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 106,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/toyota-yaris-130h-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1562,7 +1562,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 126,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/toyota-rav4-hev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1737,7 +1737,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 87,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/toyota-aygo-x-hybrid-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1809,7 +1809,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 108,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/toyota-c-hr-200h-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 8.88, "costeMensualTotal": 225, "estimado": true, "mantenimientoAnual": 400, "notas": "Cálculo para este C-HR 200H Advance: 15.000 km al año con su consumo WLTP de 4,8 l/100 km y gasolina a 1,85 €/l dan 8,88 € de combustible cada 100 km; seguro y revisión anual son estimaciones propias de este acabado, no tarifas cerradas de Toyota", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 900, "seguroTercerosAnual": 500},
@@ -1885,7 +1885,8 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     traccion: "Total",
     emisionesCo2: 265,
     aprox: [
-      "consumo"
+      "consumo",
+      "precioDesde",
     ],
     imagen: "/media/toyota-hilux-mhev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
@@ -1969,7 +1970,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/toyota-proace-city-verso-electric-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -2047,7 +2048,7 @@ export const COCHES_TOYOTA: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 117,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/toyota-corolla-cross-200h-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

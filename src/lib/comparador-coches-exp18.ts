@@ -50,7 +50,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     parNm: 770,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-ioniq-6-n-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -125,7 +125,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-nexo-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -200,7 +200,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     parNm: 172,
     traccion: "Delantera",
     emisionesCo2: 123,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-i10-n-line-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -263,7 +263,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     parNm: 255,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-kona-electrico-n-line-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -327,7 +327,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     parNm: 172,
     traccion: "Delantera",
     emisionesCo2: 119,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-i20-n-line-mhev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -403,7 +403,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-pv5-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -478,7 +478,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     parNm: 265,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-sportage-gt-line-mhev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -541,7 +541,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     parNm: 350,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-ioniq-5-n-line-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -617,7 +617,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     parNm: 283,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-ev4-gt-line-fastback-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -680,7 +680,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     parNm: 380,
     traccion: "Delantera",
     emisionesCo2: 65,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-tucson-phev-n-line-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -756,7 +756,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-kona-hibrido-n-line-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -831,7 +831,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     parNm: 253,
     traccion: "Delantera",
     emisionesCo2: 130,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-ceed-gt-line-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -906,7 +906,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     parNm: 380,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-tucson-hibrido-n-line-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -981,7 +981,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 146,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-i30-n-line-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1056,7 +1056,7 @@ export const COCHES_EXP18: CocheComparador[] = [
     parNm: 265,
     traccion: "Total",
     emisionesCo2: 164,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-kona-16-tgdi-180-n-line-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

@@ -47,7 +47,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-kona-electrico-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -129,7 +129,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 380,
     traccion: "Delantera",
     emisionesCo2: 126,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-tucson-hibrido-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -229,7 +229,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 379,
     traccion: "Total",
     emisionesCo2: 72,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-tucson-hibrido-enchufable-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -310,7 +310,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 770,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-ioniq-5-n-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -391,7 +391,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 350,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-ioniq-9-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -491,7 +491,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 367,
     traccion: "Delantera",
     emisionesCo2: 172,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-staria-hibrido-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -572,7 +572,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 395,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-nexo-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -653,7 +653,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 380,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-santa-fe-hibrido-enchufable-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -753,7 +753,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 132,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-kona-gasolina-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -834,7 +834,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 147,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-inster-cross-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -915,7 +915,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 265,
     traccion: "Delantera",
     emisionesCo2: 147,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-tucson-gasolina-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -996,7 +996,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 151,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-kona-16-tgdi-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1096,7 +1096,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 172,
     traccion: "Delantera",
     emisionesCo2: 123,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-i30-10-tgdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1165,7 +1165,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 172,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-i20-10-tgdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1247,7 +1247,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 255,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-kona-electrico-49-kwh-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1328,7 +1328,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 320,
     traccion: "Delantera",
     emisionesCo2: 132,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-tucson-diesel-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1635,7 +1635,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 367,
     traccion: "Total",
     emisionesCo2: 160,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-santa-fe-hibrido-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1730,7 +1730,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 265,
     traccion: "Delantera",
     emisionesCo2: 104,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-kona-hibrido-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -2061,7 +2061,7 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 162,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-tucson-16-tgdi-150-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     galeria: [

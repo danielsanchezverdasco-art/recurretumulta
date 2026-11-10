@@ -117,7 +117,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 450,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El 911 más ligero de la gama (1.565 kg): agilidad pura",
       "Cambio manual de 6 marchas: el favorito de los puristas",
@@ -193,7 +193,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 530,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "480 CV y 0-100 en 3,3 s: prestaciones de superdeportivo",
       "308 km/h de velocidad máxima con tracción trasera",
@@ -269,7 +269,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 610,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "541 CV con sistema T-Hybrid: el primer 911 híbrido de la historia",
       "0-100 en 3,0 s y 312 km/h: prestaciones de Turbo por menos dinero",
@@ -345,7 +345,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 800,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "711 CV y 800 Nm: el 911 de serie más potente de la historia",
       "0-100 en 2,5 s: aceleración de hiperdeportivo",
@@ -411,7 +411,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 450,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bóxer atmosférico 4.0 de 510 CV hasta 9.000 rpm: el último de su especie",
       "Chasis de competición con eje delantero de doble trapecio",
@@ -487,7 +487,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 465,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "525 CV y aerodinámica activa con DRS: un coche de carreras matriculable",
       "0-100 en 3,2 s y carga aerodinámica de récord en su segmento",
@@ -563,7 +563,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 610,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "541 CV del T-Hybrid con techo Targa automático: descapotable y prestacional",
       "0-100 en 3,1 s con tracción total: motricidad total",
@@ -639,7 +639,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "408 CV y 0-100 en 4,8 s: el Taycan de acceso ya es muy rápido",
       "Hasta ~559 km de autonomía WLTP con la batería de 89 kWh",
@@ -720,7 +720,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 695,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "544 CV y 695 Nm con tracción total: 0-100 en 3,7 s",
       "560 km de autonomía WLTP",
@@ -796,7 +796,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 940,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Su doble motor con tracción total entrega 884 CV y 940 Nm: el sprint hasta 100 km/h cae en 2,7 segundos y la punta llega a 260 km/h.", "Pese a semejante caballería, homologa 634 kilómetros WLTP alimentado por la batería Performance Battery Plus de 105 kWh.", "La arquitectura de 800 voltios admite picos de 320 kW en corriente continua y Porsche cifra en 18 minutos la recarga del 10 al 80 % del Taycan actualizado.", "El gasto homologado se queda en 17,8 kWh cada 100 kilómetros, una contención notable tratándose de una berlina eléctrica pensada para correr.", "Todos los Taycan renovados en 2024 montan suspensión neumática adaptativa de serie y los Turbo se distinguen por emblemas y detalles en Turbonite gris metálico."],
     contras: ["Arranca en 182.251 €, es decir 75.999 € por encima del Taycan de acceso, compartiendo carrocería, habitáculo y planteamiento general.", "Mueve 2.365 kilos en orden de marcha: en frenadas repetidas y cambios de apoyo esa masa exige muchísimo a neumáticos y frenos.", "Ofrece únicamente cuatro plazas y 450 litros de maletero total, 41 litros menos que el Taycan básico pese a medir 4.962 mm de largo.", "Sus 1.966 mm de anchura complican garajes comunitarios, aparcamientos antiguos y calles estrechas, donde se conduce siempre pendiente de los retrovisores.", "Queda encajado bajo el Turbo GT de la propia casa, con 1.033 CV y 290 km/h por 249.409 €: ni es el Taycan asequible ni es el definitivo."],
     imagen: "/media/porsche-taycan-turbo-2026-precio-ficha-tecnica-hero.webp",
@@ -861,7 +861,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 1240,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "1.033 CV y 1.240 Nm: el Porsche de serie más potente jamás fabricado",
       "0-100 en 2,3 s y 290 km/h: récord de Nürburgring entre berlinas eléctricas",
@@ -937,7 +937,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 610,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Carrocería familiar con 530 l de maletero y portón amplio",
       "614 km de autonomía WLTP: el Taycan que más lejos llega",
@@ -1013,7 +1013,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 500,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "354 CV y 272 km/h: la berlina de acceso con ADN 911",
       "5,05 m de berlina con maletero de 494 l y portón trasero",
@@ -1084,7 +1084,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 650,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "470 CV y 650 Nm: 0-100 en 4,1 s con tracción total",
       "93 km de autonomía eléctrica WLTP: el día a día sin gasolina",
@@ -1150,7 +1150,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 930,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "680 CV y 930 Nm: 0-100 en 3,2 s, la berlina más rápida de Porsche",
       "315 km/h de velocidad máxima",
@@ -1226,7 +1226,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 650,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Reparto de potencia entre ambos ejes con 408 CV en overboost: salir desde parado hasta 100 km/h lleva 5,2 segundos sin pérdidas de tracción", "Homologa 611 kilómetros WLTP, margen de sobra sobre el papel para cubrir un Madrid–Valencia sin detenerse a recargar durante el trayecto", "Veintiún minutos bastan para llevar la batería desde el 10 hasta el 80 % si el poste entrega los 270 kW que el coche admite", "Puede remolcar hasta 2.000 kilos con freno, una capacidad poco habitual entre los SUV eléctricos de este tamaño y enfoque deportivo", "Frente a su primo Audi Q6 e-tron, con quien comparte la base PPE, apuesta por una puesta a punto de chasis más afilada"],
     contras: ["Arrancar en 86.372 euros lo sitúa en territorio de SUV eléctricos más grandes, no en el de un premium de 4.784 mm", "Sus 2.405 kilos se dejan notar en frenadas largas y castigan unos neumáticos traseros que ya miden 285 mm de ancho", "El consumo homologado oscila entre 17,8 y 20,5 kWh/100 km según llanta y equipamiento, así que la autonomía real en autovía cae", "La velocidad máxima se detiene en 220 km/h, exactamente la misma que registra el Macan eléctrico de acceso pese a costar más", "La carga en alterna se queda en 11 kW de serie, así que reponer sus 100 kWh en un wallbox doméstico lleva toda la noche"],
     imagen: "",
@@ -1281,7 +1281,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 1130,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Con 639 CV y 1.130 Nm firmados por sus dos motores eléctricos, despacha el sprint hasta 100 km/h en apenas 3,3 segundos", "Su velocidad punta alcanza 260 km/h, territorio reservado normalmente a coupés deportivos y no a un todocamino de cinco puertas", "Homologa 590 kilómetros WLTP pese a ejercer de buque insignia prestacional, así que viajar lejos no obliga a renunciar al empuje Turbo", "Recargar a 270 kW en corriente continua aprovecha la arquitectura PPE de 800 voltios y acorta muchísimo las paradas durante una ruta larga", "Mantiene cinco asientos dentro de una carrocería SUV de 4.784 mm, por lo que el rendimiento extremo convive con un uso diario perfectamente real"],
     contras: ["Partir de 117.426 euros lo aleja del Audi SQ6 e-tron, su primo sobre esta misma plataforma PPE con un planteamiento bastante más asequible", "Declarar 2.480 kilos en ficha supone un salto enorme frente al Macan de combustión saliente, sensiblemente más ligero en cualquier comparación directa", "El maletero se conforma con 480 litros, una cifra escasa cuando el equipaje familiar debe caber dentro de un coche de este precio", "Su consumo homologado arranca en 18,3 kWh/100 km y explotar con frecuencia los 639 CV en carretera abierta lo elevará sin remedio", "Compartir batería de 100 kWh con los Macan eléctricos inferiores significa abonar el sobreprecio Turbo sin ganar capacidad energética adicional alguna"],
     imagen: "",
@@ -1336,7 +1336,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "354 CV y 500 Nm: el SUV de acceso con motor V6",
       "Maletero de 772 l: el más capaz de la gama Cayenne",
@@ -1402,7 +1402,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 650,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "470 CV y 650 Nm: 0-100 en 4,9 s con etiqueta Cero",
       "76 km de autonomía eléctrica WLTP para el día a día",
@@ -1478,7 +1478,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Línea coupé con techo de cristal de serie: el Cayenne más elegante",
       "354 CV y tracción total con chasis deportivo",
@@ -1554,7 +1554,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 950,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "740 CV y 950 Nm: el Cayenne más potente jamás fabricado",
       "0-100 en 3,7 s y 295 km/h: prestaciones de superdeportivo en SUV",
@@ -1630,7 +1630,7 @@ export const COCHES_PORSCHE: CocheComparador[] = [
     parNm: 450,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor 4.0 atmosférico de 500 CV del 911 GT3: 9.000 rpm a cielo abierto",
       "0-100 en 3,4 s y 308 km/h: el 718 más rápido de la historia",

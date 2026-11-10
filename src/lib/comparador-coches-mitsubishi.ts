@@ -59,7 +59,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 19,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -300,7 +300,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     parNm: 245,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -387,7 +387,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 96,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -544,7 +544,7 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
     parNm: 160,
     traccion: "Delantera",
     emisionesCo2: 118,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mitsubishi-colt-100t-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 8.1, "costeMensualTotal": 164, "estimado": true, "mantenimientoAnual": 350, "notas": "Cálculo exclusivo de esta versión de 91 CV: la gasolina se valora a 1,55 € el litro, así que recorrer cien kilómetros con los 5,2 litros homologados cuesta 8,10 €; sobre 15.000 km anuales, y añadiendo el seguro a terceros y la partida de taller estimados en la tabla, resultan los 164 € al mes, sin que sean tarifas cerradas de la marca", "precioGasolinaL": 1.55, "precioKwh": 0.18, "seguroAmpliadoAnual": 750, "seguroTercerosAnual": 400},

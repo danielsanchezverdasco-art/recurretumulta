@@ -60,7 +60,7 @@ export const COCHES_YANGWANG: CocheComparador[] = [
     parNm: 1280,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm", "velocidadMax"],
+    aprox: ["precio", "autonomiaKm", "velocidadMax", "precioDesde"],
     imagen: "/media/yangwang-u8-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -143,7 +143,7 @@ export const COCHES_YANGWANG: CocheComparador[] = [
     parNm: 1280,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm", "bateriaKwh", "largoMm"],
+    aprox: ["precio", "autonomiaKm", "bateriaKwh", "largoMm", "precioDesde"],
     imagen: "/media/yangwang-u8l-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -226,7 +226,7 @@ export const COCHES_YANGWANG: CocheComparador[] = [
     parNm: 1680,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precio", "autonomiaKm", "precioDesde"],
     imagen: "/media/yangwang-u9-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -387,7 +387,7 @@ export const COCHES_YANGWANG: CocheComparador[] = [
     parNm: 1680,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precio", "autonomiaKm", "precioDesde"],
     imagen: "/media/yangwang-u7-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

@@ -59,7 +59,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 725,
     traccion: "Total",
     emisionesCo2: 350,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lamborghini-revuelto-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -147,7 +147,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 730,
     traccion: "Total",
     emisionesCo2: 272,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lamborghini-temerario-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -235,7 +235,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 950,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lamborghini-urus-se-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -323,7 +323,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 850,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lamborghini-urus-performante-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -411,7 +411,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 850,
     traccion: "Total",
     emisionesCo2: 320,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lamborghini-urus-s-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -492,7 +492,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 565,
     traccion: "Trasera",
     emisionesCo2: 328,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lamborghini-huracan-tecnica-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -580,7 +580,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 565,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lamborghini-huracan-sto-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -656,7 +656,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 600,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lamborghini-huracan-evo-spyder-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -736,7 +736,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 600,
     traccion: "Total",
     emisionesCo2: 332,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lamborghini-huracan-evo-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -817,7 +817,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 560,
     traccion: "Trasera",
     emisionesCo2: 330,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lamborghini-huracan-evo-rwd-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -886,7 +886,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 560,
     traccion: "Trasera",
     emisionesCo2: 335,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lamborghini-huracan-evo-rwd-spyder-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 25.72, "seguroTercerosAnual": 1500, "seguroAmpliadoAnual": 3800, "mantenimientoAnual": 1800, "costeMensualTotal": 788, "precioKwh": 0.18, "precioGasolinaL": 1.85, "notas": "Spyder de gasolina ya fuera de catálogo: con 15.000 km al año, sus 13,9 litros WLTP a 1,85 euros el litro dejan 25,72 euros de combustible cada cien kilómetros; el total suma el seguro ampliado y la revisión anual estimada", "estimado": true},
@@ -1121,7 +1121,7 @@ export const COCHES_LAMBORGHINI: CocheComparador[] = [
     parNm: 565,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lamborghini-huracan-sterrato-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

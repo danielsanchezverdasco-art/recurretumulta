@@ -37,7 +37,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 111,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "27.701 €: la forma más barata de entrar en un Jeep nuevo con etiqueta ECO",
       "4,9 l/100 km WLTP: el Avenger más ahorrador sin enchufe",
@@ -105,7 +105,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     parNm: 205,
     traccion: "Delantera",
     emisionesCo2: 129,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "25.700 €: el Jeep nuevo más barato del mercado español",
       "Solo 1.180 kg: el Avenger más ligero y ágil en ciudad",
@@ -170,7 +170,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 122,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El único B-SUV con tracción total real por ~31.400 € y etiqueta ECO",
       "Motor eléctrico trasero de 29 CV: 4x4 sin árbol de transmisión",
@@ -237,7 +237,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     parNm: 240,
     traccion: "Delantera",
     emisionesCo2: 126,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "28.992 €: el Renegade más equilibrado entre precio, consumo y etiqueta ECO",
       "240 Nm desde 1.500 rpm: empuja mejor de lo que sugieren los 130 CV",
@@ -304,7 +304,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["autonomiaKm", "bateriaKwh"],
+    aprox: ["autonomiaKm", "bateriaKwh", "precioDesde"],
     pros: [
       "Etiqueta Cero con tracción total eléctrica: 4x4 sin árbol de transmisión",
       "Existe en versión de 240 CV (Trailhawk) para quien quiera más empuje",
@@ -371,7 +371,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     parNm: 230,
     traccion: "Delantera",
     emisionesCo2: 133,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "32.541 €: el nuevo Compass más accesible, con plataforma STLA Medium nueva",
       "Maletero de 541 L y 4,55 m: un segmento por encima del Renegade",
@@ -438,7 +438,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "225 CV y 8,0 s de 0-100: el Compass no eléctrico más rápido",
       "90 km eléctricos (100 km en ciudad): de los mejores PHEV del segmento",
@@ -505,7 +505,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "674 km WLTP: la mayor autonomía de cualquier Jeep eléctrico",
       "Batería de 96,3 kWh con carga rápida de 160 kW (20-80 % en ~27 min)",
@@ -572,7 +572,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "375 CV con tracción total eléctrica: el Compass más potente de la historia",
       "Motor trasero con reductora 14:1: 3.100 Nm en las ruedas traseras",
@@ -639,7 +639,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     parNm: 637,
     traccion: "Total",
     emisionesCo2: 79,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "El único Wrangler a la venta en Europa: ahora solo híbrido enchufable",
       "381 CV y 637 Nm: el Wrangler más rápido (6,5 s de 0-100)",
@@ -706,7 +706,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     parNm: 637,
     traccion: "Total",
     emisionesCo2: 66,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "83.250 €: el buque insignia de Jeep en Europa, solo como 4xe",
       "381 CV, 637 Nm y 6,3 s de 0-100: prestaciones de deportivo en 2,4 toneladas",
@@ -861,7 +861,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     parNm: 345,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/jeep-compass-electric-213-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1023,7 +1023,7 @@ export const COCHES_JEEP: CocheComparador[] = [
     parNm: 400,
     traccion: "Total",
     emisionesCo2: 250,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/jeep-wrangler-20t-272-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

@@ -50,7 +50,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: 545,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-elroq-85-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -126,7 +126,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: 679,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-elroq-rs-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -202,7 +202,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: 545,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-enyaq-85-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -266,7 +266,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-enyaq-rs-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 2.8, "costeMensualTotal": 162, "estimado": true, "mantenimientoAnual": 450, "notas": "Cálculo específico para este RS de 340 CV: a 15,8 kWh/100 km, recorrer 1.000 km al mes consume 158 kWh, que cargados en casa a 0,18 euros por kWh suman unos 28 euros. El seguro y la partida de taller son orientativos para un SUV de 2.236 kilos cuya revisión oficial llega cada dos años.", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 1150, "seguroTercerosAnual": 650},
@@ -322,7 +322,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: 545,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-enyaq-coupe-85-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -388,7 +388,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-enyaq-coupe-rs-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 2.9, "costeMensualTotal": 168, "estimado": true, "mantenimientoAnual": 460, "notas": "Cálculo para este Coupé RS: con su consumo homologado de 16,2 kWh/100 km y 1.000 km al mes, cargar en casa a 0,18 €/kWh sale a unos 2,9 € de electricidad por cada 100 km; seguro y mantenimiento son estimación de segmento, no tarifa oficial Skoda", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 1200, "seguroTercerosAnual": 680},
@@ -461,7 +461,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: 370,
     traccion: "Delantera",
     emisionesCo2: 156,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-octavia-rs-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -542,7 +542,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 120,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-octavia-combi-20-tdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -618,7 +618,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 129,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-superb-combi-20-tdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -699,7 +699,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 8,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-superb-iv-hibrido-enchufable-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -775,7 +775,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 127,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-superb-20-tdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -839,7 +839,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: 400,
     traccion: "Total",
     emisionesCo2: 190,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-kodiaq-rs-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1094,7 +1094,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-epiq-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1170,7 +1170,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: 190,
     traccion: "Delantera",
     emisionesCo2: 118,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-fabia-monte-carlo-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1315,7 +1315,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 114,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-octavia-combi-15-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1468,7 +1468,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-kodiaq-20-tdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1549,7 +1549,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-kodiaq-15-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1625,7 +1625,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 121,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-kamiq-10-tsi-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1701,7 +1701,7 @@ export const COCHES_SKODA: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 121,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-scala-15-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

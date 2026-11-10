@@ -62,7 +62,7 @@ export const COCHES_RADICAL: CocheComparador[] = [
     parNm: 156,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["precio", "ceroCien", "velocidadMax"],
+    aprox: ["precio", "ceroCien", "velocidadMax", "precioDesde"],
     imagen: "/media/radical-sr1-xxr-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -140,7 +140,7 @@ export const COCHES_RADICAL: CocheComparador[] = [
     parNm: 163,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["precio", "largoMm", "anchoMm", "altoMm"],
+    aprox: ["precio", "largoMm", "anchoMm", "altoMm", "precioDesde"],
     imagen: "/media/radical-sr3-xxr-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -218,7 +218,7 @@ export const COCHES_RADICAL: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["precio"],
+    aprox: ["precio", "precioDesde"],
     imagen: "/media/radical-sr10-xxr-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

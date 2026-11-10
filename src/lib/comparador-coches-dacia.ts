@@ -33,7 +33,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 160,
     traccion: "Delantera",
     emisionesCo2: 118,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "13.940 €: el coche nuevo más barato de España y líder de ventas año tras año",
       "Motor 1.0 TCe de 91 CV con consumo contenido: 5,2 l/100 km WLTP",
@@ -99,7 +99,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 170,
     traccion: "Delantera",
     emisionesCo2: 105,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "13.940 € con etiqueta ECO de la DGT: la forma más barata de entrar en las ZBE",
       "Doble depósito (50 L gasolina + 40 L GLP): autonomía total de más de 1.000 km",
@@ -164,7 +164,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 170,
     traccion: "Delantera",
     emisionesCo2: 96,
-    aprox: [],
+    aprox: ["precioDesde"],
     fuenteNombre: "hibridosyelectricos.com",
     fuenteUrl: "https://www.hibridosyelectricos.com/coches/pruebas-coches/prueba-coche-mas-vendido-dacia-sandero-motor-hibrido-155-cv-hecho-en-espana_89236_102.html",
     pros: ["Es el primer Sandero con mecánica full hybrid: 155 CV y etiqueta ECO desde 19.890 €, sin necesidad de enchufe", "En ciudad puede moverse con el motor eléctrico hasta el 80 % del tiempo, según Dacia, y homologa solo 4,2 l/100 km", "Su motor de gasolina 1.8 se fabrica en Valladolid y trabaja junto a dos motores eléctricos con una batería de 1,4 kWh", "Con 96 g/km de CO₂ es la primera versión de Dacia que baja de la barrera de los 100 g/km", "Mantiene la carrocería berlina de 4,09 m y 328 litros de maletero, pero suma cambio automático sin embrague para el tráfico diario"],
@@ -211,7 +211,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 160,
     traccion: "Delantera",
     emisionesCo2: 125,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "15.320 €: el crossover más barato del mercado, con estética aventurera",
       "Mayor altura libre y protecciones: mejor para caminos y ciudad con badenes",
@@ -276,7 +276,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 170,
     traccion: "Delantera",
     emisionesCo2: 112,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "15.820 € con etiqueta ECO: el crossover con GLP más barato de España",
       "Doble depósito gasolina + GLP: más de 1.000 km de autonomía total",
@@ -341,7 +341,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 170,
     traccion: "Delantera",
     emisionesCo2: 100,
-    aprox: [],
+    aprox: ["precioDesde"],
     fuenteNombre: "hibridosyelectricos.com",
     fuenteUrl: "https://www.hibridosyelectricos.com/coches/pruebas-coches/prueba-coche-mas-vendido-dacia-sandero-motor-hibrido-155-cv-hecho-en-espana_89236_102.html",
     pros: ["21.290 € y ya es crossover: ningún híbrido completo con carrocería elevada y distintivo ECO se vende más barato en España", "Su carrocería llega a 1.535 mm de altura, 36 mm por encima de la berlina Hybrid, con protecciones Starkle —un 20 % de plástico reciclado— que disimulan los roces del uso diario", "Con barras longitudinales en el techo y una posición al volante más alta, resulta más cómodo para cargar bultos arriba y para afrontar pistas o badenes sin rascar los bajos", "Es el Stepway con más brío: 155 CV, 8,3 s hasta 100 km/h y 180 km/h de punta, cifras que dejan muy atrás a los Stepway TCe 90 y ECO-G 100 de la propia gama", "Aun con la silueta elevada homologa 4,4 l/100 km y 100 g/km de CO₂: solo 0,2 litros más que la berlina Hybrid a cambio del aspecto crossover"],
@@ -388,7 +388,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 205,
     traccion: "Delantera",
     emisionesCo2: 124,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Por 23.190 € entrega 131 CV con etiqueta ECO, una combinación que le permite entrar en las ZBE sin dar el salto de precio al Hybrid de la propia gama.", "Su 1.2 de tres cilindros con apoyo de 48 V homologa 5,5 l/100 km y 124 g/km de CO2, cifras contenidas para un SUV de gasolina de 1.379 kg pensado para hacer muchos kilómetros mixtos.", "Con 517 litros de maletero en solo 4.343 mm de largo, carga como un familiar cuando viajan cinco y sigue siendo fácil de aparcar a diario en ciudad.", "Los 205 Nm y el 0 a 100 km/h en 9,9 s le bastan para adelantar e incorporarse sin apurar el motor, algo que no todos los SUV baratos de acceso resuelven igual."],
     contras: ["Si quieres cambio automático tienes que abandonar esta motorización: el TCe 130 de tracción delantera va ligado al manual de seis marchas.", "La red de 48 V ayuda en arranques y aceleraciones, pero no mueve el coche en eléctrico ni en maniobras, así que no esperes el silencio ni el ahorro urbano de un híbrido completo.", "Esta unidad es 4x2: quien necesite tracción total para pistas, nieve o barro debe pagar la versión TCe 130 4x4, no le vale conformarse con la altura y el aspecto campero de esta.", "En Euro NCAP 2024 la tercera generación se quedó en tres estrellas, con un 57 % en asistentes, un resultado justo frente a rivales que ya ofrecen paquetes de ayudas más completos."],
     imagen: "/media/dacia-duster-tce-130-2025-precio-ficha-tecnica-hero.webp",
@@ -441,7 +441,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 205,
     traccion: "Total",
     emisionesCo2: 135,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "26.090 €: el único 4x4 con etiqueta ECO por menos de 30.000 €",
       "217 mm de altura libre y ángulos 31/36/24°: cotas de auténtico todocamino",
@@ -507,7 +507,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 170,
     traccion: "Delantera",
     emisionesCo2: 122,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "19.990 €: el SUV con etiqueta ECO más barato del mercado español",
       "Doble depósito (50 L gasolina + 28 kg GLP): autonomía total de más de 1.300 km",
@@ -637,7 +637,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 230,
     traccion: "Total",
     emisionesCo2: 134,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "28.290 €: el C-SUV 4x4 con etiqueta ECO más barato del mercado",
       "219 mm de altura libre y modos todoterreno: el Bigster más capaz fuera del asfalto",
@@ -702,7 +702,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 136,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "18.542 €: el familiar de 4,55 m más barato del mercado",
       "Maletero de 708 dm³ VDA en 5 plazas (1.819 dm³ con asientos abatidos)",
@@ -767,7 +767,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 197,
     traccion: "Delantera",
     emisionesCo2: 121,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Por 18.559 € ofrece un monovolumen familiar con distintivo ECO por debajo de 20.000 €",
       "Estrena un turbo 1.2 de 122 CV, es decir, 21 CV por encima del anterior ECO-G 100",
@@ -832,7 +832,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 129,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "19.252 €: el 7 plazas más barato del mercado, sin rival por precio",
       "Tercera fila extraíble: de 7 plazas a furgoneta en minutos",
@@ -897,7 +897,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 197,
     traccion: "Delantera",
     emisionesCo2: 121,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "19.282 €: el único 7 plazas con etiqueta ECO por menos de 20.000 €",
       "1.2 turbo de 122 CV y 197 Nm: el Jogger no híbrido más potente",
@@ -963,7 +963,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 125,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "17.636 €: el coche eléctrico nuevo más barato de España",
       "225 km WLTP con 26,8 kWh: suficiente para el uso urbano diario",
@@ -1029,7 +1029,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 113,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["18.890 € en acabado Expression: es la tarifa de 2024 para acceder al motor potente tras un rediseño que renovó casi toda la carrocería del Spring de 2021", "Con 113 Nm y solo 1.059 kg baja el 0-100 a 13,7 s, frente a los 19,1 s del hermano de 45 CV: incorporarse a una vía rápida deja de exigir tanta anticipación", "Homologa 13,3 kWh/100 km con la batería pequeña de 26,8 kWh: su ligereza hace que cada recarga doméstica rinda más kilómetros que en rivales urbanos más pesados", "El restyling de 2024 añadió carga bidireccional V2L para alimentar aparatos externos, algo insólito en un eléctrico de menos de 19.000 €, y conserva toma CCS con pico de 30 kW", "Batería cubierta durante ocho años con tope de 120.000 km y suelo de capacidad del 75 %, un respaldo largo para un coche pensado como segundo vehículo familiar"],
     contras: ["Pasar del Expression de 45 CV a este de 65 CV costaba 1.000 € en la tarifa de lanzamiento de 2024 y no suma ni un kilovatio hora: la batería y los 228 km homologados son los mismos", "Euro NCAP lo dejó en una estrella en diciembre de 2021, con un 49 % en protección de adultos y protección pobre del pecho del conductor en el choque frontal", "Por un dinero parecido, km77 sitúa al Leapmotor T03 y al BYD Dolphin Surf por delante en tacto de conducción, espacio para pasajeros y prestaciones", "Solo tiene cuatro plazas y las traseras van justas para dos adultos; los 288 litros de maletero resuelven la compra semanal, no el equipaje de unas vacaciones", "En corriente alterna el cargador de a bordo se queda en 6,6 kW, así que recuperar por completo la batería en casa exige varias horas enchufado"],
     imagen: "/media/dacia-spring-electric-65-2024-precio-ficha-tecnica-hero.webp",
@@ -1090,7 +1090,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 205,
     traccion: "Delantera",
     emisionesCo2: 112,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/dacia-duster-hybrid-140-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1155,7 +1155,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 230,
     traccion: "Delantera",
     emisionesCo2: 115,
-    aprox: ["emisionesCo2"],
+    aprox: ["emisionesCo2", "precioDesde"],
     imagen: "/media/dacia-bigster-eco-g-140-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1353,7 +1353,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: 170,
     traccion: "Delantera",
     emisionesCo2: 101,
-    aprox: ["emisionesCo2"],
+    aprox: ["emisionesCo2", "precioDesde"],
     imagen: "/media/dacia-logan-eco-g-100-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1487,7 +1487,7 @@ export const COCHES_DACIA: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 95,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "26.820 €: el crossover híbrido de 155 CV con 4,2 l/100 km más barato del segmento C",
       "Maletero de 600 litros: el más grande entre los crossover híbridos por menos de 27.000 €",

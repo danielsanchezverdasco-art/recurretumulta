@@ -39,7 +39,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
     parNm: 258,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["parNm", "ceroCien", "velocidadMax", "consumo"],
+    aprox: ["parNm", "ceroCien", "velocidadMax", "consumo", "precioDesde"],
     pros: [
       "Berlina liftback de 4,86 m por 28.900 € en España",
       "Motor 1.5 turbo de 160 CV con cambio DCT de 7 velocidades",
@@ -122,7 +122,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
     parNm: 258,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "maleteroL", "ceroCien", "velocidadMax", "consumo"],
+    aprox: ["precio", "maleteroL", "ceroCien", "velocidadMax", "consumo", "precioDesde"],
     pros: [
       "Diseño SUV coupé con trasera fastback muy llamativa",
       "170 CV y 258 Nm por unos 14.300 € al cambio",
@@ -200,7 +200,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
     parNm: 258,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "ceroCien"],
+    aprox: ["precio", "ceroCien", "precioDesde"],
     pros: [
       "6,9 l/100 km WLTC: de los Bestune de gasolina más eficientes",
       "Pantalla de 12,3\" y cuadro digital de 7\" de serie",
@@ -278,7 +278,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
     parNm: 258,
     traccion: "Delantera",
     emisionesCo2: 167,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "A la venta en Europa desde 2026: España, Francia, Alemania e Italia",
       "1.5 turbo de 160 CV y 258 Nm con cambio DCT de 7 velocidades",
@@ -361,7 +361,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
     parNm: 340,
     traccion: "Delantera",
     emisionesCo2: 171,
-    aprox: ["parNm"],
+    aprox: ["parNm", "precioDesde"],
     pros: [
       "252 CV por 28.990 €: potencia de premium a precio generalista",
       "Maletero de 560 litros, el mayor de la gama Bestune",
@@ -444,7 +444,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
     parNm: 340,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "maleteroL", "ceroCien", "velocidadMax"],
+    aprox: ["precio", "maleteroL", "ceroCien", "velocidadMax", "precioDesde"],
     pros: [
       "4,80 m con presencia de SUV grande",
       "2.0 turbo de 224 CV y 340 Nm",
@@ -527,7 +527,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "ceroCien", "consumo"],
+    aprox: ["precio", "autonomiaKm", "ceroCien", "consumo", "precioDesde"],
     pros: [
       "450 km de autonomía NEDC con 61,34 kWh de batería",
       "190 CV y etiqueta Cero de la DGT",
@@ -605,7 +605,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "ceroCien"],
+    aprox: ["precio", "autonomiaKm", "ceroCien", "precioDesde"],
     pros: [
       "Puerta lateral corredera: ideal para taxi y VTC",
       "420 km de autonomía estimada y carga 30-80 % en ~30 min",
@@ -683,7 +683,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "velocidadMax", "consumo"],
+    aprox: ["precio", "velocidadMax", "consumo", "precioDesde"],
     pros: [
       "5,28 m y 7 plazas reales en configuración 2+2+3",
       "2.0T de 252 CV con microhibridación de 48 V",
@@ -766,7 +766,7 @@ export const COCHES_BESTUNE: CocheComparador[] = [
     parNm: 85,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "consumo"],
+    aprox: ["precio", "autonomiaKm", "consumo", "precioDesde"],
     pros: [
       "Desde ~3.500 €: de los eléctricos más baratos del mundo",
       "170 km CLTC, de sobra para el uso urbano diario",

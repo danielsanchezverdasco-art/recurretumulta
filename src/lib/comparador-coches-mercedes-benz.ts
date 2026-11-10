@@ -50,7 +50,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 270,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-clase-a-200-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -131,7 +131,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 335,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     imagen: "/media/mercedes-benz-cla-200-electrico-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -212,7 +212,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 450,
     traccion: "Delantera",
     emisionesCo2: 16,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-cla-250-e-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -293,7 +293,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 440,
     traccion: "Trasera",
     emisionesCo2: 125,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-clase-e-220-d-precio-ficha-tecnica-hero.webp",
     fuenteNombre: "coches.net (datos JATO)",
     fuenteUrl: "https://www.coches.net/fichas_tecnicas/mercedes-benz/clase_e/berlina/4-puertas/e_220_d_197cv_hibrido/67560/784550120250201/",
@@ -391,7 +391,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 550,
     traccion: null,
     emisionesCo2: 12,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-clase-e-300-e-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -472,7 +472,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 270,
     traccion: "Delantera",
     emisionesCo2: 147,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-gla-200-precio-ficha-tecnica-hero.webp",
     fuenteNombre: "auto-data.net",
     fuenteUrl: "https://www.auto-data.net/es/mercedes-benz-gla-h247-facelift-2023-gla-200-163hp-mild-hybrid-7g-dct-50032",
@@ -570,7 +570,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 270,
     traccion: "Delantera",
     emisionesCo2: 156,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-glb-200-precio-ficha-tecnica-hero.webp",
     fuenteNombre: "coches.net (datos JATO)",
     fuenteUrl: "https://www.coches.net/fichas_tecnicas/mercedes-benz/glb/4x4/5-puertas/glb_200_163cv_hibrido/107552/814850820250101/",
@@ -668,7 +668,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 320,
     traccion: "Total",
     emisionesCo2: 161,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-glc-200-precio-ficha-tecnica-hero.webp",
     fuenteNombre: "km77.com",
     fuenteUrl: "https://www.km77.com/coches/mercedes/clase-glc/2023/datos",
@@ -770,7 +770,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 440,
     traccion: "Total",
     emisionesCo2: 136,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-glc-220-d-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -851,7 +851,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 750,
     traccion: "Total",
     emisionesCo2: 11,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-glc-300-de-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -932,7 +932,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 750,
     traccion: "Total",
     emisionesCo2: 16,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-gle-350-de-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1013,7 +1013,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 750,
     traccion: "Total",
     emisionesCo2: 202,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-gle-450-d-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1094,7 +1094,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 560,
     traccion: "Total",
     emisionesCo2: 253,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-clase-g-500-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1175,7 +1175,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 385,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-eqa-250-plus-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1256,7 +1256,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 520,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-eqb-350-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1337,7 +1337,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 565,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-eqe-350-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1418,7 +1418,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 858,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-eqe-suv-500-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1499,7 +1499,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 568,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-eqs-450-plus-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1580,7 +1580,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 560,
     traccion: "Total",
     emisionesCo2: 189,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-clase-s-500-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1661,7 +1661,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: 205,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-amg-a-45-s-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1742,7 +1742,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 1020,
     traccion: "Total",
     emisionesCo2: 156,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-amg-c-63-s-e-performance-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1823,7 +1823,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 800,
     traccion: "Total",
     emisionesCo2: 319,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-amg-gt-63-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1904,7 +1904,7 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
     parNm: 500,
     traccion: null,
     emisionesCo2: 193,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mercedes-benz-clase-v-300-d-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

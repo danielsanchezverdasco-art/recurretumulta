@@ -46,7 +46,7 @@ export const COCHES_AION: CocheComparador[] = [
     parNm: 240,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/aion-v-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 2.97, "costeMensualTotal": 143, "estimado": true, "mantenimientoAnual": 320, "notas": "Escenario calculado solo para este V: se parte de un consumo estimado de 16,5 kWh/100 km, a mitad de camino entre el dato homologado de 16,7 y el uso real, y de cargar en casa. La prueba de testcoches por autopista, con climatización, se fue a unos 21 kWh/100 km, así que en viaje el gasto por kilómetro sube. Ni el seguro ni los 320 € anuales de mantenimiento son tarifas de la marca: GAC no ha publicado en España el precio cerrado de su revisión bienal.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 950, "seguroTercerosAnual": 480},
@@ -115,7 +115,7 @@ export const COCHES_AION: CocheComparador[] = [
     parNm: 210,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aion-ut-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

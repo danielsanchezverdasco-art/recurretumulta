@@ -41,7 +41,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 220,
     traccion: "Delantera",
     emisionesCo2: 128,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-leon-sportstourer-15-tsi-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -125,7 +125,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 117,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-ibiza-10-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -208,7 +208,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 129,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-arona-15-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -279,7 +279,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 121,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-leon-15-etsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -351,7 +351,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["pesoKg", "ceroCien", "velocidadMax"],
+    aprox: ["pesoKg", "ceroCien", "velocidadMax", "precioDesde"],
     imagen: "/media/seat-leon-20-tdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 8.23, "costeMensualTotal": 215, "estimado": true, "mantenimientoAnual": 450, "notas": "Para este cinco puertas de Martorell la energía sale a 8,23 € cada 100 km: son sus 4,7 litros homologados valorados a 1,75 € el litro de gasóleo en un uso anual de 15.000 km; seguro y mantenimiento figuran como referencias orientativas y ya contemplan el AdBlue propio del TDI", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 900, "seguroTercerosAnual": 470},
@@ -426,7 +426,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 28,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-leon-15-ehybrid-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -509,7 +509,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 141,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-ateca-15-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -580,7 +580,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 135,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-ateca-20-tdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 9.1, "costeMensualTotal": 230, "estimado": true, "mantenimientoAnual": 480, "notas": "Cálculo propio para este Ateca diésel: recorrer 15.000 km al año con su consumo homologado de 5,2 l/100 km y gasóleo pagado a 1,75 €/l da los 9,10 € por cada 100 km del cuadro; la póliza y la partida anual de mantenimiento son referencias orientativas de un SUV compacto, con el AdBlue ya contemplado dentro del mantenimiento", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 920, "seguroTercerosAnual": 480},
@@ -655,7 +655,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 127,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-ibiza-15-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -738,7 +738,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 175,
     traccion: "Delantera",
     emisionesCo2: 124,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-arona-10-tsi-95-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -821,7 +821,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 220,
     traccion: "Delantera",
     emisionesCo2: 129,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-leon-15-tsi-115-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -892,7 +892,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 220,
     traccion: "Delantera",
     emisionesCo2: 121,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-leon-15-etsi-115-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -976,7 +976,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 119,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-leon-20-tdi-115-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1047,7 +1047,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 130,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-leon-sportstourer-15-tsi-150-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1214,7 +1214,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 119,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-leon-sportstourer-15-etsi-150-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1297,7 +1297,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 124,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-leon-sportstourer-20-tdi-150-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1463,7 +1463,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 9,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-leon-sportstourer-15-ehybrid-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1546,7 +1546,7 @@ export const COCHES_SEAT: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seat-ateca-20-tdi-115-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

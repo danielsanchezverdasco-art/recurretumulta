@@ -78,7 +78,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
     parNm: 193,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["consumo", "ceroCien"],
+    aprox: ["consumo", "ceroCien", "precioDesde"],
     imagen: "/media/suzuki-evitara-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -179,7 +179,7 @@ const COCHES_LOTE13_A: CocheComparador[] = [
     parNm: 350,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     imagen: "/media/genesis-gv60-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {
@@ -1262,7 +1262,7 @@ const COCHES_LOTE13_B: CocheComparador[] = [
     parNm: 700,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/genesis-gv70-2025-precio-ficha-tecnica-1.webp",
     opiniones: [],
     costeMensual: {

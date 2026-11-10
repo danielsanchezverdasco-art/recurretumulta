@@ -32,7 +32,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 290,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "5 estrellas EuroNCAP 2025, el urbano eléctrico más seguro de su clase",
       "Tacto de conducción go-kart, fiel al ADN Mini",
@@ -112,7 +112,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 330,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Con 402 km WLTP y batería de 54,2 kWh, este SE tres puertas deja atrás los 305 km del Cooper E y encadena desplazamientos interurbanos sin vivir pendiente del enchufe", "Sus 218 CV y 330 Nm firman 6,7 segundos hasta 100 km/h, cuatro décimas menos que el Aceman SE pese a compartir motor, batería y tracción delantera", "La pantalla circular OLED con MINI Operating System 9 concentra instrumentación y multimedia en un elemento inconfundible, ausente en rivales como Renault 5 E-Tech o Peugeot e-208", "Consumo de ficha de 14,1 kWh/100 km, inferior al Aceman SE, y carga continua de 95 kW que resuelve el tramo del 10 al 80 % en unos 30 minutos", "La batería queda cubierta durante 8 años o 160.000 km hasta un 70 % de capacidad, respaldo concreto para un urbano eléctrico de 30.350 euros pensados para durar"],
     contras: ["Maletero de solo 200 litros y cuatro plazas reales: el Aceman SE, su hermano crossover, ofrece 300 litros y una quinta plaza con idéntica base eléctrica compartida", "Acceder a las plazas traseras exige plegar respaldo y contorsionarse por la puerta delantera, peaje diario del formato tres puertas frente a utilitarios eléctricos de cinco accesos", "Partir de 30.350 euros lo sitúa en terreno premium, pagando diseño y emblema donde un Renault 5 E-Tech apuesta por practicidad familiar a igualdad de uso urbano", "Punta autolimitada a 170 km/h y 95 kW de carga: cifras suficientes en autovía española, pero escasas si pretendes cruzar la Península encadenando paradas rápidas cada semana", "Quien solo haga ciudad pagará de más esta versión: el Cooper E conserva carrocería, pantalla y planteamiento, reservando el sobreprecio del SE a quien necesite sus 402 km"],
     imagen: "",
@@ -182,7 +182,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 230,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "Es el Mini de gasolina más racional: 156 CV dan para todo sin entrar en consumos de deportivo",
       "El cambio automático de 7 velocidades viene incluido sin pasar por el catálogo de opciones",
@@ -342,7 +342,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm", "consumo"],
+    aprox: ["autonomiaKm", "consumo", "precioDesde"],
     pros: [
       "258 CV eléctricos: el JCW más rápido de la historia en 0-100 (5,9 s)",
       "5 estrellas EuroNCAP 2025",
@@ -422,7 +422,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 380,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "231 CV y escape deportivo: el JCW de gasolina puro",
       "0-100 en 6,1 s con la banda sonora clásica",
@@ -502,7 +502,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "Es el descapotable más divertido de su segmento, y lo dice su propio planteamiento, no su precio",
       "Sus 204 CV se combinan con una capota eléctrica que se abre en 18 segundos",
@@ -582,7 +582,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "El descapotable Mini más accesible",
       "163 CV suficientes para disfrutar a cielo abierto",
@@ -660,7 +660,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 290,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El Mini eléctrico de 5 puertas y 5 plazas que faltaba",
       "5 estrellas EuroNCAP 2025",
@@ -740,7 +740,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 330,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Cinco puertas y cinco plazas aprovechables en solo 4.079 mm: el salto práctico frente al Cooper SE, que se queda en cuatro asientos", "Batería de 54,2 kWh y 405 km WLTP declarados para encadenar semana laboral y escapadas sin depender cada noche del enchufe", "330 Nm disponibles desde parado y 7,1 segundos hasta 100 km/h, con un consumo oficial contenido de 14,8 kWh/100 km", "Maletero ampliable de 300 a 1.005 litros abatiendo la banqueta trasera en proporción 60:40, según datos publicados por MINI", "Pantalla OLED circular de 24 cm con MINI Operating System 9 que agrupa navegación, climatización, multimedia y ajustes del vehículo"],
     contras: ["Con las cinco plazas ocupadas quedan 300 litros para equipaje, cifra corta si la familia viaja cargada en vacaciones", "La carga en corriente continua toca techo en 95 kW: recuperar del 10 al 80 % exige algo menos de media hora", "No hay alternativa de gasolina ni híbrida en la gama Aceman: sin recarga habitual en casa o trabajo, todo depende de la red pública", "Frente a Volvo EX30, Smart #1 o Jeep Avenger eléctrico juega la carta premium de MINI, no la de la compra más barata", "Velocidad punta limitada a 170 km/h y únicamente tracción delantera: la gama Aceman no contempla ninguna versión con tracción total"],
     imagen: "",
@@ -810,7 +810,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "258 CV y palanca boost: el primer JCW 100 % eléctrico",
       "0-100 en 6,4 s con 355 km de autonomía",
@@ -972,7 +972,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 400,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "300 CV con tracción total: el Countryman más divertido",
       "0-100 en 5,4 s con 5 plazas y 450 litros de maletero",
@@ -1054,7 +1054,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 700,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "6 cilindros diésel con 700 Nm: el Defender más equilibrado",
       "Etiqueta ECO por la hibridación ligera",
@@ -1134,7 +1134,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 650,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "6 cilindros diésel con 650 Nm y etiqueta ECO",
       "Más barato que el D350 con el mismo carácter",
@@ -1214,7 +1214,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 625,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "V8 de 525 CV: el Defender con más carácter",
       "0-100 en 5,4 s en un todoterreno de 2,5 toneladas",
@@ -1294,7 +1294,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 640,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["autonomiaKm", "maleteroL", "consumo"],
+    aprox: ["autonomiaKm", "maleteroL", "consumo", "precioDesde"],
     pros: [
       "404 CV con etiqueta Cero: el Defender que entra en todas las ZBE",
       "Carga rápida en continua de 50 kW, rara en un PHEV",
@@ -1374,7 +1374,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 650,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo", "ceroCien"],
+    aprox: ["consumo", "ceroCien", "precioDesde"],
     pros: [
       "8 plazas de verdad con etiqueta ECO",
       "El Defender familiar definitivo",
@@ -1454,7 +1454,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 550,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "400 CV de gasolina con 8 plazas y etiqueta ECO",
       "Suavidad del 6 cilindros frente al diésel",
@@ -1534,7 +1534,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 550,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "El Defender corto con 400 CV: el más ágil de la gama",
       "4,58 metros: el único Defender usable en ciudad",
@@ -1614,7 +1614,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 750,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "635 CV: el Defender más potente de la historia",
       "0-100 en 4,0 s con suspensión 6D Dynamics",
@@ -1696,7 +1696,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 750,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["maleteroL", "consumo"],
+    aprox: ["maleteroL", "consumo", "precioDesde"],
     pros: [
       "V8 de 530 CV: el buque insignia británico",
       "Lujo absoluto con 818 litros de maletero",
@@ -1776,7 +1776,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 550,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["maleteroL", "consumo"],
+    aprox: ["maleteroL", "consumo", "precioDesde"],
     pros: [
       "400 CV con etiqueta ECO: el Range Rover más sensato",
       "6 cilindros en línea suave y silencioso",
@@ -1856,7 +1856,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 700,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["maleteroL", "consumo"],
+    aprox: ["maleteroL", "consumo", "precioDesde"],
     pros: ["El diésel tope de la tercera generación del Sport: Ingenium de seis cilindros en línea, 350 CV y 700 Nm con apoyo mild-hybrid de 48 V", "Suspensión neumática adaptativa de serie y eje trasero direccional en opción: así disimula los 4.946 mm en puertos de montaña y maniobras urbanas", "900 mm de capacidad de vadeo y Terrain Response 2: fuera del asfalto juega en otra liga que BMW X5, Porsche Cayenne o Mercedes GLE", "Cinco estrellas Euro NCAP en 2022, con un 85 % en protección de ocupantes adultos y otro 85 % en protección infantil"],
     contras: ["Lleva etiqueta ECO y no CERO: si Madrid o Barcelona endurecen el paso de los diésel por sus zonas de bajas emisiones, este D350 lo notará antes que un híbrido enchufable", "Homologa 8,0 l/100 km, pero viajando cargado y sin contemplaciones el gasto real se instala por encima de los nueve litros", "Sus 4.946 mm de largo y 2.047 mm de ancho se pagan a diario en garajes estrechos y plazas de aparcamiento de centro urbano", "Mantenerlo cuesta lo que sugiere su emblema: la revisión completa del plan oficial recogido en esta ficha ronda los 1.000 €"],
     imagen: "",
@@ -1903,7 +1903,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 700,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["autonomiaKm", "consumo"],
+    aprox: ["autonomiaKm", "consumo", "precioDesde"],
     pros: [
       "510 CV con 113 km eléctricos y etiqueta Cero",
       "Carga rápida de 50 kW en continua",
@@ -2223,7 +2223,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 650,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "6 cilindros diésel con 650 Nm y etiqueta ECO",
       "El Range Rover más elegante",
@@ -2543,7 +2543,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "El 5 cilindros: el motor más carismático del segmento",
       "0-100 en 3,8 s con tracción total",
@@ -2708,7 +2708,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 420,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "333 CV con tracción total por menos que un RS3",
       "0-100 en 4,7 s con el 2.0 TFSI evolucionado",
@@ -2788,7 +2788,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 550,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["maleteroL", "consumo"],
+    aprox: ["maleteroL", "consumo", "precioDesde"],
     pros: [
       "367 CV con etiqueta ECO: el SQ5 más eficiente",
       "0-100 en 4,5 s con silueta coupé",
@@ -2870,7 +2870,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["autonomiaKm", "consumo"],
+    aprox: ["autonomiaKm", "consumo", "precioDesde"],
     pros: [
       "367 CV con 110 km eléctricos y etiqueta Cero",
       "Batería de 25,9 kWh con carga en alterna de 11 kW",
@@ -2952,7 +2952,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "367 CV con 100 km eléctricos WLTP y etiqueta Cero",
       "0-100 en 5,1 s: casi como un SQ5",
@@ -3034,7 +3034,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 850,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "640 CV: el SUV de Audi más potente",
       "0-100 en 3,8 s con 605 litros de maletero",
@@ -3198,7 +3198,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 650,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: [
       "550 CV del S58: el M4 definitivo antes del CSL",
       "0-100 en 3,4 s y 302 km/h de punta",
@@ -3280,7 +3280,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 477,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["autonomiaKm", "maleteroL", "consumo"],
+    aprox: ["autonomiaKm", "maleteroL", "consumo", "precioDesde"],
     pros: [
       "245 CV con etiqueta Cero: el monovolumen premium enchufable",
       "84 km eléctricos para el día a día",
@@ -3359,7 +3359,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: ["El B58 de 2.998 cc sigue siendo el argumento: seis cilindros en línea, 374 CV y 500 Nm disponibles entre 1.850 y 5.000 rpm, con empuje lleno desde abajo y estirada hasta la zona alta, sin necesidad de recurrir al M2.", "Arquitectura de coupé clásico en un compacto: plataforma de tracción trasera y reparto de pesos cercano al 50:50, justo lo que el Serie 1 y el Serie 2 Gran Coupé, de base de tracción delantera, no pueden ofrecer.", "La tracción total xDrive no lo convierte en un tracción delantera disfrazado: reparte con criterio de coupé deportivo y permite explotar los 4,4 s de 0 a 100 km/h que recoge la ficha también saliendo de curvas lentas o con el asfalto frío.", "Caja Steptronic Sport de ocho velocidades con levas en el volante, Launch Control y función Sprint, que al mantener pulsada la leva izquierda baja a la marcha más corta posible para un adelantamiento inmediato.", "Con 4.548 mm de largo conserva un maletero de 390 litros y respaldo trasero abatible por partes: es un deportivo de diario y de escapada de dos, no un juguete inutilizable entre semana."],
     contras: ["Pesa 1.765 kg en la ficha de la prueba española del G42: para un coupé compacto es mucho, y se nota en inercias, neumáticos y frenos si encadenas curvas o entras en circuito.", "Las cuatro plazas son teóricas para adultos: el acceso trasero exige contorsionarse por la puerta larga y la caída del techo recorta la altura; detrás viajan bien niños o adultos solo en trayectos cortos.", "No hay cambio manual en esta generación: todo pasa por la automática de ocho velocidades, por buena que sea, algo que el purista que viene de un F22 manual echará en falta.", "Su Serie 2 Coupé se quedó en cuatro estrellas Euro NCAP en 2022, no cinco: la frenada autónoma rindió solo de forma limitada ante ciclistas que cruzan o en giros, con un 64 % en asistentes y un 67 % en usuarios vulnerables."],
     imagen: "",
@@ -3743,7 +3743,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: 1020,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     pros: ["Su M139 longitudinal entrega 476 CV solo de gasolina y, sumado al motor eléctrico trasero de 204 CV, firma los 680 CV y 1.020 Nm de esta ficha", "3,5 segundos hasta 100 km/h y 275 km/h de punta, siempre con la tracción total 4MATIC+ repartiendo el empuje: prestaciones de coupé deportivo en la carrocería familiar del X254", "El turbocompresor eléctrico heredado de la Fórmula 1 empieza a girar antes de que lleguen los gases de escape, así que el 2.0 responde sin la espera típica de un turbo grande", "Lleva dirección en las cuatro ruedas y la Electric Drive Unit trasera con cambio propio de dos relaciones, capaz de mandar par al eje delantero por el árbol de transmisión"],
     contras: ["Adiós al V8: el GLC 63 anterior rendía 510 CV con el biturbo M177 y este se conforma con un 2.0 de cuatro cilindros, con la banda sonora amplificada en vez del bramido de aquel ocho cilindros", "Solo unos 12 km eléctricos homologados y etiqueta ECO, no Cero: la batería de 6,1 kWh que va sobre el eje trasero busca potencia instantánea, no exenciones urbanas", "Con conductor incluido marca 2.310 kg en la báscula y esa masa se nota al frenar y al enlazar curvas, por mucho que el chasis 4MATIC+ la disimule", "143.569 euros de tarifa en España para un conjunto con turbo eléctrico, motor trasero con su propia caja de dos marchas y el MCT de nueve: tanta pieza junta es también tanta pieza que puede fallar"],
     imagen: "",
@@ -3790,7 +3790,7 @@ export const COCHES_EXP23: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: ["Recupera el espíritu de la Bulli clásica y lo cruza con dos motores y tracción total: 340 CV para mover una furgo familiar sin sensación de lentitud", "Detrás de las cinco plazas quedan 1.121 litros útiles, una cifra que ni un Kia EV9 ni un Mercedes-Benz EQV igualan con un formato tan cúbico y aprovechable", "Su batería de 79 kWh admite picos de 185 kW en corriente continua, así que las paradas en ruta se acortan frente a monovolúmenes eléctricos más conservadores al cargar", "Firma 6,1 segundos en el cero a cien pese a su tamaño, y envuelve esas prestaciones en una silueta bicolor inconfundible que homenajea a la Transporter original"],
     contras: ["La factura arranca en 77.730 euros, por encima de lo que pide un Maxus Mifa 9 y en plena zona de SUV eléctricos premium, así que el sobreprecio del apellido GTX se paga casi como un capricho", "Pesa 2.652 kilos y mide 1.985 milímetros de ancho por 1.927 de alto: entrar en parkings antiguos o callejear por centros estrechos exige mucha más atención que en un turismo", "Con 20,8 kWh a los cien y 421 kilómetros homologados, un viaje largo a ritmo sostenido recorta el alcance con rapidez y obliga a planificar la recarga con margen", "La punta está limitada a 160 km/h y esta configuración se queda en cinco plazas, dos límites que pesan si se esperaba un devorakilómetros familiar sin compromisos"],
     imagen: "/media/volkswagen-id-buzz-gtx-2026-precio-ficha-tecnica-hero.webp",

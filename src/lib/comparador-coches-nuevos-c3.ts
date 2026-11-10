@@ -338,7 +338,7 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     parNm: 220,
     traccion: "Delantera",
     emisionesCo2: 120,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El compacto de referencia: equilibrio total entre confort y dinamismo",
       "Golf 8.5 con los errores del 8 corregidos: botones físicos en el volante",

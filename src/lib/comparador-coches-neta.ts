@@ -48,7 +48,7 @@ export const COCHES_NETA: CocheComparador[] = [
     parNm: 150,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "consumo"],
+    aprox: ["precio", "autonomiaKm", "consumo", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -105,7 +105,7 @@ export const COCHES_NETA: CocheComparador[] = [
     parNm: 210,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "pesoKg", "consumo"],
+    aprox: ["precio", "autonomiaKm", "pesoKg", "consumo", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -180,7 +180,7 @@ export const COCHES_NETA: CocheComparador[] = [
     parNm: 310,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "velocidadMax", "cargaRapidaKw"],
+    aprox: ["precio", "autonomiaKm", "velocidadMax", "cargaRapidaKw", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -248,7 +248,7 @@ export const COCHES_NETA: CocheComparador[] = [
     parNm: 330,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precio", "autonomiaKm", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -305,7 +305,7 @@ export const COCHES_NETA: CocheComparador[] = [
     parNm: 620,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "consumo"],
+    aprox: ["precio", "autonomiaKm", "consumo", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -362,7 +362,7 @@ export const COCHES_NETA: CocheComparador[] = [
     parNm: 310,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "consumo"],
+    aprox: ["precio", "autonomiaKm", "consumo", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {

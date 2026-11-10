@@ -58,7 +58,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 103,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-corsa-hibrido-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -129,7 +129,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-corsa-electrico-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -284,7 +284,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 118,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-frontera-hibrido-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 8.32, "costeMensualTotal": 200, "estimado": true, "mantenimientoAnual": 360, "notas": "Cuentas hechas solo para este Hybrid 110: recorrer 15.000 km en un año consume 780 litros según su homologación de 5,2 l/100 km, y a 1,60 € el litro salen 1.248 € de gasolina. Sumados los 800 € del seguro amplio y los 360 € reservados a revisiones quedan 2.408 € anuales, unos 200 € al mes; son estimaciones de la ficha, no tarifas cerradas de Opel.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 800, "seguroTercerosAnual": 400},
@@ -348,7 +348,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 125,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-frontera-electrico-54kwh-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -433,7 +433,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 230,
     traccion: "Delantera",
     emisionesCo2: 108,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-mokka-hibrido-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -504,7 +504,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-mokka-electrico-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -588,7 +588,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 106,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-astra-hibrido-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -659,7 +659,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 49,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-astra-hibrido-enchufable-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -732,7 +732,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 270,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-astra-electrico-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -804,7 +804,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 270,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-astra-sports-tourer-electrico-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -877,7 +877,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-astra-sports-tourer-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -962,7 +962,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 108,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-astra-sports-tourer-hibrido-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1033,7 +1033,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 230,
     traccion: "Delantera",
     emisionesCo2: 122,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-grandland-hibrido-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 8.64, "costeMensualTotal": 230, "estimado": true, "mantenimientoAnual": 500, "notas": "Cálculo propio de esta ficha: recorrer 15.000 km al año cuesta 1.296 € en gasolina, a 8,64 € cada 100 km con el litro a 1,60 € y los 5,4 l/100 km que homologa en ciclo WLTP; sumando 950 € de seguro amplio y 500 € de mantenimiento salen 2.746 € anuales, que son esos 230 € al mes redondeados.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 950, "seguroTercerosAnual": 460},
@@ -1096,7 +1096,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 19,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-grandland-hibrido-enchufable-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1169,7 +1169,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-grandland-electrico-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1241,7 +1241,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 345,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-grandland-electrico-long-range-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1313,7 +1313,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 509,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-grandland-electrico-awd-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1385,7 +1385,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-combo-electrico-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1458,7 +1458,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-zafira-electrico-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1531,7 +1531,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-vivaro-electrico-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1699,7 +1699,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 148,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-combo-xl-diesel-130-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1782,7 +1782,7 @@ export const COCHES_OPEL: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/opel-astra-diesel-130-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

@@ -59,7 +59,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 87,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-2-hybrid-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -140,7 +140,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 136,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-3-25-e-skyactiv-g-5p-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -221,7 +221,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 240,
     traccion: "Delantera",
     emisionesCo2: 128,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-3-20-e-skyactiv-x-5p-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -302,7 +302,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 240,
     traccion: "Delantera",
     emisionesCo2: 125,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-3-20-e-skyactiv-x-sedan-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -383,7 +383,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 240,
     traccion: "Delantera",
     emisionesCo2: 130,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-cx-30-20-e-skyactiv-x-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -464,7 +464,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 205,
     traccion: "Trasera",
     emisionesCo2: 156,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-mx-5-20-skyactiv-g-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -545,7 +545,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 205,
     traccion: "Trasera",
     emisionesCo2: 157,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-mx-5-rf-20-skyactiv-g-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -626,7 +626,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 21,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-mx-30-e-skyactiv-r-ev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -707,7 +707,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: 33,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-cx-60-e-skyactiv-phev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -788,7 +788,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 450,
     traccion: "Trasera",
     emisionesCo2: 129,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-cx-60-33-e-skyactiv-d-200-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -869,7 +869,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 550,
     traccion: "Total",
     emisionesCo2: 139,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-cx-60-33-e-skyactiv-d-254-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -950,7 +950,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: 35,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-cx-80-25-e-skyactiv-phev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1112,7 +1112,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 320,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-6e-long-range-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1193,7 +1193,7 @@ export const COCHES_MAZDA: CocheComparador[] = [
     parNm: 290,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mazda-cx-6e-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

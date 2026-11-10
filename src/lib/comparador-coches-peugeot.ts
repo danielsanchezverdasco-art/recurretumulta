@@ -59,7 +59,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 260,
     traccion: null,
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-e-208-electrico-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -142,7 +142,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 205,
     traccion: "Delantera",
     emisionesCo2: 102,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-208-hibrido-110-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -213,7 +213,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-e-2008-electrico-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -298,7 +298,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 345,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     imagen: "/media/peugeot-e-208-gti-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -369,7 +369,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 270,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-e-308-electrico-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -441,7 +441,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 18,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-308-phev-195-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -526,7 +526,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 111,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-308-sw-hibrido-145-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -597,7 +597,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 18,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-308-sw-phev-195-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -682,7 +682,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 114,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-408-hibrido-145-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -753,7 +753,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-408-phev-240-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -838,7 +838,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 343,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-e-408-electrico-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1004,7 +1004,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 343,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-e-3008-long-range-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1075,7 +1075,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 19,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-3008-phev-195-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1160,7 +1160,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 128,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-5008-hibrido-145-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1243,7 +1243,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-5008-phev-225-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1314,7 +1314,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 30,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-508-phev-225-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1399,7 +1399,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 33,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-508-sw-phev-225-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1482,7 +1482,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 270,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-e-rifter-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1553,7 +1553,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-e-traveller-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1638,7 +1638,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 230,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-3008-hibrido-145-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1721,7 +1721,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 23,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-5008-phev-195-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1804,7 +1804,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 111,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-2008-hibrido-145-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1875,7 +1875,7 @@ export const COCHES_PEUGEOT: CocheComparador[] = [
     parNm: 270,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-e-partner-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

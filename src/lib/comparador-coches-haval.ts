@@ -58,7 +58,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     parNm: 270,
     traccion: "Delantera",
     emisionesCo2: 167,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -145,7 +145,7 @@ export const COCHES_HAVAL: CocheComparador[] = [
     parNm: 530,
     traccion: "Delantera",
     emisionesCo2: 134,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/haval-h6-hev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

@@ -37,7 +37,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["ceroCien", "autonomiaKm"],
+    aprox: ["ceroCien", "autonomiaKm", "precioDesde"],
     pros: [
       "V16 atmosférico de 8,3 litros con Cosworth: 1.000 CV sin turbos",
       "1.800 CV combinados y 445 km/h: el Bugatti más potente de la historia",
@@ -209,7 +209,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
     parNm: 3500,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["ceroCien", "autonomiaKm", "velocidadMax"],
+    aprox: ["ceroCien", "autonomiaKm", "velocidadMax", "precioDesde"],
     pros: [
       "1.724 CV con 4 plazas reales: el hiperdeportivo familiar",
       "Motor tricilíndrico de 2,0 litros y 608 CV: ingeniería extraterrestre",
@@ -295,7 +295,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
     parNm: 1100,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["ceroCien"],
+    aprox: ["ceroCien", "precioDesde"],
     pros: [
       "Un V12 biturbo firmado por AMG entrega 864 CV y se gestiona con una palanca manual de siete relaciones, sin filtro digital entre conductor y máquina",
       "La báscula se queda en 1.280 kg gracias a un monocasco de carbo-titanio, una cifra impropia de un hiperdeportivo descapotable actual",
@@ -725,7 +725,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
     parNm: 500,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["ceroCien"],
+    aprox: ["ceroCien", "precioDesde"],
     pros: [
       "855 kg con 400 CV: la receta de la diversión pura",
       "Carrocería transformable: Barchetta, Roadster, Targa o Coupé",
@@ -811,7 +811,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
     parNm: 2340,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["ceroCien"],
+    aprox: ["ceroCien", "precioDesde"],
     pros: [
       "1.900 CV con tecnología Rimac: 0-100 en 1,86 s",
       "Diseño italiano de Pininfarina: una escultura con ruedas",
@@ -983,7 +983,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
     parNm: 1735,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["ceroCien", "velocidadMax"],
+    aprox: ["ceroCien", "velocidadMax", "precioDesde"],
     pros: [
       "508,7 km/h de media certificada: el más rápido del mundo",
       "V8 biturbo de 5,9 litros con 1.750 CV (con E85)",
@@ -1413,7 +1413,7 @@ export const COCHES_LOTE4: CocheComparador[] = [
     parNm: 750,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["ceroCien", "velocidadMax"],
+    aprox: ["ceroCien", "velocidadMax", "precioDesde"],
     pros: [
       "La marca de los exiliados de Ferrari (1961) resucitada",
       "V8 biturbo central de hasta 700 CV y 750 Nm",

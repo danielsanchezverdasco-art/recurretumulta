@@ -57,7 +57,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
     parNm: 310,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "consumo"],
+    aprox: ["precio", "autonomiaKm", "consumo", "precioDesde"],
     imagen: "/media/roewe-d7-ev-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -140,7 +140,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precio", "autonomiaKm", "precioDesde"],
     imagen: "/media/roewe-d7-dmh-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -223,7 +223,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm", "pesoKg", "parNm", "consumo"],
+    aprox: ["precio", "autonomiaKm", "pesoKg", "parNm", "consumo", "precioDesde"],
     imagen: "/media/roewe-d5x-dmh-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -306,7 +306,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
     parNm: 201,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "consumo"],
+    aprox: ["precio", "autonomiaKm", "consumo", "precioDesde"],
     imagen: "/media/roewe-d6-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -389,7 +389,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
     parNm: 330,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm", "potenciaCv", "parNm"],
+    aprox: ["precio", "autonomiaKm", "potenciaCv", "parNm", "precioDesde"],
     imagen: "/media/roewe-m7-dmh-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -466,7 +466,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "pesoKg"],
+    aprox: ["precio", "pesoKg", "precioDesde"],
     imagen: "/media/roewe-rx5-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 11.04, "costeMensualTotal": 232, "estimado": true, "mantenimientoAnual": 350, "notas": "Cifras pensadas solo para este 1.5T de 188 CV: con 15.000 km anuales y gastando 6,9 l/100 km, el combustible sale a 11,04 € cada 100 km si la gasolina cuesta 1,60 €/l. Como Roewe únicamente lo vende en su mercado doméstico, la vía europea pasa por su gemelo de SAIC, el MG HS de segunda generación.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 780, "seguroTercerosAnual": 420},
@@ -539,7 +539,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
     parNm: 570,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm", "pesoKg"],
+    aprox: ["precio", "autonomiaKm", "pesoKg", "precioDesde"],
     imagen: "/media/roewe-erx5-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -622,7 +622,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
     parNm: 392,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "pesoKg", "consumo"],
+    aprox: ["precio", "pesoKg", "consumo", "precioDesde"],
     imagen: "/media/roewe-rx9-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -705,7 +705,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
     parNm: 158,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio"],
+    aprox: ["precio", "precioDesde"],
     imagen: "/media/roewe-i5-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -788,7 +788,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "consumo", "maleteroL", "pesoKg", "parNm"],
+    aprox: ["precio", "autonomiaKm", "consumo", "maleteroL", "pesoKg", "parNm", "precioDesde"],
     imagen: "/media/roewe-ei5-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -871,7 +871,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "consumo"],
+    aprox: ["precio", "consumo", "precioDesde"],
     imagen: "/media/roewe-imax8-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -954,7 +954,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
     parNm: 390,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precio", "autonomiaKm", "precioDesde"],
     imagen: "/media/roewe-imax8-dmh-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1037,7 +1037,7 @@ export const COCHES_ROEWE: CocheComparador[] = [
     parNm: 158,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "consumo"],
+    aprox: ["precio", "consumo", "precioDesde"],
     imagen: "/media/roewe-i6-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

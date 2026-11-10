@@ -52,7 +52,7 @@ export const COCHES_MAEXTRO: CocheComparador[] = [
     parNm: 673,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "consumo", "cargaRapidaKw"],
+    aprox: ["precio", "autonomiaKm", "consumo", "cargaRapidaKw", "precioDesde"],
     imagen: "/media/maextro-s800-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -120,7 +120,7 @@ export const COCHES_MAEXTRO: CocheComparador[] = [
     parNm: 673,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precio", "consumo", "cargaRapidaKw"],
+    aprox: ["precio", "consumo", "cargaRapidaKw", "precioDesde"],
     imagen: "/media/maextro-s800-erev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

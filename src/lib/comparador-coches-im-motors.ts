@@ -125,7 +125,7 @@ export const COCHES_IM_MOTORS: CocheComparador[] = [
     parNm: 475,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precio", "autonomiaKm", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -193,7 +193,7 @@ export const COCHES_IM_MOTORS: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precio", "autonomiaKm", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {

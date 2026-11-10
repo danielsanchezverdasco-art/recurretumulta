@@ -46,7 +46,7 @@ export const COCHES_NIO: CocheComparador[] = [
     parNm: 700,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -337,7 +337,7 @@ export const COCHES_NIO: CocheComparador[] = [
     parNm: 850,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -662,7 +662,7 @@ export const COCHES_NIO: CocheComparador[] = [
     parNm: 700,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/nio-et5-75-kwh-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -745,7 +745,7 @@ export const COCHES_NIO: CocheComparador[] = [
     parNm: 700,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/nio-et5-touring-75-kwh-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -816,7 +816,7 @@ export const COCHES_NIO: CocheComparador[] = [
     parNm: 850,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/nio-et7-75-kwh-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

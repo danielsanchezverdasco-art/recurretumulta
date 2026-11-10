@@ -147,7 +147,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aixam-e-city-sport-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -224,7 +224,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 78,
-    aprox: ["consumo", "emisionesCo2"],
+    aprox: ["consumo", "emisionesCo2", "precioDesde"],
     imagen: "/media/aixam-city-pack-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -289,7 +289,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 78,
-    aprox: ["consumo", "emisionesCo2"],
+    aprox: ["consumo", "emisionesCo2", "precioDesde"],
     imagen: "/media/aixam-city-sport-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 4.81, "costeMensualTotal": 135, "estimado": true, "mantenimientoAnual": 300, "notas": "Para este City Sport diésel salen 135 € mensuales sumando tres partidas anuales: 600 € del seguro ampliado recogido arriba, 300 € de taller y el gasóleo de recorrer 15.000 km quemando 3,1 litros cada cien, pagados a 1,55 € el litro, que son 4,81 € por cada 100 km.", "precioGasolinaL": 1.55, "precioKwh": 0.18, "seguroAmpliadoAnual": 600, "seguroTercerosAnual": 300},
@@ -345,7 +345,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 78,
-    aprox: ["consumo", "emisionesCo2"],
+    aprox: ["consumo", "emisionesCo2", "precioDesde"],
     imagen: "/media/aixam-city-gto-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -423,7 +423,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 78,
-    aprox: ["consumo", "emisionesCo2"],
+    aprox: ["consumo", "emisionesCo2", "precioDesde"],
     imagen: "/media/aixam-city-eclipse-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -488,7 +488,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 78,
-    aprox: ["consumo", "emisionesCo2", "maleteroL"],
+    aprox: ["consumo", "emisionesCo2", "maleteroL", "precioDesde"],
     imagen: "/media/aixam-coupe-sport-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 4.81, "costeMensualTotal": 137, "estimado": true, "mantenimientoAnual": 300, "notas": "Cálculo propio para este Coupé diésel: recorrer 15.000 km en un año a 3,1 litros cada cien, pagando el gasóleo a 1,55 euros, más la póliza ampliada y el mantenimiento que figuran en esta misma tabla. Son importes orientativos, no una tarifa cerrada de taller.", "precioGasolinaL": 1.55, "precioKwh": 0.18, "seguroAmpliadoAnual": 620, "seguroTercerosAnual": 300},
@@ -544,7 +544,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: 21,
     traccion: "Delantera",
     emisionesCo2: 78,
-    aprox: ["consumo", "emisionesCo2", "maleteroL", "pesoKg"],
+    aprox: ["consumo", "emisionesCo2", "maleteroL", "pesoKg", "precioDesde"],
     imagen: "/media/aixam-coupe-gti-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -635,7 +635,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: 40,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     imagen: "/media/aixam-e-coupe-gti-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -713,7 +713,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 78,
-    aprox: ["consumo", "emisionesCo2"],
+    aprox: ["consumo", "emisionesCo2", "precioDesde"],
     imagen: "/media/aixam-crossline-pack-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -778,7 +778,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 78,
-    aprox: ["consumo", "emisionesCo2", "maleteroL"],
+    aprox: ["consumo", "emisionesCo2", "maleteroL", "precioDesde"],
     imagen: "/media/aixam-crossover-premium-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -844,7 +844,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: 40,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     imagen: "/media/aixam-e-crossover-premium-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -922,7 +922,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: 40,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aixam-e-scouty-evo-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -987,7 +987,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aixam-d-truck-furgon-van-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1053,7 +1053,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aixam-e-truck-furgon-van-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1119,7 +1119,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aixam-e-truck-plataforma-aluminio-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1196,7 +1196,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: 50,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aixam-e-minauto-access-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1273,7 +1273,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: 50,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["parNm"],
+    aprox: ["parNm", "precioDesde"],
     imagen: "/media/aixam-e-minauto-chic-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1350,7 +1350,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 78,
-    aprox: ["consumo", "emisionesCo2", "pesoKg"],
+    aprox: ["consumo", "emisionesCo2", "pesoKg", "precioDesde"],
     imagen: "/media/aixam-minauto-access-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1427,7 +1427,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aixam-easy-access-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1504,7 +1504,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aixam-easy-chic-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1625,7 +1625,7 @@ export const COCHES_AIXAM: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     imagen: "/media/aixam-easy-chic-diesel-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 4.81, "costeMensualTotal": 130, "estimado": true, "mantenimientoAnual": 300, "notas": "Estimación propia de esta ficha para el Chic de gasóleo: el combustible se calcula con el consumo estimado y el precio por litro indicados en la tabla, y se suman el seguro ampliado de 550 € anuales y los 300 € de mantenimiento para llegar a los 130 € mensuales.", "precioGasolinaL": 1.55, "precioKwh": 0.18, "seguroAmpliadoAnual": 550, "seguroTercerosAnual": 280},

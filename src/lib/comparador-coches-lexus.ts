@@ -60,7 +60,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lexus-ux-300e-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -144,7 +144,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 132,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lexus-nx-350h-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 10.5, "costeMensualTotal": 283, "estimado": true, "mantenimientoAnual": 450, "notas": "Estimación para el NX 350h Premium+ de tracción delantera con su consumo WLTP de 5,7 l/100 km y 1.500 km mensuales, sin contar ayudas ni descuentos", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 1050, "seguroTercerosAnual": 550},
@@ -220,7 +220,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lexus-nx-450h-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -304,7 +304,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 143,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lexus-rx-350h-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -388,7 +388,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/lexus-rx-450h-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -472,7 +472,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     parNm: 551,
     traccion: "Total",
     emisionesCo2: 184,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lexus-rx-500h-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -556,7 +556,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     parNm: 266,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lexus-rz-300e-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -640,7 +640,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lexus-rz-450e-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -837,7 +837,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lexus-es-350e-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -921,7 +921,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lexus-es-500e-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1005,7 +1005,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 212,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lexus-ls-500h-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1089,7 +1089,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lexus-lc-500-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1173,7 +1173,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: 184,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lexus-lc-500h-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1257,7 +1257,7 @@ export const COCHES_LEXUS: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lexus-tz-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

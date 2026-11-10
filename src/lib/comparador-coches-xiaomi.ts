@@ -59,7 +59,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     parNm: 400,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL", "consumo", "parNm"],
+    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL", "consumo", "parNm", "precioDesde"],
     imagen: "/media/xiaomi-su7-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -138,7 +138,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     parNm: 400,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL", "consumo", "parNm", "ceroCien"],
+    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL", "consumo", "parNm", "ceroCien", "precioDesde"],
     imagen: "/media/xiaomi-su7-pro-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -217,7 +217,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     parNm: 838,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL", "consumo", "pesoKg"],
+    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL", "consumo", "pesoKg", "precioDesde"],
     imagen: "/media/xiaomi-su7-max-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -373,7 +373,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     parNm: 690,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL"],
+    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL", "precioDesde"],
     imagen: "/media/xiaomi-yu7-pro-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -543,7 +543,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL", "ceroCien", "velocidadMax", "consumo", "pesoKg", "parNm"],
+    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL", "ceroCien", "velocidadMax", "consumo", "pesoKg", "parNm", "precioDesde"],
     imagen: "/media/xiaomi-skynomad-n70-pro-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -609,7 +609,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL", "velocidadMax", "consumo", "pesoKg", "parNm"],
+    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL", "velocidadMax", "consumo", "pesoKg", "parNm", "precioDesde"],
     imagen: "/media/xiaomi-skynomad-n70-max-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -688,7 +688,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL", "velocidadMax", "consumo", "pesoKg", "parNm"],
+    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL", "velocidadMax", "consumo", "pesoKg", "parNm", "precioDesde"],
     imagen: "/media/xiaomi-skynomad-n90-max-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -766,7 +766,7 @@ export const COCHES_XIAOMI: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL", "velocidadMax", "consumo", "pesoKg", "parNm", "ceroCien"],
+    aprox: ["precio", "autonomiaKm", "cargaRapidaKw", "maleteroL", "velocidadMax", "consumo", "pesoKg", "parNm", "ceroCien", "precioDesde"],
     imagen: "/media/xiaomi-skynomad-n90-max-explorer-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

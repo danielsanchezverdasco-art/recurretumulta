@@ -48,7 +48,7 @@ export const CAMPERS_VOLKSWAGEN: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La única camper de su categoría que sale 100 % terminada de la fábrica de Volkswagen, sin carroceros ni transformadores externos",
       "Baño completo de serie con ducha, inodoro y lavabo, algo que casi ninguna camper de 6 metros ofrece",
@@ -167,7 +167,7 @@ export const CAMPERS_VOLKSWAGEN: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Cama trasera longitudinal de hasta 2,00 x 1,67 m, la más grande de la familia California",
       "Cocina más larga que la del 600, con más encimera y más armarios de almacenamiento",

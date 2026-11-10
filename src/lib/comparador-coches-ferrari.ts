@@ -471,7 +471,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -656,7 +656,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     parNm: 800,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ferrari-sf90-stradale-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -824,7 +824,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     parNm: 804,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -1244,7 +1244,7 @@ export const COCHES_FERRARI: CocheComparador[] = [
     parNm: 850,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ferrari-f80-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     euroncap: {

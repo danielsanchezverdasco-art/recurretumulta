@@ -59,7 +59,7 @@ export const COCHES_HONDA: CocheComparador[] = [
     parNm: 420,
     traccion: "Delantera",
     emisionesCo2: 186,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/honda-civic-type-r-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -147,7 +147,7 @@ export const COCHES_HONDA: CocheComparador[] = [
     parNm: 420,
     traccion: "Delantera",
     emisionesCo2: 186,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -196,6 +196,7 @@ export const COCHES_HONDA: CocheComparador[] = [
     tipo: "Híbrido",
     categoria: "Monovolumen",
     precioDesde: 26750,
+    fuenteNombre: "Honda — tarifa oficial España",
     potenciaCv: 122,
     autonomiaKm: null,
     maleteroL: 304,
@@ -309,7 +310,7 @@ export const COCHES_HONDA: CocheComparador[] = [
     parNm: 315,
     traccion: "Delantera",
     emisionesCo2: 130,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -390,7 +391,7 @@ export const COCHES_HONDA: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 58,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -471,7 +472,7 @@ export const COCHES_HONDA: CocheComparador[] = [
     parNm: 315,
     traccion: "Delantera",
     emisionesCo2: 117,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/honda-prelude-ehev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

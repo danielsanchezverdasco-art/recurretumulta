@@ -1447,7 +1447,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     parNm: 530,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["Llega a España en octubre de 2026 desde 28.000 € (PanoramaMotor 23/10/2026); SUV de 4,80 m con cinco motorizaciones", "Garantía de batería: 8 años sin límite de km (GWM Australia)"],
+    aprox: ["Llega a España en octubre de 2026 desde 28.000 € (PanoramaMotor 23/10/2026); SUV de 4, 80 m con cinco motorizaciones", "Garantía de batería: 8 años sin límite de km (GWM Australia)", "precioDesde"],
     pros: ["Garantía de 7 años sin límite de km", "Híbrido de 243 CV con 5,7 l/100 km", "Equipamiento: techo panorámico, HUD y pantalla de 14,6\"", "7 airbags y ADAS completo", "Maletero de 483 L"],
     contras: ["Solo tracción delantera", "Sin rueda de repuesto (kit reparapinchazos)", "Remolque de solo 1.500 kg", "Precio alto frente al Haval H6", "Sin resultado ANCAP/EuroNCAP publicado"],
     imagen: "/media/haval-h7-2025-precio-ficha-tecnica-hero.webp",
@@ -2470,7 +2470,7 @@ export const COCHES_EXP24: CocheComparador[] = [
     parNm: 395,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "901 km CLTC con la batería de 112 kWh: la mayor autonomía de su segmento",
       "5 estrellas EuroNCAP (prueba 2025): 90 % en ocupante adulto",

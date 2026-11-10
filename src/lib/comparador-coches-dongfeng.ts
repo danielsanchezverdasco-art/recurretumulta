@@ -38,7 +38,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
     parNm: 160,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "340 km de autonomía WLTP por 23.859 €, de lo mejor del segmento",
       "Carga rápida de 75 kW: del 20 al 80 % en 30 minutos",
@@ -116,7 +116,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
     parNm: 540,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio"],
+    aprox: ["precio", "precioDesde"],
     pros: [
       "El sistema híbrido Mach Power entrega 241 CV y 540 Nm, cifras de sobra para un SUV familiar",
       "El consumo comedido, de 5,8 l/100 km en ciclo WLTC, es su mejor argumento frente a los gasolina puros",
@@ -194,7 +194,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
     parNm: 320,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precio", "autonomiaKm", "precioDesde"],
     pros: [
       "620 km de autonomía (CLTC) con batería LFP de 70,26 kWh",
       "272 CV y tracción trasera por un precio contenido",
@@ -272,7 +272,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
     parNm: 340,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["precio"],
+    aprox: ["precio", "precioDesde"],
     pros: [
       "210 km en modo 100 % eléctrico + 1.300 km de autonomía total",
       "6 plazas en configuración 2-2-2, formato familiar grande",
@@ -350,7 +350,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
     parNm: 290,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precio", "autonomiaKm", "precioDesde"],
     pros: [
       "184 CV y 401 km (CLTC) por unos 10.400 € en China",
       "Maletero de 500 litros ampliable a 1.040 + frunk de 70",
@@ -522,7 +522,7 @@ export const COCHES_DONGFENG: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio"],
+    aprox: ["precio", "precioDesde"],
     pros: [
       "SUV compacto de 4,63 m por 17.900 €",
       "Cambio automático DCT de 6 velocidades de serie",

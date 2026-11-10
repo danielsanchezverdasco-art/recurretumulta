@@ -56,7 +56,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     parNm: 800,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aston-martin-db12-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -150,7 +150,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     parNm: 800,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aston-martin-db12-volante-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -231,7 +231,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     parNm: 800,
     traccion: "Trasera",
     emisionesCo2: 274,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aston-martin-vantage-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -312,7 +312,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     parNm: 800,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aston-martin-vantage-s-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -474,7 +474,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     parNm: 700,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aston-martin-dbx-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -555,7 +555,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     parNm: 900,
     traccion: "Total",
     emisionesCo2: 323,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aston-martin-dbx707-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -636,7 +636,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     parNm: 900,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aston-martin-dbx-s-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -798,7 +798,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     parNm: 1000,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aston-martin-vanquish-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -879,7 +879,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     parNm: 1000,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aston-martin-vanquish-volante-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -960,7 +960,7 @@ export const COCHES_ASTON_MARTIN: CocheComparador[] = [
     parNm: 1100,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/aston-martin-valhalla-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

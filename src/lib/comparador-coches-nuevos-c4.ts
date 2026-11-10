@@ -35,7 +35,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 99,
-    aprox: ["emisionesCo2"],
+    aprox: ["emisionesCo2", "precioDesde"],
     pros: [
       "Híbrido de 5ª generación con 130 CV: el más eficiente del segmento",
       "Desde 27.500 € con financiación en acabado Active",
@@ -114,7 +114,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: 281,
-    aprox: ["consumo", "emisionesCo2"],
+    aprox: ["consumo", "emisionesCo2", "precioDesde"],
     pros: [
       "2.8 diésel de 204 CV y 500 Nm: un tractor indestructible",
       "Microhibridación 48V con etiqueta ECO",
@@ -272,7 +272,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: 311,
     traccion: "Delantera",
     emisionesCo2: 102,
-    aprox: ["maleteroL", "ceroCien", "parNm"],
+    aprox: ["maleteroL", "ceroCien", "parNm", "precioDesde"],
     pros: [
       "e-Power de 3ª generación con 205 CV: conducción eléctrica sin enchufar",
       "4,5 l/100 km: el Qashqai más eficiente de la historia",
@@ -351,7 +351,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 107,
-    aprox: ["pesoKg", "parNm", "velocidadMax"],
+    aprox: ["pesoKg", "parNm", "velocidadMax", "precioDesde"],
     pros: [
       "Híbrido de 143 CV desde 24.200 €",
       "4,7 l/100 km y 107 g/km con etiqueta ECO",
@@ -430,7 +430,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["largoMm"],
+    aprox: ["largoMm", "precioDesde"],
     pros: [
       "410 km de autonomía WLTP: la eléctrica con más alcance de su clase",
       "Carga rápida de 130 kW en corriente continua",
@@ -497,7 +497,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: 238,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["largoMm", "anchoMm", "ceroCien", "consumo", "parNm"],
+    aprox: ["largoMm", "anchoMm", "ceroCien", "consumo", "parNm", "precioDesde"],
     pros: [
       "Nueva generación: 114 mm más largo que el anterior",
       "2.5 MHEV de 140 CV con etiqueta ECO",
@@ -635,7 +635,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Estética N Line: el Tucson más deportivo",
       "1.6 TGDI MHEV de 150 CV con etiqueta ECO",
@@ -716,7 +716,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 146,
-    aprox: ["maleteroL", "parNm"],
+    aprox: ["maleteroL", "parNm", "precioDesde"],
     pros: [
       "1.6T de 150 CV con estética N Line",
       "Desde 27.490 €",
@@ -783,7 +783,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: 172,
     traccion: "Delantera",
     emisionesCo2: 113,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "1.0 TGDI 48V de 100 CV con etiqueta ECO",
       "Estética N Line muy conseguida",
@@ -945,7 +945,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: 740,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["maleteroL"],
+    aprox: ["maleteroL", "precioDesde"],
     pros: [
       "509 CV y 740 Nm: el Kia más potente de la historia",
       "0-100 en 4,6 s para un SUV de 7 plazas",
@@ -1024,7 +1024,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["parNm"],
+    aprox: ["parNm", "precioDesde"],
     pros: [
       "MHEV de 115 CV con etiqueta ECO",
       "Desde 19.190 € con campaña",
@@ -1103,7 +1103,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Nació eléctrico sobre la plataforma E-GMP.S: no adapta una furgoneta térmica, y su suelo plano explica los 1.330 litros tras la segunda fila", "Recuperar del 10 al 80 % en unos 30 minutos a 150 kW recorta paradas frente al Peugeot e-Rifter, limitado a 100 kW", "Por 38.690 euros queda muy por debajo del Volkswagen ID. Buzz, alternativa eléctrica de concepto parecido pero bastante más cara", "La misma base admite Passenger, Cargo y Chasis Cabina, modularidad que ningún monovolumen familiar convencional ofrece en España", "Batería cubierta ocho años o 160.000 km hasta el 70 % de capacidad, respaldo largo para un modelo recién estrenado"],
     contras: ["Con 122 CV y 2.065 kg, tardar 12,8 segundos hasta 100 km/h se nota saliendo cargado a autopista", "Escoger la batería de 51,5 kWh deja la autonomía WLTP en 288 km; viajar lejos obliga a pagar la de 71,2 kWh", "Mide 1.899 mm de alto y 1.895 mm de ancho: garajes antiguos y parkings estrechos pondrán a prueba su caja cuadrada", "Consumo homologado de 19,2 kWh/100 km, penalizado por una carrocería alta pensada para cargar, no para cortar el aire", "Es el primer PBV de Kia: red específica todavía desplegándose y sin historial que respalde su valor tras tres años"],
     imagen: "/media/kia-pv5-2026-precio-ficha-tecnica-hero.webp",
@@ -1160,7 +1160,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: 295,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "505 km WLTP con batería de 81,4 kWh",
       "Maletero de 566 litros más 44 delanteros",
@@ -1239,7 +1239,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: 283,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["velocidadMax", "parNm"],
+    aprox: ["velocidadMax", "parNm", "precioDesde"],
     pros: [
       "600 km WLTP: autonomía de segmento superior",
       "El eléctrico más vendido en España en 2025",
@@ -1318,7 +1318,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: 562,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["largoMm", "anchoMm", "altoMm", "pesoKg"],
+    aprox: ["largoMm", "anchoMm", "altoMm", "pesoKg", "precioDesde"],
     pros: [
       "2.7 V6 EcoBoost de 335 CV",
       "El 4x4 americano por fin a la venta en España",
@@ -1399,7 +1399,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["pesoKg", "parNm"],
+    aprox: ["pesoKg", "parNm", "precioDesde"],
     pros: [
       "Desde 26.400 € sin IVA: la eléctrica más barata de su clase",
       "254 km de autonomía",
@@ -1624,7 +1624,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: 350,
     traccion: "Delantera",
     emisionesCo2: 11,
-    aprox: ["bateriaKwh"],
+    aprox: ["bateriaKwh", "precioDesde"],
     pros: [
       "PHEV de 150 CV con etiqueta Cero",
       "Precio financiando desde 32.771 € (Ford España)",
@@ -1704,7 +1704,7 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["autonomiaKm", "velocidadMax", "bateriaKwh", "cargaRapidaKw"],
+    aprox: ["autonomiaKm", "velocidadMax", "bateriaKwh", "cargaRapidaKw", "precioDesde"],
     pros: [
       "1.020 CV: la berlina más rápida del mundo",
       "0-100 km/h en 2,1 segundos",

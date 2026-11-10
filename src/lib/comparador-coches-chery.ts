@@ -163,7 +163,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     parNm: 365,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm", "consumo"],
+    aprox: ["precio", "autonomiaKm", "consumo", "precioDesde"],
     imagen: "/media/chery-tiggo-7-csh-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -241,7 +241,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     parNm: 525,
     traccion: "Delantera",
     emisionesCo2: 31,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precio", "autonomiaKm", "precioDesde"],
     imagen: "/media/chery-tiggo-8-csh-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -319,7 +319,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     parNm: 580,
     traccion: "Total",
     emisionesCo2: 14,
-    aprox: ["precio"],
+    aprox: ["precio", "precioDesde"],
     imagen: "/media/chery-tiggo-9-csh-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -397,7 +397,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     parNm: 400,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "consumo"],
+    aprox: ["precio", "consumo", "precioDesde"],
     imagen: "/media/chery-tiggo-9-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -882,7 +882,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     parNm: 148,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "consumo"],
+    aprox: ["precio", "consumo", "precioDesde"],
     imagen: "/media/chery-arrizo-5-plus-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1081,7 +1081,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     parNm: 365,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio"],
+    aprox: ["precio", "precioDesde"],
     imagen: "/media/chery-arrizo-8-csh-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1147,7 +1147,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     parNm: 530,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precio", "autonomiaKm", "precioDesde"],
     imagen: "/media/chery-fulwin-a8l-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1213,7 +1213,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     parNm: 530,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm", "consumo"],
+    aprox: ["precio", "autonomiaKm", "consumo", "precioDesde"],
     imagen: "/media/chery-fulwin-t9-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1284,7 +1284,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precio", "autonomiaKm", "precioDesde"],
     imagen: "/media/chery-fulwin-t10-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1362,7 +1362,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     parNm: 150,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "consumo"],
+    aprox: ["precio", "autonomiaKm", "consumo", "precioDesde"],
     imagen: "/media/chery-eq1-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1440,7 +1440,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     parNm: 285,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm", "consumo", "cargaRapidaKw"],
+    aprox: ["precio", "autonomiaKm", "consumo", "cargaRapidaKw", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -1508,7 +1508,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     parNm: 290,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precio", "consumo", "parNm"],
+    aprox: ["precio", "consumo", "parNm", "precioDesde"],
     imagen: "/media/chery-explorer-06-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1591,7 +1591,7 @@ export const COCHES_CHERY: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["precio", "cargaRapidaKw"],
+    aprox: ["precio", "cargaRapidaKw", "precioDesde"],
     imagen: "/media/chery-explorer-06-c-dm-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

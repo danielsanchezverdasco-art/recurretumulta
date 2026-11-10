@@ -274,7 +274,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg-4-urban-ev-2026-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -375,7 +375,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/byd-seal-06-ev-2026-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1762,7 +1762,7 @@ export const COCHES_LOTE11: CocheComparador[] = [
     parNm: 340,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["bateriaKwh"],
+    aprox: ["bateriaKwh", "precioDesde"],
     imagen: "/media/bestune-yueyi-07-2025-hero.webp",
     opiniones: [],
     costeMensual: {

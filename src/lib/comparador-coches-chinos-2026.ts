@@ -567,7 +567,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     parNm: 985,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "918 CV y 2,95 s: el SUV eléctrico más rápido de su clase",
       "490 km WLTP homologados en Europa",
@@ -1040,7 +1040,7 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
     parNm: null,
     traccion: "4x4",
     emisionesCo2: null,
-    aprox: ["precio"],
+    aprox: ["precio", "precioDesde"],
     pros: [
       "1.113 CV: el 4x4 híbrido más potente de su precio",
       "247 km eléctricos WLTP con batería CATL LFP de 47,14 kWh",

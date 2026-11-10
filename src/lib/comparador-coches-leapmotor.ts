@@ -138,7 +138,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     parNm: 240,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/leapmotor-b10-reev-2026-precio-ficha-tecnica-foto5.webp",
     opiniones: [],
     costeMensual: {
@@ -231,7 +231,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     parNm: 240,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["emisionesCo2"],
+    aprox: ["emisionesCo2", "precioDesde"],
     imagen: "/media/leapmotor-b05-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -319,7 +319,7 @@ export const COCHES_LEAPMOTOR: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["emisionesCo2"],
+    aprox: ["emisionesCo2", "precioDesde"],
     imagen: "/media/leapmotor-b03x-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

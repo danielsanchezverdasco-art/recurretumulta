@@ -50,7 +50,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-a1-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -131,7 +131,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 220,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-a3-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -293,7 +293,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 280,
     traccion: "Delantera",
     emisionesCo2: 149,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-a5-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -374,7 +374,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 550,
     traccion: "Total",
     emisionesCo2: 170,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-s5-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -455,7 +455,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 435,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-a6-e-tron-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -536,7 +536,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 435,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-a6-avant-e-tron-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -617,7 +617,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 400,
     traccion: "Delantera",
     emisionesCo2: 39,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-q3-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -698,7 +698,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 340,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-q5-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -779,7 +779,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 550,
     traccion: "Total",
     emisionesCo2: 186,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-sq5-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -860,7 +860,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 450,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-q6-e-tron-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -941,7 +941,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: 204,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-q7-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1022,7 +1022,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: 213,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-q8-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1103,7 +1103,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 895,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-e-tron-gt-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1184,7 +1184,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 895,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-rs-e-tron-gt-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1265,7 +1265,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 600,
     traccion: "Total",
     emisionesCo2: 187,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-a8-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1346,7 +1346,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 800,
     traccion: "Total",
     emisionesCo2: 295,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-rs-q8-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1427,7 +1427,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 850,
     traccion: "Total",
     emisionesCo2: 286,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-rs6-avant-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1508,7 +1508,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 140,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-q2-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1589,7 +1589,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 825,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-rs5-avant-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1670,7 +1670,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 820,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-sq6-e-tron-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1751,7 +1751,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 770,
     traccion: "Total",
     emisionesCo2: 272,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-sq7-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1832,7 +1832,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/audi-s6-avant-e-tron-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1895,7 +1895,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 310,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "El Audi eléctrico más accesible: desde 49.970 € con 440 km WLTP",
       "Maletero de 520 L: un SUV familiar de verdad",
@@ -1976,7 +1976,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 500,
     traccion: "Total",
     emisionesCo2: 213,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El 5 cilindros 2.5 TFSI de 400 CV: un sonido único en el segmento",
       "0-100 en 3,8 s: prestaciones de deportivo por 79.060 €",
@@ -2057,7 +2057,7 @@ export const COCHES_AUDI: CocheComparador[] = [
     parNm: 630,
     traccion: "Total",
     emisionesCo2: 202,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Primicia mundial: paneles OLED digitales curvados en 3D (512 segmentos en 6 paneles)",
       "V6 TDI de 299 CV y 630 Nm con MHEV plus y compresor eléctrico: 0-100 en 6,5 s",

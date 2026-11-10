@@ -55,7 +55,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     parNm: 285,
     traccion: "Delantera",
     emisionesCo2: 174,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -123,7 +123,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio"],
+    aprox: ["precio", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -247,7 +247,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     parNm: 340,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precio", "autonomiaKm", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 3.06, "costeMensualTotal": 128, "estimado": true, "mantenimientoAnual": 300, "notas": "Presupuesto construido solo para este Friday: recorrer 100 km cuesta 3,06 € porque el cálculo parte de unos 17 kWh valorados a 0,18 € en un enchufe doméstico. Ni el seguro ni los 300 € anuales de revisión salen de una tarifa de Dongfeng Forthing, marca sin red española que las publique.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 780, "seguroTercerosAnual": 440},
@@ -362,7 +362,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     parNm: 310,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precio", "autonomiaKm", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 2.14, "costeMensualTotal": 118, "estimado": true, "mantenimientoAnual": 300, "notas": "Cálculo anclado en esta versión 565: multiplicar sus 11,9 kWh homologados en China por 0,18 euros da los 2,14 euros por cien kilómetros. El seguro y los 300 euros anuales de mantenimiento son estimaciones propias, porque Dongfeng Forthing carece de red y de tarifas publicadas en España para el Xinghai S7.", "precioGasolinaL": 1.6, "precioKwh": 0.18, "seguroAmpliadoAnual": 800, "seguroTercerosAnual": 450},
@@ -545,7 +545,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 180,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -613,7 +613,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio"],
+    aprox: ["precio", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -681,7 +681,7 @@ export const COCHES_FORTHING: CocheComparador[] = [
     parNm: 310,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: ["precio", "autonomiaKm"],
+    aprox: ["precio", "autonomiaKm", "precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {

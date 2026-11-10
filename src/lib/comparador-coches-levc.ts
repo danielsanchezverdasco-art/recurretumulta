@@ -212,7 +212,7 @@ export const COCHES_LEVC: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: 19,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/levc-vn5-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

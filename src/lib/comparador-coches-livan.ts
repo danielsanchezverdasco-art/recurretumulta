@@ -54,7 +54,7 @@ export const COCHES_LIVAN: CocheComparador[] = [
     parNm: 140,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/livan-x3-pro-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -137,7 +137,7 @@ export const COCHES_LIVAN: CocheComparador[] = [
     parNm: 290,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/livan-x6-pro-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

@@ -63,7 +63,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     parNm: 410,
     traccion: "Delantera",
     emisionesCo2: 107,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-austral-2026-e-tech-200-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -128,7 +128,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 132,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-arkana-2026-tce-140-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -193,7 +193,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 104,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-symbioz-2026-e-tech-145-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -258,7 +258,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-megane-e-tech-2026-lfp-67-kwh-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -323,7 +323,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 108,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-espace-2026-e-tech-200-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -388,7 +388,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 108,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-rafale-e-tech-200-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -453,7 +453,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     parNm: 225,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-5-e-tech-40-kwh-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -518,7 +518,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     parNm: 245,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-4-e-tech-52-kwh-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -583,7 +583,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     parNm: 280,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-scenic-e-tech-60-kwh-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -648,7 +648,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 123,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/dacia-duster-2026-mild-hybrid-140-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -713,7 +713,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 107,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/dacia-duster-2026-hybrid-155-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -778,7 +778,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 121,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/dacia-duster-2026-eco-g-120-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -843,7 +843,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     parNm: 230,
     traccion: "Delantera",
     emisionesCo2: 122,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/dacia-bigster-2026-tce-140-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -908,7 +908,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     parNm: 172,
     traccion: "Delantera",
     emisionesCo2: 105,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/dacia-bigster-2026-hybrid-155-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -973,7 +973,7 @@ export const COCHES_EXP19: CocheComparador[] = [
     parNm: 300,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/alpine-a290-rallye-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: null,

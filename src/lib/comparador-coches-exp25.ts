@@ -153,7 +153,7 @@ export const COCHES_EXP25: CocheComparador[] = [
     parNm: 365,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "279 CV y 365 Nm con el sistema Super Hybrid System (1.5 TGDI + 2 motores eléctricos)",
       "92 km eléctricos WLTP: el trayecto diario sin gastar gasolina",
@@ -260,7 +260,7 @@ export const COCHES_EXP25: CocheComparador[] = [
     parNm: 125,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["bateriaKwh"],
+    aprox: ["bateriaKwh", "precioDesde"],
     pros: [
       "Desde 24.900 €: de los SUV eléctricos más baratos de Europa",
       "308 km WLTP con batería LFP de 44 kWh y carga rápida de 100 kW",
@@ -367,7 +367,7 @@ export const COCHES_EXP25: CocheComparador[] = [
     parNm: 210,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Con 2.775 mm de batalla y respaldos traseros reclinables, homologa 510 km WLTP y hasta 702 km en ciudad con su batería LFP de 75,3 kWh", "Recarga en corriente continua a 180 kW que completa el salto del 10 al 80 % en 24 minutos, con bomba de calor de serie para contener el consumo en invierno", "Máxima puntuación en el impacto lateral con barrera dentro de su prueba Euro NCAP de septiembre de 2025, con airbag central entre los asientos delanteros", "El acabado Luxury, por 40.595 €, añade nevera de 6,6 litros regulable entre −15 y +50 °C y masaje de ocho puntos en las plazas delanteras", "Ensamblado en Graz por Magna Steyr para Europa, con centro europeo de recambios en Róterdam pensado para acortar los plazos de posventa"],
     contras: ["Su frontal cerrado y de formas cuadradas divide opiniones: la prensa española que lo ha probado lo resume como tan feo como bueno en todo lo demás", "Solo 427 litros de maletero en una carrocería de 4.605 mm, y 978 litros con los asientos abatidos: menos de lo que su tamaño exterior promete a una familia", "Con 1.955 kg en orden de marcha y la velocidad punta recortada a 160 km/h, no es un SUV pensado para ritmos altos y sostenidos en autopista", "Grupo Invicta arranca con 29 puntos en la Península y la cobertura inicial se concentra en las grandes áreas metropolitanas: fuera de ellas, el servicio queda lejos en 2026", "Casi todas las funciones pasan por la pantalla central de 14,6 pulgadas, con pocos botones físicos para el clima y errores de traducción señalados en las primeras pruebas europeas"],
     imagen: "/media/gac-aion-v-2024-precio-ficha-tecnica-hero.webp",

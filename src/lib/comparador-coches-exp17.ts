@@ -54,7 +54,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-amarok-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -118,7 +118,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 119,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-golf-20-tdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 6.98, "costeMensualTotal": 174, "estimado": true, "mantenimientoAnual": 320, "notas": "Cifra mensual de esta versión: recorrer 15.000 km al año pagando el gasóleo a 1,55 € por litro da 6,98 € cada 100 km; sumados el seguro amplio de 720 € y los 320 € de taller resultan los 174 € al mes", "precioGasolinaL": 1.55, "precioKwh": 0.18, "seguroAmpliadoAnual": 720, "seguroTercerosAnual": 380},
@@ -185,7 +185,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: 420,
     traccion: "Total",
     emisionesCo2: 187,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-golf-r-variant-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -261,7 +261,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: 600,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-touareg-30-tdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -337,7 +337,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: 320,
     traccion: "Total",
     emisionesCo2: 159,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-golf-variant-r-line-20-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -438,7 +438,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: 400,
     traccion: "Total",
     emisionesCo2: 190,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-tiguan-20-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -514,7 +514,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 133,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-taigo-15-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -590,7 +590,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-t-cross-15-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -691,7 +691,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-tayron-15-etsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -767,7 +767,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: 320,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/volkswagen-tayron-20-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -868,7 +868,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: 320,
     traccion: "Total",
     emisionesCo2: 153,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-octavia-20-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -944,7 +944,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: 320,
     traccion: "Total",
     emisionesCo2: 155,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-octavia-combi-20-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1020,7 +1020,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: 320,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-kodiaq-20-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1096,7 +1096,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-superb-20-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1172,7 +1172,7 @@ export const COCHES_EXP17: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 123,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/skoda-fabia-15-tsi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

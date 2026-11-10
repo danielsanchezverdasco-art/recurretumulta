@@ -63,7 +63,7 @@ const COCHES_LOTE1_A: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     imagen: "/media/lancia-gamma-2026-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -861,7 +861,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
     parNm: null,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     imagen: "/media/lancia-gamma-hf-2026-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1063,7 +1063,7 @@ const COCHES_LOTE1_C: CocheComparador[] = [
     parNm: 260,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: ["consumo"],
+    aprox: ["consumo", "precioDesde"],
     imagen: "/media/gwm-ora-5-2026-hero.webp",
     opiniones: [],
     costeMensual: {

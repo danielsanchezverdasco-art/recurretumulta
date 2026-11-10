@@ -49,7 +49,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 365,
     traccion: null,
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lepas-l8-chery-hibrido-enchufable-precio-espana-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -130,7 +130,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 560,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     imagen: "/media/skoda-peaq-suv-electrico-7-plazas-precio-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -220,7 +220,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 225,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-5-e-tech-2026-precio-autonomia-hero.webp",
     opiniones: [
       {
@@ -320,7 +320,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 935,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/zeekr-9x-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -424,7 +424,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 175,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-twingo-e-tech-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -507,7 +507,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 650,
     traccion: "Total",
     emisionesCo2: 38,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/omoda-9-shs-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -607,7 +607,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 275,
     traccion: "Delantera",
     emisionesCo2: 159,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/jaecoo-5-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -701,7 +701,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 240,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/leapmotor-b10-electrico-precio-espana-hero.webp",
     opiniones: [
       {
@@ -810,7 +810,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 290,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/byd-atto-2-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -921,7 +921,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 275,
     traccion: "Delantera",
     emisionesCo2: 159,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ebro-s700-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -1016,7 +1016,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 440,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/xpeng-g6-2026-restyling-precio-espana-hero.webp",
     opiniones: [
       {
@@ -1116,7 +1116,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 290,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/deepal-s07-precio-espana-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1290,7 +1290,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 205,
     traccion: "Delantera",
     emisionesCo2: 105,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/dacia-bigster-hybrid-precio-espana-hero.webp",
     opiniones: [
       {
@@ -1397,7 +1397,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 750,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: ["pesoKg", "consumo"],
+    aprox: ["pesoKg", "consumo", "precioDesde"],
     imagen: "/media/hongqi-e-hs9-ficha-tecnica-precio-hero.webp",
     opiniones: [
       {
@@ -1491,7 +1491,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 620,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/voyah-dream-ficha-tecnica-precio-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1572,7 +1572,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 373,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["pesoKg", "consumo", "parNm"],
+    aprox: ["pesoKg", "consumo", "parNm", "precioDesde"],
     imagen: "/media/smart-5-electrico-ficha-tecnica-precio-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1664,7 +1664,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 661,
     traccion: "Total",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/alpine-a390-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -1774,7 +1774,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 225,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/renault-4-e-tech-precio-autonomia-hero.webp",
     opiniones: [
       {
@@ -1878,7 +1878,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 343,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/peugeot-e-5008-electrico-7-plazas-precio-hero.webp",
     opiniones: [
       {
@@ -1984,7 +1984,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 137,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/dacia-spring-2026-nueva-generacion-precio-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -2065,7 +2065,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 420,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/seres-5-electrico-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -2387,7 +2387,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 360,
     traccion: "Delantera",
     emisionesCo2: 162,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -2563,7 +2563,7 @@ export const COCHES_BASE: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/hyundai-ioniq-3-2026-ficha-1.webp",
     opiniones: [],
     costeMensual: {

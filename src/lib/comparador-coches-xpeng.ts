@@ -60,7 +60,7 @@ export const COCHES_XPENG: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/xpeng-g9-2026-restyling-precio-espana-hero.webp",
     opiniones: [
       {
@@ -154,7 +154,7 @@ export const COCHES_XPENG: CocheComparador[] = [
     parNm: 440,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/xpeng-p7-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -225,7 +225,7 @@ export const COCHES_XPENG: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/xpeng-x9-2026-precio-europa-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -296,7 +296,7 @@ export const COCHES_XPENG: CocheComparador[] = [
     parNm: 440,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: ["anchoMm"],
+    aprox: ["anchoMm", "precioDesde"],
     imagen: "/media/xpeng-g6-2025-precio-espana-hero.webp",
     opiniones: [
       {
@@ -479,7 +479,7 @@ export const COCHES_XPENG: CocheComparador[] = [
     parNm: null,
     traccion: "Trasera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/xpeng-l03-2026-precio-espana-hero.webp",
     opiniones: [],
     galeria: [

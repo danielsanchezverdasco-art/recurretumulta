@@ -57,7 +57,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg3-gasolina-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -135,7 +135,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 141,
     traccion: "Delantera",
     emisionesCo2: 149,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg-zs-gasolina-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -213,7 +213,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 275,
     traccion: "Delantera",
     emisionesCo2: 173,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg-hs-gasolina-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -291,7 +291,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 340,
     traccion: "Delantera",
     emisionesCo2: 126,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg-hs-hybrid-plus-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -357,7 +357,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 250,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg4-electric-standard-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -435,7 +435,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 250,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg4-electric-comfort-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -513,7 +513,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 250,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg4-electric-luxury-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -604,7 +604,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 350,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg4-electric-extended-range-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -682,7 +682,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 600,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg4-electric-xpower-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -760,7 +760,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 250,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg4-urban-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -838,7 +838,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 280,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -906,7 +906,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 410,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg-marvel-r-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -987,7 +987,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 475,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -1055,7 +1055,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 725,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg-cyberster-gt-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1141,7 +1141,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 250,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [],
     costeMensual: {
@@ -1209,7 +1209,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 350,
     traccion: "Trasera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg-s5-ev-long-range-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1290,7 +1290,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 280,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg-zs-ev-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1377,7 +1377,8 @@ export const COCHES_MG: CocheComparador[] = [
     traccion: "Delantera",
     emisionesCo2: 0,
     aprox: [
-      "parNm"
+      "parNm",
+      "precioDesde",
     ],
     imagen: "/media/mg-zs-ev-standard-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
@@ -1464,7 +1465,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 280,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg5-electric-standard-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1545,7 +1546,7 @@ export const COCHES_MG: CocheComparador[] = [
     parNm: 665,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/mg-marvel-r-performance-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

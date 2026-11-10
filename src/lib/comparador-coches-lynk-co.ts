@@ -46,7 +46,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     parNm: 535,
     traccion: "Delantera",
     emisionesCo2: 20,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lynk-co-01-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -135,7 +135,7 @@ export const COCHES_LYNK_CO: CocheComparador[] = [
     parNm: 615,
     traccion: "Delantera",
     emisionesCo2: 23,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/lynk-co-08-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {"costeEnergia100km": 5, "costeMensualTotal": 179, "estimado": true, "mantenimientoAnual": 450, "notas": "Cálculo pensado para este 08 concreto: recorrer 15.000 km al año apoyándose en su batería de 39,6 kWh y en sus 200 km eléctricos WLTP, de forma que seis de cada diez kilómetros salgan del enchufe y no del depósito. Los importes de póliza y de taller son referencias orientativas para un SUV D enchufable de 345 CV y 2.112 kg, sin ayudas descontadas", "precioGasolinaL": 1.85, "precioKwh": 0.18, "seguroAmpliadoAnual": 950, "seguroTercerosAnual": 500},

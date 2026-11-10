@@ -51,7 +51,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 283,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-ev4-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -135,7 +135,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 295,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-ev5-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -219,7 +219,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 700,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-ev9-2024-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -303,7 +303,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 740,
     traccion: "Total",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-ev6-gt-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -387,7 +387,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 255,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-niro-ev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -471,7 +471,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 265,
     traccion: "Delantera",
     emisionesCo2: 18,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-niro-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -555,7 +555,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 350,
     traccion: "Total",
     emisionesCo2: 26,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-sportage-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -639,7 +639,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 367,
     traccion: "Delantera",
     emisionesCo2: 150,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-sorento-hev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -723,7 +723,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 350,
     traccion: "Total",
     emisionesCo2: 37,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-sorento-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -807,7 +807,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 122,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-ceed-sw-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -891,7 +891,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 253,
     traccion: "Delantera",
     emisionesCo2: 130,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-proceed-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -975,7 +975,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 113,
     traccion: "Delantera",
     emisionesCo2: 124,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-picanto-gt-line-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1143,7 +1143,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 265,
     traccion: "Delantera",
     emisionesCo2: 149,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-sportage-mhev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1227,7 +1227,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 265,
     traccion: "Delantera",
     emisionesCo2: 32,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-xceed-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1311,7 +1311,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 253,
     traccion: "Delantera",
     emisionesCo2: 129,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-ceed-15-tgdi-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1395,7 +1395,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 440,
     traccion: "Delantera",
     emisionesCo2: 157,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-sorento-diesel-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1478,7 +1478,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 200,
     traccion: "Delantera",
     emisionesCo2: 122,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-stonic-10-tgdi-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1561,7 +1561,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 280,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-sportage-diesel-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1639,7 +1639,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 265,
     traccion: "Delantera",
     emisionesCo2: 29,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-ceed-sw-phev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1719,7 +1719,8 @@ export const COCHES_KIA: CocheComparador[] = [
     emisionesCo2: 0,
     aprox: [
       "ceroCien",
-      "velocidadMax"
+      "velocidadMax",
+      "precioDesde",
     ],
     imagen: "/media/kia-ev6-gt-line-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
@@ -1803,7 +1804,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 253,
     traccion: "Delantera",
     emisionesCo2: 142,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-xceed-15-mhev-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1886,7 +1887,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 283,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-ev4-long-range-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -1971,7 +1972,8 @@ export const COCHES_KIA: CocheComparador[] = [
     emisionesCo2: 122,
     aprox: [
       "consumo",
-      "emisionesCo2"
+      "emisionesCo2",
+      "precioDesde",
     ],
     imagen: "/media/kia-ceed-10-tgdi-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
@@ -2055,7 +2057,7 @@ export const COCHES_KIA: CocheComparador[] = [
     parNm: 283,
     traccion: "Delantera",
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/kia-ev3-air-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {

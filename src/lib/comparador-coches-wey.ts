@@ -46,7 +46,7 @@ export const COCHES_WEY: CocheComparador[] = [
     parNm: 500,
     traccion: "Delantera",
     emisionesCo2: 15,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "130 km eléctricos WLTP: el commuting diario sin gastar gasolina",
       "Desde 47.900 € en Alemania con equipamiento muy completo de serie",
@@ -124,7 +124,7 @@ export const COCHES_WEY: CocheComparador[] = [
     parNm: 847,
     traccion: "Total",
     emisionesCo2: 12,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "476 CV y 847 Nm con tracción total: 0-100 en 5,0 s",
       "158 km eléctricos WLTP, de los mejores de su clase",

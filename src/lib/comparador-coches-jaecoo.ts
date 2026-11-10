@@ -67,7 +67,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     parNm: 275,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/jaecoo-7-gasolina-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -161,7 +161,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     parNm: null,
     traccion: "Delantera",
     emisionesCo2: 125,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [
       {
@@ -255,7 +255,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     parNm: 295,
     traccion: "Delantera",
     emisionesCo2: 120,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [
       {
@@ -337,7 +337,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     parNm: 288,
     traccion: "Delantera",
     emisionesCo2: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/jaecoo-5-ev-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [
       {
@@ -421,7 +421,7 @@ export const COCHES_JAECOO: CocheComparador[] = [
     parNm: 580,
     traccion: "Total",
     emisionesCo2: 47,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "",
     opiniones: [
       {

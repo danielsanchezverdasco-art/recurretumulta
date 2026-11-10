@@ -55,7 +55,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ligier-myli-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -133,7 +133,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     parNm: 27,
     traccion: null,
     emisionesCo2: 78,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ligier-myli-diesel-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -211,7 +211,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     parNm: 15.7,
     traccion: null,
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ligier-myli-l7e-2025-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -380,7 +380,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ligier-myli-max-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -458,7 +458,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ligier-myli-max-confort-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -536,7 +536,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ligier-myli-max-confort-l7e-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -614,7 +614,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     parNm: 27,
     traccion: null,
     emisionesCo2: 78,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ligier-js50-select-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -692,7 +692,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     parNm: 27,
     traccion: null,
     emisionesCo2: 78,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ligier-js50-select-confort-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -770,7 +770,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     parNm: 27,
     traccion: null,
     emisionesCo2: 78,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ligier-js50-elite-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -848,7 +848,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     parNm: 27,
     traccion: null,
     emisionesCo2: 78,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ligier-js50-ultimate-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
@@ -926,7 +926,7 @@ export const COCHES_LIGIER: CocheComparador[] = [
     parNm: null,
     traccion: null,
     emisionesCo2: 0,
-    aprox: [],
+    aprox: ["precioDesde"],
     imagen: "/media/ligier-js50-electrico-2026-precio-ficha-tecnica-hero.webp",
     opiniones: [],
     costeMensual: {
