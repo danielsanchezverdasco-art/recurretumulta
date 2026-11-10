@@ -116,6 +116,22 @@ function NewsletterBajaPageSinProvider() {
               </Link>
             </>
           )}
+
+          {/* 10/11/2026 (AdSense 10): prosa real sobre qué es la newsletter */}
+          <section className="mt-10 border-t border-gray-100 pt-6 text-left">
+            <h2 className="font-black text-gray-900">Qué es La semana del motor</h2>
+            <p className="mt-2 text-sm text-gray-600 leading-relaxed">
+              «La semana del motor» es la newsletter de RecurreTuMulta.online: una vez por
+              semana, las novedades del motor que hemos publicado —nuevos modelos, precios,
+              fichas y guías de multas— sin relleno y sin publicidad de terceros. Solo
+              escribimos cuando hay contenido nuevo que merezca el email.
+            </p>
+            <p className="mt-2 text-sm text-gray-600 leading-relaxed">
+              Darse de baja solo detiene la newsletter: el blog y las fichas siguen siendo
+              gratis y se pueden leer sin suscripción. Si ha sido un error, puedes volver a
+              suscribirte cuando quieras desde la sección Motor.
+            </p>
+          </section>
         </main>
       </div>
       <SharedFooter editorial={false} />

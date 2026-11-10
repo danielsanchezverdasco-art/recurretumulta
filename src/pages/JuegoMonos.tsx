@@ -512,7 +512,15 @@ function JuegoMonosPage() {
 }
 
 export default function JuegoMonosPageWithConvex() {
-  if (!JUEGO_MONOS_ACTIVO) return <JuegoPausa canonical="/juego-monos/" />;
+  if (!JUEGO_MONOS_ACTIVO)
+    return (
+      <JuegoPausa
+        canonical="/juego-monos/"
+        tituloSeo="Caza de monos: juego en pausa"
+        descripcionSeo="La Caza de monos está en pausa desde octubre de 2026: qué era el juego, qué pasa con tu progreso y qué hacer mientras tanto."
+        tituloVisible="Juego en pausa"
+      />
+    );
   return <JuegoMonosPageWithConvexActivo />;
 }
 function JuegoMonosPageWithConvexActivo() {

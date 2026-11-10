@@ -59,6 +59,25 @@ export default function GraciasReportePage() {
           </Reveal>
 
           <Reveal delay={200}>
+            <div className="rounded-2xl border border-gray-200 bg-white p-6 text-left">
+              <h2 className="font-black text-gray-900">Qué revisamos antes de reclamar</h2>
+              <p className="mt-2 text-sm text-gray-700 leading-relaxed">
+                Antes de presentar nada comprobamos que las fotos muestren el daño con claridad
+                y que la ubicación sea exacta, porque la reclamación va a la administración
+                titular de esa vía —ayuntamiento, diputación o DGT según la carretera— y con
+                una ubicación imprecisa la desestiman. Si falta algún dato te escribimos al
+                email que dejaste en el reporte.
+              </p>
+              <p className="mt-2 text-sm text-gray-700 leading-relaxed">
+                La reclamación pide la reparación del desperfecto y deja constancia del riesgo
+                para que, si el mal estado causa un accidente, quede registrado que la
+                administración ya estaba avisada. No hay un plazo fijo para que reparen: te
+                avisamos por email de cada novedad, incluida la respuesta si la hay.
+              </p>
+            </div>
+          </Reveal>
+
+          <Reveal delay={240}>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
               <Link
                 to="/"

@@ -119,6 +119,22 @@ function AlertasBajaPageSinProvider() {
               </Link>
             </>
           )}
+
+          {/* 10/11/2026 (AdSense 10): prosa real sobre qué son las alertas */}
+          <section className="mt-10 border-t border-gray-100 pt-6 text-left">
+            <h2 className="font-black text-gray-900">Qué son las alertas de precio</h2>
+            <p className="mt-2 text-sm text-gray-600 leading-relaxed">
+              Las alertas de precio (Cazachollos) avisan por email cuando un coche que sigues
+              baja de precio o aparece una oferta nueva en su ficha. Tú eliges qué modelos
+              seguir desde la ficha de cada coche; nosotros comprobamos los precios y solo
+              escribimos cuando hay un cambio real, no cada día.
+            </p>
+            <p className="mt-2 text-sm text-gray-600 leading-relaxed">
+              Darse de baja solo detiene estas alertas: no afecta a la newsletter ni a
+              ninguna otra comunicación. Si ha sido un error, puedes activar la alerta de
+              nuevo desde la ficha del coche, en el mismo botón donde la activaste.
+            </p>
+          </section>
         </main>
       </div>
       <SharedFooter editorial={false} />

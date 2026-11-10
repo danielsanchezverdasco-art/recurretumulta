@@ -92,7 +92,7 @@ export default function ComunidadesIndexPage() {
   return (
     <div className="min-h-screen bg-white">
       <SharedNavbar />
-      <div className="pt-[57px]">
+      <main className="pt-[57px]">
         {/* Hero estilo blog: DriveInImage + gradientes + contenido animado */}
         <div className="relative overflow-hidden">
           <DriveInImage
@@ -184,6 +184,29 @@ export default function ComunidadesIndexPage() {
             </div>
           </div>
 
+          {/* Por qué cambia tanto de una comunidad a otra */}
+          <section className="space-y-3">
+            <h2 className="text-xl font-black text-gray-900">
+              Por qué una misma multa cambia según la comunidad
+            </h2>
+            <p className="text-sm text-gray-700 leading-relaxed">
+              En la mayor parte de España las multas de tráfico las tramita la DGT, pero tres
+              comunidades tienen competencia propia: Cataluña (Servei Català de Trànsit), el País
+              Vasco (Dirección de Tráfico del Gobierno Vasco) y Navarra (Gobierno de Navarra). Eso
+              cambia a quién se le presenta el recurso, en qué plazo y con qué formulario, y es el
+              primer dato que hay que mirar antes de recurrir: un recurso dirigido al organismo
+              equivocado se pierde por el camino.
+            </p>
+            <p className="text-sm text-gray-700 leading-relaxed">
+              También cambian los radares y las zonas de bajas emisiones: cada comunidad publica
+              sus propios tramos controlados y sus propias ciudades con ZBE, y las multas de ZBE
+              se anulan con frecuencia por señalización defectuosa o por un error en la etiqueta
+              ambiental registrada. Por eso cada guía de esta página indica el organismo exacto,
+              los radares con ficha propia de esa comunidad y cómo recurrir paso a paso, en lugar
+              de dar una receta única para toda España.
+            </p>
+          </section>
+
           {/* Las 19 comunidades */}
           <div className="space-y-3">
             <h2 className="text-xl font-black text-gray-900">
@@ -240,7 +263,7 @@ export default function ComunidadesIndexPage() {
           </section>
 
         </div>
-      </div>
+      </main>
       <SharedFooter editorial={{ ambito: "multas", tipo: "articulo", sinHerramientas: true }} />
     </div>
   );

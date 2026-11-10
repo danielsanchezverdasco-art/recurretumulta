@@ -48,7 +48,16 @@ const SECCIONES: Array<{ t: string; c: string }> = [
 ];
 
 export default function JuegoMonosBasesPage() {
-  if (!JUEGO_MONOS_ACTIVO) return <JuegoPausa canonical="/juego-monos/bases/" />;
+  if (!JUEGO_MONOS_ACTIVO)
+    return (
+      <JuegoPausa
+        canonical="/juego-monos/bases/"
+        tituloSeo="Bases legales del concurso Caza de monos (juego en pausa)"
+        descripcionSeo="Bases legales de la Temporada 1 del concurso Caza de monos: organizador, mecánica, premios y verificación. El juego está en pausa."
+        tituloVisible="Bases legales — Caza de monos"
+        esBases
+      />
+    );
   return <JuegoMonosBasesPageActivo />;
 }
 function JuegoMonosBasesPageActivo() {
