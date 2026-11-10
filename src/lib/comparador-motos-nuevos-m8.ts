@@ -432,7 +432,7 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "galeria": [],
     "videoId": "oWjx4RxZrpk",
     "videoCanal": "Dizimini",
-    "fuenteNombre": "ficha de Kove Pakistán",
+    "fuenteNombre": "Kove Pakistán (ficha técnica 321RR)",
     "fuenteUrl": "https://kove.pk/product/321rr/",
     "analisisSlug": "kove-321rr-2025-ficha-tecnica-precio",
     "imagen": "/media/motos/kove-321rr-2025-ficha-tecnica-precio-1.webp"
