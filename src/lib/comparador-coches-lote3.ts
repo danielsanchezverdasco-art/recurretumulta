@@ -1145,12 +1145,6 @@ export const COCHES_LOTE3: CocheComparador[] = [
         alto: 682,
       },
     ],
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin test EuroNCAP.",
-    },
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses",
       revisiones: [

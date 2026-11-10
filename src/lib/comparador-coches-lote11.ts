@@ -411,12 +411,6 @@ export const COCHES_LOTE11: CocheComparador[] = [
       },
     ],
     analisisSlug: "byd-seal-06-ev-2026-precio-autonomia",
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: modelo presentado en 2026, aún no probado.",
-    },
     planMantenimiento: {
       intervalo: "Cada 24 meses o 30.000 km, lo que antes ocurra (plan oficial BYD en Europa para eléctricos)",
       revisiones: [

@@ -665,6 +665,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "kia-ev6-gt-line-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "kia-ev9-2024-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "kia-ev9-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
+    "kia-k4-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "kia-niro-ev-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "kia-niro-hev-129": () => import("../seguridad-euroncap.ts"),
     "kia-niro-phev-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),

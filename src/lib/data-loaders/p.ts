@@ -454,6 +454,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "peugeot-e-308-electrico-2026-precio-ficha-tecnica": () => import("../euroncap-b4.ts"),
     "peugeot-e-rifter-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "peugeot-rifter-15-bluehdi-130-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
+    "polestar-2-long-range-dual-motor-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "polestar-2-long-range-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "polestar-2-performance-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "polestar-2-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),

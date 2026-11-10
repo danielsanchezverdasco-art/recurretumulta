@@ -729,6 +729,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "citroen-c5-aircross-hibrido-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "citroen-c5-aircross-hibrido-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "citroen-c5-aircross-phev-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
+    "citroen-c5-aircross-phev-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "citroen-c5-x-hibrido-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "citroen-c5-x-phev-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "citroen-e-berlingo-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),

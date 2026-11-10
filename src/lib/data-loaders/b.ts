@@ -943,6 +943,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "byd-dolphin-active-95-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "byd-dolphin-g-dmi-active-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "byd-dolphin-surf-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
+    "byd-seal-06-ev-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "byd-seal-2024-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "byd-seal-6-dm-i-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "byd-seal-6-dm-i-touring-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
