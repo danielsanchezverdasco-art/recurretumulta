@@ -275,7 +275,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: [],
+    aprox: ["precioEur"],
     pros: [
       "Doble suspensión (horquilla delantera + cilindro trasero) de nivel automoción",
       "60 km de autonomía declarada con batería de 477 Wh",
@@ -668,7 +668,7 @@ export const PATINETES_EXP_P7: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: [],
+    aprox: ["precioEur"],
     pros: [
       "Solo 14,6 kg: el NIU más ligero, ideal para subirlo a casa o al transporte público",
       "Batería, controlador y BMS integrados en un único módulo compacto",

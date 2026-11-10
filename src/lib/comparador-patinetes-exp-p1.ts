@@ -42,7 +42,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       { src: "/media/xiaomi-electric-scooter-5-max-hunt2.webp", alt: "Electric Scooter 5 Max (foto: Xiaomi / IMTEST, licencia desconocida)", ancho: 1200, alto: 800 },
       { src: "/media/xiaomi-electric-scooter-5-max-hunt3.webp", alt: "Electric Scooter 5 Max (foto: Digital.bg, licencia desconocida)", ancho: 1200, alto: 800 },
     ],
-    aprox: ["tiempoCargaH", "autonomiaRealKm"],
+    aprox: ["tiempoCargaH", "autonomiaRealKm", "precioEur"],
     pros: [
       "Certificado DGT verificado: puede circular por vía pública con total legalidad",
       "Doble suspensión con muelle hidráulico, la más cómoda de la gama Xiaomi",
@@ -103,7 +103,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       { src: "/media/xiaomi-electric-scooter-4-pro-2nd-gen-hunt2.webp", alt: "Electric Scooter 4 Pro (2nd Gen) (foto: Xiaomi (imagen oficial de producto, CGI del fabricante), licencia desconocida)", ancho: 1920, alto: 953 },
       { src: "/media/xiaomi-electric-scooter-4-pro-2nd-gen-hunt3.webp", alt: "Electric Scooter 4 Pro (2nd Gen) (foto: Xiaomi (imagen oficial de producto), licencia desconocida)", ancho: 1920, alto: 953 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Certificado DGT verificado para circular por la vía pública",
       "Solo 19 kg, notablemente más ligero que el 5 Max con la misma autonomía declarada",
@@ -163,7 +163,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       { src: "/media/xiaomi-electric-scooter-4-lite-2nd-gen-hunt2.webp", alt: "Electric Scooter 4 Lite (2nd Gen) (foto: Xiaomi / iSpace.cz, licencia desconocida)", ancho: 1000, alto: 1000 },
       { src: "/media/xiaomi-electric-scooter-4-lite-2nd-gen-hunt3.webp", alt: "Electric Scooter 4 Lite (2nd Gen) (foto: Xiaomi / Mi-Home.lv, licencia desconocida)", ancho: 2560, alto: 976 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Precio muy bajo: uno de los Xiaomi más baratos del mercado",
       "Solo 16,2 kg, fácil de llevar a pulso y subir escaleras",
@@ -223,7 +223,7 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
       { src: "/media/xiaomi-electric-scooter-6-hunt2.webp", alt: "Electric Scooter 6 (foto: Xiaomi (imagen oficial de producto, CGI del fabricante), licencia desconocida)", ancho: 1600, alto: 1600 },
       { src: "/media/xiaomi-electric-scooter-6-hunt3.webp", alt: "Electric Scooter 6 (foto: Xiaomi vía ShopIntertec (página de producto del Scooter 6), licencia desconocida)", ancho: 2500, alto: 2500 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Serie homologada DGT según la prensa especializada",
       "Ruedas de 12 pulgadas: ruedan mejor por baches y caminos que las de 10\"",
@@ -270,7 +270,8 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     aprox: [
       "potenciaNominalW",
       "bateriaWh",
-      "tiempoCargaH"
+      "tiempoCargaH",
+      "precioEur",
     ],
     pros: [
       "Suspensión delantera de doble resorte con 25 mm de recorrido y ruedas inflables de 10 pulgadas",
@@ -318,7 +319,8 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     aprox: [
       "potenciaNominalW",
       "pesoKg",
-      "tiempoCargaH"
+      "tiempoCargaH",
+      "precioEur",
     ],
     pros: [
       "Celdas de 10 Ah y 468 Wh; en las pruebas del fabricante dan 70 km a ritmo suave de 15 km/h y 45 km en modo Sport",
@@ -364,7 +366,8 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     foto: "/media/patinetes/xiaomi-electric-scooter-6-max-oficial.webp",
     galeria: [],
     aprox: [
-      "potenciaNominalW"
+      "potenciaNominalW",
+      "precioEur",
     ],
     pros: [
       "Neumáticos sin cámara de 12 pulgadas con un 13 % más de superficie de contacto y un 40 % más de agarre que el 5 Max",
@@ -411,7 +414,8 @@ export const PATINETES_EXP_P1: PatineteComparador[] = [
     galeria: [],
     aprox: [
       "potenciaNominalW",
-      "pesoKg"
+      "pesoKg",
+      "precioEur",
     ],
     pros: [
       "Batería de 585 Wh con 75 km a 15 km/h y 55 km a 25 km/h, medidos por el laboratorio TIRT con 75 kg",

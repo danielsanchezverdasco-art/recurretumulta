@@ -32,7 +32,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
       { src: "/media/xiaomi-electric-scooter-4-pro-max-hunt1.webp", alt: "Electric Scooter 4 Pro Max (foto: LDLC (foto de producto Xiaomi), licencia desconocida)", ancho: 705, alto: 705 },
       { src: "/media/xiaomi-electric-scooter-4-pro-max-hunt2.webp", alt: "Electric Scooter 4 Pro Max (foto: Carrefour (galería de producto Xiaomi), licencia desconocida)", ancho: 1500, alto: 1500 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Certificado DGT (B1025): legal para circular, registrar y asegurar en España",
       "60 km de autonomía declarada, la mayor de toda la serie 4 de Xiaomi",
@@ -222,7 +222,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
       { src: "/media/cecotec-bongo-serie-s-plus-max-unlimited-hunt1.webp", alt: "Bongo Serie S+ Max Unlimited (foto: Cosas de Patinetes, licencia desconocida)", ancho: 1080, alto: 810 },
       { src: "/media/cecotec-bongo-serie-s-plus-max-unlimited-hunt2.webp", alt: "Bongo Serie S+ Max Unlimited (foto: Cecotec (foto de producto) vía Amazon, licencia desconocida)", ancho: 994, alto: 997 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Tabla de bambú natural: absorbe vibraciones y da un tacto premium",
       "Motor de 350 W nominales con picos de 750 W para pendientes urbanas",
@@ -269,7 +269,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
       { src: "/media/cecotec-bongo-x45-connected-hunt1.webp", alt: "Bongo X45 Connected (foto: Cecotec (galería oficial del producto, ref. 07107), licencia desconocida)", ancho: 2048, alto: 1152 },
       { src: "/media/cecotec-bongo-x45-connected-hunt2.webp", alt: "Bongo X45 Connected (foto: Cecotec (galería oficial del producto, ref. 07107), licencia desconocida)", ancho: 2048, alto: 1152 },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "Pesa solo 17,8 kg: ligero y fácil de transportar",
       "Motor de 350 W nominales con 750 W de pico y sistema S-Driving",
@@ -349,7 +349,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
       { src: "/media/cecotec-bongo-z-mountain-hunt1.webp", alt: "Bongo Serie Z Mountain (foto: Cecotec (foto lifestyle oficial del producto) vía Tradeinn, licencia desconocida)", ancho: 1000, alto: 1000 },
       { src: "/media/cecotec-bongo-z-mountain-hunt2.webp", alt: "Bongo Serie Z Mountain (foto: Cecotec (foto lifestyle oficial del producto) vía Tradeinn, licencia desconocida)", ancho: 1000, alto: 1000 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: ["Su motor trasero de 500 W nominales entrega picos de 1.000 W a 48 V y Cecotec le atribuye pendientes de hasta el 15 %: en una pista con subida corta empuja donde un urbano de 350 W ya iría perdiendo velocidad", "La batería de 480 Wh (48 V y 10.000 mAh) declara 50 km y en uso real se queda en torno a 34 km, margen pensado para rutas mixtas en las que el firme roto dispara el consumo frente al asfalto liso", "La suspensión SX de doble brazo trabaja con unas ruedas de 10,5 pulgadas de dibujo campero: es la diferencia frente a su gemelo Z City, orientado a ciudad, y se nota en gravilla, adoquín y caminos de parque", "Frena con discos apoyados por el e-ABS regenerativo y lo vigila todo desde una pantalla táctil LED que, además de velocidad y batería, enseña temperatura y voltaje del sistema, dos datos que casi ningún patinete de este precio muestra"],
     contras: ["Pesa 26 kg en orden de marcha según la ficha reducida VMP de Cecotec: el plegado por palanca es rápido, pero subirlo a un piso sin ascensor o meterlo en el tren sigue siendo un esfuerzo serio", "La carga máxima se queda en 100 kg, poco margen para un modelo que se vende como campero: un conductor de 90 kg con mochila y chaqueta ya rueda pegado al límite que marca su manual", "Entre los 50 km del folleto y los 34 km reales hay 16 km de diferencia, y rodando por tierra con el dibujo campero esa cifra real es la que manda: una ruta de ida y vuelta de 40 km no cabe en una sola carga", "Cecotec declara que cumple la normativa española y su manual dibuja la marca de homologación DGT en el guardabarros trasero, pero la ficha no aporta el número de certificado de esta referencia 07315: toca comprobarlo en la unidad concreta antes de comprarla"],
     veredicto: "Por 523 €, el Z Mountain (referencia 07315) junta 500 W nominales y 1.000 W de pico a 48 V con una batería de 480 Wh que pasa de 50 km prometidos a unos 34 km reales, y suspensión SX con ruedas de 10,5 pulgadas para mezclar ciudad y caminos de tierra sin ir rebotando. Encaja si ese es tu uso y no tienes que cargarlo a pulso, porque pesa 26 kg en orden de marcha; no encaja si con mochila te acercas a sus 100 kg de carga máxima o si necesitas el número de certificado DGT documentado antes de pagar, porque la ficha no lo aporta.",
@@ -1000,7 +1000,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
       { src: "/media/dualtron-togo-max-hunt1.webp", alt: "Togo Max 60V (foto: Voltrix.fr (ficha de producto Dualtron Togo Max 60V), licencia desconocida)", ancho: 1000, alto: 1150 },
       { src: "/media/dualtron-togo-max-hunt2.webp", alt: "Togo Max 60V (foto: Points Écomobilité (ficha Dualtron Togo Max 60V 16Ah), licencia desconocida)", ancho: 760, alto: 585 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Batería de 60 V y 954 Wh: gran capacidad por 1099 €",
       "Doble freno de disco",
@@ -1047,7 +1047,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
       { src: "/media/kaabo-mantis-x-plus-hunt1.webp", alt: "Mantis X Plus (foto: Kaabo USA (tienda oficial, producto Mantis X Plus), licencia desconocida)", ancho: 1080, alto: 1080 },
       { src: "/media/kaabo-mantis-x-plus-hunt2.webp", alt: "Mantis X Plus (foto: Kaabo USA (tienda oficial, producto Mantis X Plus), licencia desconocida)", ancho: 540, alto: 540 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: ["Dos motores brushless de 500 W, uno en cada eje, que suman 1.000 W nominales con tracción a las dos ruedas", "Batería de 873,6 Wh (48 V y 18,2 Ah): 76 km declarados y unos 51 km reales según la estimación de esta ficha", "Suspensión de aceite y muelle regulable delante y detrás, con amortiguadores de 132 mm", "Pantalla central KM03 con desbloqueo por NFC y toma USB que alimenta el teléfono mientras ruedas", "Discos de freno de 140 mm en ambos ejes, apoyados por el freno electrónico EABS", "Cubiertas CST neumáticas de 10×3 pulgadas y subida de pendientes de hasta 25° según Kaabo"],
     contras: ["La configuración de 50 km/h de esta ficha queda fuera de la categoría VMP española; Kaabo EU vende aparte una variante limitada con certificado DGT", "Recarga completa de unas 9 horas con el cargador estándar de 54,6 V y 2 A que trae la caja", "Con 29 kg y 124,7 cm de largo ya plegado, moverlo a pulso entre plantas o cargarlo en el coche resulta penoso", "Lleva cámara dentro de la cubierta CST, así que un pinchazo obliga a abrir la llanta partida en vez de usar un kit tubeless", "Los 1.487 € del distribuidor citado superan los 1.415 € que Kaabo EU pide hoy por el Mantis X Plus", "Sellado IPX5 según Kaabo USA, pero el manual prohíbe rodar con lluvia intensa o sobre agua acumulada"],
     veredicto: "El Mantis X Plus es la puerta de entrada a los Kaabo de doble motor: 1.000 W repartidos entre ambos ejes, 873,6 Wh y suspensión regulable en un chasis plegable de 29 kg. En la configuración de 50 km/h recogida en esta ficha no puede usarse en la calle en España como VMP; para eso Kaabo EU ofrece una variante con certificado DGT limitada a 25 km/h. Su sitio natural es finca, circuito o países sin ese tope, donde lucen la tracción total y los discos de 140 mm.",
@@ -1080,7 +1080,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
       { src: "/media/kaabo-wolf-warrior-11-max-hunt1.webp", alt: "Wolf Warrior 11 Max (foto: Kaabo USA (tienda oficial), licencia desconocida)", ancho: 1200, alto: 1080 },
       { src: "/media/kaabo-wolf-warrior-11-max-hunt2.webp", alt: "Wolf Warrior 11 Max (foto: Kaabo USA (tienda oficial), licencia desconocida)", ancho: 1200, alto: 1200 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble motor de 3000 W nominales (6720 W pico): el más potente",
       "Batería gigante de 2160 Wh con 150 km teóricos",
@@ -1127,7 +1127,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
       { src: "/media/kaabo-wolf-warrior-x-max-hunt1.webp", alt: "Wolf Warrior X Max (foto: Kaabo vía EZ Wheel, licencia desconocida)", ancho: 939, alto: 934 },
       { src: "/media/kaabo-wolf-warrior-x-max-hunt2.webp", alt: "Wolf Warrior X Max (foto: Kaabo vía iScoot Australia, licencia desconocida)", ancho: 700, alto: 700 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: ["Doble mástil frontal patentado por Kaabo, pensado para dar rigidez a un chasis que trabaja a 71 km/h", "Horquilla hidráulica invertida tipo moto con 79 mm de recorrido y amortiguador trasero hidráulico regulable", "Dos motores de 1.100 W que suman 4.032 W de pico y 30 Nm, con subida declarada de 35°", "Pack de 60 V y 27 Ah (1.620 Wh) medido por Kaabo con piloto de 75 kg a unos 24 km/h en llano", "Pantalla central de 4 pulgadas con desbloqueo NFC, resistencia IPX7 y puerto USB para cargar el móvil", "Frenos de disco hidráulicos Zoom de 140 mm en ambos ejes, apoyados por el EABS regenerativo"],
     contras: ["Sin certificado DGT en esta ficha y con 71 km/h de punta: en España queda fuera del uso como VMP en vía pública", "Los 90 km oficiales salen de rodar a unos 24 km/h en llano; la estimación real recogida en esta ficha baja a unos 60 km", "37,6 kg de báscula: aunque se pliega, sigue siendo un bulto serio para subir escaleras o cargarlo en un maletero pequeño", "Recargar el pack exige 7,8 horas con los dos cargadores estándar de 2 A incluidos; bajar a 2,7 horas pide dos cargadores rápidos", "2.354 € por un patinete que en España solo puede rodar en recinto privado: el desembolso solo se defiende si tienes dónde usarlo", "La protección frente al agua es IPX5, pero el manual avisa de que el cuerpo no es estanco y prohíbe sumergirlo: la lluvia fuerte no es su terreno"],
     veredicto: "El X Max es la versión de 27 Ah del Wolf Warrior X: conserva el doble mástil y la horquilla tipo moto de la familia Wolf, pero monta 1.620 Wh para estirar las salidas largas y un par de 30 Nm que se nota en rampas de hasta 35°. Su compra en España se decide con una sola pregunta: ¿tienes un recinto privado donde rodar a 71 km/h? Al no constar certificado DGT, la vía pública española le queda cerrada, y sus 37,6 kg tampoco invitan a improvisar trayectos mixtos subiéndolo a un tren o a un autobús.",
@@ -1493,7 +1493,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
       { src: "/media/iscooter-if1-hunt2.webp", alt: "iF1 (foto: iScooter (tienda oficial iscooterglobal.com), licencia desconocida)", ancho: 1600, alto: 600 },
       { src: "/media/iscooter-if1-hunt3.webp", alt: "iF1 (foto: iScooter (tienda oficial iscooterglobal.com), licencia desconocida)", ancho: 1600, alto: 600 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Motor de 1.200 W: empuje serio y cuestas de hasta 20° sin despeinarse",
       "Doble suspensión + neumáticos todoterreno tubeless de 10\": cómodo en ciudad y en pistas",
@@ -1540,7 +1540,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
       { src: "/media/joyor-s8-s-hunt1.webp", alt: "S8-S (foto: OOLACTIVE (distribuidor oficial Joyor UE), licencia desconocida)", ancho: 1000, alto: 1000 },
       { src: "/media/joyor-s8-s-hunt2.webp", alt: "S8-S (foto: Joyor EU (tienda oficial), licencia desconocida)", ancho: 1066, alto: 1066 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble motor de 600 W (1.200 W en total): tracción total con gran reserva de potencia",
       "Batería de 48 V y 26 Ah (1.248 Wh): hasta 90 km de autonomía declarada",
@@ -1588,7 +1588,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
       { src: "/media/joyor-k4-hunt2.webp", alt: "K4 (foto: OOLACTIVE, distribuidor oficial Joyor en la UE (CDN oficial de la ficha de producto K4), licencia desconocida)", ancho: 1000, alto: 1000 },
       { src: "/media/joyor-k4-hunt3.webp", alt: "K4 (foto: OOLACTIVE, distribuidor oficial Joyor en la UE (CDN oficial de la ficha de producto K4), licencia desconocida)", ancho: 1000, alto: 1000 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Solo 16,5 kg: de los patinetes eléctricos más ligeros con batería de 48 V",
       "Motor de 500 W con batería de 48 V y 10,4 Ah: 30-40 km de autonomía realista para ciudad",
@@ -1637,7 +1637,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
       { src: "/media/joyor-e8-s-hunt2.webp", alt: "E8-S (foto: Joyor (imagen oficial del fabricante) vía Trotinetes Portugal, licencia desconocida)", ancho: 1920, alto: 1920 },
       { src: "/media/joyor-e8-s-hunt3.webp", alt: "E8-S (foto: Joyor (imagen oficial del fabricante) vía Trotinetes Portugal, licencia desconocida)", ancho: 1920, alto: 1920 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble motor de 1.600 W (3.200 W en total): aceleración y subidas de hasta 35° de nivel moto",
       "Batería de 72 V y 35 Ah (2.520 Wh): hasta 100 km de autonomía, la mayor del catálogo",
@@ -1684,7 +1684,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
       { src: "/media/joyor-e6-s-hunt1.webp", alt: "E6-S (foto: OOLACTIVE (distribuidor oficial Joyor UE) — galería oficial del producto E6-S, licencia desconocida)", ancho: 1000, alto: 1000 },
       { src: "/media/joyor-e6-s-hunt2.webp", alt: "E6-S (foto: OOLACTIVE (distribuidor oficial Joyor UE) — galería oficial del producto E6-S, licencia desconocida)", ancho: 1000, alto: 1000 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble motor de 1.600 W (3.200 W en total) con batería de 60 V y 31,5 Ah (1.890 Wh)",
       "Hasta 85 km de autonomía con neumáticos todoterreno de vacío de 11\"",
@@ -1778,7 +1778,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
       { src: "/media/yadea-ks3-lite-hunt1.webp", alt: "KS3 Lite (foto: EagsBike (distribuidor Yadea, fuente citada en la propia ficha), licencia desconocida)", ancho: 800, alto: 800 },
       { src: "/media/yadea-ks3-lite-hunt2.webp", alt: "KS3 Lite (foto: Citrus (tienda, ficha de producto Yadea KS3 Lite Grey/Green), licencia desconocida)", ancho: 530, alto: 800 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Solo 14 kg: de los patinetes adultos más ligeros y fáciles de cargar",
       "Precio contenido (499 € en Italia) para una marca global con garantía",
@@ -1871,7 +1871,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     galeria: [
       { alt: "AOVOPRO AP07 con la app de control en el móvil", alto: 617, ancho: 550, src: "/media/fotos-reales/aovopro-ap07/aovopro-ap07-real-2.webp" },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble suspensión (delantera y trasera), rara en patinetes de 170 €",
       "Intermitentes de dirección integrados: plus de seguridad real en ciudad",
@@ -1916,7 +1916,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     galeria: [
       { alt: "Hiley Maxspeed X9 plegado, vista lateral", alto: 1000, ancho: 1000, src: "/media/fotos-reales/hiley-maxspeed-x9/hiley-maxspeed-x9-real-1.webp" },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Motor de 600 W con batería de 624 Wh: empuje serio para su tamaño",
       "Doble suspensión (central delantera + doble trasera) muy cómoda",
@@ -2143,7 +2143,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     galeria: [
       { alt: "KuKirin C1 Pro con sillín, cesta y espejos, vista tres cuartos", alto: 1200, ancho: 1200, src: "/media/patinetes/kukirin-c1-pro-2.webp" },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Batería enorme de 1248 Wh (48V 26Ah): 100 km declarados por 549 €",
       "Formato con sillín, cesta y espejos: comodidad de ciclomotor urbano",
@@ -2188,7 +2188,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     galeria: [
       { alt: "Speedway Mini 5 en vista trasera tres cuartos", alto: 750, ancho: 750, src: "/media/patinetes/speedway-mini-5-2.webp" },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "La saga Mini de Minimotors: chasis probado y repuestos abundantes",
       "500 W y 45 km/h en solo 20 kg: gran relación peso/potencia",
@@ -2233,7 +2233,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     galeria: [
       { alt: "BOGIST M6 en color negro, vista frontal tres cuartos", alto: 500, ancho: 500, src: "/media/patinetes/bogist-m6-2.webp" },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: ["El diámetro de 11 pulgadas de sus neumáticos ayuda a rodar con más aplomo y a filtrar mejor las juntas del asfalto urbano", "Acumula 624 Wh de energía, una reserva generosa que sostiene los 35 km de autonomía que anuncia la marca", "Sale de fábrica sin superar los 25 km/h, justo el tope permitido para moverse como VMP en España", "Detenerse no supone un problema: monta freno de disco acorde con su ritmo de circulación", "Amortigua delante y detrás, un plus cuando el trayecto cruza adoquines, tapas o pavimento roto", "Admite hasta 120 kg sobre la plataforma, margen útil para conductores corpulentos o con mochila cargada"],
     contras: ["Le falta la certificación de la DGT: sin ella, su circulación como VMP tiene fecha límite el 22/01/2027", "Nadie anuncia un precio oficial en euros para comprarlo en España, así que toca fiarse de cada tienda", "Pesa 25 kg pese a conformarse con 500 W, cifra incómoda si toca cargarlo a pulso a diario", "Conseguir recambios o ayuda tras la compra puede costar: su red comercial europea es escasa e intermitente", "La terminación se percibe basta al compararla con alternativas más cuidadas de planteamiento parecido", "La ficha oficial omite cuánto tarda en recargarse por completo, un dato básico que debería constar"],
     veredicto: "Como patinete para moverse por ciudad, este M6 convence por diámetro de rueda, reserva de batería de 624 Wh —con unos 23 km reales estimados frente a los 35 km declarados— y doble amortiguación, siempre dentro del límite legal de velocidad. Su compra exige asumir tres renuncias claras: ausencia de certificación DGT acreditada, una masa elevada para subirlo a casa y un respaldo comercial en Europa todavía frágil.",
@@ -2264,7 +2264,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     galeria: [
       { alt: "Nami Burn-E 2 Max en vista tres cuartos, imagen oficial", alto: 1078, ancho: 1078, src: "/media/patinetes/nami-burn-e-2-max-2.webp" },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble motor de 1500 W (8400 W de pico): aceleración y velocidad de hyperscooter",
       "Batería de 2520 Wh (72V 35Ah): de las mayores autonomías del mercado",
@@ -2309,7 +2309,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     galeria: [
       { alt: "Nami Stellar en vista lateral, imagen oficial", alto: 1200, ancho: 863, src: "/media/patinetes/nami-stellar-2024-2.webp" },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Motor trasero de 1000 W con batería de 811 Wh: empuje serio para un urbano",
       "Certificación IP65 contra polvo y agua, de las más altas de su clase",
@@ -2399,7 +2399,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     galeria: [
       { alt: "Teverun Fighter Supreme 7260R en vista tres cuartos, imagen oficial", alto: 800, ancho: 800, src: "/media/patinetes/teverun-fighter-supreme-7260r-2.webp" },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble motor de 2500 W (15000 W de pico): 0-50 km/h en 2,3 s según el fabricante",
       "Batería SK de 4320 Wh (72V 60Ah): hasta 200 km de autonomía declarada",
@@ -2520,7 +2520,7 @@ export const PATINETES_EXP_P12: PatineteComparador[] = [
     galeria: [
       { alt: "Zero 8X en vista lateral, imagen oficial", alto: 667, ancho: 1000, src: "/media/patinetes/zero-8x-2.webp" },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: ["Lleva dos motores de 800 W, uno por rueda, que suman 1.600 W nominales y 2.300 W de pico: puedes circular con una sola tracción o conectar ambas, y cambiar entre los modos Eco y Turbo sin detenerte a tocar nada en la mecánica.", "La batería de 936 Wh, de 52 V y 18 Ah, es mucha energía para un patinete de ruedas de 8 pulgadas: Zero declara hasta 75 km en Eco y la propia ficha rebaja la cifra a unos 49 km en uso real, una distancia que ya permite olvidarte del cargador varios días.", "Monta suspensión hidráulica con muelles delante y detrás, algo decisivo en este modelo porque las ruedas son pequeñas: sin ese doble apoyo, cada junta del asfalto llegaría directa a la plataforma y al manillar.", "Las cubiertas macizas de 8 x 3,5 pulgadas eliminan de raíz el pinchazo: ni clavos en un polígono ni cristales en un arcén te dejan tirado, y a cambio no hay que vigilar presiones antes de salir.", "Frena con disco en las dos ruedas y admite hasta 120 kg de carga, dos detalles que importan cuando un doble motor empuja así: hay freno de verdad en ambos ejes y margen para conductores corpulentos con mochila."],
     contras: ["No es legal como VMP en vías públicas en España: declara 1.600 W nominales y 55 km/h, muy por encima de los límites de 1.000 W y 25 km/h, y carece de certificado DGT. Su sitio es un recinto privado o un circuito, no la calle ni el carril bici.", "Pesa 33 kg aunque se presente como el doble motor compacto de la casa: plegarlo no lo vuelve ligero, y subirlo a pulso por unas escaleras o cargarlo en un maletero alto cansa desde el primer día.", "Las ruedas macizas de solo 8 pulgadas agarran peor en mojado y filtran menos que unas neumáticas: la suspensión compensa parte del golpe, pero en pintura vial húmeda o rejillas toca extremar la prudencia.", "No hay PVP oficial en euros publicado por la marca ni por su red europea, y la electrónica es básica, sin app ni conectividad: no puedes contrastar su precio en España ni ajustar parámetros o consultar el estado desde el móvil."],
     veredicto: "El Zero 8X es el doble motor compacto de la marca: 1600 W y ruedas macizas antipinchazos en 33 kg. Interesante para circuito privado si buscas un doble motor manejable, pero sus 55 km/h lo dejan fuera de la vía pública española.",

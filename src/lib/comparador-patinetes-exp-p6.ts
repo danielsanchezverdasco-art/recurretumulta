@@ -558,7 +558,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-e-cross-pro-boost-2-2.webp", alt: "Detalle de las seis suspensiones del Urban Glide E-Cross Pro Boost 2", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-e-cross-pro-boost-2-3.webp", alt: "Urban Glide E-Cross Pro Boost 2 en un sendero", ancho: 1200, alto: 800 },
     ],
-    aprox: ["autonomiaRealKm", "potenciaNominalW"],
+    aprox: ["autonomiaRealKm", "potenciaNominalW", "precioEur"],
     pros: [
       "Doble motor (2x800 W, 1.600 W de pico): tracción total real",
       "Seis suspensiones (4 delanteras + 2 traseras): comodidad máxima",
@@ -683,7 +683,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-all-road-5-2.webp", alt: "Detalle de la suspensión trasera del Urban Glide All Road 5", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-all-road-5-3.webp", alt: "Urban Glide All Road 5 en un camino rural", ancho: 1200, alto: 800 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Los 800 W con 40 km de autonomía equilibran potencia y alcance",
       "La suspensión trasera y las ruedas de 10 pulgadas lo hacen cómodo en firmes rotos",
@@ -745,7 +745,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-ecross-pro-xs-2.webp", alt: "Detalle del chasis del Urban Glide eCross Pro XS", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-ecross-pro-xs-3.webp", alt: "Urban Glide eCross Pro XS en ciudad", ancho: 1200, alto: 800 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "800 W en formato eCross compacto",
       "40 km declarados para el día a día",
@@ -995,7 +995,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-urbanride-85-plus-2.webp", alt: "Detalle de las suspensiones del Urban Glide UrbanRide 85+", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-urbanride-85-plus-3.webp", alt: "Urban Glide UrbanRide 85+ en un carril bici", ancho: 1200, alto: 800 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Suspensiones y buena señalización: lo destacan los usuarios",
       "30 km declarados, el doble que el 85 City",
@@ -1057,7 +1057,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-urbanride-85-city-2.webp", alt: "Detalle del freno trasero del Urban Glide UrbanRide 85 City", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-urbanride-85-city-3.webp", alt: "Urban Glide UrbanRide 85 City en una zona peatonal", ancho: 1200, alto: 800 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Freno de disco trasero y potente luz LED: bien equipado en seguridad",
       "Carga en unas 4 horas",
@@ -1119,7 +1119,7 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
       { src: "/media/patinetes/urban-glide-ride-100xs-2.webp", alt: "Detalle del Urban Glide Ride 100XS", ancho: 1200, alto: 800 },
       { src: "/media/patinetes/urban-glide-ride-100xs-3.webp", alt: "Urban Glide Ride 100XS plegado junto a una puerta", ancho: 1200, alto: 800 },
     ],
-    aprox: [],
+    aprox: ["precioEur"],
     pros: [
       "Cuatro modos de velocidad adaptables al uso",
       "Formato compacto XS: el más portable de la gama Ride",
@@ -2004,7 +2004,8 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
     foto: "/media/patinetes/speedway-leger-pro-oficial.webp",
     galeria: [],
     aprox: [
-      "autonomiaRealKm"
+      "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Batería de 1.081 Wh (52 V): 75 km declarados de fábrica y 55 km en la prueba de Voltride",

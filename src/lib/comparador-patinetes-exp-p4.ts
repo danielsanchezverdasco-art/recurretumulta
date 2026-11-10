@@ -261,7 +261,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm", "velocidadMaxKmh"],
+    aprox: ["autonomiaKm", "autonomiaRealKm", "velocidadMaxKmh", "precioEur"],
     pros: [
       "Batería de 48 V y 15 Ah (720 Wh): la mayor del catálogo Bogist",
       "500 W con neumáticos de 12,5 pulgadas de dibujo especial: agarre y frenada",
@@ -1740,7 +1740,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm"],
+    aprox: ["autonomiaKm", "autonomiaRealKm", "precioEur"],
     pros: [
       "Con 500 W nominales y picos de 1.512 W, sube bordillos y rampas sin inmutarse",
       "Sus 65 km de autonomía declarada son el mayor alcance de la familia Ey!",
@@ -1807,7 +1807,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm"],
+    aprox: ["autonomiaKm", "autonomiaRealKm", "precioEur"],
     pros: [
       "500 W (1.188 W de pico) con batería de 446 Wh: 45 km declarados",
       "Triple freno (tambor + disco + motor): seguridad máxima",
@@ -1875,7 +1875,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm"],
+    aprox: ["autonomiaKm", "autonomiaRealKm", "precioEur"],
     pros: [
       "Su motor de 350 W se combina con una batería de 275 Wh, la puerta de entrada a la familia Ey! para quien busca un modelo sencillo.",
       "Con 18,6 kg es el más ligero de los Ey!, una ventaja clara cuando toca subirlo a casa o meterlo en el maletero.",
@@ -1943,7 +1943,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm"],
+    aprox: ["autonomiaKm", "autonomiaRealKm", "precioEur"],
     pros: [
       "Los 450 W, con 902 W de pico, y 551 Wh dan 55 km declarados por 799 €",
       "La suspensión integral, con horquilla delantera y trasera, absorbe baches y adoquines",
@@ -2011,7 +2011,7 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: [],
+    aprox: ["precioEur"],
     pros: [
       "Motor Bosch: fiabilidad de primer nivel por 449 €",
       "El Egret más barato de la historia de la marca",

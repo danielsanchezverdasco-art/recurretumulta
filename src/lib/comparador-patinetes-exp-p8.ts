@@ -1655,7 +1655,7 @@ export const PATINETES_EXP_P8: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "Batería de 60 V y 35 Ah (2100 Wh): 150 km declarados",
       "2400 W nominales y 5400 W de pico",

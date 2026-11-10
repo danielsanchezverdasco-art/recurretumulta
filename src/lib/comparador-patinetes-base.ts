@@ -39,7 +39,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
         alto: 587,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "60 km de autonomía declarada: de las más altas en su rango de precio",
       "Freno de tambor delantero: más duradero y menos mantenimiento que el disco",
@@ -538,7 +538,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
         alto: 1200,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "500 W nominales con tracción trasera: sube cuestas pronunciadas incluso con más de 100 kg",
       "Doble suspensión delantera y trasera + ruedas de 10 pulgada",
@@ -638,7 +638,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
         alto: 1158,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "Urbano bien equipado por unos 400 €: doble suspensión y ruedas de 10 pulgadas",
       "Certificado DGT, con intermitentes y app con antirrobo",
@@ -688,7 +688,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
         alto: 740,
       },
     ],
-    aprox: ["autonomiaRealKm", "potenciaPicoW"],
+    aprox: ["autonomiaRealKm", "potenciaPicoW", "precioEur"],
     pros: [
       "16,5 kg: de los más ligeros y portables del comparativo",
       "Doble suspensión + ruedas de 10 pulgadas por ese peso",
@@ -738,7 +738,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
         alto: 656,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "60 km teóricos y 1.000 W de pico por unos 400 € en oferta: el mejor calidad-precio",
       "Suspensión completa delantera y trasera + freno tambor/eABS",
@@ -788,7 +788,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
         alto: 1012,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "El más barato y ligero de marca premium: 16,8 kg por unos 320 €",
       "Ruedas macizas de 8,1 pulgadas: cero pinchazos, mantenimiento mínimo",
@@ -832,7 +832,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
         alto: 1422,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Homologado DGT (25 km/h): circula legalmente como VMP",
       "Doble motor: sobra potencia para cuestas de hasta el 37 %",
@@ -882,7 +882,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
         alto: 584,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Homologado DGT con doble motor de 1.600 W: el más potente de los urbanos legales",
       "Batería grande de 48 V y 18,2 Ah: gran autonomía declarada para ciudad",
@@ -932,7 +932,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
         alto: 1000,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "Marca española con red de SAT nacional y repuestos accesibles",
       "55 km de autonomía declarada y doble suspensión por unos 550 €",
@@ -1075,7 +1075,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
         alto: 1200,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "~60 km de autonomía con batería de 490 Wh por 699 €",
       "Triple freno + intermitentes E-mark + IPX5: de los mejor equipados en seguridad",
@@ -1219,7 +1219,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8.1"',
     certificadoDgt: true,
     foto: "/media/patinetes/segway-e2-e.webp",
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Certificado DGT: incluido en el listado de modelos homologados",
       "Precio muy asequible (~219 €) para un modelo certificado",
@@ -1255,7 +1255,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8"',
     certificadoDgt: true,
     foto: "/media/patinetes/segway-e2-plus-e.webp",
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Certificado DGT y llega a los 25 km/h legales",
       "Motor delantero de 300 W, buena tracción en ciudad",
@@ -1363,7 +1363,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8.5" neumáticas',
     certificadoDgt: true,
     foto: "/media/patinetes/cecotec-bongo-serie-m20.webp",
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "Certificado DGT verificado (n.º A1017 en la lista oficial)",
       "Doble sistema de frenado con regeneración",
@@ -1399,7 +1399,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: '8.5" neumáticas',
     certificadoDgt: true,
     foto: "/media/patinetes/cecotec-bongo-serie-m30.webp",
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Certificado DGT verificado (n.º A1016 en la lista oficial)",
       "30 km de autonomía declarada y 700 W de pico por ~339 €",
@@ -2355,7 +2355,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "SegPower Cross Season 10,5″ autorreparables con capa de gelatina",
   certificadoDgt: null,
   foto: "/media/patinetes/segway-p65.webp",
-  aprox: ["autonomiaRealKm"],
+  aprox: ["autonomiaRealKm", "precioEur"],
   pros: [
     "Autonomía de 65 km: varios días de uso sin cargar, según usuarios",
     "Sube cuestas del 22% manteniendo velocidad, con 980 W de pico",
@@ -2396,7 +2396,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "SegPower Cross Season 10,5″ autosellantes con gelatina",
   certificadoDgt: null,
   foto: "/media/patinetes/segway-p100s.webp",
-  aprox: ["autonomiaRealKm"],
+  aprox: ["autonomiaRealKm", "precioEur"],
   pros: [
     "100 km de autonomía declarada: la mayor de un patinete Segway",
     "Doble suspensión de doble brazo: comodidad real en ciudad",
@@ -2479,7 +2479,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Tubeless 10″ x 2,25",
   certificadoDgt: false,
   foto: "/media/patinetes/dualtron-spider.webp",
-  aprox: ["autonomiaKm", "autonomiaRealKm", "bateriaWh"],
+  aprox: ["autonomiaKm", "autonomiaRealKm", "bateriaWh", "precioEur"],
   pros: [
     "Doble motor 2x600 W con 3000 W de pico: potencia brutal en formato compacto",
     "Batería LG 60V 24,5Ah: 70-90 km de autonomía declarada",
@@ -2560,7 +2560,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "10 x 3.0 pulgadas, con cámara (street/off-road)",
   certificadoDgt: false,
   foto: "/media/patinetes/kaabo-wolf-warrior-x-plus.webp",
-  aprox: ["autonomiaRealKm", "tiempoCargaH", "bateriaWh"],
+  aprox: ["autonomiaRealKm", "tiempoCargaH", "bateriaWh", "precioEur"],
   pros: [
     "Doble motor 2x1100W (4000W pico): bestia todoterreno de verdad",
     "Frenos hidráulicos de 140 mm con ABS en ambas ruedas",
@@ -2639,7 +2639,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "9 x 3 pulgadas, con cámara",
   certificadoDgt: true,
   foto: "/media/patinetes/teverun-blade-mini-pro.webp",
-  aprox: ["autonomiaRealKm", "pesoKg", "bateriaWh"],
+  aprox: ["autonomiaRealKm", "pesoKg", "bateriaWh", "precioEur"],
   pros: [
     "Homologado por la DGT: certificado verificado, circula legal por vía pública",
     "Doble motor 2x500W (2400W pico) en formato compacto: el mini más potente de su clase",
@@ -2802,7 +2802,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos sin cámara de 10\"",
   certificadoDgt: true,
   foto: "/media/patinetes/xiaomi-electric-scooter-4-lite.webp",
-  aprox: ["autonomiaRealKm"],
+  aprox: ["autonomiaRealKm", "precioEur"],
   pros: [
     "Muy ligero (16,2 kg): fácil de subir a casa o al transporte público",
     "Precio asequible (~255 €): el más barato de la gama Xiaomi",
@@ -2841,7 +2841,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos sin cámara de 10\" Xiaomi DuraGel autosellantes",
   certificadoDgt: true,
   foto: "/media/patinetes/xiaomi-electric-scooter-4-ultra.webp",
-  aprox: ["autonomiaRealKm"],
+  aprox: ["autonomiaRealKm", "precioEur"],
   pros: [
     "Gran autonomía: hasta 70 km declarados",
     "Potencia máxima de 940 W: sube pendientes de hasta el 25 %",
@@ -2881,7 +2881,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos sin cámara de 12\"",
   certificadoDgt: true,
   foto: "/media/patinetes/xiaomi-electric-scooter-5-plus.webp",
-  aprox: ["autonomiaRealKm"],
+  aprox: ["autonomiaRealKm", "precioEur"],
   pros: [
     "Ruedas grandes de 12\": más estabilidad y comodidad que la media",
     "Autonomía de 60 km, de las más altas de su precio",
@@ -2921,7 +2921,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos sin cámara de 10\" autorreparables con revestimiento de gelatina",
   certificadoDgt: true,
   foto: "/media/patinetes/segway-ninebot-f2-pro.webp",
-  aprox: ["autonomiaRealKm"],
+  aprox: ["autonomiaRealKm", "precioEur"],
   pros: [
     "Suspensión delantera de muelle (35 mm de recorrido): más confort que el F2 Plus",
     "Potencia máxima de 900 W: sube pendientes de hasta el 22 %",
@@ -2961,7 +2961,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos sin cámara de 11\" todoterreno",
   certificadoDgt: true,
   foto: "/media/patinetes/segway-ninebot-zt3-pro.webp",
-  aprox: ["autonomiaRealKm"],
+  aprox: ["autonomiaRealKm", "precioEur"],
   pros: [
     "Potencia brutal: 650 W nominales y picos de 1.600 W (modo Boost)",
     "Ruedas todoterreno de 11\": baches, bordillos y caminos sin problema",
@@ -3082,7 +3082,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos de goma de 9,5\" sin cámara, autosellantes",
   certificadoDgt: null,
   foto: "/media/patinetes/niu-kqi3-max.webp",
-  aprox: ["autonomiaRealKm"],
+  aprox: ["autonomiaRealKm", "precioEur"],
   pros: [
     "Autonomía de 65 km con batería de 608,4 Wh",
     "Motor de 450 W (900 W pico): sube pendientes del 25 %",
@@ -3122,7 +3122,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: '8,5" inflables',
   certificadoDgt: true,
   foto: "/media/patinetes/cecotec-bongo-d30.webp",
-  aprox: ["autonomiaRealKm", "tiempoCargaH"],
+  aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
   pros: [
     "350 W nominales (650 W pico): supera pendientes de hasta el 15 %",
     "30 km de autonomía con batería de 270 Wh (36 V 7,5 Ah)",
@@ -3244,7 +3244,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: '10" tubeless neumáticas',
   certificadoDgt: true,
   foto: "/media/patinetes/smartgyro-k2-pro.webp",
-  aprox: ["autonomiaRealKm", "pesoKg"],
+  aprox: ["autonomiaRealKm", "pesoKg", "precioEur"],
   pros: ["900 W nominales (1000 W pico): de los VMP más potentes con certificado DGT", "Batería de 48 V y 15 Ah (720 Wh): Smartgyro promete hasta 60 km por carga en este K2 Pro", "Doble disco + regenerativa y suspensión de largo recorrido", "4 intermitentes (2 en las empuñaduras y 2 detrás) y doble foco LED, uno alto y otro bajo", "App con antirrobo y 140 kg de carga máxima", "Certificado DGT (VMP A1061)"],
   contras: ["22 kg: pesado para moverlo a mano cada día", "8 horas de carga completa", "PVP oficial no publicado (ronda los 700-760 € en tiendas)", "Ruedas de 10\": la versión XL monta 12\" más cómodas", "Sus 900 W nominales obligan a revisar la ordenanza de tu ciudad: hay municipios que ponen pegas a VMP tan potentes aunque lleve placa A1061"],
   veredicto: "El equilibrio de Smartgyro: 900 W, 60 km y equipamiento completo con certificado DGT. En tiendas ronda los 700-760 €. Si priorizas comodidad, la versión XL con ruedas de 12\" merece la pena.",
@@ -3592,7 +3592,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos CST de 10\" con cámara",
   certificadoDgt: null,
   foto: "/media/patinetes/inokim-quick-4.webp",
-  aprox: ["autonomiaRealKm"],
+  aprox: ["autonomiaRealKm", "precioEur"],
   pros: [
     "Motor trasero de 600 W nominales (1100 W de pico): sube cuestas con soltura",
     "Batería Samsung de 52 V y 16 Ah (832 Wh): 70 km de autonomía declarada",
@@ -3794,7 +3794,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos todoterreno sin cámara de 10\"",
   certificadoDgt: false,
   foto: "/media/patinetes/iscooter-ix3.webp",
-  aprox: ["autonomiaRealKm", "velocidadMaxKmh"],
+  aprox: ["autonomiaRealKm", "velocidadMaxKmh", "precioEur"],
   pros: [
     "Motor de 800 W: mucha potencia por 357 €",
     "Neumáticos todoterreno de 10\" sin cámara: agarre en ciudad y caminos",
@@ -3835,7 +3835,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos inflables de 10\"",
   certificadoDgt: false,
   foto: "/media/patinetes/iscooter-i10.webp",
-  aprox: ["autonomiaRealKm", "velocidadMaxKmh", "potenciaPicoW"],
+  aprox: ["autonomiaRealKm", "velocidadMaxKmh", "potenciaPicoW", "precioEur"],
   pros: [
     "Motor de 650 W y batería de 36 V y 15 Ah (540 Wh): 45 km de autonomía declarada",
     "20 kg de peso: contenido para su potencia",
@@ -4090,7 +4090,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos extra anchos de 10\"",
   certificadoDgt: false,
   foto: "/media/patinetes/razor-e300s.webp",
-  aprox: ["potenciaNominalW", "potenciaPicoW", "autonomiaKm", "autonomiaRealKm", "tiempoCargaH", "bateriaWh"],
+  aprox: ["potenciaNominalW", "potenciaPicoW", "autonomiaKm", "autonomiaRealKm", "tiempoCargaH", "bateriaWh", "precioEur"],
   pros: [
     "Asiento acolchado desmontable: puedes ir sentado o de pie",
     "Neumáticos extra anchos de 10\": muy estable",
@@ -4173,7 +4173,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos macizos antideslizantes de 8,5\"",
   certificadoDgt: null,
   foto: "/media/patinetes/aovopro-es80.webp",
-  aprox: ["autonomiaRealKm"],
+  aprox: ["autonomiaRealKm", "precioEur"],
   pros: [
     "Precio rompedor: unos 196 € en AliExpress, el más barato de la lista",
     "Solo 12 kg: ligero y fácil de transportar",
@@ -4214,7 +4214,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos neumáticas de 10\"",
   certificadoDgt: true,
   foto: "/media/patinetes/smartgyro-speedway-pro.webp",
-  aprox: ["autonomiaRealKm"],
+  aprox: ["autonomiaRealKm", "precioEur"],
   pros: [
     "Certificado DGT VMP A1060 verificado en la lista oficial",
     "Doble suspensión delantera y trasera para baches y adoquines",
@@ -4254,7 +4254,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos autorreparables sin cámara de 10\"",
   certificadoDgt: true,
   foto: "/media/patinetes/segway-max-g2-e-cert.webp",
-  aprox: ["autonomiaRealKm"],
+  aprox: ["autonomiaRealKm", "precioEur"],
   pros: [
     "Certificado DGT B1007 verificado en la lista oficial",
     "70 km de autonomía declarada (batería de 551 Wh)",
@@ -4294,7 +4294,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos tubeless todoterreno de 11\" antipinchazos",
   certificadoDgt: true,
   foto: "/media/patinetes/segway-zt3-pro-e-cert.webp",
-  aprox: ["autonomiaRealKm", "tiempoCargaH"],
+  aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
   pros: [
     "Certificado DGT B1078 verificado en la lista oficial",
     "Motor de 650 W nominales y 1.600 W de pico: el más potente de su gama urbana",
@@ -4415,7 +4415,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Ruedas de 10\" con cámara",
   certificadoDgt: true,
   foto: "/media/patinetes/zwheel-zfox-max.webp",
-  aprox: ["autonomiaRealKm"],
+  aprox: ["autonomiaRealKm", "precioEur"],
   pros: [
     "Certificado DGT VMP A1068 verificado en la lista oficial",
     "Solo 16,5 kg: de los homologados más ligeros",
@@ -4455,7 +4455,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos tubeless de 10\" (mixtas)",
   certificadoDgt: true,
   foto: "/media/patinetes/smartgyro-crossover-dual-max-2.webp",
-  aprox: ["potenciaPicoW", "autonomiaRealKm"],
+  aprox: ["potenciaPicoW", "autonomiaRealKm", "precioEur"],
   pros: [
     "Certificado DGT VMP A1176 verificado en la lista oficial",
     "Doble motor 2x500 W con tracción total: sube lo que sea",
@@ -4535,7 +4535,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
   neumaticos: "Neumáticos hinchables de 10\"",
   certificadoDgt: true,
   foto: "/media/patinetes/inmotion-climber.webp",
-  aprox: ["autonomiaRealKm"],
+  aprox: ["autonomiaRealKm", "precioEur"],
   pros: [
     "Certificado DGT VMP A1108 verificado en la lista oficial",
     "Doble motor 2x450 W (1.500 W de pico): sube cuestas del 36 %",
@@ -4731,7 +4731,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: "10\" tubeless autosellantes",
     certificadoDgt: null,
     foto: "/media/patinetes/segway-ninebot-e3.webp",
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "Solo 17,5 kg: de los más ligeros de Segway, fácil de plegar y transportar.",
       "Doble suspensión por elastómeros delante y detrás con sistema SegRide y control de tracción (TCS).",
@@ -5221,7 +5221,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: "Neumáticos macizos anti-pinchazo de 8 pulgadas",
     certificadoDgt: null,
     foto: "/media/patinetes/etwow-gt-sport.webp",
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Solo 13,2 kg con doble suspensión: la mejor relación potencia-peso del comparador",
       "Motor de 500 W nominales (700 W pico) con batería Samsung de 504 Wh",
@@ -5263,7 +5263,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: "Neumáticos hinchables de 10 x 2,5 pulgadas",
     certificadoDgt: null,
     foto: "/media/patinetes/inokim-ox-hero.webp",
-    aprox: ["autonomiaRealKm", "velocidadMaxKmh", "pesoKg"],
+    aprox: ["autonomiaRealKm", "velocidadMaxKmh", "pesoKg", "precioEur"],
     pros: [
       "Motor trasero de 1000 W (1300 W pico): sube cuestas pronunciadas sin despeinarse",
       "Batería LG de 60 V 13 Ah (780 Wh) con hasta 60 km de autonomía declarada",
@@ -5305,7 +5305,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: "Neumáticos tubeless autorreparables de 10 pulgadas",
     certificadoDgt: null,
     foto: "/media/patinetes/segway-ninebot-f3.webp",
-    aprox: ["autonomiaRealKm", "pesoKg"],
+    aprox: ["autonomiaRealKm", "pesoKg", "precioEur"],
     pros: [
       "70 km de autonomía declarada con tecnología SegRange, de las más altas en VMP urbanos",
       "Doble suspensión: hidráulica delantera + elastómero trasero para un confort sobresaliente",
@@ -5347,7 +5347,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: "Neumáticos hinchables de 10 pulgadas",
     certificadoDgt: null,
     foto: "/media/patinetes/navee-v50.webp",
-    aprox: ["autonomiaRealKm", "velocidadMaxKmh", "pesoKg", "bateriaWh"],
+    aprox: ["autonomiaRealKm", "velocidadMaxKmh", "pesoKg", "bateriaWh", "precioEur"],
     pros: [
       "50 km de autonomía declarada con 10\" hinchables: gran comodidad en ciudad",
       "Plegado de doble rotación que reduce su volumen un 66 % para guardarlo",
@@ -5431,7 +5431,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: "Delantero tubeless de 9\" + trasero macizo de 9\"",
     certificadoDgt: false,
     foto: "/media/patinetes/dualtron-dolphin.webp",
-    aprox: ["autonomiaRealKm", "velocidadMaxKmh"],
+    aprox: ["autonomiaRealKm", "velocidadMaxKmh", "precioEur"],
     pros: [
       "El Dualtron más ligero y urbano: 21 kg con la ingeniería de MiniMotors",
       "Batería Samsung de 36 V 15 Ah (540 Wh) con 46 km de autonomía declarada",
@@ -5676,7 +5676,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: "10 pulgadas tubeless off-road",
     certificadoDgt: null,
     foto: "/media/patinetes/kukirin-g2-master.webp",
-    aprox: ["autonomiaRealKm", "tiempoCargaH", "potenciaPicoW"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "potenciaPicoW", "precioEur"],
     pros: ["Tracción a las dos ruedas de verdad: un brushless de 1.000 W en cada eje, con botón en el puño derecho para rodar solo con el trasero o activar ambos a la vez.", "Con los dos motores empujando ataca rampas de hasta 28°, el techo de inclinación que KuKirin declara para este modelo en su tienda europea.", "Su paquete de celdas 18650 suma 20,8 Ah a 52 V —1.081 Wh en total— y sostiene los 70 km declarados; con tracción dual activa, cuenta más bien con los 47 km reales que estima esta ficha.", "Plataforma sobredimensionada de 550 × 190 mm y 162 mm de altura libre sobre chasis de aleación de aluminio: hay sitio para recolocar los pies en pistas largas.", "Doble amortiguación hidráulica combinada con cubiertas todoterreno de 10 pulgadas sin cámara, con taco para grava y caminos rotos en vez de asfalto liso.", "Firma lumínica propia de ocho puntos: faro delantero de cuatro LED con ángulo regulable, intermitentes en los extremos de la base y piloto trasero que parpadea al accionar cualquier maneta."],
     contras: ["Deslimitado llega a 60 km/h y suma 2.000 W entre ambos motores: dos cifras que lo dejan fuera de la categoría VMP en España, así que en vía pública solo podría circular matriculado, algo que no se ofrece.", "Esta ficha lo deja sin certificado DGT verificado y ninguna fuente europea consultada aporta homologación para usarlo en la calle como patinete al uso.", "Plegado sigue ocupando 1.260 × 595 × 595 mm y pesa 33,1 kg: el cierre sirve para meterlo en un maletero, no para subirlo al metro o cargarlo a un piso sin ascensor.", "Sin red oficial de talleres en España: se compra en tiendas europeas —la de la propia marca lo lista a 839 €—, así que una avería de motor o controladora se resuelve por envío, no en un servicio cercano.", "Recargar el paquete completo lleva entre 7 y 8 horas con su cargador de 58,8 V y 3 A, sin carga rápida que salve una salida improvisada el mismo día.", "Rodar siempre con tracción dual recorta mucho el alcance frente a la cifra oficial, porque los dos motores tiran a la vez del mismo paquete de 52 V."],
     veredicto:
@@ -5704,7 +5704,7 @@ export const PATINETES_BASE: PatineteComparador[] = [
     neumaticos: "10 pulgadas honeycomb sólidos",
     certificadoDgt: false,
     foto: "/media/patinetes/isinwheel-s9max.webp",
-    aprox: ["autonomiaRealKm", "tiempoCargaH", "pesoKg"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "pesoKg", "precioEur"],
     pros: [
       "Motor de 500 W (pico de 900 W) con buena respuesta en cuestas de hasta el 20 %.",
       "Suspensión delantera y trasera: raro en su rango de precio.",

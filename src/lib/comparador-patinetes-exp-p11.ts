@@ -409,7 +409,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/emove-cruiser-v2-hunt1.webp", alt: "Cruiser V2 (foto: VoroMotors (web oficial), licencia desconocida)", ancho: 1000, alto: 1000 },
       { src: "/media/emove-cruiser-v2-hunt2.webp", alt: "Cruiser V2 (foto: VoroMotors (web oficial), licencia desconocida)", ancho: 1000, alto: 1000 },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: ["Autonomía legendaria: hasta 100 km declarados", "Suspensión de cuatro puntos que filtra baches de verdad", "Neumáticos tubeless autosellantes: adiós pinchazos", "Celdas LG 21700 con certificación UL2849", 'Pantalla LCD a color de 3,5"', "Plegado con autobloqueo y triple seguridad"],
     contras: ["53 km/h: muy por encima del límite VMP español", "Sin certificado DGT verificado", "33,6 kg: un muerto para subirlo a casa", "Sin PVP en euros: solo se vende en dólares desde EE. UU.", "Carga de 9 a 12 horas", "Tamaño XXL: no es un patinete discreto"],
     veredicto: "El Cruiser V2 es el rey de la autonomía: 1560 Wh y 100 km por carga con calidad de construcción seria. Lástima que sus 53 km/h y la falta de certificado DGT lo dejen fuera de la legalidad española.",
@@ -538,7 +538,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/ducati-pro-ii-evo-hunt1.webp", alt: "Pro-II Evo (foto: Ducati Urban e-Mobility (producto) vía INYDY, licencia desconocida)", ancho: 901, alto: 1024 },
       { src: "/media/ducati-pro-ii-evo-hunt2.webp", alt: "Pro-II Evo (foto: Ducati / Fresh Mobile Concepts (asset oficial de producto) vía Poczta Polska, licencia desconocida)", ancho: 800, alto: 533 },
     ],
-    aprox: ["autonomiaRealKm", "potenciaPicoW"],
+    aprox: ["autonomiaRealKm", "potenciaPicoW", "precioEur"],
     pros: [
       "Motor de 350 W (515 W de pico) con 4 modos de conducción hasta 25 km/h",
       "Batería de 374 Wh (36 V 10,4 Ah): hasta 40 km de autonomía declarada",
@@ -585,7 +585,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/ducati-pro-ii-evo-advanced-safety-hunt1.webp", alt: "Pro-II Evo Advanced Safety (foto: Datart (foto de producto de la variante Advanced Safety), licencia desconocida)", ancho: 1000, alto: 570 },
       { src: "/media/ducati-pro-ii-evo-advanced-safety-hunt2.webp", alt: "Pro-II Evo Advanced Safety (foto: Robocleaners (foto de producto de la variante Advanced Safety), licencia desconocida)", ancho: 955, alto: 1500 },
     ],
-    aprox: ["autonomiaRealKm", "potenciaPicoW"],
+    aprox: ["autonomiaRealKm", "potenciaPicoW", "precioEur"],
     pros: [
       "Certificado DGT VMP B1014: circula legal por España",
       "Intermitentes integrados (Advanced Safety), raros en su rango de precio",
@@ -632,7 +632,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/ducati-city-cross-e-hunt1.webp", alt: "City Cross-E X Off-Road Edition (foto: MT Distribution / Ducati Urban e-Mobility (foto de producto) vía MediaExpert, licencia desconocida)", ancho: 1524, alto: 2000 },
       { src: "/media/ducati-city-cross-e-hunt2.webp", alt: "City Cross-E X Off-Road Edition (foto: MT Distribution / Ducati Urban e-Mobility (foto de producto) vía MediaExpert, licencia desconocida)", ancho: 1315, alto: 2000 },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       "Estética Scrambler con doble faro delantero, única en su precio",
       "Batería de 450 Wh: hasta 45 km de autonomía declarada",
@@ -679,7 +679,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/aprilia-esr1-hunt1.webp", alt: "eSR1 (foto: Aprilia / Piaggio Group (flyer oficial eSR1), licencia desconocida)", ancho: 1124, alto: 902 },
       { src: "/media/aprilia-esr1-hunt2.webp", alt: "eSR1 (foto: Aprilia / Piaggio Group (flyer oficial eSR1), licencia desconocida)", ancho: 784, alto: 966 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Chasis de magnesio de solo 15,6 kg, de los más ligeros con rueda de 10\"",
       "Batería EXTRAÍBLE de 281 Wh: se carga en casa o la oficina sin el patinete",
@@ -726,7 +726,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/aprilia-esrz-hunt1.webp", alt: "eSRz (foto: Aprilia (foto de producto oficial) vía MediaGalaxy, licencia desconocida)", ancho: 1000, alto: 1000 },
       { src: "/media/aprilia-esrz-hunt2.webp", alt: "eSRz (foto: Aprilia (foto de producto oficial) vía Datart, licencia desconocida)", ancho: 1000, alto: 750 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Carga completa en solo 3 horas, de las más rápidas del mercado",
       "14 kg de peso neto: se sube por escaleras sin sufrir",
@@ -773,7 +773,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/jeep-2xe-adventurer-hunt1.webp", alt: "2XE Adventurer (foto: Media Expert (galería de producto Jeep 2xe Adventurer), licencia desconocida)", ancho: 1200, alto: 1159 },
       { src: "/media/jeep-2xe-adventurer-hunt2.webp", alt: "2XE Adventurer (foto: Pie Technologie (ficha de producto Jeep 2xe Adventurer), licencia desconocida)", ancho: 1080, alto: 720 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Estética militar verde Jeep, la más llamativa del comparador",
       "Batería de 374 Wh: hasta 40 km de autonomía",
@@ -820,7 +820,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/lamborghini-al1-hunt1.webp", alt: "AL1 (foto: e-patinetes.es / Automobili Lamborghini (foto de producto), licencia desconocida)", ancho: 1700, alto: 1700 },
       { src: "/media/lamborghini-al1-hunt2.webp", alt: "AL1 (foto: e-patinetes.es / Automobili Lamborghini (foto de producto), licencia desconocida)", ancho: 1700, alto: 1700 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Chasis de magnesio de solo 13 kg: de los más ligeros del mercado",
       'Ruedas honeycomb de 8" imposibles de pinchar',
@@ -867,7 +867,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/acer-es-series-3-advance-hunt1.webp", alt: "ES Series 3 Advance (foto: Acer / TraficBank (ficha de producto AES023), licencia desconocida)", ancho: 1024, alto: 1024 },
       { src: "/media/acer-es-series-3-advance-hunt2.webp", alt: "ES Series 3 Advance (foto: Acer / TraficBank (ficha de producto AES023), licencia desconocida)", ancho: 1024, alto: 1024 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "187 € en PcComponentes: de los más baratos con marca grande detrás",
       "Motor trasero de 350 W que sube pendientes del 20%",
@@ -915,7 +915,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/ducati-pro-i-evo-hunt2.webp", alt: "Pro-I Evo (foto: Euronics Italia / Ducati Urban e-Mobility, licencia desconocida)", ancho: 1000, alto: 649 },
       { src: "/media/ducati-pro-i-evo-hunt3.webp", alt: "Pro-I Evo (foto: Zigwheels / Carbay, licencia desconocida)", ancho: 852, alto: 568 },
     ],
-    aprox: ["autonomiaRealKm", "autonomiaKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "autonomiaKm", "tiempoCargaH", "precioEur"],
     pros: [
       "Solo 12 kg: el Ducati más ligero, se lleva en una mano",
       "Motor de 350 W con 25-30 km de autonomía declarada",
@@ -962,7 +962,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/ducati-pro-ii-plus-hunt1.webp", alt: "Pro-II Plus (foto: Ducati Urban e-Mobility / MT Distribution (foto oficial de producto, vía Amazon), licencia desconocida)", ancho: 1500, alto: 1000 },
       { src: "/media/ducati-pro-ii-plus-hunt2.webp", alt: "Pro-II Plus (foto: Ducati Urban e-Mobility / MT Distribution (foto oficial de producto, vía Rafplay), licencia desconocida)", ancho: 1024, alto: 1024 },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: [
       'Ruedas sin cámara de 10" con suspensión trasera: confort superior',
       'Motor de 350 W y pantalla LCD de 3,5" con 4 modos',
@@ -1015,7 +1015,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/currus-nf11-hunt1.webp", alt: "NF11 Panther (foto: scooter.guide (review del Currus Panther), licencia desconocida)", ancho: 600, alto: 800 },
       { src: "/media/currus-nf11-hunt2.webp", alt: "NF11 Panther (foto: scooter.guide (review del Currus Panther), licencia desconocida)", ancho: 800, alto: 600 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble motor de 2x1200 W nominales (5400 W de pico): la bestia coreana de Currus",
       "Batería Samsung SDI de 60 V 35 Ah (2100 Wh) con hasta 110 km declarados",
@@ -1074,7 +1074,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/yadea-elite-prime-hunt1.webp", alt: "Elite Prime Pro (foto: The Gadgeteer (análisis del Yadea ElitePrime), licencia desconocida)", ancho: 800, alto: 600 },
       { src: "/media/yadea-elite-prime-hunt2.webp", alt: "Elite Prime Pro (foto: The Gadgeteer (análisis del Yadea ElitePrime), licencia desconocida)", ancho: 800, alto: 600 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Motor de 800 W nominales con picos de 1500 W: sube pendientes del 30 % sin despeinarse",
       "Batería de 696 Wh (48 V 14,5 Ah) con hasta 65 km de autonomía declarada",
@@ -1133,7 +1133,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/zero-11x-hunt1.webp", alt: "11X (foto: Zero / eBikeScooter (tienda distribuidora), licencia desconocida)", ancho: 1000, alto: 1405 },
       { src: "/media/zero-11x-hunt2.webp", alt: "11X (foto: Zero (foto oficial de producto) vía Ride Electric Australia, licencia desconocida)", ancho: 1000, alto: 1000 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble motor de 2x1600 W nominales: 3200 W para una aceleración brutal",
       "Batería LG de 72 V 32 Ah (2304 Wh) con hasta 150 km declarados",
@@ -1186,7 +1186,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/bronco-xtreme-sport-hunt1.webp", alt: "Xtreme Sport 72V (foto: Eko-Motion / Bronco Motors, licencia desconocida)", ancho: 1000, alto: 1000 },
       { src: "/media/bronco-xtreme-sport-hunt2.webp", alt: "Xtreme Sport 72V (foto: Eko-Motion / Bronco Motors, licencia desconocida)", ancho: 1000, alto: 1000 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble motor con 8400 W máximos: acelera de 0 a 50 km/h en 4 segundos",
       "Batería LG MJ1 de 72 V 35 Ah (2520 Wh), de las mayores del mercado",
@@ -1239,7 +1239,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/soflow-so4-pro-hunt1.webp", alt: "SO4 Pro (foto: SoFlow (render oficial de producto) vía CDON / Nordic Pictures, licencia desconocida)", ancho: 800, alto: 800 },
       { src: "/media/soflow-so4-pro-hunt2.webp", alt: "SO4 Pro (foto: SoFlow (render oficial de producto) vía Akku-Alle, licencia desconocida)", ancho: 1200, alto: 1200 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Homologado para circular por carretera en Alemania: papeles europeos serios",
       "Pesa solo 17 kg: se pliega y se sube al tren o al maletero sin drama",
@@ -1352,6 +1352,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Motor trasero de 1400 W nominales con picos de 3000 W",
@@ -1457,6 +1458,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Asiento amplio y cesta de serie: comodidad total para recados",
@@ -1656,6 +1658,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Batería gigante de 1056 Wh (48 V 22 Ah): hasta 82 km declarados",
@@ -1947,7 +1950,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/kaabo-skywalker-10c-hunt1.webp", alt: "Skywalker 10C (foto: Kaabo (tienda oficial UE, kaabomantis.com), licencia desconocida)", ancho: 1000, alto: 1000 },
       { src: "/media/kaabo-skywalker-10c-hunt2.webp", alt: "Skywalker 10C (foto: Kaabo (tienda oficial UE, kaabomantis.com), licencia desconocida)", ancho: 1000, alto: 1000 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Motor trasero de 800 W con 1400 W de pico y buena entrega",
       "55 km de autonomía con batería de 48 V y 15,6 Ah (749 Wh)",
@@ -1994,7 +1997,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/kaabo-mantis-x-hunt1.webp", alt: "Mantis X (foto: Storm Rides NZ (distribuidor oficial Kaabo), licencia desconocida)", ancho: 1050, alto: 700 },
       { src: "/media/kaabo-mantis-x-hunt2.webp", alt: "Mantis X (foto: Storm Rides NZ (distribuidor oficial Kaabo), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble motor de 500 W (1000 W nominales, 2000 W de pico)",
       "75 km de autonomía con batería de 48 V y 18,2 Ah",
@@ -2089,7 +2092,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/zwheel-zlion-x-max-hunt1.webp", alt: "ZLion X Max (foto: La Casa del Outlet (fotos del producto Zwheel), licencia desconocida)", ancho: 1422, alto: 1422 },
       { src: "/media/zwheel-zlion-x-max-hunt2.webp", alt: "ZLion X Max (foto: Territorio Eléctrico (anuncio del producto), licencia desconocida)", ancho: 792, alto: 1024 },
     ],
-    aprox: ["autonomiaRealKm", "potenciaPicoW"],
+    aprox: ["autonomiaRealKm", "potenciaPicoW", "precioEur"],
     pros: [
       "Está homologado por la DGT",
       "Cuesta 370 €, de los más asequibles con certificado",
@@ -2201,7 +2204,7 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       { src: "/media/urbanglide-100-evo-hunt1.webp", alt: "100 EVO (foto: UrbanGlide (web oficial del fabricante), licencia desconocida)", ancho: 1000, alto: 1000 },
       { src: "/media/urbanglide-100-evo-hunt2.webp", alt: "100 EVO (foto: Rádio Popular (ficha de producto Ride 100 EVO), licencia desconocida)", ancho: 750, alto: 750 },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Precio de 250 € en Francia, muy asequible",
       "Neumáticos de 10 pulgadas con cámara, cómodos en ciudad",

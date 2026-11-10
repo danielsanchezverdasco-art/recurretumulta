@@ -41,7 +41,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm", "velocidadMaxKmh", "pesoKg"],
+    aprox: ["autonomiaKm", "autonomiaRealKm", "velocidadMaxKmh", "pesoKg", "precioEur"],
     pros: [
       "8.400 W de potencia pico: aceleración de otro planeta",
       "Batería de 2.880 Wh (72V 40Ah): 120-150 km declarados",
@@ -111,7 +111,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm", "velocidadMaxKmh", "pesoKg"],
+    aprox: ["autonomiaKm", "autonomiaRealKm", "velocidadMaxKmh", "pesoKg", "precioEur"],
     pros: [
       "Doble motor de 1.000 W (5.040 W de pico): sobra potencia para cualquier cuesta",
       "Batería de 2.160 Wh (72V 30Ah): 100-110 km declarados",
@@ -235,7 +235,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm", "velocidadMaxKmh", "pesoKg"],
+    aprox: ["autonomiaKm", "autonomiaRealKm", "velocidadMaxKmh", "pesoKg", "precioEur"],
     pros: [
       "Batería LG de 1.800 Wh (60V 30Ah): 85-90 km declarados",
       "Mismo chasis ágil del Klima con mucha más autonomía",
@@ -289,7 +289,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm", "pesoKg"],
+    aprox: ["autonomiaKm", "autonomiaRealKm", "pesoKg", "precioEur"],
     pros: [
       "Doble motor de 1.000 W: tracción total con muy buena respuesta",
       "Batería de 1.680 Wh (60V 28Ah): 60 km declarados",
@@ -399,7 +399,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble motor de 1.200 W (5.000 W de pico): empuja muy fuerte",
       "Batería LG de 1.500 Wh (60V 25Ah): celdas de primeras marcas",
@@ -466,7 +466,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm"],
+    aprox: ["autonomiaKm", "autonomiaRealKm", "precioEur"],
     pros: [
       "Versión V2026: pantalla TFT de 4 pulgadas con NFC y GPS integrado",
       "Frenos hidráulicos de 4 pistones: lo mejor de su segmento",
@@ -525,7 +525,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm"],
+    aprox: ["autonomiaKm", "autonomiaRealKm", "precioEur"],
     pros: [
       "10.000 W de pico: el patinete de serie más potente del mercado",
       "Batería de 4.320 Wh (72V 60Ah): 200 km declarados",
@@ -970,7 +970,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["velocidadMaxKmh", "autonomiaRealKm"],
+    aprox: ["velocidadMaxKmh", "autonomiaRealKm", "precioEur"],
     pros: [
       "Doble motor de 1.500 W (6.000 W de pico): prestaciones de hyper-scooter",
       "Batería de 2.160 Wh (72V 30Ah): 120 km declarados",
@@ -1099,7 +1099,7 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaKm", "autonomiaRealKm", "velocidadMaxKmh"],
+    aprox: ["autonomiaKm", "autonomiaRealKm", "velocidadMaxKmh", "precioEur"],
     pros: [
       "675 Wh (54V 12,5Ah): 80-95 km declarados, autonomía de largo recorrido",
       "625 €: precio muy competitivo para esa batería",

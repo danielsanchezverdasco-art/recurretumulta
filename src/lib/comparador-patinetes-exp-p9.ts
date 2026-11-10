@@ -1193,7 +1193,7 @@ export const PATINETES_EXP_P9: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: ["Solo 10 kg soportando hasta 100 kg de carga: se sube con una mano a un piso sin ascensor o al maletero, donde un patinete de 15-20 kg ya se hace pesado", "239 € por un motor brushless de 250 W que llega a 25 km/h, el tope de velocidad de un VMP, sin pagar el sobreprecio de gamas con app y ruedas grandes", "La trasera maciza de 8 pulgadas no se pincha, y la delantera neumática filtra algo mejor las juntas: para trayectos cortos por barrio el mantenimiento es mínimo", "Plegado queda en 102×40×15 cm y lleva display integrado: cabe tras una puerta o bajo un escritorio y ves velocidad y batería sin depender de ninguna app"],
     contras: ["Unos 11 km reales frente a los 15 km anunciados: cualquier ida y vuelta que supere los 5 km por trayecto ya te deja sin margen de batería", "El único freno que recoge la ficha es el eléctrico trasero, sin disco ni tambor de apoyo: en bajadas largas toda la retención depende de la electrónica", "Con solo 8 pulgadas y la trasera maciza, las ruedas transmiten cada junta, tapa y adoquín; en asfalto roto el trayecto se vuelve seco frente a un modelo neumático de 10 pulgadas", "Sin certificado DGT verificado en la ficha y con una carga completa de 4 horas para tan pocos kilómetros: antes de comprarlo, y más de segunda mano, toca comprobar su situación documental"],
     veredicto:

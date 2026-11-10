@@ -40,7 +40,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "pesoKg"],
+    aprox: ["autonomiaRealKm", "pesoKg", "precioEur"],
     pros: [
       "Motor de 500 W con muy buena capacidad de subida: se defiende en cuestas del 27-33 %",
       "Batería extraíble de 504 Wh que además sirve como powerbank por USB",
@@ -106,7 +106,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Motor nominal de 500 W con batería de 48 V: empuje serio para su tamaño",
       "Solo 17 kg: ligero para combinarlo con transporte público",
@@ -1416,7 +1416,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: ["Conjunto cerrado y coherente para trayectos cortos: motor de 450 W, batería de 360 Wh —48 V y 7,5 Ah según la placa del manual— y velocidad máxima de 25 km/h, sin prometer cifras de patinete superior.", "Las dos ruedas honeycomb de 10 pulgadas eliminan el pinchazo y la obligación de vigilar presiones: a cambio de menos filtración, el SEL-10800F puede salir del trastero y rodar sin pasar antes por el inflador.", "Pesa 16,6 kg y, ya plegado, el manual lo deja en 1.080 × 480 × 510 mm, un formato asumible para subirlo a un piso, meterlo en un maletero pequeño o arrinconarlo junto a la puerta.", "Recarga completa en 4 horas con su cargador de 54,6 V y 2 A: lo enchufas al llegar a casa por la tarde y a la mañana siguiente vuelve a estar listo para la misma ruta de ida y vuelta.", "Frenada con dos sistemas distintos, eléctrico delante y tambor detrás, más práctica en un modelo sin pretensiones que confiarlo todo a un único freno electrónico."],
     contras: ["La autonomía oficial es de hasta 30 km, pero la propia ficha baja la expectativa a unos 20 km reales; quien necesite más de eso al día se quedará mirando el indicador antes de llegar a casa.", "El panal de las ruedas no pincha, pero tampoco amortigua como una cámara de aire: en adoquines, juntas de acera y firme rugoso, las vibraciones llegan directas a pies y manos.", "Con un conductor cercano a la carga máxima de 120 kg, los 450 W quedan justos y el manual desaconseja pendientes largas y pronunciadas: no es el patinete para cuestas serias con mochila y compra.", "La ficha no registra certificado DGT y el manual lo presenta para uso doméstico, advierte de no utilizarlo en vías públicas y pide comprobar la normativa local: antes de comprarlo para circular, toca verificar su situación en tu municipio."],
     veredicto:
@@ -1570,7 +1570,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "bateriaWh", "tiempoCargaH", "pesoKg"],
+    aprox: ["autonomiaRealKm", "bateriaWh", "tiempoCargaH", "pesoKg", "precioEur"],
     pros: ["Amortiguador trasero oculto: esa es la frontera con el E9 Basic, que rueda sin suspensión de ningún tipo", "Bajo la plataforma viaja un pack de litio de 36 V con 7,5 Ah: son 270 Wh calculados", "Desde la aplicación de Zwheel se enciende o se apaga el crucero, se toca el límite de velocidad y se repasan los kilómetros recorridos", "Panel LCD sobre el manillar que informa de velocidad, carga restante y luz encendida sin depender de la pantalla del móvil", "Admite hasta 120 kg de conductor sobre un chasis de la serie E9 pensado para trayectos cortos encadenados"],
     contras: ["Las fuentes se reparten entre 20 y 25 km por carga: esta ficha toma los 25 km declarados en su etapa de venta como techo optimista frente a unos 20 km de uso real", "Cubiertas de aire de 8,5 pulgadas: el diámetro corto filtra peor bordillos y adoquín que una rueda de 10 y suma el riesgo de pinchar por el camino", "Con 350 W el llano se resuelve sin problema, pero una rampa larga y sostenida con un conductor cercano a los 120 kg lo deja sin reserva de empuje", "Su peso tampoco cierra el círculo: conviven cifras de 11, de 12 y de 13,1 kg según dónde se consulte, así que no conviene comprarlo contando gramos", "Ni certificado DGT acreditado en la ficha ni precio vigente localizado en la tienda de la marca: ambos extremos toca confirmarlos antes de circular o de pagar"],
     veredicto:
@@ -1656,7 +1656,7 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: [],
+    aprox: ["precioEur"],
     pros: [
       "Gama ZWolf 2025: la nueva generación de Zwheel, con la potencia del ZCougar y la suspensión del ZRino",
       "Certificado por la DGT como VMP: circula legal en España",

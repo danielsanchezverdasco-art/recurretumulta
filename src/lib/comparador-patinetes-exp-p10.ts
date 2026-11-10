@@ -46,6 +46,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     aprox: [
       "autonomiaRealKm",
       "potenciaPicoW",
+      "precioEur",
     ],
     pros: [
       "Certificado DGT VMP B1118: circula legal por España limitado a 25 km/h",
@@ -101,6 +102,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Cuatro motores de 1500 W (6000 W nominales, 9900 W de pico)",
@@ -227,6 +229,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Certificado DGT VMP A1178 (versión ST): 100% legal en España",
@@ -283,6 +286,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     aprox: [
       "autonomiaRealKm",
       "tiempoCargaH",
+      "precioEur",
     ],
     pros: ["Dos controladores senoidales de 50 A que se ajustan por separado desde la pantalla en color: cinco modos con parámetros independientes de arranque, entrega y freno eléctrico para cada motor", "Batería de 72 V y 28 Ah con celdas LG 21700 (2.016 Wh): es la versión Viper de autonomía larga dentro de la familia Burn-E", "Chasis monopieza de aluminio aeronáutico 6082 soldado a mano, columna de dirección íntegra en fibra de carbono y cierre de plegado cónico patentado en acero inoxidable 304", "Amortiguadores hidráulicos de muelle de 165 mm regulables en precarga y rebote, con amortiguador de dirección para domar el tren delantero a alta velocidad", "Faro delantero de 2.000 lúmenes, tiras LED laterales que hacen de intermitentes y bocina de tipo motocicleta: un equipo de iluminación impropio de un patinete al uso", "Discos hidráulicos de 160 mm en los dos ejes combinados con freno eléctrico de intensidad regulable entre 0 y 5 desde el display"],
     contras: ["3.681,80 € de tarifa: cuesta como una moto eléctrica urbana y, a diferencia de ella, no puede matricularse ni circular como vehículo", "47 kg y 134,6 cm de largo incluso plegado: olvídate de subirlo a un piso sin ascensor o de meterlo en un maletero pequeño", "Carece de certificado DGT y su punta de 95 km/h lo deja fuera de la categoría de VMP: su sitio es el circuito o la finca privada", "Recargar los 2.016 Wh lleva unas 8 horas con el cargador incluido; acortar ese tiempo exige comprar el cargador rápido aparte", "Los 150 km oficiales se miden a ritmo tranquilo; apretando el acelerador, la propia estimación de esta ficha cae a unos 100 km reales", "El manual reserva las reparaciones al distribuidor oficial de NAMI y en España no hay red propia de la marca: pastillas, purgados y recambios dependen del importador que te lo vendió"],
@@ -331,6 +335,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     aprox: [
       "autonomiaRealKm",
       "tiempoCargaH",
+      "precioEur",
     ],
     pros: [
       "Motor de 800 W con 50 km/h de máxima (limitado a 25 km/h de fábrica)",
@@ -392,6 +397,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Doble motor de 2x1000 W (2000 W nominales)",
@@ -451,7 +457,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       { src: "/media/vmax-vx4-hunt1.webp", alt: "VX4 (foto: Fahrradblog.de (test VMAX VX4 en Noruega), licencia desconocida)", ancho: 1280, alto: 754 },
       { src: "/media/vmax-vx4-hunt2.webp", alt: "VX4 (foto: Freshly Charged (review VMAX VX4), licencia desconocida)", ancho: 1400, alto: 1045 },
     ],
-    aprox: [],
+    aprox: ["precioEur"],
     pros: [
       "Certificado DGT VMP A1177 (versión ST): legal en España",
       'Batería de 874 Wh con neumáticos tubeless off-road de 10"',
@@ -513,6 +519,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     aprox: [
       "autonomiaRealKm",
       "tiempoCargaH",
+      "precioEur",
     ],
     pros: [
       "Certificado DGT VMP A1179 (versión ST): legal en España",
@@ -567,6 +574,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Motor de 750 W nominales con buena capacidad para cuestas (20° según fabricante)",
@@ -633,6 +641,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Homologado DGT: 100 % legal para circular por España",
@@ -693,6 +702,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Batería extraíble e intercambiable de 12,8 Ah (36 V): se carga en cualquier enchufe y admite segunda batería",
@@ -759,6 +769,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Homologado DGT con intermitentes de cambio de carril",
@@ -824,6 +835,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Homologado DGT: el VMP legal más potente de este lote (800/1600 W)",
@@ -890,6 +902,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Homologado DGT para circular por España",
@@ -957,6 +970,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Motor de 700 W nominales con pico de 2200 W en modo Boost",
@@ -1025,6 +1039,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Homologado DGT: doble motor legal para circular en España",
@@ -1091,6 +1106,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Desbloqueo por NFC con tarjeta física que actúa como llave, sin depender del móvil",
@@ -1154,6 +1170,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     aprox: [
       "autonomiaRealKm",
       "tiempoCargaH",
+      "precioEur",
     ],
     pros: [
       "Motor de 500 W con pico de 700 W, muy por encima de los 350 W habituales",
@@ -1216,6 +1233,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     aprox: [
       "autonomiaRealKm",
       "pesoKg",
+      "precioEur",
     ],
     pros: [
       "Motor de 500 W con pico de 700 W para afrontar cuestas urbanas",
@@ -1278,6 +1296,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Diseñado por el Centro Stile Fiat con el icónico faro redondo del 500",
@@ -1340,6 +1359,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Motor trasero de 500 W con capacidad para subir pendientes del 20 %",
@@ -1402,6 +1422,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Diseño italiano en rojo y oro con acabados de motocicleta premium",
@@ -1459,6 +1480,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Homologado DGT según la ficha de PcComponentes, apto para circular sin preocupaciones",
@@ -1521,6 +1543,7 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
     ],
     aprox: [
       "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Intermitentes de giro dentro del apellido Advanced Safety",

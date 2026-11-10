@@ -205,7 +205,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "La homologación DGT verificada permite circular con total legalidad",
       "Los neumáticos tubeless de 10 pulgadas eliminan los pinchazos por cámara",
@@ -626,7 +626,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["tiempoCargaH", "autonomiaRealKm"],
+    aprox: ["tiempoCargaH", "autonomiaRealKm", "precioEur"],
     pros: [
       "800 W nominales (1000 W de pico): potencia de sobra para cuestas",
       "60 km declarados con batería de 15000 mAh",
@@ -747,7 +747,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble motor de 1000 W: tracción total para cuestas y salidas rápidas",
       "50 km declarados aun con dos motores",
@@ -808,7 +808,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "60 km declarados (ficha oficial Smartgyro)",
       "800 W nominales (1.800 W máximos) para mover esa batería grande",
@@ -869,7 +869,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: ["Motor brushless que entrega 800 W continuos y se estira hasta los 1.000 W en los repechos, con la velocidad recortada a los 25 km/h legales", "Guarda 720 Wh en su pack de 15 Ah: la marca anuncia 60 km por carga y esta ficha ya descuenta hasta 41 km en uso real", "Frenada triple de verdad: un disco mecánico en cada rueda más la retención regenerativa del motor al soltar el acelerador", "Versión Certificado (SG27-424) homologada por la DGT y con placa: intermitentes que se accionan desde el manillar, ledes ambientales en la base y display con toma USB", "Amortiguación en ambos ejes y cierre de plegado 2.0 con doble anclaje, pensado para que el mástil no coja holgura con los kilómetros"],
     contras: ["Pesa 23 kg: se pliega, sí, pero cargarlo por escaleras o subirlo al tren a pulso cansa desde el primer día", "Recargar el pack completo lleva unas 8 horas, así que un olvido por la noche se paga al día siguiente", "La estanqueidad se queda en IPX4: aguanta salpicaduras, no un chaparrón sostenido ni chorros directos", "Los 60 km del anuncio salen del ensayo amable de SmartGyro —75 kg de carga, 25 °C y ritmo medio contenido—; en la calle la propia ficha lo deja en 41 km", "Se queda sin el bloqueo por tarjetas NFC ni la electrónica Core Inside del Rockway EVO de 2025, y sus neumáticos Dual Grip no son tubeless como los de la familia EVO"],
     veredicto:
@@ -980,7 +980,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "75 km declarados: autonomía long range por 779 €",
       "900 W: más potencia que la mayoría de ruteros",
@@ -1041,7 +1041,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Doble motor de 1000 W (2000 W combinados): tracción total real",
       "75 km declarados con batería de 20000 mAh",
@@ -1103,7 +1103,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["potenciaNominalW", "autonomiaRealKm"],
+    aprox: ["potenciaNominalW", "autonomiaRealKm", "precioEur"],
     pros: ["Ambos ejes empujan: dos motores de 2.500 W cada uno entregan 5.000 W nominales y picos de 10.800 W", "El paquete de 2.880 Wh anuncia 125 km por carga, cifra que la propia ficha rebaja a unos 85 km reales", "Para detener semejante conjunto monta pinzas NUTT hidráulicas sobre discos de 160 mm, con apoyo del ABS/EBS electrónico", "Las cubiertas runflat de 11 pulgadas siguen rodando tras un pinchazo, evitando quedarte tirado lejos de casa", "Soporta conductores de hasta 150 kg y añade pantalla EY4 conectada por Bluetooth, con sellado IPX5 frente a salpicaduras"],
     contras: ["Sus 51,2 kg descartan subirlo por escaleras, meterlo en un maletero o combinarlo con transporte público", "Declarar 100 km/h y 5.000 W nominales lo sitúa fuera de la categoría española de VMP, así que por vías abiertas al tráfico no puede circular legalmente aquí", "La ficha deja el precio en euros sin publicar; la referencia estadounidense que cita rondaba los 3.299 $, nada parecido a un patinete asequible", "Tampoco consta duración oficial de carga, y recargar 2.880 Wh difícilmente será tarea de un rato", "Su apartado casero obliga a mirar el desgaste de pastillas al cumplir 1.000 km: masa y velocidad las devoran, un gasto recurrente nada barato de asumir"],
     veredicto:
@@ -1217,7 +1217,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: [],
+    aprox: ["precioEur"],
     pros: [
       "12000 W de potencia máxima: el Dualtron más potente",
       "Batería de 84 V y 60 Ah (5040 Wh): la mayor de la marca",
@@ -1277,7 +1277,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["potenciaNominalW"],
+    aprox: ["potenciaNominalW", "precioEur"],
     pros: [
       "2600 W en la plataforma Victor: ágil y potente",
       "Batería de 60 V y 35 Ah (2100 Wh)",
@@ -1334,7 +1334,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "El Dualtron urbano y legal: 25 km/h y 420 W",
       "Doble freno de tambor + ABS/EBS: frenada segura y sin mantenimiento",
@@ -1399,7 +1399,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm"],
+    aprox: ["autonomiaRealKm", "precioEur"],
     pros: [
       "Homologado DGT según BOE-A-2022-987: verificado",
       "600 W nominales (800 W de pico) con batería Samsung de 48 V y 15 Ah (720 Wh)",
@@ -1467,7 +1467,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["autonomiaRealKm", "tiempoCargaH", "bateriaWh", "autonomiaKm"],
+    aprox: ["autonomiaRealKm", "tiempoCargaH", "bateriaWh", "autonomiaKm", "precioEur"],
     pros: [
       "3600 W de pico con solo 26,2 kg: la mejor relación peso/potencia de Dualtron",
       "Batería LG de 60 V y 30 Ah (1800 Wh): 105 km declarados",
@@ -1600,7 +1600,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["potenciaNominalW", "autonomiaRealKm", "tiempoCargaH"],
+    aprox: ["potenciaNominalW", "autonomiaRealKm", "tiempoCargaH", "precioEur"],
     pros: ["Un motor buje en cada rueda con selección entre tracción trasera o total: en llano basta un motor y en repechos entra el delantero", "Basculantes delantero y trasero con doble amortiguador de muelle, la arquitectura que distingue a los Mantis de los patinetes de horquilla recta", "Pack de 60 V y 18,2 Ah alojado en la tabla, con 75 km declarados y unos 51 km reales estimados en esta ficha", "Discos de 140 mm con pinzas semi-hidráulicas en ambos ejes y apoyo del freno electrónico EABS al accionar las manetas", "Cubiertas neumáticas de diez por tres pulgadas, más balón que las de 2,5 habituales en este diámetro", "Chasis plegable de aluminio con sellado IPX5 y 30 kg: la mitad que los 62 kg del Wolf King GTR de la propia Kaabo"],
     contras: ["Kaabo no publica para este V2 un PVP cerrado en euros en España, así que el importe final depende del distribuidor que lo importe", "Fuera del recinto privado no encaja como VMP en España: su planteamiento de 60 V y doble tracción supera el marco de 25 km/h y en la ficha no consta certificado DGT", "La recarga completa pide entre ocho y diez horas con el cargador de serie, sin el doble puerto de carga rápida que sí ofrece el Mantis King GT", "Rodar siempre con los dos motores recorta de forma clara el alcance: de los 75 km declarados se pasa a la estimación real de 51 km recogida en la ficha", "Ser el doble motor ligero de Kaabo no lo hace portable: 30 kg a pulso siguen siendo un castigo en escaleras y transporte público"],
     veredicto:
@@ -1643,7 +1643,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["potenciaNominalW", "autonomiaRealKm", "bateriaWh"],
+    aprox: ["potenciaNominalW", "autonomiaRealKm", "bateriaWh", "precioEur"],
     pros: [
       "Novedad 2025 basada en el Mantis King GT",
       "Doble motor de 800 W en la versión Pro",
@@ -1705,7 +1705,7 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
         alto: 800,
       },
     ],
-    aprox: ["velocidadMaxKmh", "autonomiaRealKm"],
+    aprox: ["velocidadMaxKmh", "autonomiaRealKm", "precioEur"],
     pros: [
       "500 W con 1600 W de pico en modo dual",
       "Batería de 48 V y 13 Ah (624 Wh): más de 50 km en modo eco",
@@ -1901,7 +1901,8 @@ export const PATINETES_EXP_P2: PatineteComparador[] = [
     foto: "/media/patinetes/kaabo-mantis-8-eco-800-oficial.webp",
     galeria: [],
     aprox: [
-      "autonomiaRealKm"
+      "autonomiaRealKm",
+      "precioEur",
     ],
     pros: [
       "Un solo motor de 800 W en la rueda trasera, con subida declarada del 25 % (30 % en otro apartado de la web)",
