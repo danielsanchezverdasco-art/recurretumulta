@@ -456,7 +456,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     carnet: "A1 (también con carnet B con 3 años de antigüedad)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Solo 103 kg: la moto grande más ligera del mercado",
       "Caja de 5 velocidades: como una moto de verdad en miniatura",
@@ -664,7 +664,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     carnet: "A (versión de 35 kW para el A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "DCT de doble embrague: scooter en ciudad, moto de 6 marchas en carretera",
       "Bicilíndrico de 745 cc con 58,6 CV y 69 Nm",
@@ -873,7 +873,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     carnet: "A (limitable a 35 kW para el A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "Y-AMT: cambio automático sin maneta ni pedal, con modo manual por levas",
       "El CP2 de 689 cc con 73,4 CV: el bicilíndrico más querido de Europa",
@@ -944,7 +944,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     carnet: "A (limitable a 35 kW para el A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La sport-turismo media más equilibrada: 73,4 CV y 203 kg",
       "Maletas laterales de 20 l, pantalla touring y asiento confort de serie",
@@ -1015,7 +1015,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     carnet: "A2 (también con carnet A)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El maxiscooter original: 25 años de mito",
       "Bicilíndrico de 562 cc con 47,6 CV: se conduce con el A2",
@@ -1152,7 +1152,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Cúpula regulable eléctricamente y TFT de 4,2 pulgadas con Garmin",
       "Motor Blue Core de 292 cc con 28 CV: sobrado para autopista",
@@ -1289,7 +1289,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     carnet: "A (limitable a 35 kW para el A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Estética heritage con el CP2 de 73,4 CV: lo mejor de dos mundos",
       "Asiento plano y manillar ancho: comodidad clásica",
@@ -1360,7 +1360,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     carnet: "A (limitable a 35 kW para el A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "196 kg: la sport-turismo media más ligera",
       "CP2 de 73,4 CV con par lleno desde abajo",

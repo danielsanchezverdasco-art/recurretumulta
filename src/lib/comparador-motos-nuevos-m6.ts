@@ -34,7 +34,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de 124 cc con refrigeración líquida, 4 válvulas y 12,6 CV a 8.000 rpm: moderno y con consumos reducidos",
       "Llantas de 14 pulgadas en ambos ejes: más aplomo y mejor paso por baches que los scooters de rueda pequeña",
@@ -119,7 +119,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "14 CV a 9.000 rpm: el 125 más potente del catálogo SYM, con refrigeración líquida e inyección Keihin",
       "ABS Bosch 9.1 en ambas ruedas más control de tracción, equipamiento de maxiscooter",
@@ -205,7 +205,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "2.350 €: uno de los 125 de rueda alta más baratos del mercado español",
       "Consumo de 2,1 l/100 km: con 7 litros de depósito supera los 330 km de autonomía",
@@ -291,7 +291,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "36,7 CV y 38 Nm: récord absoluto de potencia en la categoría de 350 y 400 cc",
       "Pantalla eléctrica regulable en altura, con dos parabrisas (touring y deportivo) de serie",
@@ -378,7 +378,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "14,55 CV y 12,8 Nm: roza el límite legal del A1 con motor propio de refrigeración líquida y culata de 4 válvulas",
       "ABS de doble canal con inyección electrónica Bosch",
@@ -639,7 +639,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "Diseño único: chasis multitubular a la vista con placas de aluminio, no parece ningún otro scooter",
       "Sistema patentado ISS (Independent Steering System): basculante delantero de aluminio forjado que mantiene la geometría en frenada",
@@ -725,7 +725,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "AM",
     carga: "Batería extraíble de litio 60V32Ah con cargador externo",
     etiquetaDgt: "Cero",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "Precio de 3.250 €: de las 45 km/h eléctricas más baratas con batería de litio de celdas Panasonic (60V32Ah)",
       "67 km de autonomía declarada: da para una semana de desplazamientos urbanos sin cargar a diario",
@@ -804,7 +804,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "A1",
     carga: "Unas 4 h (doble batería extraíble)",
     etiquetaDgt: "Cero",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "Doble batería extraíble de 2.976 Wh: 70-80 km declarados y se cargan en casa como un portátil grande",
       "Motor Bosch de 3.100 W y 70 km/h de máxima: sale a rondas y circunvalaciones sin ir ahogada",
@@ -888,7 +888,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "AM",
     carga: "Unas 4 h (batería extraíble de 11,5 kg)",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "49 km en ciclo WMTC: autonomía homologada europea real, no una cifra de marketing",
       "Batería extraíble de 11,5 kg: se saca con una mano y se carga en cualquier enchufe",
@@ -1309,7 +1309,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "A1",
     carga: "7-9 h en Schuko (600 W); Battery Station en unos 30 s",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "133 km en ciclo WMTC: la mayor autonomía homologada entre los scooters eléctricos españoles",
       "Batería extraíble tipo trolley de 41 kg: se saca y se lleva rodando como una maleta",
@@ -1480,7 +1480,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor Revolution Max de 1.252 cc con 150 CV a 9.000 rpm: el más potente de la historia de la marca en una trail",
       "Llanta delantera de aleación de 17\" y neumáticos Michelin Scorcher Sport: nace para el asfalto, no para la tierra",
@@ -1650,7 +1650,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor Milwaukee-Eight 114 de 1.868 cc con 94 CV y 155 Nm a 3.250 rpm: carácter dragster auténtico",
       "Estética bobber de libro: manillar mini-ape, guardabarros recortados y todo en negro",
@@ -1820,7 +1820,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "5.645 €: la puerta de entrada a Triumph, impensable hace pocos años",
       "Monocilíndrico de 398 cc con 40 CV directos para el A2, sin kits de limitación",
@@ -1905,7 +1905,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Rueda delantera de 19\" y 150 mm de recorrido en ambas suspensiones: la única 400 A2 con vocación off-road real",
       "Mismo monocilíndrico de 398 cc y 40 CV de la Speed 400, directo para el A2",
@@ -1990,7 +1990,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "E-Clutch en 2026: cambia sin embrague y arranca sin tocar la maneta, primicia en el A2",
       "Bicilíndrico de 471 cc con 35 kW (47 CV): el límite legal del A2, suave y lineal",
@@ -2161,7 +2161,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "V-twin transversal Compact Block de 1.042 cc con 115 CV y 105 Nm: carácter italiano único",
       "Transmisión final por cardán reforzado: cero mantenimiento de cadena en viajes largos",

@@ -83,7 +83,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Versión SE con suspensiones Öhlins y frenos Brembo de serie",
       "Tetracilíndrico de 1.099 cc con 136 CV: empuje de sobra con dos y equipaje",
@@ -138,7 +138,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Solo 143 kg: una de las retro más ligeras y manejables del mercado",
       "Precio de 5.995 €: acceso asequible al mundo clásico",
@@ -248,7 +248,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Versión SE con pantalla TFT, conectividad para smartphone y puerto USB",
       "Bicilíndrico de 451 cc con 45,4 CV: ideal para el carnet A2",
@@ -304,7 +304,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A2 (limitable)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 776 cc con 83 CV y 78 Nm: empuje lleno desde abajo",
       "Limitable para el carnet A2: deportiva carenada accesible",
@@ -359,7 +359,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A2 (limitable)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El mismo bicilíndrico de 776 cc de la 8R en formato naked: 82 CV",
       "7.999 €: de las naked medias con mejor relación precio-equipo",
@@ -414,7 +414,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A2 (limitable)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El legendario V2 de 645 cc, ahora con 73 CV, acelerador electrónico y quickshifter",
       "Pantalla TFT de 4,2 pulgadas con conectividad y navegación",
@@ -470,7 +470,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Versión asfáltica de la 800: llanta delantera de 19 pulgadas más ágil en carretera",
       "Bicilíndrico de 776 cc con 83 CV y 78 Nm: suave y con bajos",
@@ -581,7 +581,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A (limitable A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico LC8c (799 cc, 95 CV y 87 Nm): la 'Scalpel' original",
       "Solo 174 kg: relación peso-potencia de referencia",
@@ -636,7 +636,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["El monocilíndrico de 399 cc entrega 45 CV y 39 Nm en solo 165 kg: en puertos de montaña y rondas urbanas la 2025 se mueve con una agilidad que una bicilíndrica A2 más pesada no iguala", "Electrónica impropia de una A2 en esta 2025: TFT de 5 pulgadas con modo Track, tres modos de conducción —Street, Rain y Track—, launch control, control de tracción sensible a la inclinación y ABS en curva con modo Supermoto desconectable atrás", "Asiento regulable entre 820 y 800 mm y depósito metálico estrecho en la entrepierna: quien mida menos de 1,70 m llega al suelo sin tener que conformarse con la versión limitada de otra marca", "Freno delantero con disco de 320 mm y pinza radial de cuatro pistones, horquilla invertida WP de 43 mm y conectividad KTM Connect con navegación paso a paso de serie, sin pasar por caja"],
     contras: ["El Quickshifter+ bidireccional, precisamente lo que más apetece usar con este motor nervioso, es un extra de pago y no viene de serie pese a tratarse de una de las A2 más caras de su clase", "Es un monocilíndrico y se nota: vibra en autovía sostenida y protesta si lo dejas caer de vueltas, así que el cambio de seis marchas trabaja casi tanto como tú", "Asiento firme, posición echada hacia delante y cero protección contra el viento: para ir a dúo o enlazar dos horas de autovía, esta Duke cansa antes que sus rivales turísticas", "No hay control de crucero homologado en este modelo y tampoco una IMU de seis ejes como en sus hermanas mayores; el ABS en curva funciona con sus propios sensores"],
     curiosidades: ["Con 165 kg en orden de marcha, esta 390 pesa menos que la primera Duke de 1994, que declaraba 168 kg con el depósito lleno pese a rendir en la misma franja de potencia", "El faro y las tapas laterales afiladas copian el lenguaje de la 1390 Super Duke R, la hypernaked de la casa, aunque aquí todo cabe en un carnet A2"],
@@ -730,7 +730,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "La trail media más capaz en off-road: suspensiones WP XPLOR de 240 mm",
       "Bicilíndrico LC8c de 889 cc con 105 CV y 100 Nm",
@@ -785,7 +785,7 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "La enduro 4T más demandada de KTM: equilibrio perfecto entre potencia y manejabilidad",
       "Monocilíndrico de 449 cc con 57 CV y solo 107 kg en seco",

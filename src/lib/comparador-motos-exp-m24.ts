@@ -408,7 +408,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de 1.000 cc con 218 CV: el tetracilíndrico más potente que Honda ha homologado para calle",
       "Electrónica de MotoGP: IMU de 6 ejes, antiwheelie, control de tracción y freno motor configurables",
@@ -670,7 +670,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 471 cc con 47 CV exactos: la naked A2 por excelencia, sin limitar",
       "188 kg en orden de marcha: ágil en ciudad y estable en carretera",
@@ -735,7 +735,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tetracilíndrico de 599 cc con 121 CV: la supersport de referencia desde 2003",
       "Electrónica completa: IMU, antiwheelie, control de tracción y quickshifter",
@@ -4396,7 +4396,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "Bicilíndrico de 648 cc con 47 CV: la custom A2 con más carácter",
       "Estética bobber de fábrica: guardabarros recortados y manillar plano",
@@ -4461,7 +4461,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "Monocilíndrico de 349 cc con 20 CV: la Royal más ágil y urbana",
       "177 kg y asiento a 800 mm: manejable para todos",

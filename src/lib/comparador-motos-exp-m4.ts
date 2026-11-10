@@ -28,7 +28,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La estética vintage más pura del mercado: guardabarros curvados, depósito en lágrima y faro clásico",
       "Motor serie J de 349 cc muy refinado: 20,2 CV y 27 Nm con entrega suave y sonido grave característico",
@@ -266,7 +266,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La custom A2 más asequible: desde 4.387 € con estética cruiser auténtica",
       "Postura de conducción muy accesible y relajada, ideal para iniciarse",
@@ -1499,7 +1499,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de 399 cc con 35,6 CV y 37,7 Nm: sobrado para todo",
       "Estabilidad de tres ruedas con bloqueo de la suspensión delantera",
@@ -2244,7 +2244,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Diseño que mezcla lo clásico y lo moderno con paneles de acero en diamante",
       "Motor de 275 cc con 25,1 CV a 8.250 rpm y 24,5 Nm: solvente en ciudad y vías rápidas",
@@ -2317,7 +2317,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El tope de gama de Lambretta: 330 cc con 26,4 CV",
       "Estética clásica de los años 60 con equipamiento moderno",
@@ -2390,7 +2390,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El diseño X con motor de 124 cc y 14 CV: estilo sin necesidad del A2",
       "Se conduce con el carnet B con 3 años de antigüedad",
@@ -2466,7 +2466,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La Lambretta más barata: 3.999 €",
       "Diseño clásico accesible para todos los bolsillos",
@@ -2542,7 +2542,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La más económica de la marca: 3.699 €",
       "Estética Special con detalles cromados clásicos",
@@ -3152,7 +3152,7 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "399 cc con 35 CV: el crossover más potente de SYM",
       "Estética adventure muy conseguida",

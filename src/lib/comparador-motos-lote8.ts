@@ -200,7 +200,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A1 (o B con 3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["potenciaCv"],
+    aprox: ["potenciaCv", "precioDesde"],
     pros: [
       "Diseño 100 % Italjet: agresivo y deportivo, con alerones laterales como una MotoGP",
       "3.950 €: uno de los scooters 125 italianos más asequibles frente al Dragster",
@@ -283,7 +283,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Monocilíndrico de 463 cc con 45 CV: el A2 más ligero del segmento con 147 kg en seco",
       "Electrónica de moto grande: IMU, 4 modos de conducción, ABS en curva y control de tracción en curva",
@@ -542,7 +542,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg", "velocidadMax"],
+    aprox: ["pesoKg", "velocidadMax", "precioDesde"],
     pros: [
       "V2 Corsa Corta EVO de 1.187 cc con 129 CV y 106 Nm, diseñado y desarrollado en Italia",
       "11.990 € PVPR: varios miles por debajo de las maxitrail europeas y japonesas equivalentes",
@@ -1047,7 +1047,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["potenciaCv", "autonomiaKm"],
+    aprox: ["potenciaCv", "autonomiaKm", "precioDesde"],
     pros: [
       "6.295 € de lanzamiento: la trail A2 bicilíndrica más barata con este nivel",
       "Bicilíndrico de 471 cc con 46,9 CV: roza el límite del A2 con entrega suave",
@@ -1135,7 +1135,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["potenciaCv"],
+    aprox: ["potenciaCv", "precioDesde"],
     pros: [
       "Scrambler de 292 cc con 28,5 CV por 3.995 €: estilo premium a precio chino",
       "Doble disco delantero de 300 mm: frenada sobredimensionada para su cilindrada",
@@ -1300,7 +1300,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A1 (o B con 3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Diseño italiano 'R' agresivo: una de las naked 125 más bonitas del segmento",
       "15 CV al límite del A1 con solo 130 kg: relación peso-potencia excelente",
@@ -1594,7 +1594,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "Tricilíndrico de 699 cc con 95 CV y 74,5 Nm: el motor más carismático del segmento",
       "7.288 €: precio demoledor para una sport-turismo tricilíndrica equipada",
@@ -1682,7 +1682,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A1 (o B con 3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm", "velocidadMax"],
+    aprox: ["autonomiaKm", "velocidadMax", "precioDesde"],
     pros: [
       "2.688 €: el scooter 125 más tecnológico por menos de 3.000 €",
       "15 CV con solo 117 kg: el 125 más ligero de su categoría",

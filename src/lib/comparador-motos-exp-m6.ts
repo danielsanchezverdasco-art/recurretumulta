@@ -83,7 +83,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor 2T de 249 cc con inyección Keihin EFI de 39 mm: respuesta limpia en todo el régimen",
       "Centralita EMS de Vitesco y batería de iones de litio de serie",
@@ -140,7 +140,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor 4T de 249,9 cc: entrega suave y apta para pilotos que suben de cilindrada",
       "Eje de balance que reduce las vibraciones del monocilíndrico",
@@ -197,7 +197,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Se conduce con el carnet A1 (o el B con 3 años de experiencia)",
       "Solo 99,5 kg: la más ligera de la gama EC de enduro",
@@ -291,7 +291,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Monocilíndrico de 692,7 cc con 74 CV: el supermotard grande por excelencia",
       "Parte ciclo de supermoto real: llantas 17\", frenos potentes y geometría agresiva",
@@ -402,7 +402,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "125 2T homologada Euro5: se matricula y se conduce con el A1",
       "Solo 101 kg en seco: agilidad total en zonas técnicas",
@@ -456,7 +456,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor 4T de 250 cc con base Yamaha: fiabilidad legendaria",
       "Entrega de potencia suave y progresiva, ideal para progresar",
@@ -513,7 +513,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "304 cc 4T con cilindro Athena: más par que la 250 sin el peso de la 450",
       "3 mapas de motor + control de tracción de 10 niveles con app WiGET",
@@ -867,7 +867,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor 4T de 449,4 cc: máxima potencia de la gama Sherco",
       "Horquilla KYB de 48 mm y frenos Brembo de 260/220 mm",
@@ -924,7 +924,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "250 2T de trial con entrega dócil: la cilindrada ideal para progresar",
       "Versión Factory con componentes de competición",
@@ -1211,7 +1211,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El concepto 'enduro fácil': asiento bajo y moto manejable",
       "Motor 2T de 292,3 cc suave, sin el carácter racing de la RR",
@@ -1387,7 +1387,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El regreso de la mítica Alp: trial-excursión sencilla y honesta",
       "Motor 350 cc con 35 CV: suficiente para disfrutar sin complicaciones",
@@ -1444,7 +1444,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La versión scrambler de la Alp: faro redondo y estilo todo uso",
       "Ruedas de 19\" y 17\" más anchas: mejor en asfalto que la 4.0",
@@ -1501,7 +1501,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Enduro de verdad con carnet A1: 124,66 cc y 107 kg",
       "Motor 4T suave y económico, ideal para aprender",
@@ -1555,7 +1555,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Versión Race: la RR 200 con preparación de competición de serie",
       "Motor 2T de 200 cc: ligereza de 125 con par de 250",
@@ -1671,7 +1671,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La enduro portuguesa más equipada: escape Doma de titanio y carbono",
       "Motor propio de 249 cc con inyección Delphi: 30 CV fiables",
@@ -1729,7 +1729,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor 2T de 300 cc con inyección: potencia máxima del trial",
       "Solo 67 kg: ligereza extrema",
@@ -1786,7 +1786,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "250 2T con inyección: el equilibrio ideal del trial moderno",
       "67 kg y componentes Factory de primer nivel",
@@ -1843,7 +1843,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "125 de trial Factory: la puerta de entrada a la competición",
       "Ligera y manejable, ideal para jóvenes y pilotos ligeros",
@@ -2408,7 +2408,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Trial eléctrica: cero humos, cero ruido, cero mezcla",
       "Solo 60 kg: la más ligera de todo el lote",
@@ -2710,7 +2710,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "300 2T con clara influencia de las motos de competición de la marca",
       "105 kg: ligera para su cilindrada",
@@ -2767,7 +2767,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Estética rally-raid auténtica por 4.649 €",
       "Motor de 293 cc con 33,5 CV: el doble que la Aventura 125",

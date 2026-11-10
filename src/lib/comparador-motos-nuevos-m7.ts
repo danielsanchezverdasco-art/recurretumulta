@@ -124,7 +124,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de 11 CV con refrigeracion liquida y tecnologias LFE y ACG de baja friccion: declara solo 2,1 l/100 km",
       "Deposito de 8 litros: unos 380 km de autonomia teorica, de las mejores del segmento deportivo",
@@ -209,7 +209,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "1.888 euros con IVA y transporte incluidos: el scooter 125 mas barato del mercado espanol",
       "5 anos de garantia oficial, el doble de lo habitual en el segmento",
@@ -294,7 +294,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Estetica retro con faro delantero elevado de inspiracion clasica y piloto trasero vertical: encanto vintage con tecnologia actual",
       "Refrigeracion liquida lateral en un scooter retro: 11 CV y 11,2 Nm, por encima de la media del segmento",
@@ -550,7 +550,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor microhibrido de 14,7 CV con refrigeracion liquida: ayuda electrica al arranque y menor consumo",
       "Pantalla TFT de 5 pulgadas multifuncion con mirroring del movil, unica en su rango de precio",
@@ -723,6 +723,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
       "potenciaCv",
       "potenciaKw",
       "cilindradaCc",
+      "precioDesde",
     ],
     pros: [
       "1.990 euros de tarifa: de los scooters 125 mas baratos del mercado espanol",
@@ -808,7 +809,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "2.190 euros: diseno neo-retro diferenciador por poco mas de 2.000 euros",
       "Estetica futurista, limpia y minimalista: no parece un scooter barato",
@@ -982,7 +983,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Cambio manual de 5 velocidades: el unico scooter 125 con marchas, para quien quiera sensaciones de moto",
       "Motor de 9,65 CV y 9,6 Nm capaz de llegar a 94 km/h segun la marca",
@@ -1067,7 +1068,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de 12,6 CV con refrigeracion liquida e inyeccion Continental: suave y de bajo consumo",
       "ABS de doble canal sobre discos lobulados de 260 y 220 mm, mas sistema antielevacion trasera",
@@ -1155,6 +1156,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     aprox: [
       "potenciaCv",
       "potenciaKw",
+      "precioDesde",
     ],
     pros: [
       "Concepto crossover: junta lo urbano y el offroad ligero en un scooter 125",
@@ -1243,6 +1245,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     aprox: [
       "potenciaCv",
       "potenciaKw",
+      "precioDesde",
     ],
     pros: [
       "Concepto adventure con estetica campera: defensas y postura erguida",
@@ -1413,7 +1416,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de 11,7 CV con refrigeracion liquida, Start & Stop y rumorosidad muy baja segun la prueba",
       "ABS de doble canal (270/218 mm) y control de traccion (TCS) de serie",
@@ -1502,6 +1505,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [
       "pesoKg",
+      "precioDesde",
     ],
     pros: [
       "Formato maxiscooter por 2.695 euros: presencia y comodidad de GT a precio de urbano",
@@ -1587,7 +1591,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1 (B)",
     carga: "Carga completa en 4 h 20 min; 80 % en 3 h 20 min",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Aceleración contundente: moto125.cc midió 0-100 m en 7,55 s y 400 m en 18,89 s, por encima de cualquier 125 de gasolina",
       "Baterías LFP Blade de BYD con 6.000 ciclos de carga y 5 años de garantía: durabilidad muy superior a la media",
@@ -1660,6 +1664,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [
       "velocidadMax",
+      "precioDesde",
     ],
     pros: [
       "Baúl trasero integrado de serie con capacidad de carga de hasta 200 kg",
@@ -1727,7 +1732,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "AM",
     carga: "Carga completa en unas 4 horas",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Cesta delantera y baúl trasero de serie: lista para reparto nada más salir del concesionario",
       "Batería extraíble de 72 V y 20 Ah, con opción de segunda batería hasta 130 km",
@@ -1860,7 +1865,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "AM",
     carga: "Carga completa en unas 5 horas",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "102 km de autonomía declarada: de las más altas entre los ciclomotores",
       "Doble batería extraíble de 60 V y 24 Ah",
@@ -1926,7 +1931,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1 (B)",
     carga: "Batería extraíble; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Rueda alta de 16 pulgadas: más estabilidad y mejor paso por baches",
       "Batería extraíble de 2,7 kWh: se carga en casa sin necesidad de garaje",
@@ -1995,6 +2000,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [
       "autonomiaKm",
+      "precioDesde",
     ],
     pros: [
       "Estética neo-retro con faro redondo LED: de las eléctricas más bonitas",
@@ -2062,7 +2068,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "AM",
     carga: "Carga completa en 6-7 horas",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor Bosch de 1.500 W con 150 Nm de par: empuje sorprendente",
       "Batería Panasonic extraíble de 1,8 kWh",
@@ -2131,6 +2137,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [
       "autonomiaKm",
+      "precioDesde",
     ],
     pros: [
       "Diseño naked agresivo con chasis visto",
@@ -2402,7 +2409,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "AM",
     carga: "Carga completa en 4 horas",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "91 km de autonomía (ciclo CEE): de las mejores entre los ciclomotores",
       "145 Nm de par: empuje notable para 2 kW nominales",
@@ -2468,7 +2475,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "AM",
     carga: "Batería extraíble; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Chasis monocasco de aluminio: ligero (79 kg) y rígido",
       "Diseño italiano rompedor, del centro de estilo Fantic",
@@ -2535,7 +2542,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "AM",
     carga: "Carga completa en 4 horas",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor Bosch de 1.800 W: fiabilidad alemana",
       "Batería Panasonic de 60 V y 20 Ah, extraíble",
@@ -2604,6 +2611,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [
       "autonomiaKm",
+      "precioDesde",
     ],
     pros: [
       "Baterías extraíbles de 72 V y 35 Ah: hasta 160 km con dos",
@@ -2671,7 +2679,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "AM",
     carga: "Batería extraíble; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "2.200 €: ciclomotor eléctrico español asequible",
       "Batería extraíble de 60 V y 24 Ah",
@@ -2804,7 +2812,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "AM",
     carga: "7 h (4,5 h al 80 %); cargador rápido opcional de 600 W",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Batería portátil de 1,62 kWh: se carga en cualquier enchufe doméstico",
       "Segunda batería opcional: hasta 112 km de autonomía",
@@ -2942,6 +2950,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [
       "velocidadMax",
+      "precioDesde",
     ],
     pros: [
       "Precio de 2.490 €: una de las naked A1 más asequibles del mercado (SoyMotero).",
@@ -3021,7 +3030,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Agilidad extrema en ciudad: solo 124 kg y ruedas anchas de 12 pulgadas.",
       "Horquilla invertida de 35 mm con regulación, rara en una minimoto.",
@@ -3344,7 +3353,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Depósito de 20 l: autonomía enorme para una 125.",
       "14,5 CV con modos de conducción Eco y Sport.",
@@ -3506,6 +3515,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [
       "pesoKg",
+      "precioDesde",
     ],
     pros: [
       "Embrague antirrebote: rarísimo en una 125 (mundomotero).",
@@ -3585,7 +3595,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Pantalla TFT curva de 5 pulgadas con navegación Google Maps.",
       "Control de tracción además de ABS: inédito en su rango de precio.",
@@ -3666,6 +3676,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [
       "pesoKg",
+      "precioDesde",
     ],
     pros: [
       "Cámara delantera (dashcam) y navegador GPS de serie: única en el segmento.",
@@ -3826,6 +3837,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [
       "velocidadMax",
+      "precioDesde",
     ],
     pros: [
       "2.888 €: imbatible en relación precio-equipamiento.",
@@ -3905,7 +3917,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Estética neo-retro muy distintiva, con faro de parábolas superpuestas.",
       "Componentes de marca: inyección Bosch, suspensión Kayaba y frenos Nissin.",
@@ -4065,6 +4077,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     etiquetaDgt: "C",
     aprox: [
       "pesoKg",
+      "precioDesde",
     ],
     pros: [
       "ABS en curva con IMU Bosch: único en el segmento 125.",
@@ -4144,7 +4157,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Estética neo-retro muy cuidada, con gran nivel de detalle.",
       "Llantas de radios de 18 y 17 pulgadas con neumáticos Maxxis mixtos.",
@@ -4223,7 +4236,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "2.899 €: de las clásicas 125 más asequibles.",
       "Estética clásica muy lograda, con depósito en forma de lágrima.",
@@ -4302,7 +4315,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "250 cc por 3.999 €: acceso barato al carnet A2.",
       "Estética retro muy cuidada, con fuelles en la horquilla.",
@@ -4462,7 +4475,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La Ténéré más campera de la gama: suspensiones KYB con 20 mm extra de recorrido y asiento plano de rally a 910 mm, pensada para pilotar de pie",
       "Motor CP2 de 689 cc con fama de irrompible y entrega dócil, ideal para pistas exigentes sin sustos",
@@ -4528,7 +4541,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La Ténéré pensada para viajar: parabrisas alto, asiento bajo de 860 mm y posición erguida",
       "Quickshifter de serie, un guiño rutero que la base no ofrecía en 2024",
@@ -4594,7 +4607,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Depósito de 23 litros: autonomía real de más de 400 km para grandes viajes",
       "Motor bicilíndrico de 895 cc y 105 CV con bajos llenos y sonido característico",
@@ -4660,7 +4673,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Estética de rally con faro de doble óptica y depósito estilizado: parece una moto de raids",
       "Solo 155 kg en orden de marcha, de las más ligeras del segmento trail A2",
@@ -4792,7 +4805,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Versión equipada para viajar: maletas, parabrisas alto y defensas de serie",
       "Suspensiones WP APEX totalmente ajustables, superiores a las de la Norden base",
@@ -4858,7 +4871,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Solo 142 kg: la trail japonesa más ligera y manejable para el A2",
       "Motor de 286 cc y 27,3 CV suave y económico, ideal para aprender en campo",
@@ -4924,7 +4937,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Depósito de 25 litros y carenado envolvente: la gran rutera de Honda",
       "Motor de 1.084 cc y 102 CV con bajos contundentes y opción de cambio DCT",
@@ -4990,7 +5003,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La trail grande de Honda por 15.825 €: la maxitrail japonesa más asequible",
       "Rueda de 21 pulgadas y chasis ligero: la más campera de las maxitrail",
@@ -5056,7 +5069,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor bicilíndrico de 659 cc y 80 CV derivado de la RS 660, con carácter deportivo",
       "204 kg: de las trail medias más ligeras, se nota en campo",
@@ -5122,7 +5135,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El bóxer de 1.300 cc y 145 CV más potente jamás montado en una GS",
       "Radar con control de crucero adaptativo y alerta de ángulo muerto",
@@ -5188,7 +5201,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Precio de 5.887 €: la trail A2 con mejor relación precio/prestaciones",
       "Motor Sherpa de 452 cc y 40,2 CV, el primero refrigerado por líquido de Royal Enfield",
@@ -5387,7 +5400,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Doble depósito de 23 litros: autonomía de rally sin repostar",
       "Suspensiones Öhlins de largo recorrido, lo mejor del segmento",
@@ -5871,7 +5884,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor PowerPlus 112 de 1.834 cc con 122 CV y 181,4 Nm: el V-twin americano más potente de su categoría, refrigerado por líquido",
       "Carenado batwing con parabrisas ajustable eléctricamente: protección aerodinámica de primera para viajar",
@@ -6789,7 +6802,7 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de 1.000 cc derivado de la CBR1000RR Fireblade de 2017, con 150 CV: fiabilidad probada y empuje deportivo",
       "Suspensiones electrónicas Showa EERA: se adaptan al modo de conducción y a la carga automáticamente",

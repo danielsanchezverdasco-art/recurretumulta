@@ -2297,7 +2297,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Solo 138 kg, muy ligera para una trail",
       "Versión R con espíritu off-road más marcado",
@@ -2478,7 +2478,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "B",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "90 km/h, apto para rondas y vías rápidas",
       "149 km de autonomía real urbana",
@@ -2644,7 +2644,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Edición limitada con los colores del Aspar Team",
       "Frenos J.JUAN con discos refrigerados",
@@ -2770,7 +2770,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Mismo precio y equipo que la 125X",
       "Enfoque urbano con mejor protección aerodinámica",
@@ -2836,7 +2836,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "34 CV, de los más potentes del segmento 350",
       "Doble disco delantero con pinzas radiales",
@@ -2896,7 +2896,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "63 CV limitables a 47 para el A2",
       "6.592 euros, muy ajustada frente a rivales",
@@ -3022,7 +3022,7 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Versión crossover del SR1 con estética aventurera",
       "Parabrisas regulable eléctricamente",

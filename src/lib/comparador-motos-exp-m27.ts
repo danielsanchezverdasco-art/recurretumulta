@@ -99,7 +99,7 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "94,5 CV con 190 kg en orden de marcha: la mejor relación peso/potencia de su segmento",
       "Suspensiones KYB de 240 mm de recorrido, totalmente regulables delante y detrás",
@@ -171,7 +171,7 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm", "velocidadMax"],
+    aprox: ["autonomiaKm", "velocidadMax", "precioDesde"],
     pros: [
       "La A2 trail con mejor relación calidad-precio del mercado: 5.390 € con equipamiento de maxitrail",
       "Pantalla TFT vertical de 7 pulgadas con GPS y Morbidelli Connect, digna de motos mucho más caras",
@@ -243,7 +243,7 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "pesoKg"],
+    aprox: ["velocidadMax", "pesoKg", "precioDesde"],
     pros: [
       "V-twin a 80° de 997 cc con 89 Nm: empuje contundente desde muy abajo",
       "Imagen dragster con rueda trasera de 240 mm: presencia imposible de ignorar",
@@ -318,7 +318,7 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "178 kg en seco: la más ligera de su categoría, con mucho aluminio en el conjunto",
       "Suspensiones KYB multirregulables en ambos trenes, algo raro en este precio",

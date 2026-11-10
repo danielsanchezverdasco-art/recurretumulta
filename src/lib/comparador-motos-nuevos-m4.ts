@@ -27,7 +27,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "7.350 €: la trail A2 de referencia en relación calidad-precio, con el respaldo de la red Honda",
       "Bicilíndrico de 471 cc y 47 CV: suave, fiable y con consumos reales en torno a 3,3 l/100 km",
@@ -109,7 +109,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm", "velocidadMax"],
+    aprox: ["autonomiaKm", "velocidadMax", "precioDesde"],
     pros: [
       "Nueva generación 2025 con genética de rally: llantas con radios de 21\"/18\" y suspensiones WP de 230 mm",
       "Monocilíndrico de 399 cc y 45 CV: el más potente y rabioso del segmento trail A2",
@@ -191,7 +191,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A (limitable A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg", "precioDesde"],
     pros: [
       "10.500 €: la puerta de entrada a la familia GS, la trail más vendida de Europa",
       "Bicilíndrico de 853 cc con 77 CV: empuje lleno y suave, ideal para viajar a dúo",
@@ -273,7 +273,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A (limitable A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg", "precioDesde"],
     pros: [
       "12.195 €: la Tiger más accesible, con el tricilíndrico de 888 cc y 85 CV",
       "Motor tricilíndrico con carácter único: empuje de bicilíndrico abajo y estirada de cuatro arriba",
@@ -355,7 +355,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "6.280 €: una de las trails A2 más asequibles con motor bicilíndrico",
       "Bicilíndrico de 296 cc derivado de la Ninja 300: 40 CV que estiran hasta la zona alta",
@@ -525,7 +525,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "6.450 €: la NX500 2026 baja de precio y se coloca como la trail A2 Honda más asequible",
       "Bicilíndrico de 471 cc con 47 CV y control de tracción HSTC desconectable",
@@ -610,7 +610,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "6.495 €: la trail A2 china que puso en jaque a las japonesas, con equipamiento de moto grande",
       "Bicilíndrico de 449,5 cc con 44 CV y cigüeñal a 270º: sonido y tacto de moto mayor",
@@ -695,7 +695,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "3.792 €: la trail A2 más económica del mercado español, imbatible en precio",
       "147 kg: ligereza de moto de campo, ideal para iniciarse en el off-road",
@@ -781,7 +781,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm", "velocidadMax"],
+    aprox: ["autonomiaKm", "velocidadMax", "precioDesde"],
     pros: [
       "7.475 €: la deportiva A2 de Honda con estética de CBR1000RR-R",
       "Bicilíndrico de 471 cc y 47 CV: el tope legal del A2 con entrega suave y progresiva",
@@ -866,7 +866,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tetracilíndrico de 399 cc con 77 CV a 14.500 rpm (79 CV con Ram-Air): único en su segmento",
       "Sonido y estirada de superbike clásica: sube hasta las 15.000 rpm",
@@ -1121,7 +1121,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A1 (B con 3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "5.499 €: la 125 con más pedigree de carreras, heredera de las RS de 250 cc",
       "Chasis de aluminio de doble viga: el único del segmento, derivado de la RSV4",
@@ -1378,7 +1378,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A1 (B con 3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg", "precioDesde"],
     pros: [
       "3.899 €: la 125 deportiva japonesa más asequible, con genes GSX-R",
       "134 kg: la más ligera de las 125 deportivas, agilísima",
@@ -1464,7 +1464,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A (limitable A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "11.695 €: el icono Bonneville con el bicilíndrico de 900 cc y 65 CV",
       "Limitable para el carnet A2 con kit reversible de la red oficial",
@@ -1549,7 +1549,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "4.887 €: la custom clásica más vendida del mundo a precio imbatible",
       "Motor serie J de 349 cc con 20,2 CV: suave, con bajos llenos y consumo de ~2,8 l/100 km",
@@ -1634,7 +1634,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "4.589 €: la cruiser A2 más barata del mercado, imbatible en precio",
       "Motor serie J de 349 cc: 20 CV suaves con bajos muy llenos",
@@ -1719,7 +1719,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "6.100 €: la scrambler A2 de Honda con el probado bicilíndrico de 471 cc",
       "46 CV con entrega dócil: perfecta para iniciarse con estilo retro",
@@ -1976,7 +1976,7 @@ export const MOTOS_NUEVOS_M4: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "6.999 €: la scrambler española con motor Honda de 471 cc y 47 CV",
       "Bicilíndrico de origen Honda: fiabilidad contrastada y recambios accesibles",

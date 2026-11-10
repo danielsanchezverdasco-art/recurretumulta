@@ -120,7 +120,7 @@ export const MOTOS_EXP_M30: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "63,5 CV a 9.400 rpm con 53,5 Nm: el monocilíndrico más rabioso del segmento supermotard",
       "Chasis de aluminio de doble viga y basculante de fundición: base de competición",

@@ -1172,7 +1172,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     carnet: "A1 (B+3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Diseño Neo Sports Café: la 125 naked más bonita del mercado para muchos",
       "15 CV con horquilla invertida Showa: parte ciclo de moto grande",

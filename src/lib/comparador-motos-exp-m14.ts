@@ -795,7 +795,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "Doble batería extraíble de 60 V; carga completa en unas 7 h",
     etiquetaDgt: "Cero",
-    aprox: ["bateriaKwh", "autonomiaKm"],
+    aprox: ["bateriaKwh", "autonomiaKm", "precioDesde"],
     pros: [
       "115 km/h de punta: el maxi-scooter eléctrico más rápido por su precio",
       "7 kW y doble batería de 5,4 kWh: prestaciones de 125 de verdad",

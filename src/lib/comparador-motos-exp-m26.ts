@@ -1753,7 +1753,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     carnet: "A (limitable a A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tricilíndrico de 699 cc con 95 CV a 11.000 rpm: la naked china más ambiciosa",
       "Precio de 6.488 €, muy por debajo de las naked europeas de 95 CV",
@@ -1829,7 +1829,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de 4 cilindros en línea y 676 cc: casi único en el mundo custom",
       "78 CV a 10.500 rpm con un sonido de cuatro cilindros inédito en cruisers",
@@ -1903,7 +1903,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "Neumático trasero de 300 mm: el más ancho que monta una moto de serie",
       "Suspensión trasera neumática, inédita en su rango de precio",
@@ -1972,7 +1972,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "V-twin de 476 cc con 47 CV que roza el techo del A2 sin necesidad de limitarlo",
       "Transmisión final por correa: cero mantenimiento frente a la cadena",
@@ -2111,7 +2111,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "V-twin de 249 cc: casi la única custom de 250 con motor en V",
       "Horquilla delantera de estilo girder, un guiño a las clásicas",
@@ -2180,7 +2180,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Cambio automático CVT: una custom sin embrague ni marchas, ideal en ciudad",
       "34 CV aptos para el carnet A2",
@@ -2456,7 +2456,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "V-twin de 124,6 cc: la única custom de 125 con motor en V del mercado",
       "Pantalla TFT de 4,3 pulgadas, rara en una 125 custom",
@@ -2524,7 +2524,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor 198 cc refrigerado por líquido con inyección electrónica: 17 CV y cambio de 6 marchas por muy poco dinero",
       "Estética café racer auténtica: faro redondo LED con halo, colín con joroba y depósito con banda decorativa",
@@ -3357,7 +3357,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "Dos baterías extraíbles de 72 V y 26 Ah; recarga en unas 5 h con doble cargador",
     etiquetaDgt: "Cero",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "100 km/h de punta: equivalente a un 125 de gasolina",
       "Motor Bosch de 6,5 kW con gran reputación de fiabilidad",
@@ -3507,7 +3507,7 @@ export const MOTOS_EXP_M26: MotoComparador[] = [
     carnet: "AM",
     carga: "Batería extraíble de 60 V y 29 Ah; recarga en unas 6 h",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Scooter de reparto eléctrico con parrilla reforzada para 50 kg de carga",
       "Motor Bosch de 2.400 W con 65 Nm: mueve bien la carga",

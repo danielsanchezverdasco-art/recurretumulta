@@ -26,7 +26,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "216 CV del V4 Desmosedici Stradale derivado de MotoGP",
       "Edición limitada a 1.000 unidades numeradas con certificado",
@@ -178,7 +178,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Sus 47,6 CV marcan justo el tope legal del carnet A2",
       "Con 175 kg, su relación peso/potencia es la mejor de la categoría",
@@ -254,7 +254,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A (limitable a A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico en L de 803 cc con 74 CV y mucho carácter",
       "Limitable a 35 kW para el carnet A2",
@@ -330,7 +330,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A (limitable a A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "V2 transversal de 853 cc con 80 CV y carácter único",
       "Transmisión por cardán: cero mantenimiento de cadena",
@@ -406,7 +406,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tricilíndrico de 931 cc con 124 CV y cigüeñal contrarrotante",
       "5 años de garantía oficial, el doble que la mayoría de rivales",
@@ -482,7 +482,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "44,25 CV con solo 154 kg: diversión pura en formato A2",
       "ABS Bosch con modo Supermoto para la rueda trasera",
@@ -558,7 +558,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Su V2 de 1.350 cc rinde 190 CV con 145 Nm: la naked más salvaje del catálogo",
       "Suspensiones WP semi-activas electrónicas",
@@ -634,7 +634,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "V2 de 1.350 cc con 173 CV: la maxitrail más deportiva",
       "Radar Bosch con crucero adaptativo y ángulo muerto",
@@ -710,7 +710,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "105 CV con solo 181 kg: agilidad de moto pequeña, potencia de grande",
       "Diseño escandinavo minimalista, único en el segmento",
@@ -786,7 +786,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tricilíndrico de 1.160 cc con 150 CV y entrega lineal",
       "Transmisión por cardán: sin mantenimiento",
@@ -862,7 +862,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tricilíndrico de 798 cc con 115 CV y gran entrega en medios",
       "Garantía de 4 años sin tope de kilómetros",
@@ -938,7 +938,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A (limitable a A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tricilíndrico de 660 cc con 95 CV y sonido inconfundible",
       "Quickshifter Triumph Shift Assist de serie en 2026",
@@ -1014,7 +1014,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El bóxer de 1.170 cc rinde 109 CV con el carácter clásico de BMW",
       "Homenaje a la R 80 G/S que inventó las trail",
@@ -1090,7 +1090,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El bicilíndrico de 895 cc entrega 105 CV con bajos generosos",
       "219 kg: muy ligera para una trail de su potencia",
@@ -1166,7 +1166,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "157 CV con suspensiones Öhlins de serie",
       "Frenos Brembo Stylema y quickshifter bidireccional",
@@ -1242,7 +1242,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 471 cc con 46 CV, en el límite del A2",
       "Motor de fiabilidad legendaria (familia 500 de Honda)",
@@ -1318,7 +1318,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El tricilíndrico CP3 de 890 cc da 119 CV: el mejor motor de su segmento",
       "IMU de 6 ejes con ayudas sensibles a la inclinación",
@@ -1394,7 +1394,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico CP2 de 689 cc con 73 CV, fiable y con bajos",
       "Decoración Rally con estética de competición Dakar",
@@ -1470,7 +1470,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tetracilíndrico de 948 cc con 124 CV y entrega suave",
       "Suspensiones Öhlins y frenos Brembo de serie",
@@ -1622,7 +1622,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Con 83 CV, el bicilíndrico de 776 cc tiene un tacto lleno",
       "Quickshifter bidireccional con control de crucero incluido de serie",
@@ -1698,7 +1698,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 1.200 cc con 90 CV y 110 Nm de par",
       "Horquilla Showa y amortiguadores Öhlins totalmente regulables",
@@ -1774,7 +1774,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Monocilíndrico Sherpa de 452 cc con 40 CV",
       "Pantalla TFT de 4\" con navegación, inédita a este precio",
@@ -1850,7 +1850,7 @@ export const MOTOS_LOTE15: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico en paralelo de 648 cc con 47 CV, en el límite del A2",
       "Estética sixties auténtica con acabados cuidados",

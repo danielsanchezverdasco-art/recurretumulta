@@ -105,7 +105,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "15 CV al límite del A1 con refrigeración líquida",
       "Depósito de 20 litros: autonomía de scooter en una naked",
@@ -181,7 +181,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A1",
     carga: "Maletas laterales de serie",
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Se entrega con juego de maletas incluido por 3.190 €",
       "Caja de 6 marchas, rara en las trail 125",
@@ -257,7 +257,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "2.490 €: de las custom 125 más baratas del mercado español",
       "Estética clásica con tecnología actual (CBS, LED)",
@@ -565,7 +565,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Scrambler con 28,5 CV y estética muy lograda por 4.069 €",
       "ABS de doble canal y homologación Euro 5",
@@ -641,7 +641,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "64 CV y 58 Nm con un bicilíndrico de 581 cc por 5.184 €",
       "Pantalla TFT, control de tracción y 2 modos de conducción",
@@ -794,7 +794,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "35 kW exactos: el límite del A2 aprovechado al milímetro",
       "Horquilla Kayaba y frenos Nissin con ABS",
@@ -1100,7 +1100,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "15 CV con motor de refrigeración líquida DOHC de 4 válvulas",
       "ABS de serie y caja de 6 marchas",
@@ -1176,7 +1176,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Trail A2 con 40,9 CV y 31,5 Nm por 4.790 €",
       "ABS Bosch con modo off-road desconectable y control de tracción",
@@ -1252,7 +1252,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de origen Piaggio con refrigeración líquida",
       "Pantalla TFT de 7 pulgadas, de las mayores del segmento",
@@ -1328,7 +1328,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Custom 125 con 14,7 CV y embrague antirrebote",
       "ABS de doble canal e iluminación full LED",
@@ -1404,7 +1404,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Scooter GT con 14,55 CV y motor Zontes de 4 válvulas (Bosch: inyección y ABS)",
       "Parabrisas eléctrico y arranque sin llave",
@@ -1480,7 +1480,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "38,8 CV y 40 Nm: el maxiscooter medio más potente por 4.592 € en promo",
       "Cámaras delantera y trasera, TCS y parabrisas eléctrico de serie",
@@ -1635,7 +1635,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "V-Twin de 298 cc con refrigeración líquida y 30 CV",
       "La transmisión final recurre a la correa: silenciosa y sin apenas mantenimiento",
@@ -1711,7 +1711,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A1",
     carga: "Maletas laterales y top case",
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Trail 125 con maletas y top case incluidos por 3.599 €",
       "Motor de refrigeración líquida con 12,5 CV",
@@ -1787,7 +1787,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Scrambler-neo-retro con 35 kW exactos para el A2",
       "Horquilla Kayaba, frenos Nissin y ABS desconectable",
@@ -1863,7 +1863,7 @@ export const MOTOS_LOTE14: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Naked deportiva con motor de origen Piaggio",
       "Solo 123,5 kg en seco: de las 125 más ligeras",

@@ -27,7 +27,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "216 CV a 13.500 rpm: la superbike de serie más potente de su generación",
       "Suspensiones Öhlins electrónicas NPX-30/TTX36 con Ducati Vehicle Observer",
@@ -99,7 +99,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "214 CV: la naked más potente del mercado con motor de la Panigale V4",
       "Paquete electrónico DVO completo: DTC, DWC, DSC, Race eCBS y ABS en curva",
@@ -313,7 +313,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "170 CV del V4 Granturismo: la trail más potente y deportiva del mercado",
       "Suspensiones semiactivas Marzocchi/Ducati Skyhook con radar delantero y trasero",
@@ -384,7 +384,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "73 CV del bicilíndrico en L de 803 cc: carácter Ducati auténtico",
       "176 kg: ligera, manejable y divertida en ciudad y curvas",
@@ -529,7 +529,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tricilíndrico de 765 cc con 120 CV: el equilibrio perfecto entre par y estirada",
       "189 kg con el depósito lleno: agilidad de referencia en el segmento",
@@ -601,7 +601,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "Bicilíndrico de 1.200 cc con 80 CV y 105 Nm: par desde el ralentí",
       "El icono retro por excelencia: la Bonneville original es de 1959",
@@ -672,7 +672,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "pesoKg"],
+    aprox: ["velocidadMax", "pesoKg", "precioDesde"],
     pros: [
       "Tricilíndrico de 888 cc con 108 CV: el trail más equilibrado del segmento medio",
       "TFT de 7\" con conectividad My Triumph de serie",
@@ -743,7 +743,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "65 CV con 80 Nm a solo 3.250 rpm: empuje inmediato y carácter",
       "Estética scrambler auténtica: escape alto 2 en 2, guardabarros de aluminio, radios",
@@ -815,7 +815,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "Bicilíndrico de 1.200 cc con 77 CV y 106 Nm: par de tractor a bajo régimen",
       "Estética bobber-custom británica con llantas de radios de 16\"",
@@ -1029,7 +1029,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "105 CV en 2025: la naked media con más carácter de Noale",
       "Chasis de aluminio derivado de la RS 660: precisión quirúrgica",
@@ -1100,7 +1100,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "220 CV: la superbike de serie más potente del mundo en 2025",
       "V4 a 65° con 125 Nm: entrega brutal pero controlable",
@@ -1242,7 +1242,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El 'urban adventure': scooter con suspensiones de largo recorrido y manillar ancho",
       "Motor iGet de 174 cc con Start & Stop: solo 2,6 l/100 km",
@@ -1309,7 +1309,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A1 (también con carnet B con 3 años de antigüedad)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "15 CV al límite del A1 con solo 134 kg: diversión pura",
       "Horquilla invertida de 41 mm y 240 mm de recorrido: parte ciclo de motard",
@@ -1381,7 +1381,7 @@ export const MOTOS_EXP_M22: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "67,3 CV del bicilíndrico transversal de 853 cc: carácter único",
       "Cardán en vez de cadena: cero mantenimiento de transmisión",

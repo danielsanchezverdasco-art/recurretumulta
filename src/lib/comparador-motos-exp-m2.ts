@@ -71,7 +71,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "Auténtica capacidad off-road: llantas de 21\"/18\" con neumáticos Mitas, suspensiones WP de 230 mm de recorrido y ABS con modo off-road",
       "Motor de 399 cc con 44,25 CV: dócil en bajos y con brillo en medios, ideal para el A2 aventurero",
@@ -737,7 +737,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "El bóxer más grande jamás fabricado por BMW: 1.802 cc y 158 Nm a 3.000 rpm",
       "Diseño clásico inspirado en la R 5 de los años 30",
@@ -799,7 +799,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La GS más accesible: espíritu GS por 6.930 €",
       "175 kg y asiento a 835 mm: manejable para el A2",
@@ -859,7 +859,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bóxer de 1.170 cc con 95 CV: limitable para el carnet A2",
       "Diseño cruiser minimalista sin elementos superfluos",
@@ -982,7 +982,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "pesoKg"],
+    aprox: ["velocidadMax", "pesoKg", "precioDesde"],
     pros: [
       "V4 Granturismo de 168 CV: una power-cruiser con alma de superbike",
       "Neumático trasero de 240 mm: agarre y presencia únicos",
@@ -1042,7 +1042,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "Superquadro Mono de 77,5 CV: el monocilíndrico más potente del mercado",
       "151 kg en vacío: una pluma con 77 CV",
@@ -1103,7 +1103,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "KYB de 48 mm con 250/240 mm: suspensiones de auténtica enduro",
       "Llantas Takasago Excel con bujes mecanizados: irrompibles",
@@ -1163,7 +1163,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "Testastretta 11° de 110 CV: deportiva sin radicalismos",
       "Limita a 35 kW para el carnet A2",
@@ -1471,7 +1471,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 900 cc con 80 Nm: par desde abajo",
       "Limita al A2 con kit oficial",
@@ -1531,7 +1531,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bonneville High Power de 105 CV y 112 Nm: empuje brutal",
       "Chasis derivado de la Thruxton R: dinámica deportiva",
@@ -1594,7 +1594,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tricilíndrico de 81 CV: único en el segmento sport-touring",
       "Quickshift up/down y control de crucero de serie en 2025",
@@ -1654,7 +1654,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "47,6 CV: el máximo permitido para el carnet A2, con la mejor relación peso/potencia del segmento",
       "Chasis de doble viga de aluminio, único entre las deportivas A2 (moteo.es)",
@@ -1772,7 +1772,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "Motor i-get de 174 cc con 17,4 CV: el más potente del concepto crossover en su cilindrada",
       "Consumo de solo 2,6 l/100 km: unos 346 km de autonomía con 9 litros",
@@ -1830,7 +1830,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "240 mm de recorrido en suspensiones KYB totalmente regulables en 3 vías",
       "199 kg en orden de marcha: 5 kg menos que la Tuareg estándar",
@@ -1949,7 +1949,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "pesoKg"],
+    aprox: ["velocidadMax", "pesoKg", "precioDesde"],
     pros: [
       "Estética neo-retro inspirada en las MV Agusta de carreras de los años 70: faro circular, tira de cuero en el depósito y colín clásico",
       "Tricilíndrico de 798 cc con 147 CV a 13.000 rpm, derivado de la F3 800",
@@ -2005,7 +2005,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tricilíndrico de 798 cc con el 90 % del par disponible entre 3.500 y 10.300 rpm: empuje rutero real (motos.net)",
       "Intervalos de servicio cada 15.000 km; bujías y reglaje de válvulas cada 30.000 km (motos.net)",
@@ -2129,7 +2129,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Primera moto de serie del mundo con aerodinámica adaptativa (canariasenmoto)",
       "Bicilíndrico de 1.042 cc con 115 CV y 105 Nm, el 82 % del par desde 3.500 rpm",
@@ -2190,7 +2190,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A (limitable A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 853 cc con 73 Nm a 5.000 rpm: par lleno a bajo y medio régimen (mundomotero)",
       "Depósito de 21 l y consumo de 4,9 l/100 km: 429 km de autonomía (motoplanete)",
@@ -2317,7 +2317,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A (limitable A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 649 cc con 60 CV y 54 Nm: respuesta progresiva ideal para viajar (publimotos)",
       "Suspensiones Marzocchi regulables y frenos Brembo con ABS Bosch 9.1 desconectable",
@@ -2380,7 +2380,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A (limitable A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 693 cc con 69 CV y 68 Nm: entrega directa e inmediata desde abajo (bmwfaq)",
       "7.090 €: la custom media más asequible del mercado",
@@ -2622,7 +2622,7 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "La única maxitrail sobrealimentada del mundo: 200 CV de motor H2 con 137 Nm",
       "Sistema Tesi sin horquilla: doble basculante y doble amortiguador Öhlins TTX36",

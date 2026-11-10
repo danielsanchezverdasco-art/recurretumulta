@@ -164,7 +164,7 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
     "carnet": "A1 o B",
     "carga": null,
     "etiquetaDgt": null,
-    "aprox": [],
+    "aprox": ["precioDesde"],
     "pros": [
       "Declara 13,2 CV y 12 Nm, por encima de la PCX125 y la NMAX 125",
       "Cofre de 45 litros bajo la silla, caben un integral y un jet",

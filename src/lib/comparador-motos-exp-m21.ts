@@ -37,7 +37,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A (limitable a 35 kW para A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "95 CV para 187 kg: la mejor relación peso/potencia de las naked medias",
       "Electrónica de moto grande: IMU, ABS en curva, control de tracción y quickshifter",
@@ -109,7 +109,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "123 CV para 179 kg: la naked media más radical del mercado",
       "Bastidor nuevo con un 8 % más de rigidez lateral que la 890 Duke",
@@ -251,7 +251,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "5.999 €: la trail A2 con mejor relación precio/equipamiento",
       "Motor de 399 cc con 44,25 CV: el monocilíndrico más potente del A2",
@@ -322,7 +322,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El depósito bajo centraliza masas: se maneja como una moto mucho más ligera",
       "Modos Street y Offroad de serie, Rally opcional: electrónica de primera",
@@ -394,7 +394,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "173 CV y 145 Nm: la maxitrail off-road más potente del mundo",
       "Suspensiones WP XPLOR PRO de 48 mm, totalmente regulables y con 220 mm de recorrido",
@@ -536,7 +536,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Big Bóxer de 1.802 cc con 163 Nm: par brutal desde 3.000 rpm",
       "Carenado frontal superior: la R 18 más cómoda para viajar",
@@ -604,7 +604,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "130 CV: 7 más que la 990 Duke estándar, con el mismo peso contenido",
       "Suspensiones WP APEX totalmente regulables de serie",
@@ -675,7 +675,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "44,6 CV al límite del A2: la naked media más potente de su carnet",
       "165 kg: ligera y muy ágil en ciudad y curvas",
@@ -747,7 +747,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "El bóxer más potente de BMW: 145 CV con 149 Nm de par",
       "12 kg más ligera que la R 1250 GS: 237 kg en orden de marcha",
@@ -815,7 +815,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "Depósito de 30 l: más de 600 km de autonomía real",
       "Radar delantero y trasero con control de crucero adaptativo (paquete Innovación)",
@@ -954,7 +954,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A (limitable a 35 kW para A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "11.180 €: la puerta de entrada a las GS bicilíndricas",
       "87 CV limitables a 35 kW: la trail grande para el A2",
@@ -1093,7 +1093,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El Big Bóxer de 1.802 cc: el bóxer más grande jamás fabricado en serie",
       "158 Nm a 3.000 rpm: empuja como una locomotora desde abajo",
@@ -1232,7 +1232,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "170 CV en 2025: 5 más que antes, con el motor de la S 1000 RR",
       "199 kg: la hypernaked alemana más ligera",
@@ -1303,7 +1303,7 @@ export const MOTOS_EXP_M21: MotoComparador[] = [
     carnet: "A (limitable a 35 kW para A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "15.330 €: la BMW bóxer más accesible del catálogo",
       "95 CV limitables a 35 kW: el custom grande para el A2",

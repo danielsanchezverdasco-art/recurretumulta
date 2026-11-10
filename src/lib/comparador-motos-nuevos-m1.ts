@@ -1875,7 +1875,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     carnet: "AM",
     carga: "Enchufe doméstico (batería extraíble)",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "1.499 €: de los scooters eléctricos matriculables más baratos de España", 
       "Batería extraíble: se carga en casa sin garaje", 

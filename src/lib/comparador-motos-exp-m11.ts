@@ -605,7 +605,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Maxi-scooter adventure de 330 cc y 30 CV para el carnet A2",
       "Estética trail con defensas y faros auxiliares de imagen",
@@ -1292,7 +1292,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Trail A2 de 486 cc y 47,6 CV por 6.199 €",
       "Pantalla TFT de 7\" con gran visibilidad, incluso de pie en off-road",

@@ -411,7 +411,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor Minarelli 2T de 293 cc con inyección electrónica: respuesta moderna del 2T",
       "Desde 10.900 €: competitiva frente a las 300 2T japonesas y austriacas",
@@ -474,7 +474,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor Yamaha de 450 cc 4T: fiabilidad probada con gestión Athena-GET de Fantic Racing",
       "Homologada Euro 5 y matriculable: enduro legal para ir al monte por carretera",
@@ -537,7 +537,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico CP2 de 689 cc y 74 CV: el motor más probado del segmento",
       "Limitable para el A2: scrambler grande para carnet medio",
@@ -601,7 +601,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor 4T de 350 cc: el equilibrio perfecto entre la 250 y la 450",
       "Base técnica del grupo KTM: fiabilidad y recambios garantizados",
@@ -664,7 +664,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["En el banco de pruebas de Dirt Rider, esta 2026 firmó 53,4 hp a 10.100 rpm y 46,4 Nm a 7.200 rpm medidos a la rueda, con más potencia máxima que la KTM 450 SX-F de su mismo grupo", "La novedad visible del año es el uniforme negro: llantas, manillar Neken y funda de asiento en ese color, tapas de radiador con logotipo pequeño sobre fondo oscuro y gráficos IML integrados en el plástico", "Repite sin tocar el bastidor estrenado en 2025, con los recortes en torreta de amortiguador y pletinas de culata que debutaron en la Factory Edition de 2024, más el muelle trasero de 45 Nm adoptado ese mismo año", "Escape y caja de aire se han retocado para 2026 con la vista puesta en los límites sonoros de AMA y FIM, y el filtro se inspecciona sin herramientas retirando solo la tapa lateral izquierda", "Por los 11.295 € que recoge motofichas para la 2026-2027 es la 450 austriaca más asequible, y la única del trío que sale de serie con Maxxis Maxxcross MX-ST en medidas 80/100-21 y 110/90-19"],
     contras: ["Las ayudas electrónicas no vienen montadas: para disponer de dos mapas, control de tracción, asistencia en las salidas o cambio rápido hay que pagar aparte el interruptor Map Select, y sin él el manillar solo reúne arranque y parada", "Su entrega llega amortiguada a propósito: colector sin cámara de resonancia, silencioso alargado con boca reducida y admisión cerrada, la receta que Dirt Rider señala como freno frente a la SX-F, sin ni siquiera tapa de airbox ventilada opcional", "El cuentahoras gobierna el taller y no el calendario: la tabla del manual encadena servicios tras 1 hora y cada 15, 45 y 90 horas, con aceite, filtro y limpieza de tamices en cada escalón", "Motofichas la cataloga como moto de competición y no como modelo matriculable, así que ninguna jornada empieza en el garaje de casa: toca remolque o furgoneta hasta un recinto cerrado", "Los 103 kg declarados son sin combustible: Dirt Rider la pesó con el depósito lleno en 242 libras, unos 109,8 kg, y midió el asiento a 37,5 pulgadas, en torno a 953 mm que complican apoyar el pie entre roderas"],
     curiosidades: ["El año 2026 marca su sexta temporada en el mercado: la familia MC aterrizó en 2021 y esta generación continuista lo celebra solo con el cambio de imagen en negro", "La marca destaca para su cigüeñal un rodamiento plano de cabeza de biela, formado por dos casquillos ajustados a presión, con intervalos de servicio largos de hasta 90 horas", "Dentro de la centralita Keihin viaja un sensor de vuelco que corta el encendido si la caída es seria, y esa misma gestión alimenta el cuentahoras del cuadro", "Entre los retoques discretos del año figura un cierre de radiador rediseñado para manipularlo mejor, y como accesorio queda la unidad CUO con GPS para ajustar motor y suspensiones desde la app GASGAS+"],
@@ -775,7 +775,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El 350 4T es la enduro más equilibrada: agilidad de 250 con par de 450",
       "51 CV con 107 kg: una de las mejores relaciones peso-potencia del enduro",
@@ -838,7 +838,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El 510,9 cc es el monocilíndrico de enduro más potente del mercado",
       "108,4 kg en seco: ligereza increíble para su cilindrada",
@@ -902,7 +902,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor 4T de 349,7 cc: el equilibrio perfecto del enduro moderno",
       "Base técnica KTM con el toque sueco de Husqvarna en ergonomía",
@@ -965,7 +965,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor LC4 rediseñado Euro 5+ con 79 CV: el monocilíndrico más potente",
       "Limitable para el A2: trail grande con carnet medio",
@@ -1032,7 +1032,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Trail A2 de 286 cc y 27 CV: la moto aventurera más vendida de Honda",
       "142 kg en orden de marcha: ligera y manejable",
@@ -1095,7 +1095,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La 450 de enduro-cross de Honda: motor de 449,7 cc derivado de la CRF450R",
       "Chasis y suspensiones Showa de competición",
@@ -1286,7 +1286,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "208 CV: la naked de serie más potente del mundo",
       "Motor tetracilíndrico de 998 cc con cigüeñal contrarrotante",
@@ -1479,7 +1479,7 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor Kawasaki H2 sobrealimentado: 231 CV (242 con ram air)",
       "Dirección por basculante central Tesi: única en el mundo",

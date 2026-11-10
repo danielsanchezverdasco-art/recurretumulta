@@ -28,7 +28,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "42 CV con solo 155 kg: la trail-rally más ligera de su clase",
       "Premio Motor Awards 2026 a la mejor moto off-road (voto de usuarios)",
@@ -104,7 +104,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "94,5 CV y 176 kg: relación peso-potencia entre las mejores del segmento",
       "Depósito bajo de 19 litros para un reparto de masas óptimo",
@@ -181,7 +181,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La puerta de acceso a la gama adventure de Kove por 6.597 €",
       "62,5 CV aptos para el carnet A2",
@@ -257,7 +257,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La 800X 'civilizada': 94,5 CV pensados para viajar, no solo para el campo",
       "195 kg con equipamiento rutero completo",
@@ -334,7 +334,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La única naked 125 con basculante monobrazo del mercado",
       "135 kg en orden de marcha: de las 125 más ligeras",
@@ -563,7 +563,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "113 CV y 105 Nm: la CFMoto más potente de la historia",
       "Electrónica 2.0: IMU, acelerador electrónico, ABS en curva y 4 modos",
@@ -639,7 +639,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La trail A2 más barata del mercado: 2.995 €",
       "Ruedas de 21 y 18 pulgadas de verdad, no de postureo",
@@ -715,7 +715,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "95 CV con ADAS: radar de ángulo muerto y dashcam",
       "Oferta de lanzamiento: 8.299 € con maletas y seguro a todo riesgo",
@@ -791,7 +791,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Deportiva con Marzocchi y Brembo por 6.690 €",
       "Estética de pequeña superbike con 56 CV",
@@ -1019,7 +1019,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "V-twin de 997 cc con 87 CV por 8.990 €",
       "Equipada hasta arriba: TFT de 7, puños y asiento calefactables",
@@ -1095,7 +1095,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Nueva generación TRK: 95 CV e IMU de 6 ejes",
       "Radar trasero opcional con detección de ángulo muerto",
@@ -1171,7 +1171,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Custom bobber con transmisión por correa: suave y sin mantenimiento",
       "59 CV limitables a 47 CV para el carnet A2",
@@ -1326,7 +1326,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Trail-scrambler de acceso por solo 2.490 €",
       "141 kg: ligera y manejable",
@@ -1403,7 +1403,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Trail 125 con orientación rally 50/50 por 2.490 €",
       "15 CV: el máximo legal para el A1",
@@ -1480,7 +1480,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Trail 650 rutera por 6.390 €: la mejor relación calidad-precio de su clase",
       "70 CV y 62 Nm con equipamiento de trail grande",

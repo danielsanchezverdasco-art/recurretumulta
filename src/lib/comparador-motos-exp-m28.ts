@@ -25,7 +25,7 @@ export const MOTOS_EXP_M28: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "2.499 €: uno de los scooter GT 125 más baratos del mercado español",
       "Diseño italiano con líneas GT deportivas y espíritu urbano",

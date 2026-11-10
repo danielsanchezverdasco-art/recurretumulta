@@ -27,7 +27,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "El HPE de 310 cc entrega 25 CV, la cifra más alta dentro de la gama clásica de Vespa",
       "Estética GTV con faro bajo en el guardabarros, la más icónica de Vespa",
@@ -133,7 +133,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "Motor de 399 cc con 36 CV: líder en relación peso-potencia del segmento",
       "Chasis propio de Aprilia con horquilla invertida de 41 mm",
@@ -345,7 +345,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Concepto adventure crossover único en su segmento",
       "Motor de 321 cc con 28,6 CV y 30 Nm de par",
@@ -451,7 +451,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de 278 cc con 26 CV, equilibrado para ciudad y carretera",
       "5 años de garantía SYM España",
@@ -504,7 +504,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de 125 cc con 14,28 CV, de lo más potente del segmento",
       "Refrigeración líquida, 4 válvulas e inyección Keihin",
@@ -610,7 +610,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "Plataforma de carga trasera para reparto",
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Diseñada para reparto: plataforma de carga trasera de serie",
       "Precio de 2.499 €, asequible para profesionales",
@@ -724,7 +724,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "AM",
     carga: "≈ 7 h en enchufe doméstico; batería extraíble de 72V/28Ah",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Precio desde 1.999 €: la puerta de entrada a la gama NIU 2026",
       "Homologación L1e: se conduce con carnet AM desde los 15 años",
@@ -911,7 +911,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A1",
     carga: "3,5 h en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Doble batería de 4.896 Wh con 120 km de autonomía",
       "Diseño vanguardista con faro LED cuadrado",
@@ -972,7 +972,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A1",
     carga: "3,5 h en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Diseñado para reparto con baúl trasero de 113 litros",
       "Doble batería con 120 km de autonomía",
@@ -1033,7 +1033,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A1",
     carga: "4 h en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "El más económico de la gama Nmoto: desde 4.500 €",
       "Enfocado a flotas con amplio espacio de carga",
@@ -1094,7 +1094,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A1",
     carga: "4,5 h en enchufe doméstico con cable Schuko incluido",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "220 km de autonomía: líder en su segmento",
       "Batería CATL de 8,4 kWh (mismo proveedor que Tesla y BMW)",
@@ -1155,7 +1155,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A1",
     carga: "Carga en enchufe doméstico; batería CATL",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Única custom eléctrica del mercado español",
       "Diseño que recuerda a una Harley-Davidson Sportster",
@@ -1593,7 +1593,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 499,6 cc con 47,6 CV: el tope legal del A2 sin necesidad de limitación",
       "Doble disco delantero de 320 mm y pinzas radiales, digno de mayor cilindrada",
@@ -1812,7 +1812,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Precio de 2.490 €: de las naked 125 más asequibles",
       "Refrigeración líquida y 14,5 CV: cerca del tope del A1",
@@ -1874,7 +1874,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tres modos de conducción y control de tracción: raro en este precio",
       "TFT de 5 pulgadas con conectividad",
@@ -1936,7 +1936,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor bicilíndrico de 451 cc y 45,4 CV, suave y lleno desde abajo",
       "Versión SE: mejor equipamiento que la Ninja 500 estándar",
@@ -2000,7 +2000,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Solo 159 kg: de las naked A2 más ligeras",
       "ABS Bosch 9.3 MP en curva con modo Supermoto",
@@ -2237,7 +2237,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Chasis perimetral de aluminio: tecnología de MotoGP en 125",
       "Pinza radial de 4 pistones y disco de 300 mm",
@@ -2374,7 +2374,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Basculante monobrazo y frenos Brembo: equipamiento premium",
       "ABS trasero desconectable y control de tracción",
@@ -2436,7 +2436,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "Solo 155 kg: la deportiva A2 más ligera del segmento",
       "Ride-by-wire con ABS en curva y control de tracción",
@@ -2589,7 +2589,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor Revolution Max 1250 de 150 CV: el bicilíndrico más potente que ha fabricado Harley-Davidson",
       "Altura de conducción adaptativa (Adaptive Ride Height): baja la moto al detenerse y sube en marcha",
@@ -2964,7 +2964,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor CP2 de 689 cc probadísimo, con fiabilidad legendaria",
       "Suspensión KYB de largo recorrido específica de la versión Rally",
@@ -3105,7 +3105,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tetracilíndrico de 1.099 cc con 133 CV y suavidad legendaria",
       "112 Nm de par disponibles desde bajas vueltas",
@@ -3170,7 +3170,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "47,6 CV al límite legal del carnet A2",
       "198 kg en orden de marcha: contenida y muy manejable",
@@ -3232,7 +3232,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 698 cc con 70 CV, con versión limitable a A2",
       "Llantas de radios 19\"/17\" con Pirelli Scorpion Rally STR",
@@ -3294,7 +3294,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Cuatro en línea de 999 cc con 170 CV: la crossover más deportiva del mercado",
       "Suspensión electrónica y asistentes de pilotaje de serie",
@@ -3827,7 +3827,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "V4 a 65º de 1.099 cc con 180 CV: la hypernaked más brutal de su segmento",
       "Electrónica APRC predictiva con IMU de 6 ejes y ABS en curva, más antiwheelie",
@@ -3889,7 +3889,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Cuatro en línea de 1.099 cc con 135 CV: empuje contundente desde abajo",
       "Versión SE con suspensión electrónica Showa y quickshifter de serie",
@@ -3954,7 +3954,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tetracilíndrico de 998 cc con 200 CV (210 con RAM-air): pura superbike",
       "Versión RR con componentes de competición: llantas forjadas y motor revisado",
@@ -4327,7 +4327,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Cuatro en línea de 999 cc heredado de la CBR1000RR Fireblade con 152 CV",
       "Precio desde 11.190 €: la hypernaked más barata del mercado",
@@ -4468,7 +4468,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A (limitable A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 900 cc con 80 Nm a solo 3.800 rpm: empuje lleno desde abajo",
       "Horquilla invertida Marzocchi de 43 mm y frenos radiales con discos de 320 mm",
@@ -4530,7 +4530,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor TR-Series de 398 cc con 40 CV y 37,5 Nm: la 400 más rutera de Triumph",
       "Rueda delantera de 19 pulgadas con neumáticos mixtos, más campera que la 400 X",
@@ -4609,7 +4609,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Estética café racer neoretro con depósito de 17 litros, el mayor de su segmento",
       "39,4 CV: roza el límite del carnet A2 con un monocilíndrico de 348 cc",
@@ -4673,7 +4673,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Monocilíndrico de 652 cc con 55 Nm: el par más generoso entre las clásicas A2",
       "Estética británica clásica con neumáticos Pirelli Phantom Sportscomp",
@@ -4735,7 +4735,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Mismo monocilíndrico 652 cc de la Gold Star: 45 CV y 55 Nm de par",
       "Pirelli Scorpion Rally STR y rueda delantera de 19 pulgadas: aptitud campera real",
@@ -4921,7 +4921,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A (limitable A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "V-twin transversal de 853 cc con 65 CV: carácter italiano inconfundible",
       "Transmisión por cardán: olvidarse de la cadena para siempre",
@@ -4983,7 +4983,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 451 cc con 45,4 CV, el máximo del carnet A2",
       "Solo 176 kg en orden de marcha: la custom A2 más ligera del mercado",
@@ -5047,7 +5047,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Estética clásica de la saga W: depósito con rodilleras y doble reloj analógico",
       "Solo 143 kg en orden de marcha: la clásica más ligera de su segmento",
@@ -5319,7 +5319,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Desmodue de 803 cc con 73 CV y solo 176 kg: la Scrambler más refinada",
       "Nuevo color Emerald Green 2026 con asiento café racer de cuero marrón",
@@ -5398,7 +5398,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico Bonneville 1200 HT con 78 CV y 106 Nm de par",
       "Chasis de apariencia rígida con monoamortiguador oculto: estética bobber pura",

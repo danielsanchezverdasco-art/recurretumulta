@@ -29,7 +29,7 @@ export const MOTOS_NUEVOS_M5: MotoComparador[] = [
     carnet: "AM",
     carga: "6 h en enchufe doméstico (batería extraíble de 15 kg)",
     etiquetaDgt: "Cero",
-    aprox: ["autonomiaKm", "pesoKg"],
+    aprox: ["autonomiaKm", "pesoKg", "precioDesde"],
     pros: [
       "Batería de 2,3 kWh: hasta 100 km en modo ECO, el doble que el Piaggio 1 básico (1,4 kWh)",
       "Solo 75 kg: una de las eléctricas más ligeras del mercado, fácil de mover y aparcar",
@@ -113,7 +113,7 @@ export const MOTOS_NUEVOS_M5: MotoComparador[] = [
     carnet: "A1",
     carga: "~4 h por batería (1 o 2 packs extraíbles de 27 Ah)",
     etiquetaDgt: "Cero",
-    aprox: ["autonomiaKm", "velocidadMax"],
+    aprox: ["autonomiaKm", "velocidadMax", "precioDesde"],
     pros: [
       "5,5 kW (7,4 CV) y 0-50 km/h en 4,6 s: empuje de 125 de gasolina en los semáforos",
       "Hasta 100 km de autonomía con las dos baterías de 27 Ah, extraíbles y con ~4 h de carga cada una",
@@ -281,7 +281,7 @@ export const MOTOS_NUEVOS_M5: MotoComparador[] = [
     carnet: "A1",
     carga: "5 h (batería LiFePo4 extraíble de 72 V y 50 Ah)",
     etiquetaDgt: "Cero",
-    aprox: ["autonomiaKm", "potenciaCv", "bateriaKwh"],
+    aprox: ["autonomiaKm", "potenciaCv", "bateriaKwh", "precioDesde"],
     pros: [
       "Marca española con homologación 100% nacional y sede en Madrid",
       "Batería LiFePo4 de 72 V y 50 Ah (≈3,6 kWh): química más segura y longeva que el litio NMC",

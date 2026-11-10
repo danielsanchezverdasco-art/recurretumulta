@@ -977,7 +977,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La Multistrada más deportiva: 170 CV con chasis y geometría de racing",
       "Suspensión Öhlins semiactiva recalibrada y nuevo modo Racing",
@@ -1184,7 +1184,7 @@ export const MOTOS_EXP_M8: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "Desmosedici Stradale de 182 CV: la Diavel más potente y rápida de la historia",
       "0-100 km/h en 2,52 s: la aceleración más brutal de una Ducati de serie",

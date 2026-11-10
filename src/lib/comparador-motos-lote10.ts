@@ -259,7 +259,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 485 cc con 48 CV: justo en el límite del A2",
       "Depósito de 20 litros para rutas largas de verdad",
@@ -335,7 +335,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "15 CV: el máximo legal para el A1, con refrigeración líquida",
       "ABS desconectable con tres modos, ideal para pistas",
@@ -411,7 +411,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "27 CV con refrigeración líquida: sobrado para ciudad y carretera",
       "Doble disco delantero con pinzas radiales de 4 pistones y ABS",
@@ -488,7 +488,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A1",
     carga: "Carga en enchufe doméstico, unas 5 horas",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Naked eléctrica española equivalente a una 125 de gasolina",
       "Hasta 100 km de autonomía y 115 km/h de velocidad máxima",
@@ -564,7 +564,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Estética custom vintage auténtica, sin rivales directos en 125",
       "127 kg en orden de marcha (117 en seco): peso contenido",
@@ -640,7 +640,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Diseño scrambler setentero con mucho carácter",
       "Precio orientativo muy asequible para su estética",
@@ -716,7 +716,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Scrambler retro por solo 2.599 €, de las más baratas",
       "Solo 110 kg y asiento a 745 mm: accesible para todos",
@@ -792,7 +792,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Naked neo-retro con mucho carácter por 3.999 €",
       "5 años de garantía, de las mejores del segmento",
@@ -868,7 +868,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Scooter 125 de estética deportiva por 2.499 €",
       "Llave inteligente por proximidad, rara en su precio",
@@ -1173,7 +1173,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Enduro 125 de verdad con 15 CV y refrigeración líquida",
       "Herencia de HM, marca italiana con tradición off-road",
@@ -1633,7 +1633,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A1",
     carga: "Batería extraíble de 1,3 kWh, carga en unas 3 horas",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Moto-bike eléctrica: pedaleas o aceleras, tú eliges",
       "La primera moto-bike del mundo en serie",
@@ -1785,7 +1785,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A1",
     carga: "Cargador de 15 A: unas 4 h 20 min; rápido opcional de 25 A: 2 h 30 min",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Trial eléctrica de alta gama con 3,5 kWh de batería",
       "Autonomía contada en horas: unas 3,5 h de trial y excursión",

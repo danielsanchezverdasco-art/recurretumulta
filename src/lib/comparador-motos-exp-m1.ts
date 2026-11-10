@@ -663,7 +663,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Estética scrambler auténtica: la más 'retro' de la familia 500",
       "Manillar alto y postura erguida: cómoda en ciudad",
@@ -1771,7 +1771,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "3.199 €: la Yamaha 125 más barata junto a la NMAX",
       "Solo 101 kg: la más ligera de su clase",
@@ -1981,7 +1981,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Primera moto híbrida del mundo: 451 cc + motor eléctrico",
       "Modo EV 100 % eléctrico para ciudad (hasta 65 km/h)",
@@ -2055,7 +2055,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: ["potenciaCv"],
+    aprox: ["potenciaCv", "precioDesde"],
     pros: [
       "La naked híbrida: misma tecnología que la Ninja 7 sin carenado",
       "E-Boost de hasta 70 CV durante 5 segundos",
@@ -2867,8 +2867,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [
-    ],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 776 cc con 83 CV: el mejor motor trail medio actual",
       "Versión Tech con pantalla TFT de 5\" y quickshifter",
@@ -2942,7 +2941,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "El V-twin de 645 cc más fiable del segmento: leyenda viva",
       "Depósito de 20 L y consumo de 4,1 l/100 km: autonomía enorme",
@@ -3161,7 +3160,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "V-twin de 76,5 CV con carácter único y sonido inconfundible",
       "6.750 €: la naked media japonesa más barata",
@@ -3601,7 +3600,7 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "190 CV y 299 km/h: la leyenda de la velocidad",
       "Electrónica SIRS con IMU: la Hayabusa más segura",

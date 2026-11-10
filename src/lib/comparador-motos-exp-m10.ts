@@ -34,7 +34,7 @@ export const MOTOS_EXP_M10: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Cambio automatizado Y-AMT: cambia con levas o en modo totalmente automático, sin embrague",
       "Tricilíndrico CP3 de 890 cc y 119 CV: el motor más carismático de su segmento",

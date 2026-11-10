@@ -107,7 +107,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "2 baterías extraíbles de 72 V/26 Ah (14 kg cada una); 4 h una / 5 h las dos; carga rápida opcional",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "100 km/h reales y 0-100 en 6 s: compite de tú a tú con un scooter 125 de gasolina",
       "Chasis sólido y ligero (128 kg con baterías), con buen aplomo a alta velocidad",
@@ -275,7 +275,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "AM",
     carga: "Batería extraíble Honda Mobile Power Pack e: (10,2 kg); cargador externo con ventilador: 6 h (0-100%)",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Calidad de fabricación y fiabilidad marca Honda",
       "Batería extraíble e intercambiable (Mobile Power Pack e:), pensada para estaciones de swap",
@@ -340,7 +340,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "AM",
     carga: "Batería extraíble de solo 8 kg (ampliable a 2); 8 h (0-100%) / 4 h (20-80%)",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Ultraligera (98 kg con una batería): se maneja con un dedo",
       "Baterías de solo 8 kg, las más fáciles de transportar del segmento",
@@ -405,7 +405,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A2 (versión 11 kW: A1, válido con B +3 años)",
     carga: "Cable de 2,3 kW de serie: 4 h 20 min (0-100%); cargador rápido opcional de 6,9 kW: 1 h 40 min",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Aceleración brutal: 0-50 km/h en 2,6 s, la más rápida del segmento",
       "130 km de autonomía, suficiente para uso urbano e interurbano",
@@ -471,7 +471,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: "Baterías extraíbles · 900 W de serie (1.500 W opcional) · 100 min del 20 al 80 % con cargador rápido",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Es la CE 02 que sí sale de la ciudad: sus 11 kW son el techo del carnet A1 y empujan hasta 95 km/h, así que puede enlazar rondas y vías rápidas cortas, algo vetado a su hermana de 4 kW limitada a 45 km/h.", "El golpe de gas en Flow o Surf llega sin esperas: 55 Nm eléctricos desde parado y el 0 a 50 km/h cerrado en 3,0 segundos, que en tráfico denso vale más que cualquier cifra de velocidad punta.", "Quien aparca en la calle no queda vendido: las dos baterías suman 3,92 kWh, se extraen y se pueden enchufar en un piso o en el trabajo; con el cargador rápido opcional el 20-80 % baja a 100 minutos.", "Su chasis tubular de doble bucle, el basculante monobrazo y las llantas lenticulares no son postureo: con 132 kg se deja meter en huecos imposibles y aguanta bordillos y adoquín sin sentirse de juguete.", "Para maniobrar a pulso ayuda la marcha atrás, y una vez en marcha suman el ASC, el arranque sin llave Keyless Ride, la pantalla TFT de 3,5 pulgadas y el USB-C para el móvil."],
     contras: ["La factura duele en clave A1: unos 8.400 euros aproximados por 95 km WMTC de autonomía homologada obligan a pagar diseño y marca, no kilómetros.", "Con el cargador de 900 W de serie la recarga se hace larga; el de 1.500 W que recorta tiempos es opcional y encarece aún más el conjunto.", "No esperes guardar nada en la moto: bajo el asiento mandan las baterías y no hay hueco útil, así que el casco de repuesto o la compra van a la mochila.", "El ABS solo protege la rueda delantera y detrás el amortiguador recorre solo 56 mm: en frenadas fuertes sobre mojado y en baches seguidos toca ir con más tacto del deseable."],
     curiosidades: ["Aunque luce placa BMW y se diseñó en Múnich, esta CE 02 sale de la planta de TVS en Hosur, en la India, de donde también salen las G 310 de la marca.", "El acabado Highline se reconoce a distancia por las horquillas anodizadas en dorado y el color Petrol de contraste, un guiño estético que BMW reservó como paquete opcional."],
@@ -516,7 +516,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: "Enchufe doméstico · cargador integrado ~9,7 h (0-100 %) · Rapid Charge opcional",
     etiquetaDgt: "Cero",
-    aprox: ["ceroCincuenta"],
+    aprox: ["ceroCincuenta", "precioDesde"],
     pros: [
       "Aceleración brutal: 106 Nm y 0-100 kilómetros/h en ~5,5 s medidos por moto125.cc",
       "Parte ciclo seria: horquilla invertida Showa 41 mm totalmente regulable y Pirelli Diablo Rosso II",
@@ -580,7 +580,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: "Enchufe doméstico ~9-10 h · Rapid Charge opcional (hasta 12,6 kW) · carga rápida en CC prevista para 2027",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Con 262 km declarados y una batería de 15,6 kWh, esta naked aguanta varios días de trayectos urbanos sin pasar por el enchufe", "Aunque homologa para el A1 con 11 kW continuos —15 CV en la ficha—, empuja como una moto de cilindrada superior y alcanza 139 km/h", "El conjunto electrónico firmado por Bosch aporta ABS y control de tracción pensados para rodar tranquilo sobre firme cambiante", "Desde el móvil puedes ajustar la respuesta, consultar el estado general y recibir novedades de software sin visitar el taller", "Comprarla y mantenerla resulta más sencillo ahora que la marca ha ampliado mucho su presencia comercial fuera de Estados Unidos"],
     contras: ["Los 17.280 € de partida la dejan lejísimos de lo que cuesta una 125 térmica equivalente para el mismo carnet", "Si te conformas con el cargador de serie toca esperar unas nueve o diez horas; acelerar ese proceso exige pagar el extra Rapid Charge", "Moverla en parado se nota: son 223 kg, una cifra alta para quien viene de una utilitaria ligera de gasolina", "A ritmo sostenido de autovía la cifra oficial se queda corta y la autonomía útil baja de forma clara respecto a ciudad", "Cuando toque sustituir el paquete de baterías fuera del periodo cubierto, la factura puede resultar especialmente dolorosa para el bolsillo"],
     curiosidades: ["La marca trabaja en incorporar recarga rápida en corriente continua con conector CCS a partir de 2027, también aprovechable en unidades S y DS posteriores a 2022", "El ejercicio 2025 dejó un salto comercial notable para Zero, con un avance especialmente fuerte en Norteamérica frente a una subida más moderada en Europa", "Entre todo lo que permite llevar el B convalidado en España, pocas naked sin emisiones ofrecen una velocidad punta parecida a sus 139 km/h", "El paquete energético va cubierto durante cinco años sin tope de kilómetros recorridos, un respaldo poco habitual en motos de esta categoría"],
@@ -692,6 +692,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     etiquetaDgt: "Cero",
     aprox: [
       "pesoKg",
+      "precioDesde",
     ],
     pros: ["La pantalla LCD panorámica de la Pro no es un adorno: el económetro muestra el consumo en amperios en tiempo real, así que aprendes en dos días qué modo y qué ritmo de puño te dejan llegar a casa sin apurar la segunda batería.", "Puedes vivir sin garaje con punto de carga: cada batería de 60 V y 45 Ah pesa 18 kg, se extrae y se enchufa en casa en unas 3,5 horas; con las dos montadas homologa 137 km WMTC, frente a los 72 km con una sola.", "No es un scooter de rueda pequeña disfrazado: lleva 16 pulgadas delante y 14 detrás, plataforma plana para los pies y 144 kg en orden de marcha, una combinación que se nota al pasar badenes y al salir a una ronda urbana con tráfico rápido.", "La marcha atrás accionada desde la piña y los tres modos —ahorro hasta 45 km/h, óptimo hasta 70 km/h y máximo rendimiento— resuelven justo lo que más se repite con un scooter de este tamaño: maniobrar en un garaje estrecho y dosificar la carga entre semana.", "El asiento del acompañante se desmonta y detrás queda una parrilla plana preparada para un baúl estándar, algo muy práctico si la Pro pasa de ir a trabajar a hacer recados o reparto ligero sin cambiar de moto."],
     contras: ["Frena con CBS, sin ABS: en mojado o sobre pintura vial tendrás que dosificar tú la frenada, cuando en 2026 ya hay rivales eléctricos de 125 que sí montan antibloqueo.", "La autonomía buena exige un sacrificio claro: con las dos baterías instaladas desaparece el hueco bajo el asiento, así que toca elegir entre los 137 km homologados o guardar un casco jet dentro.", "Sus 90 km/h declarados dan para rondas y accesos cortos, pero no sobran: con acompañante o viento en contra, una vía rápida se convierte en ir casi siempre a fondo.", "El cargador ventila haciendo bastante ruido y cada batería pide sus 3,5 horas; si cargas las dos en casa, una detrás de otra, la Pro te obliga a organizar la noche en vez de dejarla enchufada y olvidarte."],
@@ -981,7 +982,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "Motor tetracilíndrico de 599 cc con 119 CV que sube hasta 14.250 rpm: puro ADN supersport de la vieja escuela",
       "Electrónica moderna completa: IMU de 6 ejes Bosch, ABS en curva, control de tracción de 8 niveles, anti-wheelie y 5 modos de conducción",
@@ -1052,7 +1053,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "Motor tricilíndrico CP3 de 890 centímetros cúbicos con 119 CV: entrega llena desde abajo, mucho más usable que un 600 de altas vueltas",
       "Chasis Deltabox de aluminio derivado de la R1: ligero, preciso y probado en competición",
@@ -1205,7 +1206,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "Motor V4 a 65° de 1.099 cc con 220 CV: una de las superbike más potentes del mercado",
       "Parte ciclo derivada de MotoGP: chasis de doble viga de aluminio con múltiples regulaciones",
@@ -1257,7 +1258,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Monocilíndrico LC4 de 692,7 cc con 79 CV: uno de los 'monos' más potentes y tecnológicos del mercado",
       "145 kg en seco: agilidad extrema en carreteras de curvas",
@@ -1310,7 +1311,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg", "velocidadMax"],
+    aprox: ["pesoKg", "velocidadMax", "precioDesde"],
     pros: [
       "Motor LC4 de 692,7 centímetros cúbicos con 79 CV y 73 Nm: empuje brutal desde bajas vueltas",
       "Chasis multitubular de acero al cromo-molibdeno: agilidad de supermotard pura",
@@ -1363,7 +1364,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tetracilíndrico de 1.043 cc con 142 CV y 111 Nm: potencia suave y llena en todo el rango",
       "Electrónica de superbike: IMU Bosch, 4 modos de conducción, control de tracción en curva y quickshifter bidireccional",
@@ -1469,7 +1470,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "ceroCincuenta"],
+    aprox: ["velocidadMax", "ceroCincuenta", "precioDesde"],
     pros: [
       "Tetracilíndrico de 948 cc con 111 CV y 98 Nm: entrega suave y sonido clásico de 4 en línea",
       "Estética neo-retro muy conseguida: homenaje a la Z1 de 1972 con acabados de calidad",
@@ -1522,7 +1523,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor CP2 de 689 cc con 73,4 CV y 67 Nm: el bicilíndrico más divertido y probado de su segmento",
       "188 kg en orden de marcha: agilidad total",
@@ -1574,7 +1575,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["videoCanal"],
+    aprox: ["videoCanal", "precioDesde"],
     pros: [
       "Motor CP3 de 890 cc con 119 CV y 93 Nm: empuje espectacular en medios",
       "ABS en curva, control de tracción sensible a la inclinación, anti-wheelie y quickshifter: Electrónica con IMU de 6 ejes",
@@ -1646,7 +1647,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor bóxer de 1.170 centímetros cúbicos con 109 CV y 115 Nm: par brutal desde abajo con carácter único",
       "Electrónica con IMU: ABS Pro en curva, control dinámico de tracción y 3 modos de conducción",
@@ -1699,7 +1700,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bastidor de doble viga en aluminio heredado de la RSV4, con una parte ciclo superior a su clase",
       "Delante monta horquilla invertida de 41 mm y disco de 300 mm mordido por una pinza radial de cuatro pistones",
@@ -1771,7 +1772,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de 124,7 cc con 15 CV y distribución variable VVA: buena entrega en todo el rango",
       "Chasis Deltabox de acero y horquilla invertida de 41 mm: parte ciclo seria",
@@ -1837,7 +1838,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["ceroCincuenta"],
+    aprox: ["ceroCincuenta", "precioDesde"],
     pros: [
       "2.999 €: de las motos con marchas más baratas del mercado",
       "Consumo de 1,5 l/100 km y 730 km de autonomía: la reina de la eficiencia",
@@ -1890,7 +1891,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de 15 CV con VVA: el más potente y refinado de las retro 125",
       "Estética Sport Heritage con faro redondo LED: preciosa y atemporal",
@@ -1943,7 +1944,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Auténtica trail 125 con rueda delantera de 21\": apta para off-road de verdad",
       "Suspensión delantera invertida de 41 milímetros con 240 mm de recorrido y 210 mm detrás",
@@ -1997,7 +1998,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["No hay que gastar más tras comprarla: el lote adventure viene montado, con maletas, defensas y apoyo central", "Aprovecha todo lo permitido en A1 y con el B de tres años de antigüedad: 15 CV de un bloque con refrigeración líquida", "Puedes dejar el ABS activo, anularlo entero o liberar únicamente el tren posterior, algo rarísimo pagando tan poco", "Con 14 litros en el depósito tardas mucho en volver a parar en una gasolinera", "Quien mida poco también llega bien al suelo, porque la banqueta queda a 780 mm", "Delante calza llanta de 18 pulgadas y gomas pensadas tanto para asfalto como para tierra", "Cuesta 3.499 euros y la cobertura oficial se prolonga durante tres años"],
     contras: ["Sobre la báscula marca 164 kilos, cifra alta si pensamos en una octavo de litro campera", "Al ser una firma modesta de Barcelona, fuera de grandes ciudades cuesta encontrar servicio oficial cercano", "Al tacto y a la vista, plásticos y ajustes quedan por debajo del estándar japonés", "La mecánica suena y vibra con menos finura que la de sus rivales de Honda o Yamaha", "Cuando toque venderla de segunda mano, probablemente recuperes menos que con una marca consolidada", "Si el off-road se pone serio, una enduro especializada la deja atrás sin despeinarse", "Pedir ciertas piezas puede implicar esperas más largas que en marcas con almacén enorme"],
     curiosidades: ["Detrás del nombre está Motos Bordoy, importador barcelonés de larga trayectoria que creó su propia enseña", "La revisión EVO estrenada en 2025 pulió la mecánica y sumó guiños aventureros sin encarecer la tarifa", "Difícil encontrar otra trail de octavo de litro tan completa de fábrica sin superar los 3.500 euros", "En esta selección ocupa el hueco de una hipotética KTM 125 Adventure que la firma austriaca nunca llegó a producir"],
@@ -2030,7 +2031,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: "Schuko 600 W integrado en la batería (7-9 h)",
     etiquetaDgt: "Cero",
-    aprox: ["videoId", "videoCanal"],
+    aprox: ["videoId", "videoCanal", "precioDesde"],
     pros: [
       "133 km de autonomía (WMTC): de las mejores del segmento",
       "Batería extraíble tipo trolley de 5,6 kWh: se carga en cualquier enchufe",
@@ -2083,7 +2084,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "Motor de 125 cc refrigerado por líquido con 14,9 CV: de las custom 125 más potentes",
       "Asiento a 715 mm: accesible para cualquier talla",
@@ -2137,7 +2138,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["ceroCincuenta"],
+    aprox: ["ceroCincuenta", "precioDesde"],
     pros: [
       "2.650 €: la custom 125 más barata del mercado",
       "Estética cruiser clásica con cromados; la LE añade alforjas y parabrisas de serie",
@@ -2190,7 +2191,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "Competición",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor 4T de 298,4 cc con inyección PGM-FI: la única trial 4T de élite (todas las rivales son 2T)",
       "73 kg en seco (77 con fluidos): ligereza extrema",
@@ -2243,7 +2244,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["videoCanal"],
+    aprox: ["videoCanal", "precioDesde"],
     pros: [
       "Motor CP2 de 689 cc probadísimo y fiable, con 73,4 CV y 68 Nm de entrega lineal en todo el rango",
       "Peso contenido de 204 kg en orden de marcha, de lo más ligero del segmento trail medio",
@@ -2343,7 +2344,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de 755 cc con 91,8 CV y 75 Nm: de los más potentes entre las trail medias clásicas",
       "Peso de solo 208 kg en orden de marcha, muy manejable en ciudad y en campo",
@@ -2464,7 +2465,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["ceroCincuenta"],
+    aprox: ["ceroCincuenta", "precioDesde"],
     pros: [
       "La electrónica más completa del segmento: plataforma APRC, 4 modos de conducción, control de crucero y control de tracción",
       "Suspensiones Kayaba totalmente ajustables con 240 mm de recorrido delante y detrás",
@@ -2653,7 +2654,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["videoCanal"],
+    aprox: ["videoCanal", "precioDesde"],
     pros: [
       "Motor bicilíndrico en V a 75º LC8 de 1.301 cc con 180 CV y 140 Nm: el par más brutal del segmento naked",
       "Electrónica con plataforma inercial de 6 ejes: control de tracción MTC, ABS en curva Bosch, anti-wheelie y freno motor MSR",
@@ -2704,7 +2705,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor CP4 crossplane de 998 cc derivado directamente de la YZF-R1: 166 CV con entrega llena en todo el cuentarrevoluciones",
       "Electrónica completa con IMU de 6 ejes: control de tracción, anti-wheelie, control de crucero y 3 modos de conducción D-Mode",
@@ -2768,7 +2769,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Precio de derribo: 10.990 €, varios miles por debajo de cualquier rival de 150+ CV",
       "Motor tetracilíndrico heredado de la CBR1000RR Fireblade de 2017, con 151,7 CV y 104 Nm",
@@ -2906,7 +2907,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "Motor tetracilíndrico de 999 cc derivado directamente de la S 1000 RR: 165 CV y 114 Nm",
       "Solo 199 kg: una de las naked de 1000 más ligeras del mercado",
@@ -2957,7 +2958,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor V4 a 65º de 1.077 cc con 175 CV y 121 Nm: el único V4 entre las naked japonesas y alemanas",
       "Anti-wheelie, launch control, limitador de boxes y control de crucero, paquete electrónico APRC derivado de MotoGP: control de tracción de 8 niveles",
@@ -3008,7 +3009,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor Desmosedici Stradale V4 de 1.103 cc con 208 CV: la naked más potente de este lote con diferencia",
       "Aerodinámica con alerones biplano derivados de MotoGP para estabilidad a alta velocidad",
@@ -3058,7 +3059,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "100 CV (73,5 kW) con 169 kg en seco: la mejor relación peso-potencia de las deportivas medias",
       "Control de tracción, anti-wheelie, freno motor, ABS en curva y control de crucero: Electrónica APRC heredada de la RSV4 con IMU de 6 ejes",
@@ -3177,7 +3178,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["ceroCincuenta"],
+    aprox: ["ceroCincuenta", "precioDesde"],
     pros: [
       "Tetracilíndrico de 649 cc con 95 CV (70 kW) a 12.000 rpm: el único 4 en línea del segmento, con su sonido y estirada",
       "Honda E-Clutch opcional (10.400 €): embrague electrónico que deja arrancar, parar y cambiar sin usar la maneta",
@@ -3246,7 +3247,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Precio base de 8.375 €: la deportiva japonesa más barata del segmento",
       "Consumo de 4,3 l/100 km con depósito de 15 L: la más ahorradora de las medias",
@@ -3333,7 +3334,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "Bicilíndrico de 776 centímetros cúbicos con 83 CV y 78 Nm: el más lleno de par entre las japonesas medias",
       "Quickshifter bidireccional de subida y bajada de serie",
@@ -3383,7 +3384,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tricilíndrico de 660 cc con 95 CV: la única 3 cilindros del segmento, con un sonido inconfundible",
       "9.995 €: 2.000 € menos que la Aprilia RS 660 con solo 5 CV menos",
@@ -3519,7 +3520,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Parabrisas eléctrico regulable en marcha: único en su segmento",
       "Control de tracción HSTC de serie, algo raro en un scooter de 350",
@@ -3582,7 +3583,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["ceroCincuenta"],
+    aprox: ["ceroCincuenta", "precioDesde"],
     pros: [
       "Bicilíndrico de 550 cc con 50,3 CV: el maxiscooter no japonés más potente del mercado",
       "Pinzas radiales monobloque Brembo y ABS en curva Bosch: frenada de moto grande",
@@ -3682,7 +3683,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "videoCanal"],
+    aprox: ["velocidadMax", "videoCanal", "precioDesde"],
     pros: [
       "160 kg: la más ligera de la comparativa por más de 20 kg de diferencia",
       "Motor HPE de 23,8 CV: la Vespa más potente de la historia",
@@ -3732,7 +3733,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: "Cargador estándar 6,6 kW: 20-80% en ~1 h 20 min; con módulo de carga rápida de 12,6 kW: 20-80% en 43 min",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor eléctrico con 83 kW (110 CV) y 190 Nm de par disponible desde 0 rpm: aceleración inmediata",
       "Bosch Motorcycle Stability Control (MSC): ABS, control de tracción y estabilidad de serie",
@@ -3828,7 +3829,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: "Carga rápida CC: 80% en menos de 1 hora; cargador AC de a bordo: ~3,5 h; toma doméstica: ~6 h",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Empuje de naked grande sin marchas: 126 kW (171 CV) con entrega inmediata y velocidad punta limitada a 200 km/h, cifras de la ficha que la sitúan por encima de casi cualquier eléctrica de calle de su época", "Batería de 21,5 kWh, la capacidad que Energica estrenó para su gama 2020: autonomía declarada de 420 km en ciudad y 230 km en ciclo mixto según la ficha, impensable en una naked eléctrica rival", "Carga rápida en corriente continua por CCS hasta el 80 % en menos de una hora según la ficha, algo que en 2024 seguían sin ofrecer la mayoría de motos eléctricas, pensadas solo para enchufe lento", "Herencia directa de MotoE: Energica fue suministrador único del mundial eléctrico de 2019 a 2022 y trasladó esa experiencia a la Ribelle, con parte ciclo de primer nivel compartida con la Ego", "Etiqueta Cero de la DGT y carnet A: entra en zonas de bajas emisiones sin restricciones y no consume gasolina, con el mantenimiento propio de una eléctrica"],
     contras: ["Comprarla en 2024 es comprar una huérfana: Energica solicitó la liquidación en sede judicial el 14 de octubre de 2024, así que garantía, recambios y actualizaciones quedan sin respaldo claro del fabricante", "30.214 € de precio en la ficha por una naked que, además, será muy difícil de revender: el cierre de la marca castiga el valor residual y asusta a cualquier segundo comprador", "270 kilos en orden de marcha según la ficha: en parado, aparcando y maniobrando a baja velocidad se nota todo el peso de la batería, por muy bajo que vaya el centro de gravedad", "Red comercial y de asistencia mínima en España ya antes del cierre: cualquier avería electrónica o de batería obliga a buscar especialista independiente y a esperar piezas de un fabricante en liquidación"],
     curiosidades: ["La moto de carreras de la que desciende su tecnología, la Ego Corsa de MotoE, corría con 18 pilotos en parrilla y unos 270 km/h de punta; la Ribelle de calle se conforma con 200 km/h limitados para cuidar batería y autonomía", "Su motor EMCE, codesarrollado con la italiana Mavel y adelantado de 2022 a 2021 por los problemas de suministro de la pandemia, pesa 10 kg menos que el anterior junto con el inversor, pese a entregar más potencia"],
@@ -3957,7 +3958,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico en paralelo de 1200 cc con calado a 270°: 80 CV y un generoso par de 105 Nm a solo 3.500 rpm",
       "Estética británica clásica de los años 50 con acabados premium (escape cromado 2 en 2)",
@@ -4005,7 +4006,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["videoCanal"],
+    aprox: ["videoCanal", "precioDesde"],
     pros: [
       "La mejor relación precio-calidad del segmento retro: desde 6.987 € por una bicilíndrica de 650 cc",
       "Motor de 648 cc con 47 CV exactos: apta para carnet A2 sin limitación",
@@ -4053,7 +4054,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "Bicilíndrico en V transversal a 90° con transmisión por cardán: cero mantenimiento de cadena",
       "Depósito de 21 litros: la mayor autonomía teórica de las retro de la lista",
@@ -4101,7 +4102,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "Motor L-Twin Desmodue de 803 cc con distribución desmodrómica: 73 CV con carácter Ducati",
       "Muy ligera: 176 kg en seco y 185 kg con los depósitos llenos",
@@ -4149,7 +4150,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["ceroCincuenta"],
+    aprox: ["ceroCincuenta", "precioDesde"],
     pros: [
       "La retro más potente de la lista: 105 CV para solo 181 kg en seco",
       "Suspensiones WP APEX totalmente ajustables (horquilla invertida de 43 mm)",
@@ -4297,7 +4298,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["videoCanal"],
+    aprox: ["videoCanal", "precioDesde"],
     pros: [
       "Bicilíndrico 1200 High Torque de 78 CV y 106 Nm: par brutal desde 4.000 rpm",
       "Asiento a 690 mm: accesible pese a su presencia",
@@ -4396,7 +4397,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "15 CV al límite legal del A1: de lo más prestacional del octavo de litro",
       "Chasis multitubular de acero y suspensiones WP Apex: parte ciclo de moto grande",
@@ -4445,7 +4446,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["ceroCincuenta"],
+    aprox: ["ceroCincuenta", "precioDesde"],
     pros: [
       "Propulsor de 15 CV procedente de KTM, con prestaciones y solidez ya demostradas",
       "Incorpora de serie ABS sensible a la inclinación y función Supermoto, algo poco habitual entre las 125",
@@ -4494,7 +4495,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Solo 130 kilos en orden de marcha, y eso la hace la más ligera de su categoría",
       "Suspensión delantera invertida Showa SFF-BP con 41 mm y pinza radial Nissin de 4 pistones",
@@ -4556,7 +4557,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de 15 CV con distribución variable VVA: empuje en toda la gama",
       "Control de tracción incluido de fábrica, casi inédito en 125",
@@ -4709,7 +4710,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 1.084 cc y 102 CV derivado de la Africa Twin: par y suavidad",
       "Juego de maletas de serie para viajar desde el primer día",
@@ -4758,7 +4759,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tricilíndrico CP3 de 890 cc y 120 CV: el motor más carismático del segmento",
       "Versión GT con maletas laterales, caballete central y puños calefactables",
@@ -4877,7 +4878,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tetracilíndrico de 1.043 cc y 120 CV: suavidad y estirada de cuatro cilindros",
       "IMU con modos de potencia, control de tracción, quickshifter y control de crucero",
@@ -5028,7 +5029,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A-2",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "68 kg: de las trialeras 300 más ligeras del mercado",
       "Motor 2T de 294 cc desarrollado en el Mundial de trial",
@@ -5215,7 +5216,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Propulsor bicilíndrico de 889 centímetros cúbicos con 105 CV y 100 Nm: empuje contundente en todo el rango",
       "Depósito bajo en forma de alforjas: centro de gravedad bajísimo para una trail",
@@ -5368,7 +5369,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "videoId", "videoCanal"],
+    aprox: ["velocidadMax", "videoId", "videoCanal", "precioDesde"],
     pros: [
       "Tricilíndrico T-plane de 1.160 cc con 150 CV: el motor más potente de esta comparativa",
       "Transmisión por cardán sin mantenimiento",
@@ -5470,7 +5471,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["ceroCincuenta"],
+    aprox: ["ceroCincuenta", "precioDesde"],
     pros: [
       "Precio desde 10.695 €: la trail de 800 cc más asequible del mercado europeo",
       "Motor bicilíndrico de 799 cc con 95 CV derivado del KTM LC8c",
@@ -5521,7 +5522,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "pesoKg"],
+    aprox: ["velocidadMax", "pesoKg", "precioDesde"],
     pros: [
       "Precio de 8.888 € con equipamiento 'full equipe' casi imbatible",
       "Motor bicilíndrico de 895 cc con 95 CV y 95 Nm derivado de la base BMW F 900",
@@ -5623,7 +5624,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["videoCanal"],
+    aprox: ["videoCanal", "precioDesde"],
     pros: [
       "Motor tetracilíndrico de 948 cc con 124 CV: entrega lineal y refinada",
       "Precio desde 10.325 €: de las naked grandes más competitivas",
@@ -5674,7 +5675,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tricilíndrico CP3 de 890 cc que entrega 119 CV: carácter y empuje desde bajos",
       "Solo 193 kilos en orden de marcha: de las naked más ligeras de su clase",
@@ -5744,7 +5745,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "Motor tricilíndrico de 765 cc con 120 CV, desarrollado con la experiencia de Triumph como motorista de Moto2",
       "IMU con ABS y control de tracción en curva de serie",
@@ -5794,7 +5795,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["ceroCincuenta", "pesoKg"],
+    aprox: ["ceroCincuenta", "pesoKg", "precioDesde"],
     pros: [
       "Tricilíndrico de 798 cc con 140 CV: la naked más potente de su cilindrada",
       "Chasis mixto de placas de aluminio y multitubular de acero, de referencia en el segmento",
@@ -5894,7 +5895,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico en paralelo de 755 cc y 91,8 CV, cuyo cigüeñal está calado a 270 grados",
       "Consumo de 4,35 l/100 km con unos 340 km de autonomía real",
@@ -5957,7 +5958,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["videoCanal"],
+    aprox: ["videoCanal", "precioDesde"],
     pros: [
       "Quickshifter bidireccional de serie",
       "Tres modos de conducción (SDMS) y control de tracción desconectable",
@@ -6007,7 +6008,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico en paralelo LC8c de 947 cc con 123 CV y 103 Nm",
       "Parte ciclo con suspensiones WP Apex multirregulables",
@@ -6107,7 +6108,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["ceroCincuenta"],
+    aprox: ["ceroCincuenta", "precioDesde"],
     pros: [
       "Bicilíndrico en paralelo de 659 cc con calado a 270° y 95 CV",
       "Chasis de doble viga de aluminio con el propulsor como elemento portante: 183 kg",
@@ -6157,7 +6158,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "V4 Desmosedici Stradale de 1.103 centímetros cúbicos con 216 CV a 13.500 rpm",
       "Relación peso/potencia de 1,15 CV/kg",
@@ -6207,7 +6208,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["videoId"],
+    aprox: ["videoId", "precioDesde"],
     pros: [
       "Tetracilíndrico en línea de 1.000 cc con 215 CV y tecnología HRC de MotoGP",
       "Electrónica con IMU, control de tracción, anti-wheelie y freno motor regulable",
@@ -6257,7 +6258,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "videoId", "videoCanal"],
+    aprox: ["velocidadMax", "videoId", "videoCanal", "precioDesde"],
     pros: [
       "Motor de cuatro cilindros y 998 cc que entrega 203 CV (213 CV con el RAM Air)",
       "Central inercial de 6 ejes, ABS sensible a la inclinación, control de tracción adaptativo y control de salida",
@@ -6307,7 +6308,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "pesoKg"],
+    aprox: ["velocidadMax", "pesoKg", "precioDesde"],
     pros: [
       "Tetracilíndrico en línea de 999 cc con distribución variable ShiftCam y 210 CV",
       "Electrónica con modos Race Pro, control de tracción dinámico y anti-wheelie ajustables",
@@ -6443,7 +6444,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "ceroCincuenta"],
+    aprox: ["velocidadMax", "ceroCincuenta", "precioDesde"],
     pros: [
       "Motor crossplane de 998 cc y 200 CV con electrónica derivada de la M1 de MotoGP",
       "IMU de seis ejes con control de tracción, slide control, anti-wheelie y freno motor gestionables",
@@ -6556,7 +6557,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["videoCanal"],
+    aprox: ["videoCanal", "precioDesde"],
     pros: [
       "Motor bicilíndrico de 562 cc con 35,0 kW exactos: se puede conducir con carnet A2",
       "Pantalla parabrisas ajustable eléctricamente, única en su segmento",
@@ -6617,7 +6618,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El scooter de más de 125 cc más vendido de Honda en España",
       "El eSP+ de 330 cc (29 CV, 31,5 Nm) aguanta autovía sin sufrir",
@@ -6680,7 +6681,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Cambio de doble embrague DCT de 6 velocidades, único en el mundo scooter",
       "Motor bicilíndrico de 745 cc con 59 CV y 69 Nm de par",
@@ -6746,7 +6747,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor HPE monocilíndrico de 399 cc con 35,4 CV (26 kW): cabe en el carnet A2 sin limitar",
       "Ruedas altas de 16\" delante y 14\" detrás, que aportan estabilidad en baches y rondas",
@@ -6950,7 +6951,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A2",
     carga: "Carga Nivel 2 (20-80% en 78 min); Nivel 1 en enchufe doméstico (carga completa en más de 8 h)",
     etiquetaDgt: "Cero",
-    aprox: ["ceroCincuenta"],
+    aprox: ["ceroCincuenta", "precioDesde"],
     pros: [
       "Motor eléctrico de 63 kW (84 CV) con 263 Nm de par y 0-100 km/h en 3,0 segundos",
       "Velocidad máxima de 163 km/h, alta para una eléctrica urbana",
@@ -7053,7 +7054,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: "Rápida DC: 0-80% en 40 min",
     etiquetaDgt: "Cero",
-    aprox: ["videoId", "videoCanal"],
+    aprox: ["videoId", "videoCanal", "precioDesde"],
     pros: ["100 CV (75 kW) y 114 Nm de par instantáneo", "Acelera de 0 a 100 km/h en tan solo 3 segundos", "Carga rápida en corriente continua: desde el 0 al 80% en 40 minutos", "235 km de autonomía en ciudad según el fabricante", "Componentes premium: suspensiones Showa y frenos Brembo", "Precio oficial recortado en Europa hasta los 14.890 €"],
     contras: ["255 kilos en orden de marcha: muy pesada para una naked", "Solo 153 km de autonomía en ciclo combinado", "Carga en alterna lenta: unos 21 km de autonomía por hora", "La marca acumula pérdidas millonarias y estuvo bajo amenaza de exclusión bursátil", "Su precio ha caído más de 10.000 € en tres años: fuerte depreciación"],
     curiosidades: ["Nació como Harley-Davidson LiveWire en 2019 (unos 30.000 €) y en 2021 se escindió como marca propia", "Apareció en la película 'Vengadores: La era de Ultrón' (2014) como banco de pruebas global", "LiveWire solo vendió 381 motos eléctricas en todo 2025", "En Europa pasó de 24.990 € (2023) a 14.790 € (2026) en la web oficial alemana"],
@@ -7085,7 +7086,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: "Cargador rápido opcional de 6 kW: 95% en 1,1 h",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["113 CV (84 kW) y 190 Nm: la más potente de la gama street de Zero", "200 km/h de velocidad máxima con carenado integral", "186 km de autonomía mixta con batería de 17,3 kWh", "Cargador rápido opcional de 6 kW: carga al 95% en 1,1 horas", "Postura más erguida y cómoda que su hermana naked SR/F", "Hasta 10 modos de conducción personalizables memorizables"],
     contras: ["23.790 €: entre las motos eléctricas más caras del mercado", "229 kg en orden de marcha", "El cargador rápido de 6 kW es un extra de pago", "La autonomía cae notablemente con frío o a ritmo alto", "Carga únicamente en alterna: sin carga rápida en continua como la LiveWire"],
     curiosidades: ["Comparte motor ZF75-10 y chasis con la naked SR/F", "Su carenado mejora la autonomía un 13% frente a la versión naked", "Zero calcula la capacidad de la batería con el voltaje máximo, no el nominal", "La SR/S es la versión carenada de la SR/F, lanzada originalmente en 2020"],
@@ -7117,7 +7118,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: "Enchufe doméstico: carga completa en 4,5 h",
     etiquetaDgt: "Cero",
-    aprox: ["ceroCincuenta"],
+    aprox: ["ceroCincuenta", "precioDesde"],
     pros: ["Estética café racer clásica con tecnología 100% eléctrica", "Batería extraíble de 72V/45Ah: se carga en un enchufe doméstico", "Hasta 95 km/h de velocidad máxima: apta para vías rápidas urbanas", "92 km de autonomía con una sola batería", "Transmisión por correa: silenciosa y sin mantenimiento", "Homologación L3e-A1: se conduce con el carnet A1"],
     contras: ["Solo 5,1 kW de potencia máxima: prestaciones justas", "92 km de autonomía: solo sirve para ciudad", "Carga lenta: 4,5 horas para una carga completa", "Batería de solo 3,2 kWh de capacidad", "Potencia de carga de apenas 720 W, sin carga rápida"],
     curiosidades: ["Es la evolución de la Super Soco TC, marca absorbida por Vmoto", "Lleva motor central con transmisión por correa, no motor en el buje como la TC", "En 2026 recibió la edición Night Edition con asiento marrón acolchado", "Pesa solo 79 kg sin la batería instalada"],
@@ -7149,7 +7150,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["105 CV: el bicilíndrico Bonneville 1200 más potente de la gama Modern Classics", "Suspensiones de primer nivel: horquilla Showa BPF y doble amortiguador Öhlins", "Frenos Brembo M50 con doble disco delantero", "Neumáticos Metzeler Racetec RR de serie", "Tres modos de conducción (Road, Rain, Sport) y control de tracción", "Certificado de autenticidad numerado firmado por Nick Bloor, CEO de Triumph"],
     contras: ["18.995 €: 1.000 € más que la Thruxton RS estándar", "Postura café racer exigente con semimanillares bajos", "Producción limitada: difícil de conseguir nueva", "Depósito de solo 14,5 litros", "El carenado frontal a juego solo se ofrece como accesorio opcional"],
     curiosidades: ["Es la última Thruxton de la historia: Triumph cierra la saga con esta edición", "Cada unidad lleva una insignia 'Final Edition' en el motor sobre fondo dorado", "Las líneas doradas del depósito están pintadas a mano", "Llegó a los concesionarios en julio de 2024"],
@@ -7181,7 +7182,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["videoCanal"],
+    aprox: ["videoCanal", "precioDesde"],
     pros: ["Estética neo-retro que homenajea a la Z650-B1 de 1977", "68 CV con kit de limitación a 35 kW disponible para el carnet A2", "Solo 187 kg en orden de marcha: ágil y ligera", "Faro LED redondo e instrumentación mixta analógica-digital", "Consumo contenido de 4,4 l/100 km", "Motor bicilíndrico probado de la Z650: entrega suave y lineal"],
     contras: ["Sin modos de conducción", "Horquilla delantera convencional sin regulación", "Pinzas de freno axiales en lugar de radiales", "Depósito de solo 12 litros", "En 2024 solo cambió la gama de colores, sin novedades técnicas"],
     curiosidades: ["La 'cola de pato' trasera y los gráficos son réplica de la Z650-B1 de 1977", "Comparte la base mecánica con la naked Z650", "El asiento está a 820 mm, con opción de asiento bajo de 800 mm", "Monta llantas doradas multirradio como guiño clásico"],
@@ -7213,7 +7214,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["videoId", "videoCanal"],
+    aprox: ["videoId", "videoCanal", "precioDesde"],
     pros: ["4.590 €: de las retro más asequibles del mercado", "29 Nm a solo 3.000 rpm: empuja desde muy abajo", "Consumo de 2,5 l/100 km y depósito de 15 litros: hasta 600 km de autonomía", "Control de par seleccionable Honda (HSTC) de serie", "Embrague asistido con tecnología antirrebote", "178 kg en orden de marcha: ligera y manejable"],
     contras: ["Solo 21 CV: pensada para ritmo tranquilo, justa en autovía", "Caja de cambios de solo 5 velocidades", "Refrigeración por aire: mecánica sencilla", "Suspensiones simples, ajustadas al confort a baja velocidad", "Llegó a Europa en 2025, cinco años después que a India"],
     curiosidades: ["En India se vende como CB350RS desde 2020; en Europa revive la denominación GB", "Honda la diseñó para competir con Royal Enfield en el mercado indio", "Las unidades europeas son 'Made in Japan'", "Su motor de carrera larga (70 x 90,5 mm) tiene cotas casi de diésel"],
@@ -7345,7 +7346,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["ceroCincuenta", "pesoKg"],
+    aprox: ["ceroCincuenta", "pesoKg", "precioDesde"],
     pros: ["Bicilíndrica de 649 cc por 7.290 €: relación precio/cilindrada imbatible", "Frenos Brembo con ABS Bosch y suspensiones Kayaba regulables", "Pantalla TFT a color de serie", "Equipo de limitación a 35 kW disponible para el carnet A2", "170 km/h de velocidad máxima", "Neumáticos Pirelli de serie"],
     contras: ["200 kg en seco: pesada para una naked media", "Propiedad del grupo chino Zhongneng desde 2019: marca en reconstrucción en Europa", "El binomio altura (810 mm) y peso no es amable para noveles", "Consumo real de 4,8 l/100 km en prueba", "Autonomía real de unos 220 km más reserva con su depósito de 16 litros"],
     curiosidades: ["'Seiemmezzo' significa 'seis y medio': homenaje a la mítica 3½ de 1971", "Moto Morini se fundó en Bolonia (Italia) en 1937", "Existe la versión SCR scrambler con neumáticos mixtos", "Monta un bicilíndrico de 649 cc refrigerado por líquido con inyección Bosch"],
@@ -7377,7 +7378,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Desde 7.490 €: una 800 cc al precio de una 650 japonesa", "76 CV y 67 Nm: el motor más avanzado de la gama Benelli", "Horquilla invertida de 50 mm y pantalla TFT a todo color", "Versión A2 disponible con 47,6 CV", "Dos versiones: estándar de carretera y Trail de estética scrambler", "Diseño italiano con el león en el guardabarros como seña de identidad"],
     contras: ["222 kg: pesada para una naked", "En 2024 no presentó cambios respecto al año anterior", "La versión A2 cuesta más (8.490 €) que la estándar", "Consumo de 4,9 l/100 km", "Benelli pertenece al grupo chino Qianjiang: su imagen en Europa aún se está construyendo"],
     curiosidades: ["Su mecánica deriva de la Benelli 752S", "'Leoncino' significa 'leoncito', por el león del guardabarros delantero", "Existe la versión Trail con rueda delantera de 19 pulgadas", "En 2023 actualizó la gráfica del depósito sin cambios mecánicos"],
@@ -7409,7 +7410,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Motor de 1.222 cc con 108 Nm desde 3.100 rpm: par de custom grande", "10.999 €: la neo-clásica de 1200 más asequible del mercado", "Dos modos de conducción, control de tracción y control de crucero incluido de fábrica", "Pantalla TFT en color, toma USB y embrague antirrebote", "Frenos Nissin con ABS Bosch y suspensiones KYB", "198 km/h de velocidad máxima"],
     contras: ["235 kg en orden de marcha", "La empresa matriz KSR ha atravesado problemas financieros", "Horquilla delantera convencional, no invertida", "Consumo de 4,6 l/100 km", "La versión X (11.499 €) ofrece más equipamiento por solo 500 € más"],
     curiosidades: ["Su 1.222 cc es el motor más grande montado nunca en una Brixton", "Brixton pertenece al grupo austriaco KSR y fabrica en China", "El control de crucero es raro en una neo-clásica de este precio", "Se vende en Cargo Green, Timberwolf Grey y Backstage Black"],
@@ -7473,7 +7474,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["videoId", "videoCanal"],
+    aprox: ["videoId", "videoCanal", "precioDesde"],
     pros: ["Chasis perimetral de aluminio derivado de la RS 125", "Horquilla invertida de 41 mm, de lo mejor del segmento", "ABS Bosch y Disco delantero de 300 mm con pinza radial", "Depósito de 14,5 litros, de los más grandes entre las 125", "Motor de 15 CV a 10.500 rpm con cambio de 6 velocidades", "Ergonomía revisada para usarla a diario con o sin acompañante"],
     contras: ["Con 144 kg es de las más pesadas de su categoría", "Asiento a 810 mm, alto para pilotos de poca estatura", "Precio de 5.099 €, entre los más altos del segmento", "Hay que llevar el motor muy alto de vueltas para sacarle rendimiento", "Instrumentación sin pantalla TFT a todo color como rivales más nuevas"],
     curiosidades: ["Deriva directamente de la Aprilia RS 125, con la que comparte base técnica", "La pinza del freno trasero la firma la española J. Juan", "Su depósito de 14,5 litros es de los mayores del segmento 125", "Lleva el nombre de la saga Tuono, la naked de referencia de Noale"],
@@ -7505,7 +7506,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Solo 103 kg en orden de marcha: ultraligera y muy manejable", "Consumo de 1,52 l/100 kilómetros, de los más bajos del mercado", "Horquilla invertida de 31 mm y cambio de 5 velocidades", "Ruedas de 12 pulgadas: agilidad total en ciudad", "Iluminación full LED y cuadro LCD completo", "Precio contenido: 4.150 €"],
     contras: ["Con 9,8 CV es de las 125 menos potentes", "Velocidad máxima de 94 km/h: la autovía se le queda grande", "Depósito de solo 6 litros (aunque rinde unos 400 km)", "Plaza del pasajero justa para trayectos largos", "Las ruedas pequeñas la hacen nerviosa a alta velocidad"],
     curiosidades: ["Sus llantas de 12 pulgadas son las más pequeñas de su segmento", "Pesa 103 kg en orden de marcha, menos que muchas bicicletas eléctricas", "Con 1,52 l/100 km supera los 390 km de autonomía con 6 litros", "Equipa horquilla invertida y 5 marchas, material de moto grande en formato mini"],
@@ -7537,7 +7538,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["ceroCincuenta"],
+    aprox: ["ceroCincuenta", "precioDesde"],
     pros: ["Motor de 15 CV que sube hasta las 10.000 rpm con carácter deportivo", "Chasis multitubular tipo Trellis de acero", "Amortiguador trasero Uni-Trak regulable en precarga", "Cuadro de instrumentos 100 % digital", "Disco delantero ondulado de 290 mm con ABS de doble canal", "Estética Sugomi heredada de la familia Z"],
     contras: ["146 kg: no es de las más ligeras del segmento", "Asiento a 815 mm, alto para una naked de 125", "Horquilla convencional, sin invertida como algunas rivales", "Precio de 5.125 €, en la zona alta", "El motor pide ir alto de vueltas para entregar lo mejor"],
     curiosidades: ["Kawasaki ofrece un asiento ERGO-FIT rebajado que baja la altura a 790 mm", "Comparte filosofía con su hermana carenada, la Ninja 125", "Su chasis Trellis deja el motor a la vista, como las Z mayores", "La marca describe su depósito con formas de 'reloj de arena'"],
@@ -7569,7 +7570,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: ["Estética inspirada en las KTM RC16 de MotoGP", "Suspensiones WP APEX delante y detrás", "ABS Bosch 9.1 MB de doble canal con modo Supermoto", "Cuadro TFT a color con conectividad", "Depósito de 13,7 litros: unos 550 km de autonomía", "15 CV a 8.000 rpm, de los motores más llenos del segmento"],
     contras: ["5.899 €: la deportiva de 125 más cara del segmento", "147 kg en seco, de las más pesadas", "Asiento a 824 mm, solo para pilotos altos", "Ergonomía muy radical para el uso diario", "Hay que estrujar el motor hasta la zona alta para sacarle partido"],
     curiosidades: ["Su diseño replica los colores de las RC16 del Mundial de MotoGP", "El ABS Bosch 9.1 MB incluye modo Supermoto para la rueda trasera", "Monta suspensiones WP APEX, la misma marca que las KTM de competición", "Con 13,7 litros y 2,42 l/100 km anuncia unos 550 km de autonomía"],
@@ -7697,7 +7698,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Bicilíndrico de 1.084 cc derivado de la Africa Twin, con 87 CV y 98 Nm", "Cambio DCT de doble embrague opcional", "Control de par HSTC con control de wheelie y 3 modos de conducción", "Asiento a solo 700 mm del suelo", "Faro full LED y estética minimalista", "Precio desde 11.250 €, contenida para su cilindrada"],
     contras: ["233 kg en orden de marcha", "Depósito de 13,6 litros: autonomía limitada", "Suspensiones básicas, solo regulables en precarga", "La pantalla TFT no llegó hasta la actualización de 2025 (LCD en 2024)", "Poco espacio para equipaje de serie"],
     curiosidades: ["Su motor deriva del bicilíndrico de la Africa Twin CRF1100L", "Es de las pocas custom con cambio automático DCT opcional", "Con 700 mm de asiento es de las custom más bajas del mercado", "La diseñó el mismo departamento de Honda en EE. UU. que la Rebel 500"],
@@ -7765,7 +7766,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["ceroCincuenta"],
+    aprox: ["ceroCincuenta", "precioDesde"],
     pros: ["45,4 CV: apura el límite del carnet A2", "Solo 176 kg en orden de marcha, muy ligera para una custom", "Asiento a 735 mm, accesible para pilotos bajos", "Motor bicilíndrico probado, compartido con Ninja 500 y Z500", "Embrague asistido y antirrebote de serie", "Precio desde 6.699 €"],
     contras: ["Sin modos de conducción ni electrónica avanzada", "Suspensiones sencillas, trasera solo regulable en precarga", "Depósito de 13 litros", "Solo un disco delantero de 310 mm", "Instrumentación redonda de estilo retro, poco completa"],
     curiosidades: ["Rescata el nombre Eliminator, una saga custom de Kawasaki de los años 80", "Comparte el bicilíndrico de 451 cc con las Ninja 500 y Z500", "Su asiento a 735 milímetros es de los más bajos del segmento A2", "Calza rueda de 18 pulgadas delante y 16 detrás, puro estilo bagger"],
@@ -7829,7 +7830,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: ["Seis cilindros bóxer de 1.833 cc, único en el mercado", "Cambio DCT de 7 velocidades con marcha atrás", "170 Nm de par a solo 4.500 rpm", "Apple CarPlay, Android Auto y pantalla TFT de 7 pulgadas", "Parabrisas eléctrico regulable desde el manillar", "Frenada combinada con ABS en curva"],
     contras: ["Precio de 30.700 €", "367 kg en orden de marcha", "Depósito de 21,1 litros para una rutera de este porte", "Desde 2022 solo se vende con cambio DCT, sin opción manual", "Su tamaño complica las maniobras en parado"],
     curiosidades: ["Es la única moto del mercado con motor bóxer de 6 cilindros", "El DCT de 7 marchas incluye marcha atrás para maniobrar", "Integra Apple CarPlay y Android Auto en su TFT de 7 pulgadas", "Lleva parabrisas eléctrico regulable desde el manillar"],
@@ -7893,7 +7894,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["autonomiaKm", "velocidadMax", "pesoKg", "videoId", "videoCanal"],
+    aprox: ["autonomiaKm", "velocidadMax", "pesoKg", "videoId", "videoCanal", "precioDesde"],
     pros: [
       "Única moto de 3 ruedas que se inclina como una convencional: doble tren delantero con dirección Ackermann",
       "Motor CP3 de 890 cc y 115 CV, probado y fiable",

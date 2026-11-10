@@ -372,7 +372,7 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "218 CV (160,3 kW) a 15.750 rpm: la superbike de serie más extrema",
       "Base directa de la Ducati campeona del Mundial de Superbike",

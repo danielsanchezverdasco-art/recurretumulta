@@ -27,7 +27,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     carnet: "A1 (también con carnet B con 3 años de antigüedad)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Cambio de 4 marchas con embrague centrífugo: sin maneta, como un scooter",
       "Chasis en forma de T mítico de 1969: la minibike con más carisma del catálogo",
@@ -95,7 +95,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     carnet: "A1 (también con carnet B con 3 años de antigüedad)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El mito desde 1961: nació como moto de un parque de atracciones",
       "Caja de 5 velocidades (la Dax tiene 4): crucero más relajado",
@@ -163,7 +163,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     carnet: "A1 (también con carnet B con 3 años de antigüedad)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Más de 100 millones de Super Cub vendidas: la moto más vendida de la historia",
       "Cambio de 4 marchas con embrague centrífugo: sin maneta, muy fácil",
@@ -435,7 +435,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     carnet: "A2 (limitada a 35 kW)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "E-Clutch de serie en 2026: sin maneta de embrague en ciudad y cambios rapidísimos",
       "Versión de 35 kW al mismo precio: la naked media más tecnológica para el A2",
@@ -503,7 +503,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "137 km/h de velocidad máxima: el 350 más rápido de su clase",
       "Monocilíndrico eSP+ de 330 cc con 29,2 CV y solo 3,3 l/100 km",
@@ -637,7 +637,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Suspensión electrónica Öhlins: se adapta sola al asfalto y al ritmo",
       "Motor CP4 de 998 cc derivado de la R1: 166 CV con cigüeñal crossplane",
@@ -705,7 +705,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     carnet: "No homologada para vía pública (uso en circuito)",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La 450 de MX más ligera de su generación: 109 kg en orden de marcha",
       "App Power Tuner: ajustas los mapas del motor desde el móvil",
@@ -989,7 +989,7 @@ export const MOTOS_EXP_M16: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Carenado completo estilo GP de los 80: la deportiva retro más bonita del mercado",
       "Tricilíndrico CP3 de 119 CV con IMU de 6 ejes y electrónica completa",

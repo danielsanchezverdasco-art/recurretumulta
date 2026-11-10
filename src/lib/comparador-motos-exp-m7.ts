@@ -94,7 +94,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La sport-touring más vendida de Europa: equilibrio perfecto entre comodidad y agilidad",
       "Motor de 1.084 cc con un 7 % más de par en medios en la versión 2025",
@@ -295,7 +295,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "8.030 € con 92 CV: la naked media con mejor relación precio/potencia de 2025",
       "Motor de 755 cc con 75 Nm: empuja desde abajo como una moto mayor",
@@ -362,7 +362,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "217 CV a 14.500 rpm: la superbike más potente del catálogo Honda",
       "Electrónica de MotoGP: IMU de 6 ejes, ABS en curva, control de salida y de freno motor",
@@ -558,7 +558,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2 (B+3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El rey de los scooters de rueda alta: 28,8 CV y 134 km/h de punta",
       "Admite el carnet B con 3 años de antigüedad: el salto natural desde la SH125i",
@@ -649,7 +649,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2 (B+3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El GT de 350 más completo: 29 CV, parabrisas eléctrico y Smart Key",
       "Basta el permiso B con 3 años de antigüedad para llevarla.",
@@ -778,7 +778,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A1 (B+3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La minimoto más divertida: 103 kg y 9,9 CV de pura diversión",
       "Cambio de 5 marchas: se conduce como una moto de verdad",
@@ -845,7 +845,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["potenciaKw"],
+    aprox: ["potenciaKw", "precioDesde"],
     pros: [
       "La reina de las touring: 1.833 cc y 125 CV de suavidad absoluta",
       "DCT de 7 velocidades: el cambio automático más refinado del mundo",
@@ -1176,7 +1176,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2 (B+3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El GT de 300 más equilibrado: 28 CV, 183 kg y consumos de 3 l/100 km",
       "Con el B y 3 años de carnet ya puedes conducirla.",
@@ -1557,7 +1557,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2 (limitada)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Neo-retro con el CP2: 73,4 CV y solo 186 kg",
       "Limitable a 35 kW: la retro ideal para el A2",
@@ -1825,7 +1825,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La deportiva del A2 por excelencia: 45,4 CV y 171 kg",
       "Motor de 451 cc con par lleno desde abajo",
@@ -1893,7 +1893,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: ["Bicilíndrico de 451 cc y 42,6 Nm que empuja desde abajo: no hace falta estirar cada marcha para salir con decisión de un semáforo", "Solo 168 kg en orden de marcha y 1.375 mm de batalla: entra en curva con un golpe de manillar y se cuela entre coches sin esfuerzo", "Bastidor enrejado de acero de alta tracción que aprovecha el bicilíndrico como pieza estructural, solución heredada de la familia Ninja", "Embrague asistido antirrebote de serie: maneta blanda en los atascos y reducciones sin rebotes de la rueda trasera", "La SE cuesta 349 € más que los 6.350 € de la estándar y suma pantalla TFT en color, toma USB-C y colín monoposto"],
     contras: ["La estándar se conforma con un cuadro LCD; el TFT en color queda reservado a la SE y ni siquiera figura como opción suelta", "No hay control de tracción ni modos de potencia: la única ayuda es el ABS, mientras la Honda CB500 Hornet rival sí monta control de tracción", "Horquilla telescópica de 41 mm sin ningún ajuste y monoamortiguador regulable únicamente en precarga: poco margen para adaptarla a tu peso", "Delante manda un único disco de 310 mm con pinza de dos pistones: correcto en ciudad, justo si encadenas bajadas de puerto con pasajero", "Naked sin protección alguna: a ritmo de autovía el viento pega de lleno en el pecho y la cúpula alta se paga como accesorio"],
     curiosidades: ["Se presentó en el EICMA de 2023 como modelo 2024, junto a la Ninja 500, para ocupar el hueco de la Z400 de 399 cc", "Kawasaki remonta el apellido 500 a la Mach III de 1969; esta Z lo retoma con un bicilíndrico tranquilo pensado para el carnet A2", "Hay un asiento ERGO-FIT alto opcional que sube 30 mm sobre los 785 mm de serie, pensado para pilotos de pierna larga"],
@@ -1944,7 +1944,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La supersport media de referencia: 124 CV y 198 kg",
       "Motor de 636 cc con par en todo el régimen",
@@ -2011,7 +2011,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2 (limitable)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La única tetracilíndrica de 400: 77 CV que suben a 16.000 rpm",
       "Sonido y tacto de superbike en formato A2",
@@ -2279,7 +2279,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La sport-turismo definitiva: 142 CV y 235 kg",
       "Motor de 1043 cc con par en todo el régimen",
@@ -2346,7 +2346,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La sport-turismo sobrealimentada: 200 CV con compresor",
       "El motor más exclusivo del segmento",
@@ -2689,7 +2689,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El bicilíndrico en V de 645 cc es un clásico: 71 CV suaves y un consumo contenido.",
       "Limitable para el A2 (35 kW): una de las mejores trail para ese carnet.",
@@ -2758,7 +2758,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Solo 137 kg: la deportiva de 125 cc más ligera de las japonesas.",
       "Motor DOHC de 124,4 cc con 15 CV: aprovecha el límite legal del A1.",
@@ -2827,7 +2827,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Solo 154 kg: agilidad extrema en ciudad y curvas reviradas.",
       "Monocilíndrico de 398 cc con 38 CV: perfecto para el A2 sin limitar.",
@@ -2896,7 +2896,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Precio de 2.599 €: uno de los scooters 125 más baratos de Japón.",
       "Solo 106 kg: se maneja con una mano en el tráfico.",
@@ -2961,7 +2961,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "15 CV al límite del A1 con apenas 133 kg: la naked 125 más ligera entre las japonesas.",
       "Motor DOHC de 124,4 cc derivado de la GSX-R125: estira con alegría.",
@@ -3099,7 +3099,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tetracilíndrico de 999 cc con 195 CV y distribución variable SR-VVT: la superbike de Hamamatsu.",
       "Electrónica de carreras: 10 niveles de tracción, ABS en curva, launch control y quickshifter.",
@@ -3237,7 +3237,7 @@ export const MOTOS_EXP_M7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tetracilíndrico de 999 cc con 152 CV: ADN deportivo con vocación viajera.",
       "Carenado diseñado en túnel de viento: protección real a ritmo de autopista.",

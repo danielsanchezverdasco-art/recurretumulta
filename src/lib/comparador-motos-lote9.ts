@@ -41,6 +41,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     aprox: [
       "potenciaCv",
       "velocidadMax",
+      "precioDesde",
     ],
     pros: [
       "8 kW de pico en solo 50 kg: la relacion peso/potencia mas divertida del segmento electrico ligero",
@@ -126,6 +127,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     aprox: [
       "potenciaCv",
       "velocidadMax",
+      "precioDesde",
     ],
     pros: [
       "Version HP con 21 kW de pico y 440 Nm a la rueda: prestaciones de 250 de gasolina en silencio",
@@ -297,6 +299,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     aprox: [
       "potenciaCv",
       "velocidadMax",
+      "precioDesde",
     ],
     pros: [
       "Homologada para carretera (L3e) en Espana: se usa a diario con carnet A1 o B convalidado",
@@ -382,6 +385,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     aprox: [
       "potenciaCv",
       "velocidadMax",
+      "precioDesde",
     ],
     pros: [
       "13,5 kW de pico con bateria de 72V: el salto de potencia frente a la Sting R",
@@ -554,6 +558,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     aprox: [
       "potenciaCv",
       "velocidadMax",
+      "precioDesde",
     ],
     pros: [
       "Bateria de 15,4 kWh: la mayor del lote, con 200 km de autonomia declarada",
@@ -901,6 +906,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "potenciaCv",
       "velocidadMax",
       "bateriaKwh",
+      "precioDesde",
     ],
     pros: [
       "Cambio de 2 marchas: la unica electrica del lote con caja de cambios real",
@@ -1071,6 +1077,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     aprox: [
       "potenciaCv",
       "bateriaKwh",
+      "precioDesde",
     ],
     pros: [
       "Diseno retro scrambler sueco: la electrica mas bonita del lote para muchos",

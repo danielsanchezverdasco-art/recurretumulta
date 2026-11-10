@@ -98,7 +98,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "5.500 €: la trail A2 nueva más barata del mercado japonés en 2026",
       "Resucita las míticas siglas KLE de los 90 con estética adventure moderna",
@@ -169,7 +169,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     carnet: "A (limitable a 35 kW para A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tetracilíndrico de 948 cc con 125 CV: empuje lineal y refinado",
       "10.650 €: de las naked grandes más competitivas por precio",
@@ -595,7 +595,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "6.860 €: la custom A2 japonesa más asequible",
       "Asiento a 735 mm: la más baja de su categoría, ideal para pilotos bajos",
@@ -666,7 +666,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     carnet: "A2 (limitable a 35 kW)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La trail asfáltica de referencia: cómoda, lógica y probadísima",
       "Bicilíndrico de 649 cc con 67 CV: empuje suficiente y consumo contenido",
@@ -946,7 +946,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     carnet: "A (limitable a 35 kW para A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Estética café racer de fábrica: cúpula, colín y semimanillares",
       "El mismo V-twin de 76,5 CV de la SV650: carácter y fiabilidad",
@@ -1224,7 +1224,7 @@ export const MOTOS_EXP_M20: MotoComparador[] = [
     carnet: "A (limitable a 35 kW para A2)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La trail media más vendida de la historia: fiabilidad legendaria",
       "Llantas de radios y rueda de 19\": la XT sí pisa campo de verdad",

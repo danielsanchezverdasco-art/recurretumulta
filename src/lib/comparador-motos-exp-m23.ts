@@ -35,7 +35,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 648 cc con 47 CV: justo en el límite del A2, sin limitar",
       "Entrega de par llena desde abajo: 52,3 Nm a 5.150 rpm, empuja en cualquier marcha",
@@ -107,7 +107,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Café racer auténtica con el twin de 648 cc y 47 CV, apta para el A2",
       "Semimanillares y estriberas retrasadas: postura deportiva de verdad",
@@ -251,7 +251,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor Sherpa 450 con 40 CV: el primer monocilíndrico moderno de RE, con carácter",
       "Parte ciclo seria: horquilla invertida y 200 mm de recorrido de suspensión",
@@ -323,7 +323,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Cruiser de verdad: asiento a 740 mm, estriberas adelantadas y manillar alto",
       "Twin de 648 cc con 47 CV y par de 52,3 Nm: empuja con suavidad",
@@ -396,7 +396,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor KTM de 799 cc con 91 CV: empuje y fiabilidad probados",
       "Equipamiento de serie enorme: TFT de 7\", modos, control de crucero y presión de neumáticos",
@@ -467,7 +467,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Quickshifter bidireccional de serie: la Sport no lo lleva",
       "Llantas de radios cruzados: más resistentes para pistas",
@@ -610,7 +610,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Diseño neo-retro de Kiska (los de KTM): de las más bonitas del segmento",
       "Bicilíndrico de 693 cc con 74 CV: empuje lineal y lleno",
@@ -681,7 +681,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "100,6 CV con solo 186 kg: la mejor relación peso/potencia china",
       "Motor KTM de 799 cc con respuesta fulgurante",
@@ -820,7 +820,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El 350 más deportivo de Zontes: estética agresiva y chasis afilado",
       "Motor de 349 cc con 36,7 CV: de los más potentes del segmento",
@@ -887,7 +887,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A1 (también con carnet B con 3 años de antigüedad)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Naked 125 con 14,8 CV: roza el límite legal del A1",
       "Equipamiento impropio de su precio: TFT, ABS y arranque sin llave",
@@ -959,7 +959,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Trail rutera con 75 CV: suficiente para viajar a dúo cargado",
       "Parrilla, defensas y caballete central de serie",
@@ -1104,7 +1104,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A1 (también con carnet B con 3 años de antigüedad)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "15 CV: el tope legal del A1 por menos de 3.000 €",
       "Equipada como una grande: TFT de 5\", cámara frontal y control de tracción",
@@ -1176,7 +1176,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Trail A2 española con 47 CV y solo 190 kg",
       "Llantas de radios y neumáticos mixtos de serie",
