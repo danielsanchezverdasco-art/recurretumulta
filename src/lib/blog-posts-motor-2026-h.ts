@@ -77,10 +77,7 @@ Que de las 4.010 unidades de septiembre, 2.104 fueron híbridos, 1.563 híbridos
 En agosto matriculó 22.668 unidades en Europa (+217,5% interanual), y el BYD Seal U (7.789 uds) ya vende en el continente más que el VW Tiguan o el Ford Kuga.
 
 ### ¿Omoda y Jaecoo son marcas chinas?
-Sí: son las dos marcas internacionales del grupo chino **Chery**, que está desplegando su ofensiva europea con fuerza.
-
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Sí: son las dos marcas internacionales del grupo chino **Chery**, que está desplegando su ofensiva europea con fuerza.`,
 },
 {
   title: "MG HS Hybrid+: 225 CV con etiqueta ECO desde 29.990 €",
@@ -153,10 +150,7 @@ Los pedidos están abiertos desde el **1 de octubre de 2026**.
 **5,5 l/100 km** y 126 g/km de CO₂ en ciclo WLTP, con una autonomía total de más de 1.000 km.
 
 ### ¿Merece la pena frente al MG HS híbrido enchufable?
-El Hybrid+ es la opción para quien no quiere ni oír hablar de cables; su hermano enchufable ofrece más de 100 km de autonomía eléctrica y etiqueta Cero.
-
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+El Hybrid+ es la opción para quien no quiere ni oír hablar de cables; su hermano enchufable ofrece más de 100 km de autonomía eléctrica y etiqueta Cero.`,
 },
 {
   title: "BYD Dolphin Surf 2026: ahora con 5 plazas por 350 € más",
@@ -230,10 +224,7 @@ Exige financiar 12.500 € a 72 meses con CA Auto Bank y aplicar los CAE, ademá
 La quinta plaza opcional en Boost y Comfort por 350 €, climatizador automático, llantas de aleación de 16 pulgadas en el Active, volante rediseñado y cubre-equipaje.
 
 ### ¿Qué garantía tiene el BYD Dolphin Surf?
-6 años o 150.000 km para el coche y 8 años o 250.000 km para la batería.
-
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+6 años o 150.000 km para el coche y 8 años o 250.000 km para la batería.`,
 },
 {
   title: "Dongfeng Vigo y Mage: eléctricos desde 26.615 € en España",
@@ -315,9 +306,6 @@ Ambos llevan la **etiqueta Cero**: el Vigo por ser 100% eléctrico y el Mage por
 7 años o 300.000 km para el vehículo y 10 años sin límite de kilómetros para la batería.
 
 ### ¿Quién vende y mantiene los Dongfeng en España?
-El importador **Salvador Caetano Auto**, con 25 concesionarios en España y almacén de recambios propio con entrega en 24-48 horas.
-
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+El importador **Salvador Caetano Auto**, con 25 concesionarios en España y almacén de recambios propio con entrega en 24-48 horas.`,
 },
 ];

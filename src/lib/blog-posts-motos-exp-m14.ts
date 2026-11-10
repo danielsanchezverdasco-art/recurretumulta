@@ -67,11 +67,8 @@ No. El motor eléctrico entrega todo el par desde cero, sin embrague ni caja de 
 ### ¿Vale para viajar?
 Es la Zero más rutera por su carenado, pero la autonomía en autopista obliga a planificar las paradas de carga.
 
-*Fuentes:*
 - <a href=https://www.zeromotorcycles.com>Zero Motorcycles — web oficial</a>
-- <a href=https://www.rideapart.com>rideapart.com — cobertura de la garantía europea de Zero</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.rideapart.com>rideapart.com — cobertura de la garantía europea de Zero</a>`,
   },
   {
     title: "Zero DSR/X 2025: la trail eléctrica",
@@ -137,11 +134,8 @@ De 20 a 80% en 7 h en enchufe doméstico, 1,4 h en Nivel 2 y 43 min con la carga
 ### ¿Tiene marcha atrás?
 Sí, el modo Parking permite moverla marcha atrás con el acelerador.
 
-*Fuentes:*
 - <a href=https://www.zeromotorcycles.com>Zero Motorcycles — web oficial</a>
-- <a href=https://www.thepack.news>thepack.news — precio europeo de la DSR/X</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.thepack.news>thepack.news — precio europeo de la DSR/X</a>`,
   },
   {
     title: "NIU FQi 500: scooter eléctrico 2025",
@@ -243,11 +237,8 @@ No: las dos baterías ocupan todo el hueco. Hay que usar un baúl o llevar el ca
 ### ¿Qué garantía tiene?
 2 años en vehículo y componentes, según NIU.
 
-*Fuentes:*
 - <a href=https://www.niu.com>NIU — web oficial</a>
-- <a href=https://www.1000ps.com>1000ps.com — presentación del FQi 500 en Europa</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.1000ps.com>1000ps.com — presentación del FQi 500 en Europa</a>`,
   },
   {
     title: "NIU MQi GT Evo: 100 km/h eléctricos",
@@ -350,11 +341,8 @@ Sí, con 3 años de antigüedad, como todo equivalente a 125.
 ### ¿Qué garantía tiene?
 2 años en vehículo y componentes.
 
-*Fuentes:*
 - <a href=https://www.niu.com>NIU — web oficial</a>
-- <a href=https://www.1000ps.com>1000ps.com — datos técnicos del MQi GT Evo</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.1000ps.com>1000ps.com — datos técnicos del MQi GT Evo</a>`,
   },
   {
     title: "NIU NQiX 500: el scooter más rápido",
@@ -452,11 +440,8 @@ Sí, con 3 años de antigüedad.
 ### ¿Cabe un casco bajo el asiento?
 Sí, admite un integral pese a la doble batería.
 
-*Fuentes:*
 - <a href=https://www.niu.com>NIU — web oficial</a>
-- <a href=https://www.1000ps.com>1000ps.com — datos técnicos del NQiX 500</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.1000ps.com>1000ps.com — datos técnicos del NQiX 500</a>`,
   },
   {
     title: "Silence S02 LS: ciclomotor eléctrico",
@@ -520,11 +505,8 @@ En Barcelona: Silence produce sus propias baterías en la Zona Franca.
 ### ¿Qué garantía tiene?
 2 años el vehículo y 3 años o 30.000 km la batería.
 
-*Fuentes:*
 - <a href=https://www.silence.eco>Silence — web oficial</a>
-- <a href=https://www.silence.eco>Silence — documentación de garantía</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.silence.eco>Silence — documentación de garantía</a>`,
   },
   {
     title: "Silence S01+: 133 km de autonomía",
@@ -589,11 +571,8 @@ Sí, con 3 años de antigüedad, como todo equivalente a 125.
 ### ¿La vendió SEAT?
 Sí: SEAT la comercializó como SEAT MÓ eScooter 125.
 
-*Fuentes:*
 - <a href=https://www.silence.eco>Silence — web oficial</a>
-- <a href=https://www.silence.eco>Silence — documentación de garantía</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.silence.eco>Silence — documentación de garantía</a>`,
   },
   {
     title: "Horwin SK1: el ciclomotor eléctrico",
@@ -657,11 +636,8 @@ El chasis es el mismo, pero el SK3 tiene motor de 95 km/h (carnet A1) y el SK1 e
 ### ¿Quién fabrica Horwin?
 Es una marca austriaca con producción en China y distribución europea propia.
 
-*Fuentes:*
 - <a href=https://www.horwin.eu>Horwin Europa — web oficial</a>
-- <a href=https://www.thepack.news>thepack.news — datos del SK1</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.thepack.news>thepack.news — datos del SK1</a>`,
   },
   {
     title: "Horwin EK3: diseño y 95 km/h",
@@ -726,11 +702,8 @@ Sí, con 3 años de antigüedad.
 ### ¿Qué garantía tiene?
 2 años en Europa.
 
-*Fuentes:*
 - <a href=https://www.horwin.eu>Horwin Europa — web oficial</a>
-- <a href=https://www.autoevolution.com>autoevolution.com — prueba del Horwin EK3</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.autoevolution.com>autoevolution.com — prueba del Horwin EK3</a>`,
   },
   {
     title: "Horwin CR6: café racer eléctrica",
@@ -795,11 +768,8 @@ Sí, con 3 años de antigüedad.
 ### ¿Qué garantía tiene?
 2 años en Europa.
 
-*Fuentes:*
 - <a href=https://www.horwin.eu>Horwin Europa — web oficial</a>
-- <a href=https://www.motorcyclenews.com>motorcyclenews.com — datos de la gama CR6</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.motorcyclenews.com>motorcyclenews.com — datos de la gama CR6</a>`,
   },
   {
     title: "Can-Am Pulse: naked eléctrica A2",
@@ -829,7 +799,7 @@ La <a href=/motos/can-am-pulse-2025-ficha-tecnica-precio/>Can-Am Pulse 2025</a> 
 
 ## Tecnología de coche en una naked
 
-La Pulse estrena una pantalla táctil de 10,25\" con Apple CarPlay, inédita en su segmento. El motor Rotax E-Power de refrigeración líquida entrega 72 Nm desde cero, y la batería es estructural: forma parte del chasis. Incluye modos Normal, Eco, Rain y Sport+, marcha atrás y frenada regenerativa activa y pasiva.
+La Pulse estrena una pantalla táctil de 10,25\\" con Apple CarPlay, inédita en su segmento. El motor Rotax E-Power de refrigeración líquida entrega 72 Nm desde cero, y la batería es estructural: forma parte del chasis. Incluye modos Normal, Eco, Rain y Sport+, marcha atrás y frenada regenerativa activa y pasiva.
 
 <img src=/media/motos/can-am-pulse-2025-ficha-tecnica-precio-2.webp alt=Can-Am Pulse 2025, detalle>
 
@@ -889,7 +859,7 @@ Su hermana tiene ficha en esta casa y comparte toda la base técnica: la <a href
 El A2 con la versión de 35 kW; existe una versión de 11 kW para el A1.
 
 ### ¿Tiene Apple CarPlay?
-Sí: su pantalla táctil de 10,25\" es compatible con Apple CarPlay.
+Sí: su pantalla táctil de 10,25\\" es compatible con Apple CarPlay.
 
 ### ¿Cuánto tarda en cargar?
 Del 20 al 80% en 50 minutos con cargador de Nivel 2.
@@ -903,11 +873,8 @@ Es urbana y periurbana: 160 km de autonomía urbana y sin carga rápida limitan 
 ### ¿Quién fabrica Can-Am?
 BRP, el grupo canadiense de Bombardier Recreational Products.
 
-*Fuentes:*
 - <a href=https://can-am.brp.com/on-road/2025/can-am-pulse.html>Can-Am — ficha oficial de la Pulse</a>
-- <a href=https://www.electrek.co>electrek.co — garantía y datos de la gama eléctrica Can-Am</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.electrek.co>electrek.co — garantía y datos de la gama eléctrica Can-Am</a>`,
   },
   {
     title: "Can-Am Origin: trail eléctrica A2",
@@ -938,7 +905,7 @@ La <a href=/motos/can-am-origin-2025-ficha-tecnica-precio/>Can-Am Origin 2025</a
 
 ## Una trail de verdad, no una naked alta
 
-La Origin no es una Pulse con otro manillar: lleva horquilla KYB con 255 mm de recorrido, basculante monobrazo con cadena encapsulada y modos de conducción Off-Road y Off-Road+. La pantalla de 10,25\" con CarPlay también está presente, y la batería líquida refrigerada aguanta el calor extremo.
+La Origin no es una Pulse con otro manillar: lleva horquilla KYB con 255 mm de recorrido, basculante monobrazo con cadena encapsulada y modos de conducción Off-Road y Off-Road+. La pantalla de 10,25\\" con CarPlay también está presente, y la batería líquida refrigerada aguanta el calor extremo.
 
 <img src=/media/motos/can-am-origin-2025-ficha-tecnica-precio-2.webp alt=Can-Am Origin 2025, detalle>
 
@@ -1006,16 +973,13 @@ Sí: 255 mm de recorrido de suspensión, modos Off-Road y cadena encapsulada. Su
 5 años o 50.000 km.
 
 ### ¿Tiene CarPlay?
-Sí, con su pantalla táctil de 10,25\".
+Sí, con su pantalla táctil de 10,25\\".
 
 ### ¿Se vende en España?
 Sí: BRP confirma su venta en concesionarios oficiales en España.
 
-*Fuentes:*
 - <a href=https://can-am.brp.com/on-road/2025/can-am-origin.html>Can-Am — ficha oficial de la Origin</a>
-- <a href=https://www.electrek.co>electrek.co — datos de la gama eléctrica Can-Am</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.electrek.co>electrek.co — datos de la gama eléctrica Can-Am</a>`,
   },
   {
     title: "Super Soco TC Max: café racer A1",
@@ -1118,11 +1082,8 @@ Sí, con 3 años de antigüedad.
 ### ¿Qué garantía tiene?
 2 años el vehículo y 3 años la batería.
 
-*Fuentes:*
 - <a href=https://www.vmoto.com>Vmoto Super Soco — web oficial</a>
-- <a href=https://www.thepack.news>thepack.news — datos de la gama Super Soco</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.thepack.news>thepack.news — datos de la gama Super Soco</a>`,
   },
   {
     title: "Super Soco CPx Pro: 115 km/h",
@@ -1146,12 +1107,12 @@ El <a href=/motos/super-soco-cpx-pro-2025-ficha-tecnica-precio/>Super Soco CPx P
 | Batería | 2 × 60 V (5,4 kWh) extraíbles |
 | Autonomía | 100 km (declarada) |
 | Peso | 143 kg |
-| Ruedas | 16\" delantera / 14\" trasera |
+| Ruedas | 16\\" delantera / 14\\" trasera |
 | Carnet | A1 (válido con B +3 años) |
 
 ## El doble de todo
 
-El Pro duplica la potencia del CPx básico (de 4 a 7 kW) y monta doble batería: 5,4 kWh que le dan 100 km de autonomía declarada. Las ruedas grandes (16\" delante) lo hacen más estable que un scooter convencional, y de serie trae marcha atrás, control de crucero y toma USB.
+El Pro duplica la potencia del CPx básico (de 4 a 7 kW) y monta doble batería: 5,4 kWh que le dan 100 km de autonomía declarada. Las ruedas grandes (16\\" delante) lo hacen más estable que un scooter convencional, y de serie trae marcha atrás, control de crucero y toma USB.
 
 <img src=/media/motos/super-soco-cpx-pro-2025-ficha-tecnica-precio-2.webp alt=Super Soco CPx Pro 2025, detalle>
 
@@ -1224,11 +1185,8 @@ Sí, con 3 años de antigüedad.
 ### ¿Qué garantía tiene?
 2 años el vehículo y 3 años la batería.
 
-*Fuentes:*
 - <a href=https://www.vmoto.com>Vmoto Super Soco — web oficial</a>
-- <a href=https://www.thepack.news>thepack.news — datos del CPx Pro</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.thepack.news>thepack.news — datos del CPx Pro</a>`,
   },
   {
     title: "Maeving RM1: la retro eléctrica",
@@ -1293,11 +1251,8 @@ No: es monoplaza.
 ### ¿Quién fabrica Maeving?
 Una empresa británica fundada por exingenieros de Triumph en Coventry.
 
-*Fuentes:*
 - <a href=https://maeving.com>Maeving — web oficial</a>
-- <a href=https://maeving.com/blogs/maeving-news/maeving-expands-in-europe-with-launch-in-france>Maeving — expansión europea</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://maeving.com/blogs/maeving-news/maeving-expands-in-europe-with-launch-in-france>Maeving — expansión europea</a>`,
   },
   {
     title: "LiveWire S2 Del Mar: 82 CV",
@@ -1363,11 +1318,8 @@ No: solo Nivel 1 y Nivel 2.
 ### ¿Qué significa que la batería sea estructural?
 Que forma parte del chasis: ahorra peso y aumenta la rigidez.
 
-*Fuentes:*
 - <a href=https://www.livewire.com/s2-del-mar/>LiveWire — ficha oficial de la S2 Del Mar</a>
-- <a href=https://www.livewire.com>LiveWire — garantía oficial</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.livewire.com>LiveWire — garantía oficial</a>`,
   },
   {
     title: "Yadea Keeness: naked eléctrica A1",
@@ -1431,11 +1383,8 @@ Sí, con 3 años de antigüedad.
 ### ¿Quién es Yadea?
 El mayor fabricante mundial de vehículos eléctricos ligeros, con sede en China.
 
-*Fuentes:*
 - <a href=https://www.yadea.com>Yadea — web oficial</a>
-- <a href=https://www.newatlas.com>newatlas.com — datos de la Keeness</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.newatlas.com>newatlas.com — datos de la Keeness</a>`,
   },
   {
     title: "Yadea Fierider: scooter de 15 CV",
@@ -1500,10 +1449,7 @@ Sí, con 3 años de antigüedad.
 ### ¿Qué garantía tiene?
 2 años en Europa.
 
-*Fuentes:*
 - <a href=https://www.prnewswire.co.uk/news-releases/yadea-unveils-flagship-electric-motorcycle-m6-at-eicma-2024-302293992.html>Yadea — comunicado oficial EICMA</a>
-- <a href=https://www.yadea.com>Yadea — web oficial</a>
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+- <a href=https://www.yadea.com>Yadea — web oficial</a>`,
   },
 ];

@@ -94,11 +94,7 @@ Solo **limitado a 25 km/h** y cumpliendo la normativa VMP: prohibido en aceras y
 Unos **47,5 kg**: no es un patinete para subir a casa ni meter en un maletero normal.
 
 ### ¿Merece la pena frente al Burn-e 3 normal?
-Si quieres lo máximo, sí: más batería (40Ah frente a 30Ah) y más pico (8.400 W frente a 5.040 W). Si no, el Burn-e 3 normal ya sobra.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.autoevolution.com/news/burn-e3-max-e-scooter-can-hit-scary-top-speeds-and-costs-as-much-as-a-used-motorcycle-or-car-266165.html>AutoEvolution</a> y distribuidores europeos de Nami Electric.*`,
+Si quieres lo máximo, sí: más batería (40Ah frente a 30Ah) y más pico (8.400 W frente a 5.040 W). Si no, el Burn-e 3 normal ya sobra.`,
   },
   {
     slug: "nami-burn-e-3",
@@ -224,11 +220,7 @@ Unos **70 km** en uso mixto con doble motor, frente a los 100-110 km declarados.
 Solo **limitado a 25 km/h** cumpliendo la normativa VMP (prohibido aceras).
 
 ### ¿Cuánto pesa?
-Unos **47 kg**: piénsatelo si vives en un tercero sin ascensor.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>., <a href=https://www.dgt.es/comunicacion/noticias/vmp-nuevas-reglas-nueva-formacion>DGT: VMP, nuevas reglas y nueva formación</a>*`,
+Unos **47 kg**: piénsatelo si vives en un tercero sin ascensor.`,
   },
   {
     slug: "nami-klima",
@@ -349,11 +341,7 @@ Unos **44 km** en uso mixto, frente a 65 km declarados.
 Es **más manejable y ligero** (38 kg frente a 47), pero con menos batería y potencia. Para uso mixto, el Klima tiene más sentido.
 
 ### ¿Es legal en España?
-Solo **limitado a 25 km/h** según la normativa VMP.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>. Normativa oficial: <a href=https://www.dgt.es>DGT</a>.*`,
+Solo **limitado a 25 km/h** según la normativa VMP.`,
   },
   {
     slug: "nami-klima-max",
@@ -470,11 +458,7 @@ Unos **59 km** en uso mixto, frente a 85-90 km declarados.
 Sí si haces rutas largas: la batería extra se nota mucho y el sobreprecio es moderado.
 
 ### ¿Es legal en España?
-Solo **limitado a 25 km/h** según normativa VMP.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>. <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
+Solo **limitado a 25 km/h** según normativa VMP.`,
   },
   {
     slug: "nami-blast",
@@ -598,11 +582,7 @@ El Klima es más ligero y manejable; el Blast es más barato con tracción total
 Solo **limitado a 25 km/h** según la normativa VMP.
 
 ### ¿Cuánto pesa?
-Unos **46 kg**: no apto para subir por escaleras.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>., <a href=https://www.namielectric.com>Nami Electric (web oficial)</a>, <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
+Unos **46 kg**: no apto para subir por escaleras.`,
   },
   {
     slug: "nami-blast-max",
@@ -723,11 +703,7 @@ Unos **67 km** en uso mixto, frente a 100 km declarados.
 Solo **limitado a 25 km/h** según la normativa VMP.
 
 ### ¿Blast Max o Burn-e 3?
-Prestaciones casi idénticas; el Burn-e 3 tiene más nombre y mercado de segunda mano. El Blast Max solo compensa si lo encuentras más barato.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://bikescootercity.com.au/products/nami-klima-electric-scooter>distribuidores europeos de Nami Electric</a>. Normativa oficial: <a href=https://www.dgt.es>DGT</a>.*`,
+Prestaciones casi idénticas; el Burn-e 3 tiene más nombre y mercado de segunda mano. El Blast Max solo compensa si lo encuentras más barato.`,
   },
   // ────────────────────────── TEVERUN (7) ─────────────────────────
   {
@@ -816,11 +792,7 @@ Unos **54 km** en uso mixto, frente a 80 km declarados.
 **60V 25Ah (1.500 Wh) con celdas LG 21700**, de las mejores del segmento.
 
 ### ¿Fighter 11 o Fighter 11+?
-El 11+ añade pantalla de 4" con GPS, frenos de 4 pistones y más batería, pero cuesta más y está en preventa. El 11 normal es la compra sensata.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://mazrider.com/en/products/electric-scooter-teverun-fighter-eleven-60-v-26-ah>Maz Rider</a> y <a href=https://www.teverun.com/>Teverun</a>.*`,
+El 11+ añade pantalla de 4" con GPS, frenos de 4 pistones y más batería, pero cuesta más y está en preventa. El 11 normal es la compra sensata.`,
   },
   {
     slug: "teverun-fighter-11-plus",
@@ -908,11 +880,7 @@ Unos **74 km** en uso mixto con doble motor.
 Solo si valoras el GPS, los frenos de 4 pistones y la batería extra. Por potencia pura, el 11 normal ya sobra.
 
 ### ¿Es legal en España?
-Como VMP **limitado a 25 km/h**. Sin homologación DGT para más velocidad.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.green220.com/en/e-scooters/463-electric-scooter-teverun-fighter-11plus-60-v-35-ah-3701522001434.html>Green220</a> y <a href=https://www.teverun.com/>Teverun</a>.*`,
+Como VMP **limitado a 25 km/h**. Sin homologación DGT para más velocidad.`,
   },
   {
     slug: "teverun-fighter-supreme",
@@ -1000,11 +968,7 @@ Unos **135 km** en uso mixto, frente a 200 km declarados.
 **No** en vía pública a su velocidad máxima. Solo circuito privado.
 
 ### ¿Supreme o Fighter 11+?
-El Supreme duplica potencia y batería, pero también el precio. El 11+ es más "lógico"; el Supreme es puro exceso.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.evolt.eu/products/electric-scooter-teverun-fighter-supreme-7260-ultra/>Evolt</a> y <a href=https://www.teverun.com/>Teverun</a>.*`,
+El Supreme duplica potencia y batería, pero también el precio. El 11+ es más "lógico"; el Supreme es puro exceso.`,
   },
   {
     slug: "teverun-blade-gt-2",
@@ -1091,11 +1055,7 @@ Unos **74 km** con la batería grande en uso mixto.
 El Blade es más ágil y compacto; el Fighter, más radical y con mejor red de repuestos. Para ciudad, Blade; para todo lo demás, Fighter.
 
 ### ¿Es legal en España?
-Solo **limitado a 25 km/h** como VMP.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.teverun.com/>Teverun</a> y distribuidores europeos.*`,
+Solo **limitado a 25 km/h** como VMP.`,
   },
   {
     slug: "teverun-blade-gt-plus",
@@ -1166,7 +1126,7 @@ Como VMP no tiene homologación DGT: en España toca circular a 25 km/h, sin ace
 | 2.349 € bien equipado | TFT regular a pleno sol |
 | Más dócil que el Fighter | Reventa complicada |
 
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/JXUVGMbarXg title=\"Prueba del Teverun Blade GT+ II\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/JXUVGMbarXg title=\\"Prueba del Teverun Blade GT+ II\\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 <img src=/media/patinetes/teverun-blade-gt-plus-3.webp alt=Teverun Blade GT+ II circulando>
 
@@ -1185,11 +1145,7 @@ El Fighter 11 trae batería LG y más carácter, y cuesta 100 € menos; el Blad
 Según la normativa VMP, solo limitado a 25 km/h.
 
 ### ¿Cuánto pesa?
-35 kg, poco peso para un doble motor de 3.000 W.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.teverun.com/>Teverun</a> y distribuidores europeos.*`,
+35 kg, poco peso para un doble motor de 3.000 W.`,
   },
   {
     slug: "teverun-blade-q",
@@ -1273,11 +1229,7 @@ Unos **20 km**, frente a 30 km declarados.
 El Pro añade doble motor y más batería. Si te tienta la tracción total, el Pro; si no, el Q normal basta y sobra.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, como cualquier VMP.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.teverun.com/>Teverun</a> y distribuidores europeos.*`,
+**Limitado a 25 km/h**, como cualquier VMP.`,
   },
   {
     slug: "teverun-blade-q-pro",
@@ -1362,11 +1314,7 @@ Unos **27 km** en uso mixto con doble motor.
 Tiene más motor y batería, pero también más peso y precio. Para ciudad tranquila, el Q normal basta.
 
 ### ¿Es legal en España?
-Solo **limitado a 25 km/h** como VMP.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.teverun.com/>Teverun</a> y distribuidores europeos.*`,
+Solo **limitado a 25 km/h** como VMP.`,
   },
   // ────────────────────────── INMOTION (6) ─────────────────────────
   {
@@ -1455,11 +1403,7 @@ Sí: **IP55** en el chasis e **IP67** en la batería, por encima de la media.
 Máximo **3,5 bar (50 PSI)** según el manual oficial.
 
 ### ¿Air o Air Pro?
-El Air si priorizas ligereza y precio; el Pro si necesitas sus 48 km de autonomía.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.inmotion-france.fr/en/inmotion-air-pro-electric-scooter>InMotion France</a> y manual oficial de la serie Air.*`,
+El Air si priorizas ligereza y precio; el Pro si necesitas sus 48 km de autonomía.`,
   },
   {
     slug: "inmotion-air-pro",
@@ -1547,11 +1491,7 @@ Unos **32 km** en ciudad.
 **Limitado a 25 km/h**, sí, como VMP.
 
 ### ¿La rueda trasera es maciza?
-Sí: **trasera maciza** (sin pinchazos) y delantera neumática.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.inmotion-france.fr/en/inmotion-air-pro-electric-scooter>InMotion France</a> y manual oficial de la serie Air.*`,
+Sí: **trasera maciza** (sin pinchazos) y delantera neumática.`,
   },
   {
     slug: "inmotion-rs-lite",
@@ -1672,11 +1612,7 @@ Unos **2.999 $** en EE. UU.; en Europa, precio de importador.
 El Midnight tiene más motor (2×2.000 W) y batería (40Ah). El Lite es más barato y algo más manejable.
 
 ### ¿Es legal en España?
-**No** en vía pública. Solo circuito privado.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.voromotors.com/>VoroMotors</a> e InMotion., <a href=https://www.inmotion-france.fr>InMotion France (distribuidor oficial)</a>, <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
+**No** en vía pública. Solo circuito privado.`,
   },
   {
     slug: "inmotion-rs-midnight",
@@ -1797,11 +1733,7 @@ Unos **3.999 $**, más el sobreprecio del importador europeo.
 Está entre los más rápidos de serie, junto al Teverun Supreme y el Nami Burn-e 3 Max.
 
 ### ¿Puedo usarlo en España?
-**No** en vía pública. Solo en circuito privado.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.voromotors.com/>VoroMotors</a> e InMotion., <a href=https://www.inmotionworld.com>InMotion (web oficial)</a>, <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
+**No** en vía pública. Solo en circuito privado.`,
   },
   {
     slug: "inmotion-s1f",
@@ -1926,11 +1858,7 @@ Unos **59 km** en uso mixto.
 InMotion ajusta márgenes y equipamiento: es un patinete honesto sin lujos, con la inversión puesta en batería y motor.
 
 ### ¿S1F o Air Pro?
-El S1F da más autonomía por menos dinero; el Air Pro pesa menos y tiene mejor sellado. Para kilómetros, S1F.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.iroll.co.za/>iRoll</a> e InMotion., <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
+El S1F da más autonomía por menos dinero; el Air Pro pesa menos y tiene mejor sellado. Para kilómetros, S1F.`,
   },
   {
     slug: "inmotion-l9",
@@ -2052,11 +1980,7 @@ Misma batería y motor; el L9 es más eficiente y contenido, el S1F más rápido
 Sí, como VMP **limitado a 25 km/h**.
 
 ### ¿Cuánto pesa?
-**23,9 kg**: ligero para llevar 675 Wh.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.levyelectric.com/>Levy Electric</a> e InMotion., <a href=https://www.inmotion.com/>InMotion (web oficial)</a>, <a href=https://www.dgt.es/>DGT (normativa VMP)</a>*`,
+**23,9 kg**: ligero para llevar 675 Wh.`,
   },
   // ─────────────────────────── HIBOY (7) ──────────────────────────
   {
@@ -2227,10 +2151,6 @@ Sí: su máxima de **20,9 km/h** está dentro del límite de 25 km/h de los VMP.
 ### ¿Para quién NO es?
 
 Para riders de más de 80 kg, rutas de más de 12 km al día o quien quiera un único patinete polivalente. Es un segundo patinete o un complemento del transporte público, no un sustituto del coche.
-
-¿Te han puesto una multa circulando en patinete? <a href=https://recurretumulta.online/#analizador>Comprueba gratis con nuestra IA si la puedes recurrir</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.hiboy.com/>Hiboy</a>, <a href=https://scooter.guide/es/revision-del-scooter-electrico-hiboy-s2-lite/>análisis en Scooter Guide</a>.*
 `,
   },
   {
@@ -2316,11 +2236,7 @@ Unos **50 km** en uso mixto.
 El Max Pro tiene más batería (720 Wh frente a 417 Wh); el KS4 Pro es más ligero y compacto. Para autonomía, Max Pro.
 
 ### ¿Cuánto pesa?
-**23,4 kg**: razonable para su batería.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.hiboy.com/>Hiboy</a>.*`,
+**23,4 kg**: razonable para su batería.`,
   },
   {
     slug: "hiboy-titan",
@@ -2405,11 +2321,7 @@ Unos **50 km** en uso mixto.
 Si valoras la **fiabilidad del motor** y el soporte a largo plazo, sí. Si solo miras la ficha, hay opciones más baratas.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.hiboy.com/>Hiboy</a>.*`,
+**Limitado a 25 km/h**, sí.`,
   },
   {
     slug: "hiboy-ecom-14",
@@ -2480,7 +2392,7 @@ Declara **35 km/h**: en España, **limitado a 25 km/h** para circular legalmente
 | Postura sentada | La cesta limita el plegado |
 | Ideal para recados | Nicho: reventa complicada |
 
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/jinWIpJxhaM title=\"Presentación del Hiboy ECOM 14\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/jinWIpJxhaM title=\\"Presentación del Hiboy ECOM 14\\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 <img src=/media/patinetes/hiboy-ecom-14-3.webp alt=Hiboy ECOM 14 con cesta haciendo la compra>
 
@@ -2499,11 +2411,7 @@ Mucho: **sillín + ruedas de 14"** lo hacen el Hiboy más cómodo para trayectos
 **Limitado a 25 km/h**, sí.
 
 ### ¿Para quién es?
-Para quien hace **recados urbanos** y prefiere ir sentado. Si buscas deportividad, no es tu patinete.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.hiboy.com/>Hiboy</a>.*`,
+Para quien hace **recados urbanos** y prefiere ir sentado. Si buscas deportividad, no es tu patinete.`,
   },
   {
     slug: "hiboy-ve1-pro",
@@ -2588,11 +2496,7 @@ Unos **34 km**.
 **Limitado a 25 km/h**, sí.
 
 ### ¿VE1 Pro o S2?
-El VE1 Pro es más ligero y moderno; el S2 tiene más mercado de repuestos. Para ciudad, VE1 Pro.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.hiboy.com/>Hiboy</a>.*`,
+El VE1 Pro es más ligero y moderno; el S2 tiene más mercado de repuestos. Para ciudad, VE1 Pro.`,
   },
   {
     slug: "hiboy-u2-pro",
@@ -2677,11 +2581,7 @@ Unos **37 km**.
 **Limitado a 25 km/h**, sí.
 
 ### ¿Vale para repartir?
-Sí: **sillín, cesta, 750 W y 55 km** lo hacen apto para reparto urbano ligero.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.hiboy.com/>Hiboy</a>.*`,
+Sí: **sillín, cesta, 750 W y 55 km** lo hacen apto para reparto urbano ligero.`,
   },
   {
     slug: "hiboy-ks4",
@@ -2775,11 +2675,7 @@ El Pro lleva **500 W, 40 km y doble suspensión trasera**. Si el presupuesto lo 
 Desde la **app oficial Hiboy** por Bluetooth.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.hiboy.com/>Hiboy</a> y <a href=https://www.levyelectric.com/resources/hiboy-electric-scooter-complete-guide>Levy Electric</a>.*`,
+**Limitado a 25 km/h**, sí.`,
   },
   // ────────────────────────── ISCOOTER (6) ─────────────────────────
   {
@@ -2865,11 +2761,7 @@ Unos **13 km**.
 Para **trayectos de 3-4 km** o como primer patinete barato.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.iscooterglobal.co.uk/>iScooter UK</a>.*`,
+**Limitado a 25 km/h**, sí.`,
   },
   {
     slug: "iscooter-i10-plus",
@@ -2954,11 +2846,7 @@ Unos **34 km**.
 El iX4 tiene enfoque off-road y más batería (48V); el i10 Plus es más urbano y ligero.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.iscooterglobal.co.uk/>iScooter UK</a>.*`,
+**Limitado a 25 km/h**, sí.`,
   },
   {
     slug: "iscooter-ix4",
@@ -3042,11 +2930,7 @@ Unos **28 km**, menos en tierra.
 El iX5S tiene más motor (1.000 W), más carga máxima y mejor suspensión. Si el presupuesto llega, iX5S.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h** en vía pública, sí.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.iscooterglobal.co.uk/>iScooter UK</a>.*`,
+**Limitado a 25 km/h** en vía pública, sí.`,
   },
   {
     slug: "iscooter-ix5s",
@@ -3209,8 +3093,6 @@ Sí: ruedas de **11" con taco**, doble suspensión y 1.000 W lo hacen apto para 
 
 El iX5S es monomotor de 1.000 W enfocado a fuerza y carga; el <a href=/blog/iscooter-ix7-pro/>iX7 Pro</a> es doble motor (2 × 1.000 W) para quien quiere tracción total. Para la mayoría, el iX5S basta y sobra.
 
-¿Una multa con el patinete? <a href=https://recurretumulta.online/#analizador>Échale un vistazo con el analizador sin coste de nuestra IA</a> y decide con criterio antes de pagar.
-
 
 ## Colores, versiones y qué incluye la caja
 
@@ -3229,8 +3111,6 @@ No es su filosofía: el iX5S es un patinete "de pie" todoterreno. iScooter tiene
 ### ¿Qué garantía tiene?
 
 La tienda europea oficial ofrece **12 meses** de garantía y 30 días de devolución, con soporte técnico propio. Guarda la factura: sin ella, reclamar es complicado.
-
-*Fuentes: <a href=https://www.iscooterglobal.eu/es/products/scooter-electrico-todoterreno-iscooter-ix5s-1000w>ficha oficial en iScooter EU</a>.*
 `,
   },
   {
@@ -3302,7 +3182,7 @@ Con **60 km/h**, ni se plantea en vía pública española sin limitar: **25 km/h
 | Buena iluminación | Acabados no premium |
 | El doble motor más barato | Servicio según vendedor |
 
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/oJUqK9DHOhg title=\"Prueba del iScooter iX7 Pro\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/oJUqK9DHOhg title=\\"Prueba del iScooter iX7 Pro\\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 <img src=/media/patinetes/iscooter-ix7-pro-3.webp alt=iScooter iX7 Pro en acción>
 
@@ -3321,11 +3201,7 @@ Unos **54 km** con la batería grande.
 **Limitado a 25 km/h**, sí.
 
 ### ¿Merece la pena?
-Si quieres **tracción total gastando poco**, sí. Si buscas acabados, mira más arriba.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.iscooterglobal.co.uk/>iScooter UK</a>.*`,
+Si quieres **tracción total gastando poco**, sí. Si buscas acabados, mira más arriba.`,
   },
   {
     slug: "iscooter-ix8",
@@ -3396,7 +3272,7 @@ Con **60 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Pro
 | Hidráulicos + E-ABS e intermitentes | Plegado voluminoso |
 | 150 kg de carga | Menos red de talleres que Xiaomi |
 
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/heS1cCROABo title=\"Prueba del iScooter iX8\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/heS1cCROABo title=\\"Prueba del iScooter iX8\\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 <img src=/media/patinetes/iscooter-ix8-3.webp alt=iScooter iX8 con sus ruedas de 12 pulgadas en el campo>
 
@@ -3415,11 +3291,7 @@ Unos **45 km**.
 **8-10 horas** con el cargador de serie.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.iscooterglobal.eu/products/iscooter-ix8-2400w-off-road-electric-scooter>iScooter EU</a>.*`,
+**Limitado a 25 km/h**, sí.`,
   },
   // ────────────────────────── KUKIRIN (7) ─────────────────────────
   {
@@ -3491,7 +3363,7 @@ Con **55 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Pro
 | Gran comunidad y repuestos | Cargador lento |
 | Precio estable en la UE | App mejorable |
 
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/GbJByObfUe4 title=\"Prueba del KuKirin G2 Max\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/GbJByObfUe4 title=\\"Prueba del KuKirin G2 Max\\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 <img src=/media/patinetes/kukirin-g2-max-3.webp alt=KuKirin G2 Max en carretera secundaria>
 
@@ -3510,11 +3382,7 @@ El Max tiene más batería (20Ah); el Pro es más ligero. Para autonomía, Max.
 **Limitado a 25 km/h**, sí.
 
 ### ¿Pesa mucho?
-**31 kg**: no es para subirlo a diario por escaleras.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://eu-kukirin.com/>KuKirin EU</a>.*`,
+**31 kg**: no es para subirlo a diario por escaleras.`,
   },
   {
     slug: "kukirin-g4",
@@ -3608,11 +3476,7 @@ Para ciudad a 25 km/h, sí: sobra. Para circuito o vías privadas, es su hábita
 El G4 es más potente y rápido; el G2 Max tiene más autonomía y es más barato. Potencia: G4. Equilibrio: G2 Max.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://eu-kukirin.com/>KuKirin EU</a>.*`,
+**Limitado a 25 km/h**, sí.`,
   },
   {
     slug: "kukirin-m4-max",
@@ -3697,11 +3561,7 @@ Unos **43 km**.
 El Pro tiene más de todo por poco más. Si el presupuesto es ajustado, el Max es imbatible.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://eu-kukirin.com/>KuKirin EU</a>.*`,
+**Limitado a 25 km/h**, sí.`,
   },
   {
     slug: "kukirin-a1",
@@ -3818,11 +3678,7 @@ Unos **30 km**.
 El M4 Max tiene más batería (874 Wh) y cuesta poco más. Si haces más de 15 km al día, M4 Max.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://eu-kukirin.com/>KuKirin EU</a>.*`,
+**Limitado a 25 km/h**, sí.`,
   },
   {
     slug: "kukirin-s1-max",
@@ -3907,11 +3763,7 @@ Unos **26 km**.
 Sí: **honeycomb de 8"**, sin pinchazos.
 
 ### ¿Para quién es?
-Para **ciudad llana y trayectos cortos**: estudiantes y commuters ligeros.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://eu-kukirin.com/>KuKirin EU</a>.*`,
+Para **ciudad llana y trayectos cortos**: estudiantes y commuters ligeros.`,
   },
   {
     slug: "kukirin-g2-ultra",
@@ -4001,11 +3853,7 @@ El Ultra: tracción total y tecnología. El Max: más autonomía y menos precio.
 **2,2-2,3 bar** (220-230 kPa) según el manual.
 
 ### ¿Es legal en España?
-**Limitado a 25 km/h**, sí.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://eu-kukirin.com/>KuKirin EU</a>.*`,
+**Limitado a 25 km/h**, sí.`,
   },
   {
     slug: "kukirin-m5-pro",
@@ -4093,11 +3941,7 @@ Mucho: **sillín + suspensión de cuatro brazos** lo hacen el KuKirin más cómo
 **Limitado a 25 km/h**, sí: el sillín no cambia su categoría VMP.
 
 ### ¿Para quién es?
-Para quien quiere ir **sentado** y hacer kilómetros sin cansarse.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://eu-kukirin.com/>KuKirin EU</a>.*`,
+Para quien quiere ir **sentado** y hacer kilómetros sin cansarse.`,
   },
   // ────────────────────────── JOYOR (6) ─────────────────────────
   {
@@ -4183,11 +4027,7 @@ Más **estabilidad y comodidad** en baches y firmes irregulares.
 **Limitado a 25 km/h**, sí.
 
 ### ¿Para quién es?
-Para **ruteros largos** que quieren autonomía por encima de todo.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://joyor.com/>Joyor oficial</a>, <a href=https://www.electricscooterguides.com/>Electric Scooter Guides</a>.*`,
+Para **ruteros largos** que quieren autonomía por encima de todo.`,
   },
   {
     slug: "joyor-lr10",
@@ -4333,8 +4173,6 @@ No con ese nombre: la gama actual equivalente es el **S10-S-Z**, con la misma co
 
 El estado de la **batería** (pide prueba de autonomía), el desgaste de los neumáticos de taco y que los dos motores respondan sin ruidos extraños.
 
-¿Denuncia con el patinete? <a href=https://recurretumulta.online/#analizador>Consulta gratis a nuestra IA</a> si esa sanción tiene recurso.
-
 
 ## Sensaciones: qué se siente en un 2.000 W
 
@@ -4353,8 +4191,6 @@ Varias horas (toda la noche con el cargador de serie). Es el peaje de tanta capa
 ### ¿Pesa mucho?
 
 Sí: es un doble motor con batería enorme. No es un patinete para llevarlo en la mano a diario.
-
-*Fuentes: <a href=https://joyor.com/>web oficial de Joyor</a>, <a href=https://www.electricscooterguides.com/>Electric Scooter Guide</a>.*
 `,
   },
   {
@@ -4440,11 +4276,7 @@ Unos **60 km**.
 En España, **Y10**: certificado DGT y 25 km/h. El S5 Pro tiene sentido si buscas el precio más bajo.
 
 ### ¿Por qué solo 20 km/h?
-Es el **límite legal alemán** (ABE): Joyor lo diseñó para ese mercado.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://joyor.com/>Joyor oficial</a>.*`,
+Es el **límite legal alemán** (ABE): Joyor lo diseñó para ese mercado.`,
   },
   {
     slug: "joyor-t10",
@@ -4515,7 +4347,7 @@ Con **60 km/h**, en España debe ir **limitado a 25 km/h** en vía pública. Tod
 | Doble motor más barato en España | Autonomía a fondo: 30 km |
 | Suspensión completa | Peso elevado |
 
-<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/3kMYdgS49pY title=\"Prueba del Joyor T10\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
+<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/3kMYdgS49pY title=\\"Prueba del Joyor T10\\" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>
 
 <img src=/media/patinetes/joyor-t10-3.webp alt=Joyor T10 en acción>
 
@@ -4534,11 +4366,7 @@ El LR10 tiene más autonomía (92 km declarados) y era más caro. El T10 es la *
 **Limitado a 25 km/h**, sí.
 
 ### ¿Para quién es?
-Para quien quiere **doble motor gastando poco** y tiene red de Joyor cerca.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://joyor.com/>Joyor oficial</a>.*`,
+Para quien quiere **doble motor gastando poco** y tiene red de Joyor cerca.`,
   },
   {
     slug: "joyor-s10-s-z",
@@ -4625,10 +4453,6 @@ El S10-S-Z es más **urbano y barato** (609 €); el T10 aguanta **más carga** 
 **Limitado a 25 km/h**, sí.
 
 ### ¿Cuánto pesa?
-El peso oficial no está publicado, pero como todo doble motor es **elevado**: ténlo en cuenta para cargarlo y transportarlo.
-
-¿Te han multado con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://joyor.com/>Joyor oficial</a>.*`,
+El peso oficial no está publicado, pero como todo doble motor es **elevado**: ténlo en cuenta para cargarlo y transportarlo.`,
   },
 ];

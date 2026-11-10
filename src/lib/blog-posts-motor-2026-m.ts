@@ -65,8 +65,6 @@ Hasta **1.008 km en ciclo CLTC** en las versiones de tracción trasera (la prens
 
 ### ¿Cuánto cuesta el BYD Great Han?
 En preventa china, de **249.900 a 299.900 yuanes**. No hay precio para España porque no se vende en Europa.
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
 },
 {

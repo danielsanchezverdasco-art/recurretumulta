@@ -92,8 +92,6 @@ Leapmotor es una marca china fundada en 2015. Stellantis compró el 21 % en 2023
 ### ¿Merece la pena frente al BYD Atto 3?
 El C10 es más grande (4,74 m) y más barato, pero el Atto 3 tiene una marca más asentada en España y mejor red de servicio. Depende de cuánto valores el precio frente a la tranquilidad.
 
-Con 218 CV bajo el pie derecho, conviene recordar que la velocidad tiene consecuencias: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
 Fuente oficial: <a href=https://www.leapmotor.com/es>web oficial de Leapmotor</a>.`
   },
   {
@@ -177,7 +175,7 @@ Sí, al ser 100 % eléctrico. <a href=/calculadora-etiqueta-dgt/>Calcula aquí l
 ### ¿Es mejor que el Dacia Spring?
 El T03 ofrece más autonomía (265 km frente a 225 km) y fue premiado como urbano del año; el Spring es algo más barato y tiene la red Dacia detrás. Empate técnico según prioridades.
 
-Si te mueves por ciudad con él, recuerda: los radares urbanos también multan. Si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+Si te mueves por ciudad con él, recuerda: los radares urbanos también multan.
 
 Fuente oficial: <a href=https://www.leapmotor.com/es>web oficial de Leapmotor</a>.`
   },
@@ -267,8 +265,6 @@ Ambas pertenecen al grupo chino Geely. El 02 comparte plataforma con el Volvo EX
 ### ¿Merece la pena frente al Volvo EX30?
 Misma base técnica y 272 CV, pero el 02 es más barato. El EX30 tiene más autonomía y la red Volvo detrás.
 
-Con 272 CV y 5,5 s en el 0-100, es fácil pasarse sin darse cuenta: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
 Fuente oficial: <a href=https://www.lynkco.com/es-es>web oficial de Lynk & Co</a>.`
   },
   {
@@ -353,8 +349,6 @@ El MG ZS es el SUV más vendido del país y uno de los turismos más matriculado
 
 ### ¿Merece la pena frente al Toyota Yaris Cross?
 El ZS ofrece 60 CV más por unos 8.000 € menos. El Yaris Cross gasta algo menos y tiene la fiabilidad Toyota como aval. Cuestión de prioridades.
-
-Aunque sea un híbrido eficiente, los 194 CV invitan a apretar: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
 Fuente oficial: <a href=https://mgmotor.es>web oficial de MG</a>.`
   },
@@ -446,8 +440,6 @@ El 0,7 l/100 km es la cifra ponderada WLTP cargando a diario. Con la batería ag
 
 ### ¿Merece la pena frente al BYD Seal U DM-i?
 El Jaecoo es más potente (279 CV frente a 218) y más barato con promociones; el BYD ofrece más autonomía eléctrica (125 km) y una marca más asentada.
-
-Con 279 CV es fácil superar los límites sin darte cuenta: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
 Fuente oficial: <a href=https://www.jaecoo.es>web oficial de Jaecoo</a>.`
   },
@@ -579,8 +571,6 @@ Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la et
 ### ¿Qué es KGM?
 Es el nuevo nombre de SsangYong tras su compra por el grupo coreano KG en 2023.
 
-Aunque sea familiar, 207 CV dan para alegrías: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
 Fuente oficial: <a href=https://kgm.com.es>web oficial de KGM</a>.`
   },
   {
@@ -707,8 +697,6 @@ Sí. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualqui
 ### ¿Merece la pena frente al Toyota RAV4?
 El Actyon es más barato y tiene más maletero; el RAV4 ofrece la fiabilidad Toyota y mejor valor de reventa. El MG HS Hybrid+ es su rival chino más directo.
 
-Con 204 CV y línea coupé, apetece conducirlo con alegría: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
 Fuente oficial: <a href=https://kgm.com.es>web oficial de KGM</a>.`
   },
   {
@@ -795,8 +783,6 @@ En la Zona Franca de Barcelona, en la antigua planta de Nissan.
 
 ### ¿El Ebro S800 tiene etiqueta CERO?
 Sí. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
-
-279 CV en un 7 plazas familiar también dan para despistes con el acelerador: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
 Fuente oficial: <a href=https://www.ebro.es>web oficial de Ebro</a>.`
   },
@@ -885,8 +871,6 @@ En la Zona Franca de Barcelona, en la antigua fábrica de Nissan.
 
 ### ¿Merece la pena frente al MG ZS Hybrid+?
 Con campaña, el S400 es más potente y más barato. El MG tiene la ventaja de ser el SUV más vendido de España, con red consolidada.
-
-211 CV por menos de 20.000 € tientan a cualquiera: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
 Fuente oficial: <a href=https://www.ebro.es>web oficial de Ebro</a>.`
   },
@@ -977,8 +961,6 @@ Sí. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualqui
 ### ¿Merece la pena frente al Ebro S800?
 El E5 es mucho más barato y también tiene 7 plazas; el S800 ofrece más potencia (279 CV), más autonomía eléctrica (90 km) y carga rápida en DC.
 
-Un 7 plazas de 217 CV también se mueve con soltura: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
 Fuente oficial: <a href=https://www.dfskmotors.es>web oficial de DFSK</a>.`
   },
   {
@@ -1063,8 +1045,6 @@ Sí: E5 es el nombre comercial en algunos mercados del mismo Omoda 5 eléctrico.
 
 ### ¿Merece la pena frente al Leapmotor C10?
 El C10 es más grande y barato; el Omoda 5 EV tiene un diseño más llamativo y carga algo más rápida. El Kia EV3 es la alternativa «segura» coreana.
-
-211 CV en un SUV compacto invitan a disfrutar: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
 Fuente oficial: <a href=https://www.omodaoficial.es>web oficial de Omoda</a>.`
   },
@@ -1187,11 +1167,7 @@ Aún no: el P7+ **no ha sido probado por EuroNCAP**. El 5 estrellas de 2023 es d
 Si priorizas **espacio, maletero y velocidad de carga**, sí: es más grande y carga más rápido. Si priorizas red de servicio y valor de reventa, el Model 3 sigue por delante. <a href=/comparador-coches/>Compáralos cara a cara</a>.
 
 ### ¿Dónde ver todos los datos?
-En la <a href=/coches/xpeng-p7-electrico-precio-ficha-tecnica/>ficha técnica completa del XPeng P7+</a>: precio, medidas, consumos y comparativas.
-
-¿Te ha llegado una denuncia de tráfico? <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: precios y versiones según <a href=https://www.hibridosyelectricos.com/coches/xpeng-p7-precio-medidas-motor-interior-maletero_86676_102.html>Híbridos y Eléctricos</a> y <a href=https://elperiodicodelaenergia.com/xpeng-abre-pedidos-en-espana-del-p7-su-nueva-berlina-electrica-con-hasta-530-km-de-autonomia/>El Periódico de la Energía</a>; datos técnicos de la <a href=/coches/xpeng-p7-electrico-precio-ficha-tecnica/>ficha técnica del XPeng P7+</a>.*`
+En la <a href=/coches/xpeng-p7-electrico-precio-ficha-tecnica/>ficha técnica completa del XPeng P7+</a>: precio, medidas, consumos y comparativas.`
   },
   {
     title: "Fiat Grande Panda: 320 km",
@@ -1279,8 +1255,6 @@ Sí. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualqui
 ### ¿Merece la pena frente al Citroën ë-C3?
 Son primos técnicos (misma plataforma Stellantis) con idéntica autonomía. El Panda gana en diseño; el ë-C3 suele ser algo más barato.
 
-Urbano y eléctrico, pero los radares de ciudad no perdonan: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
 Fuente oficial: <a href=https://www.fiat.es>web oficial de Fiat</a>.`
   },
   {
@@ -1363,8 +1337,6 @@ La MEB del grupo Volkswagen, compartida con el VW ID.4 o el Audi Q4 e-tron.
 
 ### ¿Merece la pena frente al Kia EV3?
 El Elroq es casi 7.000 € más barato con autonomía similar; el EV3 gasta menos y tiene un diseño más llamativo. El KGM Torres EVX ofrece más autonomía por poco más.
-
-Familiar y sensato, pero 204 CV también empujan: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
 Fuente oficial: <a href=https://www.skoda.es>web oficial de Skoda</a>.`
   },
@@ -1488,8 +1460,6 @@ Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la et
 ### ¿Merece la pena frente al Skoda Elroq?
 El Elroq es 7.000 € más barato; el EV3 gasta menos, tiene versión de 605 km y un interior más moderno. Duelo coreano-checo muy igualado.
 
-Eficiente pero con 204 CV bajo el pie: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
 Fuente oficial: <a href=https://www.kia.com/es>web oficial de Kia</a> y <a href=https://euroncap.blob.core.windows.net/media/87671/euroncap-kia-ev3-kia-ev3-datasheet.pdf>resultados Euro NCAP del Kia EV3 (2025)</a>.`
   },
   {
@@ -1577,8 +1547,6 @@ Sí, es 100 % eléctrico. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la et
 
 ### ¿Merece la pena frente al Leapmotor T03?
 El Inster ofrece más autonomía (327 km) y la garantía Hyundai; el T03 es 6.500 € más barato. El Grande Panda añade una quinta plaza por menos dinero.
-
-Pequeño pero matón en ciudad: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
 Fuente oficial: <a href=https://www.hyundai.com/es>web oficial de Hyundai</a>.`
   },
@@ -1669,8 +1637,6 @@ Sí, la versión eléctrica. El híbrido lleva etiqueta ECO. <a href=/calculador
 ### ¿Merece la pena frente al Opel Frontera Electric?
 Son primos técnicos (misma plataforma Stellantis). El Frontera ofrece 406 km y carga rápida de 100 kW por 2.300 € más; el Citroën gana en confort y precio.
 
-Familiar y tranquilo, pero hasta 113 CV pueden despistarte en un adelantamiento: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
 Fuente oficial: <a href=https://www.citroen.es>web oficial de Citroën</a>.`
   },
   {
@@ -1758,8 +1724,6 @@ Sí. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualqui
 
 ### ¿Merece la pena frente al Citroën e-C3 Aircross?
 Misma plataforma y maletero (460 L). El Frontera carga a 100 kW y ofrece 12 km más de autonomía por 2.300 € extra; el Citroën es más barato y confortable.
-
-El más tranquilo de la lista, pero hasta en un 14,2 s en el 0-100 hay radares: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
 Fuente oficial: <a href=https://www.opel.es>web oficial de Opel</a>.`
   },
@@ -1870,10 +1834,6 @@ No: es un híbrido enchufable (PHEV). Tiene unos 150 km de autonomía eléctrica
 
 ### ¿El Jetour G700 puede circular por agua?
 Sí: anuncia 970 mm de vadeo y en China demostró su capacidad cruzando el río Yangtsé.
-
-Fuentes: <a href=https://noticias.autocosmos.com.ar/2026/10/02/jetour-anticipa-el-g700-en-argentina>Autocosmos Argentina</a>, <a href=https://www.marketingregistrado.com/noticias/2026/jetour-anticipa-exclusiva-modelo-g700-extiende-campana-jetour-season-expo-auto-chino-46424/amp>Marketing Registrado</a>, <a href=https://automundo.com.ar/expo-auto-chino-2026-autos-lanzamientos-novedades/>Automundo</a>, <a href=https://www.thesupercarblog.com/900-hp-chery-jetour-g700-modern-rugged-suv-launched-at-under-50k/>The Supercar Blog</a>, <a href=https://www.pakwheels.com/blog/jetour-g700-2027-launched-in-china-with-huawei-ads-5-0-and-892-hp/>PakWheels</a>.
-
-Con 903 CV hasta el trayecto al campo tiene radares: si te llega una <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
 Fuente oficial: <a href=https://www.jetour.es>web oficial de Jetour</a>.`
   },

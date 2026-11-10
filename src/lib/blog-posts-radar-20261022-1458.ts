@@ -89,11 +89,7 @@ La producción arrancó en julio de 2026 en Dingolfing y las primeras unidades e
 
 ### ¿Qué garantía tiene la batería del BMW i7?
 
-BMW aplica su garantía estándar de batería de alto voltaje: **8 años o 160.000 km**. La garantía general del vehículo en España es de 2 años.
-
-*Fuentes: <a href=https://www.noticiasde.es/espana/el-bmw-serie-7-se-estrena-en-espana-con-una-nueva-version-que-ofrece-una-autonomia-de-700-kilometros-y-tecnologia-innovadora/>noticiasde.es</a>, <a href=https://movilidadelectrica.com/nuevo-serie-7-bmw-acapara-elogios-promete-mas-700-km-autonomia-versiones-electricas/>movilidadelectrica.com</a>, <a href=https://pruebascoches.com/el-bmw-serie-7-se-actualiza-hasta-728-km-wltp-pantalla-trasera-8k-y-precios-desde-121-400-euros/>pruebascoches.com</a>, <a href=https://carnovo.com/es/guias/bmw-serie-7-2027/>carnovo.com (precios España)</a>, <a href=https://www.youtube.com/@carwow>Carwow UK (vídeo 21/10/2026)</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+BMW aplica su garantía estándar de batería de alto voltaje: **8 años o 160.000 km**. La garantía general del vehículo en España es de 2 años.`,
   },
   {
     slug: "lexus-tz-espana-precio-88-000-euros-2026",
@@ -174,11 +170,7 @@ Sí, las dos versiones llevan el sistema **DIRECT4** de tracción total eléctri
 
 ### ¿Qué rivales tiene el Lexus TZ?
 
-Por tamaño y planteamiento compite con el **BMW iX**, el **Mercedes EQE SUV** y el **Kia EV9**, el otro gran SUV eléctrico de 6-7 plazas del mercado.
-
-*Fuentes: <a href=https://www.hibridosyelectricos.com/coches/nuevo-coche-electrico-lexus-ya-se-vende-en-espana-con-6-asientos-540-km-autonomia-precio-minimo-88000_90087_102.html>hibridosyelectricos.com (22/10/2026)</a>, <a href=https://newsroom.lexus.eu/lexus-unveils-the-tz-an-all-new-all-electric-six-seat-suv/>nota de prensa oficial Lexus</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+Por tamaño y planteamiento compite con el **BMW iX**, el **Mercedes EQE SUV** y el **Kia EV9**, el otro gran SUV eléctrico de 6-7 plazas del mercado.`,
   },
   {
     slug: "omoda-x-prototipo-presentacion-wuhu-2026",
@@ -257,11 +249,7 @@ Un sensor que detecta fuentes de calor (personas, animales, obstáculos) hasta a
 
 ### ¿El Omoda X se venderá en España?
 
-Omoda lo define como un **producto global**, así que es probable que llegue a Europa. Aún no hay confirmación oficial de mercados ni fechas.
-
-*Fuentes: <a href=https://forococheselectricos.com/noticias/omoda-x-20261022-42538.html>forococheselectricos.com (22/10/2026)</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+Omoda lo define como un **producto global**, así que es probable que llegue a Europa. Aún no hay confirmación oficial de mercados ni fechas.`,
   },
   {
     slug: "lexus-lfa-ev-espia-espana-prototipo-2027",

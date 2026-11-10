@@ -65,9 +65,9 @@ Limitar sus importaciones con **cuotas**: por encima de un volumen fijado se pag
 Si las cuotas se aprueban, **sí**: el arancel encarecería los PHEV chinos que hoy compiten por precio (Omoda, Jaecoo, BYD). Aún no hay fechas ni volúmenes oficiales.
 
 ### ¿Qué coches híbridos chinos se venden en España?
-Los principales son el **Omoda 9 SHS**, el **Jaecoo 7 SHS** y el **BYD Seal U DM-i** (enchufables, etiqueta Cero) y el **MG HS Hybrid+** (híbrido convencional, etiqueta ECO).\\n\\n*Actualización: la serie continúa con la tercera entrega, que fija el cupo en 350.000 híbridos chinos al año: <a href=/blog/cuotas-hibridos-chinos-ue-china-2026/>Cuota de 350.000 híbridos chinos: qué cambia en España</a>.*
+Los principales son el **Omoda 9 SHS**, el **Jaecoo 7 SHS** y el **BYD Seal U DM-i** (enchufables, etiqueta Cero) y el **MG HS Hybrid+** (híbrido convencional, etiqueta ECO).
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
+*Actualización: la serie continúa con la tercera entrega, que fija el cupo en 350.000 híbridos chinos al año: <a href=/blog/cuotas-hibridos-chinos-ue-china-2026/>Cuota de 350.000 híbridos chinos: qué cambia en España</a>.*
 `,
 },
 {
@@ -132,8 +132,6 @@ La inversión abarca el periodo 2026-2030; la nueva etapa industrial estrenará 
 
 ### ¿Qué cantidad destinará Renault a España?
 La cuantía es de 600 millones de euros para 2026-2030, con fondos propios del grupo y ayudas públicas: nacionales, del PERTE, y regionales.
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
 },
 {
@@ -206,8 +204,6 @@ Los pedidos se abren a **principios de 2027** y las primeras entregas están pre
 
 ### ¿Qué autonomía tiene el Jaguar Type 01?
 Hasta **720 km WLTP** según Jaguar, aunque la cifra está pendiente de homologación final.
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
 },
 {
@@ -307,12 +303,7 @@ El **9 de octubre de 2026**; llegará a los concesionarios europeos a principios
 Sí: sustituye a los **ID.4 e ID.5**, aunque convivirá con el Tiguan de combustión y el híbrido.
 
 ### ¿Cuánto costará el ID.Tiguan en España?
-Aún **sin confirmar**: Volkswagen no ha publicado precios. Se esperan en el estreno o poco después.
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-
-
-*Fuentes: <a href=https://www.volkswagen.es>Volkswagen España (web oficial)</a>, <a href=https://www.euroncap.com>Euro NCAP</a>*`,
+Aún **sin confirmar**: Volkswagen no ha publicado precios. Se esperan en el estreno o poco después.`,
 },
 {
   title: "VW ID. Polo GTI eléctrico: 226 CV y ≈39.000 €",
@@ -442,8 +433,6 @@ Debuta en el Salón de París el **12 de octubre de 2026** y los pedidos se abre
 
 ### ¿Qué motores tiene el Dacia Striker?
 Tres: **Hybrid 155** (153 CV), **Hybrid 150 4x4** (150 CV con tracción total) y **BiFuel-G 140** de GLP con hasta 1.500 km de autonomía.
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
 },
 ];

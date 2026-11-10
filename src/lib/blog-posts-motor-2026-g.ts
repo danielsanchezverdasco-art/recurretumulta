@@ -79,10 +79,7 @@ El crecimiento depende en buena parte de las ayudas: ANFAC reclama mantener el <
 El **BYD Dolphin Surf** es tercero del acumulado anual con 4.334 unidades y el **BYD Atto 2** suma 3.175: el urbano barato chino ya es mainstream en España.
 
 ### ¿Cómo le va a Tesla en Europa en 2026?
-Tesla anunció 486.532 entregas en el tercer trimestre de 2026, por encima del consenso, y en Europa sus matriculaciones de enero a agosto subieron cerca de dos tercios interanual según ACEA.
-
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Tesla anunció 486.532 entregas en el tercer trimestre de 2026, por encima del consenso, y en Europa sus matriculaciones de enero a agosto subieron cerca de dos tercios interanual según ACEA.`,
   },
   {
     title: "NIU NQi Sport: scooter eléctrico con 130 km por 1.999 €",
@@ -160,10 +157,7 @@ Las familias **NQi** (Sport y GTS renovadas), **FQiX** (nueva plataforma de dise
 Navegación con Google Maps integrada, radar trasero de ángulo muerto, ABS, pantalla TFT de 5 pulgadas, control de tracción y la interfaz NIU Link Crown.
 
 ### ¿Dónde se pueden comprar en España?
-NIU declara 25 puntos de venta entre España y Portugal y unas 300 unidades vendidas a particulares en 2026, con una cuota del 6,5%.
-
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+NIU declara 25 puntos de venta entre España y Portugal y unas 300 unidades vendidas a particulares en 2026, con una cuota del 6,5%.`,
   },
   {
     title: "Flying Flea C6: la eléctrica de Royal Enfield por 5.990 €",
@@ -245,9 +239,6 @@ Las primeras entregas arrancan en **octubre de 2026** en cinco ciudades europeas
 Del 20 al 80% en unos 65 minutos en una toma convencional.
 
 ### ¿Qué la diferencia de otras motos eléctricas de 6.000 €?
-Su estética clásica con horquilla Girder de aluminio forjado, los 115 km/h de velocidad máxima, solo 124 kg de peso, el ABS en curva y el premio Red Dot Award 2025 de diseño.
-
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Su estética clásica con horquilla Girder de aluminio forjado, los 115 km/h de velocidad máxima, solo 124 kg de peso, el ABS en curva y el premio Red Dot Award 2025 de diseño.`,
   },
 ];

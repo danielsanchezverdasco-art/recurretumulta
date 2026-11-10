@@ -136,11 +136,7 @@ Con 250 W, las cuestas pronunciadas se le atragantan si pesas más de 75 kg.
 No hay app oficial documentada para este modelo.
 
 ### ¿Merece la pena frente al M3 Pro?
-Si tu presupuesto es mínimo, el M1 Elite vale. Si puedes estirarte, el M3 Pro añade 350 W, amortiguadores y mejores luces.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.gleeride.com/products/bogist-m1-elite-8-5-folding-electric-scooter-250w-motor-36v-7-8ah-battery>ficha del M1 Elite en Gleeride</a>., <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/matricular-un-vehiculo/inscripcion-vmp/>Dirección General de Tráfico (DGT), inscripción de VMP</a>*`,
+Si tu presupuesto es mínimo, el M1 Elite vale. Si puedes estirarte, el M3 Pro añade 350 W, amortiguadores y mejores luces.`,
   },
   {
     slug: "bogist-m3-pro",
@@ -258,11 +254,7 @@ Sí: son **macizas tipo honeycomb**, no pinchan nunca.
 Limitado a 25 km/h y fuera de las aceras, sí.
 
 ### ¿Merece la pena?
-Como segundo patinete o para ciudad llana, sí. Para uso intensivo, mira el M5 Pro.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.priceboon.com/product/bogist-m3-pro/>prueba del M3 Pro en Priceboon</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*`,
+Como segundo patinete o para ciudad llana, sí. Para uso intensivo, mira el M5 Pro.`,
   },
   {
     slug: "bogist-c1-pro",
@@ -383,11 +375,7 @@ Declara 40 km; calcula **unos 27 km** en uso mixto.
 Sí: certificación **IP65**.
 
 ### ¿Merece la pena frente al M5 Pro?
-El C1 Pro es más potente y ligero; el M5 Pro tiene más batería y cesta. Depende de si priorizas potencia o autonomía.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://karrotmarket.com/ca/buy-sell/s59bshgcnzq4/>ficha del C1 Pro en Karrot</a> y <a href=https://www.youtube.com/watch?v=FHz7DxgRb38>análisis en vídeo</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*`,
+El C1 Pro es más potente y ligero; el M5 Pro tiene más batería y cesta. Depende de si priorizas potencia o autonomía.`,
   },
   {
     slug: "bogist-m5-pro",
@@ -522,11 +510,7 @@ Solo **limitado a 25 km/h**. De serie (40 km/h) no cumple la normativa VMP.
 Sí, con **respaldo**, además de **cesta trasera**.
 
 ### ¿Merece la pena frente al M5 Pro S?
-El Pro S tiene más batería (720 Wh); el Pro normal suele ser más barato. Si la diferencia es pequeña, el S compensa.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.electricscooterguides.com/resources/bogist-m5-pro-electric-scooter-review-a-comprehensive-analysis>análisis en ElectricScooterGuides</a>., <a href=https://www.dgt.es>normativa de vehículos de movilidad personal de la DGT</a>*`,
+El Pro S tiene más batería (720 Wh); el Pro normal suele ser más barato. Si la diferencia es pequeña, el S compensa.`,
   },
   {
     slug: "bogist-m5-pro-s",
@@ -547,7 +531,7 @@ El Pro S tiene más batería (720 Wh); el Pro normal suele ser más barato. Si l
       "bogist m5 pro s autonomía",
       "patinete con sillín barato",
     ],
-    content: `<img src=/media/patinetes/bogist-m5-pro-s-1.webp alt=Bogist M5 Pro S negro, vista lateral completa del patinete>\n\n**¿Buscas solo los datos?** <a href=/patinetes/bogist-m5-pro-s/>Ver ficha técnica del Bogist M5 Pro S</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.\n\nEl **Bogist M5 Pro S** es la evolución del M5 Pro: misma filosofía de minimoto con sillín, pero con batería de **48 V y 15 Ah (720 Wh)**, **40 km** de autonomía y ruedas **neumáticas de 12,5 pulgadas** con dibujo especial. En Francia se vendió por **429 €** (<a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>Geekmaxi</a> lo probó a fondo).\n\n## Ficha técnica resumida\n\n| Dato | Valor |\n|---|---|\n| **Precio** | 429 € |\n| **Motor** | 500 W |\n| **Batería** | 48V 15Ah (720 Wh) |\n| **Autonomía declarada** | 40 km |\n| **Autonomía real estimada** | ≈27 km |\n| **Velocidad máxima** | ≈50 km/h |\n| **Peso** | 24,2 kg |\n| **Carga máxima** | 120 kg |\n| **Ruedas** | 12,5" neumáticas |\n| **Frenos** | Doble disco |\n\n¿Quieres el detalle completo? <a href=/patinetes/bogist-m5-pro-s/>Ficha técnica completa del Bogist M5 Pro S</a> con todos los datos verificados.\n\n## Precio del Bogist M5 Pro S en España\n\n**429 €** fue el precio de oferta en Francia; en España se mueve en ese entorno en distribuidores. Por 720 Wh con sillín y doble disco, no tiene rival directo.\n\n<img src=/media/patinetes/bogist-m5-pro-s-2.webp alt=Detalle de la plataforma rígida y el neumático de 12,5 pulgadas del Bogist M5 Pro S>\n\n## Autonomía real vs declarada\n\nDeclara **40 km** con sus 720 Wh. En uso realista (sillín, 500 W, peso medio), espera **25-30 km**: una semana de desplazamientos cortos sin enchufar.\n\n## Frenos y neumáticos\n\n**Doble disco** y neumáticos de **12,5 pulgadas** con dibujo específico que mejora agarre y frenada. La plataforma rígida prima ligereza y maniobrabilidad frente al Pro normal.\n\n## Certificado DGT y normativa VMP\n\nSin certificado DGT verificado. Su punta de **~50 km/h** lo deja fuera de la normativa VMP: **imprescindible limitarlo a 25 km/h** y no pisar la **acera** jamás.\n\n<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/BsQ69eDWwsk title="Prueba completa del Bogist M5 Pro S por Geekmaxi" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>\n\nVídeo: <a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>Geekmaxi</a> en YouTube — prueba completa del Bogist M5 Pro S.\n\n## Puntos fuertes y débiles\n\n| ✅ Pros | ❌ Contras |\n|---|---|\n| 720 Wh: la mayor batería Bogist | ~50 km/h: hay que limitarlo a 25 km/h |\n| 500 W y doble disco | 24,2 kg: no es para llevarlo en la mano |\n| Neumáticos 12,5" con buen agarre | Sin tiempo de carga oficial |\n| 429 €: imbatible por Wh | Repuestos en Europa limitados |\n| Probado por Geekmaxi con buena nota | Estética de ciclomotor |\n\n<img src=/media/patinetes/bogist-m5-pro-s-3.webp alt=Bogist M5 Pro S circulando por una pista urbana>\n\n## De dónde sale el M5 Pro S: la gama M5 de Bogist\n\nBogist es una marca china de venta online, sin red comercial propia en España. Su gama M5 agrupa minimotos eléctricas con sillín y motor de **500 W**: sentarse y hacer recados sin depender del coche. El **M5 Pro S** evoluciona al M5 Pro subiendo la batería de 624 Wh a **720 Wh** y montando neumáticos de **12,5 pulgadas**. No es un patinete de pie: su estética de ciclomotor y sus **24,2 kg** lo orientan a guardarlo en garaje o trastero. Su ficha, la del <a href=/patinetes/bogist-m5-pro-s/>Bogist M5 Pro S</a>, recoge todos sus datos.\n\n## Profundidad técnica: qué significan sus 720 Wh\n\nLa cifra clave no es la velocidad, sino la energía. Con **48 V y 15 Ah** suma 720 Wh, la batería mayor del catálogo Bogist de este sitio. Eso explica los **40 km** declarados y por qué la estimación realista baja a **25-30 km**: la marca mide en condiciones favorables; en ciudad mandan arranques, cuestas, frío y peso del conductor. Sus 500 W sirven para llanear y superar rampas urbanas moderadas sentado.\n\n| Dato técnico | Bogist M5 Pro S | Qué implica |\n|---|---|---|\n| Batería | 48 V 15 Ah, 720 Wh | Más margen que el M5 Pro de 624 Wh |\n| Autonomía declarada | 40 km | Cifra de marca, no de uso diario |\n| Autonomía real estimada | 25-30 km | Una semana de recados cortos sin enchufar |\n| Ruedas | 12,5 pulgadas neumáticas | Mejor paso sobre baches |\n| Frenos | Doble disco | Dos frenos independientes |\n| Peso y carga | 24,2 kg y 120 kg | Estable en marcha, nada portable |\n\nEl fabricante no publica tiempo de carga oficial en su ficha de este sitio: cualquier cifra de horas de una tienda es dato del vendedor, no especificación verificada.\n\n## Uso real y mantenimiento\n\nEncaja si tus trayectos son cortos y repetidos, con sitio para aparcarlo abajo: recados o un polígono cercano sin subir escaleras con él a pulso. El sillín se agradece frente a ir de pie varios kilómetros. No encaja si combinas a diario con metro o tren o vives sin ascensor: pesa 24,2 kg y se ve como una minimoto. Tampoco si priorizas servicio técnico cercano, porque la red de repuestos en Europa es limitada según su propia ficha.\n\nDel mantenimiento solo cabe hablar en general, sin tarifa oficial española: presión, desgaste de pastillas, holguras en la tija del sillín y cuidar la batería evitando descargas completas prolongadas. El coste relevante será la disponibilidad de cubiertas, pastillas y recambio de batería, no la electricidad de 720 Wh. Pregunta al vendedor si sirve esos consumibles en Europa. Para contrastar, mira el <a href=/patinetes/bogist-m5-pro/>Bogist M5 Pro con cesta y respaldo</a> y el <a href=/comparador-patinetes/>comparador de patinetes</a>.\n\n## Normativa en España: el límite de 25 km/h manda\n\nCon una punta cercana a **50 km/h**, el M5 Pro S no encaja como VMP tal cual sale de la caja. La normativa de la <a href=https://www.dgt.es>DGT</a> fija **25 km/h** máximos para los vehículos de movilidad personal, prohíbe aceras, vías interurbanas, travesías, autopistas, autovías y túneles urbanos, y exige certificado de circulación para los modelos comercializados desde el 22 de enero de 2024, con placa de marcaje. Su ficha indica **sin certificado DGT verificado**: limitarlo a 25 km/h no basta para darlo por homologado; exige al vendedor el certificado de esta versión antes de pagar.\n\n## Frente a sus hermanos M5 y veredicto\n\nContra el <a href=/patinetes/bogist-m5-pro/>M5 Pro original</a>, el Pro S gana batería —720 frente a 624 Wh— y media pulgada de rueda, pero pierde carga: **120 kg frente a 150 kg**. Contra el <a href=/patinetes/bogist-m5-pro-plus/>Bogist M5 Pro+</a>, comparte 720 Wh, aunque el Plus declara 55 km frente a 40 km y no publica precio en su ficha, mientras el Pro S se ha visto a **429 € en Francia**: precio de origen, orientativo para España, no tarifa oficial española. Si dudas, lee el análisis del <a href=/blog/bogist-m5-pro/>Bogist M5 Pro en el blog</a>.\n\n**Veredicto:** ¿merece la pena? Sí, para quien busca autonomía sentada barata por vatio-hora y asume comprarlo online, si el vendedor acredita su certificado y queda limitado a 25 km/h. Para quién sí: trayectos cortos con garaje o planta baja. Para quién no: quien necesite subirlo a un piso o circular sin dudas de homologación.\n\n## Preguntas frecuentes\n\n### ¿Cuánto cuesta el Bogist M5 Pro S?\n**429 €** en oferta en Francia; precio similar en distribuidores españoles.\n\n### ¿Qué diferencia hay con el M5 Pro normal?\nMás batería (**720 Wh** frente a 624 Wh), ruedas de 12,5" y plataforma más compacta.\n\n### ¿Qué autonomía real tiene?\nDeclara 40 km; calcula **25-30 km** en uso real.\n\n### ¿Es legal en España?\nSolo **limitado a 25 km/h**.\n\n### ¿Cuánto pesa?\n**24,2 kg**.\n\n### ¿Merece la pena frente al M5 Pro+?\nEl Plus promete 55 km declarados; el Pro S está probado por medios. Ante la duda, el S.\n\n¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.\n\n*Fuentes: <a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>prueba de Geekmaxi</a> y <a href=https://www.gleeride.com/collections/all-products/products/bogist-m5-pro-s-folding-electric-scooter-with-seat>ficha en Gleeride</a>., <a href=https://www.dgt.es>web oficial de la DGT</a>*`,
+    content: `<img src=/media/patinetes/bogist-m5-pro-s-1.webp alt=Bogist M5 Pro S negro, vista lateral completa del patinete>\\n\\n**¿Buscas solo los datos?** <a href=/patinetes/bogist-m5-pro-s/>Ver ficha técnica del Bogist M5 Pro S</a>: precio, motor, batería y autonomía. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.\\n\\nEl **Bogist M5 Pro S** es la evolución del M5 Pro: misma filosofía de minimoto con sillín, pero con batería de **48 V y 15 Ah (720 Wh)**, **40 km** de autonomía y ruedas **neumáticas de 12,5 pulgadas** con dibujo especial. En Francia se vendió por **429 €** (<a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>Geekmaxi</a> lo probó a fondo).\\n\\n## Ficha técnica resumida\\n\\n| Dato | Valor |\\n|---|---|\\n| **Precio** | 429 € |\\n| **Motor** | 500 W |\\n| **Batería** | 48V 15Ah (720 Wh) |\\n| **Autonomía declarada** | 40 km |\\n| **Autonomía real estimada** | ≈27 km |\\n| **Velocidad máxima** | ≈50 km/h |\\n| **Peso** | 24,2 kg |\\n| **Carga máxima** | 120 kg |\\n| **Ruedas** | 12,5" neumáticas |\\n| **Frenos** | Doble disco |\\n\\n¿Quieres el detalle completo? <a href=/patinetes/bogist-m5-pro-s/>Ficha técnica completa del Bogist M5 Pro S</a> con todos los datos verificados.\\n\\n## Precio del Bogist M5 Pro S en España\\n\\n**429 €** fue el precio de oferta en Francia; en España se mueve en ese entorno en distribuidores. Por 720 Wh con sillín y doble disco, no tiene rival directo.\\n\\n<img src=/media/patinetes/bogist-m5-pro-s-2.webp alt=Detalle de la plataforma rígida y el neumático de 12,5 pulgadas del Bogist M5 Pro S>\\n\\n## Autonomía real vs declarada\\n\\nDeclara **40 km** con sus 720 Wh. En uso realista (sillín, 500 W, peso medio), espera **25-30 km**: una semana de desplazamientos cortos sin enchufar.\\n\\n## Frenos y neumáticos\\n\\n**Doble disco** y neumáticos de **12,5 pulgadas** con dibujo específico que mejora agarre y frenada. La plataforma rígida prima ligereza y maniobrabilidad frente al Pro normal.\\n\\n## Certificado DGT y normativa VMP\\n\\nSin certificado DGT verificado. Su punta de **~50 km/h** lo deja fuera de la normativa VMP: **imprescindible limitarlo a 25 km/h** y no pisar la **acera** jamás.\\n\\n<div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:1rem;><iframe src=https://www.youtube.com/embed/BsQ69eDWwsk title="Prueba completa del Bogist M5 Pro S por Geekmaxi" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0;allow=accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;allowfullscreen></iframe></div>\\n\\nVídeo: <a href=https://www.youtube.com/watch?v=BsQ69eDWwsk>Geekmaxi</a> en YouTube — prueba completa del Bogist M5 Pro S.\\n\\n## Puntos fuertes y débiles\\n\\n| ✅ Pros | ❌ Contras |\\n|---|---|\\n| 720 Wh: la mayor batería Bogist | ~50 km/h: hay que limitarlo a 25 km/h |\\n| 500 W y doble disco | 24,2 kg: no es para llevarlo en la mano |\\n| Neumáticos 12,5" con buen agarre | Sin tiempo de carga oficial |\\n| 429 €: imbatible por Wh | Repuestos en Europa limitados |\\n| Probado por Geekmaxi con buena nota | Estética de ciclomotor |\\n\\n<img src=/media/patinetes/bogist-m5-pro-s-3.webp alt=Bogist M5 Pro S circulando por una pista urbana>\\n\\n## De dónde sale el M5 Pro S: la gama M5 de Bogist\\n\\nBogist es una marca china de venta online, sin red comercial propia en España. Su gama M5 agrupa minimotos eléctricas con sillín y motor de **500 W**: sentarse y hacer recados sin depender del coche. El **M5 Pro S** evoluciona al M5 Pro subiendo la batería de 624 Wh a **720 Wh** y montando neumáticos de **12,5 pulgadas**. No es un patinete de pie: su estética de ciclomotor y sus **24,2 kg** lo orientan a guardarlo en garaje o trastero. Su ficha, la del <a href=/patinetes/bogist-m5-pro-s/>Bogist M5 Pro S</a>, recoge todos sus datos.\\n\\n## Profundidad técnica: qué significan sus 720 Wh\\n\\nLa cifra clave no es la velocidad, sino la energía. Con **48 V y 15 Ah** suma 720 Wh, la batería mayor del catálogo Bogist de este sitio. Eso explica los **40 km** declarados y por qué la estimación realista baja a **25-30 km**: la marca mide en condiciones favorables; en ciudad mandan arranques, cuestas, frío y peso del conductor. Sus 500 W sirven para llanear y superar rampas urbanas moderadas sentado.\\n\\n| Dato técnico | Bogist M5 Pro S | Qué implica |\\n|---|---|---|\\n| Batería | 48 V 15 Ah, 720 Wh | Más margen que el M5 Pro de 624 Wh |\\n| Autonomía declarada | 40 km | Cifra de marca, no de uso diario |\\n| Autonomía real estimada | 25-30 km | Una semana de recados cortos sin enchufar |\\n| Ruedas | 12,5 pulgadas neumáticas | Mejor paso sobre baches |\\n| Frenos | Doble disco | Dos frenos independientes |\\n| Peso y carga | 24,2 kg y 120 kg | Estable en marcha, nada portable |\\n\\nEl fabricante no publica tiempo de carga oficial en su ficha de este sitio: cualquier cifra de horas de una tienda es dato del vendedor, no especificación verificada.\\n\\n## Uso real y mantenimiento\\n\\nEncaja si tus trayectos son cortos y repetidos, con sitio para aparcarlo abajo: recados o un polígono cercano sin subir escaleras con él a pulso. El sillín se agradece frente a ir de pie varios kilómetros. No encaja si combinas a diario con metro o tren o vives sin ascensor: pesa 24,2 kg y se ve como una minimoto. Tampoco si priorizas servicio técnico cercano, porque la red de repuestos en Europa es limitada según su propia ficha.\\n\\nDel mantenimiento solo cabe hablar en general, sin tarifa oficial española: presión, desgaste de pastillas, holguras en la tija del sillín y cuidar la batería evitando descargas completas prolongadas. El coste relevante será la disponibilidad de cubiertas, pastillas y recambio de batería, no la electricidad de 720 Wh. Pregunta al vendedor si sirve esos consumibles en Europa. Para contrastar, mira el <a href=/patinetes/bogist-m5-pro/>Bogist M5 Pro con cesta y respaldo</a> y el <a href=/comparador-patinetes/>comparador de patinetes</a>.\\n\\n## Normativa en España: el límite de 25 km/h manda\\n\\nCon una punta cercana a **50 km/h**, el M5 Pro S no encaja como VMP tal cual sale de la caja. La normativa de la <a href=https://www.dgt.es>DGT</a> fija **25 km/h** máximos para los vehículos de movilidad personal, prohíbe aceras, vías interurbanas, travesías, autopistas, autovías y túneles urbanos, y exige certificado de circulación para los modelos comercializados desde el 22 de enero de 2024, con placa de marcaje. Su ficha indica **sin certificado DGT verificado**: limitarlo a 25 km/h no basta para darlo por homologado; exige al vendedor el certificado de esta versión antes de pagar.\\n\\n## Frente a sus hermanos M5 y veredicto\\n\\nContra el <a href=/patinetes/bogist-m5-pro/>M5 Pro original</a>, el Pro S gana batería —720 frente a 624 Wh— y media pulgada de rueda, pero pierde carga: **120 kg frente a 150 kg**. Contra el <a href=/patinetes/bogist-m5-pro-plus/>Bogist M5 Pro+</a>, comparte 720 Wh, aunque el Plus declara 55 km frente a 40 km y no publica precio en su ficha, mientras el Pro S se ha visto a **429 € en Francia**: precio de origen, orientativo para España, no tarifa oficial española. Si dudas, lee el análisis del <a href=/blog/bogist-m5-pro/>Bogist M5 Pro en el blog</a>.\\n\\n**Veredicto:** ¿merece la pena? Sí, para quien busca autonomía sentada barata por vatio-hora y asume comprarlo online, si el vendedor acredita su certificado y queda limitado a 25 km/h. Para quién sí: trayectos cortos con garaje o planta baja. Para quién no: quien necesite subirlo a un piso o circular sin dudas de homologación.\\n\\n## Preguntas frecuentes\\n\\n### ¿Cuánto cuesta el Bogist M5 Pro S?\\n**429 €** en oferta en Francia; precio similar en distribuidores españoles.\\n\\n### ¿Qué diferencia hay con el M5 Pro normal?\\nMás batería (**720 Wh** frente a 624 Wh), ruedas de 12,5" y plataforma más compacta.\\n\\n### ¿Qué autonomía real tiene?\\nDeclara 40 km; calcula **25-30 km** en uso real.\\n\\n### ¿Es legal en España?\\nSolo **limitado a 25 km/h**.\\n\\n### ¿Cuánto pesa?\\n**24,2 kg**.\\n\\n### ¿Merece la pena frente al M5 Pro+?\\nEl Plus promete 55 km declarados; el Pro S está probado por medios. Ante la duda, el S.`,
   },
   {
     slug: "bogist-m5-pro-plus",
@@ -666,11 +650,7 @@ Sin precio oficial; toma como referencia los 429 € del Pro S.
 Sí, con cesta trasera de serie.
 
 ### ¿Merece la pena?
-Si lo encuentras al precio del Pro S, sí por el extra de rango. Si es mucho más caro, el Pro S probado es mejor compra.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.accio.com/plp/bogist-m5-pro>catálogo Bogist en Accio</a>. Normativa VMP: <a href=https://www.dgt.es>DGT</a>.*`,
+Si lo encuentras al precio del Pro S, sí por el extra de rango. Si es mucho más caro, el Pro S probado es mejor compra.`,
   },
   // ─────────────────────────── AOVOPRO (3) ───────────────────────────
   {
@@ -802,11 +782,7 @@ Los neumáticos son **autosellantes**: la mayoría de pinchazos se sellan solos.
 ### ¿Merece la pena frente al ES80?
 Si haces más de 15 km al día o pesas más de 80 kg, sí: el ES80 se queda corto. Si buscas algo más ligero y barato, mira el <a href=/blog/aovopro-365-go/>Aovopro 365 Go</a>.
 
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-**Cómo verificamos:** especificaciones del manual oficial de Aovopro (500 W, 42 V 14,5 Ah, 43 km, 7 h de carga) contrastadas con la review de HoverboardsGuide y la ficha del distribuidor Aovo. Sin PVP oficial en España: el rango 300-400 € es de mercado, no oficial.
-
-*Fuentes: <a href=https://www.aovo.hu/en/products/aovo-esmax-elektromos-roller>ficha del distribuidor Aovo</a> y <a href=https://hoverboardsguide.com/aovopro-electric-scooter-review/>análisis en HoverboardsGuide</a>y <a href=https://www.dgt.es/comunicacion/notas-de-prensa/publicado-el-manual-de-caracteristicas-tecnicas-de-los-vehiculos-de-movilidad-personal/>nota de la DGT sobre el manual de características de los VMP</a>*`,
+**Cómo verificamos:** especificaciones del manual oficial de Aovopro (500 W, 42 V 14,5 Ah, 43 km, 7 h de carga) contrastadas con la review de HoverboardsGuide y la ficha del distribuidor Aovo. Sin PVP oficial en España: el rango 300-400 € es de mercado, no oficial.`,
   },
   {
     slug: "aovopro-365-go",
@@ -927,11 +903,7 @@ Sí: **12,5 kg**, ideal para el transporte público.
 De serie a 25 km/h, sí. No lo subas a 31 km/h en vía pública.
 
 ### ¿Para quién es?
-Para quien hace menos de 10 km al día y quiere gastar lo mínimo.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://couponsfromchina.com/aovopro-365go-electric-scooter-36v-10-5ah-350w-8-5inch-eu/>ficha del 365 Go en CouponsFromChina</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*`,
+Para quien hace menos de 10 km al día y quiere gastar lo mínimo.`,
   },
   {
     slug: "aovopro-es60",
@@ -1057,11 +1029,7 @@ A 25 km/h de serie, sí.
 No: son **honeycomb** (nido de abeja), sin cámara.
 
 ### ¿Merece la pena?
-Si lo encuentras por ~430 € con envío UE y buscas ligereza, sí. Si el precio sube, el ESMAX da más por poco más.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.priceboon.com/product/aovopro-es60/>prueba del ES60 en Priceboon</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*`,
+Si lo encuentras por ~430 € con envío UE y buscas ligereza, sí. Si el precio sube, el ESMAX da más por poco más.`,
   },
   // ─────────────────────────── EVERCROSS (7) ───────────────────────────
   {
@@ -1181,11 +1149,7 @@ Solo **limitado a 25 km/h**.
 Esa es su carga máxima declarada: es de los pocos que la anuncian.
 
 ### ¿Merece la pena frente al H7?
-El H7 tiene más batería (720 Wh) y certificación UL2272 por ~60 € más. Si el presupuesto lo permite, el H7 compensa.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>guía Evercross en Levy Electric</a>., <a href=https://www.dgt.es>normativa de VMP en la DGT</a>*`,
+El H7 tiene más batería (720 Wh) y certificación UL2272 por ~60 € más. Si el presupuesto lo permite, el H7 compensa.`,
   },
   {
     slug: "evercross-h7",
@@ -1308,11 +1272,7 @@ Unos **30 km** en uso mixto.
 Sí: **unos 25 kg** con el sillín.
 
 ### ¿Merece la pena frente al H5?
-Por ~60 € más tienes 720 Wh (frente a 480 Wh) y UL2272. Sí, compensa.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.amazon.com/dp/B0BNZZ2NG2/ref=as_li_ss_tl>ficha del H7 en Amazon</a>. <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
+Por ~60 € más tienes 720 Wh (frente a 480 Wh) y UL2272. Sí, compensa.`,
   },
   {
     slug: "evercross-h9",
@@ -1441,11 +1401,7 @@ Es más ligero (20 kg frente a 25 kg) pero pierde la UL2272 y los intermitentes 
 Solo si los 5 kg menos te importan de verdad; si no, el H7 da más por menos.
 
 ### ¿El sillín se quita?
-Sí, es **desmontable**.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>guía Evercross en Levy Electric</a>., <a href=https://evercross.eu>Evercross Europa (web oficial)</a>, <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
+Sí, es **desmontable**.`,
   },
   {
     slug: "evercross-ev10k-pro",
@@ -1567,11 +1523,7 @@ Esa es su carga máxima declarada.
 **Ajustado a 25 km/h**, sí.
 
 ### ¿Merece la pena frente al EV85F?
-Por ~45 € más tienes 500 W (frente a 350 W), más batería e intermitentes. Sí, si el presupuesto llega.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.testmarket.io/deals/amazon/electric-scooters/evercross-ev85fev10k-pro-electric-scooters-adults-8510-e-scooter-foldable-app-350w500w-motor-78ah114ah-battery-15kg16kg-weight-3-speed-modes-dual-shock-absorbers/1314334>ficha del EV10K Pro en Testmarket</a>. <a href=https://evercross.eu/blogs/news/evercross-ev10k-pro-electric-scooter-a-powerful-and-stylish-ride>Evercross (web oficial)</a> y <a href=https://www.dgt.es>DGT</a>*`,
+Por ~45 € más tienes 500 W (frente a 350 W), más batería e intermitentes. Sí, si el presupuesto llega.`,
   },
   {
     slug: "evercross-ev85f",
@@ -1696,11 +1648,7 @@ Sí: sus modos llegan a **25 km/h** de serie.
 Sí: **EVERCROSS PRO** con bloqueo y estadísticas.
 
 ### ¿Merece la pena?
-Para trayectos cortos y presupuesto mínimo, es imbatible. Para más, el EV10K Pro.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.amazon.co.uk/dp/B0CXPL461V/ref=cm_sw_r_cso_cp_apin_dp_6Y6XXBE5AJNKQ5ZXM8JK>ficha del EV85F en Amazon UK</a>. <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>DGT — certificación de VMP (web oficial)</a>*`,
+Para trayectos cortos y presupuesto mínimo, es imbatible. Para más, el EV10K Pro.`,
   },
   {
     slug: "evercross-ev08e",
@@ -1829,11 +1777,7 @@ De serie (24 km/h), sí.
 No: sin conectividad.
 
 ### ¿Merece la pena frente al H5?
-El H5 tiene 800 W y app por ~260 € más. Si el sillín es innegociable y el presupuesto manda, el EV08E cumple.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.levyelectric.com/resources/evercross-electric-scooter-complete-guide-app-setup-review>guía Evercross en Levy Electric</a>., <a href=https://www.dgt.es/nuestros-servicios/en-detalle/vehiculos-de-movilidad-personal/>DGT: vehículos de movilidad personal</a>, <a href=https://evercross.us>Evercross (tienda oficial)</a>*`,
+El H5 tiene 800 W y app por ~260 € más. Si el sillín es innegociable y el presupuesto manda, el EV08E cumple.`,
   },
   {
     slug: "evercross-ev10-max",
@@ -1958,11 +1902,7 @@ Sin precio oficial publicado.
 Con tan pocos datos oficiales, solo si lo encuentras con garantía local y a buen precio. Si no, el H7 es compra más segura.
 
 ### ¿Qué ruedas lleva?
-**Neumáticos de 10 pulgadas**, mejores que las macizas de sus hermanos.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.igeekphone.com/zooming-into-the-future-what-to-know-before-buying-an-evercross-electric-scooter/>análisis en iGeekPhone</a>., <a href=https://evercross.eu>Evercross Europa (web oficial)</a>, <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
+**Neumáticos de 10 pulgadas**, mejores que las macizas de sus hermanos.`,
   },
   // ─────────────────────────── MINIMOTORS (3) ───────────────────────────
   {
@@ -1984,7 +1924,7 @@ Con tan pocos datos oficiales, solo si lo encuentras con garantía local y a bue
       "dualtron city autonomía",
       "dualtron city vs thunder",
     ],
-    content: `<img src=/media/patinetes/minimotors-dualtron-city-2024-1.webp alt=Dualtron City 2024 negro, vista lateral completa con ruedas de 15 pulgadas>\n\n**¿Buscas solo los datos?** <a href=/patinetes/minimotors-dualtron-city-2024/>Ver ficha técnica del Dualtron City 2024</a>: motor, batería, autonomía y peso. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.\n\nEl **Dualtron City 2024** de Minimotors no compite con patinetes: compite con el concepto de patinete. **Doble motor de 1.200 W** (casi 4.000 W de pico), batería de **60 V y 25 Ah (1.500 Wh)**, **90 km** declarados y unas absurdas **ruedas de 15 pulgadas**, además de **batería extraíble** (<a href=https://manuals.plus/minimotors/dualtron-city-electric-scooter-manual>manual oficial</a>).\n\n## Ficha técnica resumida\n\n| Dato | Valor |\n|---|---|\n| **Motor** | Doble 1.200 W (3.984 W pico) |\n| **Batería** | 60V 25Ah (1.500 Wh), extraíble |\n| **Autonomía declarada** | 90 km |\n| **Autonomía real estimada** | ≈60 km |\n| **Velocidad máxima** | 25 km/h (limitado UE) |\n| **Peso** | 41,9 kg |\n| **Carga máxima** | 120 kg |\n| **Ruedas** | 15" con cámara (50 psi) |\n| **Frenos** | Hidráulicos + ABS/EBS |\n| **Carga** | 14 h (7 h con dos cargadores) |\n\n¿Quieres el detalle completo? <a href=/patinetes/minimotors-dualtron-city-2024/>Ficha técnica completa del Dualtron City 2024</a> con todos los datos verificados.\n\n## Precio del Dualtron City 2024 en España\n\nSin PVP oficial: se vende por distribuidores europeos. Su posicionamiento es premium, en la órbita de los Thunder.\n\n<img src=/media/patinetes/minimotors-dualtron-city-2024-2.webp alt=Detalle de la rueda de 15 pulgadas del Dualtron City 2024>\n\n## Autonomía real vs declarada\n\nDeclara **90 km** con la batería de 25 Ah (70 km con la de 20 Ah). En uso mixto con doble motor, espera **55-65 km reales**: una semana de commuting sin ver un enchufe.\n\n## Frenos y neumáticos\n\n**Hidráulicos con ABS y EBS**, y ruedas de **15 pulgadas con cámara** a **50 psi** (dato del manual oficial). Las ruedas más grandes del mercado: baches, bordillos y raíles de tranvía dejan de ser un problema.\n\n## Certificado DGT y normativa VMP\n\nSin certificado DGT verificado. En Europa se vende **limitado a 25 km/h**; deslimitado supera los 70 km/h y no es un VMP legal. Prohibido en **aceras** en todo caso.\n\n## Puntos fuertes y débiles\n\n| ✅ Pros | ❌ Contras |\n|---|---|\n| 1.500 Wh y 90 km declarados | 41,9 kg: no es portable |\n| Ruedas de 15": pisan de todo | 14 h de carga estándar |\n| Batería extraíble | Sin precio oficial en España |\n| Hidráulicos + ABS/EBS | Deslimitado no es VMP legal |\n| EY3 con app Dualtron | Mantenimiento de gama alta |\n\n<img src=/media/patinetes/minimotors-dualtron-city-2024-3.webp alt=Dualtron City 2024 circulando por una avenida>\n\n## Minimotors y el lugar del City dentro de Dualtron\n\nDualtron es la marca de patinetes de alto rendimiento que produce Minimotors, y su gama se entiende por contrastes: unos modelos buscan aceleración bruta y otros, llegar lejos sin castigar al conductor. El City es del segundo grupo. Su distancia entre ejes ronda los 1.140 mm y su altura libre los 190 mm, según el manual: un vehículo largo y estable para avenidas y trayectos diarios repetidos, no un patinete urbano al uso.\n\n## Qué hay detrás de los 1.500 Wh: técnica sin maquillaje\n\nReúne dos motores buje BLDC de 1.200 W nominales cada uno, batería de 60 V y 25 Ah con celdas LG o Samsung y suspensión de goma delante con cartucho reemplazable detrás. Los 90 km son la cifra declarada en condiciones favorables; la ficha la traduce a unos 60 km reales estimados, la lectura honesta con doble motor y subidas.\n\n| Elemento | Dualtron City 2024 | Qué implica en marcha |\n|---|---|---|\n| Motor | Doble buje de 1.200 W por rueda | Empuje sobrado en rampas |\n| Batería | 60 V y 25 Ah, 1.500 Wh, extraíble | Carga en casa sin subir todo el patinete |\n| Rueda | 15 pulgadas con cámara a 50 psi | Supera raíles y juntas que detienen ruedas pequeñas |\n| Frenos | Hidráulicos con ABS y EBS | Frenada potente que exige mantenimiento al día |\n| Medidas | 1.540 mm de largo y 41,9 kg | Estabilidad alta y portabilidad nula |\n\nEsa rueda supera el diámetro mínimo del manual de la DGT y cambia el comportamiento ante bordillos rebajados. A cambio usa cámara: un pinchazo no se resuelve como en un tubeless.\n\n## Uso real: ideal para un perfil muy concreto\n\nEncaja si tienes garaje o espacio fijo, haces un trayecto diario largo sobre buen firme urbano y valoras llegar sin vibraciones en las muñecas. Su carga máxima de 120 kg lo hace viable para conductores corpulentos. Si te reconoces ahí, revisa la <a href=/patinetes/minimotors-dualtron-city-2024/>ficha completa del Dualtron City con medidas y galería</a> antes de mirar alternativas ligeras. No encaja si necesitas subirlo a un tren o por escaleras: plegado sigue midiendo 1.540 mm y pesando 41,9 kg, y su carga estándar tarda 14 horas.\n\n## Mantenimiento y costes de propiedad\n\nLa ficha recoge revisión cada 6 meses o 1.000 km, ruedas a 50 psi y comprobación del cierre rápido de la dirección antes de cada uso. No es opcional en un doble motor de este peso: los frenos hidráulicos piden control de pastillas y líquido, y la batería debe cargarse con su cargador y dentro del rango de temperatura del manual. Sin PVP oficial en España, el precio depende del distribuidor europeo: confirma por escrito garantía, repuestos y taller antes de pagar, porque su neumático con cámara poco común y su electrónica EY3 no se mantienen con presupuesto básico.\n\n## Normativa en España: el límite que debes asumir\n\nLa DGT define el VMP como un vehículo de una plaza con velocidad máxima entre 6 y 25 km/h, exige certificado de circulación para los vendidos a partir del 22 de enero de 2024 y solo permite circular a los no certificados hasta el 22 de enero de 2027. Su manual limita la potencia nominal a 1.000 W sin autoequilibrado, y este City suma 2.400 W. La ficha lo refleja sin adornos: certificado DGT nulo, venta limitada a 25 km/h en Europa y, deslimitado, más de 70 km/h, con lo que deja de ser un VMP legal en vía pública. Súmale la prohibición de circular por aceras y el marco queda completo.\n\n## City frente a otros Dualtron y veredicto\n\nEl <a href=/patinetes/minimotors-dualtron-victor-luxury-plus/>Victor Luxury Plus con 1.680 Wh y ruedas de 10 pulgadas</a> declara más batería y 95 km, pero renuncia a la pisada de 15 pulgadas que define al City. El análisis del <a href=/blog/minimotors-dualtron-eagle-pro/>Eagle Pro como Dualtron ágil de unos 30 kg</a> muestra lo contrario: lo que el City sacrifica en agilidad lo gana en confort.\n\n**Veredicto:** ¿Merece la pena el Dualtron City 2024? Sí, solo para un conductor de trayecto largo, con espacio fijo, que prioriza confort, estabilidad y 60 km reales sobre portabilidad. Para quien sí: es probablemente el Dualtron más cómodo para el día a día. Para quien no: si necesitas certificación VMP, transporte público o precio oficial en España, no es tu patinete.\n\n## Preguntas frecuentes\n\n### ¿Qué autonomía real tiene el Dualtron City?\nDeclara 90 km; en uso mixto calcula **55-65 km**.\n\n### ¿La batería se puede extraer?\nSí: es **extraíble** y se carga en casa sin subir los 41,9 kg.\n\n### ¿Cuánto tarda en cargar?\n**14 horas** con el cargador estándar; 7 con dos, unas 3 con el rápido.\n\n### ¿Es legal en España?\n**Limitado a 25 km/h**, sí.\n\n### ¿Qué presión llevan las ruedas?\n**50 psi** (3,4 bar) según el manual oficial.\n\n### ¿Merece la pena frente al Thunder?\nEl City prima confort y autonomía (ruedas de 15", batería extraíble); el Thunder, deportividad. Para commuting largo, el City.\n\n¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.\n\n*Fuentes: <a href=https://manuals.plus/minimotors/dualtron-city-electric-scooter-manual>manual oficial de Minimotors</a>., <a href=https://www.dgt.es>web oficial de la DGT</a>*`,
+    content: `<img src=/media/patinetes/minimotors-dualtron-city-2024-1.webp alt=Dualtron City 2024 negro, vista lateral completa con ruedas de 15 pulgadas>\\n\\n**¿Buscas solo los datos?** <a href=/patinetes/minimotors-dualtron-city-2024/>Ver ficha técnica del Dualtron City 2024</a>: motor, batería, autonomía y peso. <a href=/comparador-patinetes/>Compáralo con sus rivales</a>.\\n\\nEl **Dualtron City 2024** de Minimotors no compite con patinetes: compite con el concepto de patinete. **Doble motor de 1.200 W** (casi 4.000 W de pico), batería de **60 V y 25 Ah (1.500 Wh)**, **90 km** declarados y unas absurdas **ruedas de 15 pulgadas**, además de **batería extraíble** (<a href=https://manuals.plus/minimotors/dualtron-city-electric-scooter-manual>manual oficial</a>).\\n\\n## Ficha técnica resumida\\n\\n| Dato | Valor |\\n|---|---|\\n| **Motor** | Doble 1.200 W (3.984 W pico) |\\n| **Batería** | 60V 25Ah (1.500 Wh), extraíble |\\n| **Autonomía declarada** | 90 km |\\n| **Autonomía real estimada** | ≈60 km |\\n| **Velocidad máxima** | 25 km/h (limitado UE) |\\n| **Peso** | 41,9 kg |\\n| **Carga máxima** | 120 kg |\\n| **Ruedas** | 15" con cámara (50 psi) |\\n| **Frenos** | Hidráulicos + ABS/EBS |\\n| **Carga** | 14 h (7 h con dos cargadores) |\\n\\n¿Quieres el detalle completo? <a href=/patinetes/minimotors-dualtron-city-2024/>Ficha técnica completa del Dualtron City 2024</a> con todos los datos verificados.\\n\\n## Precio del Dualtron City 2024 en España\\n\\nSin PVP oficial: se vende por distribuidores europeos. Su posicionamiento es premium, en la órbita de los Thunder.\\n\\n<img src=/media/patinetes/minimotors-dualtron-city-2024-2.webp alt=Detalle de la rueda de 15 pulgadas del Dualtron City 2024>\\n\\n## Autonomía real vs declarada\\n\\nDeclara **90 km** con la batería de 25 Ah (70 km con la de 20 Ah). En uso mixto con doble motor, espera **55-65 km reales**: una semana de commuting sin ver un enchufe.\\n\\n## Frenos y neumáticos\\n\\n**Hidráulicos con ABS y EBS**, y ruedas de **15 pulgadas con cámara** a **50 psi** (dato del manual oficial). Las ruedas más grandes del mercado: baches, bordillos y raíles de tranvía dejan de ser un problema.\\n\\n## Certificado DGT y normativa VMP\\n\\nSin certificado DGT verificado. En Europa se vende **limitado a 25 km/h**; deslimitado supera los 70 km/h y no es un VMP legal. Prohibido en **aceras** en todo caso.\\n\\n## Puntos fuertes y débiles\\n\\n| ✅ Pros | ❌ Contras |\\n|---|---|\\n| 1.500 Wh y 90 km declarados | 41,9 kg: no es portable |\\n| Ruedas de 15": pisan de todo | 14 h de carga estándar |\\n| Batería extraíble | Sin precio oficial en España |\\n| Hidráulicos + ABS/EBS | Deslimitado no es VMP legal |\\n| EY3 con app Dualtron | Mantenimiento de gama alta |\\n\\n<img src=/media/patinetes/minimotors-dualtron-city-2024-3.webp alt=Dualtron City 2024 circulando por una avenida>\\n\\n## Minimotors y el lugar del City dentro de Dualtron\\n\\nDualtron es la marca de patinetes de alto rendimiento que produce Minimotors, y su gama se entiende por contrastes: unos modelos buscan aceleración bruta y otros, llegar lejos sin castigar al conductor. El City es del segundo grupo. Su distancia entre ejes ronda los 1.140 mm y su altura libre los 190 mm, según el manual: un vehículo largo y estable para avenidas y trayectos diarios repetidos, no un patinete urbano al uso.\\n\\n## Qué hay detrás de los 1.500 Wh: técnica sin maquillaje\\n\\nReúne dos motores buje BLDC de 1.200 W nominales cada uno, batería de 60 V y 25 Ah con celdas LG o Samsung y suspensión de goma delante con cartucho reemplazable detrás. Los 90 km son la cifra declarada en condiciones favorables; la ficha la traduce a unos 60 km reales estimados, la lectura honesta con doble motor y subidas.\\n\\n| Elemento | Dualtron City 2024 | Qué implica en marcha |\\n|---|---|---|\\n| Motor | Doble buje de 1.200 W por rueda | Empuje sobrado en rampas |\\n| Batería | 60 V y 25 Ah, 1.500 Wh, extraíble | Carga en casa sin subir todo el patinete |\\n| Rueda | 15 pulgadas con cámara a 50 psi | Supera raíles y juntas que detienen ruedas pequeñas |\\n| Frenos | Hidráulicos con ABS y EBS | Frenada potente que exige mantenimiento al día |\\n| Medidas | 1.540 mm de largo y 41,9 kg | Estabilidad alta y portabilidad nula |\\n\\nEsa rueda supera el diámetro mínimo del manual de la DGT y cambia el comportamiento ante bordillos rebajados. A cambio usa cámara: un pinchazo no se resuelve como en un tubeless.\\n\\n## Uso real: ideal para un perfil muy concreto\\n\\nEncaja si tienes garaje o espacio fijo, haces un trayecto diario largo sobre buen firme urbano y valoras llegar sin vibraciones en las muñecas. Su carga máxima de 120 kg lo hace viable para conductores corpulentos. Si te reconoces ahí, revisa la <a href=/patinetes/minimotors-dualtron-city-2024/>ficha completa del Dualtron City con medidas y galería</a> antes de mirar alternativas ligeras. No encaja si necesitas subirlo a un tren o por escaleras: plegado sigue midiendo 1.540 mm y pesando 41,9 kg, y su carga estándar tarda 14 horas.\\n\\n## Mantenimiento y costes de propiedad\\n\\nLa ficha recoge revisión cada 6 meses o 1.000 km, ruedas a 50 psi y comprobación del cierre rápido de la dirección antes de cada uso. No es opcional en un doble motor de este peso: los frenos hidráulicos piden control de pastillas y líquido, y la batería debe cargarse con su cargador y dentro del rango de temperatura del manual. Sin PVP oficial en España, el precio depende del distribuidor europeo: confirma por escrito garantía, repuestos y taller antes de pagar, porque su neumático con cámara poco común y su electrónica EY3 no se mantienen con presupuesto básico.\\n\\n## Normativa en España: el límite que debes asumir\\n\\nLa DGT define el VMP como un vehículo de una plaza con velocidad máxima entre 6 y 25 km/h, exige certificado de circulación para los vendidos a partir del 22 de enero de 2024 y solo permite circular a los no certificados hasta el 22 de enero de 2027. Su manual limita la potencia nominal a 1.000 W sin autoequilibrado, y este City suma 2.400 W. La ficha lo refleja sin adornos: certificado DGT nulo, venta limitada a 25 km/h en Europa y, deslimitado, más de 70 km/h, con lo que deja de ser un VMP legal en vía pública. Súmale la prohibición de circular por aceras y el marco queda completo.\\n\\n## City frente a otros Dualtron y veredicto\\n\\nEl <a href=/patinetes/minimotors-dualtron-victor-luxury-plus/>Victor Luxury Plus con 1.680 Wh y ruedas de 10 pulgadas</a> declara más batería y 95 km, pero renuncia a la pisada de 15 pulgadas que define al City. El análisis del <a href=/blog/minimotors-dualtron-eagle-pro/>Eagle Pro como Dualtron ágil de unos 30 kg</a> muestra lo contrario: lo que el City sacrifica en agilidad lo gana en confort.\\n\\n**Veredicto:** ¿Merece la pena el Dualtron City 2024? Sí, solo para un conductor de trayecto largo, con espacio fijo, que prioriza confort, estabilidad y 60 km reales sobre portabilidad. Para quien sí: es probablemente el Dualtron más cómodo para el día a día. Para quien no: si necesitas certificación VMP, transporte público o precio oficial en España, no es tu patinete.\\n\\n## Preguntas frecuentes\\n\\n### ¿Qué autonomía real tiene el Dualtron City?\\nDeclara 90 km; en uso mixto calcula **55-65 km**.\\n\\n### ¿La batería se puede extraer?\\nSí: es **extraíble** y se carga en casa sin subir los 41,9 kg.\\n\\n### ¿Cuánto tarda en cargar?\\n**14 horas** con el cargador estándar; 7 con dos, unas 3 con el rápido.\\n\\n### ¿Es legal en España?\\n**Limitado a 25 km/h**, sí.\\n\\n### ¿Qué presión llevan las ruedas?\\n**50 psi** (3,4 bar) según el manual oficial.\\n\\n### ¿Merece la pena frente al Thunder?\\nEl City prima confort y autonomía (ruedas de 15", batería extraíble); el Thunder, deportividad. Para commuting largo, el City.`,
   },
   {
     slug: "minimotors-dualtron-victor-luxury-plus",
@@ -2124,11 +2064,7 @@ Unos **64 km** con la batería grande en uso mixto.
 Unas **13 horas** con el cargador de serie; menos con el rápido.
 
 ### ¿Merece la pena frente al Thunder 3?
-El Thunder es más bestia; el Luxury Plus es más rutero y alto. Para commuting largo, el Plus.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://vepace.com/products/dualtron-victor-luxury-plus-electric-scooter>ficha en Vepace (España)</a>.; <a href=https://www.dgt.es/comunicacion/noticias/vmp-nuevas-reglas-nueva-formacion>DGT: VMP, nuevas reglas, certificación y límite de 25 km/h</a>*`,
+El Thunder es más bestia; el Luxury Plus es más rutero y alto. Para commuting largo, el Plus.`,
   },
   {
     slug: "minimotors-dualtron-eagle-pro",
@@ -2219,11 +2155,7 @@ Solo **limitado a 25 km/h**.
 **~30 kg**: ligero para su potencia, pesado como urbano.
 
 ### ¿Merece la pena frente al Thunder 2?
-Es más ágil y ligero; el Thunder es más estable a alta velocidad. Para diversión sin 48 kg, el Eagle.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://minimotors.oss-eu-central-1.aliyuncs.com/upload/Product%20Catalogue%20-%202025.8.15.pdf>catálogo oficial Minimotors 2025</a>.*`,
+Es más ágil y ligero; el Thunder es más estable a alta velocidad. Para diversión sin 48 kg, el Eagle.`,
   },
   // ─────────────────────────── CURRUS (3) ───────────────────────────
   {
@@ -2347,11 +2279,7 @@ Solo **limitado a 25 km/h**.
 **21 horas** con un cargador, 10 con dos.
 
 ### ¿Merece la pena hoy?
-Como pieza de coleccionista, sí. Como compra racional nueva, no hay unidades.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.priceboon.com/currus-nf11-the-alternative-of-choice-to-the-dualtron-thunder/>Priceboon</a> y <a href=https://scooter.guide/currus-panther-electric-scooter-review/>Scooter.Guide</a>. Normativa VMP: <a href=https://www.dgt.es>DGT</a>.*`,
+Como pieza de coleccionista, sí. Como compra racional nueva, no hay unidades.`,
   },
   {
     slug: "currus-nf",
@@ -2481,11 +2409,7 @@ Solo **limitado a 25 km/h**.
 No: descatalogado, solo segunda mano.
 
 ### ¿Merece la pena de ocasión?
-Si la batería está sana y el precio es razonable, es una pieza histórica. Revisa la batería antes.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://electrek.co/2019/10/23/review-currus-nf-electric-scooter/>prueba en Electrek</a>. <a href=https://www.dgt.es>DGT</a>*`,
+Si la batería está sana y el precio es razonable, es una pieza histórica. Revisa la batería antes.`,
   },
   {
     slug: "currus-nf10-plus",
@@ -2590,11 +2514,7 @@ Solo **limitado a 25 km/h**, como todo hiperpatinete.
 La **batería**: con años encima puede estar degradada; una nueva cuesta 1.077 €.
 
 ### ¿Merece la pena?
-Solo para entusiastas que sepan lo que compran. Para los demás, el Panther tiene más datos.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://savemybattery.fr/gb/battery-for-currus-nf10-plus/412-battery-60v-28ah-car-nf10-plus.html>batería de repuesto en Save My Battery (FR)</a>. <a href=https://www.dgt.es/comunicacion/notas-de-prensa/dgt-recuerda-que-a-partir-de-22-de-enero-los-vmp-que-se-comercialicen-deberan-estar-certificados-para-su-uso>DGT — certificación obligatoria de los VMP</a> y <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/matricular-un-vehiculo/inscripcion-vmp/>DGT — inscripción de VMP en el Registro de vehículos personales ligeros</a>*`,
+Solo para entusiastas que sepan lo que compran. Para los demás, el Panther tiene más datos.`,
   },
   // ─────────────────────────── BRONCO (2) ───────────────────────────
   {
@@ -2838,11 +2758,7 @@ Sin precio oficial publicado.
 El VNOM prima **autonomía** (50 Ah) y equipamiento rutero; el Xtreme 11 prima **potencia** (8.400 W).
 
 ### ¿Merece la pena?
-En EE. UU. para reparto, quizá. En España es una curiosidad.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://alienrides.com/collections/electric-scooters/products/bronco-xtreme-vnom-11-electric-scooter>ficha en Alien Rides</a>., <a href=https://www.dgt.es/nuestros-servicios/en-detalle/vehiculos-de-movilidad-personal/>DGT: vehículos de movilidad personal</a>*`,
+En EE. UU. para reparto, quizá. En España es una curiosidad.`,
   },
   // ─────────────────────────── E-TWOW (2) ───────────────────────────
   {
@@ -2969,11 +2885,7 @@ Unos **34 km** en ciudad.
 **Limitado a 25 km/h**, sí.
 
 ### ¿Qué mantenimiento necesita?
-Revisar tornillería cada 1.000 km y tensar el cable del tambor cuando la maneta llegue al manillar.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.amazon.com/dp/B09NRHB7C8>ficha del GT SE en Amazon</a> y <a href=https://manuals.plus/asin/B0FYLJM1DQ.pdf>manual oficial</a>. Normativa oficial: <a href=https://www.dgt.es>DGT</a>.*`,
+Revisar tornillería cada 1.000 km y tensar el cable del tambor cuando la maneta llegue al manillar.`,
   },
   {
     slug: "etwow-gt-se-sport",
@@ -3065,11 +2977,7 @@ Unos **27 km** en uso normal; hasta 45 km a ritmo tranquilo.
 **12,3 kg**: lo mejor de su ficha.
 
 ### ¿Merece los 1.240 €?
-Si buscas lo máximo en potencia/peso y eres fan de E-TWOW, sí. Si no, el GT SE normal cuesta menos.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.etwow.net/en/e-twow-gt-se-sport-en>E-TWOW España</a>.*`,
+Si buscas lo máximo en potencia/peso y eres fan de E-TWOW, sí. Si no, el GT SE normal cuesta menos.`,
   },
   // ─────────────────────────── EGRET (5) ───────────────────────────
   {
@@ -3190,11 +3098,7 @@ Sí como VMP: respeta el límite de 25 km/h y no uses la acera.
 Una empresa de **Hamburgo** que fabrica patinetes desde 2012.
 
 ### ¿Merece la pena frente al Ey! 6?
-El Ey! 1 tiene más pico (1.512 W) y más rango (65 km); el Ey! 6 cuesta 500 € menos. Para la mayoría, el 6 basta.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.voylt.com/en/e-garage/e-scooter/egret-ey%21-1>ficha del Ey! 1 en Voylt</a>. y <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
+El Ey! 1 tiene más pico (1.512 W) y más rango (65 km); el Ey! 6 cuesta 500 € menos. Para la mayoría, el 6 basta.`,
   },
   {
     slug: "egret-ey-2",
@@ -3315,11 +3219,7 @@ Unos **30 km** en uso mixto.
 Sí como VMP, respetando 25 km/h y sin aceras.
 
 ### ¿Merece la pena frente al Ey! 1?
-El Ey! 1 tiene más pico y rango; el Ey! 2 cuesta 400 € menos. Para ciudad, el 2 es la compra sensata.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.maxblinker.com/en/electric-scooters/egret-ey-2-de-street-legal>análisis del Ey! 2 en Maxblinker</a>. <a href=https://my-egret.com/e-models/egret-gt/>Egret (web oficial de Walberg Urban Electrics)</a> y <a href=https://www.dgt.es>DGT</a>*`,
+El Ey! 1 tiene más pico y rango; el Ey! 2 cuesta 400 € menos. Para ciudad, el 2 es la compra sensata.`,
   },
   {
     slug: "egret-ey-3",
@@ -3446,11 +3346,7 @@ Sí como VMP, con límite de 25 km/h y sin aceras.
 Sin precio oficial publicado aún.
 
 ### ¿Para quién es?
-Para quien quiere un Egret ligero y no necesita más de 20 km al día.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.digitec.ch/en/s1/product/egret-ey-3-e-scooter-20-kmh-30-km-350-w-e-scooters-standing-47502041>ficha del Ey! 3 en Digitec</a>., <a href=https://www.my-egret.com>Egret / Walberg Urban Electrics (web oficial)</a>, <a href=https://www.dgt.es>DGT (normativa VMP)</a>*`,
+Para quien quiere un Egret ligero y no necesita más de 20 km al día.`,
   },
   {
     slug: "egret-ey-6",
@@ -3575,11 +3471,7 @@ Sí: es el único con **suspensión integral** (delante y detrás).
 Sí como VMP, respetando 25 km/h y sin aceras.
 
 ### ¿Merece la pena frente al Ey! 2?
-El Ey! 6 tiene más batería (551 Wh frente a 446 Wh) y cuesta 100 € menos. Para la mayoría, el 6 es mejor compra.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://www.digitec.ch/en/s1/product/egret-ey-6-e-scooter-20-kmh-55-km-450-w-e-scooters-standing-47502040>ficha del Ey! 6 en Digitec</a>. Normativa oficial: <a href=https://www.dgt.es>DGT (vehículos de movilidad personal)</a>.*`,
+El Ey! 6 tiene más batería (551 Wh frente a 446 Wh) y cuesta 100 € menos. Para la mayoría, el 6 es mejor compra.`,
   },
   {
     slug: "egret-ey-7",
@@ -3690,11 +3582,7 @@ Aún no publicada oficialmente.
 Sí como VMP, con su límite de 20 km/h y sin aceras.
 
 ### ¿Merece la pena frente al Ey! 6?
-El Ey! 6 (799 €) ofrece ficha completa y 551 Wh; el Ey! 7 es la apuesta budget con sello Bosch. Si el precio manda, el 7.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://gadgetflare.top/en/affordable-electric-scooter-featuring-bosch-motor-unveiled-egret-ey7/>presentación del Ey! 7 en GadgetFlare</a>. <a href=https://my-egret.com/>Egret (Walberg Urban Electrics) — web oficial</a> y <a href=https://www.dgt.es/nuestros-servicios/para-colaboradores-y-empresas/vehiculos-de-movilidad-personal-vmp/distribuidores/>DGT — certificación de VMP</a>*`,
+El Ey! 6 (799 €) ofrece ficha completa y 551 Wh; el Ey! 7 es la apuesta budget con sello Bosch. Si el precio manda, el 7.`,
   },
   // ─────────────────────────── TURBOANT (3) ───────────────────────────
   {
@@ -3788,11 +3676,7 @@ Sí: va en el mástil y **se carga separada** del patinete.
 Neumática para confort, honeycomb para olvidarte de pinchazos.
 
 ### ¿Merece la pena frente al X7 Pro?
-El Max añade batería extraíble y más rango; el Pro ya estaba en el comparador. Si la batería extraíble te importa, el Max.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://eridehero.com/turboant-x7-max-electric-scooter-review/>prueba en ERideHero</a> y <a href=https://turboant.com/products/x7-max-folding-electric-scooter>TurboAnt oficial</a>.*`,
+El Max añade batería extraíble y más rango; el Pro ya estaba en el comparador. Si la batería extraíble te importa, el Max.`,
   },
   {
     slug: "turboant-r9",
@@ -3994,10 +3878,6 @@ Conviene **ajustarlo a 25 km/h** (de serie da 26).
 **14 kg**: ligero de verdad.
 
 ### ¿Para quién es?
-Estudiantes y trayectos cortos: no le pidas más de 15 km al día.
-
-¿Te han multado circulando con tu patinete? <a href=https://recurretumulta.online/#analizador>Analiza tu multa gratis con nuestra IA</a> antes de pagarla: te decimos si es recurrible.
-
-*Fuentes: <a href=https://turboant.com/pages/best-electric-scooter-for-campus>TurboAnt oficial</a> y <a href=https://the-gadgeteer.com/2022/12/18/turboant-m10-lite-folding-electric-scooter-review-zippy-and-fun-transportation/>análisis en The Gadgeteer</a>.*`,
+Estudiantes y trayectos cortos: no le pidas más de 15 km al día.`,
   },
 ];

@@ -90,8 +90,6 @@ La filosofía es la misma: guardar tu configuración personal de asistentes y re
 Omoda & Jaecoo y Lepas, que comparten base tecnológica con Ebro, ya ofrecen un sistema similar de configuración personal de asistentes y ajustes.
 
 ### ¿El s800 PHEV MY2027 cambia en mecánica?
-No: mantiene el híbrido enchufable de 279 CV, hasta 90 km de autonomía eléctrica y más de 1.100 km de autonomía total, con 7 plazas. La novedad está en la personalización, el diseño, el confort y la tecnología.
-
-*Fuentes: <a href=https://www.autonocion.com/ebro-s800-phev-perfiles-adas/>Autonoción</a>, <a href=https://apmc.cat/apmc/el-ebro-s800-phev-adapta-sus-sistemas-de-asistencia-a-las-preferencias-de-cada-conductor/>APMC</a> y <a href=https://www.dgt.es>Dirección General de Tráfico</a>.*`
+No: mantiene el híbrido enchufable de 279 CV, hasta 90 km de autonomía eléctrica y más de 1.100 km de autonomía total, con 7 plazas. La novedad está en la personalización, el diseño, el confort y la tecnología.`
   }
 ];

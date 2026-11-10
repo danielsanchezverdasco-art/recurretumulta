@@ -110,11 +110,7 @@ Sin datos EuroNCAP. No hay prueba publicada para este modelo.
 
 ### ¿Ti 9 y Tai 9 son el mismo coche?
 
-**Sí. Ti 9 y Tai 9 SON EL MISMO COCHE. No se publican como dos modelos distintos.** El nombre principal es **Fang Cheng Bao Ti 9** (grafía de los materiales en inglés de BYD). **Tai 9** queda como alias: «También conocido como Tai 9». Pruebas: el mismo carácter chino 钛9 (titanio); CnEVPost escribe «Tai 9 (or Ti 9)»; FreshMotors: «badged Ti 9 in BYD's English-language material»; y la misma ficha MIIT con cifras idénticas en el artículo CnEVPost «Tai 9» (07/08/2026) y en CarNewsChina «Ti9» (11/08/2026): 5.270 / 1.999 / 1.850–1.880 mm, batalla 3.130 mm, peso 2.865 / 2.965 kg, 1.5T 110 kW, 2 motores 200 kW, batería 66,48 kWh LFP, 310 km eléctricos, Vmax 220 km/h.
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-
-*Fuentes: <a href=https://www.hibridosyelectricos.com/coches/byd-prepara-gigantesco-suv-hibrido-527-metros-con-2300-km-autonomia-bateria-se-recarga-en-solo-9-minutos_89828_102.html>Híbridos y Eléctricos</a>, <a href=https://carnewschina.com/2026/08/11/byd-fang-cheng-bao-ti9-officially-revealed-with-6-seats-dual-200-kw-motors-and-310-km-ev-range/>CarNewsChina (revelación 11/08/2026)</a>, <a href=https://carnewschina.com/2026/08/21/byd-fcb-ti-9-phev-crossover-with-310-km-ev-range-made-live-debut-in-china/>CarNewsChina (debut Chengdu)</a>, <a href=https://carnewschina.com/2026/10/09/byd-fang-cheng-bao-ti-9-reveals-a-new-body-color-ahead-of-q4-launch/>CarNewsChina (color Meteorite Black)</a>, <a href=https://cnevpost.com/2026/08/03/byd-fang-cheng-bao-teases-tai-9/>CnEVPost</a>, <a href=https://www.freshmotors.net/articles/2026-byd-fangchengbao-tai-9-six-seat-phev-flagship-with-1-600-km-range>FreshMotors</a>, <a href=https://en.wikipedia.org/wiki/Fangchengbao_Ti9>Wikipedia</a>, <a href=https://newatlas.com/automotive/byds-fcb-ti9/>NewAtlas</a>. Precio, ciclo de homologación, potencia combinada, par, 0–100, consumo, maletero, kW de carga, garantía y mantenimiento: a verificar.*`,
+**Sí. Ti 9 y Tai 9 SON EL MISMO COCHE. No se publican como dos modelos distintos.** El nombre principal es **Fang Cheng Bao Ti 9** (grafía de los materiales en inglés de BYD). **Tai 9** queda como alias: «También conocido como Tai 9». Pruebas: el mismo carácter chino 钛9 (titanio); CnEVPost escribe «Tai 9 (or Ti 9)»; FreshMotors: «badged Ti 9 in BYD's English-language material»; y la misma ficha MIIT con cifras idénticas en el artículo CnEVPost «Tai 9» (07/08/2026) y en CarNewsChina «Ti9» (11/08/2026): 5.270 / 1.999 / 1.850–1.880 mm, batalla 3.130 mm, peso 2.865 / 2.965 kg, 1.5T 110 kW, 2 motores 200 kW, batería 66,48 kWh LFP, 310 km eléctricos, Vmax 220 km/h.`,
   },
   {
     slug: "ds-f3ver-concept-paris-2026",
@@ -264,12 +260,7 @@ Su lenguaje de luz (Y vertical y elemento central con el emblema), la personaliz
 
 ### ¿Se puede comprar el DS F3VER o reservarlo?
 
-No. Es un concept de salón, sin versión comercial. Si buscas un DS compacto comprable hoy, la referencia es el DS 3; el F3VER solo muestra hacia dónde puede ir el diseño de la marca.
-
-**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
-
-
-*Fuentes: <a href=https://www.media.stellantis.com/uk-en/ds/press/a-new-design-expression-ds-automobiles-f3ver-concept1>nota oficial DS / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>, <a href=https://dsautomobiles.es/modelos/ds3/hybrid.html>DS 3 en la web oficial DS España (referencia)</a>.*`,
+No. Es un concept de salón, sin versión comercial. Si buscas un DS compacto comprable hoy, la referencia es el DS 3; el F3VER solo muestra hacia dónde puede ir el diseño de la marca.`,
   },
   {
     slug: "fiat-multiplay-concept-paris-2026",
@@ -421,9 +412,7 @@ El «Petsenger seat» es una unidad modular del Multiplay que puede ser anclaje 
 
 ### ¿Qué motor, precio o autonomía tiene el FIAT Multiplay?
 
-Ninguno anunciado. FIAT no ha publicado motor, potencia, batería, autonomía, consumo, precio, fecha de lanzamiento ni EuroNCAP para el Multiplay, porque es un concept y no un modelo de producción. Cualquier cifra de ese tipo que veas en otro sitio es inventada o especulación: no la damos por buena aquí.
-
-*Fuentes: <a href=https://www.media.stellantis.com/em-en/fiat/press/fiat-multiplay-makes-his-debuts-in-paris-3-in-1-vehicle>nota oficial FIAT / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>.*`,
+Ninguno anunciado. FIAT no ha publicado motor, potencia, batería, autonomía, consumo, precio, fecha de lanzamiento ni EuroNCAP para el Multiplay, porque es un concept y no un modelo de producción. Cualquier cifra de ese tipo que veas en otro sitio es inventada o especulación: no la damos por buena aquí.`,
   },
   {
     slug: "opel-stx-concept-paris-2026",
@@ -752,11 +741,7 @@ PEUGEOT no ha confirmado ninguna versión de producción del RCZ Vision. Lo que 
 
 ### ¿Qué tiene que ver el RCZ Vision con el RCZ original?
 
-Es su sucesor conceptual: recupera el nombre y los rasgos icónicos del cupé RCZ (2009–2015) —techo de doble burbuja, alerón activo, detalles triangulares en las llantas— reinterpretados con propulsión eléctrica, plataforma basada en STLA One y cabina de 4 plazas reales.
-
-**¿Te han multado?** Antes de pagar, <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con la IA</a> y comprueba si se puede recurrir.
-
-*Fuentes: <a href=https://www.media.stellantis.com/em-en/peugeot/press/peugeot-rcz-vision-emotion-at-the-heart-of-the-future-of-peugeot>nota oficial PEUGEOT / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>.*`,
+Es su sucesor conceptual: recupera el nombre y los rasgos icónicos del cupé RCZ (2009–2015) —techo de doble burbuja, alerón activo, detalles triangulares en las llantas— reinterpretados con propulsión eléctrica, plataforma basada en STLA One y cabina de 4 plazas reales.`,
   },
   {
     slug: "cuotas-hibridos-chinos-ue-china-2026",
@@ -906,12 +891,7 @@ El pacto se refiere a las exportaciones desde China. Los modelos fabricados en p
 
 La cifra (350.000/año, +6%, 4 años) ya la detalló la Comisión el 12/10. La cumbre de líderes del jueves 15 de octubre la discutirá primero; después, la Comisión debe publicar el texto legal con el mecanismo de reparto, los precios mínimos y las excepciones. Hasta entonces, falta la letra pequeña jurídica.
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-
-
-*Artículo publicado el 14 de octubre de 2026. Tercera entrega de la serie: <a href=/blog/ue-bruselas-cuotas-hibridos-chinos/>Bruselas frena a los híbridos chinos</a> (08/10) y <a href=/blog/ue-china-freno-hibridos-enchufables/>UE y China pactan freno a híbridos</a> (11/10).*
-
-*Fuentes: <a href=https://www.reuters.com/es/negocio/IXA5ART5XJLSBKN2T5JQLGGJHY-2026-10-12/>Reuters (Ministerio de Comercio de China, 12/10)</a>, <a href=https://www.reuters.com/es/negocio/APNLFUKKC5MKTHQ7EPF3354NQQ-2026-10-12/>Reuters (restricciones al auge de híbridos chinos, 12/10)</a>, <a href=https://www.reuters.com/business/autos-transportation/eu-eyes-december-trade-initiatives-after-china-car-import-deal-2026-10-12/>Reuters (iniciativas de diciembre, 12/10)</a>, Reglamento de Ejecución (UE) 2024/2754.*`,
+*Artículo publicado el 14 de octubre de 2026. Tercera entrega de la serie: <a href=/blog/ue-bruselas-cuotas-hibridos-chinos/>Bruselas frena a los híbridos chinos</a> (08/10) y <a href=/blog/ue-china-freno-hibridos-enchufables/>UE y China pactan freno a híbridos</a> (11/10).*`,
   },
 
   {
@@ -2032,8 +2012,6 @@ Sí, techo duro retráctil.
 Solo para coleccionistas de kei cars.
 
 *Datos contrastados con la web oficial de la marca y prensa especializada. EuroNCAP: <a href=https://www.euroncap.com>euroncap.com</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -2117,7 +2095,7 @@ Fiat Tipo: 3 estrellas EuroNCAP (2016).
 
 ### ¿Qué garantía tiene el Fiat Tipo SW?
 
-Garantía del fabricante en modelos parecidos (Fiat 500, Fiat Panda): 2 años. Fuente: garantía Fiat España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Fiat 500, Fiat Panda): 2 años.
 
 ### ¿Merece la pena comprar el Fiat Tipo SW?
 
@@ -2215,7 +2193,7 @@ Sí, se vende en España.
 
 ### ¿Qué garantía tiene el Ford Explorer PHEV?
 
-Garantía del fabricante en modelos parecidos (Ford Kuga, Ford Puma): 2 años; batería 8 años. Fuente: garantía Ford España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Ford Kuga, Ford Puma): 2 años; batería 8 años.
 
 ### ¿Merece la pena comprar el Ford Explorer PHEV?
 
@@ -2297,7 +2275,7 @@ Sin datos EuroNCAP (no se vende en Europa).
 
 ### ¿Cuánto cuesta el Ford F-150 Lightning 2025?
 
-Precio verificado (oficial EE.UU.): desde 47.780 $ en EE.UU. (Pro, con destino). No se vende en España. Fuente: configurador Ford EE.UU.
+Precio verificado (oficial EE.UU.): desde 47.780 $ en EE.UU. (Pro, con destino). No se vende en España.
 
 ### ¿Cuántos CV tiene el Ford F-150 Lightning 2025?
 
@@ -2313,7 +2291,7 @@ Sin datos EuroNCAP (no se vende en Europa).
 
 ### ¿Qué garantía tiene el Ford F-150 Lightning?
 
-Ford EE.UU.: 3 años/36.000 mi básica; batería 8 años/100.000 mi. Fuente: garantía Ford EE.UU. para este modelo.
+Ford EE.UU.: 3 años/36.000 mi básica; batería 8 años/100.000 mi.
 
 ### ¿Merece la pena comprar el Ford F-150 Lightning?
 
@@ -2411,7 +2389,7 @@ Sí, se vende en España.
 
 ### ¿Qué garantía tiene el Ford Fiesta ST?
 
-Garantía del fabricante en modelos parecidos (Ford Fiesta, Ford Puma): 2 años. Fuente: garantía Ford España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Ford Fiesta, Ford Puma): 2 años.
 
 ### ¿Merece la pena comprar el Ford Fiesta ST?
 
@@ -2508,7 +2486,7 @@ Sin datos EuroNCAP (no se vende en Europa).
 
 ### ¿Qué garantía tiene el Ford Maverick?
 
-Garantía del fabricante en modelos parecidos (Ford Ranger, Ford F-150): 3 años/36.000 mi básica. Fuente: garantía Ford EE.UU. en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Ford Ranger, Ford F-150): 3 años/36.000 mi básica.
 
 ### ¿Merece la pena comprar el Ford Maverick?
 
@@ -2590,7 +2568,7 @@ Sin datos EuroNCAP (no se vende en Europa oficialmente).
 
 ### ¿Cuánto cuesta el Ford Mustang GTD 2025?
 
-Precio verificado (oficial EE.UU.): desde 327.960 $ en EE.UU. (con destino y gas guzzler). No se vende en España oficialmente. Fuente: configurador Ford EE.UU.
+Precio verificado (oficial EE.UU.): desde 327.960 $ en EE.UU. (con destino y gas guzzler). No se vende en España oficialmente.
 
 ### ¿Cuántos CV tiene el Ford Mustang GTD 2025?
 
@@ -2606,7 +2584,7 @@ Sin datos EuroNCAP (no se vende en Europa oficialmente).
 
 ### ¿Qué garantía tiene el Ford Mustang GTD?
 
-Garantía del fabricante en modelos parecidos (Ford Mustang, Ford F-150): 3 años/36.000 mi básica. Fuente: garantía Ford EE.UU. en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Ford Mustang, Ford F-150): 3 años/36.000 mi básica.
 
 ### ¿Merece la pena comprar el Ford Mustang GTD?
 
@@ -2704,7 +2682,7 @@ Ranger base: 5 estrellas EuroNCAP (2022). MS-RT sin prueba específica.
 
 ### ¿Qué garantía tiene el Ford Ranger MS-RT?
 
-Garantía del fabricante en modelos parecidos (Ford Ranger, Ford Kuga): 2 años. Fuente: garantía Ford España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Ford Ranger, Ford Kuga): 2 años.
 
 ### ¿Merece la pena comprar el Ford Ranger MS-RT?
 
@@ -2802,7 +2780,7 @@ Sin datos EuroNCAP específicos para Nugget Plus.
 
 ### ¿Qué garantía tiene el Ford Transit Nugget Plus?
 
-Garantía del fabricante en modelos parecidos (Ford Transit Custom, Ford Transit): 2 años. Fuente: garantía Ford España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Ford Transit Custom, Ford Transit): 2 años.
 
 ### ¿Merece la pena comprar el Ford Transit Nugget Plus?
 
@@ -2900,7 +2878,7 @@ Sin datos EuroNCAP (el G70 no tiene prueba EuroNCAP).
 
 ### ¿Qué garantía tiene el Genesis G70?
 
-Genesis EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz. Fuente: garantía Genesis EE.UU. para este modelo.
+Genesis EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz.
 
 ### ¿Merece la pena comprar el Genesis G70?
 
@@ -3034,15 +3012,11 @@ No se vende oficialmente en España. Esta ficha lo dice claramente y usa el prec
 
 ### ¿Qué garantía tiene el Genesis G80?
 
-Genesis EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz. Fuente: garantía Genesis EE.UU. para este modelo.
+Genesis EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz.
 
 ### ¿Merece la pena comprar el Genesis G80?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -3161,15 +3135,11 @@ No se vende oficialmente en España. Esta ficha lo dice claramente y usa el prec
 
 ### ¿Qué garantía tiene el Genesis GV80?
 
-Genesis EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz. Fuente: garantía Genesis EE.UU. para este modelo.
+Genesis EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz.
 
 ### ¿Merece la pena comprar el Genesis GV80?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -3290,15 +3260,11 @@ Sin datos EuroNCAP (no se vende en Europa).
 
 ### ¿Qué garantía tiene el Honda Accord?
 
-Garantía del fabricante en modelos parecidos (Honda Civic, Honda CR-V): 3 años/36.000 mi. Fuente: garantía Honda EE.UU. en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Honda Civic, Honda CR-V): 3 años/36.000 mi.
 
 ### ¿Merece la pena comprar el Honda Accord?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -3604,10 +3570,6 @@ Ninguna: al ser un modelo descatalogado de ocasión, no cuenta con garantía.
 ### ¿Merece la pena comprar el Honda S2000?
 
 Depende de lo que busques en un clásico: si te encaja un roadster de 240 CV con maletero de solo 142 l y consumo en torno a 9,5 l/100 km, merece una mirada seria; si necesitas practicidad diaria, compara antes con dos o tres rivales de su categoría con los datos de esta ficha.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -3728,15 +3690,11 @@ Sin datos EuroNCAP (no se vende en Europa).
 
 ### ¿Qué garantía tiene el Hyundai Elantra N?
 
-Garantía del fabricante en modelos parecidos (Hyundai i30 N, Hyundai Kona N): 5 años/60.000 mi. Fuente: garantía Hyundai EE.UU. en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Hyundai i30 N, Hyundai Kona N): 5 años/60.000 mi.
 
 ### ¿Merece la pena comprar el Hyundai Elantra N?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -3857,15 +3815,11 @@ Hyundai i20 base: 4 estrellas EuroNCAP (2021). Variante N sin prueba específica
 
 ### ¿Qué garantía tiene el Hyundai i20 N?
 
-Hyundai España: 5 años sin límite de km. Fuente: garantía Hyundai España para este modelo.
+Hyundai España: 5 años sin límite de km.
 
 ### ¿Merece la pena comprar el Hyundai i20 N?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -3988,10 +3942,6 @@ Sí, está a la venta en España.
 ### ¿Merece la pena comprar el Hyundai i30 Fastback N?
 
 Míralo frente a 2 o 3 rivales de su categoría antes de decidir: precio, consumo, maletero y garantía son los cuatro puntos que más cambian la elección. Aquí tienes los datos; la decisión final es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -4114,10 +4064,6 @@ Cobertura quinquenal sin límite de kilómetros, con Hyundai España.
 ### ¿Merece la pena comprar el Hyundai Kona N?
 
 Antes de decidir, míralo frente a 2 o 3 rivales de su categoría: precio, consumo, maletero y garantía. Los datos están en esta ficha; la elección es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -4240,10 +4186,6 @@ La referencia de garantía es la del fabricante en modelos parecidos, el Isuzu D
 ### ¿Merece la pena comprar el Isuzu MU-X?
 
 Depende de tu uso: antes de decidir, compara precio, consumo y autonomía, maletero y garantía con 2 o 3 rivales de la misma categoría. Esta ficha aporta los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -4363,15 +4305,11 @@ Sí, se vende en España.
 
 ### ¿Qué garantía tiene el Jaguar XE?
 
-Garantía del fabricante en modelos parecidos (Jaguar XF, Jaguar F-Pace): 3 años. Fuente: garantía Jaguar España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Jaguar XF, Jaguar F-Pace): 3 años.
 
 ### ¿Merece la pena comprar el Jaguar XE?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -4491,15 +4429,11 @@ Sí, se vende en España.
 
 ### ¿Qué garantía tiene el Jaguar XF?
 
-Garantía del fabricante en modelos parecidos (Jaguar XE, Jaguar F-Pace): 3 años. Fuente: garantía Jaguar España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Jaguar XE, Jaguar F-Pace): 3 años.
 
 ### ¿Merece la pena comprar el Jaguar XF?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -4708,15 +4642,11 @@ Sin datos EuroNCAP (el Gladiator no tiene prueba EuroNCAP).
 
 ### ¿Qué garantía tiene el Jeep Gladiator?
 
-Garantía del fabricante en modelos parecidos (Jeep Wrangler, Jeep Compass): 2 años. Fuente: garantía Jeep España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Jeep Wrangler, Jeep Compass): 2 años.
 
 ### ¿Merece la pena comprar el Jeep Gladiator?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -4839,10 +4769,6 @@ En modelos parecidos (Grand Cherokee, Wrangler), la garantía del fabricante es 
 ### ¿Merece la pena comprar el Jeep Grand Cherokee L?
 
 Compáralo con 2 o 3 rivales de su categoría antes de decidir —precio, consumo, maletero y garantía— y decide con los datos de esta ficha en la mano.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -4968,10 +4894,6 @@ La referencia es la garantía de modelos parecidos, Jeep Wrangler y Jeep Grand C
 ### ¿Merece la pena comprar el Jeep Wrangler Rubicon 392?
 
 Depende de para qué lo quieras: si buscas un todoterreno V8 puro y aceptas un consumo en torno a 14 l/100 km, tiene sentido; si priorizas uso diario y costes, compáralo antes con dos o tres alternativas de su categoría usando los datos de esta ficha.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -5092,15 +5014,11 @@ Sin datos EuroNCAP (no se vende en Europa).
 
 ### ¿Qué garantía tiene el Kia Carnival?
 
-Kia EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz. Fuente: garantía Kia EE.UU. para este modelo.
+Kia EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz.
 
 ### ¿Merece la pena comprar el Kia Carnival?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -5221,15 +5139,11 @@ Kia Ceed base: 5 estrellas EuroNCAP (2019). Variante GT sin prueba específica.
 
 ### ¿Qué garantía tiene el Kia Ceed GT?
 
-Kia España: 7 años / 150.000 km. Fuente: garantía Kia España para este modelo.
+Kia España: 7 años / 150.000 km.
 
 ### ¿Merece la pena comprar el Kia Ceed GT?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -5350,15 +5264,11 @@ El EV3 base tiene 5 estrellas EuroNCAP de 2024. La variante GT no cuenta con pru
 
 ### ¿Qué garantía tiene el Kia EV3 GT?
 
-La garantía del fabricante en modelos parecidos, Kia EV3 y Kia EV6, es de 7 años o 150.000 km en Europa, con 8 años para la batería. Fuente: la garantía Kia Europa en modelos parecidos.
+La garantía del fabricante en modelos parecidos, Kia EV3 y Kia EV6, es de 7 años o 150.000 km en Europa, con 8 años para la batería.
 
 ### ¿Merece la pena comprar el Kia EV3 GT?
 
 Depende de tu uso: antes de decidir, compara precio, consumo y autonomía, maletero y garantía con 2 o 3 rivales de la misma categoría. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -5568,15 +5478,11 @@ Sí, se vende en España.
 
 ### ¿Qué garantía tiene el Kia Stinger?
 
-Kia España: 7 años / 150.000 km. Fuente: garantía Kia España para este modelo.
+Kia España: 7 años / 150.000 km.
 
 ### ¿Merece la pena comprar el Kia Stinger?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -5687,11 +5593,11 @@ Sin datos EuroNCAP (sin prueba publicada; modelo no vendido en Europa).
 
 ### ¿Qué garantía tiene el Lexus GX 550?
 
-Garantía: 3 años o 100.000 km + Lexus Relax hasta 10 años / 160.000 km con mantenimiento en red oficial. Fuente: prensa Lexus España.
+Garantía: 3 años o 100.000 km + Lexus Relax hasta 10 años / 160.000 km con mantenimiento en red oficial.
 
 ### ¿Cada cuánto se revisa el Lexus GX 550?
 
-Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa Lexus Relax).
+Mantenimiento: revisión anual o cada 15.000 km.
 
 ## Enlaces
 
@@ -5794,7 +5700,7 @@ En su día compitió con las berlinas alemanas diésel; hoy, quien busque esta f
 
 ### ¿Cuánto cuesta el Lexus IS 300h?
 
-El precio es 39.000 € (oficial). Última tarifa oficial en España (versión Business, 2021). Modelo descatalogado nuevo. Fuente: km77.
+El precio es 39.000 € (oficial). Última tarifa oficial en España (versión Business, 2021). Modelo descatalogado nuevo.
 
 ### ¿Cuántos CV tiene el Lexus IS 300h?
 
@@ -5806,15 +5712,15 @@ Consumo homologado: 5,7 l/100 km.
 
 ### ¿Qué EuroNCAP tiene el Lexus IS 300h?
 
-5 estrellas EuroNCAP (2013) — prueba del Lexus IS. Fuente: prensa Lexus / DrivingElectric.
+5 estrellas EuroNCAP (2013) — prueba del Lexus IS.
 
 ### ¿Qué garantía tiene el Lexus IS 300h?
 
-Garantía: 3 años o 100.000 km + Lexus Relax hasta 10 años / 160.000 km con mantenimiento en red oficial. Fuente: prensa Lexus España.
+Garantía: 3 años o 100.000 km + Lexus Relax hasta 10 años / 160.000 km con mantenimiento en red oficial.
 
 ### ¿Cada cuánto se revisa el Lexus IS 300h?
 
-Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa Lexus Relax).
+Mantenimiento: revisión anual o cada 15.000 km.
 
 ## Enlaces
 
@@ -5934,11 +5840,11 @@ Sin datos EuroNCAP (sin prueba publicada).
 
 ### ¿Qué garantía tiene el Lexus LM 350h?
 
-Garantía: 3 años o 100.000 km + Lexus Relax hasta 10 años / 160.000 km con mantenimiento en red oficial. Fuente: prensa Lexus España.
+Garantía: 3 años o 100.000 km + Lexus Relax hasta 10 años / 160.000 km con mantenimiento en red oficial.
 
 ### ¿Cada cuánto se revisa el Lexus LM 350h?
 
-Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa Lexus Relax).
+Mantenimiento: revisión anual o cada 15.000 km.
 
 ## Enlaces
 
@@ -6423,12 +6329,7 @@ Su lenguaje de luz (Y vertical y elemento central con el emblema), la personaliz
 
 ### ¿Se puede comprar el DS F3VER o reservarlo?
 
-No. Es un concept de salón, sin versión comercial. Si buscas un DS compacto comprable hoy, la referencia es el DS 3; el F3VER solo muestra hacia dónde puede ir el diseño de la marca.
-
-**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
-
-
-*Fuentes: <a href=https://www.media.stellantis.com/uk-en/ds/press/a-new-design-expression-ds-automobiles-f3ver-concept1>nota oficial DS / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>, <a href=https://dsautomobiles.es/modelos/ds3/hybrid.html>DS 3 en la web oficial DS España (referencia)</a>.*`,
+No. Es un concept de salón, sin versión comercial. Si buscas un DS compacto comprable hoy, la referencia es el DS 3; el F3VER solo muestra hacia dónde puede ir el diseño de la marca.`,
   },
   {
     slug: "fiat-multiplay-concept-paris-2026",
@@ -6580,9 +6481,7 @@ El «Petsenger seat» es una unidad modular del Multiplay que puede ser anclaje 
 
 ### ¿Qué motor, precio o autonomía tiene el FIAT Multiplay?
 
-Ninguno anunciado. FIAT no ha publicado motor, potencia, batería, autonomía, consumo, precio, fecha de lanzamiento ni EuroNCAP para el Multiplay, porque es un concept y no un modelo de producción. Cualquier cifra de ese tipo que veas en otro sitio es inventada o especulación: no la damos por buena aquí.
-
-*Fuentes: <a href=https://www.media.stellantis.com/em-en/fiat/press/fiat-multiplay-makes-his-debuts-in-paris-3-in-1-vehicle>nota oficial FIAT / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>.*`,
+Ninguno anunciado. FIAT no ha publicado motor, potencia, batería, autonomía, consumo, precio, fecha de lanzamiento ni EuroNCAP para el Multiplay, porque es un concept y no un modelo de producción. Cualquier cifra de ese tipo que veas en otro sitio es inventada o especulación: no la damos por buena aquí.`,
   },
   {
     slug: "opel-stx-concept-paris-2026",
@@ -6911,11 +6810,7 @@ PEUGEOT no ha confirmado ninguna versión de producción del RCZ Vision. Lo que 
 
 ### ¿Qué tiene que ver el RCZ Vision con el RCZ original?
 
-Es su sucesor conceptual: recupera el nombre y los rasgos icónicos del cupé RCZ (2009–2015) —techo de doble burbuja, alerón activo, detalles triangulares en las llantas— reinterpretados con propulsión eléctrica, plataforma basada en STLA One y cabina de 4 plazas reales.
-
-**¿Te han multado?** Antes de pagar, <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con la IA</a> y comprueba si se puede recurrir.
-
-*Fuentes: <a href=https://www.media.stellantis.com/em-en/peugeot/press/peugeot-rcz-vision-emotion-at-the-heart-of-the-future-of-peugeot>nota oficial PEUGEOT / Stellantis Media (11/10/2026)</a>, <a href=https://www.media.stellantis.com/es-es/corporate/press/stellantis-presenta-seis-concept-cars-the-night-before-del-salon-del-automovil-de-paris>nota Stellantis «The Night Before»</a>.*`,
+Es su sucesor conceptual: recupera el nombre y los rasgos icónicos del cupé RCZ (2009–2015) —techo de doble burbuja, alerón activo, detalles triangulares en las llantas— reinterpretados con propulsión eléctrica, plataforma basada en STLA One y cabina de 4 plazas reales.`,
   },
   {
     slug: "cuotas-hibridos-chinos-ue-china-2026",
@@ -7065,12 +6960,7 @@ El pacto se refiere a las exportaciones desde China. Los modelos fabricados en p
 
 La cifra (350.000/año, +6%, 4 años) ya la detalló la Comisión el 12/10. La cumbre de líderes del jueves 15 de octubre la discutirá primero; después, la Comisión debe publicar el texto legal con el mecanismo de reparto, los precios mínimos y las excepciones. Hasta entonces, falta la letra pequeña jurídica.
 
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-
-
-*Artículo publicado el 14 de octubre de 2026. Tercera entrega de la serie: <a href=/blog/ue-bruselas-cuotas-hibridos-chinos/>Bruselas frena a los híbridos chinos</a> (08/10) y <a href=/blog/ue-china-freno-hibridos-enchufables/>UE y China pactan freno a híbridos</a> (11/10).*
-
-*Fuentes: <a href=https://www.reuters.com/es/negocio/IXA5ART5XJLSBKN2T5JQLGGJHY-2026-10-12/>Reuters (Ministerio de Comercio de China, 12/10)</a>, <a href=https://www.reuters.com/es/negocio/APNLFUKKC5MKTHQ7EPF3354NQQ-2026-10-12/>Reuters (restricciones al auge de híbridos chinos, 12/10)</a>, <a href=https://www.reuters.com/business/autos-transportation/eu-eyes-december-trade-initiatives-after-china-car-import-deal-2026-10-12/>Reuters (iniciativas de diciembre, 12/10)</a>, Reglamento de Ejecución (UE) 2024/2754.*`,
+*Artículo publicado el 14 de octubre de 2026. Tercera entrega de la serie: <a href=/blog/ue-bruselas-cuotas-hibridos-chinos/>Bruselas frena a los híbridos chinos</a> (08/10) y <a href=/blog/ue-china-freno-hibridos-enchufables/>UE y China pactan freno a híbridos</a> (11/10).*`,
   },
 
   {
@@ -8191,8 +8081,6 @@ Sí, techo duro retráctil.
 Solo para coleccionistas de kei cars.
 
 *Datos contrastados con la web oficial de la marca y prensa especializada. EuroNCAP: <a href=https://www.euroncap.com>euroncap.com</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -8276,7 +8164,7 @@ Fiat Tipo: 3 estrellas EuroNCAP (2016).
 
 ### ¿Qué garantía tiene el Fiat Tipo SW?
 
-Garantía del fabricante en modelos parecidos (Fiat 500, Fiat Panda): 2 años. Fuente: garantía Fiat España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Fiat 500, Fiat Panda): 2 años.
 
 ### ¿Merece la pena comprar el Fiat Tipo SW?
 
@@ -8374,7 +8262,7 @@ Sí, se vende en España.
 
 ### ¿Qué garantía tiene el Ford Explorer PHEV?
 
-Garantía del fabricante en modelos parecidos (Ford Kuga, Ford Puma): 2 años; batería 8 años. Fuente: garantía Ford España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Ford Kuga, Ford Puma): 2 años; batería 8 años.
 
 ### ¿Merece la pena comprar el Ford Explorer PHEV?
 
@@ -8456,7 +8344,7 @@ Sin datos EuroNCAP (no se vende en Europa).
 
 ### ¿Cuánto cuesta el Ford F-150 Lightning 2025?
 
-Precio verificado (oficial EE.UU.): desde 47.780 $ en EE.UU. (Pro, con destino). No se vende en España. Fuente: configurador Ford EE.UU.
+Precio verificado (oficial EE.UU.): desde 47.780 $ en EE.UU. (Pro, con destino). No se vende en España.
 
 ### ¿Cuántos CV tiene el Ford F-150 Lightning 2025?
 
@@ -8472,7 +8360,7 @@ Sin datos EuroNCAP (no se vende en Europa).
 
 ### ¿Qué garantía tiene el Ford F-150 Lightning?
 
-Ford EE.UU.: 3 años/36.000 mi básica; batería 8 años/100.000 mi. Fuente: garantía Ford EE.UU. para este modelo.
+Ford EE.UU.: 3 años/36.000 mi básica; batería 8 años/100.000 mi.
 
 ### ¿Merece la pena comprar el Ford F-150 Lightning?
 
@@ -8570,7 +8458,7 @@ Sí, se vende en España.
 
 ### ¿Qué garantía tiene el Ford Fiesta ST?
 
-Garantía del fabricante en modelos parecidos (Ford Fiesta, Ford Puma): 2 años. Fuente: garantía Ford España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Ford Fiesta, Ford Puma): 2 años.
 
 ### ¿Merece la pena comprar el Ford Fiesta ST?
 
@@ -8667,7 +8555,7 @@ Sin datos EuroNCAP (no se vende en Europa).
 
 ### ¿Qué garantía tiene el Ford Maverick?
 
-Garantía del fabricante en modelos parecidos (Ford Ranger, Ford F-150): 3 años/36.000 mi básica. Fuente: garantía Ford EE.UU. en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Ford Ranger, Ford F-150): 3 años/36.000 mi básica.
 
 ### ¿Merece la pena comprar el Ford Maverick?
 
@@ -8749,7 +8637,7 @@ Sin datos EuroNCAP (no se vende en Europa oficialmente).
 
 ### ¿Cuánto cuesta el Ford Mustang GTD 2025?
 
-Precio verificado (oficial EE.UU.): desde 327.960 $ en EE.UU. (con destino y gas guzzler). No se vende en España oficialmente. Fuente: configurador Ford EE.UU.
+Precio verificado (oficial EE.UU.): desde 327.960 $ en EE.UU. (con destino y gas guzzler). No se vende en España oficialmente.
 
 ### ¿Cuántos CV tiene el Ford Mustang GTD 2025?
 
@@ -8765,7 +8653,7 @@ Sin datos EuroNCAP (no se vende en Europa oficialmente).
 
 ### ¿Qué garantía tiene el Ford Mustang GTD?
 
-Garantía del fabricante en modelos parecidos (Ford Mustang, Ford F-150): 3 años/36.000 mi básica. Fuente: garantía Ford EE.UU. en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Ford Mustang, Ford F-150): 3 años/36.000 mi básica.
 
 ### ¿Merece la pena comprar el Ford Mustang GTD?
 
@@ -8863,7 +8751,7 @@ Ranger base: 5 estrellas EuroNCAP (2022). MS-RT sin prueba específica.
 
 ### ¿Qué garantía tiene el Ford Ranger MS-RT?
 
-Garantía del fabricante en modelos parecidos (Ford Ranger, Ford Kuga): 2 años. Fuente: garantía Ford España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Ford Ranger, Ford Kuga): 2 años.
 
 ### ¿Merece la pena comprar el Ford Ranger MS-RT?
 
@@ -8961,7 +8849,7 @@ Sin datos EuroNCAP específicos para Nugget Plus.
 
 ### ¿Qué garantía tiene el Ford Transit Nugget Plus?
 
-Garantía del fabricante en modelos parecidos (Ford Transit Custom, Ford Transit): 2 años. Fuente: garantía Ford España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Ford Transit Custom, Ford Transit): 2 años.
 
 ### ¿Merece la pena comprar el Ford Transit Nugget Plus?
 
@@ -9059,7 +8947,7 @@ Sin datos EuroNCAP (el G70 no tiene prueba EuroNCAP).
 
 ### ¿Qué garantía tiene el Genesis G70?
 
-Genesis EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz. Fuente: garantía Genesis EE.UU. para este modelo.
+Genesis EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz.
 
 ### ¿Merece la pena comprar el Genesis G70?
 
@@ -9193,15 +9081,11 @@ No se vende oficialmente en España. Esta ficha lo dice claramente y usa el prec
 
 ### ¿Qué garantía tiene el Genesis G80?
 
-Genesis EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz. Fuente: garantía Genesis EE.UU. para este modelo.
+Genesis EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz.
 
 ### ¿Merece la pena comprar el Genesis G80?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -9320,15 +9204,11 @@ No se vende oficialmente en España. Esta ficha lo dice claramente y usa el prec
 
 ### ¿Qué garantía tiene el Genesis GV80?
 
-Genesis EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz. Fuente: garantía Genesis EE.UU. para este modelo.
+Genesis EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz.
 
 ### ¿Merece la pena comprar el Genesis GV80?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -9449,15 +9329,11 @@ Sin datos EuroNCAP (no se vende en Europa).
 
 ### ¿Qué garantía tiene el Honda Accord?
 
-Garantía del fabricante en modelos parecidos (Honda Civic, Honda CR-V): 3 años/36.000 mi. Fuente: garantía Honda EE.UU. en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Honda Civic, Honda CR-V): 3 años/36.000 mi.
 
 ### ¿Merece la pena comprar el Honda Accord?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -9763,10 +9639,6 @@ Ninguna: al ser un modelo descatalogado de ocasión, no cuenta con garantía.
 ### ¿Merece la pena comprar el Honda S2000?
 
 Depende de lo que busques en un clásico: si te encaja un roadster de 240 CV con maletero de solo 142 l y consumo en torno a 9,5 l/100 km, merece una mirada seria; si necesitas practicidad diaria, compara antes con dos o tres rivales de su categoría con los datos de esta ficha.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -9887,15 +9759,11 @@ Sin datos EuroNCAP (no se vende en Europa).
 
 ### ¿Qué garantía tiene el Hyundai Elantra N?
 
-Garantía del fabricante en modelos parecidos (Hyundai i30 N, Hyundai Kona N): 5 años/60.000 mi. Fuente: garantía Hyundai EE.UU. en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Hyundai i30 N, Hyundai Kona N): 5 años/60.000 mi.
 
 ### ¿Merece la pena comprar el Hyundai Elantra N?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -10016,15 +9884,11 @@ Hyundai i20 base: 4 estrellas EuroNCAP (2021). Variante N sin prueba específica
 
 ### ¿Qué garantía tiene el Hyundai i20 N?
 
-Hyundai España: 5 años sin límite de km. Fuente: garantía Hyundai España para este modelo.
+Hyundai España: 5 años sin límite de km.
 
 ### ¿Merece la pena comprar el Hyundai i20 N?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -10147,10 +10011,6 @@ Sí, está a la venta en España.
 ### ¿Merece la pena comprar el Hyundai i30 Fastback N?
 
 Míralo frente a 2 o 3 rivales de su categoría antes de decidir: precio, consumo, maletero y garantía son los cuatro puntos que más cambian la elección. Aquí tienes los datos; la decisión final es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -10273,10 +10133,6 @@ Cobertura quinquenal sin límite de kilómetros, con Hyundai España.
 ### ¿Merece la pena comprar el Hyundai Kona N?
 
 Antes de decidir, míralo frente a 2 o 3 rivales de su categoría: precio, consumo, maletero y garantía. Los datos están en esta ficha; la elección es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -10399,10 +10255,6 @@ La referencia de garantía es la del fabricante en modelos parecidos, el Isuzu D
 ### ¿Merece la pena comprar el Isuzu MU-X?
 
 Depende de tu uso: antes de decidir, compara precio, consumo y autonomía, maletero y garantía con 2 o 3 rivales de la misma categoría. Esta ficha aporta los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -10522,15 +10374,11 @@ Sí, se vende en España.
 
 ### ¿Qué garantía tiene el Jaguar XE?
 
-Garantía del fabricante en modelos parecidos (Jaguar XF, Jaguar F-Pace): 3 años. Fuente: garantía Jaguar España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Jaguar XF, Jaguar F-Pace): 3 años.
 
 ### ¿Merece la pena comprar el Jaguar XE?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -10650,15 +10498,11 @@ Sí, se vende en España.
 
 ### ¿Qué garantía tiene el Jaguar XF?
 
-Garantía del fabricante en modelos parecidos (Jaguar XE, Jaguar F-Pace): 3 años. Fuente: garantía Jaguar España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Jaguar XE, Jaguar F-Pace): 3 años.
 
 ### ¿Merece la pena comprar el Jaguar XF?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -10867,15 +10711,11 @@ Sin datos EuroNCAP (el Gladiator no tiene prueba EuroNCAP).
 
 ### ¿Qué garantía tiene el Jeep Gladiator?
 
-Garantía del fabricante en modelos parecidos (Jeep Wrangler, Jeep Compass): 2 años. Fuente: garantía Jeep España en modelos parecidos.
+Garantía del fabricante en modelos parecidos (Jeep Wrangler, Jeep Compass): 2 años.
 
 ### ¿Merece la pena comprar el Jeep Gladiator?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -10998,10 +10838,6 @@ En modelos parecidos (Grand Cherokee, Wrangler), la garantía del fabricante es 
 ### ¿Merece la pena comprar el Jeep Grand Cherokee L?
 
 Compáralo con 2 o 3 rivales de su categoría antes de decidir —precio, consumo, maletero y garantía— y decide con los datos de esta ficha en la mano.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -11127,10 +10963,6 @@ La referencia es la garantía de modelos parecidos, Jeep Wrangler y Jeep Grand C
 ### ¿Merece la pena comprar el Jeep Wrangler Rubicon 392?
 
 Depende de para qué lo quieras: si buscas un todoterreno V8 puro y aceptas un consumo en torno a 14 l/100 km, tiene sentido; si priorizas uso diario y costes, compáralo antes con dos o tres alternativas de su categoría usando los datos de esta ficha.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -11251,15 +11083,11 @@ Sin datos EuroNCAP (no se vende en Europa).
 
 ### ¿Qué garantía tiene el Kia Carnival?
 
-Kia EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz. Fuente: garantía Kia EE.UU. para este modelo.
+Kia EE.UU.: 5 años/60.000 mi + 10 años/100.000 mi tren motriz.
 
 ### ¿Merece la pena comprar el Kia Carnival?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -11380,15 +11208,11 @@ Kia Ceed base: 5 estrellas EuroNCAP (2019). Variante GT sin prueba específica.
 
 ### ¿Qué garantía tiene el Kia Ceed GT?
 
-Kia España: 7 años / 150.000 km. Fuente: garantía Kia España para este modelo.
+Kia España: 7 años / 150.000 km.
 
 ### ¿Merece la pena comprar el Kia Ceed GT?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -11509,15 +11333,11 @@ El EV3 base tiene 5 estrellas EuroNCAP de 2024. La variante GT no cuenta con pru
 
 ### ¿Qué garantía tiene el Kia EV3 GT?
 
-La garantía del fabricante en modelos parecidos, Kia EV3 y Kia EV6, es de 7 años o 150.000 km en Europa, con 8 años para la batería. Fuente: la garantía Kia Europa en modelos parecidos.
+La garantía del fabricante en modelos parecidos, Kia EV3 y Kia EV6, es de 7 años o 150.000 km en Europa, con 8 años para la batería.
 
 ### ¿Merece la pena comprar el Kia EV3 GT?
 
 Depende de tu uso: antes de decidir, compara precio, consumo y autonomía, maletero y garantía con 2 o 3 rivales de la misma categoría. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -11727,15 +11547,11 @@ Sí, se vende en España.
 
 ### ¿Qué garantía tiene el Kia Stinger?
 
-Kia España: 7 años / 150.000 km. Fuente: garantía Kia España para este modelo.
+Kia España: 7 años / 150.000 km.
 
 ### ¿Merece la pena comprar el Kia Stinger?
 
 Depende de tu uso: compara precio, consumo/autonomía, maletero y garantía con 2-3 rivales de la misma categoría antes de decidir. Esta ficha da los datos; la decisión es tuya.
-
-*Fuentes: Ver fuentes (fuentes oficiales + prensa verificada). Cero cifras inventadas: precio aproximado no oficial marcado + fuente; mantenimiento orientativo de similar misma marca; garantía de parecidos marcada; EuroNCAP honesto.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
 `,
   },
   {
@@ -11846,11 +11662,11 @@ Sin datos EuroNCAP (sin prueba publicada; modelo no vendido en Europa).
 
 ### ¿Qué garantía tiene el Lexus GX 550?
 
-Garantía: 3 años o 100.000 km + Lexus Relax hasta 10 años / 160.000 km con mantenimiento en red oficial. Fuente: prensa Lexus España.
+Garantía: 3 años o 100.000 km + Lexus Relax hasta 10 años / 160.000 km con mantenimiento en red oficial.
 
 ### ¿Cada cuánto se revisa el Lexus GX 550?
 
-Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa Lexus Relax).
+Mantenimiento: revisión anual o cada 15.000 km.
 
 ## Enlaces
 
@@ -11953,7 +11769,7 @@ En su día compitió con las berlinas alemanas diésel; hoy, quien busque esta f
 
 ### ¿Cuánto cuesta el Lexus IS 300h?
 
-El precio es 39.000 € (oficial). Última tarifa oficial en España (versión Business, 2021). Modelo descatalogado nuevo. Fuente: km77.
+El precio es 39.000 € (oficial). Última tarifa oficial en España (versión Business, 2021). Modelo descatalogado nuevo.
 
 ### ¿Cuántos CV tiene el Lexus IS 300h?
 
@@ -11965,15 +11781,15 @@ Consumo homologado: 5,7 l/100 km.
 
 ### ¿Qué EuroNCAP tiene el Lexus IS 300h?
 
-5 estrellas EuroNCAP (2013) — prueba del Lexus IS. Fuente: prensa Lexus / DrivingElectric.
+5 estrellas EuroNCAP (2013) — prueba del Lexus IS.
 
 ### ¿Qué garantía tiene el Lexus IS 300h?
 
-Garantía: 3 años o 100.000 km + Lexus Relax hasta 10 años / 160.000 km con mantenimiento en red oficial. Fuente: prensa Lexus España.
+Garantía: 3 años o 100.000 km + Lexus Relax hasta 10 años / 160.000 km con mantenimiento en red oficial.
 
 ### ¿Cada cuánto se revisa el Lexus IS 300h?
 
-Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa Lexus Relax).
+Mantenimiento: revisión anual o cada 15.000 km.
 
 ## Enlaces
 
@@ -12093,11 +11909,11 @@ Sin datos EuroNCAP (sin prueba publicada).
 
 ### ¿Qué garantía tiene el Lexus LM 350h?
 
-Garantía: 3 años o 100.000 km + Lexus Relax hasta 10 años / 160.000 km con mantenimiento en red oficial. Fuente: prensa Lexus España.
+Garantía: 3 años o 100.000 km + Lexus Relax hasta 10 años / 160.000 km con mantenimiento en red oficial.
 
 ### ¿Cada cuánto se revisa el Lexus LM 350h?
 
-Mantenimiento: revisión anual o cada 15.000 km. Fuente: Lexus España (programa Lexus Relax).
+Mantenimiento: revisión anual o cada 15.000 km.
 
 ## Enlaces
 
@@ -14318,7 +14134,7 @@ Precio aproximado no oficial: 29.140 £ (Ego+ RS, concesionarios Energica UK). L
 Vehículo 2 años; batería 3 años / 50.000 km (Energica UK / Bikes4Sale).
 ### ¿Qué mantenimiento necesita?
 
-Mantenimiento orientativo (modelo similar Eva, misma marca): revisiones a 1.000 / 10.000 / 20.000 km y cada 12 / 24 meses según manual Energica Eva. Fuente: https://s81b12f53dcca2766.jimcontent.com/download/version/1654534486/module/12994204526/name/Energica%20Eva%20Electric%20Motorcycle%20Owner%27s%20Manual%20PDF.pdf. Eléctrica: sin aceite ni embrague.
+Mantenimiento orientativo (modelo similar Eva, misma marca): revisiones a 1.000 / 10.000 / 20.000 km y cada 12 / 24 meses según manual Energica Eva.
 
 ## Enlaces relacionados
 
@@ -14438,7 +14254,7 @@ Precio aproximado no oficial: 24.590 £ (Hayball, concesionario Energica UK). Si
 Vehículo 2 años; batería 3 años / 50.000 km (Energica UK).
 ### ¿Qué mantenimiento necesita?
 
-Mantenimiento según manual Energica Eva: revisiones a 1.000 / 10.000 / 20.000 km y cada 12 / 24 meses. Fuente: https://s81b12f53dcca2766.jimcontent.com/download/version/1654534486/module/12994204526/name/Energica%20Eva%20Electric%20Motorcycle%20Owner%27s%20Manual%20PDF.pdf. Eléctrica: sin aceite ni embrague.
+Mantenimiento según manual Energica Eva: revisiones a 1.000 / 10.000 / 20.000 km y cada 12 / 24 meses.
 
 ## Enlaces relacionados
 
@@ -14701,7 +14517,7 @@ Mantenimiento orientativo (modelo similar Caballero 700, misma marca): control d
     readTime: 5,
     locale: "es",
     keywords: ["FB Mondial HPS 125 2025", "FB Mondial HPS 125 precio", "FB Mondial HPS 125 ficha técnica", "FB Mondial HPS 125 opiniones", "motos FB Mondial 2025"],
-    content: `<img src=/media/fb-mondial-hps-125-2025-ficha-tecnica-precio-hero.webp alt=FB Mondial HPS 125 2025>\n\n*Foto: 1000PS (no oficial). Licencia desconocida / posible copyright.*\n\n> Precio en página: **3.999 €**. Precio de referencia no oficial 3.999 € versión ABS (concesionario Factory Bike / Motosan). No es PVP oficial.\n\n## HPS 125 2025: lo esencial\n\nLa HPS 125 es la hipster de FB Mondial: estética retro, pantalla TFT de 7 pulgadas y motor de origen Piaggio con inyección.\n\nPara quien busca una 125 distinta, con estilo café-scrambler y conducción con carnet B.\n\n## Ficha rápida\n\n| Dato | Valor |\n|---|---|\n| Modelo | HPS 125 2025 |\n| Categoría | Naked retro 125 |\n| Carnet | A1 / B |\n| Cilindrada | 124,2 cc |\n| Potencia | 10 kW / 13,6 CV |\n| Par | 10,5 Nm |\n| Peso | 133 kg en orden de marcha |\n| Altura del asiento | 790 mm |\n| Depósito / batería | 9,5 l |\n| Precio en página | 3.999 € |\n| EuroNCAP | sin datos EuroNCAP (motos no tienen prueba EuroNCAP) |\n\n<img src=/media/fb-mondial-hps-125-2025-ficha-tecnica-precio-2.webp alt=FB Mondial HPS 125 2025, detalle>\n\n*Foto: SoyMotero (no oficial). Licencia desconocida / posible copyright.*\n## Historia del modelo\n\n- **2017 aprox.** — FB Mondial relanza la HPS 125 como modelo hipster. Fecha exacta a verificar.\n- **2021 aprox.** — La HPS 125 se actualiza con instrumentación TFT y ABS. Fecha exacta a verificar.\n- **2025** — HPS 125i ABS 2025 con 13,6 CV, 133 kg y consumo declarado de 2,4 l/100 km según 1000PS.\n\n## Mantenimiento\n\nRevisiones a 1.000 / 6.000 / 12.000 / 18.000 / 24.000 km + anual; aceite del motor en cada revisión; filtro de aceite según tabla del manual; cadena cada 500 km. Fuente: Manual del propietario FB Mondial HPS 125 Euro 5, Tabla de mantenimiento periódico (https://docs.gestionaweb.cat/3774/manual-de-usuario-hps-125-euro-5-esp-2783803.pdf).\n\n## Garantía\n\n3 años de garantía FB Mondial + 2 años de extensión gratuita = 5 años en total (fb-mondial.es, condiciones: mantenimiento según manual en concesionario oficial). Fuente: https://www.fb-mondial.es/content/dam/moteo/mondial/general/warranty/spain/5%20A%C3%B1os%20de%20garant%C3%ADa%20mondial.pdf.\n\n## Historia de la HPS: de las carreras al estilo hipster\n\nFB son las iniciales de Fratelli Boselli, fundada en 1936 por los hermanos Boselli. Mondial acumuló diez títulos mundiales en las pequeñas cilindradas: Pagani ganó el de 125 en 1949, Ruffo en 1950 y Ubbiali en 1951, antes del doblete de 125 y 250 de 1957. Cerró en 1979 y volvió en 2014, cuando Pierluigi Boselli, descendiente de los fundadores, y Cesare Galli, de Pelpi International, dibujaron la moto del renacimiento: la Hipster, hoy HPS, con depósito protagonista, guardabarros cortos y doble escape alto. Hubo incluso una Ubbiali Edition de 999 unidades, 42 para España. Más en la <a href=/motos/fb-mondial-hps-125-2025-ficha-tecnica-precio>ficha completa de la FB Mondial HPS 125 2025</a>.\n\n## Por dentro: motor Piaggio y TFT de 7 pulgadas\n\nEl monocilíndrico de origen Piaggio lleva doble árbol de levas, cuatro válvulas, refrigeración líquida e inyección Dell'Orto Euro 5, con embrague multidisco en baño de aceite y seis velocidades. La parte ciclo: chasis doble cuna de acero, horquilla invertida, doble amortiguador trasero con botella separada y precarga regulable, y un disco delantero de 280 mm con pinza radial de cuatro pistones, poco habitual a este precio. Según la ficha, la versión ABS suma iluminación full LED.\n\n| Componente | Dato de la HPS 125 2025 |\n|---|---|\n| Motor | Monocilíndrico DOHC, 4 válvulas, refrigeración líquida |\n| Horquilla | Invertida de 40 mm, 97 mm de recorrido |\n| Frenos | Disco de 280 mm delante y 220 mm detrás |\n| Pantalla | TFT de 7 pulgadas, modos Clásica y Racing |\n\nLa pantalla es de las mayores del A1 y alterna vista clásica y vista Racing, con fondo invertido de noche.\n\n## En el día a día: ligera, con límites claros\n\nCon 133 kg y asiento a 790 mm, se mueve fácil entre coches y no intimida al novato. El consumo declarado de 2,4 l/100 km según 1000PS daría sobre el papel unos 395 km con los 9,5 litros, aunque en uso real será menos: la ficha advierte de que el depósito es justo en ruta. Sus límites: 13,6 CV quedan bajo el tope de 15 CV del A1, así que en carretera abierta va más justa que una 125 a plena potencia, y la postura es algo comprometida para pilotos altos. Con la misma estética y más cilindrada, la casa ofrece la <a href=/motos/fb-mondial-hps-300-2018-ficha-tecnica-precio>FB Mondial HPS 300</a>.\n\n## Mantenimiento y garantía de 5 años\n\nEl manual Euro 5 fija revisiones a los 1.000, 6.000, 12.000, 18.000 y 24.000 km, además de la anual, con aceite en cada visita, filtro según tabla y cadena cada 500 km. Sin tarifa oficial publicada, no inventamos precios: es un 125 de consumibles habituales. Lo diferencial es la garantía: 3 años más 2 de extensión gratuita, 5 en total según fb-mondial.es, condicionados a cumplir el plan en concesionario oficial.\n\n## Carnet: A1 y B con tres años\n\nLa HPS entra sin trampas en el A1: 124,2 cc frente al máximo de 125, 10 kW frente al tope de 11 kW y unos 0,075 kW/kg, bajo el límite de 0,1. El A1 se obtiene desde los 16 años. Con el B y más de tres años puedes conducirla en España sin examen adicional, pero esa equivalencia solo vale en territorio nacional. Está homologada Euro 5 y la ficha la registra con etiqueta DGT C. Sin Euro NCAP: esa prueba es de coches; aquí mandan ABS, casco y formación.\n\n## Frente a sus rivales retro y de la propia casa\n\nCon datos de las fichas del sitio: la <a href=/motos/fantic-caballero-125-rally-2025-ficha-tecnica-precio>Fantic Caballero 125 Rally</a> juega la carta scrambler con los 15 CV completos y 130 kg, pero cuesta 5.990 €, unos 2.000 € más. La Hanway SC 125 S también declara 15 CV y baja a 3.489 €, aunque pesa 149 kg. Y la <a href=/motos/fb-mondial-piega-125>FB Mondial Piega 125</a> ofrece 14,28 CV y 123,5 kg por 4.449 €, con postura más deportiva. La HPS no gana en potencia: gana en diseño, pantalla y garantía.\n\n**Veredicto:** ¿merece la pena? Sí, si buscas una 125 con marchas para el A1 o el B y el diseño te importa tanto como las cifras: ligera, bien frenada y con una TFT impropia de su categoría, por un precio de referencia de 3.999 €, no oficial, a confirmar en concesionario. Para ti no, si quieres los 15 CV completos, mides más de 1,85 m o planeas rutas largas.\n\n## Preguntas frecuentes\n\n### ¿La HPS 125 se puede conducir con carnet B?\n\nSí, con B con más de 3 años, como toda 125 de hasta 11 kW. Confirma en la DGT.\n\n### ¿Qué versión elegir: CBS o ABS?\n\nLa ABS añade frenada antibloqueo y suele costar unos 200 € más en las ofertas consultadas. Por seguridad, la ABS es la recomendable.\n\n### ¿Cuánto cuesta HPS 125 2025 en España?\n\nPrecio de referencia no oficial: 3.999 € versión ABS (Factory Bike/Motosan).\n### ¿Qué garantía tiene?\n\n3 años de garantía FB Mondial + 2 años de extensión gratuita = 5 años en total (fb-mondial.es, condiciones: mantenimiento según manual en concesionario oficial). Fuente: https://www.fb-mondial.es/content/dam/moteo/mondial/general/warranty/spain/5%20A%C3%B1os%20de%20garant%C3%ADa%20mondial.pdf.\n### ¿Qué mantenimiento necesita?\n\nRevisiones a 1.000 / 6.000 / 12.000 / 18.000 / 24.000 km + anual; aceite del motor en cada revisión; filtro de aceite según tabla del manual; cadena cada 500 km. Fuente: Manual del propietario FB Mondial HPS 125 Euro 5, Tabla de mantenimiento periódico (https://docs.gestionaweb.cat/3774/manual-de-usuario-hps-125-euro-5-esp-2783803.pdf).\n### ¿Qué potencia tiene HPS 125 2025?\n\n13,6 CV (10 kW).\n\n## Enlaces relacionados\n\n- <a href=/motos/fb-mondial-imola-125-2024-ficha-tecnica-precio>FB Mondial Imola 125 2024</a>\n- <a href=/motos/fb-mondial-hps-300-2018-ficha-tecnica-precio>FB Mondial HPS 300</a>\n- <a href=/motos/fb-mondial-piega-452-2025-ficha-tecnica-precio>FB Mondial Piega 452 2025</a>\n- <a href=/motos/fb-mondial-imola-125-2026-ficha-tecnica-precio>FB Mondial Imola 125</a>\n\n- <a href=/analizador/>Analizador de multas</a> — Antes de recurrir, analiza tu multa.\n\n*Fuentes: <a href=https://www.fb-mondial.es>web oficial de FB Mondial España</a>.*`,
+    content: `<img src=/media/fb-mondial-hps-125-2025-ficha-tecnica-precio-hero.webp alt=FB Mondial HPS 125 2025>\\n\\n*Foto: 1000PS (no oficial). Licencia desconocida / posible copyright.*\\n\\n> Precio en página: **3.999 €**. Precio de referencia no oficial 3.999 € versión ABS (concesionario Factory Bike / Motosan). No es PVP oficial.\\n\\n## HPS 125 2025: lo esencial\\n\\nLa HPS 125 es la hipster de FB Mondial: estética retro, pantalla TFT de 7 pulgadas y motor de origen Piaggio con inyección.\\n\\nPara quien busca una 125 distinta, con estilo café-scrambler y conducción con carnet B.\\n\\n## Ficha rápida\\n\\n| Dato | Valor |\\n|---|---|\\n| Modelo | HPS 125 2025 |\\n| Categoría | Naked retro 125 |\\n| Carnet | A1 / B |\\n| Cilindrada | 124,2 cc |\\n| Potencia | 10 kW / 13,6 CV |\\n| Par | 10,5 Nm |\\n| Peso | 133 kg en orden de marcha |\\n| Altura del asiento | 790 mm |\\n| Depósito / batería | 9,5 l |\\n| Precio en página | 3.999 € |\\n| EuroNCAP | sin datos EuroNCAP (motos no tienen prueba EuroNCAP) |\\n\\n<img src=/media/fb-mondial-hps-125-2025-ficha-tecnica-precio-2.webp alt=FB Mondial HPS 125 2025, detalle>\\n\\n*Foto: SoyMotero (no oficial). Licencia desconocida / posible copyright.*\\n## Historia del modelo\\n\\n- **2017 aprox.** — FB Mondial relanza la HPS 125 como modelo hipster. Fecha exacta a verificar.\\n- **2021 aprox.** — La HPS 125 se actualiza con instrumentación TFT y ABS. Fecha exacta a verificar.\\n- **2025** — HPS 125i ABS 2025 con 13,6 CV, 133 kg y consumo declarado de 2,4 l/100 km según 1000PS.\\n\\n## Mantenimiento\\n\\nRevisiones a 1.000 / 6.000 / 12.000 / 18.000 / 24.000 km + anual; aceite del motor en cada revisión; filtro de aceite según tabla del manual; cadena cada 500 km. Fuente: Manual del propietario FB Mondial HPS 125 Euro 5, Tabla de mantenimiento periódico (https://docs.gestionaweb.cat/3774/manual-de-usuario-hps-125-euro-5-esp-2783803.pdf).\\n\\n## Garantía\\n\\n3 años de garantía FB Mondial + 2 años de extensión gratuita = 5 años en total (fb-mondial.es, condiciones: mantenimiento según manual en concesionario oficial). Fuente: https://www.fb-mondial.es/content/dam/moteo/mondial/general/warranty/spain/5%20A%C3%B1os%20de%20garant%C3%ADa%20mondial.pdf.\\n\\n## Historia de la HPS: de las carreras al estilo hipster\\n\\nFB son las iniciales de Fratelli Boselli, fundada en 1936 por los hermanos Boselli. Mondial acumuló diez títulos mundiales en las pequeñas cilindradas: Pagani ganó el de 125 en 1949, Ruffo en 1950 y Ubbiali en 1951, antes del doblete de 125 y 250 de 1957. Cerró en 1979 y volvió en 2014, cuando Pierluigi Boselli, descendiente de los fundadores, y Cesare Galli, de Pelpi International, dibujaron la moto del renacimiento: la Hipster, hoy HPS, con depósito protagonista, guardabarros cortos y doble escape alto. Hubo incluso una Ubbiali Edition de 999 unidades, 42 para España. Más en la <a href=/motos/fb-mondial-hps-125-2025-ficha-tecnica-precio>ficha completa de la FB Mondial HPS 125 2025</a>.\\n\\n## Por dentro: motor Piaggio y TFT de 7 pulgadas\\n\\nEl monocilíndrico de origen Piaggio lleva doble árbol de levas, cuatro válvulas, refrigeración líquida e inyección Dell'Orto Euro 5, con embrague multidisco en baño de aceite y seis velocidades. La parte ciclo: chasis doble cuna de acero, horquilla invertida, doble amortiguador trasero con botella separada y precarga regulable, y un disco delantero de 280 mm con pinza radial de cuatro pistones, poco habitual a este precio. Según la ficha, la versión ABS suma iluminación full LED.\\n\\n| Componente | Dato de la HPS 125 2025 |\\n|---|---|\\n| Motor | Monocilíndrico DOHC, 4 válvulas, refrigeración líquida |\\n| Horquilla | Invertida de 40 mm, 97 mm de recorrido |\\n| Frenos | Disco de 280 mm delante y 220 mm detrás |\\n| Pantalla | TFT de 7 pulgadas, modos Clásica y Racing |\\n\\nLa pantalla es de las mayores del A1 y alterna vista clásica y vista Racing, con fondo invertido de noche.\\n\\n## En el día a día: ligera, con límites claros\\n\\nCon 133 kg y asiento a 790 mm, se mueve fácil entre coches y no intimida al novato. El consumo declarado de 2,4 l/100 km según 1000PS daría sobre el papel unos 395 km con los 9,5 litros, aunque en uso real será menos: la ficha advierte de que el depósito es justo en ruta. Sus límites: 13,6 CV quedan bajo el tope de 15 CV del A1, así que en carretera abierta va más justa que una 125 a plena potencia, y la postura es algo comprometida para pilotos altos. Con la misma estética y más cilindrada, la casa ofrece la <a href=/motos/fb-mondial-hps-300-2018-ficha-tecnica-precio>FB Mondial HPS 300</a>.\\n\\n## Mantenimiento y garantía de 5 años\\n\\nEl manual Euro 5 fija revisiones a los 1.000, 6.000, 12.000, 18.000 y 24.000 km, además de la anual, con aceite en cada visita, filtro según tabla y cadena cada 500 km. Sin tarifa oficial publicada, no inventamos precios: es un 125 de consumibles habituales. Lo diferencial es la garantía: 3 años más 2 de extensión gratuita, 5 en total según fb-mondial.es, condicionados a cumplir el plan en concesionario oficial.\\n\\n## Carnet: A1 y B con tres años\\n\\nLa HPS entra sin trampas en el A1: 124,2 cc frente al máximo de 125, 10 kW frente al tope de 11 kW y unos 0,075 kW/kg, bajo el límite de 0,1. El A1 se obtiene desde los 16 años. Con el B y más de tres años puedes conducirla en España sin examen adicional, pero esa equivalencia solo vale en territorio nacional. Está homologada Euro 5 y la ficha la registra con etiqueta DGT C. Sin Euro NCAP: esa prueba es de coches; aquí mandan ABS, casco y formación.\\n\\n## Frente a sus rivales retro y de la propia casa\\n\\nCon datos de las fichas del sitio: la <a href=/motos/fantic-caballero-125-rally-2025-ficha-tecnica-precio>Fantic Caballero 125 Rally</a> juega la carta scrambler con los 15 CV completos y 130 kg, pero cuesta 5.990 €, unos 2.000 € más. La Hanway SC 125 S también declara 15 CV y baja a 3.489 €, aunque pesa 149 kg. Y la <a href=/motos/fb-mondial-piega-125>FB Mondial Piega 125</a> ofrece 14,28 CV y 123,5 kg por 4.449 €, con postura más deportiva. La HPS no gana en potencia: gana en diseño, pantalla y garantía.\\n\\n**Veredicto:** ¿merece la pena? Sí, si buscas una 125 con marchas para el A1 o el B y el diseño te importa tanto como las cifras: ligera, bien frenada y con una TFT impropia de su categoría, por un precio de referencia de 3.999 €, no oficial, a confirmar en concesionario. Para ti no, si quieres los 15 CV completos, mides más de 1,85 m o planeas rutas largas.\\n\\n## Preguntas frecuentes\\n\\n### ¿La HPS 125 se puede conducir con carnet B?\\n\\nSí, con B con más de 3 años, como toda 125 de hasta 11 kW. Confirma en la DGT.\\n\\n### ¿Qué versión elegir: CBS o ABS?\\n\\nLa ABS añade frenada antibloqueo y suele costar unos 200 € más en las ofertas consultadas. Por seguridad, la ABS es la recomendable.\\n\\n### ¿Cuánto cuesta HPS 125 2025 en España?\\n\\nPrecio de referencia no oficial: 3.999 € versión ABS (Factory Bike/Motosan).\\n### ¿Qué garantía tiene?\\n\\n3 años de garantía FB Mondial + 2 años de extensión gratuita = 5 años en total (fb-mondial.es, condiciones: mantenimiento según manual en concesionario oficial).\\n### ¿Qué mantenimiento necesita?\\n\\nRevisiones a 1.000 / 6.000 / 12.000 / 18.000 / 24.000 km + anual; aceite del motor en cada revisión; filtro de aceite según tabla del manual; cadena cada 500 km.\\n### ¿Qué potencia tiene HPS 125 2025?\\n\\n13,6 CV (10 kW).\\n\\n## Enlaces relacionados\\n\\n- <a href=/motos/fb-mondial-imola-125-2024-ficha-tecnica-precio>FB Mondial Imola 125 2024</a>\\n- <a href=/motos/fb-mondial-hps-300-2018-ficha-tecnica-precio>FB Mondial HPS 300</a>\\n- <a href=/motos/fb-mondial-piega-452-2025-ficha-tecnica-precio>FB Mondial Piega 452 2025</a>\\n- <a href=/motos/fb-mondial-imola-125-2026-ficha-tecnica-precio>FB Mondial Imola 125</a>\\n\\n- <a href=/analizador/>Analizador de multas</a> — Antes de recurrir, analiza tu multa.\\n\\n*Fuentes: <a href=https://www.fb-mondial.es>web oficial de FB Mondial España</a>.*`,
   },
 
   {

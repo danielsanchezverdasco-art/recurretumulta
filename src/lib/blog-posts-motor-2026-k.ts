@@ -116,9 +116,7 @@ La venta en Europa, con España incluida, se prevé para 2027.
 Como EREV que rebasa los 40 km en modo eléctrico, le corresponde el distintivo Cero.
 
 ### ¿El iCAUR V27 y el iCar V27 chino son el mismo coche?
-Sí: iCAUR es la denominación europea de la marca; en China se comercializa como iCar V27 desde marzo de 2026.
-
-*Fuentes: <a href=https://www.icaurglobal.com/>web oficial de iCAUR</a> y prensa especializada citada en el texto.*`,
+Sí: iCAUR es la denominación europea de la marca; en China se comercializa como iCar V27 desde marzo de 2026.`,
 },
 {
   title: "BMW F 450 R: naked A2 por 6.799 €",
@@ -233,9 +231,7 @@ Un embrague centrífugo que permite **arrancar, parar y cambiar sin accionar la 
 **175 kg** en orden de marcha, con un depósito de 14 litros que le da más de 350 km de autonomía.
 
 ### ¿La BMW F 450 R vale para el carnet A2?
-Sí: con 48 CV cumple el límite del **carnet A2** europeo sin necesidad de limitación.
-
-*Fuentes: BMW Motorrad (nota de prensa oficial): <a href=https://www.press.bmwgroup.com/global/article/detail/T0460765EN/bmw-motorrad-presents-the-new-bmw-f-450-r?language=en>press.bmwgroup.com</a>; fichas del comparador de motos de RecurreTuMulta.online (BMW F 450 R, Honda CB500 Hornet y Kawasaki Z500); Reglamento General de Conductores (permiso A2, DGT).*`,
+Sí: con 48 CV cumple el límite del **carnet A2** europeo sin necesidad de limitación.`,
 },
 {
   title: "Monster 2026: 111 CV, 12.990 €",
@@ -371,9 +367,7 @@ Un **concept 100% eléctrico** que reinterpreta el Espace original de 1984, desv
 El estreno mundial es el **12 de octubre de 2026 a las 8:30h** en el Salón del Automóvil de París.
 
 ### ¿El Renault E-Space llegará a producción?
-Es un concept: anticipa el lenguaje de diseño de los futuros familiares eléctricos de Renault, más que un modelo concreto a la venta.
-
-*Fuentes: <a href=https://www.renaultgroup.com/en/>Renault Group (web oficial)</a>, <a href=https://www.noticiasdelmotor.com/noticias/i/98282064/renault-presenta-e-space-concept-y-desvela-todas-sus-novedades-electricas-e-hibridas-para-el-salon-de-paris-2026>Noticias del Motor</a> (nota de prensa de Renault reproducida en el post original).*`,
+Es un concept: anticipa el lenguaje de diseño de los futuros familiares eléctricos de Renault, más que un modelo concreto a la venta.`,
 },
 {
   title: "Kia PV5: furgoneta eléctrica modular PBV para España",
@@ -466,9 +460,7 @@ La versión **Passenger** homologa **412 km WLTP** (71,2 kWh); la **Cargo** ofre
 Sí: la Cargo ofrece **4,4 m³** de volumen y es apta para **europalé**, con carga rápida del 10 al 80% en ~30 min.
 
 ### ¿Cuándo llega la Kia PV5 a España?
-Kia la ha presentado en Canarias en octubre de 2026; el calendario comercial para la península está pendiente de confirmación oficial.
-
-*Fuentes: <a href=https://www.kia.com/>Kia (web oficial)</a>, Motoraldia7 y Motor Actualidad (presentación en Canarias citada en el post original).*`,
+Kia la ha presentado en Canarias en octubre de 2026; el calendario comercial para la península está pendiente de confirmación oficial.`,
 },
 {
   title: "París 2026: todos los eléctricos",
@@ -574,9 +566,6 @@ Del **12 al 18 de octubre de 2026** en Paris Expo Porte de Versailles; el día d
 El **Citroën 2CV eléctrico**, con un precio objetivo por debajo de los **15.000 €**.
 
 ### ¿Hay alguna marca española en el Salón de París 2026?
-Sí: **Liux** presenta la versión de producción de su cuadriciclo **BIG**.
-
-
-*Fuentes: <a href=https://mondial-paris.com>web oficial del Salón del Automóvil de París (Mondial de l'Auto)</a>.*`,
+Sí: **Liux** presenta la versión de producción de su cuadriciclo **BIG**.`,
 },
 ];

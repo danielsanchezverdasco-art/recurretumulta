@@ -105,8 +105,6 @@ Toda la gama 2026 usa **litio-ferrofosfato (LFP)**, incluidas las versiones supe
 ### ¿Tiene etiqueta Cero de la DGT?
 Sí, al ser 100 % eléctrico le corresponde la **etiqueta CERO**, así que entra en todas las <a href=https://recurretumulta.online/guias/zbe>Zonas de Bajas Emisiones</a> sin restricciones. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
-Con 202 km/h de velocidad máxima y 487 CV en la versión Performance, conviene recordar que en España superar los límites sale caro: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
 ## Fuentes
 
 - <a href=https://carnewschina.com/2026/10/23/nios-firefly-launches-60-kwh-battery-version-same-size-same-weight-more-range/>CarNewsChina: Nio's Firefly launches 60 kWh battery version (23/10/2026)</a>
@@ -210,8 +208,6 @@ Standard (320 CV), Pro (496 CV) y Max (690 CV), más el radical **YU7 GT** de 1.
 ### ¿Quién fabrica los coches de Xiaomi?
 **Xiaomi EV**, la división automovilística del gigante tecnológico chino, en su propia fábrica de Pekín con la plataforma Modena de 800 V.
 
-Mientras esperamos a 2027, recuerda que con 253 km/h de velocidad máxima el YU7 no será precisamente un coche para despistarse con los límites: si te llega una <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
 ## Fuentes
 
 - <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
@@ -308,7 +304,7 @@ Sí, al ser 100 % eléctrico le corresponde la **etiqueta CERO** de la DGT. <a h
 ### ¿Hay una versión híbrida del S07?
 En otros mercados existe el **S07 REEV** (autonomía extendida con generador de gasolina), pero **no se vende en España** y no hay fecha confirmada.
 
-Con etiqueta CERO, el S07 entra en todas las <a href=https://recurretumulta.online/guias/zbe>Zonas de Bajas Emisiones</a> sin problema. Y si alguna vez te llega una multa —eléctrico o no, los radares no discriminan—, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+Con etiqueta CERO, el S07 entra en todas las <a href=https://recurretumulta.online/guias/zbe>Zonas de Bajas Emisiones</a> sin problema.
 
 ## Fuentes
 
@@ -433,8 +429,6 @@ Sí: es la **tercera marca del grupo NIO**, tras NIO y Onvo, posicionada como la
 ### ¿Tiene etiqueta Cero de la DGT?
 Al ser 100 % eléctrico le correspondería la **etiqueta CERO**, pero está **pendiente de confirmación oficial**. Te recomendamos verificarlo en la web de la DGT cuando se lance. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
-Un urbano de 150 km/h de velocidad máxima no parece una amenaza para tu carné, pero los radares de tramo en ciudad no perdonan ni a los eléctricos: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
 ## Fuentes
 
 - <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
@@ -537,8 +531,6 @@ En **Mioveni (Rumanía)**, en la histórica planta de Dacia. Los componentes del
 
 ### ¿Es más grande que el Duster?
 Sí: con 4,57 m es **23 cm más largo** que el Duster, y es el Dacia más grande jamás fabricado.
-
-Un SUV familiar de 4,57 metros invita a viajar, y en autovía es donde más multan los radares: si a la vuelta del viaje te encuentras una denuncia en el buzón, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
 
 ## Fuentes
 

@@ -80,11 +80,7 @@ Se expone en el **Salón del Automóvil de París** (12-18 de octubre de 2026), 
 Es estrategia, no nostalgia: con 25 marcas chinas en París, el patrimonio es la baza más difícil de copiar. Ya funcionó con el R5, el R4 y el Twingo eléctricos.
 
 ### ¿Qué significa la doble franja blanca del Gordini?
-El símbolo histórico de Gordini. En el concept deja de ser decoración y pasa a ser un elemento estructural del diseño que recorre hasta el interior.
-
-*Fuentes: <a href=https://prensa.renault.es/?p=64172>Renault España (oficial)</a> y <a href=https://www.carwow.es/renault/noticias/8246/renault-tira-nostalgia-8-gordini-concept-electrico>Carwow</a>.*
-
-¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
+El símbolo histórico de Gordini. En el concept deja de ser decoración y pasa a ser un elemento estructural del diseño que recorre hasta el interior.`
 },
 {
   "title": "Leapmotor B03: el compacto que reta al R5 en París",
@@ -152,11 +148,7 @@ Sí: el B03 es un hatchback compacto de 4,20 m, mientras que el B03X es un SUV. 
 Al ser 100 % eléctrico, llevará la **etiqueta Cero**, con acceso libre a las Zonas de Bajas Emisiones. Más detalles en nuestra <a href=/guias/zbe/>guía de ZBE</a>.
 
 ### ¿Por qué vende tanto Leapmotor en España?
-Precio agresivo, gama eléctrica completa y el respaldo industrial de Stellantis: 1.705 matriculaciones en septiembre, cinco veces más que hace un año.
-
-*Fuentes: <a href=https://www.km77.com/revista/noticias/salon-del-automovil-de-paris-2026-las-novedades-mas-relevantes/>km77</a>, <a href=https://etiqueta0.com/noticias/leapmotor-b03-electrico-392-km-europa-etiqueta-0>etiqueta0</a>.*
-
-¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
+Precio agresivo, gama eléctrica completa y el respaldo industrial de Stellantis: 1.705 matriculaciones en septiembre, cinco veces más que hace un año.`
 },
 {
   "title": "Fiat Grizzly: el SUV familiar que vuelve a lo esencial",
@@ -225,11 +217,7 @@ La prensa apunta a un máximo cercano a 400 km con acumuladores de 44 o 54 kWh, 
 La variante eléctrica portará la etiqueta Cero, la microhíbrida previsiblemente la ECO y la de gasolina la C. Puedes comprobarlo en nuestra <a href=/calculadora-etiqueta-dgt/>calculadora de etiqueta DGT</a>.
 
 ### ¿Reemplaza el Grizzly a algún Fiat actual?
-No de forma directa: abre para Fiat un segmento inédito, el de los C-SUV familiares, donde la marca no estaba presente, y se integra en la gama renovada junto al Grande Panda.
-
-*Fuentes: <a href=https://elperiodicodelaenergia.com/el-salon-del-automovil-de-paris-concentrara-mas-de-60-estrenos-entre-las-marcas-europeas-y-asiaticas/>elperiodicodelaenergia.com</a>, <a href=https://automedia.mx/salon-de-paris-2026-novedades-y-coches-nuevos/>automedia.mx</a>.*
-
-¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
+No de forma directa: abre para Fiat un segmento inédito, el de los C-SUV familiares, donde la marca no estaba presente, y se integra en la gama renovada junto al Grande Panda.`
 },
 {
   "title": "Mission Efficiency: 1.278 km con una sola recarga",
@@ -297,11 +285,7 @@ El coeficiente aerodinámico mide la resistencia al aire: cuanto más bajo, meno
 Los basados en la plataforma **MEB+** de tracción delantera: el ID. Polo, el futuro ID. Cross y, en parte, el próximo ID. Tiguan.
 
 ### ¿Cuándo se presentó el Mission Efficiency?
-Volkswagen lo presentó en septiembre de 2026, con los tres récords homologados por el instituto alemán RID.
-
-*Fuentes: <a href=https://volkswagen-mexico.prezly.com/mission-efficiency-volkswagen-presenta-el-auto-electrico-preserie-mas-eficiente-del-mundo>Volkswagen (oficial)</a>, <a href=https://soloauto.net/volkswagen-mission-efficiency-1278-km/>soloauto.net</a>.*
-
-¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
+Volkswagen lo presentó en septiembre de 2026, con los tres récords homologados por el instituto alemán RID.`
 },
 {
   "title": "Desmo450 EDS: la primera enduro de Ducati por 12.990 €",
@@ -377,11 +361,7 @@ Aceite y filtro cada **2.500 km**, holgura de válvulas cada **5.000 km** y serv
 **12 meses u 80 horas**, lo que ocurra antes.
 
 ### ¿Es la primera enduro de Ducati?
-Es su **primera moto de enduro moderna**: Ducati no tenía una enduro de serie en las últimas décadas.
-
-*Fuentes: <a href=https://www.ducati.com/mx/es/motocicletas/offroad/desmo450-eds/insights>Ducati (oficial)</a>, <a href=https://moteo.es/ducati-desmo450-eds-primera-moto-de-enduro-de-la-marca/>moteo.es</a>, <a href=https://soymotero.net/noticia/ducati-desmo450-eds-2026-lanzamiento/>soymotero.net</a>.*
-
-¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
+Es su **primera moto de enduro moderna**: Ducati no tenía una enduro de serie en las últimas décadas.`
 },
 {
   "title": "Desmo450 SM: ¿la supermotard definitiva por 13.990 €?",
@@ -493,10 +473,6 @@ Aceite cada **15 horas**, válvulas y pistón cada **45 horas**, y revisión com
 La SM es la versión de **asfalto** (supermotard, 5 marchas, frenos Stylema); la EDS es la de **campo** (enduro, 6 marchas, suspensiones de largo recorrido).
 
 ### ¿Cuál es su rival directa?
-La **KTM 450 SMR**, la referencia del segmento supermotard.
-
-*Fuentes: <a href=https://soymotero.net/noticia/ducati-desmo450-sm-supermotard-lanzamiento/>soymotero.net</a>, <a href=https://lamoto.com.ar/noticias/ducati-desmo450-sm-2026-la-nueva-supermotard-llegara-a-europa/>lamoto.com.ar</a>.*
-
-¿Te han puesto una multa? <a href=https://recurretumulta.online/#analizador>Analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
+La **KTM 450 SMR**, la referencia del segmento supermotard.`
 },
 ];

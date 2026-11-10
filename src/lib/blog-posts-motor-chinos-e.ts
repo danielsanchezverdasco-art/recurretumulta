@@ -99,8 +99,6 @@ Alpine lo define como "sport fastback" de 5 puertas y 5 plazas: más bajo y aero
 ### ¿Merece la pena frente al Porsche Macan eléctrico?
 El A390 GT cuesta unos 16.000 € menos que el Macan, con un planteamiento más deportivo y ligero. El Porsche ofrece más autonomía y una red más consolidada. Si buscas carácter francés y exclusividad, el Alpine juega fuerte.
 
-Con 470 CV bajo el pie derecho, ojo con los límites: si te llega una <a href=https://recurretumulta.online/guias/radares>multa por exceso de velocidad</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
 ## Fuentes
 
 - <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
@@ -201,7 +199,7 @@ El 4 es más alto, más largo y más práctico (más maletero, 5 plazas más des
 ### ¿Tiene etiqueta CERO de la DGT?
 Sí, al ser 100 % eléctrico le corresponde la etiqueta CERO, con acceso libre a las ZBE. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
 
-Si estrenas eléctrico, recuerda que el silencio del motor engaña con la velocidad: un <a href=https://recurretumulta.online/guias/radares>radar</a> no perdona ni a los retro. Si te llega una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
+Si estrenas eléctrico, recuerda que el silencio del motor engaña con la velocidad: un <a href=https://recurretumulta.online/guias/radares>radar</a> no perdona ni a los retro.
 
 ## Fuentes
 
@@ -303,8 +301,6 @@ En Francia, sobre la plataforma STLA Medium de Stellantis.
 ### ¿Merece la pena frente al Kia EV9?
 El E-5008 Long Range ofrece más autonomía (668 vs 563 km) por unos 19.000 € menos. El EV9 es más grande y premium. Para familias que miran la cartera, el Peugeot es imbatible.
 
-Un familiar de 2,4 toneladas y 325 CV invita a pisarle en los viajes: si un <a href=https://recurretumulta.online/guias/radares>radar</a> te caza en la autovía, <a href=https://recurretumulta.online/#analizador>analiza la multa gratis con nuestra IA</a> antes de pagar.
-
 ## Fuentes
 
 - <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
@@ -402,7 +398,7 @@ Es un urbano: 130 km/h de máxima y 250 km de autonomía. Para ciudad y alrededo
 ### ¿Merece la pena frente al Citroën ë-C3?
 El ë-C3 ofrece más autonomía (320 km) y 5 plazas, pero cuesta unos 5.000 € más. Si buscas el eléctrico más barato posible y te mueves por ciudad, el Spring sigue sin rival en precio.
 
-Urbano, ligero y barato: el Spring es perfecto para la <a href=https://recurretumulta.online/guias/zbe>ZBE</a>... pero ojo, que en ciudad también hay <a href=https://recurretumulta.online/guias/radares>radares</a>. Si te cazan, <a href=https://recurretumulta.online/#analizador>analiza la multa gratis</a> antes de pagar.
+Urbano, ligero y barato: el Spring es perfecto para la <a href=https://recurretumulta.online/guias/zbe>ZBE</a>... pero ojo, que en ciudad también hay <a href=https://recurretumulta.online/guias/radares>radares</a>.
 
 ## Fuentes
 
@@ -498,8 +494,6 @@ Sí: tiene V2L de 3,3 kW, modo camping configurable y hasta un "modo rescate" pa
 
 ### ¿Merece la pena frente al Tesla Model Y?
 El Model Y es más barato, tiene más autonomía y mejor red de carga. El Seres 5 ofrece más equipamiento de serie, 8 años de garantía y exclusividad. Si valoras la garantía y el equipamiento por encima de la red Tesla, es una alternativa seria.
-
-Con 585 CV en la versión 4WD, la tentación de pisarle es real: si un <a href=https://recurretumulta.online/guias/radares>radar</a> te pilla, <a href=https://recurretumulta.online/#analizador>analiza la multa gratis con nuestra IA</a> antes de pagar.
 
 ## Fuentes
 

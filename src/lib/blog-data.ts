@@ -268,10 +268,7 @@ Tres meses para las leves, seis para las graves y un año para las muy graves, c
 
 ### ¿Puede anular la multa una foto de radar ilegible?
 
-Puede: si la imagen no se puede leer, o no identifica con claridad el vehículo y la velocidad, la prueba carece de valor probatorio suficiente.
-
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
+Puede: si la imagen no se puede leer, o no identifica con claridad el vehículo y la velocidad, la prueba carece de valor probatorio suficiente.`,
   },
   {
     slug: "recurrir-multa-radar-velocidad",
@@ -386,10 +383,7 @@ Las normas exigen señales de preaviso que resulten visibles y que aparezcan con
 El modelo necesita la homologación del Ministerio de Industria. Puedes pedir el número asignado al equipo y comprobar que siga vigente; sin homologación en regla, la sanción no se sostiene.
 
 ### ¿Cómo se calcula la velocidad en un tramo?
-La media sale de dos controles situados en la misma carretera y en el mismo sentido, con la distancia señalizada, y sin contar las paradas impuestas por el recorrido, como peajes o gasolineras.
-
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
+La media sale de dos controles situados en la misma carretera y en el mismo sentido, con la distancia señalizada, y sin contar las paradas impuestas por el recorrido, como peajes o gasolineras.`,
   },
   {
     slug: "multa-trafico-madrid-recurrir",
@@ -494,10 +488,7 @@ Ante el Ayuntamiento de Madrid, a través de sede.madrid.es, buscando «Recursos
 1 mes. Si no contesta, puedes interponer recurso contencioso-administrativo.
 
 ### ¿Qué hago si el parquímetro estaba averiado?
-Guarda una foto del parquímetro con fecha y hora: si no pudiste pagar aunque quisieras, es un argumento sólido para recurrir la multa de zona ORA.
-
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
+Guarda una foto del parquímetro con fecha y hora: si no pudiste pagar aunque quisieras, es un argumento sólido para recurrir la multa de zona ORA.`,
   },
   {
     slug: "multa-uso-movil-conduciendo-recurrir",
@@ -601,10 +592,7 @@ Cabe sostener que el aparato que vio el agente pertenecía a esa persona, no a q
 La instantánea tiene que mostrar con nitidez a quien conducía sujetando el terminal y permitir reconocerlo. Cuando sale difusa o tan solo se ve el coche, la prueba no basta.
 
 ### ¿Quién responde cuando el coche pertenece a una empresa?
-La compañía titular tiene que señalar quién conducía. Cuando no lo hace, la sanción recae sobre la compañía pero los puntos no se restan a nadie.
-
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
+La compañía titular tiene que señalar quién conducía. Cuando no lo hace, la sanción recae sobre la compañía pero los puntos no se restan a nadie.`,
   },
   {
     slug: "multa-aparcamiento-zona-azul-recurrir",
@@ -706,10 +694,7 @@ La cartelería vertical de los alrededores, el estado del expendedor más cercan
 Sí. Coteja la matrícula recogida en la notificación con la de tu coche: un solo carácter erróneo, letra o dígito, invalida la identificación del vehículo sancionado.
 
 ### ¿La placa del vado deteriorada admite recurso?
-Sí: un paso de carruajes solo obliga si luce la placa municipal actualizada. Cuando carece del distintivo o presenta deterioro, la prohibición deja de ser exigible legalmente.
-
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.`,
+Sí: un paso de carruajes solo obliga si luce la placa municipal actualizada. Cuando carece del distintivo o presenta deterioro, la prohibición deja de ser exigible legalmente.`,
   },
   {
     slug: "multa-semaforo-en-rojo-recurrir",
@@ -929,10 +914,6 @@ Los fallos de lectura de matrícula por las cámaras se dan con frecuencia con m
 
 ### ¿Qué hago si el tipo de zona de aparcamiento no estaba claro?
 Las multas de aparcamiento regulado se pueden recurrir cuando el tipo de zona no estaba señalizado con claridad, el parquímetro estaba averiado o la señal vertical contradecía las marcas del suelo.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.
-
-*Fuentes: DGT (dgt.es) — qué hacer si has recibido una multa, periodo voluntario de 20 días naturales y reducción del 50 %; BOE (boe.es) — texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, arts. 93 a 95; Ajuntament de Barcelona, sede electrónica (ajuntament.barcelona.cat) — documento de pago de multas en periodo voluntario y ejecutivo, con recargo e intereses y situación de embargo.*
 `,
   },
   {
@@ -1172,12 +1153,7 @@ Al órgano que dictó la resolución (generalmente el Alcalde o el Concejal de M
 Acceder a la sede electrónica del Ayuntamiento y usar Cl@ve, certificado digital o idCAT (en Cataluña).
 
 ### ¿Qué argumentos específicos funcionan con multas municipales?
-Los requisitos de las ordenanzas municipales: señalización según normativa municipal, identificación del agente con su número de placa del cuerpo local y competencia territorial (solo puede multar en su término municipal).
-
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.
-
-*Fuentes: <a href=https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722&tn=1&p=20151031>texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial (BOE)</a>.*`,
+Los requisitos de las ordenanzas municipales: señalización según normativa municipal, identificación del agente con su número de placa del cuerpo local y competencia territorial (solo puede multar en su término municipal).`,
   },
   {
     slug: "recurso-reposicion-multa-modelo-2026",
@@ -1426,10 +1402,7 @@ El portal zbe.barcelona.cat ofrece un buscador para matrículas extranjeras. Con
 Puedes sostener que la entrada no estuviera señalizada como es debido, que viviendo fuera de España no pudieras conseguir la pegatina, o que el vehículo sancionado no fuera el tuyo por un error de identificación.
 
 ### ¿Qué localidades españolas cuentan con ZBE en 2026?
-Superan las 25: Barcelona y su área metropolitana, Zaragoza, Valencia, Sevilla, Valladolid, Madrid, Bilbao y Málaga.
-
-
-Antes de abonar una sanción que sospeches defectuosa, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a>.`,
+Superan las 25: Barcelona y su área metropolitana, Zaragoza, Valencia, Sevilla, Valladolid, Madrid, Bilbao y Málaga.`,
   },
 ];
 
@@ -1579,8 +1552,6 @@ En un sistema en la nube que recoge información al instante procedente de baliz
 ### ¿Quién multa en Cataluña y en Euskadi?
 
 En Cataluña, el Servei Català de Trànsit con los Mossos d'Esquadra; en Euskadi, la Ertzaintza. El recurso va al organismo autonómico, no a la DGT.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.
 `,
   },
 
@@ -1959,9 +1930,6 @@ El gasto de un turismo moderno de gasolina toca su mínimo entre 80 y 100 km/h. 
 
 ### ¿Qué sube el consumo sin que lo notes?
 El climatizador al máximo (hasta un 15% más), la presión baja en las ruedas (un 3% más con 0,3 bar por debajo), la baca vacía (un 8-10% extra) y llevar 100 kg de más añade 0,4 litros por cada 100 km.
-
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro analizador gratuito de multas</a> antes de pagar.
 `,
   },
 ];
@@ -2322,9 +2290,7 @@ Depende del estado. En Alemania, circular por autopista sale más barato que hac
 
 ### ¿Qué ocurre si una sanción extranjera llega a España?
 
-Las sanciones comunitarias por encima de **70 €** se pueden ejecutar en España a través del mecanismo de asistencia mutua entre administraciones, previsto en la Directiva 2015/413/UE y en sus transposiciones. La DGT puede cobrarlas mediante la Agencia Tributaria. Por debajo de esa cantidad, ejecutarlas es posible en teoría, pero poco frecuente en la práctica.
-
-Si te ha llegado una sanción y sospechas que puede tener un defecto, <a href=https://recurretumulta.online/#analizador>pásala por nuestro revisor gratuito de sanciones</a> antes de pagar.`,
+Las sanciones comunitarias por encima de **70 €** se pueden ejecutar en España a través del mecanismo de asistencia mutua entre administraciones, previsto en la Directiva 2015/413/UE y en sus transposiciones. La DGT puede cobrarlas mediante la Agencia Tributaria. Por debajo de esa cantidad, ejecutarlas es posible en teoría, pero poco frecuente en la práctica.`,
   },
 ];
 

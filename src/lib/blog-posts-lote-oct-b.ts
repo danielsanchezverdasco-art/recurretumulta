@@ -19,7 +19,7 @@ export const LOTE_OCT_B_POSTS: BlogPost[] = [
       "Geely E2 Almussafes",
       "urbano eléctrico chino"
     ],
-    content: `<img src=/media/geely-e2-electrico-barato-precio-espana-hero.webp alt=\"Compacto eléctrico urbano azul circulando por una calle del centro de Madrid al atardecer\">
+    content: `<img src=/media/geely-e2-electrico-barato-precio-espana-hero.webp alt=\\"Compacto eléctrico urbano azul circulando por una calle del centro de Madrid al atardecer\\">
 
 **¿Buscas solo los datos?** <a href=/comparador-coches/>Compara el Geely E2 con sus rivales</a> o <a href=/mejor-coche-por-presupuesto/>descubre el mejor coche por tu presupuesto</a>.
 
@@ -45,9 +45,9 @@ Ojo con la letra pequeña del Plan Auto+: al fabricarse hoy en China, el E2 no a
 
 El equipamiento de serie ya es generoso desde el PRO: climatizador automático, acceso y arranque sin llave, asientos delanteros con regulación eléctrica, **función V2L** (puedes enchufar aparatos eléctricos al coche), Apple CarPlay y Android Auto. El MAX+ añade portón trasero eléctrico, asientos delanteros calefactados, techo bitono, cámara de 540 grados y cargador inalámbrico.
 
-<img src=/media/geely-e2-electrico-barato-precio-espana-galeria-3.webp alt=\"Geely E2 en tres cuartos trasero mostrando su firma lumínica, imagen editorial\">
+<img src=/media/geely-e2-electrico-barato-precio-espana-galeria-3.webp alt=\\"Geely E2 en tres cuartos trasero mostrando su firma lumínica, imagen editorial\\">
 
-<img src=/media/geely-e2-electrico-barato-precio-espana-interior-oficial.webp alt=\"Interior oficial del geely e2 electrico barato\">
+<img src=/media/geely-e2-electrico-barato-precio-espana-interior-oficial.webp alt=\\"Interior oficial del geely e2 electrico barato\\">
 
 
 ## Curiosidades que quizá no sabías
@@ -108,11 +108,7 @@ Actualmente en China. Ford y Geely lo fabricarán en Almussafes (Valencia) a par
 8 años o 200.000 km tanto para el coche como para la batería, más 3 años de asistencia en carretera 24/7.
 
 ### ¿Tiene maletero delantero?
-Sí, el E2 cuenta con frunk, algo poco habitual en su segmento y precio.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://testcoches.es/noticias/el-geely-e2-parte-de-20-990-euros-pvp-estos-son-sus-precios-reales-al-contado-con-ayudas-y-financiando/>testcoches.es</a>, <a href=https://fleetpeople.es/geely-e2-mucho-coche-por-poco-dinero/>fleetpeople.es</a>, <a href=https://www.motormundial.es/geely-e2-primera-prueba/2026/09/17/>motormundial.es</a>.*`
+Sí, el E2 cuenta con frunk, algo poco habitual en su segmento y precio.`
   },
   {
     title: "Leapmotor B03X: SUV eléctrico desde 24.264 € en España",
@@ -130,7 +126,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "B03X vs Atto 2",
       "Leapmotor B03X ficha técnica"
     ],
-    content: `<img src=/media/leapmotor-b03x-suv-electrico-barato-europa-hero.webp alt=\"SUV urbano eléctrico gris perla con tira de luz LED de ancho completo aparcado en una calle europea arbolada\">
+    content: `<img src=/media/leapmotor-b03x-suv-electrico-barato-europa-hero.webp alt=\\"SUV urbano eléctrico gris perla con tira de luz LED de ancho completo aparcado en una calle europea arbolada\\">
 
 **¿Buscas solo los datos?** <a href=/comparador-coches/>Compara el Leapmotor B03X con sus rivales</a> o <a href=/mejor-coche-por-presupuesto/>descubre el mejor coche por tu presupuesto</a>.
 
@@ -151,9 +147,9 @@ El B03X es su asalto al segmento B-SUV eléctrico, el más caliente del mercado:
 
 Con las ayudas del Plan Auto+ y descuentos, el precio real puede bajar hasta el entorno de los 15.000-19.500 euros según versión y financiación. El ProMax añade asientos de símil cuero con calefacción, volante calefactado, cámara de 360 grados, equipo de audio de 12 altavoces y llantas de aleación.
 
-<img src=/media/leapmotor-b03x-suv-electrico-barato-europa-galeria-3.webp alt=\"Leapmotor B03X en tres cuartos trasero mostrando su firma lumínica, imagen editorial\">
+<img src=/media/leapmotor-b03x-suv-electrico-barato-europa-galeria-3.webp alt=\\"Leapmotor B03X en tres cuartos trasero mostrando su firma lumínica, imagen editorial\\">
 
-<img src=/media/leapmotor-b03x-suv-electrico-barato-europa-interior-oficial.webp alt=\"Interior oficial del leapmotor b03x suv electrico barato europa\">
+<img src=/media/leapmotor-b03x-suv-electrico-barato-europa-interior-oficial.webp alt=\\"Interior oficial del leapmotor b03x suv electrico barato europa\\">
 
 
 ## Curiosidades que quizá no sabías
@@ -217,11 +213,7 @@ Stellantis, que tiene una joint venture con la marca y la distribuye con su red 
 Actualmente en China; a partir de septiembre de 2027 se fabricará en Villaverde (Madrid).
 
 ### ¿Es más barato que el Peugeot E-2008?
-Sí, y con más potencia: el B03X parte de 24.264 € frente a los 33.545 € del E-2008, ambos del grupo Stellantis.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://testcoches.es/modelos/leapmotor-b03x-2026/>testcoches.es</a>, <a href=https://forococheselectricos.com/noticias/leapmotor-b03x-primeras-pruebas-suv-electrico-barato-20260914-42078.html>forococheselectricos.com</a>, <a href=https://www.somoselectricos.com/coches-electricos/nuevo-leapmotor-b03x-sonroja-peugeot-2008-es-mas-barato-potente-tambien-vende-stellantis/20260714125033058280.html>somoselectricos.com</a>.*`
+Sí, y con más potencia: el B03X parte de 24.264 € frente a los 33.545 € del E-2008, ambos del grupo Stellantis.`
   },
   {
     title: "Hyundai Ioniq 3: 497 km",
@@ -238,7 +230,7 @@ Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://r
       "compacto eléctrico 500 km autonomía",
       "Hyundai Ioniq 3 N Line"
     ],
-    content: `<img src=/media/hyundai-ioniq-3-precio-espana-2026-hero.webp alt=\"Hatchback compacto eléctrico plateado de diseño futurista circulando por una carretera costera española al amanecer\">
+    content: `<img src=/media/hyundai-ioniq-3-precio-espana-2026-hero.webp alt=\\"Hatchback compacto eléctrico plateado de diseño futurista circulando por una carretera costera española al amanecer\\">
 
 **Actualización 07/10/2026 — presentación oficial:** Hyundai ha presentado oficialmente el Ioniq 3 en España con dos opciones de batería: autonomía WLTP prevista de **más de 344 km** (estándar) y **más de 495 km** (larga autonomía). El precio de partida es **29.995 € al contado**, y se queda en **21.535 €** aplicando los descuentos de financiación de la marca y el Plan Auto. Lo que sigue es el análisis completo con la letra pequeña de la gama.
 
@@ -266,9 +258,9 @@ El Ioniq 3 se fabrica en la planta de Hyundai en **İzmit (Turquía)**, donde la
 
 El N Line viene muy equipado de serie: llantas de 18 pulgadas, LED, climatizador bizona, volante calefactable, control de crucero adaptativo con Stop&Go, cámara de 360 grados y asistente inteligente de aparcamiento.
 
-<img src=/media/hyundai-ioniq-3-precio-espana-2026-galeria-3.webp alt=\"Hyundai Ioniq 3 en tres cuartos trasero mostrando su firma lumínica, imagen editorial\">
+<img src=/media/hyundai-ioniq-3-precio-espana-2026-galeria-3.webp alt=\\"Hyundai Ioniq 3 en tres cuartos trasero mostrando su firma lumínica, imagen editorial\\">
 
-<img src=/media/hyundai-ioniq-3-precio-espana-2026-interior-oficial.webp alt=\"Interior oficial del hyundai ioniq 3  2026\">
+<img src=/media/hyundai-ioniq-3-precio-espana-2026-interior-oficial.webp alt=\\"Interior oficial del hyundai ioniq 3  2026\\">
 
 
 ## Curiosidades que quizá no sabías
@@ -335,11 +327,7 @@ En İzmit (Turquía). Al no ser fabricación UE, no accede al bonus extra del Pl
 El nuevo infoentretenimiento de Hyundai que debuta en Europa con el Ioniq 3, con pantalla de 14,6 pulgadas, navegador y asistente de aparcamiento remoto.
 
 ### ¿Tiene carga bidireccional?
-Sí, cuenta con tecnología V2L para alimentar aparatos eléctricos externos.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://madridpress.com/index.php?option=com_content&task=view&id=27885&Itemid=122>MadridPress (presentación oficial 07/10/2026)</a>, <a href=https://testcoches.es/modelos/hyundai-ioniq-3-2026/>testcoches.es</a>, <a href=https://forococheselectricos.com/noticias/hyundai-ioniq-3-precio-espana-497-km-autonomia-20260910-42057.html>forococheselectricos.com</a>, <a href=https://www.somoselectricos.com/coches-electricos/hyundai-pone-precio-ioniq-3-espana-135-cv-mas-450-km-autonomia/20260814084019062210.html>somoselectricos.com</a>.*`
+Sí, cuenta con tecnología V2L para alimentar aparatos eléctricos externos.`
   },
   {
     title: "BYD Atto 3 Evo 2026: 800 V y 449 CV desde 29.455 €",
@@ -451,10 +439,6 @@ Sí: el V2L entrega hasta 3,3 kW para dar corriente a aparatos eléctricos exter
 
 ### ¿Puede remolcar?
 
-Sí: admite hasta 1.500 kg con freno.
-
-Si una multa te ha llegado y sospechas que podría tener algún defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.noticiasdelmotor.com/noticias/i/94914945/el-byd-atto-3-evo-con-hasta-449-cv-220-kw-de-potencia-de-carga-y-710-km-de-autonomia-ya-esta-disponible-en-los-concesionarios>noticiasdelmotor.com</a>, <a href=https://periodismodelmotor.com/prueba-byd-atto-3-evo-design-2026/420952/amp/>periodismodelmotor.com</a>, <a href=http://diariodelautomovil.com/2026/02/25/el-byd-atto-3-evo-llega-con-hasta-449-cv-carga-ultrarrapida-y-mas-autonomia/>diariodelautomovil.com</a>.*`
+Sí: admite hasta 1.500 kg con freno.`
   },
 ];

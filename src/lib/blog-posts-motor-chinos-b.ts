@@ -91,8 +91,6 @@ km77 lo sometió a su exigente prueba de esquiva y eslalon; puedes ver el result
 ### ¿Merece la pena frente al Jaecoo 7 SHS?
 El Omoda 9 ofrece mucho más (537 CV frente a 279, 145 km eléctricos frente a 90, más tamaño y equipamiento), pero cuesta unos 15.000 € más que su primo el Jaecoo 7. Depende de si necesitas ese plus.
 
-Con 537 CV bajo el pie derecho, conviene recordar que la velocidad tiene consecuencias: si te llega una <a href=https://recurretumulta.online/guias/radares>multa de radar</a>, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
 ## Fuentes
 
 - <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
@@ -189,7 +187,7 @@ El MG ZS parte de 22.340 € con 194 CV y 5,1 l/100 km; el Jaecoo 5 HEV ofrece 2
 ### ¿Merece la pena el Jaecoo 5 gasolina?
 Solo si el precio manda por encima de todo: por 2.500 € más, el híbrido es más potente, gasta menos y lleva etiqueta ECO.
 
-Da igual que sea chino, español o marciano: si te multan, <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA</a> antes de pagar. A veces el radar también se equivoca.
+A veces el radar también se equivoca.
 
 ## Fuentes
 
@@ -291,8 +289,6 @@ Un extensor de autonomía: el motor eléctrico de 218 CV mueve siempre el coche 
 ### ¿Leapmotor B10 o BYD Atto 3?
 El B10 es más barato (27.000 € frente a 28.387 € en promo) y carga más rápido (168 kW); el Atto 3 tiene a su favor la red comercial de BYD, mucho más asentada.
 
-Fabricado en Zaragoza o en Shenzhen, la DGT multa igual: si te llega una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
 ## Fuentes
 
 - <a href=https://www.dgt.es/>DGT: comprueba qué etiqueta ambiental le corresponde y las zonas de bajas emisiones donde puede circular</a>`
@@ -387,8 +383,6 @@ El Atto 2 es mucho más barato (desde 18.739 € financiado frente a ~32.149 €
 
 ### ¿Es fiable la batería Blade de BYD?
 Es una LFP (litio-ferrofosfato): más segura y duradera que las NMC, tolera cargas al 100% y BYD la garantiza 8 años.
-
-Ni el más vendido se libra de los radares: si te cazan, <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA</a> antes de pagar.
 
 ## Fuentes
 
@@ -486,7 +480,7 @@ Gasolina: C; híbrido HEV: ECO; híbrido enchufable PHEV: CERO, con acceso a las
 ### ¿Ebro S700 o MG HS PHEV?
 El MG HS ofrece 100 km eléctricos y precio de derribo en oferta (24.540 €); el S700, fabricación en España, mejor garantía y una marca con historia. Prueba los dos antes de decidir.
 
-Hecho en Barcelona y con 279 CV, el S700 invita a pisarle. Si un radar te pilla, <a href=https://recurretumulta.online/#analizador>analiza tu multa gratis con nuestra IA</a> antes de pagar: a veces hasta los PHEV tienen defectos de forma.
+Hecho en Barcelona y con 279 CV, el S700 invita a pisarle.
 
 ## Fuentes
 

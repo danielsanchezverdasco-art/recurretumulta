@@ -114,10 +114,6 @@ Homologa **10,1 l/100 km** en ciclo WLTP. En conducción real tranquila ronda lo
 
 ### ¿Merece la pena frente al Carrera S?
 El S ofrece 86 CV más (480 CV) y un 0-100 en 3,3 s por unos 21.000 € extra. Si buscas el 911 racional, el Carrera basta; si quieres el plus de prestaciones, el S es el punto dulce antes del GTS híbrido.
-
-Con 294 km/h de velocidad máxima, conviene recordar que en España superar los límites puede costarte el carné: si te ha llegado una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.km77.com/coches/porsche/911>km77 — ficha técnica del Porsche 911</a>, <a href=https://www.porsche.com/spain/models/911/carrera-models/911-carrera/>Porsche España — 911 Carrera (precio oficial 159.511 €)</a> y <a href=https://www.coches.net/porsche/911/>coches.net — precios del 911 en España</a>.*
     `,
   },
   {
@@ -203,10 +199,6 @@ De serie viene **sin asientos traseros** (2 plazas). Se pueden pedir como opció
 
 ### ¿Es más rápido que el Carrera normal?
 No en aceleración pura: el 0-100 en 4,5 s es cuatro décimas más lento que el Carrera PDK (4,1 s). Su baza es la agilidad y la conexión, no el crono.
-
-Si conduces un purista como este, recuerda que el carné está en juego en cada tramo: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.km77.com/coches/porsche/911>km77 — gama Porsche 911</a>, <a href=https://www.porsche.com/spain/es/models/911/911-models/>Porsche España — gama 911</a> y <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a>.*
     `,
   },
   {
@@ -294,10 +286,6 @@ Homologa **10,3 l/100 km** (WLTP). En uso realista, entre 10 y 12 litros; en con
 
 ### ¿Carrera S o Carrera GTS?
 El GTS (205.356 €) añade hibridación, 61 CV más, etiqueta ECO y tres décimas en el 0-100 por unos 26.500 € extra. Si la etiqueta ECO te importa (ZBE, impuestos), el GTS gana; si prefieres el 911 de gasolina puro, el S es tu coche.
-
-Con 308 km/h de punta, un despiste con el pie derecho sale caro: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.km77.com/coches/porsche/911>km77 — gama Porsche 911</a>, <a href=https://www.porsche.com/spain/es/models/911/911-models/>Porsche España — gama 911</a> y <a href=https://www.motorgiga.com/porsche/911/>motorgiga — Porsche 911</a>.*
     `,
   },
   {
@@ -383,10 +371,6 @@ Homologa **10,5 l/100 km** (WLTP). La hibridación aquí sirve para correr más,
 
 ### ¿Merece la pena frente al Carrera S?
 Por unos 26.500 € más que el S obtienes 61 CV extra, tres décimas en el 0-100 y la etiqueta ECO. Si circulas por ciudad con ZBE, la respuesta es sí; si buscas el 911 de gasolina más puro, el S sigue existiendo.
-
-Incluso con etiqueta ECO, los límites de velocidad son los mismos para todos: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/911/911-models/>Porsche España — 911 Carrera GTS T-Hybrid</a>, <a href=https://newsroom.porsche.com/es.html>newsroom Porsche — presentación del 992.2</a> y <a href=https://www.km77.com/coches/porsche/911>km77 — gama Porsche 911</a>.*
     `,
   },
   {
@@ -474,10 +458,6 @@ Sí, y es una de sus grandes bazas: **etiqueta ECO** con 711 CV, con acceso a ZB
 
 ### ¿Turbo S o GT3 RS?
 Son filosofías opuestas: el Turbo S es el misil usable a diario (2,5 s, tracción total, 4 plazas); el GT3 RS es el arma de circuito (atmosférico, aerodinámica extrema, 2 plazas). El Turbo S es más rápido en línea recta y en mojado; el GT3 RS, en circuito seco y en sensaciones.
-
-A 322 km/h de máxima, mejor no tentar a la DGT: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/911/911-turbo-models/>Porsche España — 911 Turbo</a>, <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a> y <a href=https://www.km77.com/coches/porsche/911>km77 — gama Porsche 911</a>.*
     `,
   },
   {
@@ -566,10 +546,6 @@ Homologa **13,8 l/100 km** (WLTP). En circuito, el depósito (64 l) dura un susp
 
 ### ¿Tiene etiqueta ECO?
 No: al ser gasolina atmosférica sin hibridación, lleva la **etiqueta C**. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
-
-El GT3 pide circuito, pero en carretera los límites son los de todos: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/911/911-gt3-models/>Porsche España — 911 GT3</a>, <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a> y <a href=https://www.km77.com/coches/porsche/911>km77 — gama Porsche 911</a>.*
     `,
   },
   {
@@ -656,9 +632,7 @@ El GT3 (241.652 €) es el deportivo usable; el RS (286.470 €) es el arma de c
 ### ¿Se revaloriza?
 Históricamente, los 911 RS (996, 997, 991) han subido de precio en el mercado de colección. Nada está garantizado, pero el pedigrí acompaña.
 
-Un coche así pide circuito cerrado: en carretera, los límites son sagrados. Si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/911/911-gt3-models/>Porsche España — 911 GT3 RS</a>, <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a> y <a href=https://www.km77.com/coches/porsche/911>km77 — gama Porsche 911</a>.*
+Un coche así pide circuito cerrado: en carretera, los límites son sagrados.
     `,
   },
   {
@@ -744,10 +718,6 @@ Sí: como el resto de la gama T-Hybrid, luce la **etiqueta ECO** de la DGT.
 
 ### ¿Targa o Cabrio?
 El Targa mantiene el arco y la luneta de cristal: más rigidez, mejor aislamiento y una estética única. El Cabrio es más ligero y clásico. Cuestión de gusto (y de presupuesto).
-
-Descapotado o no, los límites de velocidad no cambian: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/911/911-targa-models/>Porsche España — 911 Targa</a>, <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a> y <a href=https://www.km77.com/coches/porsche/911>km77 — gama Porsche 911</a>.*
     `,
   },
   {
@@ -836,10 +806,6 @@ Porsche garantiza sus baterías de alto voltaje contra defectos y degradación e
 
 ### ¿Taycan o Panamera?
 El Taycan es eléctrico puro (etiqueta Cero, 408 CV desde 106.252 €); el Panamera de gasolina parte de 134.887 € con etiqueta C. Si tienes donde cargar, el Taycan sale más barato de comprar y de usar.
-
-Incluso en silencio eléctrico, los radares no perdonan: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/taycan/taycan-models/>Porsche España — gama Taycan</a>, <a href=https://www.km77.com/coches/porsche/taycan>km77 — Porsche Taycan</a> y <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a>.*
     `,
   },
   {
@@ -922,10 +888,6 @@ Si valoras la tracción total y el extra de prestaciones (3,7 s frente a 4,8 s),
 
 ### ¿Y frente al Taycan Turbo?
 El Turbo ofrece 884 CV por 56.000 € más. En uso real, el 4S ya sobra para todo; el Turbo es capricho puro.
-
-Los 250 km/h de máxima son tentadores, pero el carné vale más: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/taycan/taycan-models/>Porsche España — gama Taycan</a>, <a href=https://www.km77.com/coches/porsche/taycan>km77 — Porsche Taycan</a> y <a href=https://www.hibridosyelectricos.com/coches/porsche-taycan>hibridosyelectricos.com — Taycan</a>.*
     `,
   },
   {
@@ -1012,10 +974,6 @@ El 4S (125.766 €) ya ofrece 544 CV y 560 km. El Turbo añade 340 CV y 74 km po
 
 ### ¿Y frente al Turbo GT?
 El GT (1.033 CV, 249.409 €) es el arma definitiva. El Turbo es la opción "sensata"... dentro de lo que cabe.
-
-A 2,7 segundos el 0-100, cualquier acelerón puede acabar en denuncia: si te llega una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/taycan/taycan-models/>Porsche España — gama Taycan</a>, <a href=https://www.km77.com/coches/porsche/taycan>km77 — Porsche Taycan</a> y <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a>.*
     `,
   },
   {
@@ -1102,10 +1060,6 @@ En circuito, sí: el Turbo GT con Weissach ha demostrado ser la berlina eléctri
 
 ### ¿Tiene sentido como coche único?
 Solo si tu "uso diario" incluye circuito. Como berlina rápida, el Taycan Turbo (884 CV, 182.251 €) es más racional.
-
-Con 1.033 CV, hasta un estornudo en el acelerador es denunciable: si te llega una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/taycan/taycan-models/>Porsche España — Taycan Turbo GT</a>, <a href=https://newsroom.porsche.com/es.html>newsroom Porsche — récord de Nürburgring</a> y <a href=https://www.km77.com/coches/porsche/taycan>km77 — Porsche Taycan</a>.*
     `,
   },
   {
@@ -1192,10 +1146,6 @@ El Cross Turismo añade altura libre, protecciones y tracción total de serie fr
 
 ### ¿Tiene etiqueta Cero?
 Sí: como todo Taycan, lleva la **etiqueta Cero** de la DGT. <a href=/calculadora-etiqueta-dgt/>Calcula aquí la etiqueta DGT de cualquier coche</a>.
-
-Familiar o no, los límites son para todos: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/taycan/taycan-models/>Porsche España — gama Taycan</a>, <a href=https://www.km77.com/coches/porsche/taycan>km77 — Porsche Taycan</a> y <a href=https://www.hibridosyelectricos.com/coches/porsche-taycan>hibridosyelectricos.com — Taycan</a>.*
     `,
   },
   {
@@ -1283,10 +1233,6 @@ El Panamera de gasolina lleva la **etiqueta C**. Los E-Hybrid disfrutan de la **
 
 ### ¿Es un buen coche para viajar?
 Es su hábitat natural: confort de berlina de lujo, 494 litros de maletero y 272 km/h de punta para las autobahns alemanas.
-
-A 272 km/h de máxima, mejor no probar: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/panamera/panamera-models/>Porsche España — gama Panamera</a>, <a href=https://www.km77.com/coches/porsche/panamera>km77 — Porsche Panamera</a> y <a href=https://www.coches.net/porsche/panamera/>coches.net — Panamera en España</a>.*
     `,
   },
   {
@@ -1374,9 +1320,7 @@ Menos: sin carga diaria, el consumo real sube y se pierde la gran ventaja del si
 ### ¿Y el Turbo E-Hybrid?
 El Turbo (680 CV, 211.318 €) es el capricho prestacional; el 4 E-Hybrid es la compra racional. Misma etiqueta, 76.000 € de diferencia.
 
-Con 280 km/h de punta y etiqueta Cero, que no te confundan: los límites son iguales para todos. Si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/panamera/panamera-models/>Porsche España — gama Panamera</a>, <a href=https://www.km77.com/coches/porsche/panamera>km77 — Porsche Panamera</a> y <a href=https://www.hibridosyelectricos.com/coches/porsche-panamera>hibridosyelectricos.com — Panamera E-Hybrid</a>.*
+Con 280 km/h de punta y etiqueta Cero, que no te confundan: los límites son iguales para todos.
     `,
   },
   {
@@ -1464,9 +1408,7 @@ Homologa 3,5 l/100 km (WLTP), pero sin cargar a diario el V8 biturbo supera los 
 ### ¿Merece la pena frente al 4 E-Hybrid?
 El 4 E-Hybrid (470 CV, 135.065 €) es la compra racional; el Turbo añade 210 CV y el V8 por 76.000 € más. Solo para caprichosos... con muy buen gusto.
 
-315 km/h de máxima en una berlina familiar: la tentación es grande, la denuncia también. Si te llega una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/panamera/panamera-models/>Porsche España — gama Panamera</a>, <a href=https://www.km77.com/coches/porsche/panamera>km77 — Porsche Panamera</a> y <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a>.*
+315 km/h de máxima en una berlina familiar: la tentación es grande, la denuncia también.
     `,
   },
   {
@@ -1556,10 +1498,6 @@ Sí: **etiqueta Cero** de la DGT, con acceso a todas las ZBE. <a href=/calculado
 
 ### ¿Macan 4 o Macan Turbo Electric?
 El 4 (408 CV, 86.372 €) es la compra racional; el Turbo (639 CV, 117.426 €) añade 231 CV por 31.000 € más. Para uso familiar, el 4 sobra.
-
-Eléctrico y silencioso, pero los radares te oyen igual: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/macan/macan-electric-models/>Porsche España — Macan Electric</a>, <a href=https://www.km77.com/coches/porsche/macan>km77 — Porsche Macan</a> y <a href=https://www.hibridosyelectricos.com/coches/porsche-macan-electrico>hibridosyelectricos.com — Macan Electric</a>.*
     `,
   },
   {
@@ -1648,9 +1586,7 @@ El Cayenne (120.307 €) es más grande, más versátil y también lleva etiquet
 ### ¿Tiene 7 plazas?
 No: el Macan es estrictamente de **5 plazas**. Para 7 plazas hay que mirar a otras marcas.
 
-3,3 segundos hasta los 100: en ciudad, eso es denuncia casi segura si te pasas. Si te llega una, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/macan/macan-electric-models/>Porsche España — Macan Electric</a>, <a href=https://www.km77.com/coches/porsche/macan>km77 — Porsche Macan</a> y <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a>.*
+3,3 segundos hasta los 100: en ciudad, eso es denuncia casi segura si te pasas.
     `,
   },
   {
@@ -1736,10 +1672,6 @@ No: el Cayenne es estrictamente de **5 plazas**.
 
 ### ¿Es bueno fuera del asfalto?
 Con tracción total, suspensión neumática y modos off-road, se defiende en pistas y campo. No es un Land Rover, pero no se arruga.
-
-Familiar o no, los 248 km/h de máxima tientan: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/cayenne/cayenne-models/>Porsche España — gama Cayenne</a>, <a href=https://www.km77.com/coches/porsche/cayenne>km77 — Porsche Cayenne</a> y <a href=https://www.coches.net/porsche/cayenne/>coches.net — Cayenne en España</a>.*
     `,
   },
   {
@@ -1832,9 +1764,7 @@ Pierde su gran baza: sin carga diaria, el consumo real sube por encima de los 10
 ### ¿E-Hybrid o Turbo E-Hybrid?
 El E-Hybrid (470 CV, 120.307 €) es el equilibrado; el Turbo (740 CV, 192.942 €) es el despropósito maravilloso. Entre medias, 72.000 € de diferencia.
 
-254 km/h de máxima con etiqueta Cero: la DGT no distingue. Si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/cayenne/cayenne-models/>Porsche España — gama Cayenne</a>, <a href=https://www.km77.com/coches/porsche/cayenne>km77 — Porsche Cayenne</a> y <a href=https://www.hibridosyelectricos.com/coches/porsche-cayenne>hibridosyelectricos.com — Cayenne E-Hybrid</a>.*
+254 km/h de máxima con etiqueta Cero: la DGT no distingue.
     `,
   },
   {
@@ -1919,10 +1849,6 @@ El V6 de gasolina lleva la **etiqueta C**; las versiones E-Hybrid disfrutan de l
 
 ### ¿Coupé o estándar?
 Si la familia y el maletero mandan, el estándar. Si el diseño manda y las plazas traseras las usan niños o esporádicamente, el Coupé.
-
-Elegante o no, 248 km/h de máxima son denunciables: si te llega una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/cayenne/cayenne-models/>Porsche España — gama Cayenne</a>, <a href=https://www.km77.com/coches/porsche/cayenne>km77 — Porsche Cayenne</a> y <a href=https://www.coches.net/porsche/cayenne/>coches.net — Cayenne en España</a>.*
     `,
   },
   {
@@ -2013,9 +1939,7 @@ Homologa 4,7 l/100 km (WLTP), pero sin carga diaria el V8 biturbo supera los **1
 ### ¿Merece la pena frente al E-Hybrid normal?
 El E-Hybrid (470 CV, 120.307 €) es el racional; el Turbo añade 270 CV, el V8 y 72.000 € a la factura. Puro capricho... glorioso capricho.
 
-740 CV y 2,6 toneladas: una combinación que la DGT vigila de cerca. Si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/cayenne/cayenne-models/>Porsche España — gama Cayenne</a>, <a href=https://www.km77.com/coches/porsche/cayenne>km77 — Porsche Cayenne</a> y <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a>.*
+740 CV y 2,6 toneladas: una combinación que la DGT vigila de cerca.
     `,
   },
   {
@@ -2103,9 +2027,7 @@ No: es una **capota manual ultraligera** de dos piezas. Purismo total... e incom
 ### ¿Se revalorizará?
 Todo apunta a que sí: último roadster atmosférico de Porsche, motor de GT3, producción limitada y fin de la combustión en el 718. Los ingredientes del clásico futuro están todos.
 
-Un roadster así pide carreteras de curvas... y respeto a los límites. Si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/718/718-spyder-rs/>Porsche España — 718 Spyder RS</a>, <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a> y <a href=https://www.km77.com/coches/porsche/718>km77 — Porsche 718</a>.*
+Un roadster así pide carreteras de curvas... y respeto a los límites.
     `,
   },
   {
@@ -2205,10 +2127,6 @@ La suspensión activa que mantiene la carrocería plana en curva y compensa cabe
 
 ### ¿Taycan GTS o Taycan Turbo?
 El Turbo es más rápido en línea recta; el GTS tiene mejor chasis de serie, más autonomía y cuesta menos. Para conducir, el GTS.
-
-Si te llega una multa con tu Taycan GTS, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/taycan/>Porsche España — Taycan</a>, <a href=https://newsroom.porsche.com/es.html>newsroom Porsche</a> y <a href=https://www.motoringresearch.com/car-reviews/porsche-taycan-gts-sport-turismo-2025/>prueba del Taycan GTS en motoringresearch.com</a>.*
     `,
   },
   {
@@ -2309,10 +2227,6 @@ No: solo se ofrece con el cambio **PDK** de doble embrague.
 
 ### ¿Merece la pena como inversión?
 Es el último 718 de combustión con motor de GT3: los especialistas lo ven como **futuro clásico** con valor al alza.
-
-Si te llega una multa con tu GT4 RS, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.porsche.com/spain/es/models/718/>Porsche España — 718</a>, <a href=https://en.actualidadmotor.com/porsche-718-cayman-gt4-rs-oficial/>datos del GT4 RS en actualidadmotor.com</a> y <a href=https://www.porscheclubgb.com/news-and-events/news/2021/october/porsche-718-cayman-gt4-rs-excels-on-track>récord de Nürburgring en Porsche Club GB</a>.*
     `,
   },
 ];

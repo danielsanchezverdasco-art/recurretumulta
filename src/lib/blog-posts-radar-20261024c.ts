@@ -123,10 +123,6 @@ El F12 Berlinetta, con 1.630 kg, por debajo del 812 GTS (1.705 kg), del 12Cilind
 
 El 12Cilindri sí: es el modelo actual y su ficha en esta web recoge un precio de partida en España de 425.000 euros. El 812 GTS también tiene ficha, pero como modelo de la generación anterior su oferta nueva es residual. Del 599 y del F12 solo hay unidades de segunda mano.
 
-**Fichas en esta web:** <a href=/coches/ferrari-12cilindri-2025-precio-ficha-tecnica/>Ferrari 12Cilindri — ficha técnica y precio</a> · <a href=/coches/ferrari-812-gts-2024-precio-ficha-tecnica/>Ferrari 812 GTS — ficha técnica y precio</a>
-
-**¿Te han puesto una multa?** Antes de pagarla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-
-*Fuentes: <a href=https://www.carwow.co.uk/editorial/youtube-and-videos/drag-races/ferrari-599-vs-f12-vs-812-vs-12-cilindri>Carwow UK — "V12 Ferrari drag race: 12 Cilindri vs 812 Superfast vs F12 vs 599" (24/10/2026)</a>. Cifras de potencia, par, peso, cambio y precio: Carwow; relación peso-potencia calculada a partir de esas cifras. El resultado cronometrado de la carrera está en el vídeo de Carwow y no se reproduce aquí porque el artículo de Carwow no lo publica en texto.*`,
+**Fichas en esta web:** <a href=/coches/ferrari-12cilindri-2025-precio-ficha-tecnica/>Ferrari 12Cilindri — ficha técnica y precio</a> · <a href=/coches/ferrari-812-gts-2024-precio-ficha-tecnica/>Ferrari 812 GTS — ficha técnica y precio</a>`,
   },
 ];

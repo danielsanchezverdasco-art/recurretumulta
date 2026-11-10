@@ -94,11 +94,7 @@ No, pero están emparentadas: ambas pertenecen a BYD. Los modelos de Fang Cheng 
 La variante familiar (shooting brake) de la berlina Formula S, de casi cinco metros de largo. Según los analistas, es el candidato más probable a cruzar a Europa, donde se vendería bajo la marca Denza.
 
 ### ¿Qué plan de cargadores tiene BYD para Europa?
-BYD anunció **6.000 cargadores Flash Charging fuera de China, 3.000 de ellos en Europa**, además de 20.000 en China antes de que acabe el año. La idea: que la red de megacarga lleve meses funcionando cuando sus marcas lleguen a los concesionarios europeos.
-
-Fuentes: <a href=https://www.hibridosyelectricos.com/coches/500000-coches-en-3-anos-marca-mas-joven-byd-lanza-su-primera-berlina-electrica-con-850-km-autonomia-por-29600_89050_102.html>Híbridos y Eléctricos</a>, <a href=https://testcoches.es/noticias/byd-responde-al-xiaomi-su7-el-fang-cheng-bao-formula-s-llega-a-china-con-900-km-de-autonomia-y-carga-del-10-al-70-en-cinco-minutos/>TestCoches</a>, <a href=http://ant-co.in/news/denza-trae-a-europa-su-primer-suv-con-el-bao-5-hibrido-enchufable-con-hasta-835-km-de-autonomia-20260709ab135f30e144b.html>Europa Press vía Ant-Co</a>.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+BYD anunció **6.000 cargadores Flash Charging fuera de China, 3.000 de ellos en Europa**, además de 20.000 en China antes de que acabe el año. La idea: que la red de megacarga lleve meses funcionando cuando sus marcas lleguen a los concesionarios europeos.`
   },
   {
     "title": "Yangwang U8: 1.197 CV, flota en agua, llega a Europa",
@@ -182,11 +178,7 @@ Sí: en modo de emergencia puede flotar y desplazarse por el agua a unos 3 km/h.
 En China, entre 138.000 y 231.000 € al cambio según modelo. No hay precios europeos anunciados.
 
 ### ¿Podré conducir el U8 con el carnet B?
-Depende de la homologación europea final: el modelo chino supera los 3.500 kg de MMA, el límite del permiso B. Está por confirmar.
-
-Fuentes: <a href=https://www.somoselectricos.com/coches-electricos/byd-puede-flotar-tiene-1197-cv-es-tan-pesado-que-espana-hace-falta-carnet-camion-conducirlo/20260929120040063720.html>Somos Eléctricos</a>, <a href=https://forococheselectricos.com/noticias/byd-confirma-llegada-tercera-marca-europa-yangwang-20250721-37764.html>ForoCochesEléctricos (vía Autocar)</a>, <a href=https://soymotor.com/coches/noticias/byd-shark-denza-bao5-denza-z-yangwang-u8-u9-goodwood>SoyMotor</a>.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Depende de la homologación europea final: el modelo chino supera los 3.500 kg de MMA, el límite del permiso B. Está por confirmar.`
   },
   {
     "title": "Avatr: el familiar chino de 955 CV con Huawei dentro",
@@ -277,11 +269,7 @@ No hay anuncio oficial de llegada a Europa. De momento es un fenómeno chino con
 La versión eléctrica pura monta una batería de 72,88 kWh con hasta **650 km de autonomía CLTC** y arquitectura de 800 voltios (carga del 0 al 80 % en menos de 17 minutos). También existe en versión híbrida de rango extendido con hasta **1.250 km** combinados.
 
 ### ¿Por qué Avatr lanza modelos tan rápido?
-Por su división del trabajo: **Changan** pone la plataforma y la producción, **CATL** las baterías y **Huawei** el software y la conducción autónoma. Cada uno es líder mundial en lo suyo, y eso le permite encadenar lanzamientos cada pocos meses.
-
-Fuentes: <a href=https://hackercar.com/estas-cosas-solo-pasan-en-china-avatr-06t-wagon-un-familiar-de-955-cv-por-30-000-euros/>HackerCar</a>, <a href=https://www.autonocion.com/motornocion/avatr-t09-changan-catl-huawei/>Autonoción</a>, <a href=https://www.hibridosyelectricos.com/coches/mide-528-metros-tiene-6-plazas-857-cv-pero-este-nuevo-suv-hibrido-chino-suena-con-parecerse-byd_89176_102.html>Híbridos y Eléctricos</a>.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Por su división del trabajo: **Changan** pone la plataforma y la producción, **CATL** las baterías y **Huawei** el software y la conducción autónoma. Cada uno es líder mundial en lo suyo, y eso le permite encadenar lanzamientos cada pocos meses.`
   },
   {
     "title": "Rox 01: SUV chino Pininfarina con 1.115 km autonomía",
@@ -366,11 +354,7 @@ No exactamente: es un **EREV** (eléctrico de rango extendido). Los motores elé
 El diseño se desarrolló en colaboración con **Pininfarina**, el mítico estudio italiano.
 
 ### ¿Se vende en España?
-No hay anuncio oficial de llegada a Europa. Actualmente se comercializa en China y algunos mercados de Latinoamérica.
-
-Fuentes: <a href=https://www.youtube.com/watch?v=15mZM5Xm9WA>YouTube — reseña completa del ROX 01</a>, <a href=https://www.motorterra.com/motransa-lanzo-su-nueva-marca-rox-y-presento-el-modelo-rox-01/>Motorterra</a>.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+No hay anuncio oficial de llegada a Europa. Actualmente se comercializa en China y algunos mercados de Latinoamérica.`
   },
   {
     "title": "IM Motors LS6: el SUV chino rival del Tesla Model Y",
@@ -463,11 +447,7 @@ Aún no. IM opera en Reino Unido, Australia y Oriente Medio, y ha confirmado su 
 Es el primer SUV familiar de su precio con **chasis totalmente controlado por cable**: dirección por cable, cuatro ruedas directrices y el sistema digital Lingxi 3.0 de serie.
 
 ### ¿IM tiene que ver con MG?
-Sí: ambas pertenecen a **SAIC Motor**. MG es la marca generalista que triunfa en España; IM es su hermana premium y tecnológica.
-
-Fuentes: <a href=https://www.hibridosyelectricos.com/coches/antes-comprarte-tesla-model-echa-vistazo-nuevo-suv-pijo-mg-27000-con-782-km-autonomia_89221_102.html>Híbridos y Eléctricos</a>, <a href=https://formula1rd.com/los-hermanos-pijos-de-mg-ponen-precio-a-su-nuevo-suv-electrico-con-chasis-de-avion-que-reta-directamente-al-tesla-model-y/>Fórmula 1 RD</a>, <a href=https://forococheselectricos.com/noticias/im-ls6-nuevo-rival-tesla-model-y-8000-reservas-45-minutos-20260913-42074.html>ForoCochesEléctricos</a>.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Sí: ambas pertenecen a **SAIC Motor**. MG es la marca generalista que triunfa en España; IM es su hermana premium y tecnológica.`
   },
   {
     "title": "iCaur llega a Europa en 2027: V23, V25 y V27",
@@ -561,11 +541,7 @@ En China parte de unos **13.000 €** al cambio en su versión de acceso. El pre
 Sí, 100 % eléctrico, con versiones de tracción trasera (60 kWh) y total (81 kWh, hasta 501 km).
 
 ### ¿Qué diferencia hay entre el V23, el V25 y el V27?
-El V23 es eléctrico puro y compacto (4,2 m); el V25 (4,6 m) y el V27 (+5 m) usan **autonomía extendida** (motor de gasolina como generador), con el V27 como tope de gama de ≈450 CV.
-
-Fuentes: <a href=https://www.autonocion.com/icaur-chery-llega-europa-espana/>Autonoción</a>, <a href=https://testcoches.es/noticias/la-duena-de-omoda-estrena-4x4-electrico-por-13-000e-con-500-km-de-autonomia/>TestCoches</a>, <a href=https://www.hibridosyelectricos.com/coches/dueno-omoda-quiere-conquistar-europa-con-suv-electrico-similar-toyota-yaris-cross-suzuki-jimny-icar-v23_79822_102.html>Híbridos y Eléctricos</a>.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+El V23 es eléctrico puro y compacto (4,2 m); el V25 (4,6 m) y el V27 (+5 m) usan **autonomía extendida** (motor de gasolina como generador), con el V27 como tope de gama de ≈450 CV.`
   },
   {
     "title": "Li Auto i8: SUV eléctrico 6 plazas, 780 km, carga 5C",
@@ -650,11 +626,7 @@ No. Li Auto llega a Europa a finales de 2026 con el **i6 (Li 6)**; el i8 no tien
 Tras un buen arranque (6.719 uds. en noviembre de 2025), cayó a 779 en junio de 2026. Competencia feroz y un posicionamiento de precio incómodo son las causas más citadas.
 
 ### ¿Qué autonomía real tiene?
-Homologa 780 km en ciclo **CLTC** (más optimista que el WLTP europeo); en uso real europeo habría que esperar bastante menos.
-
-Fuentes: <a href=https://cnevpost.com/2026/08/06/li-auto-launches-cheaper-entry-version-i8/>CnEVPost</a>, <a href=https://evlife.world/news/li-auto-brings-its-first-electric-car-to-europe-this-year/>EVLife</a>, <a href=https://en.wikipedia.org/wiki/Li_i8>Wikipedia</a>.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Homologa 780 km en ciclo **CLTC** (más optimista que el WLTP europeo); en uso real europeo habría que esperar bastante menos.`
   },
   {
     "title": "ID. UNYX 09: 755 km solo para China",
@@ -738,9 +710,7 @@ Mucho: es el **segundo modelo desarrollado conjuntamente** tras el ID. UNYX 08. 
 La preventa abrió el **24 de septiembre de 2026** y el lanzamiento oficial en China será a **finales de octubre**.
 
 ### ¿Por qué es importante este coche para Volkswagen?
-Porque la marca se hunde en China: **-26% de entregas en el primer semestre de 2026**, mínimo en 16 años. El UNYX 09 es su apuesta para recuperar el terreno perdido frente a BYD y Geely.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Porque la marca se hunde en China: **-26% de entregas en el primer semestre de 2026**, mínimo en 16 años. El UNYX 09 es su apuesta para recuperar el terreno perdido frente a BYD y Geely.`
   },
   {
     "title": "Geely Galaxy TT: berlina eléctrica china con 725 km",
@@ -833,11 +803,7 @@ Entre **540 y 725 km en ciclo CLTC** según versión. La de acceso homologa 640 
 Dos, conseguidos el mismo día: el **derrape continuo en mojado más largo** (más de 46 km) y el **menor consumo de un eléctrico de producción** (8,2 kWh/100 km rodeando el lago Qinghai).
 
 ### ¿Contra qué rivales compite el Galaxy TT?
-Contra el **Xiaomi SU7** y el **Tesla Model 3**, a los que se enfrenta en tamaño, prestaciones y precio dentro del mercado chino.
-
-Fuentes: <a href=https://electrek.co/2026/09/11/geely-tt-electric-sedan-launch-price-xiaomi-su7/>Electrek</a>, <a href=https://www.thestreet.com/automotive/china-just-launched-a-19170-electric-vehicle>TheStreet</a>, <a href=https://www.dpccars.com/blog/new-geely-galaxy-tt-first-look-everything-you-need-to-know/>DPCcars</a>.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Contra el **Xiaomi SU7** y el **Tesla Model 3**, a los que se enfrenta en tamaño, prestaciones y precio dentro del mercado chino.`
   },
   {
     "title": "AIVA ME7: el SUV de Seres, CATL y TikTok",
@@ -926,11 +892,7 @@ Habrá dos versiones: **100 % eléctrica** y **con extensor de autonomía**. Bat
 **No publicado.** La marca solo ha confirmado que su gama se situará por encima de los 200.000 yuanes (unos 26.600 € al cambio).
 
 ### ¿El AIVA ME7 se venderá en España?
-**Sin confirmar.** El debut mundial fue en París y la marca habla de mercados internacionales, pero no hay anuncio oficial para Europa.
-
-Fuentes: <a href=https://carnewschina.com/2026/09/30/seres-and-catl-backed-aiva-unveils-me7-in-paris/>CarNewsChina</a>, <a href=https://newmobility.news/en/2026/10/01/yet-another-chinese-ev-brand-is-knocking-on-europes-door-aiva/>NewMobility</a>, <a href=https://www.somoselectricos.com/coches-electricos/seres-catl-estrenan-aiva-me7-espectacular-suv-coupe-inteligencia-artificial/20260930123054063764.html>SomosEléctricos</a>, <a href=https://cnevpost.com/2026/06/09/seres-saidou-launches-new-brand-aiva-ai-defined-evs/>CnEVPost</a>.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+**Sin confirmar.** El debut mundial fue en París y la marca habla de mercados internacionales, pero no hay anuncio oficial para Europa.`
   },
   {
     "title": "Battleship 700: 4x4 de 1.113 CV que flota",
@@ -1022,11 +984,7 @@ Tiene **modo de flotación de emergencia** además de un vadeo convencional de 8
 **305 km en ciclo CLTC** (≈247 km WLTP) con su batería CATL LFP de 47,14 kWh; la combinada supera los 1.770 km CLTC.
 
 ### ¿El Battleship 700 llegará a España?
-Sí. Geely confirmó en el Salón del Automóvil de París 2026 que el todoterreno híbrido se venderá en Europa en la **segunda mitad de 2027**. También está prevista su llegada a Australia. El precio europeo aún no se ha anunciado.
-
-Fuentes: <a href=https://carnewschina.com/2026/09/29/geelys-1113-hp-off-roader-battleship-700-to-launch-october-10/>CarNewsChina</a>, <a href=https://cnevpost.com/2026/09/15/geely-galaxy-cruiser-700-pre-sales/>CnEVPost</a>, <a href=https://carnewschina.com/2026/09/16/geelys-first-off-road-suv-galaxy-zhanjian-700-with-1113-hp-hits-43900-pre-orders-in-one-hour/>CarNewsChina</a>, <a href=https://www.youtube.com/watch?v=yW7MF3kKo2Q>Solkuno en YouTube</a>.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Sí. Geely confirmó en el Salón del Automóvil de París 2026 que el todoterreno híbrido se venderá en Europa en la **segunda mitad de 2027**. También está prevista su llegada a Australia. El precio europeo aún no se ha anunciado.`
   },
   {
     title: "Evoke Nrgy: moto eléctrica 120 km/h",
@@ -1099,11 +1057,7 @@ Precio objetivo: **4.995 $** la Nrgy 6 (6,4 kWh) y **6.495 $** la Nrgy 8 (8,4 kW
 Evoke estima **180 km CLTC** (Nrgy 6) y **240 km CLTC** (Nrgy 8). Son estimaciones del fabricante en ciclo urbano chino; la autonomía real en uso mixto será menor.
 
 ### ¿Se vende la Evoke Nrgy en España?
-**No.** De momento no hay venta en Europa confirmada, aunque la marca dice que el continente está entre sus mercados objetivo.
-
-Fuentes: <a href=https://www.evokemotorcycles.com/NrgySeries>Evoke Motorcycles (oficial)</a>, <a href=https://electrek.co/2026/09/07/evokes-new-5000-electric-motorcycle-can-hit-highway-speeds-coming-to-us-eu/>Electrek</a>, <a href=https://newatlas.com/motorcycles/evoke-nrgy/>New Atlas</a>, <a href=https://www.buckcitybiker.co.uk/news/evoke-nrgy-electric-motorcycle>Buck City Biker</a>.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+**No.** De momento no hay venta en Europa confirmada, aunque la marca dice que el continente está entre sus mercados objetivo.`
   },
   {
     "title": "Jetour G700: todoterreno híbrido de 903 CV que flota",
@@ -1189,11 +1143,7 @@ Sí: además de vadear 900 mm, la versión Ark puede **navegar con hélices** ha
 **No.** Jetour solo opera oficialmente en Polonia (con otros modelos). No hay fecha para el G700 en Europa.
 
 ### ¿Qué autonomía eléctrica tiene?
-**150 km CLTC** (≈122 km WLTP) con la batería de 34,13 kWh, o **260 km CLTC** (≈211 km WLTP) con la de 59,45 kWh.
-
-Fuentes: <a href=https://carnewschina.com/2026/09/30/cherys-jetour-g700-launched-with-huawei-ads-5-0/>CarNewsChina</a>, <a href=https://www.carsguide.com.au/car-news/chinas-new-landcruiser-rival-is-an-animal-2026-jetour-g700-revealed-ahead-of-potential>Carsguide</a>, <a href=https://www.youtube.com/watch?v=dp7ti7NmUKo>prueba en YouTube (PRIMA AUTO)</a>.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+**150 km CLTC** (≈122 km WLTP) con la batería de 34,13 kWh, o **260 km CLTC** (≈211 km WLTP) con la de 59,45 kWh.`
   },
   {
     "title": "Hongqi G919: el Clase G chino de 831 CV",
@@ -1278,11 +1228,7 @@ En preventa china, de **359.800 a 439.800 yuanes** (unos 47.800–58.500 € al 
 **No.** De momento solo en China; Hongqi opera en Europa únicamente en Dinamarca, Suecia y Noruega.
 
 ### ¿Es un todoterreno de verdad?
-Sí: **chasis de largueros**, tres bloqueos de diferencial mecánicos, suspensión neumática y 9 modos de conducción off-road.
-
-Fuentes: <a href=https://autonews.gasgoo.com/articles/news/hongqis-first-hardcore-off-roader-arrives-2102694253003481089>Gasgoo</a>, <a href=https://www.freshmotors.net/articles/2026-hongqi-g919-831-hp-four-motor-erev-off-roader-pre-sale-from-52-500>Fresh Motors</a>, <a href=https://www.carscoops.com/2026/06/hongqi-g919-off-roader/>Carscoops</a>, <a href=https://en.wikipedia.org/wiki/Hongqi_G919>Wikipedia</a>, <a href=https://www.youtube.com/watch?v=wHGvjDbZBGs>CarVibes en YouTube</a>.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`
+Sí: **chasis de largueros**, tres bloqueos de diferencial mecánicos, suspensión neumática y 9 modos de conducción off-road.`
   },
 ];
 

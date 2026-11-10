@@ -88,11 +88,7 @@ Homologa 15,0 l/100 km más 4,7 kWh/100 km en ciclo WLTP ponderado; con la bater
 Sí: 2,5 s de 0 a 100 km/h frente a los 2,9 s del Aventador SVJ, con más de 350 km/h de punta.
 
 ### ¿Merece la pena un Revuelto de ocasión?
-En 2026 un Revuelto usado cuesta casi lo mismo que uno nuevo (desde ~568.800 €): solo compensa si quieres evitar la lista de espera.
-
-Si te ha llegado una multa con tu superdeportivo, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.actualidadmotor.com/coches/lamborghini/lamborghini-revuelto/>precio y ficha en actualidadmotor</a>, <a href=https://www.quadis.es/precios/lamborghini/revuelto/466406>tarifa en Quadis</a>, <a href=https://www.lamborghini.com/original/DAM/lamborghini/facelift_2019/model_detail/revuelto/brochure/LB744_REVUELTO_DIGITAL_BROCHURE_ESP.pdf>folleto oficial Lamborghini</a>.*`
+En 2026 un Revuelto usado cuesta casi lo mismo que uno nuevo (desde ~568.800 €): solo compensa si quieres evitar la lista de espera.`
   },
   {
     "title": "Lamborghini Temerario: precio y ficha técnica 2025",
@@ -177,11 +173,7 @@ Sí: es el sucesor directo del Huracán, cuya producción terminó en agosto de 
 Homologa **11,2 l/100 km** y 272 g/km de CO₂ en ciclo WLTP.
 
 ### ¿Habrá un Temerario Spyder?
-Todo apunta a que sí: ya hay mulas de pruebas rodando, con presentación probable en 2026 y un sobreprecio estimado de 30.000-40.000 €.
-
-Si te ha llegado una multa con tu Temerario, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.coches.net/s/lamborghini/temerario/>precios en coches.net</a>, <a href=https://www.quecochemecompro.com/precios/lamborghini-temerario/>tarifa en quecochemecompro</a>, <a href=https://www.km77.com/coches/lamborghini/temerario/2025/estandar/estandar/temerario/datos>ficha técnica en km77</a>.*`
+Todo apunta a que sí: ya hay mulas de pruebas rodando, con presentación probable en 2026 y un sobreprecio estimado de 30.000-40.000 €.`
   },
   {
     "title": "Lamborghini Urus SE: precio y ficha técnica 2024",
@@ -265,11 +257,7 @@ Homologa **2,1 l/100 km** con la batería cargada; sin cargar, el consumo real e
 Sí: desde 2025 la gama Urus es solo híbrida enchufable; los V8 puros dejaron de fabricarse.
 
 ### ¿Urus SE o Ferrari Purosangue?
-El Purosangue lleva un V12 atmosférico y es más exclusivo y caro; el Urus SE es más potente en modo híbrido, tiene etiqueta CERO y cuesta menos de partida.
-
-Si te ha llegado una multa con tu Urus, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.quadis.es/precios/lamborghini/urus/197711>tarifa en Quadis</a>, <a href=https://motor.flexicar.es/superdeportivos/lamborghini-urus/>ficha y versiones en flexicar</a>, <a href=https://www.driverreviews.es/car-reviews/lamborghini/urus-se>prueba en DriverReviews</a>.*`
+El Purosangue lleva un V12 atmosférico y es más exclusivo y caro; el Urus SE es más potente en modo híbrido, tiene etiqueta CERO y cuesta menos de partida.`
   },
   {
     "title": "Lamborghini Urus Performante: precio y ficha 2024",
@@ -351,11 +339,7 @@ No: es gasolina puro y lleva etiqueta **C**.
 Unos **14,1 l/100 km** de media; en conducción deportiva supera los 20 l/100 km reales.
 
 ### ¿Urus Performante o Urus SE?
-Performante si buscas el último V8 puro con sonido clásico y tacto radical; SE si quieres 800 CV, etiqueta CERO y menor consumo.
-
-Si te ha llegado una multa con tu Urus, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/urus/2018/estandar/performante/urus-performante/datos>precio y ficha en km77</a>, <a href=https://soymotor.com/coches/lamborghini/lamborghini-urus-performante>prueba en soymotor</a>.*`
+Performante si buscas el último V8 puro con sonido clásico y tacto radical; SE si quieres 800 CV, etiqueta CERO y menor consumo.`
   },
   {
     "title": "Lamborghini Urus S: precio y ficha técnica 2024",
@@ -472,11 +456,7 @@ El S es más cómodo y 31.000 € más barato; el Performante es más ligero, ra
 No: al ser gasolina puro lleva etiqueta **C**.
 
 ### ¿Cuánto consume el Urus S?
-Homologa **14,1 l/100 km** y 320 g/km de CO₂ en ciclo WLTP (km77).
-
-Si te ha llegado una multa con tu Urus, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/urus/2018/estandar/estandar/urus-s/datos>precio y ficha en km77</a>, <a href=https://motor.flexicar.es/superdeportivos/lamborghini-urus/>versiones del Urus en flexicar</a>., <a href=https://www.lamborghini.com/en-en/models/urus/urus-s>Lamborghini, Urus S</a>*`
+Homologa **14,1 l/100 km** y 320 g/km de CO₂ en ciclo WLTP (km77).`
   },
   {
     "title": "Lamborghini Huracán Tecnica: precio y ficha 2024",
@@ -560,11 +540,7 @@ No: la producción del Huracán terminó en agosto de 2024. Solo quedan unidades
 Homologa **14,5 l/100 km** y 328 g/km de CO₂ en ciclo WLTP.
 
 ### ¿Tecnica o Temerario?
-El Tecnica es el último V10 atmosférico trasera (emociones clásicas); el Temerario es híbrido con 920 CV (más rápido y moderno, pero sin el sonido del V10).
-
-Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/coupe/tecnica/huracan-tecnica/datos>precio y ficha en km77</a>, <a href=https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/huracan/tecnica/2024/06_24_brochure/Lamborghini%20Hurac%C3%A1n%20Tecnica_ES_WCAG.pdf>folleto oficial Lamborghini</a>, <a href=https://periodismodelmotor.com/prueba-lamborghini-huracan-tecnica/362389/>prueba en periodismodelmotor</a>.*`
+El Tecnica es el último V10 atmosférico trasera (emociones clásicas); el Temerario es híbrido con 920 CV (más rápido y moderno, pero sin el sonido del V10).`
   },
   {
     "title": "Lamborghini Huracán STO: precio y ficha técnica",
@@ -646,11 +622,7 @@ No: la producción del Huracán terminó en agosto de 2024. Solo hay unidades de
 En circuito sí, por aerodinámica y peso; en línea recta son similares (3,0 s vs 3,2 s en el 0-100).
 
 ### ¿Merece la pena el STO frente al Tecnica?
-Si buscas el Huracán definitivo y no te importa el confort, el STO es la pieza de colección; el Tecnica es más barato y usable a diario.
-
-Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/coupe/sto/huracan-sto/datos>precio y ficha en km77</a>, <a href=https://repuestoverde.com/prueba-lamborghini-huracan-sto-y-tecnica-en-total-simbiosis/>prueba en repuestoverde</a>.*`
+Si buscas el Huracán definitivo y no te importa el confort, el STO es la pieza de colección; el Tecnica es más barato y usable a diario.`
   },
   {
     "title": "Lamborghini Huracán EVO Spyder: precio y ficha",
@@ -733,11 +705,7 @@ No: la producción terminó en agosto de 2024. Solo quedan unidades de ocasión 
 No: es gasolina puro y lleva etiqueta **C**.
 
 ### ¿Habrá un Temerario Spyder?
-Sí, todo apunta a ello: hay mulas rodando y la presentación se espera en 2026.
-
-Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio en km77</a>, <a href=https://www.coches.net/noticias/nuevo-lamborghini-huracan-evo-spyder>presentación en coches.net</a>, <a href=https://revistacar.es/prueba-lamborghini-huracan-evo-spyder/>prueba en revistacar</a>, <a href=https://www.encycarpedia.com/es/lamborghini/19-huracan-evo-spyder-roadster>datos en encycarpedia</a>.*`
+Sí, todo apunta a ello: hay mulas rodando y la presentación se espera en 2026.`
   },
   {
     "title": "Lamborghini Huracán EVO: precio y ficha técnica",
@@ -866,11 +834,7 @@ El RWD es tracción trasera, tiene 610 CV y costaba 216.444 €: es más barato 
 No: es gasolina puro y lleva etiqueta **C**.
 
 ### ¿Qué lo sustituye?
-El <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Lamborghini Temerario</a>, con V8 biturbo híbrido enchufable.
-
-Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>., <a href=https://www.lamborghini.com/es-en/historia/huracan-evo>Lamborghini, historia del Huracán EVO</a>*`
+El <a href=/coches/lamborghini-temerario-2025-precio-ficha-tecnica/>Lamborghini Temerario</a>, con V8 biturbo híbrido enchufable.`
   },
   {
     "title": "Huracán EVO RWD: precio y ficha del tracción trasera",
@@ -981,11 +945,7 @@ Es el Huracán más juguetón: sin eje delantero motriz, la trasera se deja llev
 No: la producción terminó en 2024. Solo ocasión.
 
 ### ¿Qué etiqueta DGT lleva?
-**C**, como todo Huracán de gasolina.
-
-Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>. <a href=https://www.lamborghini.com>Lamborghini (web oficial)</a>, <a href=https://www.euroncap.com>Euro NCAP</a>*`
+**C**, como todo Huracán de gasolina.`
   },
   {
     "title": "Huracán EVO RWD Spyder: precio, ficha y vídeo",
@@ -1096,11 +1056,7 @@ No: la producción del Huracán terminó en 2024.
 Sí: <a href=https://www.youtube.com/watch?v=AqfMLZSAhzk>prueba en vídeo de coches.net</a>.
 
 ### ¿Qué etiqueta DGT lleva?
-**C**.
-
-Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>, <a href=https://www.youtube.com/watch?v=AqfMLZSAhzk>vídeo de coches.net</a>., <a href=https://www.lamborghini.com>Lamborghini (web oficial)</a>*`
+**C**.`
   },
   {
     "title": "Lamborghini Urus SE Performante: 812 CV PHEV",
@@ -1208,11 +1164,7 @@ El precio aún no ha sido anunciado por Lamborghini.
 El 4 de julio de 2026.
 
 ### ¿En qué se diferencia del Urus SE normal?
-Añade la puesta a punto Performante (chasis, aerodinámica y estética más agresiva) sobre la base híbrida del SE.
-
-Si te ha llegado una multa con tu Urus, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: presentación cubierta por auto10, soymotor y autoscout24 (julio 2026). <a href=https://www.lamborghini.com/en-en/models/urus/urus-se-performante>Lamborghini — Urus SE Performante (web oficial)</a>*`
+Añade la puesta a punto Performante (chasis, aerodinámica y estética más agresiva) sobre la base híbrida del SE.`
   },
   {
     "title": "Huracán STJ: el último Huracán, 10 unidades",
@@ -1321,11 +1273,7 @@ Añade un paquete aerodinámico específico (alerón de carbono) y es una serie 
 Unos **3,0 s** (aprox.), como el STO.
 
 ### ¿Qué etiqueta DGT lleva?
-**C**.
-
-Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: cobertura de motor.com.co y lubri-press. <a href=https://www.lamborghini.com>Automobili Lamborghini — web oficial</a> y <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT — distintivo ambiental</a>*`
+**C**.`
   },
   {
     "title": "Huracán Sterrato: precio y ficha del todoterreno",
@@ -1437,11 +1385,7 @@ Es un superdeportivo adaptado a tierra y grava: más alto, protegido y con neum�
 No: la producción terminó. Solo ocasión.
 
 ### ¿Qué etiqueta DGT lleva?
-**C**.
-
-Si te ha llegado una multa con tu Huracán, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: <a href=https://www.km77.com/coches/lamborghini/huracan/2019/datos?amp=1>precio y ficha en km77</a>. <a href=https://www.lamborghini.com/en-en/history/huracan-sterrato>Lamborghini (página oficial del Huracán Sterrato)</a>*`
+**C**.`
   },
   {
     "title": "Countach LPI 800-4: precio y ficha técnica",
@@ -1554,11 +1498,7 @@ Sí: 355 km/h de punta y 2,8 s de 0-100.
 Por el código interno **LP 112** del Countach original de los 70.
 
 ### ¿Qué etiqueta DGT lleva?
-**ECO**, gracias a la hibridación ligera.
-
-Si te ha llegado una multa con tu Lamborghini, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: cobertura de italpassion, revistacar y auto10., <a href=https://www.lamborghini.com>Lamborghini (web oficial)</a>*`
+**ECO**, gracias a la hibridación ligera.`
   },
   {
     "title": "Lamborghini Fenomeno: 1.080 CV, precio y ficha",
@@ -1672,11 +1612,7 @@ Sí: PHEV con batería de 7 kWh y unos 20 km de autonomía eléctrica.
 El **16 de agosto de 2025**.
 
 ### ¿Qué velocidad máxima alcanza?
-**350 km/h**.
-
-Si te ha llegado una multa con tu Lamborghini, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: cobertura de autocosmos y europacoche., <a href=https://www.lamborghini.com/>Lamborghini (web oficial)</a>*`
+**350 km/h**.`
   },
   {
     "title": "Fenomeno Roadster: 15 unidades, precio y ficha",
@@ -1782,10 +1718,6 @@ El mismo del coupé: V12 6.5 de 835 CV + 3 motores eléctricos = 1.080 CV.
 En **mayo de 2026**.
 
 ### ¿En qué se diferencia del coupé?
-El techo desmontable y una producción aún más limitada (15 frente a 29).
-
-Si te ha llegado una multa con tu Lamborghini, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla.
-
-*Fuentes: cobertura de italpassion y universomotor., <a href=https://www.lamborghini.com/en-en>Lamborghini — web oficial</a> y <a href=https://www.dgt.es/nuestros-servicios/tu-vehiculo/distintivo-ambiental/>DGT — distintivo ambiental</a>*`
+El techo desmontable y una producción aún más limitada (15 frente a 29).`
   },
 ];

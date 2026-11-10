@@ -82,9 +82,7 @@ Acabado Jet Black con dorado, guardabarros de carbono, intermitentes ahumados, p
 Nuevos colores (S en Jet Black, SR/F en Thermal, DS en Quicksand, DSR/X en Silver y Black Forest) y **bajadas de precio** en varios modelos en el Benelux.
 
 ### ¿Dónde se puede comprar en Europa?
-Solo en **concesionarios Zero europeos participantes**, hasta agotar las 20 unidades asignadas al continente.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+Solo en **concesionarios Zero europeos participantes**, hasta agotar las 20 unidades asignadas al continente.`,
 },
 {
   title: "Honda WN7 eléctrica por 15.000 €",
@@ -172,8 +170,6 @@ Con **carga rápida CCS2** pasa del 20 al 80% en **30 minutos**. En un enchufe d
 Sí: la **carcasa de la batería funciona como elemento estructural**, sin un chasis tubular tradicional. Es una de las soluciones más atrevidas vistas en una moto eléctrica de serie.
 
 ### ¿Dónde puedo ver la ficha técnica completa?
-En la <a href=/motos/honda-wn7-electrica-precio-espana-15000/>ficha de la Honda WN7 del comparador</a>, con fotos oficiales, pros y contras y todos los datos verificados.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.`,
+En la <a href=/motos/honda-wn7-electrica-precio-espana-15000/>ficha de la Honda WN7 del comparador</a>, con fotos oficiales, pros y contras y todos los datos verificados.`,
 },
 ];

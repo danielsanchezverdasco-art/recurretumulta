@@ -301,10 +301,6 @@ Una CATL Freevoy de 66 kWh (NMC), con arquitectura de 800 V que carga del 10 al 
 530 CV de potencia combinada y 670 Nm de par, con un 0-100 km/h en 4,9 segundos.
 
 *Cómo verificamos: especificaciones de auto-data.net y del artículo de hibridosyelectricos.com (13/11/2025); precios en yuanes convertidos a euros al cambio de octubre de 2026.*
-
-*Fuentes: <a href=https://www.hibridosyelectricos.com/coches/ultimo-mg-es-range-rover-hibrido-1500-km-autonomia-con-bateria-mg4_83429_102.html>hibridosyelectricos.com</a>, <a href=https://www.auto-data.net/es/compare?carId1=55788&carId2=&carId3=>auto-data.net</a>.*
-
-¿Te han multado y no sabes si el recurso prospera? <a href=https://recurretumulta.online/#analizador>Pásalo gratis por nuestro analizador de multas</a>.
 `,
   },
 ];

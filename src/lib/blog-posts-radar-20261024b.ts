@@ -144,11 +144,7 @@ No. Es un vehículo de competición puro: llevará jaula de seguridad, baquets, 
 
 ### ¿Qué copas disputará el nuevo Clio Rally5 en 2027?
 
-Dos copas monomarca en Francia durante su primera temporada: una sobre asfalto y otra sobre tierra. Tras esa campaña inaugural, Renault planea expandir el coche a nivel internacional. El modelo a seguir es el actual Clio Trophy France Asphalte, que en 2026 celebra su séptima temporada.
-
-**¿Te han puesto una multa?** Antes de pagarla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-
-*Fuentes: <a href=https://www.autohebdof1.com/news/rally/Renault-is-preparing-the-sixth-generation-Clio-Rally5--expected-to-compete-in-2027..html>AutoHebdo — "Renault is preparing the sixth-generation Clio Rally5" (24/10/2026)</a>, <a href=https://www.renaultgroup.com/en/magazine/our-group-news/new-clio-the-legend-enters-its-sixth-chapter/>Renault Group — "New Clio: the legend enters its sixth chapter" (08/09/2025)</a>, <a href=https://media.renault.com/the-title-and-official-drive-at-stake-in-the-cevennes/>Renault Media — "The title and official drive at stake in the Cévennes" (16/10/2026)</a>, <a href=https://media.renault.com/download/?n=New+Renault+Clio%3A+the+superpowered+hatch&picid=551546>Renault Media — kit de prensa "New Renault Clio: the superpowered hatch" (datos técnicos del Clio VI)</a>.*`,
+Dos copas monomarca en Francia durante su primera temporada: una sobre asfalto y otra sobre tierra. Tras esa campaña inaugural, Renault planea expandir el coche a nivel internacional. El modelo a seguir es el actual Clio Trophy France Asphalte, que en 2026 celebra su séptima temporada.`,
   },
 {
     slug: "spotify-app-nativa-audi-47-paises",
@@ -313,10 +309,6 @@ De momento funciona en el A6 e-tron, el Q6 e-tron, el A5, el Q5 y el A6 del año
 
 ### ¿Qué fue del Car Thing de Spotify?
 
-Era el accesorio propio de Spotify para llevar su servicio a cualquier coche: salió en EE. UU. en febrero de 2022 por 89,99 $, solo para Premium. Spotify lo descontinuó ese mismo año con un cargo de 31 millones de euros y dejó de funcionar en diciembre de 2024. La app nativa con Audi, menos de dos años después, es su regreso al coche: esta vez integrada en el software del propio vehículo, sin hardware externo.
-
-**¿Te han puesto una multa?** Antes de pagarla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-
-*Fuentes: <a href=https://newsroom.spotify.com/2026-10-21/spotify-native-car-app-audi/>Spotify Newsroom — "Spotify's New In-Car App Is Available for Audi Vehicles Starting Today" (21/10/2026)</a>, <a href=https://www.audi.com/en/presskits/audi-application-store-16930>Audi — Sala de prensa, Audi Application Store: "Audi becomes the first automaker to launch Spotify's fully native in-car app"</a>, <a href=https://www.autoguide.com/auto/audi-first-to-get-spotify-s-fully-native-in-car-app-44640781>AutoGuide — "Audi First to Get Spotify's Fully Native In-Car App" (22/10/2026)</a>, <a href=https://www.musicbusinessworldwide.com/spotify-launches-native-in-car-app-with-audi-less-than-two-years-after-switching-off-car-thing/>Music Business Worldwide — "Spotify launches native in-car app with Audi" (22/10/2026)</a>.*`,
+Era el accesorio propio de Spotify para llevar su servicio a cualquier coche: salió en EE. UU. en febrero de 2022 por 89,99 $, solo para Premium. Spotify lo descontinuó ese mismo año con un cargo de 31 millones de euros y dejó de funcionar en diciembre de 2024. La app nativa con Audi, menos de dos años después, es su regreso al coche: esta vez integrada en el software del propio vehículo, sin hardware externo.`,
   }
 ];

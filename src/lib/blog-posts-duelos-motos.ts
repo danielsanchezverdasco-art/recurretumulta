@@ -102,8 +102,6 @@ Sí, las dos: la S01 con su batería trolley de ruedas (41 kg) y la NIU con sus 
 
 ### ¿Tienen etiqueta Cero?
 Sí, ambas son 100 % eléctricas y llevan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero de la DGT</a>: entran en todas las ZBE sin restricciones.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
   },
   {
@@ -202,8 +200,6 @@ Sí, pero con matices: la FXE tarda unas 9,7 h de serie y el CE 04 unas 4 h 20 m
 
 ### ¿Cuál retiene mejor el valor?
 Las dos son nicho premium con depreciación incierta, pero BMW tiene red de concesionarios y servicio en toda España; Zero está creciendo (+58 % de red en 2025) pero sigue siendo minoritaria.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
   },
   {
@@ -301,8 +297,6 @@ No realmente: la Elettrica está limitada a 45 km/h y el Piaggio 1 a 60 km/h. So
 
 ### ¿Las dos tienen etiqueta Cero?
 Sí, ambas son 100 % eléctricas y llevan <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero</a>: acceso sin restricciones a todas las ZBE.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
   },
   {
@@ -400,8 +394,6 @@ La Yamaha NEO's: 2.999 € frente a 3.999 € de la Honda EM1 e:.
 
 ### ¿Sirven como primera moto?
 Sí, son ideales para empezar: ligeras, sencillas, baratas de mantener y con <a href=https://sede.dgt.gob.es/es/vehiculos/informacion-de-vehiculos/distintivo-ambiental/index.html?matricula=2521BMB>etiqueta Cero</a>. Eso sí, limitadas a 45 km/h: solo ciudad.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
   },
   {
@@ -500,8 +492,6 @@ La Super Soco CPx: 5.589 € frente a los ≈8.400 € de la BMW CE 02 (versión
 
 ### ¿Cuál es más divertida?
 La CE 02: 3,0 s de 0 a 50 km/h, 132 kg y un chasis muy ágil. La CPx es más rutera y práctica que deportiva.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
   },
   {
@@ -600,8 +590,6 @@ De serie no: es monoplaza y el asiento del pasajero es un accesorio opcional. La
 
 ### ¿Cuál es más barata?
 La Can-Am Pulse: 13.199 € frente a 18.295 € de la Zero S. Unos 5.000 € de diferencia.
-
-Si te ha llegado una multa y crees que puede tener un defecto, <a href=https://recurretumulta.online/>analízala gratis con nuestra IA</a> antes de pagar.
 `,
   },
   {
@@ -694,10 +682,7 @@ La **Kawasaki Z500** (6.450 €), 349 € menos que la BMW F 450 R (6.799 €) y
 La **BMW F 450 R** con diferencia: ABS Pro en curva, control de tracción, control dinámico de frenada y 3 modos de conducción de serie, además del Easy Ride Clutch opcional.
 
 ### ¿Cuál pesa menos?
-La **BMW F 450 R** (175 kg en orden de marcha), 13 kg menos que la Honda CB500 Hornet (188 kg).
-
-
-*Fuentes: <a href=https://www.press.bmwgroup.com/global/article/detail/T0460765EN/bmw-motorrad-presents-the-new-bmw-f-450-r?language=en>nota de prensa oficial de BMW Motorrad</a>, <a href=https://www.honda.es/motorcycles.html>Honda España</a> y <a href=https://www.kawasaki.es/>Kawasaki España</a>.*`,
+La **BMW F 450 R** (175 kg en orden de marcha), 13 kg menos que la Honda CB500 Hornet (188 kg).`,
   },
 
   {
@@ -779,8 +764,6 @@ La **C6**: del 20 al 80 % en unos 65 minutos. La CUV e: tarda unas 6 horas (0-10
 
 ### ¿Merece la pena la Flying Flea C6 por 5.990 €?
 Si tienes el A2 y buscas una moto eléctrica de verdad (no un scooter), sí: chasis de aluminio forjado, 115 km/h y ayudas en curva por ese precio no tienen rival directo. <a href=/blog/flying-flea-c6-moto-electrica-royal-enfield-5990-euros/>Aquí tienes nuestro análisis completo</a>.
-
-**También te puede interesar:** <a href=/motos/royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio/>ficha de la Flying Flea C6</a> · <a href=/motos/honda-cuv-e-2025-ficha-tecnica-precio/>ficha de la Honda CUV e:</a> · <a href=/comparador-motos/>comparador de motos eléctricas</a> · <a href=/#analizador>analiza tu multa gratis</a>.
 
 `
   },

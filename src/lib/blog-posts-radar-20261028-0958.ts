@@ -152,10 +152,6 @@ Crece en todas las medidas (4.840 mm de largo, 1.900 de ancho, 2.800 mm de batal
 
 ### ¿Tiene prueba EuroNCAP el Qin Plus DM-i 2026?
 
-No. Al no venderse en Europa, no hay prueba EuroNCAP publicada para este modelo, y la ficha lo indica así, sin estrellas inventadas.
-
-**¿Te han puesto una multa?** Antes de pagarla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.
-
-*Fuentes: <a href=https://www.hibridosyelectricos.com/coches/por-10735-byd-vuelve-romper-precios-lanza-berlina-hibrida-48-metros-2290-km-autonomia-258-l-100-km_90180_102.html>Híbridos y Eléctricos, artículo del 28/10/2026 sobre el lanzamiento en China</a>, <a href=https://www.byd.com>BYD</a>.*`,
+No. Al no venderse en Europa, no hay prueba EuroNCAP publicada para este modelo, y la ficha lo indica así, sin estrellas inventadas.`,
   },
 ];

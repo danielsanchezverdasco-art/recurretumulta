@@ -100,11 +100,7 @@ Su motor de **cuatro cilindros**: casi todas las deportivas de media cilindrada 
 La marca no declara cifra oficial para la versión europea; la Pro con RAM air rondaría los 220 km/h según la prensa especializada.
 
 ### ¿Qué rivales tiene?
-La Kawasaki Ninja 500, la Honda CBR500R y la Aprilia RS 457. Ninguna ofrece cuatro cilindros.
-
-En circuito, un despiste con el puño sale caro: si te ha llegado una denuncia por velocidad, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://kovemotor.es/modelo/450rr/>ficha oficial en Kove España</a>, <a href=https://kovemotor.es/wp-content/uploads/2026/07/KOVE-Ficha-Tecnica-450RR.pdf>ficha técnica oficial en PDF</a> y <a href=https://www.mundomotero.com/motos/kove/450rr>precio y ficha en mundomotero.com</a>.*`,
+La Kawasaki Ninja 500, la Honda CBR500R y la Aprilia RS 457. Ninguna ofrece cuatro cilindros.`,
   },
   {
     title: "Kove 800X 2025: precio, ficha y prueba",
@@ -200,11 +196,7 @@ La **Rally** es la más campera (176 kg, torre de navegación, sin estriberas tr
 La marca no declara consumo oficial; con 19 L y un consumo realista en trail, espera unos 350-400 km.
 
 ### ¿Qué rivales tiene?
-KTM 790 Adventure, Yamaha Ténéré 700, CFMOTO 800MT-X, Voge 900DSX y Zontes 703F.
-
-Con 94 CV bajo el puño, un radar despistado sale caro: si te ha llegado una denuncia por velocidad, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.mundomotero.com/motos/kove/800x-pro>ficha y precio en mundomotero.com</a>, <a href=https://www.mundomotero.com/motos/kove/800x-rally>datos de la 800X Rally</a> y <a href=https://www.motoplanete.es/kove/11269/800X-Pro-2025/contact.html>ficha técnica en motoplanete.es</a>.*`,
+KTM 790 Adventure, Yamaha Ténéré 700, CFMOTO 800MT-X, Voge 900DSX y Zontes 703F.`,
   },
   {
     title: "Morbidelli T502X 2025: precio y ficha técnica",
@@ -298,11 +290,7 @@ Con 20 L de depósito, la marca declara unos **440 km** de autonomía.
 Defensas, cubrecárter, caballete central, parrilla trasera, paramanos, TFT de 7" con GPS, TPMS y tomas USB/USB-C.
 
 ### ¿Qué rivales tiene?
-Honda NX500, Benelli TRK 502X, Voge 500DSX y Macbor Montana XR5.
-
-Si estrenas el A2 con ella, recuerda que los radares no perdonan a los novatos: ante una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a>.
-
-*Fuentes: <a href=https://www.mundomotero.com/motos/mbp/morbidelli-t502x>ficha y precio en mundomotero.com</a>, <a href=https://www.motorbikemag.es/ficha-tecnica/morbidelli-t502x/>ficha técnica en motorbikemag.es</a> y <a href=https://soymotero.net/pruebas/prueba-morbidelli-t502x/>prueba en soymotero.net</a>.*`,
+Honda NX500, Benelli TRK 502X, Voge 500DSX y Macbor Montana XR5.`,
   },
   {
     title: "Morbidelli C1002V 2025: precio y ficha",
@@ -398,11 +386,7 @@ Usa **correa** en lugar de cadena: no hay que engrasar ni tensar nada, ideal par
 Sí: asiento a 680 mm, postura relajada, control de crucero y 22 L de depósito. Su peso se nota en parado, no en marcha.
 
 ### ¿Qué rivales tiene?
-Indian Scout, Honda Rebel 1100 y Kawasaki Vulcan S. Todas cuestan bastante más.
-
-Una custom así invita a disfrutar la carretera, no a correr: pero si un radar te caza en un adelantamiento, <a href=https://recurretumulta.online/#analizador>analiza la multa gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.motorbikemag.es/ficha-tecnica/morbidelli-c1002v/>ficha técnica en motorbikemag.es</a>, <a href=https://www.mundomotero.com/motos/mbp/c1002v>precio y ficha en mundomotero.com</a> y <a href=https://www.motoplanete.es/morbidelli/10808/C1002V-2025/contact.html>datos técnicos en motoplanete.es</a>.*`,
+Indian Scout, Honda Rebel 1100 y Kawasaki Vulcan S. Todas cuestan bastante más.`,
   },
   {
     title: "Macbor XR5 2024: precio y ficha técnica",
@@ -498,10 +482,6 @@ Sí: 195 mm de horquilla, 210 mm detrás, ABS desconectable, cubrecárter de alu
 Con 20 L y un consumo medio de unos 3,5 L/100 km, ronda los **400 km** según las pruebas.
 
 ### ¿Qué rivales tiene?
-Benelli TRK 502, Honda NX500 (antes CB500X), Voge 500DSX y Morbidelli T502X.
-
-Una trail así pide pistas y curvas: si un radar te pilla disfrutando, <a href=https://recurretumulta.online/#analizador>analiza la multa gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://super7moto.com/pruebas/pruebas-a-fondo/22023-macbor-montana-500-xr5-prueba-a-fondo.html>prueba a fondo en super7moto.com</a>, <a href=https://www.motorpasionmoto.com/trail/macbor-montana-xr5-quiere-su-hueco-motos-trail-para-carnet-a2-47-cv-bien-equipada-6-499-euros>ficha técnica en motorpasionmoto.com</a> y <a href=https://supermotor.online/rodando-con-la-macbor-xr5-montana/>prueba en supermotor.online</a>.*`,
+Benelli TRK 502, Honda NX500 (antes CB500X), Voge 500DSX y Morbidelli T502X.`,
   },
 ];

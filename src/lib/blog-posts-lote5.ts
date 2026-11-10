@@ -14,7 +14,7 @@ export const LOTE5_POSTS: BlogPost[] = [
     readTime: 7,
     locale: "all",
     keywords: ["XPeng P5 precio", "XPeng P5 autonomía", "XPeng P5 ficha técnica", "berlina eléctrica china", "XPeng P5 LiDAR", "coche eléctrico barato"],
-    content: `<img src=/media/xpeng-p5-2025-precio-ficha-tecnica-hero.webp alt=\"XPeng P5 blanco, tres cuartos delantero junto a un lago\">
+    content: `<img src=/media/xpeng-p5-2025-precio-ficha-tecnica-hero.webp alt=\\"XPeng P5 blanco, tres cuartos delantero junto a un lago\\">
 
 **¿Buscas solo los datos?** <a href=/coches/xpeng-p5-2025-precio-ficha-tecnica/>Ver la ficha técnica del XPeng P5</a>: precio, autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -44,7 +44,7 @@ Con 310 Nm de par y un 0-100 km/h en **7,5 segundos**, no es un deportivo, pero 
 
 La gama arranca en unos **157.900 yuanes (~21.000 €)** para la versión de 55,9 kWh y 460 km, sube a la intermedia de 66,2 kWh y culmina con la de **71,4 kWh y 600 km**. La versión P con LiDAR, la más equipada, ronda los 223.900 yuanes (~30.000 €). Son precios que ningún fabricante europeo puede igualar en este tamaño.
 
-<img src=/media/xpeng-p5-2025-precio-ficha-tecnica-oficial.webp alt=\"XPeng P5, vista lateral con techo bitono\">
+<img src=/media/xpeng-p5-2025-precio-ficha-tecnica-oficial.webp alt=\\"XPeng P5, vista lateral con techo bitono\\">
 
 ## El LiDAR, explicado
 
@@ -52,7 +52,7 @@ El LiDAR (Light Detection and Ranging) emite pulsos láser y mide su rebote para
 
 En el <a href=/comparador-coches/>comparador</a> puedes enfrentarlo al <a href=/coches/byd-seal-2024-precio-ficha-tecnica/>BYD Seal</a> o al Tesla Model 3, sus rivales naturales por tamaño.
 
-<img src=/media/xpeng-p5-2025-precio-ficha-tecnica-interior.webp alt=\"XPeng P5 2024 Edition en un concesionario, vista frontal\">
+<img src=/media/xpeng-p5-2025-precio-ficha-tecnica-interior.webp alt=\\"XPeng P5 2024 Edition en un concesionario, vista frontal\\">
 
 ## Curiosidades que lo hacen único
 
@@ -90,11 +90,7 @@ No. Solo se comercializa en China y algunos mercados asiáticos, sin red oficial
 
 ### ¿Qué garantía tiene la batería del XPeng P5?
 
-XPeng ofrece 8 años o 160.000 km de garantía para la batería en China.
-
-*Fuentes: <a href=https://www.xpeng.com>XPeng</a>, <a href=https://insideevs.com>InsideEVs</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+XPeng ofrece 8 años o 160.000 km de garantía para la batería en China.`
   },
   {
     title: "Song Plus DM-i: 1.105 km de autonomía por ~20.000 €",
@@ -105,7 +101,7 @@ XPeng ofrece 8 años o 160.000 km de garantía para la batería en China.
     readTime: 8,
     locale: "all",
     keywords: ["BYD Song Plus DM-i precio", "BYD Song Plus autonomía", "SUV híbrido enchufable chino", "BYD Song Plus ficha técnica", "DM-i 5.0", "SUV PHEV 1100 km"],
-    content: `<img src=/media/byd-song-plus-dm-i-2025-precio-ficha-tecnica-hero.webp alt=\"BYD Song Plus DM-i blanco, tres cuartos delantero\">
+    content: `<img src=/media/byd-song-plus-dm-i-2025-precio-ficha-tecnica-hero.webp alt=\\"BYD Song Plus DM-i blanco, tres cuartos delantero\\">
 
 **¿Buscas solo los datos?** <a href=/coches/byd-song-plus-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica del BYD Song Plus DM-i</a>: precio, autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -133,7 +129,7 @@ Con un 0-100 km/h en **8,3 segundos**, un maletero de **574 litros** y la bater�
 
 En China la gama arranca en unos 135.800 yuanes (~20.000 €) y las versiones altas rondan los 175.800 yuanes (~26.000 €). En México, donde sí se vende oficialmente, parte de unos 778.800 pesos. A España aún no ha llegado, pero BYD ya vende aquí el <a href=/coches/byd-seal-u-ev-2025-precio-ficha-tecnica/>Seal U DM-i</a>, su primo europeo.
 
-<img src=/media/byd-song-plus-dm-i-2025-precio-ficha-tecnica-oficial.webp alt=\"BYD Song Plus DM-i negro, vista lateral\">
+<img src=/media/byd-song-plus-dm-i-2025-precio-ficha-tecnica-oficial.webp alt=\\"BYD Song Plus DM-i negro, vista lateral\\">
 
 ## El sistema DM-i 5.0, explicado
 
@@ -141,7 +137,7 @@ DM-i (Dual Mode intelligent) combina un motor de gasolina 1.5 turbo de ciclo Atk
 
 Sus rivales serían el Toyota RAV4 PHEV o el MG HS PHEV. Puedes <a href=/comparador-coches/>enfrentarlos en el comparador</a>.
 
-<img src=/media/byd-song-plus-dm-i-2025-precio-ficha-tecnica-interior.webp alt=\"BYD Song Plus DM-i en color arena junto al mar\">
+<img src=/media/byd-song-plus-dm-i-2025-precio-ficha-tecnica-interior.webp alt=\\"BYD Song Plus DM-i en color arena junto al mar\\">
 
 ## Curiosidades que lo hacen único
 
@@ -179,11 +175,7 @@ Sí: como híbrido enchufable con más de 40 km de autonomía eléctrica le corr
 
 ### ¿Es lo mismo que el Seal U DM-i?
 
-Casi: el Seal U DM-i es la versión adaptada a Europa del Song Plus, con ajustes de chasis y equipamiento para nuestro mercado.
-
-*Fuentes: <a href=https://www.autosnuevos.mx>autosnuevos.mx</a>, <a href=https://www.byd.com>BYD</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+Casi: el Seal U DM-i es la versión adaptada a Europa del Song Plus, con ajustes de chasis y equipamiento para nuestro mercado.`
   },
   {
     title: "Qin Plus DM-i: 214 CV y 1.245 km por ~11.000 €",
@@ -194,7 +186,7 @@ Casi: el Seal U DM-i es la versión adaptada a Europa del Song Plus, con ajustes
     readTime: 7,
     locale: "all",
     keywords: ["BYD Qin Plus DM-i precio", "BYD Qin Plus ficha técnica", "berlina híbrida enchufable", "BYD Qin autonomía", "coche híbrido barato", "Qin Plus 1245 km"],
-    content: `<img src=/media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-hero.webp alt=\"BYD Qin Plus DM-i blanco, tres cuartos delantero en ciudad\">
+    content: `<img src=/media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-hero.webp alt=\\"BYD Qin Plus DM-i blanco, tres cuartos delantero en ciudad\\">
 
 **¿Buscas solo los datos?** <a href=/coches/byd-qin-plus-dm-i-2025-precio-ficha-tecnica/>Ver la ficha técnica del BYD Qin Plus DM-i</a>: precio, autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -222,7 +214,7 @@ Acelera de 0 a 100 en **7,9 segundos**, mide 4,77 metros y su maletero cubica **
 
 La gama china arranca en 79.800 yuanes (~11.000 €) y la versión tope con 120 km eléctricos ronda los 125.800 yuanes (~17.000 €). En Chile, donde BYD sí lo vende, parte de unos 29.990.000 pesos chilenos. A Europa no ha llegado ni hay planes anunciados.
 
-<img src=/media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-oficial.webp alt=\"BYD Qin Plus DM-i gris, trasera con pilotos LED de ancho completo\">
+<img src=/media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-oficial.webp alt=\\"BYD Qin Plus DM-i gris, trasera con pilotos LED de ancho completo\\">
 
 ## Por qué es un fenómeno en China
 
@@ -230,7 +222,7 @@ El Qin Plus DM-i vende cientos de miles de unidades al año porque ataca el cora
 
 Su rival conceptual en España sería el <a href=/coches/byd-seal-6-dm-i-2025-precio-ficha-tecnica/>BYD Seal 6 DM-i</a>, la berlina híbrida que BYD sí trae a Europa. <a href=/comparador-coches/>Compáralos aquí</a>.
 
-<img src=/media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-interior.webp alt=\"Interior del BYD Qin Plus DM-i, volante con el carácter Qin\">
+<img src=/media/byd-qin-plus-dm-i-2025-precio-ficha-tecnica-interior.webp alt=\\"Interior del BYD Qin Plus DM-i, volante con el carácter Qin\\">
 
 ## Curiosidades que lo hacen único
 
@@ -264,11 +256,7 @@ Sí, como híbrido enchufable con más de 40 km de autonomía eléctrica.
 
 ### ¿Llegará a España?
 
-No hay planes oficiales. Su hueco europeo lo cubre el Seal 6 DM-i.
-
-*Fuentes: <a href=https://www.byd-auto.cl>BYD Chile</a>, <a href=https://www.byd.com>BYD</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+No hay planes oficiales. Su hueco europeo lo cubre el Seal 6 DM-i.`
   },
   {
     title: "Tiggo 2 Pro: el SUV de 114 CV por ~10.000 €",
@@ -279,7 +267,7 @@ No hay planes oficiales. Su hueco europeo lo cubre el Seal 6 DM-i.
     readTime: 7,
     locale: "all",
     keywords: ["Chery Tiggo 2 Pro precio", "Tiggo 2 Pro ficha técnica", "SUV barato", "Chery Tiggo 2 Pro 114 CV", "SUV 10000 euros", "Chery Latinoamérica"],
-    content: `<img src=/media/chery-tiggo-2-pro-2025-precio-ficha-tecnica-hero.webp alt=\"Chery Tiggo 2 Pro gris, tres cuartos delantero\">
+    content: `<img src=/media/chery-tiggo-2-pro-2025-precio-ficha-tecnica-hero.webp alt=\\"Chery Tiggo 2 Pro gris, tres cuartos delantero\\">
 
 **¿Buscas solo los datos?** <a href=/coches/chery-tiggo-2-pro-2025-precio-ficha-tecnica/>Ver la ficha técnica del Chery Tiggo 2 Pro</a>: precio, motor, medidas y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -306,7 +294,7 @@ Mide 4,20 metros, su maletero cubica **320 litros** y su diseño con parrilla de
 
 En Chile parte de 9.190.000 pesos (~10.000 €) y en México ronda los 329.900 pesos. Chery lo vende también en otros mercados latinoamericanos y de Oriente Medio. A Europa no llega: aquí su hueco lo ocupan el Dacia Duster o el MG ZS.
 
-<img src=/media/chery-tiggo-2-pro-2025-precio-ficha-tecnica-oficial.webp alt=\"Chery Tiggo 2 Pro plateado en movimiento\">
+<img src=/media/chery-tiggo-2-pro-2025-precio-ficha-tecnica-oficial.webp alt=\\"Chery Tiggo 2 Pro plateado en movimiento\\">
 
 ## Sencillez como argumento
 
@@ -314,7 +302,7 @@ El Tiggo 2 Pro apuesta por lo probado: un motor atmosférico sin turbo, sin hibr
 
 Frente al Duster, el Tiggo 2 Pro es más barato y mejor equipado, pero la red de servicio de Dacia en Europa no tiene rival. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
-<img src=/media/chery-tiggo-2-pro-2025-precio-ficha-tecnica-interior.webp alt=\"Chery Tiggo 2 Pro, vista frontal en estudio\">
+<img src=/media/chery-tiggo-2-pro-2025-precio-ficha-tecnica-interior.webp alt=\\"Chery Tiggo 2 Pro, vista frontal en estudio\\">
 
 ## Curiosidades que lo hacen único
 
@@ -348,11 +336,7 @@ Es una mecánica sencilla y probada; Chery ofrece garantías competitivas en sus
 
 ### ¿Se vende en España?
 
-No. Chery opera en España con las marcas Omoda y Jaecoo.
-
-*Fuentes: <a href=https://www.autocosmos.cl>Autocosmos</a>, <a href=https://www.cheryinternational.com>Chery</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+No. Chery opera en España con las marcas Omoda y Jaecoo.`
   },
   {
     title: "Buick GL8: el monovolumen de 7 plazas por ~25.000 €",
@@ -363,7 +347,7 @@ No. Chery opera en España con las marcas Omoda y Jaecoo.
     readTime: 8,
     locale: "all",
     keywords: ["Buick GL8 precio", "Buick GL8 ficha técnica", "monovolumen 7 plazas", "Buick GL8 PHEV", "MPV premium chino", "GL8 Century"],
-    content: `<img src=/media/buick-gl8-2025-precio-ficha-tecnica-hero.webp alt=\"Buick GL8 blanco, vista lateral del monovolumen\">
+    content: `<img src=/media/buick-gl8-2025-precio-ficha-tecnica-hero.webp alt=\\"Buick GL8 blanco, vista lateral del monovolumen\\">
 
 **¿Buscas solo los datos?** <a href=/coches/buick-gl8-2025-precio-ficha-tecnica/>Ver la ficha técnica del Buick GL8</a>: precio, motor, medidas y plazas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -393,7 +377,7 @@ Mide **5,22 metros**, ofrece 7 plazas con asientos de segunda fila tipo business
 
 El GL8 ya no es un coche, es una gama: el **GL8 ES** (2.0T), el **GL8 LS PHEV** (híbrido enchufable desde ~33.000 €), el **GL8 Century** (el insignia de lujo, desde ~62.000 €) y el **GL8 Encasa** eléctrico de 646 CV. Es la respuesta de Buick al Zeekr 009 y al Li Mega en la guerra de los monovolúmenes eléctricos premium.
 
-<img src=/media/buick-gl8-2025-precio-ficha-tecnica-oficial.webp alt=\"Buick GL8, trasera con insignias SAIC-GM\">
+<img src=/media/buick-gl8-2025-precio-ficha-tecnica-oficial.webp alt=\\"Buick GL8, trasera con insignias SAIC-GM\\">
 
 ## El rey de los MPV chinos
 
@@ -401,7 +385,7 @@ En China, "GL8" es sinónimo de monovolumen premium como "Golf" lo es de compact
 
 En Europa no tiene rival directo: lo más parecido sería un Mercedes Clase V o un VW Multivan, ambos mucho más caros. <a href=/comparador-coches/>Compáralos aquí</a>.
 
-<img src=/media/buick-gl8-2025-precio-ficha-tecnica-interior.webp alt=\"Buick GL8 Century, la versión insignia de la gama\">
+<img src=/media/buick-gl8-2025-precio-ficha-tecnica-interior.webp alt=\\"Buick GL8 Century, la versión insignia de la gama\\">
 
 ## Curiosidades que lo hacen único
 
@@ -435,11 +419,7 @@ Sí: el GL8 Encasa, con 646 CV y 601 km de autonomía CLTC.
 
 ### ¿Se vende en España?
 
-No. Es un modelo exclusivo del mercado chino.
-
-*Fuentes: <a href=https://gmauthority.com/blog/2025/03/all-new-2025-buick-gl8-ls-phev-mpv-officially-announced/>GM Authority</a>, <a href=https://carnewschina.com/2026/03/17/buick-gl8-encasa-electric-mpv-with-646-hp-launched-in-china-for-70425-usd/>CarNewsChina</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+No. Es un modelo exclusivo del mercado chino.`
   },
   {
     title: "Electra E5: SUV eléctrico de 620 km por ~28.000 €",
@@ -450,7 +430,7 @@ No. Es un modelo exclusivo del mercado chino.
     readTime: 7,
     locale: "all",
     keywords: ["Buick Electra E5 precio", "Buick Electra E5 autonomía", "SUV eléctrico GM", "plataforma Ultium", "Electra E5 ficha técnica", "SUV eléctrico 620 km"],
-    content: `<img src=/media/buick-electra-e5-2025-precio-ficha-tecnica-hero.webp alt=\"Buick Electra E5 azul claro, tres cuartos delantero\">
+    content: `<img src=/media/buick-electra-e5-2025-precio-ficha-tecnica-hero.webp alt=\\"Buick Electra E5 azul claro, tres cuartos delantero\\">
 
 **¿Buscas solo los datos?** <a href=/coches/buick-electra-e5-2025-precio-ficha-tecnica/>Ver la ficha técnica del Buick Electra E5</a>: precio, autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -479,7 +459,7 @@ Con un 0-100 km/h en **7,6 segundos**, 180 km/h de velocidad máxima y un malete
 
 En China la gama arranca en 169.900 yuanes (~28.000 €) para la versión de 68,4 kWh y 545 km, y la de 79,7 kWh con 620 km ronda los 189.900 yuanes (~31.000 €). En EE. UU. no se vende: allí su equivalente es el Chevrolet Equinox EV, que también cubrimos en <a href=/coches/chevrolet-equinox-ev-2025-precio-ficha-tecnica/>este artículo</a>.
 
-<img src=/media/buick-electra-e5-2025-precio-ficha-tecnica-oficial.webp alt=\"Buick Electra E5, trasera con la inscripción Electra E5\">
+<img src=/media/buick-electra-e5-2025-precio-ficha-tecnica-oficial.webp alt=\\"Buick Electra E5, trasera con la inscripción Electra E5\\">
 
 ## La plataforma Ultium, explicada
 
@@ -487,7 +467,7 @@ Ultium es la arquitectura eléctrica modular de GM: baterías con celdas de gran
 
 En el <a href=/comparador-coches/>comparador</a> puedes enfrentarlo al <a href=/coches/chevrolet-equinox-ev-2025-precio-ficha-tecnica/>Equinox EV</a> o al <a href=/coches/cadillac-optiq-2025-precio-ficha-tecnica/>Cadillac Optiq</a>, sus hermanos de plataforma.
 
-<img src=/media/buick-electra-e5-2025-precio-ficha-tecnica-interior.webp alt=\"Buick Electra E5, vista lateral del SUV eléctrico\">
+<img src=/media/buick-electra-e5-2025-precio-ficha-tecnica-interior.webp alt=\\"Buick Electra E5, vista lateral del SUV eléctrico\\">
 
 ## Curiosidades que lo hacen único
 
@@ -521,11 +501,7 @@ Sí, como eléctrico puro.
 
 ### ¿Llegará a España?
 
-No hay planes. GM no comercializa Buick en Europa.
-
-*Fuentes: <a href=https://www.auto-data.net>auto-data.net</a>, <a href=https://www.buick.com.cn>Buick China</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+No hay planes. GM no comercializa Buick en Europa.`
   },
   {
     title: "Equinox EV: 513 km de autonomía por ~31.000 €",
@@ -536,7 +512,7 @@ No hay planes. GM no comercializa Buick en Europa.
     readTime: 8,
     locale: "all",
     keywords: ["Chevrolet Equinox EV precio", "Equinox EV autonomía", "SUV eléctrico GM", "Equinox EV 513 km", "Equinox EV ficha técnica", "Chevrolet eléctrico USA"],
-    content: `<img src=/media/chevrolet-equinox-ev-2025-precio-ficha-tecnica-hero.webp alt=\"Chevrolet Equinox EV azul, tres cuartos delantero\">
+    content: `<img src=/media/chevrolet-equinox-ev-2025-precio-ficha-tecnica-hero.webp alt=\\"Chevrolet Equinox EV azul, tres cuartos delantero\\">
 
 **¿Buscas solo los datos?** <a href=/coches/chevrolet-equinox-ev-2025-precio-ficha-tecnica/>Ver la ficha técnica del Chevrolet Equinox EV</a>: precio, autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -563,7 +539,7 @@ Carga a **150 kW en corriente continua** (130 km en 10 minutos), su maletero cub
 
 En EE. UU. la gama arranca en 33.600 $ (~31.000 €) para el LT de tracción delantera y sube hasta unos 46.000 $ para el RS AWD. Es uno de los eléctricos con mejor relación autonomía/precio del mercado americano, rival directo del Tesla Model Y y el Hyundai Ioniq 5.
 
-<img src=/media/chevrolet-equinox-ev-2025-precio-ficha-tecnica-oficial.webp alt=\"Chevrolet Equinox EV, vista lateral con la insignia Equinox\">
+<img src=/media/chevrolet-equinox-ev-2025-precio-ficha-tecnica-oficial.webp alt=\\"Chevrolet Equinox EV, vista lateral con la insignia Equinox\\">
 
 ## Ultium también aquí
 
@@ -571,7 +547,7 @@ Como el <a href=/coches/buick-electra-e5-2025-precio-ficha-tecnica/>Buick Electr
 
 Sus rivales naturales serían el VW ID.4 o el Skoda Enyaq. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
-<img src=/media/chevrolet-equinox-ev-2025-precio-ficha-tecnica-interior.webp alt=\"Chevrolet Equinox EV azul con techo blanco, vista lateral\">
+<img src=/media/chevrolet-equinox-ev-2025-precio-ficha-tecnica-interior.webp alt=\\"Chevrolet Equinox EV azul con techo blanco, vista lateral\\">
 
 ## Curiosidades que lo hacen único
 
@@ -605,11 +581,7 @@ Sí, como eléctrico puro.
 
 ### ¿Llegará a España?
 
-Chevrolet no opera en Europa desde 2015; no hay planes.
-
-*Fuentes: <a href=https://www.digitaltrends.com>Digital Trends</a>, <a href=https://www.chevrolet.com>Chevrolet</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+Chevrolet no opera en Europa desde 2015; no hay planes.`
   },
   {
     title: "Cadillac Optiq: 300 CV premium por ~50.000 €",
@@ -620,7 +592,7 @@ Chevrolet no opera en Europa desde 2015; no hay planes.
     readTime: 7,
     locale: "all",
     keywords: ["Cadillac Optiq precio", "Cadillac Optiq autonomía", "SUV eléctrico premium", "Cadillac Optiq 300 CV", "Optiq ficha técnica", "Super Cruise"],
-    content: `<img src=/media/cadillac-optiq-2025-precio-ficha-tecnica-hero.webp alt=\"Cadillac Optiq plateado, tres cuartos delantero al atardecer\">
+    content: `<img src=/media/cadillac-optiq-2025-precio-ficha-tecnica-hero.webp alt=\\"Cadillac Optiq plateado, tres cuartos delantero al atardecer\\">
 
 **¿Buscas solo los datos?** <a href=/coches/cadillac-optiq-2025-precio-ficha-tecnica/>Ver la ficha técnica del Cadillac Optiq</a>: precio, autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -648,7 +620,7 @@ El 0-60 mph lo hace en **5,7 segundos**, su maletero cubica **744 litros** y el 
 
 En EE. UU. arranca en 54.390 $ (~50.000 €) y las versiones altas con más equipamiento rondan los 60.000 $. En China se vende como Optiq con precios similares. Es el Cadillac eléctrico más asequible, por debajo del Lyriq.
 
-<img src=/media/cadillac-optiq-2025-precio-ficha-tecnica-oficial.webp alt=\"Cadillac Optiq, vista frontal con parrilla iluminada\">
+<img src=/media/cadillac-optiq-2025-precio-ficha-tecnica-oficial.webp alt=\\"Cadillac Optiq, vista frontal con parrilla iluminada\\">
 
 ## Super Cruise, explicado
 
@@ -656,7 +628,7 @@ Super Cruise es el sistema de conducción manos libres de GM: en autopistas mape
 
 Su rival europeo más cercano sería el <a href=/coches/cadillac-vistiq-2026-precio-ficha-tecnica/>Cadillac Vistiq</a>... bueno, ese juega en otra liga. Más realista: el Audi Q4 e-tron. <a href=/comparador-coches/>Compáralos aquí</a>.
 
-<img src=/media/cadillac-optiq-2025-precio-ficha-tecnica-interior.webp alt=\"Cadillac Optiq, vista lateral del SUV eléctrico\">
+<img src=/media/cadillac-optiq-2025-precio-ficha-tecnica-interior.webp alt=\\"Cadillac Optiq, vista lateral del SUV eléctrico\\">
 
 ## Curiosidades que lo hacen único
 
@@ -690,11 +662,7 @@ Sí, como eléctrico puro.
 
 ### ¿Llegará a España?
 
-Cadillac no opera oficialmente en España; no hay planes anunciados.
-
-*Fuentes: <a href=https://www.autoanalitica.com.mx>AutoAnalítica</a>, <a href=https://www.cadillac.com>Cadillac</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+Cadillac no opera oficialmente en España; no hay planes anunciados.`
   },
   {
     title: "Cadillac Vistiq: 615 CV y 7 plazas por ~72.000 €",
@@ -705,7 +673,7 @@ Cadillac no opera oficialmente en España; no hay planes anunciados.
     readTime: 8,
     locale: "all",
     keywords: ["Cadillac Vistiq precio", "Cadillac Vistiq 615 CV", "SUV eléctrico 7 plazas", "Vistiq autonomía", "Cadillac eléctrico grande", "Vistiq ficha técnica"],
-    content: `<img src=/media/cadillac-vistiq-2026-precio-ficha-tecnica-hero.webp alt=\"Cadillac Vistiq plateado, vista frontal en campo de golf\">
+    content: `<img src=/media/cadillac-vistiq-2026-precio-ficha-tecnica-hero.webp alt=\\"Cadillac Vistiq plateado, vista frontal en campo de golf\\">
 
 **¿Buscas solo los datos?** <a href=/coches/cadillac-vistiq-2026-precio-ficha-tecnica/>Ver la ficha técnica del Cadillac Vistiq</a>: precio, autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -734,7 +702,7 @@ Mide **5,22 metros**, carga a **190 kW** en corriente continua y ofrece tres fil
 
 En EE. UU. la gama arranca en 78.790 $ (~72.000 €) y la versión Platinum supera los 95.000 $. Es el segundo Cadillac eléctrico más caro tras el Escalade IQ, y el más potente de los SUV de la marca.
 
-<img src=/media/cadillac-vistiq-2026-precio-ficha-tecnica-oficial.webp alt=\"Cadillac Vistiq azul, tres cuartos delantero junto al lago\">
+<img src=/media/cadillac-vistiq-2026-precio-ficha-tecnica-oficial.webp alt=\\"Cadillac Vistiq azul, tres cuartos delantero junto al lago\\">
 
 ## 615 CV en un 7 plazas: ¿para qué?
 
@@ -742,7 +710,7 @@ La pregunta es legítima, y la respuesta es "porque se puede". El Vistiq usa dos
 
 Su rival directo es el Kia EV9 GT (508 CV). <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
-<img src=/media/cadillac-vistiq-2026-precio-ficha-tecnica-interior.webp alt=\"Cadillac Vistiq rojo, vista frontal del SUV de 7 plazas\">
+<img src=/media/cadillac-vistiq-2026-precio-ficha-tecnica-interior.webp alt=\\"Cadillac Vistiq rojo, vista frontal del SUV de 7 plazas\\">
 
 ## Curiosidades que lo hacen único
 
@@ -776,11 +744,7 @@ Sí, como eléctrico puro.
 
 ### ¿Llegará a España?
 
-No hay planes: Cadillac no opera oficialmente en Europa.
-
-*Fuentes: <a href=https://www.wardsauto.com>WardsAuto</a>, <a href=https://www.cadillac.com>Cadillac</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+No hay planes: Cadillac no opera oficialmente en Europa.`
   },
   {
     title: "Charger Daytona EV: 670 CV por ~55.000 €",
@@ -791,7 +755,7 @@ No hay planes: Cadillac no opera oficialmente en Europa.
     readTime: 8,
     locale: "all",
     keywords: ["Dodge Charger Daytona EV precio", "Charger Daytona 670 CV", "muscle car eléctrico", "Charger Scat Pack", "Fratzonic", "Dodge eléctrico"],
-    content: `<img src=/media/dodge-charger-daytona-ev-2025-precio-ficha-tecnica-hero.webp alt=\"Dodge Charger Daytona, trasera con la franja LED en un circuito\">
+    content: `<img src=/media/dodge-charger-daytona-ev-2025-precio-ficha-tecnica-hero.webp alt=\\"Dodge Charger Daytona, trasera con la franja LED en un circuito\\">
 
 **¿Buscas solo los datos?** <a href=/coches/dodge-charger-daytona-ev-2025-precio-ficha-tecnica/>Ver la ficha técnica del Dodge Charger Daytona EV</a>: precio, autonomía, batería y potencia. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -820,7 +784,7 @@ La versión R/T de 496 CV y 496 km de autonomía se **descatalogó en 2026**, as
 
 El Scat Pack parte de 59.595 $ (~55.000 €). La versión R/T, más barata y con más autonomía, desapareció del catálogo en 2026 por bajas ventas: el público del Charger quiere potencia máxima o nada. Dodge también vende el Charger Sixpack de gasolina con el 3.0 biturbo Hurricane.
 
-<img src=/media/dodge-charger-daytona-ev-2025-precio-ficha-tecnica-oficial.webp alt=\"Dodge Charger Daytona blanco, tres cuartos delantero\">
+<img src=/media/dodge-charger-daytona-ev-2025-precio-ficha-tecnica-oficial.webp alt=\\"Dodge Charger Daytona blanco, tres cuartos delantero\\">
 
 ## El Fratzonic, explicado
 
@@ -828,7 +792,7 @@ El sistema Fratzonic usa altavoces y cámaras de resonancia para generar un soni
 
 Su rival eléctrico más cercano es el Tesla Model S Plaid, aunque el Charger juega en otra liga emocional. <a href=/comparador-coches/>Compáralos aquí</a>.
 
-<img src=/media/dodge-charger-daytona-ev-2025-precio-ficha-tecnica-interior.webp alt=\"Dodge Charger Daytona rojo, vista lateral del coupé\">
+<img src=/media/dodge-charger-daytona-ev-2025-precio-ficha-tecnica-interior.webp alt=\\"Dodge Charger Daytona rojo, vista lateral del coupé\\">
 
 ## Curiosidades que lo hacen único
 
@@ -862,11 +826,7 @@ No: se descatalogó en 2026. Solo queda el Scat Pack.
 
 ### ¿Tiene etiqueta Cero?
 
-Sí, como eléctrico puro.
-
-*Fuentes: <a href=https://www.motorillustrated.com>Motor Illustrated</a>, <a href=https://www.dodge.com>Dodge</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+Sí, como eléctrico puro.`
   },
   {
     title: "Wagoneer S: 600 CV eléctricos por ~62.000 €",
@@ -877,7 +837,7 @@ Sí, como eléctrico puro.
     readTime: 7,
     locale: "all",
     keywords: ["Jeep Wagoneer S precio", "Wagoneer S 600 CV", "Jeep eléctrico", "Wagoneer S autonomía", "SUV eléctrico premium", "Jeep Wagoneer S ficha"],
-    content: `<img src=/media/jeep-wagoneer-s-2025-precio-ficha-tecnica-hero.webp alt=\"Jeep Wagoneer S gris oscuro, tres cuartos delantero\">
+    content: `<img src=/media/jeep-wagoneer-s-2025-precio-ficha-tecnica-hero.webp alt=\\"Jeep Wagoneer S gris oscuro, tres cuartos delantero\\">
 
 **¿Buscas solo los datos?** <a href=/coches/jeep-wagoneer-s-2025-precio-ficha-tecnica/>Ver la ficha técnica del Jeep Wagoneer S</a>: precio, autonomía, batería y potencia. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -905,7 +865,7 @@ Su seña de identidad es la **parrilla de 7 ranuras iluminada**, el icono Jeep r
 
 En EE. UU. la gama arranca en 66.995 $ (~62.000 €) para el Launch Edition y baja en versiones posteriores. Es el eléctrico más caro de Jeep, posicionado contra el Tesla Model Y Performance y el BMW iX.
 
-<img src=/media/jeep-wagoneer-s-2025-precio-ficha-tecnica-oficial.webp alt=\"Jeep Wagoneer S con la parrilla iluminada de 7 ranuras\">
+<img src=/media/jeep-wagoneer-s-2025-precio-ficha-tecnica-oficial.webp alt=\\"Jeep Wagoneer S con la parrilla iluminada de 7 ranuras\\">
 
 ## ¿Un Jeep sin off-road?
 
@@ -913,7 +873,7 @@ El Wagoneer S es un SUV de asfalto: sin reductora, sin grandes ángulos y con ne
 
 Su rival directo es el Tesla Model Y Performance. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
-<img src=/media/jeep-wagoneer-s-2025-precio-ficha-tecnica-interior.webp alt=\"Jeep Wagoneer S plateado junto al mar al atardecer\">
+<img src=/media/jeep-wagoneer-s-2025-precio-ficha-tecnica-interior.webp alt=\\"Jeep Wagoneer S plateado junto al mar al atardecer\\">
 
 ## Curiosidades que lo hacen único
 
@@ -947,11 +907,7 @@ Sí, como eléctrico puro.
 
 ### ¿Llegará a España?
 
-Jeep no lo ha confirmado para Europa.
-
-*Fuentes: <a href=https://www.autocosmos.com>Autocosmos</a>, <a href=https://www.jeep.com>Jeep</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+Jeep no lo ha confirmado para Europa.`
   },
   {
     title: "Jeep Recon: 670 CV 4x4 por ~60.000 €",
@@ -962,7 +918,7 @@ Jeep no lo ha confirmado para Europa.
     readTime: 8,
     locale: "all",
     keywords: ["Jeep Recon precio", "Jeep Recon 670 CV", "Jeep eléctrico 4x4", "Recon autonomía", "Jeep Recon 2026", "Wrangler eléctrico"],
-    content: `<img src=/media/jeep-recon-2026-precio-ficha-tecnica-hero.webp alt=\"Jeep Recon verde oliva en una pista de tierra\">
+    content: `<img src=/media/jeep-recon-2026-precio-ficha-tecnica-hero.webp alt=\\"Jeep Recon verde oliva en una pista de tierra\\">
 
 **¿Buscas solo los datos?** <a href=/coches/jeep-recon-2026-precio-ficha-tecnica/>Ver la ficha técnica del Jeep Recon</a>: precio, autonomía, batería y potencia. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -989,7 +945,7 @@ Es el primer Jeep diseñado desde cero como eléctrico con capacidades off-road 
 
 Jeep aún no ha publicado el precio oficial, pero las estimaciones lo sitúan desde unos 65.000 $ (~60.000 €), por encima del Wrangler 4xe. La producción arranca en 2026 en la planta de Toluca.
 
-<img src=/media/jeep-recon-2026-precio-ficha-tecnica-oficial.webp alt=\"Jeep Recon verde lima trepando entre rocas\">
+<img src=/media/jeep-recon-2026-precio-ficha-tecnica-oficial.webp alt=\\"Jeep Recon verde lima trepando entre rocas\\">
 
 ## El 4x4 eléctrico, explicado
 
@@ -997,7 +953,7 @@ El Recon usa dos motores (uno por eje) con una reductora eléctrica que multipli
 
 Su rival es el Rivian R1S y, en espíritu, el <a href=/coches/jeep-wagoneer-s-2025-precio-ficha-tecnica/>Wagoneer S</a>... aunque ese es de asfalto. <a href=/comparador-coches/>Compáralos aquí</a>.
 
-<img src=/media/jeep-recon-2026-precio-ficha-tecnica-interior.webp alt=\"Jeep Recon naranja, render oficial de jeep.com\">
+<img src=/media/jeep-recon-2026-precio-ficha-tecnica-interior.webp alt=\\"Jeep Recon naranja, render oficial de jeep.com\\">
 
 ## Curiosidades que lo hacen único
 
@@ -1031,11 +987,7 @@ Sí, como eléctrico puro.
 
 ### ¿Llegará a España?
 
-Jeep no lo ha confirmado, pero la marca sí opera en Europa.
-
-*Fuentes: <a href=https://www.goodcarbadcar.net>GoodCarBadCar</a>, <a href=https://www.jeep.com>Jeep</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+Jeep no lo ha confirmado, pero la marca sí opera en Europa.`
   },
   {
     title: "Ram 1500 REV: 647 CV con extensor, llega en 2027",
@@ -1046,7 +998,7 @@ Jeep no lo ha confirmado, pero la marca sí opera en Europa.
     readTime: 8,
     locale: "all",
     keywords: ["Ram 1500 REV", "Ram 1500 REV cancelado", "Ram 1500 EREV", "pick-up eléctrico", "Ramcharger", "Ram 1500 REV 2027"],
-    content: `<img src=/media/ram-1500-rev-2026-precio-ficha-tecnica-hero.webp alt="Ram 1500 REV plateado, tres cuartos delantero en marcha">\n\n**¿Buscas solo los datos?** <a href=/coches/ram-1500-rev-2026-precio-ficha-tecnica/>Ver la ficha técnica del Ram 1500 REV</a>: potencia, autonomía, batería y lanzamiento. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\n\nAtención, que aquí hay historia: el **Ram 1500 REV 100 % eléctrico fue CANCELADO en septiembre de 2025**. Ram decidió que el mercado aún no estaba listo y reconvirtió el proyecto: el nombre REV pasa ahora al **EREV** (eléctrico de autonomía extendida), antes conocido como Ram 1500 Ramcharger. Llegará a **mediados de 2027** con **647 CV**, una batería de **92 kWh** que da **233 km en modo eléctrico** y un V6 Pentastar como generador.\n\nLa autonomía total supera los **1.100 km** y puede remolcar hasta **6.350 kg**. El precio aún no se ha anunciado.\n\n## Ficha técnica resumida\n\n| Concepto | Dato |\n|---|---|\n| Precio | Sin anunciar |\n| Potencia | 647 CV |\n| Batería | 92 kWh |\n| Autonomía eléctrica | 233 km |\n| Autonomía total | +1.100 km |\n| 0-100 km/h | 4,5 s |\n| Largo | 5.890 mm |\n| Remolque máximo | 6.350 kg |\n| Etiqueta DGT | Cero |\n\n<a href=/coches/ram-1500-rev-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Ram 1500 REV con galería de fotos</a>\n\n## El EREV, explicado\n\nUn EREV (Extended Range Electric Vehicle) es un eléctrico cuyas ruedas solo las mueven motores eléctricos: el motor de gasolina no está conectado a las ruedas, solo genera electricidad para la batería. El resultado: conducción eléctrica siempre, sin ansiedad de autonomía. Es la fórmula del BMW i3 REx o la Mazda MX-30 R-EV, llevada al extremo en un pick-up de 6 metros.\n\n<img src=/media/ram-1500-rev-2026-precio-ficha-tecnica-oficial.webp alt="Ram 1500 REV azul, vista frontal con parrilla cerrada">\n\n## Por qué se canceló el BEV\n\nRam argumentó costes, demanda tibia de pick-ups eléctricos caros y la competencia del Ford F-150 Lightning con descuentos agresivos. El EREV es un compromiso: mantiene la promesa eléctrica para el día a día (233 km dan para casi todo) con la red de gasolineras como red de seguridad.\n\nSus rivales serían el Ford F-150 Lightning y el Chevrolet Silverado EV. <a href=/comparador-coches/>Compáralos aquí</a>.\n\n<img src=/media/ram-1500-rev-2026-precio-ficha-tecnica-interior.webp alt="Ram 1500 REV, vista lateral del pick-up">\n\n## Curiosidades que lo hacen único\n\n- Es el primer EREV de tamaño completo de una marca americana.\n- El V6 Pentastar solo genera electricidad: nunca mueve las ruedas.\n- Puede cargar otro coche eléctrico con su batería (V2L).\n- Su autonomía total supera a la de cualquier pick-up diésel.\n- El nombre REV se recicló del proyecto BEV cancelado.\n\n## De Ramcharger a REV: un nombre reciclado con historia\n\nRam es la marca de pick-ups de Stellantis en Norteamérica. El proyecto nació como REV 100 % eléctrico, pasó a llamarse Ramcharger al adoptar el extensor y, tras cancelarse el BEV en septiembre de 2025, REV volvió para el EREV definitivo. La <a href=/coches/ram-1500-rev-2026-precio-ficha-tecnica/>ficha completa del Ram 1500 REV</a> ya recoge esa reconversión, con llegada a mediados de 2027 y sin precio oficial.\n\n## Así funciona el EREV por dentro\n\nNo hay conexión mecánica entre el V6 y las ruedas: dos motores eléctricos mueven el pick-up y un generador de 130 kW, accionado por el Pentastar de 3,6 litros, produce electricidad cuando la batería baja. También se enchufa, con carga rápida de hasta 145 kW según los datos difundidos del modelo.\n\n| Elemento | Dato del Ram 1500 REV |\n|---|---|\n| Potencia total | 647 CV |\n| Batería | 92 kWh |\n| Generador | V6 Pentastar 3,6 l de 130 kW |\n| Autonomía eléctrica | 233 km |\n| Autonomía total | Más de 1.100 km |\n| 0-100 km/h | 4,5 s |\n| Remolque máximo | 6.350 kg |\n| Longitud | 5.890 mm |\n\nEsas autonomías son estimaciones del fabricante para Estados Unidos, no homologación WLTP europea. Leídas así, 233 km eléctricos cubren la jornada típica y el total con gasolina ataca la ansiedad de autonomía de los eléctricos puros.\n\n## Uso real: quién lo aprovecha y quién no\n\nPara quien remolca a diario en Norteamérica y carga en casa, la fórmula encaja: par instantáneo y silencio a diario, sin depender de cargadores rápidos con varias toneladas enganchadas. Suma la función V2L, capaz de alimentar herramientas o cargar otro coche eléctrico.\n\nLas limitaciones son claras: mide 5,89 metros, no se venderá oficialmente en Europa y su precio sigue sin anunciarse. En España solo cabría como importación individual. Y quien busque un eléctrico puro tampoco es su cliente, aunque aquí el V6 solo trabaje como generador.\n\n## Mantenimiento y costes: dos sistemas que cuidar\n\nUn EREV no elimina el mantenimiento térmico, lo reduce. La ficha recoge revisión anual o cada 20.000 km, con aceite del generador, filtros e inspección de alta tensión, y garantía de la batería por 8 años o 160.000 km. El Pentastar trabaja en regímenes más controlados que en un 1500 de gasolina, pero sigue necesitando aceite y consumibles.\n\nEn costes, la ficha advierte de que el modelo no se ha lanzado y sus cifras son orientativas: barato por kilómetro si se carga en casa a diario; mucho menos si el generador entra constantemente con remolque.\n\n## Qué pasaría en España: etiqueta, ITV y homologación\n\nEl post le asigna etiqueta Cero, coherente con 233 km eléctricos, pero solo sería efectiva al matricularse en España. Ram no opera en Europa: no hay homologación de tipo europea ni red comercial, y una unidad importada necesitaría homologación individual, adaptar alumbrado y pasar la ITV como importado.\n\nEn seguridad, la ficha indica sin datos Euro NCAP: el modelo no se ha lanzado ni ha sido probado, y no hay estrellas que inferir de otros Ram. Tampoco los 6.350 kg de remolque serían utilizables aquí sin más: mandarían la masa autorizada en ficha técnica y el permiso del conductor, no la cifra estadounidense.\n\n## Frente a sus rivales eléctricos y veredicto\n\nContra el <a href=/coches/chevrolet-silverado-ev-2025-precio-ficha-tecnica/>Chevrolet Silverado EV de 670 CV y 724 km</a> y el <a href=/coches/ford-f-150-lightning-2025/>Ford F-150 Lightning de 580 CV y 515 km</a>, con datos de sus fichas en este sitio, el REV juega otra carta: menos autonomía eléctrica que ambos, pero más de 1.100 km totales sin parar a cargar. El Silverado gana en batería, con 205 kWh y carga de 350 kW; el Lightning acelera en 4,0 s. Puedes repasar los tres en el <a href=/comparador-coches/>comparador de coches</a>.\n\n**Veredicto:** ¿merece la pena? Como concepto, sí: resuelve el punto débil de los pick-ups eléctricos, remolcar lejos sin depender de la red de carga, con 233 km eléctricos diarios. Es para quien trabaja con él en Norteamérica y carga en casa; no para quien lo quiera en España sin asumir importación y homologación individual, ni para quien busque un eléctrico puro. Sin precio y con llegada en 2027, hoy es una declaración de intenciones, no una reserva sensata.\n\n## Preguntas frecuentes\n\n### ¿Se canceló el Ram 1500 REV eléctrico?\n\nSí: la versión 100 % eléctrica se canceló en septiembre de 2025. El nombre REV ahora designa al EREV.\n\n### ¿Qué es un EREV?\n\nUn eléctrico con un motor de gasolina que solo genera electricidad; las ruedas las mueven siempre motores eléctricos.\n\n### ¿Cuándo sale el Ram 1500 REV?\n\nA mediados de 2027, según los últimos planes de Ram.\n\n### ¿Qué autonomía eléctrica tiene?\n\n233 km con la batería de 92 kWh; más de 1.100 km en total.\n\n### ¿Cuánto costará?\n\nAún sin precio oficial anunciado.\n\n### ¿Llegará a España?\n\nNo: Ram no opera oficialmente en Europa.\n\n*Fuentes: <a href=https://electrek.co>Electrek</a>, <a href=https://www.ramtrucks.com>Ram</a>.*\n\n**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+    content: `<img src=/media/ram-1500-rev-2026-precio-ficha-tecnica-hero.webp alt="Ram 1500 REV plateado, tres cuartos delantero en marcha">\\n\\n**¿Buscas solo los datos?** <a href=/coches/ram-1500-rev-2026-precio-ficha-tecnica/>Ver la ficha técnica del Ram 1500 REV</a>: potencia, autonomía, batería y lanzamiento. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.\\n\\nAtención, que aquí hay historia: el **Ram 1500 REV 100 % eléctrico fue CANCELADO en septiembre de 2025**. Ram decidió que el mercado aún no estaba listo y reconvirtió el proyecto: el nombre REV pasa ahora al **EREV** (eléctrico de autonomía extendida), antes conocido como Ram 1500 Ramcharger. Llegará a **mediados de 2027** con **647 CV**, una batería de **92 kWh** que da **233 km en modo eléctrico** y un V6 Pentastar como generador.\\n\\nLa autonomía total supera los **1.100 km** y puede remolcar hasta **6.350 kg**. El precio aún no se ha anunciado.\\n\\n## Ficha técnica resumida\\n\\n| Concepto | Dato |\\n|---|---|\\n| Precio | Sin anunciar |\\n| Potencia | 647 CV |\\n| Batería | 92 kWh |\\n| Autonomía eléctrica | 233 km |\\n| Autonomía total | +1.100 km |\\n| 0-100 km/h | 4,5 s |\\n| Largo | 5.890 mm |\\n| Remolque máximo | 6.350 kg |\\n| Etiqueta DGT | Cero |\\n\\n<a href=/coches/ram-1500-rev-2026-precio-ficha-tecnica/>Ver la ficha técnica completa del Ram 1500 REV con galería de fotos</a>\\n\\n## El EREV, explicado\\n\\nUn EREV (Extended Range Electric Vehicle) es un eléctrico cuyas ruedas solo las mueven motores eléctricos: el motor de gasolina no está conectado a las ruedas, solo genera electricidad para la batería. El resultado: conducción eléctrica siempre, sin ansiedad de autonomía. Es la fórmula del BMW i3 REx o la Mazda MX-30 R-EV, llevada al extremo en un pick-up de 6 metros.\\n\\n<img src=/media/ram-1500-rev-2026-precio-ficha-tecnica-oficial.webp alt="Ram 1500 REV azul, vista frontal con parrilla cerrada">\\n\\n## Por qué se canceló el BEV\\n\\nRam argumentó costes, demanda tibia de pick-ups eléctricos caros y la competencia del Ford F-150 Lightning con descuentos agresivos. El EREV es un compromiso: mantiene la promesa eléctrica para el día a día (233 km dan para casi todo) con la red de gasolineras como red de seguridad.\\n\\nSus rivales serían el Ford F-150 Lightning y el Chevrolet Silverado EV. <a href=/comparador-coches/>Compáralos aquí</a>.\\n\\n<img src=/media/ram-1500-rev-2026-precio-ficha-tecnica-interior.webp alt="Ram 1500 REV, vista lateral del pick-up">\\n\\n## Curiosidades que lo hacen único\\n\\n- Es el primer EREV de tamaño completo de una marca americana.\\n- El V6 Pentastar solo genera electricidad: nunca mueve las ruedas.\\n- Puede cargar otro coche eléctrico con su batería (V2L).\\n- Su autonomía total supera a la de cualquier pick-up diésel.\\n- El nombre REV se recicló del proyecto BEV cancelado.\\n\\n## De Ramcharger a REV: un nombre reciclado con historia\\n\\nRam es la marca de pick-ups de Stellantis en Norteamérica. El proyecto nació como REV 100 % eléctrico, pasó a llamarse Ramcharger al adoptar el extensor y, tras cancelarse el BEV en septiembre de 2025, REV volvió para el EREV definitivo. La <a href=/coches/ram-1500-rev-2026-precio-ficha-tecnica/>ficha completa del Ram 1500 REV</a> ya recoge esa reconversión, con llegada a mediados de 2027 y sin precio oficial.\\n\\n## Así funciona el EREV por dentro\\n\\nNo hay conexión mecánica entre el V6 y las ruedas: dos motores eléctricos mueven el pick-up y un generador de 130 kW, accionado por el Pentastar de 3,6 litros, produce electricidad cuando la batería baja. También se enchufa, con carga rápida de hasta 145 kW según los datos difundidos del modelo.\\n\\n| Elemento | Dato del Ram 1500 REV |\\n|---|---|\\n| Potencia total | 647 CV |\\n| Batería | 92 kWh |\\n| Generador | V6 Pentastar 3,6 l de 130 kW |\\n| Autonomía eléctrica | 233 km |\\n| Autonomía total | Más de 1.100 km |\\n| 0-100 km/h | 4,5 s |\\n| Remolque máximo | 6.350 kg |\\n| Longitud | 5.890 mm |\\n\\nEsas autonomías son estimaciones del fabricante para Estados Unidos, no homologación WLTP europea. Leídas así, 233 km eléctricos cubren la jornada típica y el total con gasolina ataca la ansiedad de autonomía de los eléctricos puros.\\n\\n## Uso real: quién lo aprovecha y quién no\\n\\nPara quien remolca a diario en Norteamérica y carga en casa, la fórmula encaja: par instantáneo y silencio a diario, sin depender de cargadores rápidos con varias toneladas enganchadas. Suma la función V2L, capaz de alimentar herramientas o cargar otro coche eléctrico.\\n\\nLas limitaciones son claras: mide 5,89 metros, no se venderá oficialmente en Europa y su precio sigue sin anunciarse. En España solo cabría como importación individual. Y quien busque un eléctrico puro tampoco es su cliente, aunque aquí el V6 solo trabaje como generador.\\n\\n## Mantenimiento y costes: dos sistemas que cuidar\\n\\nUn EREV no elimina el mantenimiento térmico, lo reduce. La ficha recoge revisión anual o cada 20.000 km, con aceite del generador, filtros e inspección de alta tensión, y garantía de la batería por 8 años o 160.000 km. El Pentastar trabaja en regímenes más controlados que en un 1500 de gasolina, pero sigue necesitando aceite y consumibles.\\n\\nEn costes, la ficha advierte de que el modelo no se ha lanzado y sus cifras son orientativas: barato por kilómetro si se carga en casa a diario; mucho menos si el generador entra constantemente con remolque.\\n\\n## Qué pasaría en España: etiqueta, ITV y homologación\\n\\nEl post le asigna etiqueta Cero, coherente con 233 km eléctricos, pero solo sería efectiva al matricularse en España. Ram no opera en Europa: no hay homologación de tipo europea ni red comercial, y una unidad importada necesitaría homologación individual, adaptar alumbrado y pasar la ITV como importado.\\n\\nEn seguridad, la ficha indica sin datos Euro NCAP: el modelo no se ha lanzado ni ha sido probado, y no hay estrellas que inferir de otros Ram. Tampoco los 6.350 kg de remolque serían utilizables aquí sin más: mandarían la masa autorizada en ficha técnica y el permiso del conductor, no la cifra estadounidense.\\n\\n## Frente a sus rivales eléctricos y veredicto\\n\\nContra el <a href=/coches/chevrolet-silverado-ev-2025-precio-ficha-tecnica/>Chevrolet Silverado EV de 670 CV y 724 km</a> y el <a href=/coches/ford-f-150-lightning-2025/>Ford F-150 Lightning de 580 CV y 515 km</a>, con datos de sus fichas en este sitio, el REV juega otra carta: menos autonomía eléctrica que ambos, pero más de 1.100 km totales sin parar a cargar. El Silverado gana en batería, con 205 kWh y carga de 350 kW; el Lightning acelera en 4,0 s. Puedes repasar los tres en el <a href=/comparador-coches/>comparador de coches</a>.\\n\\n**Veredicto:** ¿merece la pena? Como concepto, sí: resuelve el punto débil de los pick-ups eléctricos, remolcar lejos sin depender de la red de carga, con 233 km eléctricos diarios. Es para quien trabaja con él en Norteamérica y carga en casa; no para quien lo quiera en España sin asumir importación y homologación individual, ni para quien busque un eléctrico puro. Sin precio y con llegada en 2027, hoy es una declaración de intenciones, no una reserva sensata.\\n\\n## Preguntas frecuentes\\n\\n### ¿Se canceló el Ram 1500 REV eléctrico?\\n\\nSí: la versión 100 % eléctrica se canceló en septiembre de 2025. El nombre REV ahora designa al EREV.\\n\\n### ¿Qué es un EREV?\\n\\nUn eléctrico con un motor de gasolina que solo genera electricidad; las ruedas las mueven siempre motores eléctricos.\\n\\n### ¿Cuándo sale el Ram 1500 REV?\\n\\nA mediados de 2027, según los últimos planes de Ram.\\n\\n### ¿Qué autonomía eléctrica tiene?\\n\\n233 km con la batería de 92 kWh; más de 1.100 km en total.\\n\\n### ¿Cuánto costará?\\n\\nAún sin precio oficial anunciado.\\n\\n### ¿Llegará a España?\\n\\nNo: Ram no opera oficialmente en Europa.`
   },
   {
     title: "Venucia D60 EV: 420 km por ~17.000 €",
@@ -1057,7 +1009,7 @@ Jeep no lo ha confirmado, pero la marca sí opera en Europa.
     readTime: 7,
     locale: "all",
     keywords: ["Venucia D60 EV precio", "Venucia D60 ficha técnica", "berlina eléctrica china", "D60 EV autonomía", "Venucia Dongfeng Nissan", "berlina eléctrica barata"],
-    content: `<img src=/media/venucia-d60-ev-2025-precio-ficha-tecnica-hero.webp alt=\"Venucia D60 EV azul, tres cuartos delantero\">
+    content: `<img src=/media/venucia-d60-ev-2025-precio-ficha-tecnica-hero.webp alt=\\"Venucia D60 EV azul, tres cuartos delantero\\">
 
 **¿Buscas solo los datos?** <a href=/coches/venucia-d60-ev-2025-precio-ficha-tecnica/>Ver la ficha técnica del Venucia D60 EV</a>: precio, autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1085,7 +1037,7 @@ Venucia es la marca asequible de la joint venture entre Dongfeng y Nissan, y el 
 
 En China la gama se mueve entre 129.800 y 159.800 yuanes (~17.000-21.000 €). Es uno de los eléctricos con mejor relación tamaño/precio del mercado chino, rival del <a href=/coches/byd-qin-plus-dm-i-2025-precio-ficha-tecnica/>BYD Qin Plus</a> en su versión EV.
 
-<img src=/media/venucia-d60-ev-2025-precio-ficha-tecnica-oficial.webp alt=\"Venucia D60 EV blanco, vista lateral en estudio\">
+<img src=/media/venucia-d60-ev-2025-precio-ficha-tecnica-oficial.webp alt=\\"Venucia D60 EV blanco, vista lateral en estudio\\">
 
 ## La alianza Dongfeng-Nissan
 
@@ -1093,7 +1045,7 @@ Venucia nació en 2010 como la marca barata de Dongfeng-Nissan para China. El D6
 
 Su rival natural es el BYD Qin EV. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
-<img src=/media/venucia-d60-ev-2025-precio-ficha-tecnica-interior.webp alt=\"Venucia D60 EV azul circulando por un puente\">
+<img src=/media/venucia-d60-ev-2025-precio-ficha-tecnica-interior.webp alt=\\"Venucia D60 EV azul circulando por un puente\\">
 
 ## Curiosidades que lo hacen único
 
@@ -1127,11 +1079,7 @@ Sí, como eléctrico puro.
 
 ### ¿Se vende en España?
 
-No. Venucia solo opera en China.
-
-*Fuentes: <a href=https://www.zeexauto.com>Zeexauto</a>, <a href=https://www.venucia.com>Venucia</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+No. Venucia solo opera en China.`
   },
   {
     title: "Venucia V-Online: 190 CV por ~13.000 €",
@@ -1142,7 +1090,7 @@ No. Venucia solo opera en China.
     readTime: 7,
     locale: "all",
     keywords: ["Venucia V-Online precio", "V-Online 190 CV", "SUV coupé chino", "Venucia ficha técnica", "SUV 13000 euros", "Dongfeng Nissan SUV"],
-    content: `<img src=/media/venucia-v-online-2025-precio-ficha-tecnica-hero.webp alt=\"Venucia V-Online gris, tres cuartos delantero\">
+    content: `<img src=/media/venucia-v-online-2025-precio-ficha-tecnica-hero.webp alt=\\"Venucia V-Online gris, tres cuartos delantero\\">
 
 **¿Buscas solo los datos?** <a href=/coches/venucia-v-online-2025-precio-ficha-tecnica/>Ver la ficha técnica del Venucia V-Online</a>: precio, motor, medidas y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1170,7 +1118,7 @@ Su maletero cubica **605 litros** y el diseño de techo descendente le da un air
 
 En China se mueve entre 99.800 y 139.800 yuanes (~13.000-18.000 €). También se exporta a algunos mercados de Latinoamérica y Oriente Medio, donde compite con los SUV chinos de Chery y MG.
 
-<img src=/media/venucia-v-online-2025-precio-ficha-tecnica-oficial.webp alt=\"Venucia V-Online plateado, vista lateral con techo coupé\">
+<img src=/media/venucia-v-online-2025-precio-ficha-tecnica-oficial.webp alt=\\"Venucia V-Online plateado, vista lateral con techo coupé\\">
 
 ## El motor Mitsubishi
 
@@ -1178,7 +1126,7 @@ El 1.5T del V-Online es de origen Mitsubishi (4A95TD), un motor probado en decen
 
 Su rival sería el MG HS o el Chery Tiggo 7. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
-<img src=/media/venucia-v-online-2025-precio-ficha-tecnica-interior.webp alt=\"Venucia V-Online, vista frontal del SUV\">
+<img src=/media/venucia-v-online-2025-precio-ficha-tecnica-interior.webp alt=\\"Venucia V-Online, vista frontal del SUV\\">
 
 ## Curiosidades que lo hacen único
 
@@ -1212,11 +1160,7 @@ Sí, como gasolina moderno le correspondería la etiqueta C.
 
 ### ¿Se vende en España?
 
-No. Venucia solo opera en China y algunos mercados de exportación.
-
-*Fuentes: <a href=https://www.elcarrocolombiano.com>El Carro Colombiano</a>, <a href=https://www.venucia.com>Venucia</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+No. Venucia solo opera en China y algunos mercados de exportación.`
   },
   {
     title: "Aeolus Yixuan: 197 CV por ~10.500 €",
@@ -1227,7 +1171,7 @@ No. Venucia solo opera en China y algunos mercados de exportación.
     readTime: 7,
     locale: "all",
     keywords: ["Aeolus Yixuan precio", "Dongfeng Yixuan 197 CV", "berlina deportiva china", "Yixuan Max", "berlina 10500 euros", "Dongfeng Aeolus"],
-    content: `<img src=/media/dongfeng-aeolus-yixuan-2025-precio-ficha-tecnica-hero.webp alt=\"Dongfeng Aeolus Yixuan Max blanco, tres cuartos delantero\">
+    content: `<img src=/media/dongfeng-aeolus-yixuan-2025-precio-ficha-tecnica-hero.webp alt=\\"Dongfeng Aeolus Yixuan Max blanco, tres cuartos delantero\\">
 
 **¿Buscas solo los datos?** <a href=/coches/dongfeng-aeolus-yixuan-2025-precio-ficha-tecnica/>Ver la ficha técnica del Dongfeng Aeolus Yixuan</a>: precio, motor, medidas y potencia. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1254,7 +1198,7 @@ Mide 4,67 metros y su planteamiento es claro: prestaciones de compacto GTI por p
 
 En China la gama se mueve entre 79.900 y 109.900 yuanes (~10.500-14.500 €). La versión Max, la más deportiva, ronda los 100.000 yuanes. No se exporta oficialmente a Europa.
 
-<img src=/media/dongfeng-aeolus-yixuan-2025-precio-ficha-tecnica-oficial.webp alt=\"Dongfeng Aeolus Yixuan blanco con detalles naranjas\">
+<img src=/media/dongfeng-aeolus-yixuan-2025-precio-ficha-tecnica-oficial.webp alt=\\"Dongfeng Aeolus Yixuan blanco con detalles naranjas\\">
 
 ## Aeolus, la marca joven de Dongfeng
 
@@ -1262,7 +1206,7 @@ Aeolus (Yixuan en chino, 奕炫) es la submarca juvenil y deportiva de Dongfeng,
 
 Su rival conceptual sería el <a href=/coches/geely-binrui-cool-2025-precio-ficha-tecnica/>Geely Binrui Cool</a>, otra berlina china de 181 CV. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
-<img src=/media/dongfeng-aeolus-yixuan-2025-precio-ficha-tecnica-interior.webp alt=\"Dongfeng Aeolus Yixuan rojo, vista frontal\">
+<img src=/media/dongfeng-aeolus-yixuan-2025-precio-ficha-tecnica-interior.webp alt=\\"Dongfeng Aeolus Yixuan rojo, vista frontal\\">
 
 ## Curiosidades que lo hacen único
 
@@ -1296,11 +1240,7 @@ No. Aeolus solo opera en China.
 
 ### ¿Es fiable Dongfeng?
 
-Es uno de los cuatro grandes grupos estatales chinos, con décadas de joint ventures con Nissan, Honda y PSA.
-
-*Fuentes: <a href=https://en.wikipedia.org/wiki/Aeolus_Yixuan>Wikipedia</a>, <a href=https://www.dongfeng-global.com>Dongfeng</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+Es uno de los cuatro grandes grupos estatales chinos, con décadas de joint ventures con Nissan, Honda y PSA.`
   },
   {
     title: "Buick Envista: SUV coupé de 181 CV por ~20.000 €",
@@ -1311,7 +1251,7 @@ Es uno de los cuatro grandes grupos estatales chinos, con décadas de joint vent
     readTime: 7,
     locale: "all",
     keywords: ["Buick Envista precio", "Buick Envista 181 CV", "SUV coupé Buick", "Envista ficha técnica", "Buick Envista China", "SUV coupé barato"],
-    content: `<img src=/media/buick-envista-2025-precio-ficha-tecnica-hero.webp alt=\"Buick Envista azul, trasera con la insignia Envista\">
+    content: `<img src=/media/buick-envista-2025-precio-ficha-tecnica-hero.webp alt=\\"Buick Envista azul, trasera con la insignia Envista\\">
 
 **¿Buscas solo los datos?** <a href=/coches/buick-envista-2025-precio-ficha-tecnica/>Ver la ficha técnica del Buick Envista</a>: precio, motor, medidas y maletero. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1339,7 +1279,7 @@ Mide 4,64 metros, su maletero cubica **586 litros** y su silueta de techo descen
 
 En China parte de 149.900 yuanes (~20.000 €) y en EE. UU. desde 23.495 $ con el motor 1.2T. Es el Buick más barato de la gama americana, pensado para atraer a compradores jóvenes a la marca.
 
-<img src=/media/buick-envista-2025-precio-ficha-tecnica-oficial.webp alt=\"Buick Envista ST rojo, tres cuartos delantero\">
+<img src=/media/buick-envista-2025-precio-ficha-tecnica-oficial.webp alt=\\"Buick Envista ST rojo, tres cuartos delantero\\">
 
 ## Dos motores, dos mundos
 
@@ -1347,7 +1287,7 @@ La diferencia entre el Envista chino (1.5T de 181 CV) y el americano (1.2T de 13
 
 Su rival sería el Mazda CX-30 o el Toyota C-HR. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
-<img src=/media/buick-envista-2025-precio-ficha-tecnica-interior.webp alt=\"Buick Envista Avenir azul, vista trasera\">
+<img src=/media/buick-envista-2025-precio-ficha-tecnica-interior.webp alt=\\"Buick Envista Avenir azul, vista trasera\\">
 
 ## Curiosidades que lo hacen único
 
@@ -1381,11 +1321,7 @@ No. Buick no opera en Europa.
 
 ### ¿Por qué sustituye al Bestune B70S?
 
-Porque el B70S ya tenía ficha y artículo publicados en la web; el Envista era inédito.
-
-*Fuentes: <a href=https://www.motor.com.co/amp/seccion/lanzamientos/buick-envista-crossover-cupe-el-suv-con-el-que-la-marca-cambia-de-pluma_13890>Motor.com.co</a>, <a href=https://www.buick.com>Buick</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+Porque el B70S ya tenía ficha y artículo publicados en la web; el Envista era inédito.`
   },
   {
     title: "Geely Emgrand: berlina de 127 CV por ~10.000 €",
@@ -1396,7 +1332,7 @@ Porque el B70S ya tenía ficha y artículo publicados en la web; el Envista era 
     readTime: 7,
     locale: "all",
     keywords: ["Geely Emgrand precio", "Geely Emgrand ficha técnica", "berlina china barata", "Emgrand 127 CV", "Geely berlina", "coche 10000 euros nuevo"],
-    content: `<img src=/media/geely-emgrand-2025-precio-ficha-tecnica-hero.webp alt=\"Geely Emgrand gris claro, tres cuartos delantero\">
+    content: `<img src=/media/geely-emgrand-2025-precio-ficha-tecnica-hero.webp alt=\\"Geely Emgrand gris claro, tres cuartos delantero\\">
 
 **¿Buscas solo los datos?** <a href=/coches/geely-emgrand-2025-precio-ficha-tecnica/>Ver la ficha técnica del Geely Emgrand</a>: precio, motor, medidas y garantía. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1423,7 +1359,7 @@ Es la apuesta por la sencillez: mecánica atmosférica probada, mantenimiento ba
 
 En China se mueve entre 69.900 y 92.900 yuanes (~10.000-12.500 €). Se exporta a Latinoamérica, Oriente Medio y el sudeste asiático, donde compite con los sedanes japoneses de acceso.
 
-<img src=/media/geely-emgrand-2025-precio-ficha-tecnica-oficial.webp alt=\"Geely Emgrand dorado en un concesionario Geely\">
+<img src=/media/geely-emgrand-2025-precio-ficha-tecnica-oficial.webp alt=\\"Geely Emgrand dorado en un concesionario Geely\\">
 
 ## Geely, el gigante silencioso
 
@@ -1431,7 +1367,7 @@ Geely es dueña de Volvo, Lotus, Polestar y parte de Mercedes-Benz. El Emgrand e
 
 Su rival sería el MG5 o el Chery Arrizo. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
-<img src=/media/geely-emgrand-2025-precio-ficha-tecnica-interior.webp alt=\"Geely Emgrand gris en un salón de exposición\">
+<img src=/media/geely-emgrand-2025-precio-ficha-tecnica-interior.webp alt=\\"Geely Emgrand gris en un salón de exposición\\">
 
 ## Curiosidades que lo hacen único
 
@@ -1465,11 +1401,7 @@ De momento no, aunque Geely opera en Europa con otras marcas.
 
 ### ¿Es fiable?
 
-Es una mecánica sencilla y probada durante más de una década.
-
-*Fuentes: <a href=https://www.ccarprice.com/eu/geely-emgrand-2025-price-in-europe-22089>CCarPrice</a>, <a href=https://global.geely.com>Geely</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+Es una mecánica sencilla y probada durante más de una década.`
   },
   {
     title: "Binrui Cool: 181 CV y 7,1 s por ~10.500 €",
@@ -1480,7 +1412,7 @@ Es una mecánica sencilla y probada durante más de una década.
     readTime: 7,
     locale: "all",
     keywords: ["Geely Binrui Cool precio", "Binrui Cool 181 CV", "berlina deportiva china", "Binrui Cool ficha", "berlina 7 segundos", "Geely deportivo barato"],
-    content: `<img src=/media/geely-binrui-cool-2025-precio-ficha-tecnica-hero.webp alt=\"Geely Binrui Cool gris azulado, tres cuartos delantero\">
+    content: `<img src=/media/geely-binrui-cool-2025-precio-ficha-tecnica-hero.webp alt=\\"Geely Binrui Cool gris azulado, tres cuartos delantero\\">
 
 **¿Buscas solo los datos?** <a href=/coches/geely-binrui-cool-2025-precio-ficha-tecnica/>Ver la ficha técnica del Geely Binrui Cool</a>: precio, motor, medidas y prestaciones. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1509,7 +1441,7 @@ Mide 4,71 metros, su maletero cubica **480 litros** y la versión Cool añade pa
 
 En China la gama Binrui se mueve entre 79.800 y 109.800 yuanes (~10.500-14.500 €), con el Cool como tope deportivo. No se exporta oficialmente a Europa.
 
-<img src=/media/geely-binrui-cool-2025-precio-ficha-tecnica-oficial.webp alt=\"Geely Binrui Cool blanco, vista frontal\">
+<img src=/media/geely-binrui-cool-2025-precio-ficha-tecnica-oficial.webp alt=\\"Geely Binrui Cool blanco, vista frontal\\">
 
 ## 7,1 segundos por 10.500 €
 
@@ -1517,7 +1449,7 @@ La cifra que lo define: ningún coche nuevo en Europa baja de 8 segundos en el 0
 
 Su rival natural es el <a href=/coches/dongfeng-aeolus-yixuan-2025-precio-ficha-tecnica/>Dongfeng Aeolus Yixuan</a>, otra berlina china deportiva. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
-<img src=/media/geely-binrui-cool-2025-precio-ficha-tecnica-interior.webp alt=\"Geely Binrui Cool en un evento de presentación\">
+<img src=/media/geely-binrui-cool-2025-precio-ficha-tecnica-interior.webp alt=\\"Geely Binrui Cool en un evento de presentación\\">
 
 ## Curiosidades que lo hacen único
 
@@ -1551,11 +1483,7 @@ No. Solo se comercializa en China.
 
 ### ¿Qué significa "Cool"?
 
-Es la denominación de la versión deportiva del Binrui, como GTI en Volkswagen.
-
-*Fuentes: <a href=https://www.borderlesscar.com>BorderlessCar</a>, <a href=https://global.geely.com>Geely</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+Es la denominación de la versión deportiva del Binrui, como GTI en Volkswagen.`
   },
   {
     title: "Wuling Journey: monovolumen 7 plazas por ~10.000 €",
@@ -1566,7 +1494,7 @@ Es la denominación de la versión deportiva del Binrui, como GTI en Volkswagen.
     readTime: 7,
     locale: "all",
     keywords: ["Wuling Journey precio", "Wuling Journey 7 plazas", "monovolumen chino", "Wuling Journey ficha", "MPV 10000 euros", "Wuling eléctrico"],
-    content: `<img src=/media/wuling-journey-2025-precio-ficha-tecnica-hero.webp alt=\"Wuling Journey blanco, tres cuartos delantero\">
+    content: `<img src=/media/wuling-journey-2025-precio-ficha-tecnica-hero.webp alt=\\"Wuling Journey blanco, tres cuartos delantero\\">
 
 **¿Buscas solo los datos?** <a href=/coches/wuling-journey-2025-precio-ficha-tecnica/>Ver la ficha técnica del Wuling Journey</a>: precio, motor, medidas y plazas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1595,7 +1523,7 @@ Es un coche de trabajo y familia: 7 plazas reales, portón lateral corredero y u
 
 En China la versión de gasolina parte de 78.900 yuanes (~10.000 €) y la eléctrica ronda los 150.000 yuanes (~20.000 €). Wuling es la marca más vendida de China en monovolúmenes y furgonetas.
 
-<img src=/media/wuling-journey-2025-precio-ficha-tecnica-oficial.webp alt=\"Wuling Journey blanco, vista lateral del monovolumen\">
+<img src=/media/wuling-journey-2025-precio-ficha-tecnica-oficial.webp alt=\\"Wuling Journey blanco, vista lateral del monovolumen\\">
 
 ## Wuling, la marca del pueblo
 
@@ -1603,7 +1531,7 @@ Wuling (parte de SAIC-GM-Wuling) es la marca que motorizó la China rural: furgo
 
 Su rival conceptual es el <a href=/coches/buick-gl8-2025-precio-ficha-tecnica/>Buick GL8</a>, aunque juegan en ligas distintas. <a href=/comparador-coches/>Compáralos aquí</a>.
 
-<img src=/media/wuling-journey-2025-precio-ficha-tecnica-interior.webp alt=\"Wuling Journey blanco aparcado en una plaza\">
+<img src=/media/wuling-journey-2025-precio-ficha-tecnica-interior.webp alt=\\"Wuling Journey blanco aparcado en una plaza\\">
 
 ## Curiosidades que lo hacen único
 
@@ -1637,11 +1565,7 @@ La versión de gasolina llevaría la C; la eléctrica, la Cero.
 
 ### ¿Se vende en España?
 
-No. Wuling solo opera en China y algunos mercados asiáticos.
-
-*Fuentes: <a href=https://en.wikipedia.org/wiki/Wuling_Zhengcheng>Wikipedia</a>, <a href=https://www.sgmw.com.cn>Wuling</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+No. Wuling solo opera en China y algunos mercados asiáticos.`
   },
   {
     title: "Nano Box: 331 km de autonomía por ~8.700 €",
@@ -1652,7 +1576,7 @@ No. Wuling solo opera en China y algunos mercados asiáticos.
     readTime: 7,
     locale: "all",
     keywords: ["Dongfeng Nano Box precio", "Nano Box autonomía", "urbano eléctrico chino", "Nano Box 331 km", "Kwid E-Tech chino", "eléctrico barato ciudad"],
-    content: `<img src=/media/dongfeng-nano-box-2025-precio-ficha-tecnica-hero.webp alt=\"Dongfeng Nano Box azul claro, tres cuartos delantero\">
+    content: `<img src=/media/dongfeng-nano-box-2025-precio-ficha-tecnica-hero.webp alt=\\"Dongfeng Nano Box azul claro, tres cuartos delantero\\">
 
 **¿Buscas solo los datos?** <a href=/coches/dongfeng-nano-box-2025-precio-ficha-tecnica/>Ver la ficha técnica del Dongfeng Nano Box</a>: precio, autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1680,7 +1604,7 @@ Es el gemelo chino del **Renault Kwid E-Tech**: comparten base, batería y plant
 
 En China se mueve entre 65.700 y 84.700 yuanes (~8.700-11.000 €). Es uno de los eléctricos con mejor relación autonomía/precio del mundo: 331 km por menos de 9.000 € no los ofrece nadie más.
 
-<img src=/media/dongfeng-nano-box-2025-precio-ficha-tecnica-oficial.webp alt=\"Dongfeng Nano Box en un salón del automóvil\">
+<img src=/media/dongfeng-nano-box-2025-precio-ficha-tecnica-oficial.webp alt=\\"Dongfeng Nano Box en un salón del automóvil\\">
 
 ## El gemelo del Kwid E-Tech
 
@@ -1688,7 +1612,7 @@ El Nano Box nació como Dongfeng EX1, la versión china del Renault Kwid eléctr
 
 Su rival es el <a href=/coches/renault-kwid-e-tech-2025-precio-ficha-tecnica/>Renault Kwid E-Tech</a> latinoamericano. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
-<img src=/media/dongfeng-nano-box-2025-precio-ficha-tecnica-interior.webp alt=\"Dongfeng Nano Box negro, trasera con la insignia EX1\">
+<img src=/media/dongfeng-nano-box-2025-precio-ficha-tecnica-interior.webp alt=\\"Dongfeng Nano Box negro, trasera con la insignia EX1\\">
 
 ## Curiosidades que lo hacen único
 
@@ -1722,11 +1646,7 @@ Sí, como eléctrico puro.
 
 ### ¿Se vende en España?
 
-No con esta marca; su primo europeo es el Dacia Spring.
-
-*Fuentes: <a href=https://www.carscoops.com>Carscoops</a>, <a href=https://www.dongfeng-global.com>Dongfeng</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+No con esta marca; su primo europeo es el Dacia Spring.`
   },
   {
     title: "Kwid E-Tech: el Renault eléctrico por ~17.000 €",
@@ -1737,7 +1657,7 @@ No con esta marca; su primo europeo es el Dacia Spring.
     readTime: 7,
     locale: "all",
     keywords: ["Renault Kwid E-Tech precio", "Kwid E-Tech autonomía", "Renault eléctrico barato", "Kwid E-Tech ficha", "Kwid eléctrico Brasil", "Dacia Spring Latinoamérica"],
-    content: `<img src=/media/renault-kwid-e-tech-2025-precio-ficha-tecnica-hero.webp alt=\"Renault Kwid E-Tech verde, tres cuartos delantero\">
+    content: `<img src=/media/renault-kwid-e-tech-2025-precio-ficha-tecnica-hero.webp alt=\\"Renault Kwid E-Tech verde, tres cuartos delantero\\">
 
 **¿Buscas solo los datos?** <a href=/coches/renault-kwid-e-tech-2025-precio-ficha-tecnica/>Ver la ficha técnica del Renault Kwid E-Tech</a>: precio, autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1765,7 +1685,7 @@ Acelera de 0 a 100 en **14,6 segundos** (paciencia), su maletero cubica **290 li
 
 En Brasil parte de 99.990 reales (~17.000 €) y en Colombia ronda los 85 millones de pesos. Es el eléctrico de acceso de Renault en Latinoamérica, donde compite con los chinos de BYD y Chery.
 
-<img src=/media/renault-kwid-e-tech-2025-precio-ficha-tecnica-oficial.webp alt=\"Renault Kwid E-Tech, vista lateral con adhesivos E-Tech\">
+<img src=/media/renault-kwid-e-tech-2025-precio-ficha-tecnica-oficial.webp alt=\\"Renault Kwid E-Tech, vista lateral con adhesivos E-Tech\\">
 
 ## El Spring latinoamericano
 
@@ -1773,7 +1693,7 @@ El Kwid E-Tech es el Dacia Spring con insignia Renault y adaptaciones para Latin
 
 Su rival europeo sería el propio Dacia Spring. <a href=/comparador-coches/>Compáralos aquí</a>.
 
-<img src=/media/renault-kwid-e-tech-2025-precio-ficha-tecnica-interior.webp alt=\"Renault Kwid E-Tech verde, tres cuartos delantero\">
+<img src=/media/renault-kwid-e-tech-2025-precio-ficha-tecnica-interior.webp alt=\\"Renault Kwid E-Tech verde, tres cuartos delantero\\">
 
 ## Curiosidades que lo hacen único
 
@@ -1807,11 +1727,7 @@ Sí, como eléctrico puro.
 
 ### ¿Llegará a España?
 
-No: en Europa su hueco lo ocupa el Dacia Spring.
-
-*Fuentes: <a href=https://www.actualidadmotor.com>Actualidad Motor</a>, <a href=https://www.renault.com.br>Renault Brasil</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+No: en Europa su hueco lo ocupa el Dacia Spring.`
   },
   {
     title: "Benben E-Star: 310 km por ~9.200 €",
@@ -1822,7 +1738,7 @@ No: en Europa su hueco lo ocupa el Dacia Spring.
     readTime: 7,
     locale: "all",
     keywords: ["Changan Benben E-Star precio", "Benben E-Star autonomía", "urbano eléctrico chino", "Benben E-Star 310 km", "Changan eléctrico", "coche eléctrico 9200 euros"],
-    content: `<img src=/media/changan-benben-e-star-2025-precio-ficha-tecnica-hero.webp alt=\"Changan Benben E-Star blanco, tres cuartos delantero\">
+    content: `<img src=/media/changan-benben-e-star-2025-precio-ficha-tecnica-hero.webp alt=\\"Changan Benben E-Star blanco, tres cuartos delantero\\">
 
 **¿Buscas solo los datos?** <a href=/coches/changan-benben-e-star-2025-precio-ficha-tecnica/>Ver la ficha técnica del Changan Benben E-Star</a>: precio, autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1851,7 +1767,7 @@ Su velocidad máxima es de **101 km/h** (autopista descartada), el maletero cubi
 
 En China se mueve entre 69.800 y 84.800 yuanes (~9.200-11.000 €). Es uno de los eléctricos con mejor autonomía por euro del mercado: 310 km por menos de 10.000 €.
 
-<img src=/media/changan-benben-e-star-2025-precio-ficha-tecnica-oficial.webp alt=\"Changan Benben E-Star blanco en un parking subterráneo\">
+<img src=/media/changan-benben-e-star-2025-precio-ficha-tecnica-oficial.webp alt=\\"Changan Benben E-Star blanco en un parking subterráneo\\">
 
 ## Changan, el gigante estatal
 
@@ -1859,7 +1775,7 @@ Changan es uno de los "cuatro grandes" grupos estatales chinos, con joint ventur
 
 Su rival es el <a href=/coches/dongfeng-nano-box-2025-precio-ficha-tecnica/>Dongfeng Nano Box</a>. <a href=/comparador-coches/>Enfréntalos en el comparador</a>.
 
-<img src=/media/changan-benben-e-star-2025-precio-ficha-tecnica-interior.webp alt=\"Changan Benben E-Star, vista frontal\">
+<img src=/media/changan-benben-e-star-2025-precio-ficha-tecnica-interior.webp alt=\\"Changan Benben E-Star, vista frontal\\">
 
 ## Curiosidades que lo hacen único
 
@@ -1893,11 +1809,7 @@ Sí, como eléctrico puro.
 
 ### ¿Se vende en España?
 
-No. Changan aún no opera en Europa.
-
-*Fuentes: <a href=https://pushevs.com>PushEVs</a>, <a href=https://www.changan.com.cn>Changan</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+No. Changan aún no opera en Europa.`
   },
   {
     title: "Roewe Clever: micro EV de 311 km por ~8.000 €",
@@ -1908,7 +1820,7 @@ No. Changan aún no opera en Europa.
     readTime: 7,
     locale: "all",
     keywords: ["Roewe Clever precio", "Roewe Clever autonomía", "microcoche eléctrico", "Clever 311 km", "SAIC eléctrico barato", "Roewe Clever fin producción"],
-    content: `<img src=/media/roewe-clever-2025-precio-ficha-tecnica-hero.webp alt=\"Roewe Clever blanco, tres cuartos delantero en la calle\">
+    content: `<img src=/media/roewe-clever-2025-precio-ficha-tecnica-hero.webp alt=\\"Roewe Clever blanco, tres cuartos delantero en la calle\\">
 
 **¿Buscas solo los datos?** <a href=/coches/roewe-clever-2025-precio-ficha-tecnica/>Ver la ficha técnica del Roewe Clever</a>: precio, autonomía, batería y medidas. <a href=/comparador-coches/>Compáralo cara a cara con sus rivales</a>.
 
@@ -1937,7 +1849,7 @@ Ojo al dato importante: **su producción terminó en 2025**. Solo queda stock en
 
 El Clever se vendió entre 59.900 y 79.900 yuanes (~8.000-10.500 €). SAIC lo descatalogó en 2025 para centrarse en la marca MG y sus eléctricos globales. Las unidades de stock se liquidan con descuentos en China.
 
-<img src=/media/roewe-clever-2025-precio-ficha-tecnica-oficial.webp alt=\"Roewe Clever blanco, vista frontal\">
+<img src=/media/roewe-clever-2025-precio-ficha-tecnica-oficial.webp alt=\\"Roewe Clever blanco, vista frontal\\">
 
 ## Roewe, la marca histórica de SAIC
 
@@ -1945,7 +1857,7 @@ Roewe nació en 2006 con la tecnología de la británica Rover (de ahí el nombr
 
 Su rival espiritual es el Smart EQ fortwo. <a href=/comparador-coches/>Compáralos aquí</a>.
 
-<img src=/media/roewe-clever-2025-precio-ficha-tecnica-interior.webp alt=\"Roewe Clever blanco, tres cuartos delantero\">
+<img src=/media/roewe-clever-2025-precio-ficha-tecnica-interior.webp alt=\\"Roewe Clever blanco, tres cuartos delantero\\">
 
 ## Curiosidades que lo hacen único
 
@@ -1979,10 +1891,6 @@ Sí, como eléctrico puro.
 
 ### ¿Se vende en España?
 
-No. Roewe no opera en Europa; SAIC vende aquí como MG.
-
-*Fuentes: <a href=https://en.wikipedia.org/wiki/Roewe_Clever>Wikipedia</a>, <a href=https://www.saicmotor.com>SAIC</a>.*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`
+No. Roewe no opera en Europa; SAIC vende aquí como MG.`
   },
 ]

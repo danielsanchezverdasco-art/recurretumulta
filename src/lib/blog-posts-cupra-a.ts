@@ -115,11 +115,7 @@ Homologa **5,4 l/100 km** en ciclo WLTP, con unas emisiones de 122 g/km de CO₂
 Si puedes cargar a diario, sí: el eHybrid de 204 CV tiene etiqueta Cero, más de 100 km de autonomía eléctrica, batería de 19,7 kWh con carga rápida de 50 kW y cuesta 42.340 €. Si no tienes enchufe, el 1.5 eTSI con ECO es la compra más racional.
 
 ### ¿Dónde se fabrica el Cupra León?
-En la planta de **Martorell (Barcelona)**, junto al resto de la gama Cupra y SEAT. Es uno de los pocos compactos deportivos diseñados y fabricados en España.
-
-Con 325 CV en la versión VZ, conviene tener el pie derecho a raya: si te llega una denuncia por velocidad, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.
-
-*Fuentes: <a href=https://www.km77.com/coches/cupra/leon/2024/5-puertas/estandar/leon-5p/datos>precios y ficha técnica en km77</a>, <a href=https://www.motormundial.es/cupra-leon-2024-restyling/2024/05/03/>restyling 2024 en MotorMundial</a>, <a href=https://forococheselectricos.com/2024/04/cupra-leon-formentor-hibridos-enchufables-100-km-autonomia-electrica-carga-rapida.html>eHybrid de 204 y 272 CV en ForoCochesEléctricos</a>, <a href=https://www.dgt.es>DGT</a>.*`
+En la planta de **Martorell (Barcelona)**, junto al resto de la gama Cupra y SEAT. Es uno de los pocos compactos deportivos diseñados y fabricados en España.`
   },
   {
     "title": "Cupra León Sportstourer: el familiar desde 32.772 €",
@@ -227,10 +223,6 @@ Sí, el **2.0 TDI de 150 CV** con cambio DSG (36.862 €). Es la opción para qu
 ### ¿Dónde se fabrica?
 En **Martorell (Barcelona)**, como el resto de la gama Cupra. Lleva la misma plataforma MQB Evo y tecnología que el León berlina y el Formentor.
 
-Un familiar de 333 CV invita a correr: si te llega una denuncia, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.
-
-*Fuentes: <a href=https://www.km77.com/coches/cupra/leon/2024/sportstourer/estandar/leon-sportstourer/datos>precios y ficha técnica en km77</a>, <a href=https://www.motormundial.es/cupra-leon-2024-restyling/2024/05/03/>restyling 2024 en MotorMundial</a>, <a href=https://forococheselectricos.com/2024/04/cupra-leon-formentor-hibridos-enchufables-100-km-autonomia-electrica-carga-rapida.html>eHybrid en ForoCochesEléctricos</a>, <a href=https://www.dgt.es>DGT</a>.*
-
 <img src=/media/cupra-leon-sportstourer-2025-precio-ficha-tecnica-interior-oficial.webp alt=Interior del Cupra León Sportstourer 2025 con plazas traseras amplias y vista al maletero>`
   },
   {
@@ -305,10 +297,6 @@ Carga rápida de 50 kW en continua y 11 kW en alterna.
 
 ### ¿Cuándo se entrega?
 Las entregas a clientes empiezan en verano de 2026.
-
-Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.seat-mediacenter.com/mediacenter_netstor/seat-media-center/Img/2026/04/2026-04-09/Factsheet-CUPRA-Raval_es.pdf>ficha técnica oficial (SEAT Media Center, PDF)</a>, <a href=https://www.dgt.es>DGT</a>.*
 
 *Fotos: medios del motor (presentación del Cupra Raval); no son imágenes oficiales de Cupra y su licencia es desconocida.*
 `
@@ -385,10 +373,6 @@ No es un GTI, pero su chasis está muy por encima de la media: es el compacto di
 
 ### ¿Merece la pena frente al Golf 1.5 eTSI?
 Misma mecánica, pero el León tiene mejor chasis, más carácter y diseño más atrevido por un precio similar.
-
-Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.auto-data.net/es/cupra-leon-facelift-2024-1.5-etsi-150hp-mild-hybrid-dsg-53234>ficha técnica en auto-data.net</a>, <a href=https://www.euroncap.com/it/results/cupra/leon/43180>Euro NCAP</a>, <a href=https://www.dgt.es>DGT</a>.*
 
 *Fotos: medios del motor (pruebas del León facelift 2024); no son imágenes oficiales de Cupra y su licencia es desconocida.*
 `
@@ -480,10 +464,6 @@ No. Es un coche para cargar a diario.
 ### ¿Es mejor que el Golf eHybrid?
 Misma mecánica; el León tiene mejor chasis y diseño más atrevido.
 
-Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.km77.com>km77.com</a>, <a href=https://www.euroncap.com/it/results/cupra/leon/43180>Euro NCAP</a>.*
-
 *Fotos: medios del motor (pruebas del León facelift 2024); no son imágenes oficiales de Cupra y su licencia es desconocida.*
 `
   },
@@ -574,10 +554,6 @@ En uso normal, 8-9 l/100; si le exiges, más de 11.
 ### ¿Tiene autoblocante?
 Sí, diferencial VAQ de serie.
 
-Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.auto-data.net/es/cupra-leon-facelift-2024-2-0-tsi-300hp-dsg-53235>ficha técnica en auto-data.net</a>, <a href=https://www.euroncap.com/it/results/cupra/leon/43180>Euro NCAP</a>.*
-
 *Fotos: medios del motor (pruebas del León facelift 2024); no son imágenes oficiales de Cupra y su licencia es desconocida.*
 `
   },
@@ -663,11 +639,7 @@ Si buscas el León definitivo y aceptas la serie limitada, sí: 25 CV más, auto
 ### ¿Y frente al VZ 333?
 El 333 es más rápido y tiene 4x4; este es más ligero y ágil.
 
-*Cómo verificamos: precio, potencia, tracción, prestaciones y serie limitada de la ficha de km77 del León VZ 325 (consultada el 18/10/2026).*
-
-*Fuentes: <a href=https://www.km77.com/coches/cupra/leon/2024/estandar/estandar/leon-vz/datos/equipamiento>km77.com</a>.*
-
-Con 325 CV al tren delantero, la cabeza fría es el mejor opcional: Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.`
+*Cómo verificamos: precio, potencia, tracción, prestaciones y serie limitada de la ficha de km77 del León VZ 325 (consultada el 18/10/2026).*`
   },
   {
     slug: "cupra-leon-sportstourer-ehybrid-204-2025-precio-ficha-tecnica",
@@ -755,10 +727,6 @@ Más eficiente y ágil; el SUV gana en altura y moda.
 
 ### ¿Cuánto pesa?
 1.598 kg en vacío.
-
-Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.auto-data.net/es/cupra-leon-sportstourer-facelift-2024-1-5-e-hybrid-204hp-dsg-53245>ficha técnica en auto-data.net</a>, <a href=https://www.euroncap.com/it/results/cupra/leon/43180>Euro NCAP</a>.*
 
 *Fotos: medios del motor (pruebas del León facelift 2024); no son imágenes oficiales de Cupra y su licencia es desconocida.*
 `
@@ -853,8 +821,6 @@ Si le exiges, más de 12 l/100 km.
 
 ### ¿Es un buen coche familiar?
 Sí: 620 L, 5 plazas amplias y 333 CV cuando vas solo. El familiar para quien no quiere renunciar a nada.
-
-*Fuentes: <a href=https://www.auto-data.net/es/cupra-leon-sportstourer-facelift-2024-2-0-tsi-333hp-4drive-dsg-53239>ficha técnica en auto-data.net</a>, <a href=https://www.euroncap.com/it/results/cupra/leon/43180>Euro NCAP</a>.*
 
 ## Cómo verificamos
 
@@ -952,8 +918,6 @@ Entre **5,8 y 6,4 l/100 km** (WLTP), con emisiones de 132 a 144 g/km de CO₂ se
 ### ¿Merece la pena frente al VZ e-Hybrid 272?
 El híbrido enchufable (52.980 € en tarifa oficial) añade 120 km eléctricos y etiqueta Cero por unos 17.000 € más: compensa si cargas a diario y quieres la mejor fiscalidad.
 
-Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
 ## Cómo verificamos
 
 Precio (35.883 €) y consumos WLTP (5,8-6,4 l/100 km): web oficial de CUPRA España, oferta de octubre de 2026. Precios VZ (57.594 €, 61.344 €, 52.980 €): tarifa oficial CUPRA de julio de 2026 (MY27). EuroNCAP: 5 estrellas en 2021 (<a href=https://www.euroncap.com/en/results/cupra/formentor/57957>euroncap.com</a>). Si un dato no tiene fuente, no lo publicamos.
@@ -1045,10 +1009,6 @@ No. Sin carga diaria, mejor un eTSI o un VZ.
 ### ¿Es deportivo?
 No como un VZ, pero los 204 CV dan juego.
 
-Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.auto-data.net/es/cupra-formentor-facelift-2024-1-5-e-hybrid-204hp-dsg-53216>ficha técnica en auto-data.net</a>, <a href=https://www.euroncap.com/en/results/cupra/formentor/43182>Euro NCAP</a>.*
-
 *Fotos: medios del motor (pruebas del Formentor facelift 2024); no son imágenes oficiales de Cupra y su licencia es desconocida.*
 `
   },
@@ -1139,10 +1099,6 @@ Si quieres más potencia y carácter VZ, sí.
 ### ¿Y frente al VZ 265 térmico?
 El 265 es más ligero y emocionante; este tiene la Cero y ahorra en ciudad.
 
-Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.coches.net/ficha-tecnica/cupra/formentor/15-vz-e-hybrid-dsg-272cv-112910-844209720251118/>ficha técnica en coches.net</a>, <a href=https://www.euroncap.com/en/results/cupra/formentor/43182>Euro NCAP</a>.*
-
 *Fotos: medios del motor (pruebas del Formentor facelift 2024); no son imágenes oficiales de Cupra y su licencia es desconocida.*
 `
   },
@@ -1230,10 +1186,6 @@ Sí, 4Drive de serie.
 
 ### ¿Qué etiqueta lleva?
 Etiqueta C (es gasolina sin hibridación).
-
-Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.auto-data.net/es/cupra-formentor-facelift-2024-2-0-tsi-265hp-4drive-dsg-53213>ficha técnica en auto-data.net</a>, <a href=https://www.euroncap.com/en/results/cupra/formentor/43182>Euro NCAP</a>.*
 
 *Fotos: medios del motor (pruebas del Formentor facelift 2024); no son imágenes oficiales de Cupra y su licencia es desconocida.*
 `
@@ -1430,10 +1382,6 @@ Si necesitas más espacio, sí. Si no, el Formentor es más ágil y barato.
 ### ¿Carga rápido?
 50 kW en continua, 11 kW en alterna.
 
-Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.coches.net/ficha-tecnica/cupra/terramar/15-e-hybrid-dsg-204cv-116618-884209720251107/>ficha técnica en coches.net</a>.*
-
 *Fotos: medios del motor (pruebas del Terramar 2024); no son imágenes oficiales de Cupra y su licencia es desconocida.*
 `
   },
@@ -1510,11 +1458,7 @@ Sí, **etiqueta Cero** de la <a href=https://www.dgt.es>DGT</a>.
 Añade 68 CV y el chasis VZ por 7.660 € más. Para familia racional, el 204; para disfrutar, el VZ.
 
 ### ¿Y frente al VZ 265 gasolina?
-El VZ 265 (55.074 €) tiene 4Drive pero etiqueta C y sin modo eléctrico. El híbrido gana en etiqueta y uso diario.
-
-Con 272 CV en un SUV familiar, cabeza fría: Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.
-
-*Fuentes: <a href=https://www.km77.com/coches/cupra/terramar/2024/estandar/terramar/terramar-vz-e-hybrid/datos/equipamiento>km77.com</a>, <a href=https://www.youtube.com/watch?v=ZG9YbIFyWd4>Movilidad Eléctrica en YouTube</a> y <a href=https://www.dgt.es>DGT</a>.*`
+El VZ 265 (55.074 €) tiene 4Drive pero etiqueta C y sin modo eléctrico. El híbrido gana en etiqueta y uso diario.`
   },
   {
     slug: "cupra-terramar-vz-265-2025-precio-ficha-tecnica",
@@ -1605,10 +1549,6 @@ Si necesitas más espacio, sí. El Formentor es más ágil y barato.
 ### ¿Qué etiqueta lleva?
 Etiqueta C.
 
-Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.auto-data.net/es/cupra-terramar-2024-2-0-tsi-265hp-4drive-dsg-52622>ficha técnica en auto-data.net</a>.*
-
 *Fotos: medios del motor (pruebas del Terramar 2024); no son imágenes oficiales de Cupra y su licencia es desconocida.*
 `
   },
@@ -1698,11 +1638,7 @@ Por 4.000 € más, el Endurance (43.500 €) añade la batería de 79 kWh y ~16
 Hasta **120 kW en continua**: del 10 al 80 % en unos 35 minutos.
 
 ### ¿Tiene etiqueta Cero?
-Sí, **etiqueta Cero** de la <a href=https://www.dgt.es>DGT</a>.
-
-Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.
-
-*Fuentes: <a href=https://www.youtube.com/watch?v=ouzuVCCbuFE>Autofácil en YouTube</a> y <a href=https://www.dgt.es>DGT</a>.*`
+Sí, **etiqueta Cero** de la <a href=https://www.dgt.es>DGT</a>.`
   },
   {
     slug: "cupra-born-endurance-231-2026-precio-ficha-tecnica",
@@ -1790,11 +1726,7 @@ Por 4.000 € ganas 165 km de autonomía: si haces viajes, absolutamente.
 Misma base técnica; el Born aporta el diseño y el tacto Cupra por menos dinero.
 
 ### ¿Tiene etiqueta Cero?
-Sí, **etiqueta Cero** de la <a href=https://www.dgt.es>DGT</a>.
-
-Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.
-
-*Fuentes: <a href=https://www.youtube.com/watch?v=ouzuVCCbuFE>Autofácil en YouTube</a> y <a href=https://www.dgt.es>DGT</a>.*`
+Sí, **etiqueta Cero** de la <a href=https://www.dgt.es>DGT</a>.`
   },
   {
     slug: "cupra-born-vz-326-2026-precio-ficha-tecnica",
@@ -1876,11 +1808,7 @@ El MG4 (38.470 €) es más barato y tiene 435 CV; el Born VZ ofrece más autono
 **200 km/h**, superior a los 160 km/h del resto de la gama Born.
 
 ### ¿Tiene etiqueta Cero?
-Sí, **etiqueta Cero** de la <a href=https://www.dgt.es>DGT</a>.
-
-Con 545 Nm al tren trasero, la mesura es tu aliada: Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.
-
-*Fuentes: <a href=https://www.youtube.com/watch?v=ouzuVCCbuFE>Autofácil en YouTube</a> y <a href=https://www.dgt.es>DGT</a>.*`
+Sí, **etiqueta Cero** de la <a href=https://www.dgt.es>DGT</a>.`
   },
   {
     slug: "cupra-tavascan-vz-340-2026-precio-ficha-tecnica",
@@ -1966,11 +1894,7 @@ Aproximadamente **522 km** (dato aproximado) con la batería de 77 kWh.
 El Endurance (286 CV) homologa 569 km y cuesta menos; el VZ añade 54 CV, tracción total y 5,5 s.
 
 ### ¿Tiene etiqueta Cero?
-Sí, **etiqueta Cero** de la <a href=https://www.dgt.es>DGT</a>.
-
-Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.
-
-*Fuentes: <a href=https://www.forococheselectricos.com/2025/06/cupra-tavascan-precios.html>forococheselectricos.com</a> y <a href=https://www.dgt.es>DGT</a>.*`
+Sí, **etiqueta Cero** de la <a href=https://www.dgt.es>DGT</a>.`
   },
   {
     slug: "cupra-ateca-190-2025-precio-ficha-tecnica",
@@ -2052,11 +1976,7 @@ El Terramar (45.350 €) es más moderno y tiene etiqueta Cero. El Ateca gana en
 **Etiqueta C**.
 
 ### ¿Qué maletero tiene?
-**485 litros**.
-
-Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.
-
-*Fuentes: <a href=https://www.km77.com/coches/cupra/ateca/2024/estandar/ateca/ateca-20-tsi/datos/equipamiento>km77.com</a> y <a href=https://www.dgt.es>DGT</a>.*`
+**485 litros**.`
   },
   {
     slug: "cupra-ateca-vz-300-2025-precio-ficha-tecnica",
@@ -2132,11 +2052,7 @@ El Terramar (55.074 €) es más moderno por menos dinero. El Ateca VZ solo comp
 **Etiqueta C**.
 
 ### ¿Es tracción total?
-Sí, **4Drive** de serie.
-
-Con 300 CV y 4,9 s, el carnet se juega en cada recta: Si te llega una denuncia de tráfico, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagarla o recurrirla.
-
-*Fuentes: <a href=https://www.km77.com/coches/cupra/ateca/2024/estandar/ateca/ateca-vz/datos/equipamiento>km77.com</a>, <a href=https://www.youtube.com/watch?v=-Hg6oeAQsqY>CUPRA en YouTube</a> y <a href=https://www.dgt.es>DGT</a>.*`
+Sí, **4Drive** de serie.`
   },
   {
     slug: "cupra-raval-plus-2026-precio-ficha-tecnica",
@@ -2231,10 +2147,6 @@ Si notas los 116 CV justos, sí. Si no, el base basta.
 ### ¿Cuándo llega?
 Con el lanzamiento de la gama en 2026.
 
-Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.seat-mediacenter.com/mediacenter_netstor/seat-media-center/Img/2026/04/2026-04-09/Factsheet-CUPRA-Raval_es.pdf>ficha técnica oficial (SEAT Media Center, PDF)</a>.*
-
 *Fotos: medios del motor (presentación del Cupra Raval); no son imágenes oficiales de Cupra y su licencia es desconocida.*
 `
   },
@@ -2326,10 +2238,6 @@ Si viajas con frecuencia, sí. Si solo haces ciudad, no.
 
 ### ¿Cuándo se entrega?
 Las entregas empiezan en verano de 2026.
-
-Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.seat-mediacenter.com/mediacenter_netstor/seat-media-center/Img/2026/04/2026-04-09/Factsheet-CUPRA-Raval_es.pdf>ficha técnica oficial (SEAT Media Center, PDF)</a>.*
 
 *Fotos: medios del motor (presentación del Cupra Raval); no son imágenes oficiales de Cupra y su licencia es desconocida.*
 `
@@ -2426,10 +2334,6 @@ Si priorizas diversión, sí. Si priorizas autonomía, no.
 
 ### ¿Cuándo se vende?
 Con el despliegue de la gama Raval en 2026.
-
-Si te ha llegado una multa, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> antes de pagar.
-
-*Fuentes: <a href=https://www.seat-mediacenter.com/mediacenter_netstor/seat-media-center/Img/2026/04/2026-04-09/Factsheet-CUPRA-Raval_es.pdf>ficha técnica oficial (SEAT Media Center, PDF)</a>.*
 
 *Fotos: medios del motor (presentación del Cupra Raval); no son imágenes oficiales de Cupra y su licencia es desconocida.*
 `

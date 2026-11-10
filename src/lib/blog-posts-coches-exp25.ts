@@ -96,11 +96,7 @@ Cinco estrellas (2025), con récord de su segmento en sistemas de asistencia (89
 Sí, además de los 450 litros traseros dispone de frunk para el cable de carga.
 
 ### ¿Qué rivales tiene?
-El Volvo EX30 (su primo de plataforma), el Smart #3, el Zeekr X y el MG4 en sus versiones altas.
-
-*Fuentes: <a href=https://www.lynkco.com/es-es/offers>Lynk & Co España</a>, <a href=https://www.euroncap.com>Euro NCAP</a>*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+El Volvo EX30 (su primo de plataforma), el Smart #3, el Zeekr X y el MG4 en sus versiones altas.`,
   },
   {
     title: "Omoda C7 2025: PHEV de 279 CV y 92 km",
@@ -183,11 +179,7 @@ Sí, hasta 40 kW en continua (30-80 % en 20 minutos), algo poco habitual en un h
 Etiqueta Cero, por superar los 40 km de autonomía eléctrica.
 
 ### ¿Qué garantía ofrece?
-Omoda anuncia 8 años o 160.000 km para el sistema híbrido.
-
-*Fuentes: <a href=https://www.pruebatucoche.es/omoda-7-shs-prueba/>pruebatucoche.es</a>, <a href=https://www.motormundial.es/omoda-7-shs-ya-con-precios-oficiales/2026/02/08/>motormundial.es</a>, <a href=https://www.coches.net/noticias/omoda-7-shs-prueba-de-contacto>coches.net</a>*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+Omoda anuncia 8 años o 160.000 km para el sistema híbrido.`,
   },
   {
     title: "Opel Frontera Electric desde 24.900 €",
@@ -269,11 +261,7 @@ Sí, es el único eléctrico asequible con opción de 7 plazas (disponible en la
 En Trnava, Eslovaquia, sobre la plataforma STLA Smart que comparte con el Citroën ë-C3.
 
 ### ¿Merece la pena frente al híbrido?
-Si haces sobre todo ciudad y tienes dónde cargar, el eléctrico sale más barato por kilómetro; para viajar mucho, el híbrido de 145 CV es más polivalente.
-
-*Fuentes: <a href=https://www.km77.com/coches/opel/frontera/2025/estandar/electrico/frontera-electric/datos>km77.com</a>, <a href=https://opel-canarias.com/gama/opel-frontera-electric/>Opel Canarias</a>, <a href=https://www.motormundial.es/opel-frontera-electric-extended-range/2025/07/27/>motormundial.es</a>*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+Si haces sobre todo ciudad y tienes dónde cargar, el eléctrico sale más barato por kilómetro; para viajar mucho, el híbrido de 145 CV es más polivalente.`,
   },
   {
     title: "GAC Aion V: 510 km desde 37.995 €",
@@ -362,11 +350,7 @@ En Graz (Austria), en la planta de Magna Steyr, lo que reduce el impacto de los 
 8 años o 160.000 km para el vehículo y 8 años o 200.000 km para la batería.
 
 ### ¿Qué tal es el maletero?
-De 427 litros: correcto pero por debajo de rivales como el Volkswagen ID.4 o el Skoda Enyaq.
-
-*Fuentes: <a href=https://www.km77.com/coches/gac/aion-v/2024/estandar/informacion>km77.com</a>, <a href=https://soloauto.net/gac-espana-aion-v-aion-ut-coches-electricos/>soloauto.net</a>, <a href=https://testcoches.es/pruebas/es-tan-feo-como-bueno-he-probado-el-gac-aion-v-y-sorprende-mucho-mas-de-lo-que-aparenta/>testcoches.es</a>*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+De 427 litros: correcto pero por debajo de rivales como el Volkswagen ID.4 o el Skoda Enyaq.`,
   },
   {
     title: "iCar 03: el SUV eléctrico off-road de Chery",
@@ -448,10 +432,6 @@ Tiene tracción total, modos off-road y buena altura libre, pero es un SUV de ch
 Sí, hasta 80 kW en continua (30-80 % en unos 30 minutos), además de función V2L.
 
 ### ¿Qué significa iWD?
-Es la denominación de Chery para su tracción total inteligente (intelligent Wheel Drive).
-
-*Fuentes: <a href=https://www.cherycr.com/wp-content/uploads/2025/05/F.-Tecnica-iCar-03_2025.pdf>Chery (ficha técnica oficial)</a>, <a href=https://autosdeprimera.com/noticias/noticias-nacionales/chery-icar-03-colombia/>autosdeprimera.com</a>*
-
-**¿Te han puesto una multa?** Antes de pagarla o recurrirla, <a href=https://recurretumulta.online/#analizador>analízala gratis con nuestra IA</a> y descubre si es recurrible.`,
+Es la denominación de Chery para su tracción total inteligente (intelligent Wheel Drive).`,
   },
 ];
