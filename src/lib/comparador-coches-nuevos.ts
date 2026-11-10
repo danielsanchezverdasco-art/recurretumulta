@@ -9560,7 +9560,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     modelo: "Seal U",
     tipo: "Híbrido enchufable",
     categoria: "SUV",
-    precioDesde: 29990,
+    precioDesde: 28690, // PVPR Financiando BYD España, Black Days hasta 30/11/2026 (incluye dto. financiación + adelanto Plan Auto+)
     potenciaCv: 218,
     autonomiaKm: 80,
     maleteroL: 425,
@@ -9574,7 +9574,7 @@ export const COCHES_NUEVOS: CocheComparador[] = [
       "80 km eléctricos WLTP: el día a día sin gastar gasolina",
       "Batería Blade LFP de BYD: de las más seguras del mercado",
       "Maletero de 425 L y 5 plazas amplias: SUV familiar de verdad",
-      "Equipamiento de serie muy completo por 29.990 € financiando (campaña oficial hasta el 31/10/2026; 35.790 € al contado)",
+      "Equipamiento de serie muy completo por 28.690 € financiando (campaña oficial Black Days hasta el 30/11/2026)",
     ],
     contras: [
       "Más de 2 toneladas de peso (2.015 kg en la versión Boost)",
@@ -9596,8 +9596,8 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     aprox: ["bateriaKwh", "cargaRapidaKw", "precioDesde"],
     imagen: "/media/byd-seal-u-dm-i-precio-ficha-tecnica-1.webp",
     opiniones: [],
-    fuenteNombre: "km77.com",
-    fuenteUrl: "https://www.km77.com/coches/byd/seal-u/2024/estandar/phev/seal-u-dm-i/datos",
+    fuenteNombre: "BYD España",
+    fuenteUrl: "https://www.byd.com/es-es/promociones",
     analisisSlug: "byd-seal-u-dm-i-precio-ficha-tecnica",
     euroncap: {
       estrellas: 5,

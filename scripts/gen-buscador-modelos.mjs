@@ -7,7 +7,7 @@
 import { readFileSync, writeFileSync, readdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import { MODELOS_EXTRA } from "./datos-modelos-extra.mjs";
+import { MODELOS_EXTRA } from "./archivo/datos-modelos-extra.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const LIB = join(ROOT, "src", "lib");
