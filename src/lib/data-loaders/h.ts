@@ -821,6 +821,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "hyundai-i20-n-line-mhev-2026-precio-ficha-tecnica": () => import("../euroncap-exp18.ts"),
     "hyundai-i30-10-tgdi-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "hyundai-i30-15-tgdi-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
+    "hyundai-i30-15-tgdi-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "hyundai-i30-2024-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "hyundai-i30-n-line-2026-precio-ficha-tecnica": () => import("../euroncap-enriquecer-t8.ts"),
     "hyundai-inster-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),

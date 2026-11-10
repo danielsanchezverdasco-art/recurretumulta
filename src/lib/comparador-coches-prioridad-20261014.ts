@@ -245,7 +245,6 @@ export const COCHES_PRIORIDAD_20261014: CocheComparador[] = [
     opiniones: [],
     costeMensual: null,
     galeria: [{"src": "/media/audi-a3-sedan-2025-hero.webp", "alt": "Audi A3 Sedan — A3 2025, foto prensa Audi A3 Sedan 8Y roja (aérea)", "ancho": 1200, "alto": 675}, {"src": "/media/audi-a3-sedan-2025-2.webp", "alt": "Audi A3 Sedan — foto prensa Audi A3 Sedan 8Y roja", "ancho": 1200, "alto": 675}],
-    euroncap: {"estrellas": 5, "ano": 2020, "url": "https://www.autocar.co.uk/car-news/business/five-star-ncap-ratings-audi-a3-and-land-rover-defender", "nota": "5 estrellas EuroNCAP (2020) — Audi A3: 89% adultos, 81% niños. Fuente: Autocar/DrivingElectric."},
     planMantenimiento: {
       intervalo: "Mantenimiento orientativo (modelo similar Audi, misma marca): plan LongLife, revisión variable hasta 30",
       revisiones: [{

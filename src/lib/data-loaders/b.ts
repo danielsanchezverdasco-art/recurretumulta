@@ -922,6 +922,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "bmw-m340i-xdrive-2026-precio-ficha-tecnica": () => import("../euroncap-exp21.ts"),
     "bmw-m5-touring-2026-precio-ficha-tecnica": () => import("../euroncap-exp21.ts"),
     "bmw-serie-1-120-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
+    "bmw-serie-2-gran-coupe-220-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "bmw-serie-3-318": () => import("../seguridad-euroncap.ts"),
     "bmw-serie-3-320d-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "bmw-serie-3-320i-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),

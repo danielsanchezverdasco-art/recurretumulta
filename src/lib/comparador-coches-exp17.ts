@@ -613,12 +613,6 @@ export const COCHES_EXP17: CocheComparador[] = [
         alto: 1280,
       },
     ],
-    euroncap: {
-      estrellas: 3,
-      ano: 2025,
-      url: null,
-      nota: "3 estrellas EuroNCAP en la reevaluación de 2025 con el protocolo actual; la prueba original de 2019 obtuvo 5 estrellas.",
-    },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (lo que ocurra antes); servicio flexible LongLife hasta 24 meses o 30.000 km",
       revisiones: [

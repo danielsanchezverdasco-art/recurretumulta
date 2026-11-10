@@ -1095,7 +1095,6 @@ export const COCHES_NUEVOS_C5: CocheComparador[] = [
       { src: "/media/porsche-cayenne-electric-2025-precio-ficha-tecnica-hunt2.webp", alt: "Cayenne Electric 2025 (foto: Porsche AG (foto oficial de prensa, vía SoyaCincau), licencia desconocida)", ancho: 1024, alto: 641 },
       { src: "/media/porsche-cayenne-electric-2025-precio-ficha-tecnica-hunt3.webp", alt: "Cayenne Electric 2025 (foto: Porsche AG / Porsche Newsroom, licencia desconocida)", ancho: 1035, alto: 582 },
     ],
-    euroncap: { estrellas: 5, ano: 2025, url: null, nota: "5 estrellas EuroNCAP (ronda de diciembre de 2025): 91 % adultos, 89 % infantil, 81 % usuarios vulnerables, 79 % asistencias; enlace a la ficha oficial de Euro NCAP pendiente de localizar" },
     planMantenimiento: {
       intervalo: "No publicado por la marca para este modelo",
       revisiones: [],

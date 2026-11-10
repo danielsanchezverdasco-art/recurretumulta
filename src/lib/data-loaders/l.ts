@@ -605,6 +605,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
   euroncap: {
     "leapmotor-b05-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "leapmotor-b10-electrico-precio-espana": () => import("../seguridad-euroncap.ts"),
+    "leapmotor-b10-reev-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "leapmotor-c10-electrico-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "lexus-es-300h-2025-precio-ficha-tecnica": () => import("../euroncap-exp15.ts"),
     "lexus-es-300h-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
@@ -625,6 +626,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "lexus-rz-550e-2025-precio-ficha-tecnica": () => import("../euroncap-exp15.ts"),
     "lexus-ux-300e-2024-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "lexus-ux-300h-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
+    "lucid-gravity-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "lynk-co-01-phev-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "lynk-co-02-electrico-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "lynk-co-08-phev-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),

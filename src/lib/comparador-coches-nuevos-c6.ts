@@ -1231,12 +1231,6 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     ],
     emisionesCo2: 172,
     etiquetaDgt: "C",
-    euroncap: {
-      ano: null,
-      estrellas: null,
-      nota: "Sin datos EuroNCAP: modelo no probado",
-      url: null
-    },
     fuenteNombre: "km77",
     fuenteUrl: null,
     galeria: [
@@ -1307,12 +1301,6 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     ],
     emisionesCo2: 129,
     etiquetaDgt: "C",
-    euroncap: {
-      ano: null,
-      estrellas: null,
-      nota: "Sin datos EuroNCAP verificados en esta investigación",
-      url: null
-    },
     fuenteNombre: "motorgiga",
     fuenteUrl: null,
     galeria: [
@@ -1954,12 +1942,6 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     ],
     emisionesCo2: 107,
     etiquetaDgt: "ECO",
-    euroncap: {
-      ano: 2024,
-      estrellas: 5,
-      nota: "5 estrellas EuroNCAP diciembre 2024: 82% adulto, 83% infantil, 79% peatón, 76% asistencias; URL del informe no publicada por la marca",
-      url: null
-    },
     fuenteNombre: "prensa.lexusauto.es",
     fuenteUrl: "https://prensa.lexusauto.es/lbx-2026-lexus-transforma-su-gama-con-un-enfoque-sencillo-y-elegante/",
     galeria: [
@@ -2216,12 +2198,6 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     ],
     emisionesCo2: 119,
     etiquetaDgt: "ECO",
-    euroncap: {
-      ano: 2021,
-      estrellas: 4,
-      nota: "4 estrellas EuroNCAP 2021 para el Hyundai Bayon; URL del informe no publicada por la marca",
-      url: null
-    },
     fuenteNombre: "hyundai.news / km77.com",
     fuenteUrl: "https://www.hyundai.news/eu/models/suv/bayon/press-kit.html",
     galeria: [

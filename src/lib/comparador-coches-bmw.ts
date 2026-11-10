@@ -151,12 +151,6 @@ export const COCHES_BMW: CocheComparador[] = [
       notas: "Estimación con 15.000 km/año: energía 5,2 l/100 km × 1,85 €/l; seguro y mantenimiento orientativos para coupé premium compacto.",
       estimado: true
     },
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: el Serie 2 Gran Coupé (F44) no ha sido probado",
-    },
     planMantenimiento: {
       intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
       revisiones: [

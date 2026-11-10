@@ -923,6 +923,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "seat-leon-15-tsi-115-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "seat-leon-20-tdi-115-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "seat-leon-20-tdi-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
+    "seat-leon-2025-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "seat-leon-sportstourer-15-ehybrid-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "seat-leon-sportstourer-15-etsi-115-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),
     "seat-leon-sportstourer-15-etsi-150-2026-precio-ficha-tecnica": () => import("../seguridad-euroncap.ts"),

@@ -55,7 +55,6 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     analisisSlug: "volkswagen-t-cross-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
-    euroncap: { estrellas: 5, ano: 2019, url: null, nota: "5 estrellas Euro NCAP (2019)" },
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses (lo que antes ocurra)",
       revisiones: [
@@ -131,7 +130,6 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     analisisSlug: "volkswagen-id-3-neo-2026-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
-    euroncap: { estrellas: 5, ano: 2020, url: null, nota: "5 estrellas Euro NCAP (2020)" },
     planMantenimiento: {
       intervalo: "24 meses o 30.000 km (lo que antes ocurra; sin cambios de aceite)",
       revisiones: [
@@ -1575,7 +1573,6 @@ export const COCHES_NUEVOS_C3: CocheComparador[] = [
     analisisSlug: "seat-leon-2025-precio-ficha-tecnica",
     videoId: null,
     videoCanal: null,
-    euroncap: { estrellas: 5, ano: 2020, url: null, nota: "5 estrellas Euro NCAP (2020)" },
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses (lo que antes ocurra)",
       revisiones: [

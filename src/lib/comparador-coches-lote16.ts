@@ -118,12 +118,6 @@ export const COCHES_LOTE16: CocheComparador[] = [
       },
     ],
     analisisSlug: "volkswagen-caddy-california-2025-precio-camper",
-    euroncap: {
-      estrellas: 4,
-      ano: 2025,
-      url: null,
-      nota: "El VW Caddy obtuvo 5 estrellas EuroNCAP en 2021; la reevaluación de 2025 con el protocolo actual le dio 4 estrellas.",
-    },
     planMantenimiento: {
       intervalo: "24 meses o 30.000 km (servicio LongLife), lo que ocurra antes",
       revisiones: [

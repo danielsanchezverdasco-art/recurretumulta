@@ -230,7 +230,6 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       { src: "/media/toyota-bz4x-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal (foto: Villanyautósok (prueba del bZ4X facelift, Hungría), licencia desconocida)", ancho: 1024, alto: 683 },
       { src: "/media/toyota-bz4x-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal (foto: Moniteur Automobile (dossier facelift bZ4X 2025), licencia desconocida)", ancho: 1200, alto: 800 },
     ],
-    euroncap: { estrellas: 5, ano: 2022, url: null, nota: null },
     planMantenimiento: {
       intervalo: "Según plan de mantenimiento Toyota (revisiones bienales orientativas)",
       revisiones: [
@@ -309,7 +308,6 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       { src: "/media/nissan-qashqai-e-power-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 20.000 km (foto: CarExpert (artículo del Qashqai e-Power 2026 de nueva generación), licencia desconocida)", ancho: 960, alto: 640 },
       { src: "/media/nissan-qashqai-e-power-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 20.000 km (foto: Nissan (prensa oficial) vía HeadLight Magazine, licencia desconocida)", ancho: 900, alto: 600 },
     ],
-    euroncap: { estrellas: 5, ano: 2021, url: null, nota: null },
     planMantenimiento: {
       intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
@@ -534,7 +532,6 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       { src: "/media/mazda-cx-5-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 20.000 km (foto: Mazda (foto de prensa) vía TFLcar, licencia desconocida)", ancho: 1920, alto: 1080 },
       { src: "/media/mazda-cx-5-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 20.000 km (foto: WardsAuto, licencia desconocida)", ancho: 1600, alto: 900 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: nueva generación no probada" },
     planMantenimiento: {
       intervalo: "20.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
@@ -1127,7 +1124,6 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       { src: "/media/kia-pv5-2026-precio-ficha-tecnica-hunt2.webp", alt: "PV5 2026 (foto: Kia (imagen oficial de estudio, vía EV-olution), licencia desconocida)", ancho: 1600, alto: 900 },
       { src: "/media/kia-pv5-2026-precio-ficha-tecnica-hunt3.webp", alt: "PV5 2026 (foto: Kia (foto de prensa oficial, vía Ford Authority), licencia desconocida)", ancho: 1536, alto: 863 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP: modelo no probado" },
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Tabla oficial Kia Service Intervals V26.6 (Kia UK, junio 2026): PV5 desde 2026, EV, 20.000 / 24 (millas / meses, lo que ocurra antes); verificado el 22/10/2026. No se localizó un desglose equivalente publicado por Kia España para el PV5, por eso no se citan costes.", "intervalo": "Cada 24 meses o 20.000 millas (lo que ocurra antes), según tabla oficial de intervalos Kia para el PV5 2026 eléctrico; no es el genérico de 30.000 km que figuraba en la ficha", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión programada a los 24 meses o 20.000 millas", "queSeCambia": "Inspección programada del vehículo, revisión de frenos, batería de alto voltaje y sistemas eléctricos y filtro de habitáculo según estado; Kia no publica un desglose de sustituciones específico del PV5 localizado en esta verificación"}]},
   },
   {
@@ -1196,7 +1192,6 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       { src: "/media/kia-ev5-gt-line-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión bienal / 30.000 km (foto: Kia Corporation (prensa oficial EV5 GT-Line MY26) / Autoreview, licencia desconocida)", ancho: 1920, alto: 1280 },
       { src: "/media/kia-ev5-gt-line-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión bienal / 30.000 km (foto: Kia Corporation (prensa oficial EV5 GT-Line MY26) / EVonline, licencia desconocida)", ancho: 1280, alto: 720 },
     ],
-    euroncap: { estrellas: null, ano: null, url: null, nota: "Sin datos EuroNCAP verificados" },
     planMantenimiento: {
       intervalo: "30.000 km o 24 meses (lo que ocurra antes, orientativo)",
       revisiones: [

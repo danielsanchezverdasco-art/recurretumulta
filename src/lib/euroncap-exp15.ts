@@ -12,12 +12,12 @@ import type { SeguridadEuroNCAP } from "./seguridad-euroncap.ts";
 export const EURONCAP_EXP15: Record<string, SeguridadEuroNCAP> = {
   "toyota-yaris-cross-gr-sport-2025-precio-ficha-tecnica": {
     fichaId: "toyota-yaris-cross-gr-sport-2025-precio-ficha-tecnica",
-    estrellas: 5,
-    anioTest: 2021,
-    adulto: 86,
-    infantil: 84,
-    peatones: 78,
-    asistencias: 81,
+    estrellas: 4,
+    anioTest: 2025,
+    adulto: 79,
+    infantil: 85,
+    peatones: 83,
+    asistencias: 76,
     videoCrashId: null,
     videoAlceId: null,
   },
