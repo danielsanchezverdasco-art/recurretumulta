@@ -311,3 +311,12 @@ export function garantiaDeMarca(marca: string, categoria: GarantiaMarca["categor
   const norm = marca.trim().toLowerCase();
   return GARANTIAS_MARCAS.find(g => g.categoria === categoria && g.marca.toLowerCase() === norm);
 }
+
+// Primera URL limpia (http/https) del campo fuente de la garantía de marca.
+// El campo fuente a veces trae texto («concesionario oficial X») tras la URL;
+// solo se enlaza la URL, nunca el texto. Sin URL no hay enlace.
+export function fuenteUrlGarantia(g: GarantiaMarca | null | undefined): string | null {
+  if (!g || !g.fuente) return null;
+  const m = g.fuente.match(/https?:\/\/[^\s);,]+/);
+  return m ? m[0] : null;
+}

@@ -6,7 +6,6 @@ import {
   ArrowLeftRight,
   BatteryCharging,
   BookOpen,
-  Filter,
   Fuel,
   Gauge,
   Package,
@@ -54,7 +53,7 @@ import { NotaCosa, MarcaAguaCosa } from "@/components/Cosa.tsx";
 import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
 import BannerJuegoMonos from "@/components/caza-monos/BannerJuegoMonos";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
-import { garantiaDeMarca } from "@/lib/garantias-marcas.ts";
+import { fuenteUrlGarantia, garantiaDeMarca } from "@/lib/garantias-marcas.ts";
 import { tituloFichaCoche } from "@/lib/seo-titulo-ficha.ts";
 import type { CocheComparador } from "@/lib/comparador-coches-data.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
@@ -348,7 +347,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           {
             q: tp?.faqPreguntaEtiqueta ?? `¿Qué etiqueta DGT lleva el ${nombre}?`,
             a: tp?.faqEtiqueta ?? (sinTarifaEspana(coche)
-              ? `Le correspondería la ${coche.etiquetaDgt === "Cero" ? "CERO" : coche.etiquetaDgt}; aún sin tarifa en España.`
+              ? `El ${nombre} llevaría la etiqueta ${coche.etiquetaDgt === "Cero" ? "CERO" : coche.etiquetaDgt}; aún sin tarifa en España.`
               : `El ${nombre} tiene etiqueta DGT «${coche.etiquetaDgt}».`),
           },
         ]
@@ -789,12 +788,21 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           </p>
           {(() => {
             const g = garantiaDeMarca(coche.marca, "coches");
+            // 10/11/2026 (AdSense A6): la nota de marca verbatim se repetía en
+            // decenas de fichas; queda solo el dato (años/km) y el enlace a la
+            // fuente oficial. El detalle vive en la fuente, no en la ficha.
+            const fuente = fuenteUrlGarantia(g);
             return g && g.anios != null ? (
               <p className="mt-2 text-sm text-gray-500">
                 {`🛡️ Garantía oficial ${coche.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
-                {/* 20/10/2026: cortar solo en fin de frase (". "), no en cualquier
-                    punto: el split(".") truncaba «100.000 km» a «100» (Toyota). */}
-                {g.nota ? <span className="text-gray-400"> ({g.nota.split(". ")[0]})</span> : null}
+                {fuente ? (
+                  <>
+                    {" · "}
+                    <a href={fuente} target="_blank" rel="noopener noreferrer" className="font-semibold text-red-600 hover:underline">
+                      condiciones oficiales
+                    </a>
+                  </>
+                ) : null}
               </p>
             ) : null;
           })()}
@@ -1030,31 +1038,11 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
                 <p className="mt-1 text-xs font-semibold text-gray-500">
                   📍 Ubicación: {coche.mantenimientoDIY.filtroPolenUbicacion}
                 </p>
-                <ol className="mt-2 space-y-1.5">
-                  {coche.mantenimientoDIY.filtroPolenPasos.map((p, i) => (
-                    <li key={i} className="flex gap-2 text-sm text-gray-700">
-                      <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-gray-900 text-[11px] font-black text-white">{i + 1}</span>
-                      <span>{p}</span>
-                    </li>
-                  ))}
-                </ol>
+                {/* 10/11/2026 (AdSense A6): los pasos genéricos de cambio de
+                    filtro («Suelta los clips…», «Abre la guantera…») eran
+                    verbatim en decenas de fichas; queda solo la ubicación,
+                    que sí es propia del modelo. */}
               </div>
-
-              {coche.mantenimientoDIY.filtroAirePasos && coche.mantenimientoDIY.filtroAirePasos.length > 0 && (
-                <div className="rounded-2xl border border-gray-200 bg-gray-50 p-4">
-                  <h3 className="flex items-center gap-2 text-base font-extrabold text-gray-900">
-                    <Filter className="h-4 w-4 text-red-600" /> Cambiar el filtro de aire
-                  </h3>
-                  <ol className="mt-2 space-y-1.5">
-                    {coche.mantenimientoDIY.filtroAirePasos.map((p, i) => (
-                      <li key={i} className="flex gap-2 text-sm text-gray-700">
-                        <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-gray-900 text-[11px] font-black text-white">{i + 1}</span>
-                        <span>{p}</span>
-                      </li>
-                    ))}
-                  </ol>
-                </div>
-              )}
 
               {coche.mantenimientoDIY.videoTutorialUrl && (
                 <div className="overflow-hidden rounded-2xl border border-gray-200">

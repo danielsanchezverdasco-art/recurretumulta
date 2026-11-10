@@ -45,7 +45,7 @@ import { NotaCosa, MarcaAguaCosa } from "@/components/Cosa.tsx";
 import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
 import BannerJuegoMonos from "@/components/caza-monos/BannerJuegoMonos";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
-import { garantiaDeMarca } from "@/lib/garantias-marcas.ts";
+import { fuenteUrlGarantia, garantiaDeMarca } from "@/lib/garantias-marcas.ts";
 import { tituloFichaPatinete } from "@/lib/seo-titulo-ficha.ts";
 import type { PatineteComparador } from "@/lib/comparador-patinetes-data.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
@@ -189,7 +189,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
     },
     {
       q: `¿Necesito seguro para el ${nombre}?`,
-      a: `Sí, obligatorio desde 2026 (Ley 5/2025).`,
+      a: `Sí: el ${nombre} es un VMP y el seguro será obligatorio desde 2026 (Ley 5/2025).`,
     },
   ];
 
@@ -556,10 +556,21 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
           <TablaVersiones versiones={patinete.versiones} nombre={nombre} />
           {(() => {
             const g = garantiaDeMarca(patinete.marca, "patinetes");
+            // 10/11/2026 (AdSense A6): la nota de marca verbatim se repetía en
+            // decenas de fichas; queda solo el dato (años/km) y el enlace a la
+            // fuente oficial. El detalle vive en la fuente, no en la ficha.
+            const fuente = fuenteUrlGarantia(g);
             return g && g.anios != null ? (
               <p className="mt-3 text-sm text-gray-500">
                 {`🛡️ Garantía oficial ${patinete.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
-                {g.nota ? <span className="text-gray-400"> ({g.nota.split(".")[0]})</span> : null}
+                {fuente ? (
+                  <>
+                    {" · "}
+                    <a href={fuente} target="_blank" rel="noopener noreferrer" className="font-semibold text-red-600 hover:underline">
+                      condiciones oficiales
+                    </a>
+                  </>
+                ) : null}
               </p>
             ) : null;
           })()}
@@ -646,19 +657,10 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
                 </div>
               )}
 
-              {patinete.mantenimientoDIY.trucos && patinete.mantenimientoDIY.trucos.length > 0 && (
-                <div className="rounded-2xl border border-amber-200 bg-amber-50 p-4">
-                  <h3 className="text-base font-extrabold text-gray-900">💡 Trucos de cuidado</h3>
-                  <ul className="mt-2 space-y-1.5">
-                    {patinete.mantenimientoDIY.trucos.map((t, i) => (
-                      <li key={i} className="flex gap-2 text-sm text-gray-700">
-                        <span className="font-bold text-amber-600">·</span>
-                        <span>{t}</span>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              )}
+              {/* 10/11/2026 (AdSense A6): los «trucos» eran consejos genéricos
+                  verbatim en decenas de fichas (batería 21×, lluvia 18×…);
+                  no se renderizan. Los campos propios del modelo
+                  (presión, tornillería, firmware, frenos) se conservan. */}
 
               {patinete.mantenimientoDIY.videoTutorialUrl && (
                 <div className="overflow-hidden rounded-2xl border border-gray-200">

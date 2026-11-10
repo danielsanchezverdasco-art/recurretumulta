@@ -40,7 +40,7 @@ import { NotaCosa, MarcaAguaCosa } from "@/components/Cosa.tsx";
 import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
 import BannerJuegoMonos from "@/components/caza-monos/BannerJuegoMonos";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
-import { garantiaDeMarca } from "@/lib/garantias-marcas.ts";
+import { fuenteUrlGarantia, garantiaDeMarca } from "@/lib/garantias-marcas.ts";
 import { tituloFichaMoto } from "@/lib/seo-titulo-ficha.ts";
 import type { MotoComparador } from "@/lib/comparador-motos-data.ts";
 import { propio } from "@/lib/textos-propios.ts";
@@ -593,10 +593,22 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
           <TablaVersiones versiones={moto.versiones} nombre={nombre} />
           {(() => {
             const g = garantiaDeMarca(moto.marca, "motos");
+            // 10/11/2026 (AdSense A6): la nota de marca verbatim se repetía en
+            // decenas de fichas; queda solo el dato (años/km) y el enlace a la
+            // fuente oficial. La nota propia del modelo (tp) sí se conserva.
+            const fuente = fuenteUrlGarantia(g);
             return g && g.anios != null ? (
               <p className="mt-3 text-sm text-gray-500">
                 {`🛡️ Garantía oficial ${moto.marca}: `}<strong className="text-gray-800">{`${g.anios} años${g.km ? ` / ${fmtMiles(g.km)} km` : ""}`}</strong>
-                {tp?.garantiaNota ? <span className="text-gray-400"> ({tp.garantiaNota})</span> : g.nota ? <span className="text-gray-400"> ({g.nota.split(".")[0]})</span> : null}
+                {tp?.garantiaNota ? <span className="text-gray-400"> ({tp.garantiaNota})</span> : null}
+                {fuente ? (
+                  <>
+                    {" · "}
+                    <a href={fuente} target="_blank" rel="noopener noreferrer" className="font-semibold text-red-600 hover:underline">
+                      condiciones oficiales
+                    </a>
+                  </>
+                ) : null}
               </p>
             ) : null;
           })()}
