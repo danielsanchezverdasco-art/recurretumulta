@@ -112,8 +112,6 @@ Los pedidos se abrirán a finales de enero de 2027, según el comunicado oficial
 
 BMW no ha anunciado el precio. Como referencia de la gama, consulta la <a href=/coches/bmw-ix3-50-xdrive-2026-precio-ficha-tecnica/>ficha del BMW iX3 50 xDrive</a>.
 
-**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
-
 *Fuentes: <a href=https://www.motortenerife.com/texto-diario/mostrar/6052421/nuevo-bmw-ix3-m60-xdrive>motortenerife.com (nota de prensa BMW, 15/10/2026)</a>.*`,
   },
   {
@@ -218,9 +216,7 @@ BYD no lo ha anunciado. Hoy, el Surf en España se sitúa de 20.140 a 24.490 eur
 
 El precio en China (se estima en torno a 100.000 yuanes, unos 13.000 euros, sin confirmar), la fecha europea, si las baterías son Blade de segunda generación, los tiempos de carga reales y el consumo WLTP oficial. Nada de eso conviene darlo por cerrado todavía.
 
-*Fuentes: <a href=https://www.autonocion.com/motornocion/byd-seagull-dolphin-surf-segunda-generacion-china/>Autonocion (lanzamiento y datos, 15/10/2026)</a>, <a href=https://carnewschina.com/2026/09/25/second-gen-byd-seagull-cabin-revealed-as-ev-grows-into-a-4-2-meter-five-seat-hatchback/>CarNewsChina (ficha del MIIT y comparativa)</a>, <a href=https://electrek.co/2026/09/24/byd-releases-first-official-images-bigger-seagull-ev/>Electrek (imágenes oficiales e interior)</a>, <a href=https://www.somoselectricos.com/coches-electricos/nuevo-byd-seagull-lanza-semana-que-viene-son-todas-novedades-que-trae/20261015082511064369.html>Somos Eléctricos (carga ultrarrápida y LiDAR)</a>.*
-
-**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.`,
+*Fuentes: <a href=https://www.autonocion.com/motornocion/byd-seagull-dolphin-surf-segunda-generacion-china/>Autonocion (lanzamiento y datos, 15/10/2026)</a>, <a href=https://carnewschina.com/2026/09/25/second-gen-byd-seagull-cabin-revealed-as-ev-grows-into-a-4-2-meter-five-seat-hatchback/>CarNewsChina (ficha del MIIT y comparativa)</a>, <a href=https://electrek.co/2026/09/24/byd-releases-first-official-images-bigger-seagull-ev/>Electrek (imágenes oficiales e interior)</a>, <a href=https://www.somoselectricos.com/coches-electricos/nuevo-byd-seagull-lanza-semana-que-viene-son-todas-novedades-que-trae/20261015082511064369.html>Somos Eléctricos (carga ultrarrápida y LiDAR)</a>.*`,
   },
   {
     slug: "tesla-roadster-2028-presentacion",
@@ -340,8 +336,6 @@ El 40 xDrive rinde 374 CV; el 50 xDrive, 469 CV, y el M60 xDrive llega a **612 C
 
 El paso del 10 al 80 % lleva **21 minutos** a 400 kW, con 387 km de autonomía recuperados en 10 minutos (variantes con batería grande). Los datos del M60 son provisionales.
 
-**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
-
 *Fuentes: <a href=https://www.autocasion.com/actualidad/pruebas/bmw-ix4-2026/>Autocasion (presentación oficial, datos técnicos y precios, 09/10/2026)</a>, <a href=https://www.somoselectricos.com/coches-electricos/bmw-presenta-nuevo-ix4-electrico-828-km-autonomia-carga-400-kw/20261008070054064052.html>Somos Eléctricos (versiones, dimensiones y precios por mercado, 08/10/2026)</a>, <a href=https://www.tecnobreak.com/noticias/el-nuevo-bmw-ix4-ya-esta-confirmado-para-portugal-y-una-autonomia-impresionante/>TecnoBreak (precios Portugal y producción en Debrecen)</a>, <a href=https://www.autonocion.com/bmw-ix4-electrico-detalles-tecnicos-precios-autonomia-recarga-dimensiones/>Autonoción (detalle técnico completo)</a>.*
 `,
   },
@@ -448,8 +442,6 @@ Sí. Con 215 km de autonomía eléctrica supera ampliamente los 40 km mínimos e
 ### ¿El XPeng L03 tiene prueba EuroNCAP?
 
 De momento **no hay ninguna prueba EuroNCAP publicada** del L03. Otros XPeng europeos como el G9 sí tienen 5 estrellas, pero del L03 aún no hay datos: actualizaremos la ficha en cuanto se publiquen.
-
-**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
 
 *Fuentes: <a href=https://www.autonocion.com/xpeng-l03-precio-espana/>Autonoción (precio, versiones y entregas en España)</a>, <a href=https://www.somoselectricos.com/hibridos-enchufables/xpeng-lanza-espana-nuevo-suv-1017-km-autonomia-37500-euros/20261016133537064419.html>Somos Eléctricos (ficha técnica completa y condiciones del precio, 16/10/2026)</a>, <a href=https://www.hibridosyelectricos.com/coches/37500-con-242-cv-1017-km-autonomia-llega-espana-suv-hibrido-465-metros-promete-215-km-sin-gastar-gasolina_89943_102.html>Híbridos y Eléctricos (diseño de JuanMa López y datos WLTP, 15/10/2026)</a>, <a href=https://elperiodicodelaenergia.com/xpeng-abre-los-pedidos-del-l03-powerx-con-1-017-km-de-autonomia-combinada-y-por-37-500-euros/>El Periódico de la Energía (sistema Kunpeng y versiones 2027)</a>.*`,
   },

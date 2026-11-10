@@ -123,8 +123,6 @@ También es una **filtración** de la misma reunión: una berlina estilo Panamer
 
 No hay ningún anuncio oficial para Europa. Es un modelo desarrollado para el mercado estadounidense, fabricado en Kentucky.
 
-**¿Tienes una multa y no sabes si puedes recurrirla?** Antes de decidir nada, <a href=https://recurretumulta.online/#analizador>analiza tu multa</a>: el analizador revisa tu caso y te dice qué opciones tienes.
-
 *Fuentes: <a href=https://bankb.it/has-ford-got-cheap-car-fever-a-25k-crossover-is-supposedly-on-the-way-196056>Bankbit (filtración del SUV de 25.000 $ y el Mustang de 4 puertas, vía Automotive News)</a>, <a href=https://electrek.co/2026/08/25/ford-reveals-new-25000-crossover-suv-dealers/>Electrek (reunión de Las Vegas y datos del crossover)</a>, <a href=https://www.carscoops.com/2026/08/ford-budget-suv-pricing/>Carscoops (SUV barato y Mustang Mach 4 de 4 puertas)</a>, <a href=https://www.carscoops.com/2026/08/ford-fathom-pricing/>Carscoops (nombre y precio del Fathom)</a>, <a href=https://electrek.co/2026/10/15/fords-fathom-ev-pickup-spotted-again-ahead-of-debut/>Electrek (prototipos del Fathom y foto oficial)</a>, <a href=https://gmauthority.com/blog/2026/08/ford-fathom-electric-pickup-to-start-at-28k-with-no-gm-rival/>GM Authority (precio y plataforma UEV)</a>, <a href=https://www.act-news.com/news/ford-fathom-a-new-electric-pickup-aimed-at-affordability-over-towing-muscle/>ACT News (datos técnicos y fabricación en Louisville)</a>, <a href=https://fordauthority.com/2026/10/poll-what-affordable-ford-would-you-revive-before-2030/>Ford Authority (plan de 6 modelos asequibles hasta 2030)</a>.*`,
   },
 ];
