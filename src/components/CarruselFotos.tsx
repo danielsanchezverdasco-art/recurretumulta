@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { Lightbox } from "@/components/motion.tsx";
+import { creditoTexto } from "@/components/CreditoFoto.tsx";
 
 export interface FotoCarrusel {
   src: string;
@@ -68,7 +69,9 @@ export default function CarruselFotos({
 
   if (n === 0) return null;
 
-  const credito = fotos[idx]?.credito;
+  // 10/11/2026 (AdSense F-22): si la foto no trae crédito explícito, se usa
+  // el del mapa de créditos o el marcador "(foto...)" de su alt.
+  const credito = fotos[idx]?.credito ?? creditoTexto(fotos[idx]?.src, fotos[idx]?.alt) ?? undefined;
 
   return (
     <div className="my-2">

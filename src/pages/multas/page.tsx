@@ -275,6 +275,51 @@ export default function MultasIndexPage() {
               }),
             }}
           />
+          {/* 10/11/2026 (AdSense F-17): la FAQ visible de esta página no tenía
+              FAQPage; se emite con el texto exacto que se ve en la página. */}
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify({
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [
+                  {
+                    "@type": "Question",
+                    "name": "¿Cuánto tiempo tengo para recurrir una multa?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Dispones de 20 días naturales desde la notificación para presentar alegaciones o pagar con el 50 % de descuento por pronto pago.",
+                    },
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "¿Pierdo el descuento del 50 % si recurro?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Sí. Presentar alegaciones implica renunciar al descuento por pronto pago (art. 94 del texto refundido de la Ley de Tráfico). Solo puedes optar por una de las dos vías.",
+                    },
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "¿Dónde puedo consultar si tengo multas?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "En el TESTRA (Tablón Edictal de Sanciones de Tráfico) y en la DEV (Dirección Electrónica Vial) de la DGT, accesibles desde su sede electrónica.",
+                    },
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "¿Qué pasa si no pago una multa?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "La deuda pasa a vía de apremio con recargos e intereses, y la Administración puede embargar bienes o saldos de tus cuentas para cobrarla.",
+                    },
+                  },
+                ],
+              }),
+            }}
+          />
 
           {/* Footer */}
           <SharedFooter />

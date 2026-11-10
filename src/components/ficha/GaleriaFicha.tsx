@@ -174,7 +174,7 @@ export default function GaleriaFicha({
           ))}
         </div>
       )}
-      <CreditoFoto src={lista[idx]?.src} />
+      <CreditoFoto src={lista[idx]?.src} alt={lista[idx]?.alt} />
 
       {grande !== null && lista[grande] && (
         <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/95" role="dialog" aria-modal="true" aria-label={`Fotos del ${nombre} a pantalla completa`} onClick={() => setGrande(null)}>

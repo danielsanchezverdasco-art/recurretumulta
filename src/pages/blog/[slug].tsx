@@ -47,16 +47,31 @@ import {
   type FichaRef,
   type TipoFicha,
 } from "@/lib/ficha-match.ts";
-import { creditoDe } from "@/components/CreditoFoto.tsx";
+import { creditoDe, creditoDeAlt } from "@/components/CreditoFoto.tsx";
 import { conBarra } from "@/lib/barra-final";
 
 // 13/10/2026: atribución visible bajo las fotos CC BY / CC BY-SA del cuerpo del artículo.
-const escAttr = (x: string) => x.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");
+// 10/11/2026 (AdSense F-22): el regex exigía src="..." entre comillas, pero la
+// convención de redacción es src=/media/... SIN comillas: en el vivo no hay ni
+// un solo <small> de crédito en los 1.377 blogs. Se acepta src con o sin
+// comillas. Si la foto no está en el mapa de créditos, se usa el marcador
+// "(foto...)" del alt de la propia imagen (solo 5 % de las fotos del cuerpo
+// estaban en el mapa; el resto salía sin crédito).
+const escAttr = (x: string) => x.replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 function conCreditos(html: string): string {
-  return html.replace(/<img\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/g, (tag, src) => {
+  return html.replace(/<img\b[^>]*\bsrc=(?:"([^"]+)"|'([^']+)'|([^\s>]+))[^>]*>/g, (tag, srcQ, srcS, srcU) => {
+    const src = srcQ ?? srcS ?? srcU;
     const c = creditoDe(src);
-    if (!c) return tag;
-    return `${tag}<small class="block mt-1 text-[10px] leading-tight text-gray-400">Foto: <a href="${escAttr(c.url)}" target="_blank" rel="noopener noreferrer nofollow" class="underline">${escAttr(c.autor)}</a> ${c.licencia === "prensa" ? "(prensa)" : `· ${escAttr(c.licencia)} · Wikimedia Commons`}</small>`;
+    if (c) {
+      return `${tag}<small class="block mt-1 text-[10px] leading-tight text-gray-400">Foto: <a href="${escAttr(c.url)}" target="_blank" rel="noopener noreferrer nofollow" class="underline">${escAttr(c.autor)}</a> ${c.licencia === "prensa" ? "(prensa)" : `· ${escAttr(c.licencia)} · Wikimedia Commons`}</small>`;
+    }
+    const altMatch = tag.match(/\balt=(?:"([^"]*)"|'([^']*)'|([^\s>]*))/);
+    const textoAlt = creditoDeAlt(altMatch?.[1] ?? altMatch?.[2] ?? altMatch?.[3] ?? null);
+    if (!textoAlt) return tag;
+    // El alt viene escapado en HTML: se desescapa antes de volver a escapar.
+    const textoPlano = textoAlt.replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&amp;/g, "&");
+    const texto = textoPlano.charAt(0).toUpperCase() + textoPlano.slice(1);
+    return `${tag}<small class="block mt-1 text-[10px] leading-tight text-gray-400">${escAttr(texto)}</small>`;
   });
 }
 import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
@@ -65,39 +80,160 @@ import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 import CosaEnBanner from "@/components/CosaEnBanner.tsx";
 import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 
-// Extrae parejas pregunta/respuesta de la sección "Preguntas frecuentes" del markdown
+// Extrae parejas pregunta/respuesta de la sección "Preguntas frecuentes" del contenido
 // para generar el schema FAQPage (rich snippets en Google).
+// 10/11/2026 (AdSense F-17): el parser solo entendía markdown "## ... + ###" y
+// 17 artículos usan otros formatos sin schema pese a tener la FAQ visible:
+// HTML <h2>/<h3>, preguntas en negrita "**¿...?**", lista P:/R: y encabezados
+// con emoji/número ("## 🤔 1. Preguntas frecuentes de la calle: ...").
 function extractFaqs(content: string): { question: string; answer: string }[] {
-  const faqs: { question: string; answer: string }[] = [];
   const normalized = content.replace(/\\n/g, "\n");
-  // Localizar la sección de preguntas frecuentes
-  const faqHeader = normalized.search(/^##\s+Preguntas frecuentes/im);
-  if (faqHeader === -1) return faqs;
-  const faqSection = normalized.slice(faqHeader);
-  // Cada pregunta es un ### seguido de párrafos de respuesta
-  const blocks = faqSection.split(/^###\s+/m).slice(1);
-  for (const block of blocks) {
-    const lines = block.split("\n");
-    const question = lines[0].trim().replace(/\*\*/g, "");
-    const answerLines: string[] = [];
-    for (let i = 1; i < lines.length; i++) {
-      const line = lines[i];
-      if (/^#{1,3}\s+/.test(line)) break; // siguiente encabezado
-      answerLines.push(line);
-    }
-    // Limpiar markdown básico para el texto del schema
-    const answer = answerLines.join("\n").trim()
+  // Localizar la sección: encabezado markdown "## ...Preguntas frecuentes..."
+  // (con posible emoji/número delante) o HTML "<h2>...Preguntas frecuentes...</h2>".
+  const mdHeader = normalized.match(/^##.*Preguntas frecuentes.*$/im);
+  const htmlHeader = normalized.match(/<h2[^>]*>[^<]*Preguntas frecuentes[^<]*<\/h2>/i);
+  const mdIdx = mdHeader?.index ?? -1;
+  const htmlIdx = htmlHeader?.index ?? -1;
+  if (mdIdx === -1 && htmlIdx === -1) return [];
+  let section: string;
+  let rest: string;
+  if (htmlIdx !== -1 && (mdIdx === -1 || htmlIdx < mdIdx)) {
+    rest = normalized.slice(htmlIdx + htmlHeader![0].length);
+    // La sección HTML termina en el siguiente <h2 (o al final del contenido).
+    const end = rest.search(/<h2[\s>]/i);
+    section = end !== -1 ? rest.slice(0, end) : rest;
+  } else {
+    rest = normalized.slice(mdIdx + mdHeader![0].length);
+    // La sección markdown termina en el siguiente encabezado de nivel 2.
+    const end = rest.search(/^##\s+/m);
+    section = end !== -1 ? rest.slice(0, end) : rest;
+  }
+
+  // Limpieza a texto plano (el schema debe coincidir con lo visible).
+  const limpiar = (s: string) =>
+    s
       .replace(/\*\*([^*]+)\*\*/g, "$1")
       .replace(/\[([^\]]+)\]\(([^)]+)\)/g, "$1")
       .replace(/<a[^>]*>([^<]*)<\/a>/g, "$1")
       .replace(/<[^>]+>/g, "")
       .replace(/\n{3,}/g, "\n\n")
       .trim();
-    if (question && answer) {
-      faqs.push({ question, answer });
+
+  // (a) Markdown: "### Pregunta" + párrafos de respuesta.
+  const porH3 = (text: string): { question: string; answer: string }[] => {
+    const faqs: { question: string; answer: string }[] = [];
+    const blocks = text.split(/^###\s+/m).slice(1);
+    for (const block of blocks) {
+      const lines = block.split("\n");
+      const question = limpiar(lines[0]);
+      const answerLines: string[] = [];
+      for (let i = 1; i < lines.length; i++) {
+        if (/^#{1,3}\s+/.test(lines[i])) break; // siguiente encabezado
+        answerLines.push(lines[i]);
+      }
+      const answer = limpiar(answerLines.join("\n"));
+      if (question && answer) faqs.push({ question, answer });
     }
-  }
-  return faqs;
+    return faqs;
+  };
+
+  // (b) HTML: "<h3>Pregunta</h3>" + uno o varios "<p>Respuesta</p>".
+  const porHtmlH3 = (text: string): { question: string; answer: string }[] => {
+    const faqs: { question: string; answer: string }[] = [];
+    for (const m of text.matchAll(/<h3[^>]*>(.*?)<\/h3>\s*((?:<p[^>]*>.*?<\/p>\s*)+)/gis)) {
+      const question = limpiar(m[1]);
+      const answer = limpiar(m[2]);
+      if (question && answer) faqs.push({ question, answer });
+    }
+    return faqs;
+  };
+
+  // (c) Markdown: pregunta en negrita "**¿...?**" sola en su línea + párrafos.
+  const porNegrita = (text: string): { question: string; answer: string }[] => {
+    const faqs: { question: string; answer: string }[] = [];
+    const lines = text.split("\n");
+    let cur: { q: string; a: string[] } | null = null;
+    const flush = () => {
+      if (cur) {
+        const answer = limpiar(cur.a.join("\n"));
+        if (cur.q && answer) faqs.push({ question: cur.q, answer });
+      }
+      cur = null;
+    };
+    for (const line of lines) {
+      const m = line.match(/^\s*\*\*(¿[^*]+\?)\*\*\s*$/);
+      if (m) {
+        flush();
+        cur = { q: limpiar(m[1]), a: [] };
+        continue;
+      }
+      if (/^#{1,3}\s+/.test(line)) {
+        flush();
+        break; // siguiente encabezado: fuera de la FAQ
+      }
+      if (cur) cur.a.push(line);
+    }
+    flush();
+    return faqs;
+  };
+
+  // (d) HTML: "<strong>¿...?</strong>" + texto hasta el siguiente <strong> o encabezado.
+  const porStrong = (text: string): { question: string; answer: string }[] => {
+    const faqs: { question: string; answer: string }[] = [];
+    for (const m of text.matchAll(/<strong>(¿[^<]+\?)<\/strong>\s*([\s\S]*?)(?=<strong>|<h[123][\s>]|$)/gi)) {
+      const question = limpiar(m[1]);
+      const answer = limpiar(m[2]);
+      if (question && answer) faqs.push({ question, answer });
+    }
+    return faqs;
+  };
+
+  // (e) Lista P:/R:: "- **P: ¿...?**" + "- *R:* respuesta" (y continuación).
+  const porPR = (text: string): { question: string; answer: string }[] => {
+    const faqs: { question: string; answer: string }[] = [];
+    const lines = text.split("\n");
+    let cur: { q: string; a: string[] } | null = null;
+    const flush = () => {
+      if (cur) {
+        const answer = limpiar(cur.a.join("\n"));
+        if (cur.q && answer) faqs.push({ question: cur.q, answer });
+      }
+      cur = null;
+    };
+    for (const line of lines) {
+      const m = line.match(/^\s*-\s*\*\*P:\s*(¿[^*]+\?)\*\*\s*$/);
+      if (m) {
+        flush();
+        cur = { q: limpiar(m[1]), a: [] };
+        continue;
+      }
+      if (/^#{1,3}\s+/.test(line)) {
+        flush();
+        break;
+      }
+      if (cur) {
+        const r = line.match(/^\s*-\s*\*R:\*\s*(.*)$/);
+        cur.a.push(r ? r[1] : line);
+      }
+    }
+    flush();
+    return faqs;
+  };
+
+  // Primer formato con resultados (los formatos no se mezclan en un mismo post).
+  const probar = (text: string) => {
+    for (const parser of [porH3, porHtmlH3, porNegrita, porStrong, porPR]) {
+      const faqs = parser(text);
+      if (faqs.length > 0) return faqs;
+    }
+    return [];
+  };
+  // Primero la sección acotada al siguiente encabezado; si sale vacía, el resto
+  // del artículo (hay posts con la FAQ mal formada: el encabezado va vacío y
+  // las preguntas aparecen tras otra sección, p. ej. burstner-campeo-c-600).
+  const enSeccion = probar(section);
+  if (enSeccion.length > 0) return enSeccion;
+  return probar(rest);
 }
 
 // Simple markdown-like renderer
@@ -621,6 +757,10 @@ function BlogPostPage() {
   const contentWithoutHero = heroTag
     ? post.content.replace(heroTag[0], "").replace(/^\s*\n/, "")
     : post.content;
+  // 10/11/2026 (AdSense F-22): crédito del hero con el mapa o, si no hay
+  // entrada, con el marcador "(foto...)" del alt de la propia imagen.
+  const heroCredito = creditoDe(heroSrc);
+  const heroCreditoAlt = heroCredito ? null : creditoDeAlt(heroAlt);
 
   // ── Ficha destacada (03/10/2026, orden Daniel): se carga en paralelo con el
   // artículo (estado cocheDestacado) y se muestra ANTES de la historia. ──
@@ -652,15 +792,19 @@ function BlogPostPage() {
               <div className="absolute inset-0 bg-gradient-to-b from-black/75 via-black/45 to-black/90" aria-hidden="true" />
               <div className="absolute inset-0 bg-gradient-to-tr from-red-950/50 via-transparent to-transparent" aria-hidden="true" />
               <CosaEnBanner />
-              {creditoDe(heroSrc) && (
+              {heroCredito ? (
                 <p className="absolute bottom-1 right-2 z-10 text-[10px] text-white/70">
                   Foto:{" "}
-                  <a href={creditoDe(heroSrc)!.url} target="_blank" rel="noopener noreferrer nofollow" className="underline">
-                    {creditoDe(heroSrc)!.autor}
+                  <a href={heroCredito.url} target="_blank" rel="noopener noreferrer nofollow" className="underline">
+                    {heroCredito.autor}
                   </a>{" "}
-                  {creditoDe(heroSrc)!.licencia === "prensa" ? "(prensa)" : `· ${creditoDe(heroSrc)!.licencia} · Wikimedia Commons`}
+                  {heroCredito.licencia === "prensa" ? "(prensa)" : `· ${heroCredito.licencia} · Wikimedia Commons`}
                 </p>
-              )}
+              ) : heroCreditoAlt ? (
+                <p className="absolute bottom-1 right-2 z-10 text-[10px] text-white/70">
+                  {heroCreditoAlt.charAt(0).toUpperCase() + heroCreditoAlt.slice(1)}
+                </p>
+              ) : null}
             </>
           ) : (
             <div className="absolute inset-0 bg-gradient-to-b from-gray-950 to-gray-900" aria-hidden="true" />
