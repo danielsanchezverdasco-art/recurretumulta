@@ -26,7 +26,7 @@ export default function VideoYoutube({ id, titulo }: { id: string; titulo: strin
   return (
     <button type="button" onClick={() => setOn(true)} aria-label={`Reproducir vídeo: ${titulo}`} className="group relative block aspect-video w-full overflow-hidden bg-black">
       {thumb && (
-        <img src={thumb} alt="" loading="lazy" decoding="async" width={480} height={360} className="h-full w-full object-cover opacity-90 transition group-hover:opacity-100"
+        <img src={thumb} alt={`Miniatura del vídeo: ${titulo}`} loading="lazy" decoding="async" width={480} height={360} className="h-full w-full object-cover opacity-90 transition group-hover:opacity-100"
           onError={() => setThumb(`https://i.ytimg.com/vi/${vid}/mqdefault.jpg`)} />
       )}
       <span className="absolute inset-0 flex items-center justify-center">

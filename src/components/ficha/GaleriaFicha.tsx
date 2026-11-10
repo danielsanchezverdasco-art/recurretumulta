@@ -120,7 +120,9 @@ export default function GaleriaFicha({
                 src={f.src}
                 srcSet={i === 0 ? srcSetDe(f.src, f.ancho) : undefined}
                 sizes={i === 0 && srcSetDe(f.src) ? SIZES : undefined}
-                alt={f.alt}
+                // 10/11/2026 (AdSense L2): alt descriptivo (modelo + vista) aunque
+                // el dato venga vacío; nunca alt="" en la foto principal.
+                alt={f.alt || `${nombre} — foto ${i + 1}`}
                 width={f.ancho}
                 height={f.alto}
                 loading={i === 0 ? "eager" : "lazy"}
@@ -169,7 +171,7 @@ export default function GaleriaFicha({
           {lista.map((f, i) => (
             <button key={f.src} type="button" onClick={() => irA(i)} aria-label={`Ver foto ${i + 1}`} aria-current={i === idx}
               className={`h-14 w-24 shrink-0 overflow-hidden rounded-lg border-2 transition ${i === idx ? "border-red-600" : "border-transparent opacity-70 hover:opacity-100"}`}>
-              <img src={f.src} alt="" loading="lazy" decoding="async" className={`h-full w-full ${fit}`} />
+              <img src={f.src} alt={f.alt || `${nombre} — foto ${i + 1}`} loading="lazy" decoding="async" className={`h-full w-full ${fit}`} />
             </button>
           ))}
         </div>
@@ -178,7 +180,7 @@ export default function GaleriaFicha({
 
       {grande !== null && lista[grande] && (
         <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/95" role="dialog" aria-modal="true" aria-label={`Fotos del ${nombre} a pantalla completa`} onClick={() => setGrande(null)}>
-          <img src={lista[grande].src} alt={lista[grande].alt} className="max-h-[90vh] max-w-[96vw] object-contain" onClick={(e) => e.stopPropagation()} />
+          <img src={lista[grande].src} alt={lista[grande].alt || `${nombre} — foto ${grande + 1}`} className="max-h-[90vh] max-w-[96vw] object-contain" onClick={(e) => e.stopPropagation()} />
           <button type="button" aria-label="Cerrar" onClick={() => setGrande(null)} className="absolute right-3 top-3 rounded-full bg-white/10 p-2 text-white hover:bg-white/20"><X className="h-6 w-6" /></button>
           {n > 1 && (
             <>

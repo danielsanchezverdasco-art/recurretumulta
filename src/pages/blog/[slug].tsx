@@ -309,6 +309,9 @@ function BlogPostPage() {
   const [dims, setDims] = useState<Record<string, [number, number]>>({});
   const [relatedStatic, setRelatedStatic] = useState<BlogLitePost[]>([]);
   const [cocheDestacado, setCocheDestacado] = useState<CocheComparador | null>(null);
+  // 10/11/2026 (AdSense L1): primera foto real de la ficha del artículo, para
+  // usarla como og:image cuando el contenido no trae ninguna imagen.
+  const [fichaFoto, setFichaFoto] = useState<string | null>(null);
   const [fichaLink, setFichaLink] = useState<string | null>(null);
   // 12/10/2026: ficha enlazada (coche/moto/patinete) para mostrar sus reseñas al final.
   const [fichaResenas, setFichaResenas] = useState<{
@@ -325,6 +328,7 @@ function BlogPostPage() {
     setGaleria(undefined);
     setRelatedStatic([]);
     setCocheDestacado(null);
+    setFichaFoto(null);
     setFichaLink(null);
     setFichaResenas(null);
     (async () => {
@@ -418,6 +422,21 @@ function BlogPostPage() {
       if (alive) setFichaResenas(fr);
       // "Ver ficha completa": solo a la ficha del modelo del artículo.
       if (alive) setFichaLink(elegida ? `/${elegida.tipo}/${elegida.id}` : null);
+      // 10/11/2026 (AdSense L1): primera foto real de la ficha elegida.
+      const fotoFicha = (() => {
+        if (!elegida) return null;
+        if (elegida.tipo === "coches") {
+          const d = elegida.dato as CocheComparador;
+          return d.imagenOficial || d.imagen || d.galeria?.[0]?.src || null;
+        }
+        if (elegida.tipo === "motos") {
+          const d = elegida.dato as MotoComparador;
+          return d.imagen || d.galeria?.[0]?.src || null;
+        }
+        const d = elegida.dato as PatineteComparador;
+        return (!d.fotoPendiente && d.foto) || d.galeria?.[0]?.src || null;
+      })();
+      if (alive) setFichaFoto(fotoFicha);
       if (!alive) return;
       setRelatedStatic(rel);
       setCocheDestacado(coche ?? null);
@@ -479,9 +498,13 @@ function BlogPostPage() {
   const ogImage = (() => {
     if (!post || isLoading) return undefined;
     const m = post.content.match(/<img[^>]*src=("[^"]*"|'[^']*'|[^\s>]+)/);
-    if (!m) return undefined;
-    const src = m[1].replace(/^["']|["']$/g, "");
-    return src.startsWith("http") ? src : `${DOMAIN}${src.startsWith("/") ? "" : "/"}${src}`;
+    if (m) {
+      const src = m[1].replace(/^["']|["']$/g, "");
+      return src.startsWith("http") ? src : `${DOMAIN}${src.startsWith("/") ? "" : "/"}${src}`;
+    }
+    // 10/11/2026 (AdSense L1): sin imagen en el contenido, la foto de la ficha
+    // del artículo (25 blogs con og genérica). Sin ficha ni foto, genérica.
+    return fichaFoto ? `${DOMAIN}${fichaFoto.startsWith("/") ? "" : "/"}${fichaFoto}` : undefined;
   })();
   // E-E-A-T 17/10/2026: herramientas según el tema del post.
   const ambitoPost = fichaLink?.startsWith("/motos/")

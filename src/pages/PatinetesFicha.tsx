@@ -201,8 +201,12 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
     marca: patinete.marca,
     modelo: patinete.modelo,
     slug: patinete.id,
+    // 10/11/2026 (AdSense L1): la primera foto real también cuando la foto
+    // principal está pendiente pero la galería tiene fotos (antes: sin image).
     image: patinete.fotoPendiente
-      ? undefined
+      ? (patinete.galeria ?? []).length
+        ? (patinete.galeria ?? []).map((g) => `https://recurretumulta.online${g.src}`)
+        : undefined
       : [
           `https://recurretumulta.online${patinete.foto}`,
           ...(patinete.galeria ?? []).map((g) => `https://recurretumulta.online${g.src}`),
@@ -272,6 +276,9 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
 
   // E-E-A-T 17/10/2026: fechas reales de la ficha (JSON-LD + bloque de autoría).
   const fechas = useFichaFechas(patinete.id);
+  // 10/11/2026 (AdSense L1): primera foto real para la og:image (foto
+  // principal si no está pendiente, si no la primera de la galería).
+  const fotoOg = (!patinete.fotoPendiente && patinete.foto) || patinete.galeria?.[0]?.src;
   useSeo({
     datePublished: fechas.publicado,
     dateModified: fechas.actualizado,
@@ -281,9 +288,10 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
     // 17/10/2026: meta con datos reales (solo se ve si titulos.csv no trae meta para la URL).
     description: metaGeo(datosGeoPatinete(patinete, nombre, null), "Ficha técnica, certificado DGT, pros y contras.", anioModelo(patinete.id)),
     canonical: `/patinetes/${patinete.id}/`,
-    ...(patinete.fotoPendiente
-      ? {}
-      : { image: `https://recurretumulta.online${patinete.foto}` }),
+    // 10/11/2026 (AdSense L1): og propia aunque no haya `foto` principal:
+    // se usa la primera foto de la galería (los 32 patinetes con og genérica
+    // tienen foto real en la galería). Sin foto real no se emite og propia.
+    ...(fotoOg ? { image: `https://recurretumulta.online${fotoOg}` } : {}),
     type: "article",
     keywords: [
       nombre,

@@ -230,7 +230,9 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
           marca: moto.marca,
           modelo: moto.modelo,
           slug: moto.id,
-          image: moto.imagen ? `https://recurretumulta.online${moto.imagen}` : undefined,
+          image: moto.imagen || moto.galeria?.[0]?.src
+            ? `https://recurretumulta.online${moto.imagen || moto.galeria[0].src}`
+            : undefined,
           url: `https://recurretumulta.online/motos/${moto.id}/`,
           descripcion: geo.frases.join(" "),
           precio: moto.precioDesde,
@@ -306,7 +308,12 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
     // 17/10/2026: meta con datos reales (solo se ve si titulos.csv no trae meta para la URL).
     description: metaGeo(datosGeoMoto({ ...moto, electrica: esMotoElectrica(moto) }, nombre, null), "Ficha técnica, carnet, pros y contras.", anioModelo(moto.id)),
     canonical: `/motos/${moto.id}/`,
-    ...(moto.imagen ? { image: `https://recurretumulta.online${moto.imagen}` } : {}),
+    // 10/11/2026 (AdSense L1): og propia aunque la moto no tenga `imagen`:
+    // se usa la primera foto de la galería (las 48 motos con og genérica
+    // tienen foto real en la galería). Sin foto real no se emite og propia.
+    ...(moto.imagen || moto.galeria?.[0]?.src
+      ? { image: `https://recurretumulta.online${moto.imagen || moto.galeria[0].src}` }
+      : {}),
     type: "article",
     keywords: [
       nombre,

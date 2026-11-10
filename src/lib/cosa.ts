@@ -97,6 +97,15 @@ export interface NotaCosaResultado {
   criterios: NotaCosaCriterio[];
   justificacion: string; // mini justificación determinista
   sinEuroNCAP: boolean;
+  /** Nº de criterios con dato real. 0 = nota vacía (0,0/10); 1 = nota de un solo dato. */
+  criteriosConDato: number;
+  /**
+   * 10/11/2026 (AdSense M3): la nota solo está calculada si hay datos suficientes.
+   * Sin criterios con dato la nota sería 0,0/10 (vacía, no la peor nota); con un
+   * solo criterio a 10 sería un 10,0/10 automático (p. ej. solo la garantía).
+   * En ambos casos no se muestra puntuación numérica.
+   */
+  calculada: boolean;
 }
 
 const clamp10 = (v: number) => Math.min(10, Math.max(0, v));
@@ -239,6 +248,12 @@ export function calcularNotaCosa(input: NotaCosaInput): NotaCosaResultado {
   const notaBruta = criterios.reduce((a, c) => a + c.puntos * c.peso, 0);
   const nota = Math.round(clamp10(notaBruta) * 10) / 10;
 
+  // 10/11/2026 (AdSense M3): sin datos suficientes la nota no está calculada.
+  // Nunca se muestra 0,0/10 (sea por falta de datos o por un solo criterio a 0)
+  // ni 10,0/10 automático (un solo criterio a 10).
+  const criteriosConDato = conDato.length;
+  const calculada = nota > 0 && !(nota === 10 && criteriosConDato < 2);
+
   // ── Justificación determinista: los 2 criterios con más aporte ──
   const aportes = criterios
     .filter((c) => c.peso > 0)
@@ -268,7 +283,7 @@ export function calcularNotaCosa(input: NotaCosaInput): NotaCosaResultado {
     // (24/10) coletilla EuroNCAP repetida en 100+ fichas eliminada: no aporta valor único
   }
 
-  return { nota, criterios, justificacion, sinEuroNCAP };
+  return { nota, criterios, justificacion, sinEuroNCAP, criteriosConDato, calculada };
 }
 
 /**

@@ -197,6 +197,35 @@ export function NotaCosa({
   }
 
   const resultado = calcularNotaCosa({ ...entrada, estrellasEuroNCAP: estrellas });
+  // 10/11/2026 (AdSense M3): sin datos suficientes no se muestra ninguna
+  // puntuación numérica: ni 0,0/10 (vacía, se lee como la peor nota) ni
+  // 10,0/10 automático (un solo criterio a 10). Se explica por qué no hay nota.
+  if (!resultado.calculada) {
+    return (
+      <section
+        ref={ref}
+        className="rtm-card mt-8 rounded-3xl border border-gray-200 bg-white p-4 sm:p-6"
+        aria-label={`La nota de Cosa para el ${nombre}`}
+      >
+        <div className="flex items-start gap-4">
+          <div className="rtm-cosa-float shrink-0">
+            <CosaAvatar size={56} />
+          </div>
+          <div className="min-w-0 flex-1">
+            <h2 className="text-xl font-extrabold text-gray-900">La nota de Cosa</h2>
+            <p className="mt-1.5 text-sm text-gray-600">
+              Sin datos suficientes para calcular la nota: esta ficha aún no tiene
+              precio, potencia, garantía u otros datos verificados con los que
+              puntuarla. Cuando la marca publique los datos, la nota aparecerá aquí.
+            </p>
+            <p className="mt-1 text-xs text-gray-500">
+              Nota automática (<a href="/metodologia/" className="underline">método</a>)
+            </p>
+          </div>
+        </div>
+      </section>
+    );
+  }
   const colorNota =
     resultado.nota >= 7.5
       ? "text-emerald-600"

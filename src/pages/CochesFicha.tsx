@@ -259,9 +259,13 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
     return () => { viva = false; };
   }, [coche.imagenOficial, coche.imagen]);
 
-  // Imagen para OG/Twitter/schema: la del hero si existe; si no, undefined y el
-  // hook useSeo usa el logo por defecto (nunca una URL rota).
-  const seoImage = heroOk && heroSrc ? `https://recurretumulta.online${heroSrc}` : undefined;
+  // Imagen para OG/Twitter/schema: se decide con DATOS, no con el probe
+  // asíncrono del hero (10/11/2026, AdSense L1): el prerender capturaba la
+  // og genérica cuando el probe fallaba o no resolvía a tiempo (ventana de
+  // medios rotos del 09/11). imagenOficial > imagen > primera de la galería.
+  // Las fotos de datos ya están saneadas (sanearCoche quita las que no existen).
+  const seoImageSrc = coche.imagenOficial || coche.imagen || coche.galeria?.[0]?.src;
+  const seoImage = seoImageSrc ? `https://recurretumulta.online${seoImageSrc}` : undefined;
 
   // Datos estrella para los Donut (solo valores reales, nunca inventados).
   const donuts: { value: number; max: number; label: string }[] = [];
@@ -607,6 +611,15 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             consumoL100: coche.consumoUnidad === "l/100km" ? coche.consumo : null,
             consumoKwh100: coche.consumoUnidad === "kWh/100km" ? coche.consumo : null,
             etiquetaDgt: coche.etiquetaDgt,
+            // 10/11/2026 (AdSense M3): la seguridad de la nota usa LA MISMA fuente
+            // que la sección Seguridad de la ficha (euroncap en línea). Si la ficha
+            // declara explícitamente que no hay test (estrellas: null), la nota no
+            // puntúa seguridad aunque el registro antiguo guarde estrellas de una
+            // generación anterior (p. ej. Lexus ES 300h 2026, Peugeot 2008 2024).
+            // Si la ficha no trae euroncap en línea (undefined), se carga el registro
+            // como hace la sección Seguridad: ambas usan la misma fuente.
+            estrellasEuroNCAP:
+              coche.euroncap === undefined ? undefined : (coche.euroncap?.estrellas ?? null),
             garantiaAnos: garantiaDeMarca(coche.marca, "coches")?.anios ?? null,
             maleteroL: coche.maleteroL,
           }}
