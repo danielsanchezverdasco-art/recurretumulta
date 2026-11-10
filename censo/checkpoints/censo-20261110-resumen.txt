@@ -1,0 +1,19 @@
+Censo AdSense 2610 — resumen ejecución 10/11/2026 (Niky, solo lectura, sin push)
+Secciones cerradas (sin repetir páginas, de checkpoints previos):
+  coches 2.302, marcas 105, multas 48, caravanas 73, campers 51, herramientas 21
+  Total secciones: 2.600 páginas.
+Pase global de duplicados: CERRADO el 30/10 (2.599 páginas 200; 0 duplicados reales).
+Pase global de enlaces (curl HEAD, 1,5 s de pausa, chunk máximo 600):
+  Vivo estable: la home da 200 al inicio del chunk; sin 503.
+  Hoy: 600 HEADs en 1.426 s; 600x200, 0 errores, 0 tienda_a_portada
+  (parada_por_errores=False). Última URL del chunk:
+  https://recurretumulta.online/comparador-coches/?a=citroen-spacetourer-campster-2025
+  Acumulado pase global: 5.448/17.544 URLs distintas verificadas
+  (5.443x200 registrados + 5x0 transitorios de días anteriores, los 5
+  re-verificados 200 en su día); pendientes 12.096.
+  0 enlaces rotos reales acumulados; 0 tienda_a_portada nuevas (el único
+  registro tienda_a_portada sigue siendo la propia home, artefacto del registro).
+Hallazgos nuevos hoy: 0. docs/adsense-2610/niky-censo.csv SIN CAMBIOS (377 hallazgos).
+CENSO NO COMPLETO: falta el resto del pase global de enlaces (12.096 HEADs,
+  ~21 chunks más a este ritmo). Ninguna sección queda pendiente: solo el pase
+  global de enlaces.
