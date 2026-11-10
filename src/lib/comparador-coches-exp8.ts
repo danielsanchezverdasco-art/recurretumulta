@@ -1010,7 +1010,6 @@ export const COCHES_EXP8: CocheComparador[] = [
     videoId: null,
     videoCanal: null,
     analisisSlug: "opel-grandland-12-turbo-130-2024-precio-ficha-tecnica",
-    euroncap: {"ano": 2017, "estrellas": 5, "nota": "Ensayo de 2017 sobre el Grandland X 1.6 diésel, la misma primera generación de esta ficha: 84 % en adultos y 87 % en niños. La calificación caducó en enero de 2024 al endurecerse el protocolo.", "url": "https://www.euroncap.com/press-media/occupant-protection-a-side-issue-for-some/"},
     planMantenimiento: {"costeAnualAproxEur": null, "fuente": "Manual del propietario oficial Opel del Grandland X y servicio de inspección de Opel España", "intervalo": "Tope de 20.000 km o de 1 año, lo primero que ocurra, para los motores EB2 en el grupo de países 1 del manual, el que incluye a España", "revisiones": [{"costeAproxEur": null, "nombre": "Revisión periódica del Grandland 1.2 Turbo", "queSeCambia": "Aceite del motor con su filtro y filtro del habitáculo, chequeo del líquido de frenos e inspección funcional de frenos, motor, chasis, carrocería, neumáticos, escape, luces y electrónica; en el 1.2 PureTech se añade el control visual del estado de la correa de distribución bañada en aceite"}]},
   },
   {

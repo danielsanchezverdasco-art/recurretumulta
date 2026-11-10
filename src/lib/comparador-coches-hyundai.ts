@@ -188,12 +188,6 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: 13.8,
     cargaRapidaKw: null,
     etiquetaDgt: "Cero",
-    euroncap: {
-      estrellas: 5,
-      ano: 2021,
-      url: null,
-      nota: "Prueba del Hyundai Tucson (NX4), 2021",
-    },
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
@@ -712,12 +706,6 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    euroncap: {
-      estrellas: 4,
-      ano: 2023,
-      url: null,
-      nota: "4 estrellas Euro NCAP (2023, nueva generación SX2)",
-    },
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
@@ -1055,12 +1043,6 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "C",
-    euroncap: {
-      estrellas: 5,
-      ano: 2017,
-      url: null,
-      nota: "Prueba del Hyundai i30 (PD), 2017",
-    },
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
@@ -1689,12 +1671,6 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: 1.32,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    euroncap: {
-      estrellas: 4,
-      ano: 2023,
-      url: null,
-      nota: "4 estrellas Euro NCAP (2023, nueva generación SX2)",
-    },
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
@@ -2020,12 +1996,6 @@ export const COCHES_HYUNDAI: CocheComparador[] = [
     bateriaKwh: null,
     cargaRapidaKw: null,
     etiquetaDgt: "ECO",
-    euroncap: {
-      estrellas: 5,
-      ano: 2021,
-      url: null,
-      nota: "Prueba del Hyundai Tucson (NX4), 2021",
-    },
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [

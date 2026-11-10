@@ -7409,12 +7409,6 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     ],
     videoId: "RfWJS8rpnhE",
     videoCanal: "autosdeprimera.com",
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin prueba EuroNCAP del 2008 2024: la calificación de 5 estrellas (2019) corresponde al modelo anterior al restyling",
-    },
     opiniones: [],
     fuenteNombre: "km77",
     analisisSlug: "peugeot-2008-2024-precio-ficha-tecnica",

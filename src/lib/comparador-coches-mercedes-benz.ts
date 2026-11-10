@@ -488,12 +488,6 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
       "notas": "consumo WLTP 6,5 l/100 km; 1.250 km/mes",
       "estimado": true
     },
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: el GLA (H247) no ha sido probado de forma independiente",
-    },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (Service A/B alternos), lo que ocurra antes",
       revisiones: [
@@ -585,12 +579,6 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
       "precioGasolinaL": 1.65,
       "notas": "consumo WLTP 6,7 l/100 km; 7 plazas opcional; 1.250 km/mes",
       "estimado": true
-    },
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: el GLB (X247) no ha sido probado de forma independiente",
     },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (Service A/B alternos), lo que ocurra antes",

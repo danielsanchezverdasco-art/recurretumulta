@@ -275,12 +275,6 @@ export const COCHES_EXP7: CocheComparador[] = [
       { src: "/media/volkswagen-tiguan-15-etsi-2026-precio-ficha-tecnica-hunt3.webp", alt: "Servicio anual / 15.000 km (foto: Carwow UK, licencia desconocida)", ancho: 1600, alto: 900 },
     ],
     analisisSlug: "volkswagen-tiguan-15-etsi-2026-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 5,
-      ano: 2024,
-      url: null,
-      nota: "5 estrellas EuroNCAP en la prueba de 2024.",
-    },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (lo que ocurra antes); servicio flexible LongLife hasta 24 meses o 30.000 km",
       revisiones: [

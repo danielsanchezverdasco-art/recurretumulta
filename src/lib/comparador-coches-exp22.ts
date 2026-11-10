@@ -2099,12 +2099,6 @@ export const COCHES_EXP22: CocheComparador[] = [
       notas: "Estimación con 15.000 km/año y gasolina a 1,65 €/l. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
       estimado: true,
     },
-    euroncap: {
-      estrellas: 3,
-      ano: 2024,
-      url: null,
-      nota: null,
-    },
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [

@@ -108,12 +108,6 @@ export const COCHES_CHERY: CocheComparador[] = [
     ],
     fuenteNombre: "Chery UK (nota de prensa oficial)",
     fuenteUrl: "https://www.eurekar.co.uk/articles/2026-03-26/chery-reveals-tiggo-4-details",
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin prueba Euro NCAP publicada a 18/10/2026.",
-    },
     planMantenimiento: null,
     confianza: "alta",
   },

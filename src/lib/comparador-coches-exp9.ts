@@ -1859,12 +1859,6 @@ export const COCHES_EXP9: CocheComparador[] = [
       { src: "/media/bmw-serie-3-320i-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión según CBS (foto: BMW / MotorShow, licencia desconocida)", ancho: 800, alto: 534 },
     ],
     analisisSlug: "bmw-serie-3-320i-2026-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 5,
-      ano: 2019,
-      url: null,
-      nota: "Prueba del BMW Serie 3 (G20), 2019",
-    },
     planMantenimiento: {
       intervalo: "CBS (Condition Based Service): el vehículo determina cuándo necesita mantenimiento según el uso real",
       revisiones: [
@@ -2123,12 +2117,6 @@ export const COCHES_EXP9: CocheComparador[] = [
     fuenteUrl: "https://www.coches.net/fichas_tecnicas/mercedes-benz/gla/4x4/5-puertas/gla_250_e_con_tecnologia_hibrida_eq_218cv_hibrido_enchufable/112782/819863920250716/",
     opiniones: [],
     costeMensual: null,
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: el GLA (H247) no ha sido probado de forma independiente",
-    },
     planMantenimiento: {
       intervalo: "12 meses o 15.000 km (Service A/B alternos), lo que ocurra antes",
       revisiones: [

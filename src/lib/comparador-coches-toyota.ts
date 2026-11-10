@@ -501,12 +501,6 @@ export const COCHES_TOYOTA: CocheComparador[] = [
         "alto": 1184
       }
     ],
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: modelo no probado"
-    },
     fuenteNombre: "somoselectricos",
     fuenteUrl: "https://somoselectricos.com/toyota-urban-cruiser-electrico-no-llega-espana/"
   },

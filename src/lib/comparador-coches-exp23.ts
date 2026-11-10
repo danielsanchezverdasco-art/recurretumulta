@@ -3818,12 +3818,6 @@ export const COCHES_EXP23: CocheComparador[] = [
       notas: "Estimación con 15.000 km/año y recarga doméstica a 0,18 €/kWh. Seguro, mantenimiento e impuesto orientativos; varían según perfil y municipio.",
       estimado: true,
     },
-    euroncap: {
-      estrellas: null,
-      ano: null,
-      url: null,
-      nota: "Sin datos EuroNCAP: versión GTX no probada",
-    },
     planMantenimiento: {
       intervalo: "30.000 km o 24 meses (servicio flexible, sin límite de kilómetros para el plan básico)",
       revisiones: [

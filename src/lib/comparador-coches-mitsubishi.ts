@@ -828,12 +828,6 @@ export const COCHES_MITSUBISHI: CocheComparador[] = [
       }
     ],
     analisisSlug: "mitsubishi-asx-120t-2026-precio-ficha-tecnica",
-    euroncap: {
-      estrellas: 5,
-      ano: 2024,
-      url: "https://www.euroncap.com/en/results/mitsubishi/asx/53137",
-      nota: "Prueba Euro NCAP 2024 (76% adultos, 80% infantil, 76% peatones, 69% asistencias); el ASX es gemelo del Renault Captur",
-    },
     fuenteNombre: "Mitsubishi Motors España",
     fuenteUrl: "https://www.mitsubishi-motors.es/modelos/asx",
   },

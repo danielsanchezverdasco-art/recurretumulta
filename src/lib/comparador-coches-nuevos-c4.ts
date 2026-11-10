@@ -73,7 +73,6 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       { src: "/media/toyota-yaris-cross-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: Toyota Motor Europe (prensa oficial) / CarExpert, licencia desconocida)", ancho: 1200, alto: 800 },
       { src: "/media/toyota-yaris-cross-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: Periodismo del Motor, licencia desconocida)", ancho: 1280, alto: 852 },
     ],
-    euroncap: { estrellas: 5, ano: 2021, url: null, nota: null },
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
@@ -742,7 +741,6 @@ export const COCHES_NUEVOS_C4: CocheComparador[] = [
       { src: "/media/hyundai-kona-n-line-2026-precio-ficha-tecnica-hunt2.webp", alt: "Revisión anual / 15.000 km (foto: CarExpert, licencia desconocida)", ancho: 1200, alto: 800 },
       { src: "/media/hyundai-kona-n-line-2026-precio-ficha-tecnica-hunt3.webp", alt: "Revisión anual / 15.000 km (foto: AutoExpress, licencia desconocida)", ancho: 1260, alto: 710 },
     ],
-    euroncap: { estrellas: 5, ano: 2023, url: null, nota: null },
     planMantenimiento: {
       intervalo: "15.000 km o 12 meses (lo que ocurra antes)",
       revisiones: [
