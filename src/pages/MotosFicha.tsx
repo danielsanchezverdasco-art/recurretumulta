@@ -41,6 +41,7 @@ import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
 import BannerJuegoMonos from "@/components/caza-monos/BannerJuegoMonos";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 import { fuenteUrlGarantia, garantiaDeMarca } from "@/lib/garantias-marcas.ts";
+import { webOficialMarca } from "@/lib/marcas-web-oficial.ts";
 import { tituloFichaMoto } from "@/lib/seo-titulo-ficha.ts";
 import type { MotoComparador } from "@/lib/comparador-motos-data.ts";
 import { propio } from "@/lib/textos-propios.ts";
@@ -119,6 +120,15 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
   const geo = frasesGeo(datosGeoMoto({ ...moto, electrica: esMotoElectrica(moto) }, nombre, historial));
   // 13/10/2026: análisis del blog (analisisSlug o post con el mismo id); botón solo si el post existe.
   const analisisMoto = ANALISIS_MOTOS[moto.id] ?? moto.analisisSlug ?? moto.id;
+  // 10/11/2026 (AdSense A7): extra.b===1 solo dice que el post existe en datos;
+  // muchos redirigen 301 a la propia ficha (auto-enlace). Solo si existe (extra.b)
+  // Y está vivo en /blog/ (sin 301 ni sin-página). Sin extra.b, hrefDesdeBlog
+  // devuelve /blog/<slug>/ también para slugs sin artículo (404).
+  const blogHref = hrefDesdeBlog(analisisMoto);
+  const tieneBlog = extra.b === 1 && blogHref.startsWith("/blog/");
+  // 10/11/2026 (AdSense A7/A8): fuente de la ficha cuando no trae fuenteUrl
+  // propia: web oficial del fabricante (verificada en el repo).
+  const fuenteWebMarca = webOficialMarca(moto.marca);
   // 12/10/2026: nodos schema.org de reseñas (se fusionan en cliente cuando
   // Convex responde; en el prerender no hay datos → solo el schema base).
   const [reviewsExtra, setReviewsExtra] = useState<ResenaSchemaExtra | null>(null);
@@ -398,6 +408,15 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
               >
                 {moto.fuenteNombre ?? "web oficial"}
               </a>
+            ) : fuenteWebMarca ? (
+              <a
+                href={fuenteWebMarca}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-medium text-red-600 underline"
+              >
+                web oficial de {moto.marca}
+              </a>
             ) : (
               (moto.fuenteNombre ?? "web oficial de la marca")
             )}
@@ -615,9 +634,9 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
           <Suspense fallback={null}>
             <HistorialPreciosLazy slug={moto.id} nombre={nombre} />
           </Suspense>
-          {extra.b === 1 ? (
+          {tieneBlog ? (
             <Link
-              to={hrefDesdeBlog(analisisMoto)}
+              to={blogHref}
               className="mt-4 inline-flex items-center gap-2 rounded-xl bg-gray-900 px-4 py-2.5 text-sm font-bold text-white transition hover:bg-gray-700"
             >
               <BookOpen className="h-4 w-4" /> Ver la comparativa completa
@@ -840,7 +859,11 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
           modelo: nombre,
           publicado: fechas.publicado,
           actualizado: fechas.actualizado,
-          fuentePrincipal: moto.fuenteUrl ? { nombre: moto.fuenteNombre || "Fuente de los datos", url: moto.fuenteUrl } : null,
+          fuentePrincipal: moto.fuenteUrl
+            ? { nombre: moto.fuenteNombre || "Fuente de los datos", url: moto.fuenteUrl }
+            : fuenteWebMarca
+              ? { nombre: `Web oficial de ${moto.marca}`, url: fuenteWebMarca }
+              : null,
         }}
       />
     </div>

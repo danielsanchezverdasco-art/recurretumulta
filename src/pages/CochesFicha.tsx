@@ -54,6 +54,7 @@ import MonoEscondido from "@/components/caza-monos/MonoEscondido.tsx";
 import BannerJuegoMonos from "@/components/caza-monos/BannerJuegoMonos";
 import { fijoId } from "@/components/caza-monos/CazaMonosContext.tsx";
 import { fuenteUrlGarantia, garantiaDeMarca } from "@/lib/garantias-marcas.ts";
+import { webOficialMarca } from "@/lib/marcas-web-oficial.ts";
 import { tituloFichaCoche } from "@/lib/seo-titulo-ficha.ts";
 import type { CocheComparador } from "@/lib/comparador-coches-data.ts";
 import type { ResenaSchemaExtra } from "@/components/ResenasVehiculo.tsx";
@@ -207,7 +208,17 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
   // la propia ficha (p. ej. Adria Matrix Supreme -> su artículo de autocaravana);
   // antes se ignoraba y esas fichas nunca enlazaban a su blog.
   const analisisSlug = ANALISIS_COCHES[coche.id] ?? coche.analisisSlug ?? coche.id;
-  const tieneBlog = extra.b === 1;
+  // 10/11/2026 (AdSense A7): extra.b===1 solo dice que el post existe en datos,
+  // pero la mayoría de esos blogs redirigen 301 a la propia ficha (auto-enlace:
+  // 2.026 coches según el 2.º informe AdSense). Solo se enlaza si el post existe
+  // (extra.b) Y está vivo en /blog/ (hrefDesdeBlog: sin 301 ni sin-página).
+  // Sin el extra.b, hrefDesdeBlog devuelve /blog/<slug>/ también para slugs
+  // sin artículo (404). Ver censo en docs/adsense-escala-20261110.md.
+  const blogHref = hrefDesdeBlog(analisisSlug);
+  const tieneBlog = extra.b === 1 && blogHref.startsWith("/blog/");
+  // 10/11/2026 (AdSense A7/A8): fuente de la ficha cuando no trae fuenteUrl
+  // propia: web oficial del fabricante (verificada en el repo).
+  const fuenteWebMarca = webOficialMarca(coche.marca);
   // 20/10/2026: fichas de vivienda alojadas en /coches/ (Adria Matrix Supreme y
   // similares): la miga de pan las presenta como autocaravana/camper, no como coche.
   const esCamper = /^camper$/i.test(coche.categoria ?? "");
@@ -567,6 +578,15 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               >
                 {coche.fuenteNombre ?? "web oficial"}
               </a>
+            ) : fuenteWebMarca ? (
+              <a
+                href={fuenteWebMarca}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-medium text-red-600 underline"
+              >
+                web oficial de {coche.marca}
+              </a>
             ) : (
               (coche.fuenteNombre ?? "web oficial de la marca")
             )}
@@ -774,7 +794,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           <TablaVersiones versiones={versiones} nombre={nombre} />
           {tieneBlog && (
             <Link
-              to={hrefDesdeBlog(analisisSlug)}
+              to={blogHref}
               className="mt-4 inline-flex items-center gap-2 rounded-xl bg-gray-900 px-4 py-2.5 text-sm font-bold text-white transition hover:bg-gray-700"
             >
               <BookOpen className="h-4 w-4" /> Versiones
@@ -1085,7 +1105,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           </Link>
           {tieneBlog && (
             <Link
-              to={hrefDesdeBlog(analisisSlug)}
+              to={blogHref}
               className="inline-flex items-center justify-center gap-2 rounded-2xl bg-red-600 px-4 py-3 text-sm font-bold text-white transition hover:bg-red-700"
             >
               <BookOpen className="h-4 w-4" /> Leer nuestro análisis
@@ -1174,7 +1194,11 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           modelo: nombre,
           publicado: fechas.publicado,
           actualizado: fechas.actualizado,
-          fuentePrincipal: coche.fuenteUrl ? { nombre: coche.fuenteNombre || "Fuente de los datos", url: coche.fuenteUrl } : null,
+          fuentePrincipal: coche.fuenteUrl
+            ? { nombre: coche.fuenteNombre || "Fuente de los datos", url: coche.fuenteUrl }
+            : fuenteWebMarca
+              ? { nombre: `Web oficial de ${coche.marca}`, url: fuenteWebMarca }
+              : null,
         }}
       />
     </div>

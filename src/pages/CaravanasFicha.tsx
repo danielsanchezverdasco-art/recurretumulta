@@ -49,6 +49,7 @@ import CompartirBotones from "@/components/CompartirBotones.tsx";
 import { tituloFichaCoche } from "@/lib/seo-titulo-ficha.ts";
 import { BLOG_DE_FICHA } from "@/lib/autocaravanas-blogs.ts";
 import { BLOG_POST_SLUGS } from "@/lib/blog-post-slugs.ts";
+import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
 import type { Caravana } from "@/lib/caravanas/tipos.ts";
 import { CARAVANAS } from "@/lib/caravanas";
 import {
@@ -188,9 +189,11 @@ function Ficha({ auto }: { auto: Caravana }) {
   // artículo y sin enlace visible: estas plantillas no renderizaban el botón.
   // Candidatos por orden: analisisSlug de la ficha, mapa BLOG_DE_FICHA o el
   // propio id; solo se enlaza si el post existe en el registro del blog.
+  // 10/11/2026 (AdSense A7): BLOG_POST_SLUGS incluye blogs que redirigen 301
+  // a la propia ficha (auto-enlace); solo se enlaza si el blog está vivo.
   const analisisSlug = [auto.analisisSlug, BLOG_DE_FICHA[auto.id], auto.id]
     .find((s): s is string => !!s && BLOG_POST_SLUGS.has(s));
-  const tieneBlog = analisisSlug != null;
+  const tieneBlog = analisisSlug != null && hrefDesdeBlog(analisisSlug).startsWith("/blog/");
   // 25/10/2026: primero las de la misma serie (p. ej. Nomad 520 desde la Nomad 560), que antes
   // quedaban fuera del corte de 6 y la ficha se quedaba sin enlaces internos.
   const serie = (m: string) => m.split(" ")[0].toLowerCase();

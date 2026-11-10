@@ -316,6 +316,12 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
   });
 
   const analisisSlug = ANALISIS_PATINETES[patinete.id] ?? patinete.id;
+  // 10/11/2026 (AdSense A7): extra.b===1 solo dice que el post existe en datos;
+  // si redirige 301 a la propia ficha sería un auto-enlace. Solo si existe (extra.b)
+  // Y está vivo en /blog/. Sin extra.b, hrefDesdeBlog devuelve /blog/<slug>/
+  // también para slugs sin artículo (404).
+  const blogHref = hrefDesdeBlog(analisisSlug);
+  const tieneBlog = extra.b === 1 && blogHref.startsWith("/blog/");
   return (
     <div className="min-h-screen bg-gray-50">
       <SharedNavbar />
@@ -691,10 +697,10 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
           >
             <BookOpen className="h-4 w-4" /> Guía: normativa y multas 2026
           </Link>
-          {/* 13/10/2026: análisis del blog del mismo modelo, solo si el post existe */}
-          {extra.b === 1 && (
+          {/* 13/10/2026: análisis del blog del mismo modelo, solo si el post existe y está vivo en /blog/ */}
+          {tieneBlog && (
             <Link
-              to={hrefDesdeBlog(analisisSlug)}
+              to={blogHref}
               className="inline-flex items-center justify-center gap-2 rounded-2xl border border-gray-300 bg-white px-4 py-3 text-sm font-bold text-gray-900 transition hover:bg-gray-50"
             >
               <BookOpen className="h-4 w-4" /> Ver análisis
