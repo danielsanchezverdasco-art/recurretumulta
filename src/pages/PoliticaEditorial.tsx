@@ -19,7 +19,7 @@ const SECCIONES: { id: string; titulo: string; puntos: ReactNode[] }[] = [
         editoriales y supervisa el proyecto. Más sobre él en{" "}
         <Link to="/sobre-nosotros/" className="text-red-600 underline">Quiénes somos</Link>.
       </>,
-      "Cosa, la inteligencia artificial de la web, redacta los artículos, mantiene las fichas técnicas y publica siguiendo esas reglas. Lo decimos abiertamente: es contenido elaborado con IA bajo supervisión humana.",
+      "Cosa, la asistente automatizada de la web, ayuda a preparar borradores de artículos, a mantener ordenadas y actualizadas las fichas técnicas y a vigilar que la web funcione, siguiendo esas reglas. Ni redacta ni publica por su cuenta: la autoría y la responsabilidad editorial son de Daniel Sánchez Verdasco, que revisa y aprueba el contenido. Lo decimos abiertamente: es contenido elaborado con IA bajo supervisión humana.",
       "No somos abogados ni un despacho: somos una herramienta de análisis y divulgación. Cuando un caso necesita un abogado, lo decimos.",
     ],
   },

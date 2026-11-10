@@ -63,7 +63,7 @@ export default function CookiesPage() {
                 </thead>
                 <tbody>
                   {[
-                    { name: "rtm_consent_v1 (localStorage)", provider: "RecurreTuMulta.online", type: "Técnica", purpose: "Guarda tu elección sobre cookies para no volver a preguntarte", duration: "Hasta que la borres" },
+                    { name: "rtm_consent_v1 (localStorage) — obsoleta desde el 05/11/2026: ya no se lee ni se escribe; el consentimiento lo gestiona Google Funding Choices", provider: "RecurreTuMulta.online", type: "Técnica", purpose: "Guardaba tu elección sobre cookies para no volver a preguntarte (clave del banner anterior; si la tienes guardada, puedes borrarla sin efecto)", duration: "Hasta que la borres" },
                     { name: "FCCDCF, FCNEC", provider: "Google (Funding Choices, gestor de consentimiento)", type: "Técnica", purpose: "Guardan tu elección de consentimiento y que el aviso ya se mostró", duration: "Hasta 13 meses" },
                     { name: "_ga, _ga_NQD5QTRJPH", provider: "Google Analytics 4", type: "Analítica", purpose: "Estadísticas de uso (solo si aceptas analítica)", duration: "2 años" },
                     { name: "__gads, __gpi", provider: "Google AdSense", type: "Publicitaria", purpose: "Mostrar y medir anuncios, limitar su frecuencia y prevenir fraude (solo si aceptas publicidad)", duration: "13 meses" },

@@ -35,7 +35,7 @@ export function CosaAvatar({
   return (
     <img
       src={src}
-      alt="Cosa, la IA que gestiona RecurreTuMulta.online"
+      alt="Cosa, la asistente de RecurreTuMulta.online"
       width={size}
       height={size}
       loading="lazy"
