@@ -90,7 +90,10 @@ export default function GuiaItvDocumentacionPage() {
       <h2 className="text-2xl font-bold mt-10 mb-4">Campers y reformas</h2>
       <p className="text-slate-600 mb-4">Las reformas (suspensiones, separadores, camperizaciones) deben estar homologadas y anotadas en la ficha técnica, o la ITV las tumba. Guía específica en <a href="https://recurretumulta.online/blog/homologacion-camper-y-caravanas-en-espana-vacios-legales-itv-y-como-evitar-multas-de-la-dgt" className="text-green-700 font-semibold hover:underline">homologación camper y caravanas</a>.</p>
 
-      <h2 className="text-2xl font-bold mt-10 mb-4">Fuentes oficiales</h2>
+      <h2 className="text-2xl font-bold mt-10 mb-4">Qué llevar a la ITV y qué pasa si no la pasas</h2>
+      <p className="text-slate-600 mb-4">A la inspección hay que llevar el permiso de circulación y la tarjeta de inspección técnica del vehículo; el seguro lo comprueba la propia estación. Si el resultado es desfavorable, tienes un plazo para reparar los defectos y volver sin pagar una inspección completa, pero mientras tanto no puedes circular salvo para ir al taller o a la propia ITV. Si es negativa, el vehículo queda inmovilizado en la estación y solo puede salir en grúa. Por eso conviene revisar antes luces, neumáticos y frenos: son los defectos leves más habituales y los más baratos de corregir en el taller de confianza antes que en la estación.</p>
+
+<h2 className="text-2xl font-bold mt-10 mb-4">Fuentes oficiales</h2>
       <ul className="list-disc pl-6 space-y-2 text-slate-600 mb-4">
       <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722" target="_blank" rel="noopener noreferrer" className="text-green-700 font-semibold hover:underline">Texto refundido de la Ley de Tráfico (RDL 6/2015, BOE)</a>: infracciones y sanciones (arts. 76, 77 y 80).</li>
       <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514" target="_blank" rel="noopener noreferrer" className="text-green-700 font-semibold hover:underline">Reglamento General de Circulación (RD 1428/2003, BOE)</a>: condiciones técnicas y neumáticos (art. 12).</li>

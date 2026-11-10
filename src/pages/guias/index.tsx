@@ -177,6 +177,40 @@ export default function GuiasIndexPage() {
               las 9 que existen hoy, ni una más.
             </p>
           </section>
+          <section className="mt-6 rounded-3xl border border-slate-200 bg-white p-6">
+            <h2 className="font-bold text-slate-900 mb-2">Cómo usar estas guías</h2>
+            <p className="text-sm text-slate-600 leading-relaxed mb-3">
+              Cada guía responde a una pregunta concreta —recurrir una multa de radar, saber si tu
+              patinete puede circular, pasar la ITV sin sorpresas— y se puede leer suelta, sin
+              seguir ningún orden. Empieza por la que responda a lo que te ha pasado: las de multas
+              explican primero el plazo, porque es lo que más prisa corre, y después el defecto
+              concreto que puede anular la sanción. Las de vehículos —eléctrico nuevo o usado,
+              patinete, ITV— son listas de comprobación antes de comprar o de circular.
+            </p>
+            <p className="text-sm text-slate-600 leading-relaxed">
+              Todas citan la norma exacta (Ley de Tráfico, ordenanzas municipales, resoluciones de
+              la DGT) para que puedas comprobar cada afirmación en el BOE o en la sede electrónica,
+              y enlazan con el blog cuando un tema necesita más desarrollo. Si una guía no responde
+              a tu caso, el analizador gratuito de la portada revisa tu multa concreta y te dice si
+              tiene defectos que la anulen.
+            </p>
+          </section>
+          <section className="mt-6 rounded-3xl border border-red-200 bg-red-50 p-6">
+            <h2 className="font-bold text-slate-900 mb-2">Te ha llegado una multa hoy: qué hacer primero</h2>
+            <p className="text-sm text-slate-600 leading-relaxed mb-3">
+              No pagues todavía. Pagar con pronto pago reduce el importe, pero cierra la puerta al
+              recurso: una vez pagada con descuento, la sanción se considera aceptada. Antes de
+              pagar, comprueba si la multa tiene defectos —matrícula, notificación, verificación
+              del radar, señalización— con el analizador gratuito: tarda segundos y te dice si
+              merece la pena recurrir.
+            </p>
+            <p className="text-sm text-slate-600 leading-relaxed">
+              Si decides recurrir, el plazo es de 20 días naturales desde la notificación, y el
+              recurso de reposición es gratis y se presenta ante quien te multó. Guarda la denuncia,
+              la foto si la hay y cualquier justificante (por ejemplo, si el conductor no eras tú),
+              y anota la fecha exacta en que te notificaron: es la que marca todos los plazos.
+            </p>
+          </section>
         </main>
       </div>
       <SharedFooter />

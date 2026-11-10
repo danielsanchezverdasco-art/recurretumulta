@@ -145,6 +145,9 @@ export default function GuiaRadaresPage() {
           <li><strong>Presenta alegaciones</strong> en 20 días naturales ante la Jefatura Provincial de Tráfico (o el ayuntamiento si la vía es municipal).</li>
         </ol>
 
+        <h2 className="text-2xl font-bold mt-10 mb-4">Qué no te protege de un radar</h2>
+      <p className="text-slate-600 mb-4">Ni el detector ni el inhibidor: el detector de radares está prohibido en España y su uso se sanciona, y el inhibidor, que interfiere en la medición del cinemómetro, es una infracción muy grave con una multa mucho mayor que la del exceso de velocidad que pretendía evitar. Tampoco protege circular pegado al coche de delante ni frenar solo al ver el radar: los radares de tramo miden la velocidad media entre dos puntos, así que el frenazo no sirve. La única defensa legal es respetar el límite y, si llega la multa, revisar el margen de error aplicado, la verificación metrológica del aparato y la señalización del tramo.</p>
+
         <h2 className="text-2xl font-bold mt-10 mb-4">Fuentes oficiales</h2>
         <ul className="list-disc pl-6 space-y-2 text-slate-600 mb-4">
           <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722" target="_blank" rel="noopener noreferrer" className="text-green-700 font-semibold hover:underline">Texto refundido de la Ley de Tráfico (RDL 6/2015, BOE)</a>: infracciones y sanciones por velocidad (Anexo IV, arts. 76, 77 y 80).</li>

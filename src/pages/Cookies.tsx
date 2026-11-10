@@ -90,6 +90,23 @@ export default function CookiesPage() {
           </section>
 
           <section>
+            <h2 className="text-xl font-black text-gray-900">Qué cookies NO usamos</h2>
+            <p>Esta web no tiene cuentas de usuario ni inicio de sesión, así que no usamos cookies de registro ni de autenticación. Tampoco usamos técnicas de huella digital (fingerprinting) para identificarte ni vendemos datos a terceros: las cookies publicitarias de Google sirven para mostrar y medir anuncios, no para elaborar perfiles que se vendan. Las preferencias de tu visita —por ejemplo, el progreso del juego de los monos o tu última comparación— se guardan en tu propio navegador, no en nuestros servidores.</p>
+          </section>
+
+          <section>
+            <h2 className="text-xl font-black text-gray-900">Cookies de terceros y transferencias internacionales</h2>
+            <p>Google (Analytics, AdSense y Funding Choices) y Stripe (pagos) son empresas con sede fuera del Espacio Económico Europeo. Cuando aceptas sus cookies, tus datos pueden tratarse en Estados Unidos con las garantías de las cláusulas contractuales tipo aprobadas por la Comisión Europea. Puedes consultar cómo trata Google estos datos en su guía de webs de socios publicitarios y cómo lo hace Stripe en su política de privacidad, enlazadas en la sección anterior y en la <Link to="/privacidad/" className="text-red-600 underline">Política de Privacidad</Link>.</p>
+          </section>
+
+          <section>
+            <h2 className="text-xl font-black text-gray-900">Preguntas frecuentes sobre cookies</h2>
+            <p><strong>¿Tengo que aceptar las cookies para usar la web?</strong> No: el analizador de multas, las fichas y las guías funcionan sin aceptar nada. Sin tu consentimiento no se cargan las cookies de analítica ni las publicitarias, y el aviso puede volver a aparecer en tu próxima visita.</p>
+            <p><strong>¿Cuánto dura mi elección?</strong> Tu decisión queda guardada en tu navegador (localStorage «rtm_consent_v1») hasta que la borres o cambies con el botón «Configurar cookies» de esta página. Si borras los datos del sitio en tu navegador, tendrás que elegir de nuevo.</p>
+            <p><strong>¿Puedo rechazar solo la publicidad?</strong> Sí: el aviso de consentimiento permite aceptar por separado la analítica y la publicidad. Si rechazas la publicidad, no se cargan sus cookies y los anuncios que veas no serán personalizados.</p>
+          </section>
+
+          <section>
             <h2 className="text-xl font-black text-gray-900">Cómo gestionar las cookies</h2>
             <img src="/media/cookies-web.webp" alt="Ajustes de privacidad y cookies en un navegador web" className="w-full h-40 sm:h-52 object-cover rounded-2xl shadow mb-6" loading="lazy" />
             <p>Puedes configurar tu navegador para aceptar o rechazar cookies en cualquier momento:</p>

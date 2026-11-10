@@ -104,7 +104,10 @@ export default function GuiaZbePage() {
       </ol>
       <p className="text-slate-600 mb-4">Tienes el desarrollo completo, con modelos, en <a href="https://recurretumulta.online/blog/como-recurrir-multas-de-la-zbe-en-madrid-barcelona-y-toda-espana-guia-definitiva-y-modelos-con-ia" className="text-green-700 font-semibold hover:underline">cómo recurrir multas de la ZBE en Madrid, Barcelona y toda España</a> y en <a href="https://recurretumulta.online/blog/multas-de-trafico-en-barcelona-y-la-zbe-como-recurrir-sanciones-de-la-dgt-y-el-ayuntamiento-al-instante" className="text-green-700 font-semibold hover:underline">multas de tráfico en Barcelona y la ZBE</a>.</p>
 
-      <h2 className="text-2xl font-bold mt-10 mb-4">Fuentes oficiales</h2>
+      <h2 className="text-2xl font-bold mt-10 mb-4">Cómo saber si tu coche puede entrar hoy</h2>
+      <p className="text-slate-600 mb-4">Antes de entrar en una ZBE, comprueba tu etiqueta ambiental en la web o la app de la DGT y la ordenanza vigente de esa ciudad: las restricciones cambian por etiqueta, por horario y por episodios de contaminación, y lo que valía el mes pasado puede no valer hoy. Madrid y Barcelona tienen las ZBE más amplias de España, pero cada ciudad de más de 50.000 habitantes debe tener la suya, así que la comprobación hay que hacerla ciudad por ciudad, no una sola vez. Si ya te ha llegado la multa, revisa primero si tu vehículo tenía etiqueta suficiente ese día y si la señalización de acceso era visible: son los dos motivos de recurso más habituales.</p>
+
+<h2 className="text-2xl font-bold mt-10 mb-4">Fuentes oficiales</h2>
       <ul className="list-disc pl-6 space-y-2 text-slate-600 mb-4">
       <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2022-22689" target="_blank" rel="noopener noreferrer" className="text-green-700 font-semibold hover:underline">Real Decreto 1052/2022 (BOE)</a>: regula las zonas de bajas emisiones en desarrollo del art. 14.3 de la Ley 7/2021.</li>
       <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722" target="_blank" rel="noopener noreferrer" className="text-green-700 font-semibold hover:underline">Texto refundido de la Ley de Tráfico (RDL 6/2015, BOE)</a>: infracciones graves y procedimiento sancionador.</li>

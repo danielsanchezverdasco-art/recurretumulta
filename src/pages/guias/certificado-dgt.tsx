@@ -49,6 +49,9 @@ export default function GuiaCertificadoDgtPage() {
       </ol>
       <p className="text-slate-600 mb-4">La normativa completa de patinetes (dónde circular, edad, casco según la ordenanza de tu ciudad y multas) está en la <a href="https://recurretumulta.online/guias/patinetes-electricos" className="text-red-600 font-semibold hover:underline">guía de patinetes eléctricos</a>.</p>
 
+      <h2 className="text-2xl font-bold mt-10 mb-4">Si tu patinete no tiene certificado</h2>
+      <p className="text-slate-600 mb-4">Depende de cuándo se vendió. Si es anterior al 22 de enero de 2024 y no tiene certificado, puedes inscribirlo de forma temporal en el Registro de Vehículos Personales Ligeros y circular con él hasta el 22 de enero de 2027; a partir de esa fecha, sin certificado no podrá circular por la vía pública, así que no conviene dejar la inscripción para el último mes. Si se vendió a partir del 22 de enero de 2024, el modelo debe tener certificado obligatoriamente: si el vendedor no te lo entrega, exígelo antes de pagar, porque sin él no podrás inscribirlo ni asegurarlo. En segunda mano, la comprobación es la misma: pide el certificado y verifica que corresponde a ese modelo antes de cerrar la compra.</p>
+
       <h2 className="text-2xl font-bold mt-10 mb-4">Preguntas frecuentes</h2>
       <div className="space-y-5 bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 mb-10">
       <div><h3 className="font-bold mb-1">¿Qué es el certificado de circulación de un patinete?</h3><p className="text-slate-600">El documento que acredita que ese modelo de VMP cumple los requisitos técnicos del Manual de características de los VMP, aprobado por Resolución de 12 de enero de 2022 de la DGT.</p></div>
