@@ -5,8 +5,8 @@ import { useSeo } from "@/hooks/use-seo.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 
-export default function JuegoPausa({ canonical }: { canonical: string }) {
-  useSeo({ title: "Caza de monos: juego en pausa", description: "El juego Caza de monos de RecurreTuMulta.online está en pausa.", canonical, noindex: true });
+export default function JuegoPausa({ canonical, title = "Caza de monos: juego en pausa", description = "El juego Caza de monos de RecurreTuMulta.online está en pausa." }: { canonical: string; title?: string; description?: string }) {
+  useSeo({ title, description, canonical, noindex: true });
   return (
     <div className="min-h-screen bg-slate-50">
       <SharedNavbar />

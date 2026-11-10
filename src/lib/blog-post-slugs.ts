@@ -3935,6 +3935,7 @@ export const BLOG_POST_SLUGS: ReadonlySet<string> = new Set([
   "vinfast-vf-7-2026-precio-ficha",
   "vinfast-vf-7-2026-precio-ficha-tecnica",
   "vmoto-cpx-explorer-2025-ficha-tecnica-precio",
+  "vmoto-off-r-2025-ficha-tecnica-precio",
   "vmoto-stash-2025-ficha-tecnica-precio",
   "vmoto-tc-max-2025-ficha-tecnica-precio",
   "vmoto-vs2-2025-ficha-tecnica-precio",

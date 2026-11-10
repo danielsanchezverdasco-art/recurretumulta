@@ -27,7 +27,7 @@ function TarjetaImagenHerramienta({ slug }: { slug: string }) {
 export default function HerramientasIndexPage() {
   useSeo({
     title: "Herramientas gratis para conductores 2026",
-    description: "20 herramientas gratuitas para conductores: calculadoras (potencia, consumo, etiqueta DGT, alcoholemia), comparadores de coches, motos y patinetes, contrato de compraventa y buscador de multas.",
+    description: "21 herramientas gratuitas para conductores: calculadoras (potencia, consumo, etiqueta DGT, alcoholemia), comparadores de coches, motos y patinetes, contrato de compraventa y buscador de multas.",
     canonical: "/herramientas",
     keywords: [
       "herramientas para conductores",

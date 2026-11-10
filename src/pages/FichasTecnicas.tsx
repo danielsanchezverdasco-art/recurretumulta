@@ -529,7 +529,7 @@ const jsonLd = {
 
 export default function FichasTecnicasPage() {
   useSeo({
-    title: "Fichas técnicas: coches, motos, patinetes, autocaravanas, campers y caravanas",
+    title: `Fichas técnicas: ${TODAS.length.toLocaleString("es-ES")} modelos con precio 2026`,
     description:
       "Todas las fichas técnicas en un solo lugar: coches, motos, patinetes, autocaravanas, campers y caravanas. Busca por marca y modelo, filtra por precio, autonomía y etiqueta DGT, y abre la ficha completa con datos verificados.",
     canonical: "/fichas-tecnicas",
