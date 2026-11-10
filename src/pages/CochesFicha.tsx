@@ -24,6 +24,7 @@ import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
 // Evita 298 enlaces rotos en el lote de 500 fichas sin blog publicado aún.
 import { ANALISIS_COCHES } from "@/lib/analisis-slugs.generated";
 import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
+import { hrefAnalisisBlog } from "@/lib/blog-enlace.ts";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import { Marker, useSpotlight } from "@/components/motion.tsx";
@@ -64,7 +65,7 @@ import { cargarFichaExtra, type FichaExtra } from "@/lib/ficha-extra.ts";
 import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
 import { datosGeoCoche, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
 import { useHistorialPrecios } from "@/lib/historial-precios-cargar.ts";
-import { PRECIO_ORIGEN, anioModelo, productoFicha } from "@/lib/schema-ficha.ts";
+import { PRECIO_ORIGEN, anioModelo, esPrecioAprox, productoFicha } from "@/lib/schema-ficha.ts";
 
 // 07/10/2026 (rendimiento): componentes below-the-fold en lazy para reducir
 // el chunk inicial de la ficha (era 1,6MB). Se cargan al hacer scroll.
@@ -106,7 +107,7 @@ const fmtEur2 = (v: number) =>
 
 // ── Mejora 3: ¿puede entrar en la ZBE de Madrid? (derivado de la etiqueta DGT) ──
 const sinTarifaEspana = (c: CocheComparador): boolean =>
-  PRECIO_ORIGEN[c.id] != null || c.precioDesde == null || c.aprox.includes("precioDesde");
+  PRECIO_ORIGEN[c.id] != null || c.precioDesde == null || esPrecioAprox(c.aprox);
 // 26/10 (unicidad): versión corta (dato, sin frase de plantilla) para fichas sin texto propio de ZBE.
 function zbeMadridCorto(c: CocheComparador): string {
   if (c.etiquetaDgt && sinTarifaEspana(c)) return "Según etiqueta, cuando se matricule en España";
@@ -208,7 +209,11 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
   // la propia ficha (p. ej. Adria Matrix Supreme -> su artículo de autocaravana);
   // antes se ignoraba y esas fichas nunca enlazaban a su blog.
   const analisisSlug = ANALISIS_COCHES[coche.id] ?? coche.analisisSlug ?? coche.id;
-  const tieneBlog = extra.b === 1;
+  // 10/11/2026 (AdSense F-05): el botón solo si el artículo es un /blog/ vivo.
+  // extra.b dice que el post existe en datos, pero si su URL 301a a la propia
+  // ficha, hrefDesdeBlog devolvería la ficha (autolink: 2.033 fichas en datos).
+  const blogHref = hrefAnalisisBlog(analisisSlug);
+  const tieneBlog = extra.b === 1 && blogHref != null;
   // 20/10/2026: fichas de vivienda alojadas en /coches/ (Adria Matrix Supreme y
   // similares): la miga de pan las presenta como autocaravana/camper, no como coche.
   const esCamper = /^camper$/i.test(coche.categoria ?? "");
@@ -317,7 +322,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
     coche.velocidadMax != null && { icono: <Gauge className="h-5 w-5" />, valor: fmtKmh(coche.velocidadMax), label: "Velocidad máx." },
   ].filter(Boolean) as DatoClave[];
   const cambio = cambioDesdeHistorial(historial);
-  const precioAprox = coche.aprox.includes("precioDesde");
+  const precioAprox = esPrecioAprox(coche.aprox);
   const compararHref = `/comparador-coches/?a=${coche.id}`;
   const versiones = coche.versiones;
 
@@ -380,7 +385,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           url: `https://recurretumulta.online/coches/${coche.id}/`,
           descripcion: geo.frases.join(" "),
           precio: coche.precioDesde,
-          precioAprox: coche.aprox.includes("precioDesde"),
+          precioAprox,
           precioOrigen: PRECIO_ORIGEN[coche.id] ?? null,
           historial,
         }),
@@ -683,7 +688,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           <table className="mt-3 w-full text-sm">
             <tbody>
               {FILAS.filter((f) => { const _v = f.campo === "etiquetaDgt" ? ((coche as any).etiquetaDgt || "—") : f.get(coche); return _v !== "—" && _v !== "Sin datos" && _v !== "No publicada" && !/^—/.test(String(_v)); }).map((f) => {
-                const esAprox = coche.aprox.includes(f.campo);
+                const esAprox = f.campo === "precioDesde" ? precioAprox : coche.aprox.includes(f.campo);
                 return (
                   <tr key={f.label} className="border-t border-gray-200/70">
                     <th className="py-2.5 pr-2 text-left font-medium text-gray-500">
@@ -756,17 +761,17 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
               <>
                 {`El ${nombre} parte de `}
                 <strong className="text-gray-900">
-                  {coche.aprox.includes("precioDesde") && "≈"}
+                  {precioAprox && "≈"}
                   {fmtPrecio(coche.precioDesde)}
                 </strong>
-                {!coche.aprox.includes("precioDesde") && PRECIO_ORIGEN[coche.id]?.pais && PRECIO_ORIGEN[coche.id]?.priceCurrency === "EUR" && (
+                {!precioAprox && PRECIO_ORIGEN[coche.id]?.pais && PRECIO_ORIGEN[coche.id]?.priceCurrency === "EUR" && (
                   <>
                     {" "}
                     (precio oficial en {PRECIO_ORIGEN[coche.id]?.pais}
                     {PRECIO_ORIGEN[coche.id]?.pais === "Alemania" ? ", IVA alemán 19 %" : ""}; sin tarifa en España)
                   </>
                 )}
-                {coche.aprox.includes("precioDesde") && " (estimación)"}
+                {precioAprox && " (estimación)"}
                 .
               </>
             )}{" "}
@@ -775,7 +780,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           <TablaVersiones versiones={versiones} nombre={nombre} />
           {tieneBlog && (
             <Link
-              to={hrefDesdeBlog(analisisSlug)}
+              to={blogHref!}
               className="mt-4 inline-flex items-center gap-2 rounded-xl bg-gray-900 px-4 py-2.5 text-sm font-bold text-white transition hover:bg-gray-700"
             >
               <BookOpen className="h-4 w-4" /> Versiones
@@ -847,7 +852,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
                     loading="lazy"
                     className="rtm-card-zoom aspect-[3/2] w-full object-cover"
                   />
-                  <CreditoFoto src={f.src} className="px-2 pb-1" />
+                  <CreditoFoto src={f.src} alt={f.alt} className="px-2 pb-1" />
                 </figure>
               ))}
             </div>
@@ -1097,7 +1102,7 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
           </Link>
           {tieneBlog && (
             <Link
-              to={hrefDesdeBlog(analisisSlug)}
+              to={blogHref!}
               className="inline-flex items-center justify-center gap-2 rounded-2xl bg-red-600 px-4 py-3 text-sm font-bold text-white transition hover:bg-red-700"
             >
               <BookOpen className="h-4 w-4" /> Leer nuestro análisis

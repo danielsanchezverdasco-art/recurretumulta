@@ -43,6 +43,7 @@ import CompartirBotones from "@/components/CompartirBotones.tsx";
 import { tituloFichaCoche } from "@/lib/seo-titulo-ficha.ts";
 import { BLOG_DE_FICHA } from "@/lib/autocaravanas-blogs.ts";
 import { BLOG_POST_SLUGS } from "@/lib/blog-post-slugs.ts";
+import { hrefAnalisisBlog } from "@/lib/blog-enlace.ts";
 import type { Autocaravana } from "@/lib/autocaravanas-tipos.ts";
 // 19/10/2026: el índice lo genera el agente de datos en
 // src/lib/autocaravanas/index.ts (export AUTOCARAVANAS: Autocaravana[]).
@@ -198,7 +199,10 @@ function Ficha({ auto }: { auto: Autocaravana }) {
   // propio id; solo se enlaza si el post existe en el registro del blog.
   const analisisSlug = [auto.analisisSlug, BLOG_DE_FICHA[auto.id], auto.id]
     .find((s): s is string => !!s && BLOG_POST_SLUGS.has(s));
-  const tieneBlog = analisisSlug != null;
+  // 10/11/2026 (AdSense F-05): el botón solo si el artículo es un /blog/ vivo
+  // (si el post 301a a la ficha, el botón sería un autolink).
+  const blogHref = hrefAnalisisBlog(analisisSlug);
+  const tieneBlog = blogHref != null;
   const hermanas = AUTOCARAVANAS.filter((a) => a.marca === auto.marca && a.id !== slug).slice(0, 6);
 
   const carnet = textoCarnet(auto);
@@ -254,7 +258,9 @@ function Ficha({ auto }: { auto: Autocaravana }) {
         description: auto.descripcion
           ? auto.descripcion.replace(/\s+/g, " ").slice(0, 300)
           : `Ficha técnica de la ${nombre}: MMA, carnet necesario, plazas para dormir y de viaje, dimensiones y precio.`,
-        ...(auto.precioDesde != null && {
+        // 10/11/2026 (AdSense F-06): sin Offer con precio estimado, como en
+        // coches/motos (48/162 autocaravanas lo emitían con precio no oficial).
+        ...(auto.precioDesde != null && !precioAprox && {
           offers: {
             "@type": "Offer",
             priceCurrency: "EUR",
@@ -707,7 +713,7 @@ function Ficha({ auto }: { auto: Autocaravana }) {
           </Link>
           {tieneBlog && (
             <Link
-              to={`/blog/${analisisSlug}/`}
+              to={blogHref!}
               className="inline-flex items-center justify-center gap-2 rounded-2xl bg-gray-900 px-4 py-3 text-sm font-bold text-white transition hover:bg-gray-700 sm:col-span-2"
             >
               <BookOpen className="h-4 w-4" /> Leer nuestro análisis

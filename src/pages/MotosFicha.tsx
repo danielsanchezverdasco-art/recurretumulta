@@ -3,7 +3,7 @@ import { Link, useParams } from "react-router-dom";
 import CreditoFoto from "@/components/CreditoFoto.tsx";
 import AnalisisEditorial from "@/components/AnalisisEditorial.tsx";
 import { ANALISIS_MOTOS } from "@/lib/analisis-slugs.generated";
-import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
+import { hrefAnalisisBlog } from "@/lib/blog-enlace.ts";
 import {
   ArrowLeftRight,
   BatteryCharging,
@@ -51,7 +51,7 @@ import { cargarFichaExtra, type FichaExtra } from "@/lib/ficha-extra.ts";
 import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
 import { datosGeoMoto, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
 import { useHistorialPrecios } from "@/lib/historial-precios-cargar.ts";
-import { anioModelo, productoFicha } from "@/lib/schema-ficha.ts";
+import { anioModelo, esPrecioAprox, productoFicha } from "@/lib/schema-ficha.ts";
 
 // 07/10/2026 (fluidez): animados below-the-fold en lazy — se cargan al hacer scroll.
 // 17/10/2026: historial de precios (below-the-fold, lazy).
@@ -119,6 +119,10 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
   const geo = frasesGeo(datosGeoMoto({ ...moto, electrica: esMotoElectrica(moto) }, nombre, historial));
   // 13/10/2026: análisis del blog (analisisSlug o post con el mismo id); botón solo si el post existe.
   const analisisMoto = ANALISIS_MOTOS[moto.id] ?? moto.analisisSlug ?? moto.id;
+  // 10/11/2026 (AdSense F-05): como en CochesFicha, el botón solo si el
+  // artículo es un /blog/ vivo (742 motos con autolink en datos).
+  const blogHref = hrefAnalisisBlog(analisisMoto);
+  const tieneBlog = extra.b === 1 && blogHref != null;
   // 12/10/2026: nodos schema.org de reseñas (se fusionan en cliente cuando
   // Convex responde; en el prerender no hay datos → solo el schema base).
   const [reviewsExtra, setReviewsExtra] = useState<ResenaSchemaExtra | null>(null);
@@ -183,7 +187,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
     moto.velocidadMax != null && { icono: <Gauge className="h-5 w-5" />, valor: `${moto.velocidadMax} km/h`, label: "Velocidad máx." },
   ].filter(Boolean) as DatoClave[];
   const cambio = cambioDesdeHistorial(historial);
-  const precioAprox = moto.aprox.includes("precioDesde");
+  const precioAprox = esPrecioAprox(moto.aprox);
   const compararHref = `/comparador-motos/?a=${moto.id}`;
 
   const FAQS = [
@@ -234,7 +238,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
           url: `https://recurretumulta.online/motos/${moto.id}/`,
           descripcion: geo.frases.join(" "),
           precio: moto.precioDesde,
-          precioAprox: moto.aprox.includes("precioDesde"),
+          precioAprox,
           historial,
         }),
         manufacturer: { "@type": "Organization", name: moto.marca },
@@ -520,7 +524,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
                       if (fig) (fig as HTMLElement).style.display = "none";
                     }}
                   />
-                  <CreditoFoto src={f.src} className="px-2 pb-1" />
+                  <CreditoFoto src={f.src} alt={f.alt} className="px-2 pb-1" />
                 </figure>
               ))}
             </div>
@@ -544,7 +548,7 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
           <table className="mt-3 w-full text-sm">
             <tbody>
               {FILAS.filter((f) => { const _v = f.campo === "etiquetaDgt" ? ((moto as any).etiquetaDgt || "—") : f.get(moto); return _v !== "—" && _v !== "Sin datos" && _v !== "No publicada" && !/^—/.test(String(_v)); }).map((f) => {
-                const esAprox = moto.aprox.includes(f.campo);
+                const esAprox = f.campo === "precioDesde" ? precioAprox : moto.aprox.includes(f.campo);
                 return (
                   <tr key={f.label} className="border-t border-gray-200/70">
                     <th className="py-2.5 pr-2 text-left font-medium text-gray-500">
@@ -603,9 +607,9 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
           <Suspense fallback={null}>
             <HistorialPreciosLazy slug={moto.id} nombre={nombre} />
           </Suspense>
-          {extra.b === 1 ? (
+          {tieneBlog ? (
             <Link
-              to={hrefDesdeBlog(analisisMoto)}
+              to={blogHref!}
               className="mt-4 inline-flex items-center gap-2 rounded-xl bg-gray-900 px-4 py-2.5 text-sm font-bold text-white transition hover:bg-gray-700"
             >
               <BookOpen className="h-4 w-4" /> Ver la comparativa completa

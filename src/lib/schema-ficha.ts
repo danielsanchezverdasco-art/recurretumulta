@@ -33,6 +33,16 @@ export interface ProductoFichaIn {
   historial?: PuntoGen[] | null;
 }
 
+/** El precio es aproximado cuando `aprox` marca el campo del precio.
+ *  Clave histórica "precio" además de "precioDesde"/"precioEur": 130 fichas
+ *  de coches (precios convertidos de yuanes, p. ej. Bestune) la usan y la
+ *  plantilla solo miraba "precioDesde", así que el precio se mostraba como
+ *  firme y se emitía Offer (F-06 AdSense). */
+export function esPrecioAprox(aprox: readonly string[] | undefined | null, campoPrecio = "precioDesde"): boolean {
+  if (!aprox) return false;
+  return aprox.includes(campoPrecio) || aprox.includes("precio");
+}
+
 /** Año de modelo solo cuando el slug lo declara como tal («…-2026», «…-2026-precio-ficha-tecnica» o «…-2026-ficha-tecnica-precio»). */
 export function anioModelo(slug: string): string | null {
   const m = slug.match(/-(20\d{2})(?:-precio-ficha-tecnica|-ficha-tecnica-precio)?$/);

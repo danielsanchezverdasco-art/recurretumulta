@@ -3,7 +3,7 @@ import { Link, useParams } from "react-router-dom";
 import CreditoFoto from "@/components/CreditoFoto.tsx";
 import AnalisisEditorial from "@/components/AnalisisEditorial.tsx";
 import { ANALISIS_PATINETES } from "@/lib/analisis-slugs.generated";
-import { hrefDesdeBlog } from "@/lib/blog-redir.generated";
+import { hrefAnalisisBlog } from "@/lib/blog-enlace.ts";
 import {
   ArrowLeftRight,
   BatteryCharging,
@@ -55,7 +55,7 @@ import { cargarFichaExtra, type FichaExtra } from "@/lib/ficha-extra.ts";
 import RespuestaRapida from "@/components/geo/RespuestaRapida.tsx";
 import { datosGeoPatinete, frasesGeo, metaGeo } from "@/lib/geo-ficha.ts";
 import { useHistorialPrecios } from "@/lib/historial-precios-cargar.ts";
-import { anioModelo, productoFicha } from "@/lib/schema-ficha.ts";
+import { anioModelo, esPrecioAprox, productoFicha } from "@/lib/schema-ficha.ts";
 
 // 07/10/2026 (rendimiento): below-the-fold en lazy para reducir el chunk inicial.
 // 17/10/2026: historial de precios (below-the-fold, lazy).
@@ -160,7 +160,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
     patinete.certificadoDgt === true && { icono: <ShieldCheck className="h-5 w-5" />, valor: "Certificado", label: "DGT verificado" },
   ].filter(Boolean) as DatoClave[];
   const cambio = cambioDesdeHistorial(historial);
-  const precioAprox = patinete.aprox.includes("precioEur");
+  const precioAprox = esPrecioAprox(patinete.aprox, "precioEur");
   const compararHref = `/comparador-patinetes/?a=${patinete.id}`;
 
   // 26/10 (unicidad): respuestas cortas con el dato de la ficha; la norma completa está en
@@ -209,7 +209,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
         ],
     url: `https://recurretumulta.online/patinetes/${patinete.id}/`,
     precio: patinete.precioEur,
-    precioAprox: patinete.aprox.includes("precioEur"),
+    precioAprox,
     historial,
   });
 
@@ -316,6 +316,9 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
   });
 
   const analisisSlug = ANALISIS_PATINETES[patinete.id] ?? patinete.id;
+  // 10/11/2026 (AdSense F-05): el botón solo si el artículo es un /blog/ vivo.
+  const blogHref = hrefAnalisisBlog(analisisSlug);
+  const tieneBlog = extra.b === 1 && blogHref != null;
   return (
     <div className="min-h-screen bg-gray-50">
       <SharedNavbar />
@@ -424,7 +427,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             etiquetaDgt: null, // sin etiqueta ambiental aplicable: el peso se reparte
             estrellasEuroNCAP: null,
             noAplicaEuroNCAP: true, // Euro NCAP no prueba patinetes
-            precioNoOficialEspana: patinete.aprox.includes("precioEur"),
+            precioNoOficialEspana: precioAprox,
             garantiaAnos: garantiaDeMarca(patinete.marca, "patinetes")?.anios ?? null,
             autonomiaKm: patinete.autonomiaRealKm ?? patinete.autonomiaKm,
             pesoKg: patinete.pesoKg,
@@ -501,6 +504,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
                     loading="lazy"
                     className="rtm-card-zoom aspect-[3/2] w-full object-contain bg-white"
                   />
+                  <CreditoFoto src={f.src} alt={f.alt} className="px-2 pb-1" />
                 </figure>
               ))}
             </div>
@@ -524,7 +528,7 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
           <table className="mt-3 w-full text-sm">
             <tbody>
               {FILAS.filter((f) => { const _v = f.campo === "etiquetaDgt" ? ((patinete as any).etiquetaDgt || "—") : f.get(patinete); return _v !== "—" && _v !== "Sin datos" && _v !== "No publicada" && !/^—/.test(String(_v)); }).map((f) => {
-                const esAprox = patinete.aprox.includes(f.campo);
+                const esAprox = f.campo === "precioEur" ? precioAprox : patinete.aprox.includes(f.campo);
                 return (
                   <tr key={f.label} className="border-t border-gray-200/70">
                     <th className="py-2.5 pr-2 text-left font-medium text-gray-500">
@@ -690,9 +694,9 @@ function Ficha({ patinete, extra, hermanas = [] }: { patinete: PatineteComparado
             <BookOpen className="h-4 w-4" /> Guía: normativa y multas 2026
           </Link>
           {/* 13/10/2026: análisis del blog del mismo modelo, solo si el post existe */}
-          {extra.b === 1 && (
+          {tieneBlog && (
             <Link
-              to={hrefDesdeBlog(analisisSlug)}
+              to={blogHref!}
               className="inline-flex items-center justify-center gap-2 rounded-2xl border border-gray-300 bg-white px-4 py-3 text-sm font-bold text-gray-900 transition hover:bg-gray-50"
             >
               <BookOpen className="h-4 w-4" /> Ver análisis
