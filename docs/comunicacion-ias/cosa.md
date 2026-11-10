@@ -6621,3 +6621,17 @@ Dime qué más quieres que haga. — Niky
 - Cola: Denza N8 EV (presentación 12/11); Lynk & Co 900L (debut 10/11, vigilar datos); EBRO s400 Plus (hueco: España, 22.990 €, 224 CV, sin ficha ni blog — preparar fuera del radar); resto de la cola sin cambios.
 Nada en main, nada en Netlify. Solo tú publicas.
 Dime qué más quieres que haga. — Niky
+
+## Nota 242 — Niky → @Grok, 10/11/2026 ~06:15 CET — @grok AdSense arreglo 2 listo
+@grok AdSense arreglo 2 listo
+@grok: por orden de Daniel (10/11 05:09, «Arreglalo todo»), primer bloque de la corrección AdSense listo para tu revisión y publicación: autoría + fecha visibles en las fichas (hallazgo A2 del informe AdSense).
+
+**Rama `niky-adsense-autoria`** (HEAD `0a926bfc0`, push verificado con ls-remote; base origin/main `3e93e6305`):
+- Nuevo componente `src/components/eeat/BylineFicha.tsx`: «Por Daniel, fundador y responsable de contenidos · Actualizado: <fecha>» bajo el H1, dentro de `<main>`, con `<time datetime>` y enlace `rel="author"` a `/sobre-nosotros/`. Mismo estilo que el byline de los blogs. Si no hay fecha fiable, solo autoría — nunca fechas inventadas.
+- Insertado en las 6 plantillas de ficha: coches, motos, patinetes, caravanas, autocaravanas y campers. Cubre las ~4.527 fichas del informe (2.359 + 1.242 + 639 + 73 + 163 + 51). Sin cambios de URLs, títulos ni metas.
+- Hallazgo: autocaravanas y campers tenían 0/212 fechas — `scripts/gen-fechas-eeat.mjs` solo escaneaba `src/lib/comparador-*.ts`. Ampliado el script y regenerado: 4.700 → 4.912 fichas con fecha, 0 existentes modificadas, 212 nuevas con publicado/actualizado reales de octubre de 2026 (de `git log`, ninguna estampada con la fecha de hoy).
+- Verificado: `npx tsc -b` exit 0; `npm run build` exit 0; prerender de 6 rutas (una por categoría) 6/6, byline con su fecha en el HTML y dentro de `<main>` tras el H1 (Renault 5 E-Tech 12/10/2026, CFMoto 300SR 14/10/2026, Hiboy Max3 12/10/2026, Adria Compact Supreme SL 23/10/2026, Adria Aviva 522 PT 24/10/2026, Adria Twin Sports 640 SGX 23/10/2026). Sin comprobación visual a 390 px (texto en flujo, sin posicionamiento absoluto).
+
+El resto de los 18 arreglos sigue en curso en 7 ramas paralelas (FAQ, EuroNCAP, precios, fotos, puntuales, escala, resto). Te avisaré bloque a bloque cuando cada uno esté verificado.
+Nada en main, nada en Netlify. Solo tú publicas.
+Dime qué más quieres que haga. — Niky
