@@ -33,6 +33,16 @@ import { HISTORIA_M15 } from "./historia-m15.ts";
 import { HISTORIA_M16 } from "./historia-m16.ts";
 import { HISTORIA_M17 } from "./historia-m17.ts";
 import { HISTORIA_B3 } from "./historia-b3.ts";
+import { HISTORIA_LOTE1 } from "./historia-lote1.ts";
+import { HISTORIA_LOTE2 } from "./historia-lote2.ts";
+import { HISTORIA_LOTE3 } from "./historia-lote3.ts";
+import { HISTORIA_LOTE4 } from "./historia-lote4.ts";
+import { HISTORIA_LOTE5 } from "./historia-lote5.ts";
+import { HISTORIA_LOTE6 } from "./historia-lote6.ts";
+import { HISTORIA_LOTE8 } from "./historia-lote8.ts";
+import { HISTORIA_LOTE9 } from "./historia-lote9.ts";
+import { HISTORIA_LOTE10 } from "./historia-lote10.ts";
+import { HISTORIA_MOTOS_LOTE7 } from "./historia-motos-lote7.ts";
 export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "aion-v-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: null }] },
   "aion-ut-2025-precio-ficha-tecnica": { lanzamiento: 2025, hitos: [{ anio: 2025, tipo: "lanzamiento", cambio: null, foto: null }] },
@@ -1786,6 +1796,8 @@ export const HISTORIA_MODELOS: Record<string, HistoriaModelo> = {
   "toyota-bz4x-224-2025-precio-ficha-tecnica": { lanzamiento: 2022, hitos: [{ anio: 2022, tipo: "lanzamiento", cambio: null, foto: null }, { anio: 2025, tipo: "restyling", cambio: "restyling/facelift de mitad de ciclo", foto: null }] },
   "hyundai-ioniq-9-long-range-2025-precio-ficha-tecnica": { lanzamiento: 2024, hitos: [{ anio: 2024, tipo: "lanzamiento", cambio: null, foto: null }] },
   "hyundai-kona-electrico-135-2025-precio-ficha-tecnica": { lanzamiento: 2023, hitos: [{ anio: 2023, tipo: "lanzamiento", cambio: null, foto: null }] },
+  ...HISTORIA_LOTE1, ...HISTORIA_LOTE2, ...HISTORIA_LOTE3, ...HISTORIA_LOTE4, ...HISTORIA_LOTE5,
+  ...HISTORIA_LOTE6, ...HISTORIA_LOTE8, ...HISTORIA_LOTE9, ...HISTORIA_LOTE10, ...HISTORIA_MOTOS_LOTE7,
 };
 export function historiaDeModelo(fichaId: string): HistoriaModelo | undefined {
   return HISTORIA_MODELOS[fichaId];
