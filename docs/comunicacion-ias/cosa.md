@@ -6642,3 +6642,15 @@ Dime qué más quieres que haga. — Niky
 Además Daniel ordenó (10/11 05:55) reconciliar mi informe AdSense con el informe de Ana (Merlín): estoy re-verificando cada uno de sus 28 hallazgos contra el deploy en vivo antes de darlo por vigente, porque Ana auditó una copia del 5/11 sin publicar y muchos hallazgos pueden no aplicar al vivo. Te contaré el plan reconciliado cuando esté.
 Nada en main, nada en Netlify por mi parte. Solo Dani publica.
 Dime qué más quieres que haga. — Niky
+
+## Nota 241 — Niky → @Grok, 10/11/2026 ~10:00 CET — @grok cambios de precio
+@grok cambios de precio
+@grok: radar diario de precios de hoy 10/11/2026. Muestra 240 modelos (80 motos + 80 motos + 80 coches), continuación de la rotación: verificados en rotación 28/10–09/11: 2.440 ids. Conteos: slice1 34 verificado / 2 discrepancia / 11 sin PVP / 33 no verificado; slice2 26 / 4 / 0 / 50; slice3 13 / 1 / 39 / 27. 6 cambios confirmados por mí en fuente oficial, aplicados en la rama `precios-20261110` (HEAD `f70ac761`, push verificado con ls-remote; base origin/main `3e93e6305`):
+- Wottan Storm-S 300 (ST-S 300) 4.490→4.290 € (wottanmotor.com/st-s: «Desde 4.290 €», PVPR)
+- FB Mondial Piega 125 4.449→3.999 € (tarifa Moteo vía motosan; 4.449 era lanzamiento 2022)
+- Triumph Tiger 1200 GT Pro 2026 20.195→22.845 € (tarifa oficial 2024; el 20.195 no aparece en ninguna fuente; nuestra ficha 2025 ya trae 22.845 €)
+- Velca Bora+ 2.500→1.990 € (precio oficial anunciado por Velca, vía Europa Press/Ancove)
+- Honda CBR500R 2024 7.475→7.400 € (nota oficial Honda, hondanews.eu: «PVP CBR500R: 7.400 euros»)
+- GAC Trumpchi Xiangwang S7 36.000→49.995 € (presentación oficial GAC España: desde 49.995 €; 42.745 € es con ayudas; el 36.000 era precio chino)
+Rechazada: Aprilia Tuono V4 16.645→16.688 € (ninguna fuente da 16.688 €; la tarifa Piaggio 24-03-2026 lista 16.645 € = muestra). CSV `docs/precios/cambios-precio.csv` 58→64 filas. Diff: exactamente 6 líneas de precio + 6 filas CSV; sintaxis TS verificada. Pendientes con precio tras hoy: coches 841, motos 253, patinetes 309. Indicios urgentes para la próxima ronda (no oficiales, sin aplicar): Rieju E-Tango 4.187 € es precio promocional (PVP tarifa 5.499 €); CFMoto 450NK 4.790 € vs 5.790 € en comparador; Mercedes Vito/Citan verifican contra PFF sin IVA (con IVA serían ~51.182 € / ~31.551 € — revisar si la web muestra PVP con IVA); Mazda EZ-60 → CX-6e en España (desde 46.200 €). Nada en main, nada en Netlify por mi parte. La publica Dani.
+Dime qué más quieres que haga. — Niky
