@@ -53,4 +53,76 @@ export const ANALISIS_MOTO_16: MapaAnalisis = {
     ],
     veredicto: "Con la oferta de 8.695 € de la MY25 hasta el 30/11/2026, es la forma más barata de tener un tricilíndrico trail-sport de Triumph.",
   },
+  "voge-300rr-2025-ficha-tecnica-precio": {
+    parrafos: [
+      "La Voge 300RR es una deportiva de acceso con un monocilíndrico de 292 cc que rinde 21 kW (unos 28 CV) y 25 Nm, con carnet A2 y una velocidad punta anunciada de 135 km/h. Pesa 153 kg, tiene el asiento a 780 mm —bajo, accesible para pilotos de poca estatura— y un depósito de 16 litros, generoso para su cilindrada. En frenos no escatima para su precio: doble ABS y dos discos flotantes en el tren delantero.",
+      "El punto débil es la potencia: la propia ficha reconoce que rinde bastante menos que una Yamaha R3 o una Kawasaki Ninja 500, y la velocidad punta de 135 km/h queda por debajo de la de sus rivales. Es una deportiva de aspecto y postura, pero con prestaciones de moto de iniciación: para aprender a trazar y a frenar fuerte, sobra; para seguir a una 400 en carretera abierta, se queda corta.",
+      "Falta el dato que decide la compra: no hay precio oficial verificado en España, así que no se puede valorar si compensa frente a las japonesas. Si el concesionario la ofrece claramente por debajo de una R3, tiene sentido como primera deportiva; si el precio se acerca, la diferencia de motor pesa más que el equipamiento. Antes de decidir, conviene pedir precio cerrado con matriculación y probar la postura, porque el asiento bajo y la posición deportiva no gustan a todo el mundo.",
+    ],
+    veredicto: "Una deportiva de iniciación con buen equipamiento de frenos y asiento bajo, pero con menos motor que sus rivales y sin precio oficial en España: para empezar, si el precio acompaña.",
+  },
+  "kove-321rr-2025-ficha-tecnica-precio": {
+    parrafos: [
+      "La Kove 321RR es la deportiva pequeña de la marca china, con un bicilíndrico de 322 cc que entrega 30,5 kW (unos 41 CV) y una velocidad máxima de 190 km/h. Lo que la distingue es el peso: declara 151 kg, entre 18 y 20 menos que la Yamaha R3 y la Kawasaki Ninja 500, y eso se nota en cada cambio de dirección. En frenos monta un Brembo de cuatro pistones con disco de 320 mm, y de serie lleva quickshifter arriba y abajo y control de salida.",
+      "El dato que hay que mirar con lupa es el del carnet: con 30,5 kW roza el límite del A2 de 0,2 kW/kg, así que la ficha advierte de que conviene confirmar su homologación antes de comprarla para ese permiso. Es el precio de exprimir tanto un 322 cc: en el límite, la relación peso-potencia juega en contra del papeleo.",
+      "El otro punto pendiente es el precio: no hay precio oficial en España y los datos vienen de un distribuidor, no de la web global de Kove. Sin tarifa oficial no se puede comparar con la R3 o la Ninja 500, que son su referencia natural. Si el distribuidor la ofrece con garantía y repuestos claros, la 321RR es una de las deportivas de A2 más afiladas sobre el papel; sin esa red detrás, es una apuesta.",
+    ],
+    veredicto: "La deportiva de A2 más ligera y equipada de su grupo —Brembo, quickshifter y 151 kg—, pero hay que confirmar su homologación A2 y su precio oficial en España.",
+  },
+  "voge-rr500s-2026-ficha-tecnica-precio": {
+    parrafos: [
+      "La Voge RR500S es la deportiva seria de la marca: cuatro cilindros en línea, 475 cc y 57 kW (unos 77 CV), con el motor girando hasta 14.000 rpm y un escape con válvula variable. Declara 220 km/h de velocidad máxima y un reparto de pesos al 50 % entre ejes, la receta clásica de una deportiva de media cilindrada. Con 192 kg de peso neto, se sitúa en la zona de las 500-600 deportivas, no en la de las 300.",
+      "Esa potencia tiene una consecuencia administrativa: con 57 kW supera el tope del carnet A2, así que exige el permiso A completo. No es una moto para quien acaba de sacarse el A2, sino para quien ya tiene el A y quiere una tetracilíndrica sin pagar el precio de una 600 japonesa. El peso, eso sí, hay que leerlo con cautela: los 192 kg figuran como peso neto, sin precisar si incluyen líquidos, así que la comparación con rivales medidas en orden de marcha no es directa.",
+      "Falta lo esencial para comprarla: no hay precio ni distribuidor verificados en España, así que hoy no es una opción de compra real, sino un modelo a seguir. Si Voge la trae con una tarifa agresiva y una red que responda, la RR500S puede ser la tetracilíndrica más barata del mercado; hasta entonces, su ficha es una promesa.",
+    ],
+    veredicto: "Una tetracilíndrica de 475 cc y 77 CV con buena pinta, pero sin precio ni distribuidor en España y solo con carnet A: a seguir de cerca, no a comprar hoy.",
+  },
+  "keeway-terrafina-350i-2026-ficha-tecnica-precio": {
+    parrafos: [
+      "El Keeway TerraFina 350i es un scooter de 333 cc con 20 kW (27,2 CV), homologación Euro 5+, doble ABS y control de tracción. Declara 125 km/h de velocidad máxima y viene bien equipado de serie: luces LED, sensores de presión de los neumáticos, tomas USB, parrilla trasera y pantalla. La referencia de precio que da la ficha es la tarifa italiana de 4.990 €, muy inferior a la de su rival natural, la Honda ADV350.",
+      "El punto débil es el peso: declara 208 kg en seco, mientras que sus rivales miden el peso en orden de marcha, con líquidos, así que la comparación directa engaña a favor de las demás. También entrega menos par que la ADV350 —28,5 Nm frente a 31,5 Nm—, lo que se notará en recuperaciones con pasajero o cargado. No es un scooter lento, pero tampoco el más contundente de su grupo.",
+      "La duda es la de siempre con Keeway en España: no hay precio oficial verificado, y la tarifa italiana no es una oferta española. Si llega a un precio parecido a esos 4.990 €, es una alternativa seria a la ADV350 por bastante menos dinero; si llega más cerca de la Honda, pierde su principal argumento. Antes de decidir, conviene pedir precio cerrado y probar si el peso en parado se nota al maniobrar.",
+    ],
+    veredicto: "Un scooter de 350 cc bien equipado y barato en Italia, con la duda del peso y del precio en España: interesante si llega cerca de los 4.990 €.",
+  },
+  "kymco-cv3-575-2026-ficha-tecnica-precio": {
+    parrafos: [
+      "El Kymco CV3 575 es un scooter de tres ruedas con un monocilíndrico de 575 cc que rinde 37,6 kW (51,1 CV) y 54,4 Nm, cifras por encima de las del Piaggio MP3 y del Peugeot Metropolis, sus rivales naturales. Cuesta 11.990 € y basta el permiso B si el conductor tiene 21 años cumplidos, así que es una opción para quien tiene carnet de coche y quiere un scooter grande sin sacarse el A. En equipamiento lleva control de crucero, arranque sin llave, puños calefactables y pantalla TFT.",
+      "El precio de esas cifras es el peso: 287 kg, mucho para maniobrar en parado o en un garaje con rampa. Es el peaje de las tres ruedas y del motor grande, y se nota al moverlo apagado más que en marcha, donde el tren delantero doble da mucha estabilidad. También es más caro que el Metropolis 400 SW, así que la comparación con Peugeot es obligada antes de decidir.",
+      "Un matiz: las fotos de la ficha corresponden al modelo 2025, así que conviene confirmar con el concesionario que la unidad que se entrega es la 2026 y si hay algún cambio de equipamiento o color. Para quien busca un tres ruedas potente con carnet B, el CV3 es hoy la opción más prestacional; para quien prioriza la ligereza, un scooter de dos ruedas de 400 cc pesa unos 70 kg menos.",
+    ],
+    veredicto: "El tres ruedas más potente con carnet B —51 CV y mucho equipamiento— a cambio de 287 kg: para quien valora la estabilidad y la potencia por encima de la ligereza.",
+  },
+  "verge-ts-pro-2026-ficha-tecnica-precio": {
+    parrafos: [
+      "La Verge TS Pro es una deportiva eléctrica que presume de cifras: 102 kW de potencia, 1.000 Nm de par según la marca y 3,5 segundos de 0 a 100 km/h, con 200 km/h de velocidad máxima y 191 km de autonomía. Su rasgo más particular es el motor sin buje: la rueda trasera no lleva cadena ni correa que cuidar, porque el motor va integrado en la llanta. Admite recarga rápida CCS a 100 kW con el paquete de batería de 20,2 kWh, y lleva etiqueta Cero de la DGT.",
+      "Con 235 kg pesa lo mismo que una Zero SR/S, así que no es una eléctrica ligera: la batería y el motor trasero se notan en la báscula, y en una deportiva eso condiciona el paso por curva más que la aceleración en recta. Exige el carnet A, como cualquier moto de más de 35 kW, y su autonomía de 191 km la deja como moto de uso diario y salidas cortas, no como rutera.",
+      "El problema es el precio: la marca habla de 29.900 € y la prensa de 36.581 €, una diferencia de casi 7.000 € que no se explica solo por el IVA, y no hay precio con IVA verificado en España. Sin una tarifa oficial no se puede comparar con la Zero SR/S ni valorar si las cifras justifican el desembolso. Es una moto espectacular sobre el papel a la que le falta lo básico: un precio cerrado.",
+    ],
+    veredicto: "Cifras de infarto —102 kW y 1.000 Nm sin cadena ni correa— con un precio que baila 7.000 € entre la marca y la prensa: espectacular, pero sin tarifa fiable en España.",
+  },
+  "voge-125rs-2026-ficha-tecnica-precio": {
+    parrafos: [
+      "La Voge 125RS es una naked de 125 cc con 11 kW (15 CV), 140 kg y carnet A1 —o B con tres años de antigüedad—, que se vende en España por 3.088 € con cinco años de garantía y el seguro del primer año incluido. En equipamiento no parece una moto de entrada: horquilla invertida, ABS de doble canal, control de tracción y una pantalla LCD en color con navegación.",
+      "Ese precio con garantía larga y seguro incluido es su principal argumento: una 125 japonesa equivalente cuesta más y no suele incluir el seguro, así que la diferencia real al salir del concesionario es mayor que la que dice la tarifa. La contrapartida es la red: Voge tiene menos concesionarios que las marcas japonesas, así que conviene comprobar que hay taller cerca de casa antes de comprar, sobre todo para las revisiones.",
+      "Hay que leer la letra pequeña del seguro de regalo: exige cumplir unos requisitos de edad y carnet, así que no todos los compradores lo tendrán. Y la pantalla con navegación es útil, pero depende del móvil para muchas funciones. Para quien busca su primera moto o una 125 para ciudad con equipamiento de moto mayor, la 125RS es una de las opciones con mejor relación entre lo que cuesta y lo que trae.",
+    ],
+    veredicto: "Una 125 con equipamiento de moto mayor —horquilla invertida, ABS, TCS y pantalla con navegación— por 3.088 € con garantía de cinco años: mucho valor si tienes taller cerca.",
+  },
+  "peugeot-pulsion-evo-125-2026-ficha-tecnica-precio": {
+    parrafos: [
+      "El Peugeot Pulsion EVO 125 es un scooter urbano de 125 cc que declara 13,2 CV y 12 Nm, por encima de la Honda PCX125 y la Yamaha NMAX 125, sus rivales directas. Su baza es la capacidad: un cofre de 45 litros bajo el asiento en el que caben un casco integral y uno jet, algo poco habitual en un 125. Anuncia 440 km de autonomía con un depósito de 11,1 litros y 115 km/h de velocidad máxima, y se vende por 3.399 €.",
+      "Esa autonomía es cifra del fabricante, sin medición propia, así que en uso real con ciudad y pasajero bajará; aun así, con 11,1 litros y un consumo contenido, es de los 125 que menos pasan por la gasolinera. El precio, eso sí, está por encima de la Honda PCX125 (3.199 €), así que la pregunta es si los 200 € de diferencia compensan: a cambio se llevan más potencia, más cofre y más autonomía anunciada.",
+      "Falta un dato básico: el peso oficial no está publicado, así que no se puede comparar su agilidad en parado con la de la PCX. Se conduce con el carnet A1 o con el B, como todos los 125, y su planteamiento es claramente urbano con aspiraciones de carretera: para ir y volver del trabajo con dos cascos guardados y sin repostar en toda la semana, es de lo más práctico del segmento.",
+    ],
+    veredicto: "El 125 con más cofre y más potencia que la PCX125, por 200 € más: práctico para el día a día, con la autonomía del fabricante aún por comprobar en uso real.",
+  },
+  "voge-sr450x-2026-ficha-tecnica-precio": {
+    parrafos: [
+      "El Voge SR450X es un maxiscooter con motor de dos cilindros y 398 cc que entrega 31 kW (unos 42 CV), bastante más potencia que los scooters rivales de 300 cc. Se vende en España por 6.288 €, por debajo de la Honda ADV350 y del Yamaha XMAX 300, y trae de serie pantalla TFT de 7 pulgadas, control de tracción y ABS en ambos ejes. Declara 139 km/h de velocidad máxima y se conduce con el carnet A2.",
+      "La ficha advierte de dos cosas que conviene tener en cuenta antes de comparar: el peso oscila entre 197 y 220 kg según la fuente consultada, y el par motor y las medidas cambian de un país a otro (Francia, Italia, Singapur publican datos distintos). Sin un dato único y oficial para España, la comparación de peso con la ADV350 o el XMAX 300 no es fiable al kilo. Además, aunque el aspecto es aventurero, lleva llantas de asfalto: el look es de trail, pero no está pensado para pistas.",
+      "Con esas cautelas, la propuesta es clara: el maxiscooter más potente por ese precio, con equipamiento de moto mayor y una tarifa por debajo de sus dos rivales japoneses. Para quien hace autopista a diario y quiere un scooter que no se quede corto en adelantamientos, el SR450X ofrece lo que los 300 no dan; para quien prioriza la red de talleres y el valor de reventa, la Honda y la Yamaha siguen por delante.",
+    ],
+    veredicto: "El maxiscooter con más motor por 6.288 € —42 CV, TFT de 7 pulgadas y ABS en ambos ejes—, con el peso y el par aún por confirmar para España: potencia a buen precio.",
+  },
 };

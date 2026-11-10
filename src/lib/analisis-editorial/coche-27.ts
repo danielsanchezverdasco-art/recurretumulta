@@ -64,4 +64,44 @@ export const ANALISIS_COCHE_27: MapaAnalisis = {
     ],
     veredicto: "Una berlina de gasolina barata en Italia y en Estonia, pero sin tarifa oficial en España: pide precio a la marca antes de contar con ella.",
   },
+  "omoda-x-2027-precio-ficha-tecnica": {
+    parrafos: [
+      "El Omoda X es el SUV que la marca china prepara para 2027 con una idea distinta a la de sus hermanos: híbrido enchufable con tracción total, el primer Omoda con enfoque campero real. Mide 4,65 m de largo, declara 20 cm de altura libre al suelo y 70 cm de capacidad de vadeo, unas cotas que lo acercan más a un todoterreno que a un SUV urbano con tracción total de adorno. La marca también ha anunciado una versión 100 % eléctrica del mismo modelo.",
+      "De momento es un coche de anuncio, no de catálogo: no hay precio oficial, ni potencia, ni batería definitiva, ni autonomía ni consumos confirmados. Tampoco hay fecha de producción anunciada, y la propia ficha advierte de que no llegará a España antes de 2027. Eso deja el análisis en suspenso: lo que se puede valorar hoy son las intenciones —un enchufable con tracción total real y cotas de todoterreno— y no el producto, que aún no existe en su forma definitiva.",
+      "Si las cotas se confirman, el X jugaría en un hueco poco poblado: los SUV enchufables con tracción total y 70 cm de vadeo son escasos, y la mayoría de sus rivales directos son urbanos con la tracción total pensada para el asfalto mojado, no para el campo. La duda es si el precio acompañará: Omoda ha entrado en España con tarifas agresivas, pero sin ninguna referencia oficial no se puede adelantar ni un rango.",
+    ],
+    veredicto: "Interesante sobre el papel —enchufable, tracción total y cotas camperas— pero sin precio ni datos confirmados: un modelo a seguir, no una opción de compra hoy.",
+  },
+  "bmw-ix7-2027-precio-ficha-tecnica": {
+    parrafos: [
+      "El iX7 será el primer SUV eléctrico de BMW con tres filas de asientos: la versión eléctrica del X7, el SUV más grande y lujoso de la marca. La ficha lo sitúa sobre la plataforma CLAR actualizada con tecnología Neue Klasse, la arquitectura eléctrica que BMW está extendiendo a toda su gama, y con etiqueta Cero de la DGT por ser 100 % eléctrico.",
+      "Todo lo demás está pendiente: el modelo solo se ha visto como prototipo camuflado, sin datos oficiales de precio, potencia ni autonomía. La configuración de plazas tampoco está cerrada —la ficha recoge 6 o 7 plazas según configuración, como expectativa del prototipo, sin confirmar— y el debut se espera para mediados de 2027 según los medios, no según BMW. Es, en resumen, un coche anunciado por la prensa especializada antes que por la propia marca.",
+      "Como todavía no hay prueba EuroNCAP —el modelo no se ha probado— ni tarifa, lo único que se puede afirmar es el posicionamiento: un SUV eléctrico de siete plazas con el lujo del X7 y la etiqueta Cero, un segmento en el que hoy casi no hay oferta europea. Quien necesite siete plazas eléctricas ahora mismo tiene que mirar a otras marcas; quien pueda esperar a 2027, que siga este modelo de cerca cuando BMW publique los datos.",
+    ],
+    veredicto: "El X7 eléctrico que BMW aún no ha presentado oficialmente: interesante para familias de siete plazas con etiqueta Cero, pero sin precio ni datos con los que decidir hoy.",
+  },
+  "renault-clio-rally5-2027-precio-ficha-tecnica": {
+    parrafos: [
+      "El Clio Rally5 es la puerta de entrada a los rallyes FIA con el respaldo de Renault: un coche de competición, no un turismo de calle, pensado para que un piloto empiece en los rallyes con una máquina oficial y un reglamento cerrado. La marca apoya el proyecto en 60 años de filosofía de motor accesible y en la herencia de la Copa Renault 8 Gordini, seis décadas de competición de base con el rombo.",
+      "El calendario ya está listo desde el primer año: dos copas monomarca en Francia en 2027, una de asfalto y otra de tierra, lo que permite a un equipo planificar la temporada completa antes de comprar el coche. Es la parte más sólida del proyecto: el coche llega con dónde correr, no solo con qué correr.",
+      "Lo que falta es lo que decide una compra: Renault aún no ha anunciado el precio —lo desvelará en las próximas semanas junto a los calendarios 2027— ni las especificaciones definitivas de potencia, peso y cotas. Y hay que tener claro para qué sirve: no es matriculable para circular por carretera, su uso es exclusivo en competición, con tracción delantera y reglamento Rally5. Quien busque un Clio de calle, este no es su coche.",
+    ],
+    veredicto: "Para equipos y pilotos que quieran empezar en los rallyes con un Renault oficial y calendario cerrado; no es un coche de calle ni tiene precio anunciado todavía.",
+  },
+  "byd-seal-07-gen2-precio-ficha-tecnica": {
+    parrafos: [
+      "La segunda generación del BYD Seal 07 es una berlina eléctrica de tracción trasera con 408 CV, 240 km/h de velocidad máxima y una batería de 88,68 kWh que homologa hasta 875 km en ciclo CLTC. Son cifras de berlina grande eléctrica, con cinco plazas y un interior nuevo que BYD llama Ocean Rhythm: palanca de cambios en la columna de dirección y dos cargadores inalámbricos para el móvil.",
+      "El dato de autonomía pide contexto: los 875 km son ciclo CLTC chino, no WLTP europeo, y la propia ficha estima unos 718 km WLTP, que es la referencia útil para comparar con lo que se medirá en Europa. La diferencia entre ambos ciclos es habitual en los modelos chinos y no es un engaño, pero conviene no tomar los 875 km como autonomía real en autopista: con consumo de autopista, la cifra práctica estará por debajo de la estimada.",
+      "Falta lo que convierte un anuncio en una opción de compra: BYD no ha desvelado ni el precio ni la fecha de lanzamiento, y tampoco ha publicado la aceleración de 0 a 100 ni la potencia máxima de carga. Sin esos datos no se puede saber si competirá por precio con el Tesla Model 3 o por encima de él. La ficha, de momento, describe un coche muy capaz sobre el papel al que le falta la tarifa.",
+    ],
+    veredicto: "Una berlina eléctrica de 408 CV y gran autonomía que aún no tiene precio ni fecha: prometedora en cifras, a la espera de que BYD la ponga a la venta.",
+  },
+  "xpeng-mona-l05-2026-precio-ficha-tecnica": {
+    parrafos: [
+      "El XPeng Mona L05 es un SUV eléctrico de tracción trasera con 249 CV y hasta 635 km de autonomía en ciclo CLTC, gracias a una batería LFP de 71,1 kWh. La ficha da un precio de partida de 21.500 €, cinco plazas y un maletero de 702 litros —1.913 litros con los asientos abatidos— más 102 litros en el maletero delantero, unas cifras de carga muy por encima de lo habitual en su segmento.",
+      "Lo más llamativo es la versión de autonomía extendida: 1.310 km combinados al mismo precio de partida, según la ficha. Es una variante con motor de combustión como generador que alarga la autonomía total, pensada para quien hace viajes largos sin querer depender de la carga rápida. Con ese planteamiento, el L05 compite a la vez con los eléctricos puros baratos y con los híbridos enchufables.",
+      "Hay que leer el precio con cautela: los 21.500 € son aproximados y corresponden al mercado chino, y no hay precio ni fecha para Europa o España. La autonomía de 635 km es ciclo CLTC, no WLTP, y no hay prueba EuroNCAP publicada del modelo. En España, por tanto, no es una opción de compra hoy: es un aviso de lo que XPeng puede traer si decide venderlo aquí a un precio parecido.",
+    ],
+    veredicto: "Mucho coche por poco dinero en China —249 CV, gran maletero y versión de autonomía extendida—, pero sin precio ni fecha para España: a seguir, no a comprar todavía.",
+  },
 };
