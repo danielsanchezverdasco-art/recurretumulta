@@ -748,6 +748,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "opel-rocks-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Opel: sin plan de mantenimiento publicado para el Rocks",
+    },
     marca: "Opel",
     modelo: "Rocks",
     tipo: "Eléctrico",
@@ -803,6 +815,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "opel-astra-12-turbo-130-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Opel: sin plan de mantenimiento publicado para el Astra 1.2 Turbo 130",
+    },
     marca: "Opel",
     modelo: "Astra 1.2 Turbo 130",
     tipo: "Gasolina",
@@ -858,6 +882,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "opel-astra-sports-tourer-12-turbo-130-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Opel: sin plan de mantenimiento publicado para el Astra Sports Tourer 1.2 Turbo 130",
+    },
     marca: "Opel",
     modelo: "Astra Sports Tourer 1.2 Turbo 130",
     tipo: "Gasolina",
@@ -913,6 +949,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "opel-mokka-12-turbo-130-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Opel: sin plan de mantenimiento publicado para el Mokka 1.2 Turbo 130",
+    },
     marca: "Opel",
     modelo: "Mokka 1.2 Turbo 130",
     tipo: "Gasolina",
@@ -1169,6 +1217,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "fiat-e-scudo-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Fiat: sin plan de mantenimiento publicado para el E-Scudo",
+    },
     marca: "Fiat",
     modelo: "E-Scudo",
     tipo: "Eléctrico",
@@ -1224,6 +1284,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "fiat-e-ducato-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Fiat: sin plan de mantenimiento publicado para el E-Ducato",
+    },
     marca: "Fiat",
     modelo: "E-Ducato",
     tipo: "Eléctrico",
@@ -1389,6 +1461,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "fiat-600-12-turbo-100-2024-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Fiat: sin plan de mantenimiento publicado para el 600 1.2 Turbo 100",
+    },
     marca: "Fiat",
     modelo: "600 1.2 Turbo 100",
     tipo: "Gasolina",
@@ -1444,6 +1528,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "fiat-tipo-16-mjt-130-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Fiat: sin plan de mantenimiento publicado para el Tipo 1.6 MultiJet 130",
+    },
     marca: "Fiat",
     modelo: "Tipo 1.6 MultiJet 130",
     tipo: "Diésel",
@@ -1499,6 +1595,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "fiat-500e-cabrio-118-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Fiat: sin plan de mantenimiento publicado para el 500e Cabrio",
+    },
     marca: "Fiat",
     modelo: "500e Cabrio",
     tipo: "Eléctrico",
@@ -1554,6 +1662,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "jeep-compass-4xe-phev-195-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Jeep: sin plan de mantenimiento publicado para el Compass 4xe PHEV 195",
+    },
     marca: "Jeep",
     modelo: "Compass 4xe PHEV 195",
     tipo: "Híbrido enchufable",
@@ -1609,6 +1729,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "jeep-compass-15-e-hybrid-130-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Jeep: sin plan de mantenimiento publicado para el Compass e-Hybrid 130",
+    },
     marca: "Jeep",
     modelo: "Compass e-Hybrid 130",
     tipo: "Híbrido (MHEV)",
@@ -1664,6 +1796,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "jeep-compass-16-mjt-130-2024-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Jeep: sin plan de mantenimiento publicado para el Compass MultiJet 130",
+    },
     marca: "Jeep",
     modelo: "Compass MultiJet 130",
     tipo: "Diésel",
@@ -1764,6 +1908,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "jeep-compass-4xe-240-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Jeep: sin plan de mantenimiento publicado para el Compass 4xe 240",
+    },
     marca: "Jeep",
     modelo: "Compass 4xe 240",
     tipo: "Híbrido enchufable",
@@ -1819,6 +1975,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "jeep-renegade-16-multijet-130-2024-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Jeep: sin plan de mantenimiento publicado para el Renegade MultiJet 130",
+    },
     marca: "Jeep",
     modelo: "Renegade MultiJet 130",
     tipo: "Diésel",
@@ -1984,6 +2152,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "renault-espace-2025-e-tech-200-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Renault: sin plan de mantenimiento publicado para el Espace E-Tech 200",
+    },
     marca: "Renault",
     modelo: "Espace E-Tech 200",
     tipo: "Híbrido (HEV)",
@@ -2094,6 +2274,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "renault-master-e-tech-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Renault: sin plan de mantenimiento publicado para el Master E-Tech",
+    },
     marca: "Renault",
     modelo: "Master E-Tech",
     tipo: "Eléctrico",
@@ -2149,6 +2341,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "renault-captur-2026-e-tech-160-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Renault: sin plan de mantenimiento publicado para el Captur E-Tech 160",
+    },
     marca: "Renault",
     modelo: "Captur E-Tech 160",
     tipo: "Híbrido (HEV)",
@@ -2204,6 +2408,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "renault-arkana-2026-e-tech-145-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Renault: sin plan de mantenimiento publicado para el Arkana E-Tech 145",
+    },
     marca: "Renault",
     modelo: "Arkana E-Tech 145",
     tipo: "Híbrido (HEV)",
@@ -2259,6 +2475,18 @@ export const COCHES_EXP8: CocheComparador[] = [
   },
   {
     id: "renault-grand-kangoo-e-tech-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Renault: sin plan de mantenimiento publicado para el Grand Kangoo E-Tech",
+    },
     marca: "Renault",
     modelo: "Grand Kangoo E-Tech",
     tipo: "Eléctrico",

@@ -15,6 +15,18 @@ const FUENTE_URL =
 export const CAMPERS_HYMER: CocheComparador[] = [
   {
     id: "hymer-free-540-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hymer: sin plan de mantenimiento publicado para el Free 540 Campus",
+    },
     marca: "Hymer",
     modelo: "Free 540 Campus",
     tipo: "Diésel",
@@ -104,6 +116,18 @@ export const CAMPERS_HYMER: CocheComparador[] = [
   },
   {
     id: "hymer-free-600-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Hymer: sin plan de mantenimiento publicado para el Free 600 Campus",
+    },
     marca: "Hymer",
     modelo: "Free 600 Campus",
     tipo: "Diésel",

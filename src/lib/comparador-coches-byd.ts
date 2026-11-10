@@ -1263,6 +1263,18 @@ export const COCHES_BYD: CocheComparador[] = [
   },
   {
     id: "byd-seal-07-gen2-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BYD: sin plan de mantenimiento publicado para el Seal 07 (2ª generación)",
+    },
     garantiaBateriaAnos: null, // sin confirmar para el mercado chino
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,

@@ -67,7 +67,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       "El Blade Mini Ultra es el Teverun urbano definitivo para España: certificado DGT, doble motor de 2000 W y una batería de 1620 Wh que promete 90 km. Pesa 29 kg y cuesta 1499 €, así que no es para quien busque ligereza o precio mínimo, sino para quien quiera potencia y autonomía con los papeles en regla.",
     fuenteNombre: "eptv.es",
     fuenteUrl: "https://eptv.es/patinetes-homologados/teverun/teverun-blade-mini-ultra-homologado-dgt/",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "teverun-tetra",
@@ -187,7 +189,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       "El N12 Pro es el commuter potente de Kingsong: 1000 W, 858 Wh y 80 km teóricos por 999 €, con doble suspensión y frenada combinada. Pesa casi 30 kg y tarda 7 h en cargar, así que es para quien prioriza autonomía y potencia sobre ligereza.",
     fuenteNombre: "Kingsong (oficial)",
     fuenteUrl: "https://eu.kingsong.com/products/kingsong-n12-pro-electric-scooter",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "vmax-vx2-pro",
@@ -248,7 +252,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       "El VX2 Pro ST es el VMAX racional para España: certificado DGT, 874 Wh en solo 20,4 kg y 130 kg de carga máxima. Sin suspensión ni grandes alardes, pero con los papeles en regla y una de las mejores relaciones batería/peso de su clase.",
     fuenteNombre: "VMAX (oficial)",
     fuenteUrl: "https://vmax-escooter.us/es/products/refurb-vx2-pro-vmax-electric-scooter",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "nami-burn-e-2",
@@ -352,7 +358,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       "El Mantis 10 Lite (versión europea de 800 W) es el Kaabo urbano equilibrado: 874 Wh, 50 km teóricos y 25,6 kg por 1190 €. La pega: hay baile de cifras entre tiendas sobre los frenos y está fuera de stock; verifica la ficha técnica antes de comprar.",
     fuenteNombre: "Ecoplanetway",
     fuenteUrl: "https://www.ecoplanetway.es/leganitos/130-kaabo",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "kaabo-mantis-gt",
@@ -413,7 +421,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       "El Mantis GT es el hermano ligero del King GT: 2000 W, 1470 Wh y 80 km teóricos en 29 kg, con electrónica Minimotors y frenada combinada con ABS. Sin precio ni DGT en España, es una opción para quien busque potencia Kaabo sin llegar a los 33 kg del King GT.",
     fuenteNombre: "Max Blinker",
     fuenteUrl: "https://www.maxblinker.com/en/electric-scooters/kaabo-mantis-gt",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "vmax-vx4",
@@ -472,7 +482,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       'El VX4 ST es el VMAX grande y legal: certificado DGT, 874 Wh, ruedas off-road de 10" y 150 kg de carga máxima. Pesa 28,6 kg y tarda 9 h en cargar, así que es un VMP de ruta y carga, no de subir al metro.',
     fuenteNombre: "eScooter Berlin",
     fuenteUrl: "https://www.escooterberlin.eu/escooter-kaufen/vmax-vx4",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "vmax-vx5-pro",
@@ -1112,7 +1124,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       "El Ducati Pro-III es el patinete más tecnológico de la gama Urban e-Mobility de Ducati, con el NFC como gran diferenciador y un chasis de magnesio ligero. Sus 50 km de autonomía declarada y los tubeless antipinchazos lo hacen apto para el día a día, pero las 9 horas de carga y los 799 € lo sitúan en un terreno premium donde la competencia ofrece más batería por menos dinero.",
     fuenteNombre: "Híbridos y Eléctricos",
     fuenteUrl: "https://www.hibridosyelectricos.com/patinetes/asi-es-ducati-air-pro-iii-patinete-electrico-mas-puntero-ducati_50968_102.html",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "aprilia-esr2-evo",
@@ -1175,7 +1189,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       "El Aprilia eSR2 EVO es la versión vitaminada del eSR2 con 500 W y una batería de 691 Wh que le dan 50 km de autonomía realistas para el commuter exigente. Es una apuesta deportiva con doble suspensión e IPX4, pero los neumáticos con cámara y la confusión de las fuentes sobre el freno trasero obligan a revisar bien la unidad antes de comprar.",
     fuenteNombre: "debici.es",
     fuenteUrl: "https://debici.es/patinetes-electricos/9743-aprilia-esr2-evo-patine.html",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "jeep-2xe-urban-camou",
@@ -1237,7 +1253,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       "El Jeep 2xe Urban Camou es un patinete aventurero con estética militar, intermitentes y control de crucero que lo distinguen de la mayoría. Sus 500 W y 461 Wh rinden bien en ciudad, pero en 2026 es complicado encontrarlo nuevo en España, por lo que conviene valorar unidades de ocasión o el mercado de reacondicionados antes de decidirse.",
     fuenteNombre: "Vexmove",
     fuenteUrl: "https://vexmove.com/products/jeep-2xe-urban-camou-electric-scooter",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "fiat-500-iride",
@@ -1299,7 +1317,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       "El Fiat 500 Iride es un objeto de diseño antes que una máquina de prestaciones: 15 kg, faro redondo icónico y una app que hace de llave lo convierten en el complemento perfecto del Fiat 500 eléctrico. Con 250 W y 30 km de autonomía no es para grandes distancias, pero quien busque estilo italiano y ligereza encontrará aquí una pieza única firmada por Mopar.",
     fuenteNombre: "Híbridos y Eléctricos",
     fuenteUrl: "https://www.hibridosyelectricos.com/patinetes/patiente-electrico-mopar-500-iride-inspirado-fiat-500-electrico-precio_50838_102.html",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "lamborghini-al-ext",
@@ -1362,7 +1382,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       "El Lamborghini AL-EXT es el patinete con más presencia de este lote: 500 W traseros, 600 Wh, intermitentes y una app con localización lo colocan en la gama alta técnica. El problema es el precio, entre 753 y 1.279 € según el vendedor, y las discrepancias entre fuentes sobre neumáticos y frenos, que conviene aclarar antes de pagar la prima de la marca del toro.",
     fuenteNombre: "Pixmania",
     fuenteUrl: "https://www.pixmania.com/es/es/lamborghini-alext-25-kmh-negro-verde-125-ah-165214.html",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "mv-agusta-rapido-serie-oro",
@@ -1424,7 +1446,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       "El Rapido Serie Oro es la joya italiana de los patinetes: 500 W, 50 km de autonomía y una carga de 5 horas envueltos en un diseño rojo y oro inconfundible. A 999 € compite por exclusividad más que por especificaciones, pero quien quiera un VMP con alma de moto y app con GPS encontrará aquí una pieza de colección homologable para la ciudad.",
     fuenteNombre: "Híbridos y Eléctricos",
     fuenteUrl: "https://www.hibridosyelectricos.com/patinetes/mv-agusta-patinete-electrico-rapido-serie-oro-precio-datos-fotos_51544_102.html",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "acer-es-series-5-advance",
@@ -1480,7 +1504,9 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       "El Acer ES Series 5 Advance es la opción racional de este lote: 60 km de autonomía, 500 W con pico de 833 W y, sobre todo, homologación DGT verificada en su ficha de venta. A 677,59 € no es barato, pero es de los pocos patinetes de marca tecnológica con el certificado en regla, intermitentes y frenada eABS: una compra sensata para quien use el patinete a diario.",
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/opiniones/acer-es-series-5-advance-patinete-electrico-10-833w-a-60km-16000-mah-hom-dgt-negro",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "jeep-jad-advanced-safety",
@@ -1543,6 +1569,8 @@ export const PATINETES_EXP_P10: PatineteComparador[] = [
       "El Jeep JAD Advanced Safety apuesta por la visibilidad con intermitentes y doble faro LED en un chasis verde de estética militar. Con 515 W de pico y 40 km de autonomía es un urbano competente, pero en 2026 no hay precio de nuevo verificado en España y varios datos técnicos quedan sin confirmar, por lo que solo compensa si se encuentra a buen precio en reacondicionado o liquidación.",
     fuenteNombre: "MediaMarkt España",
     fuenteUrl: "https://www.mediamarkt.es/es/product/_reacondicionado-seminuevo-muy-bueno-patinete-electrico-jeep-jad-advanced-safety-potencia-max-515-w-carga-max-100-kg-10000-mah-25-kmh-verde-1599336.html",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
 ];

@@ -89,6 +89,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "niu-mqi-gt-evo-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "NIU: sin plan de mantenimiento publicado para el MQi GT",
+    },
     marca: "NIU",
     modelo: "MQi GT",
     version: "Evo",
@@ -154,6 +166,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "vespa-elettrica-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Vespa: sin plan de mantenimiento publicado para el Primavera Elettrica",
+    },
     marca: "Vespa",
     modelo: "Primavera Elettrica",
     version: "70 Tech",
@@ -257,6 +281,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-em1-e-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el EM1 e:",
+    },
     marca: "Honda",
     modelo: "EM1 e:",
     version: "estándar",
@@ -322,6 +358,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "yamaha-neos-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el NEO's",
+    },
     marca: "Yamaha",
     modelo: "NEO's",
     version: "Dual Battery",
@@ -387,6 +435,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "bmw-ce-04-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW Motorrad: sin plan de mantenimiento publicado para el CE 04",
+    },
     marca: "BMW Motorrad",
     modelo: "CE 04",
     version: "estándar",
@@ -453,6 +513,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "bmw-ce-02-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW Motorrad: sin plan de mantenimiento publicado para el CE 02",
+    },
     marca: "BMW Motorrad",
     modelo: "CE 02",
     version: "CE 02 (11 kW)",
@@ -498,6 +570,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "zero-fxe-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Zero Motorcycles: sin plan de mantenimiento publicado para el FXE",
+    },
     marca: "Zero Motorcycles",
     modelo: "FXE",
     version: "FXE 7.2 (2025)",
@@ -608,6 +692,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "horwin-ek3-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Horwin: sin plan de mantenimiento publicado para el EK3",
+    },
     marca: "Horwin",
     modelo: "EK3",
     version: "EK3",
@@ -720,6 +816,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "pursang-e-track-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Pursang: sin plan de mantenimiento publicado para el E-Track",
+    },
     marca: "Pursang",
     modelo: "E-Track",
     version: "E-Track",
@@ -791,6 +899,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "can-am-pulse-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Can-Am: sin plan de mantenimiento publicado para el Pulse",
+    },
     marca: "Can-Am",
     modelo: "Pulse",
     version: "Pulse (35 kW)",
@@ -862,6 +982,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "flying-flea-c6-moto-electrica-royal-enfield-5990-euros",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Royal Enfield: sin plan de mantenimiento publicado para el Flying Flea C6",
+    },
     marca: "Royal Enfield",
     modelo: "Flying Flea C6",
     version: "C6",
@@ -912,6 +1044,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "niu-nqi-sport-scooter-electrico-1999-euros-gama-2026",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "NIU: sin plan de mantenimiento publicado para el NQi Sport",
+    },
     marca: "NIU",
     modelo: "NQi Sport",
     version: "Sport",
@@ -963,6 +1107,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-cbr600rr-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el CBR600RR",
+    },
     marca: "Honda",
     modelo: "CBR600RR",
     version: "CBR600RR 2024",
@@ -1034,6 +1190,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "yamaha-yzf-r9-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el YZF-R9",
+    },
     marca: "Yamaha",
     modelo: "YZF-R9",
     version: "YZF-R9 2025",
@@ -1187,6 +1355,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "aprilia-rsv4-1100-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Aprilia: sin plan de mantenimiento publicado para el RSV4 1100",
+    },
     marca: "Aprilia",
     modelo: "RSV4 1100",
     version: "RSV4 1100 2025",
@@ -1239,6 +1419,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "husqvarna-701-supermoto-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Husqvarna: sin plan de mantenimiento publicado para el 701 Supermoto",
+    },
     marca: "Husqvarna",
     modelo: "701 Supermoto",
     version: "701 Supermoto 2024",
@@ -1292,6 +1484,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "ktm-690-smc-r-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "KTM: sin plan de mantenimiento publicado para el 690 SMC R",
+    },
     marca: "KTM",
     modelo: "690 SMC R",
     version: "690 SMC R 2024",
@@ -1345,6 +1549,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "kawasaki-ninja-1000sx-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kawasaki: sin plan de mantenimiento publicado para el Ninja 1000SX",
+    },
     marca: "Kawasaki",
     modelo: "Ninja 1000SX",
     version: "Ninja 1000SX 2024",
@@ -1398,6 +1614,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "suzuki-gsx-s1000gt-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Suzuki: sin plan de mantenimiento publicado para el GSX-S1000GT",
+    },
     marca: "Suzuki",
     modelo: "GSX-S1000GT",
     version: "GSX-S1000GT",
@@ -1451,6 +1679,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "kawasaki-z900rs-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kawasaki: sin plan de mantenimiento publicado para el Z900RS",
+    },
     marca: "Kawasaki",
     modelo: "Z900RS",
     version: "Z900RS",
@@ -1504,6 +1744,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "yamaha-xsr700-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el XSR700",
+    },
     marca: "Yamaha",
     modelo: "XSR700",
     version: "XSR700 2024",
@@ -1556,6 +1808,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "yamaha-xsr900-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el XSR900",
+    },
     marca: "Yamaha",
     modelo: "XSR900",
     version: "XSR900 2024",
@@ -1628,6 +1892,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "bmw-r-12-ninet-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW Motorrad: sin plan de mantenimiento publicado para el R 12 nineT",
+    },
     marca: "BMW Motorrad",
     modelo: "R 12 nineT",
     version: "R 12 nineT 2024",
@@ -1681,6 +1957,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "aprilia-rs-125-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Aprilia: sin plan de mantenimiento publicado para el RS 125",
+    },
     marca: "Aprilia",
     modelo: "RS 125",
     version: "RS 125 2025",
@@ -1753,6 +2041,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "yamaha-yzf-r125-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el YZF-R125",
+    },
     marca: "Yamaha",
     modelo: "YZF-R125",
     version: "YZF-R125",
@@ -1819,6 +2119,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-cb125f-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el CB125F",
+    },
     marca: "Honda",
     modelo: "CB125F",
     version: "CB125F 2025",
@@ -1872,6 +2184,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "yamaha-xsr125-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el XSR125",
+    },
     marca: "Yamaha",
     modelo: "XSR125",
     version: "XSR125 2025",
@@ -1925,6 +2249,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "aprilia-rx-125-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Aprilia: sin plan de mantenimiento publicado para el RX 125",
+    },
     marca: "Aprilia",
     modelo: "RX 125",
     version: "RX 125 2025",
@@ -2012,6 +2348,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "silence-s01-plus-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Silence: sin plan de mantenimiento publicado para el S01+",
+    },
     marca: "Silence",
     modelo: "S01+",
     version: "S01+",
@@ -2065,6 +2413,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "qjmotor-srv-125-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "QJMotor: sin plan de mantenimiento publicado para el SRV 125",
+    },
     marca: "QJMotor",
     modelo: "SRV 125",
     version: "SRV 125",
@@ -2119,6 +2479,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "keeway-superlight-125-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Keeway: sin plan de mantenimiento publicado para el Superlight 125",
+    },
     marca: "Keeway",
     modelo: "Superlight 125",
     version: "Superlight 125",
@@ -2172,6 +2544,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "montesa-cota-4rt-301rr-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Montesa: sin plan de mantenimiento publicado para el Cota 4RT 301RR",
+    },
     marca: "Montesa",
     modelo: "Cota 4RT 301RR",
     version: "Cota 4RT 301RR",
@@ -2225,6 +2609,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
 {
     id: "yamaha-tenere-700-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el Ténéré 700",
+    },
     marca: "Yamaha",
     modelo: "Ténéré 700",
     version: "Ténéré 700 2024",
@@ -2275,6 +2671,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "ktm-790-adventure-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "KTM: sin plan de mantenimiento publicado para el 790 Adventure",
+    },
     marca: "KTM",
     modelo: "790 Adventure",
     version: "790 Adventure 2024",
@@ -2325,6 +2733,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-xl750-transalp-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el XL750 Transalp",
+    },
     marca: "Honda",
     modelo: "XL750 Transalp",
     version: "XL750 Transalp 2024",
@@ -2446,6 +2866,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "aprilia-tuareg-660-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Aprilia: sin plan de mantenimiento publicado para el Tuareg 660",
+    },
     marca: "Aprilia",
     modelo: "Tuareg 660",
     version: "Tuareg 660 2024",
@@ -2584,6 +3016,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "triumph-tiger-900-gt-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Triumph: sin plan de mantenimiento publicado para el Tiger 900 GT",
+    },
     marca: "Triumph",
     modelo: "Tiger 900 GT",
     version: "Tiger 900 GT 2024",
@@ -2635,6 +3079,18 @@ export const MOTOS_BASE: MotoComparador[] = [
 // ── 1. KTM 1290 Super Duke R 2024 ──────────────────────────────────
   {
     id: "ktm-1290-super-duke-r-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "KTM: sin plan de mantenimiento publicado para el 1290 Super Duke R",
+    },
     marca: "KTM",
     modelo: "1290 Super Duke R",
     version: "1290 Super Duke R 2024",
@@ -2686,6 +3142,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   // ── 2. Yamaha MT-10 2024 ──────────────────────────────────────────
   {
     id: "yamaha-mt-10-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el MT-10",
+    },
     marca: "Yamaha",
     modelo: "MT-10",
     version: "MT-10 2024",
@@ -2837,6 +3305,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   // ── 4. Suzuki GSX-S1000 2024 ───────────────────────────────────────
   {
     id: "suzuki-gsx-s1000-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Suzuki: sin plan de mantenimiento publicado para el GSX-S1000",
+    },
     marca: "Suzuki",
     modelo: "GSX-S1000",
     version: "GSX-S1000 2024",
@@ -2888,6 +3368,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   // ── 5. BMW S 1000 R 2024 ───────────────────────────────────────────
   {
     id: "bmw-s-1000-r-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW Motorrad: sin plan de mantenimiento publicado para el S 1000 R",
+    },
     marca: "BMW Motorrad",
     modelo: "S 1000 R",
     version: "S 1000 R 2024",
@@ -2939,6 +3431,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   // ── 6. Aprilia Tuono V4 2024 ───────────────────────────────────────
   {
     id: "aprilia-tuono-v4-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Aprilia: sin plan de mantenimiento publicado para el Tuono V4",
+    },
     marca: "Aprilia",
     modelo: "Tuono V4",
     version: "Tuono V4 2024",
@@ -2990,6 +3494,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   // ── 7. Ducati Streetfighter V4 2024 (base) ──────────────────────────
   {
     id: "ducati-streetfighter-v4-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ducati: sin plan de mantenimiento publicado para el Streetfighter V4",
+    },
     marca: "Ducati",
     modelo: "Streetfighter V4",
     version: "Streetfighter V4 2024",
@@ -3040,6 +3556,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
 {
     id: "aprilia-rs-660-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Aprilia: sin plan de mantenimiento publicado para el RS 660",
+    },
     marca: "Aprilia",
     modelo: "RS 660",
     version: "RS 660 2024",
@@ -3090,6 +3618,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "yamaha-yzf-r7-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el YZF-R7",
+    },
     marca: "Yamaha",
     modelo: "YZF-R7",
     version: "YZF-R7 2024",
@@ -3159,6 +3699,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-cbr650r-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el CBR650R",
+    },
     marca: "Honda",
     modelo: "CBR650R",
     version: "CBR650R 2024",
@@ -3315,6 +3867,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "suzuki-gsx-8r-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Suzuki: sin plan de mantenimiento publicado para el GSX-8R",
+    },
     marca: "Suzuki",
     modelo: "GSX-8R",
     version: "GSX-8R 2024",
@@ -3365,6 +3929,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "triumph-daytona-660-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Triumph: sin plan de mantenimiento publicado para el Daytona 660",
+    },
     marca: "Triumph",
     modelo: "Daytona 660",
     version: "Daytona 660 2024",
@@ -3498,6 +4074,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-forza-350-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el Forza 350",
+    },
     textosPropios: {
       precio: "Moteo da 6.380 € como precio de salida del Forza 350 en 2024. Honda España lista hoy el modelo 2026 desde 6.550 €, o 6.675 € con la edición especial (honda.es, 31/10/2026). La cifra de la ficha corresponde al lanzamiento de 2024 y no incluye campañas ni gastos de matriculación.",
     },
@@ -3564,6 +4152,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "kymco-ak-550-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kymco: sin plan de mantenimiento publicado para el AK 550",
+    },
     marca: "Kymco",
     modelo: "AK 550",
     version: "AK 550 Premium 2024",
@@ -3664,6 +4264,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "vespa-gts-300-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Vespa: sin plan de mantenimiento publicado para el GTS 300",
+    },
     marca: "Vespa",
     modelo: "GTS 300",
     version: "GTS 300 2024",
@@ -3714,6 +4326,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
 {
     id: "zero-sr-f-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Zero Motorcycles: sin plan de mantenimiento publicado para el SR/F",
+    },
     marca: "Zero Motorcycles",
     modelo: "SR/F",
     version: "SR/F 2024",
@@ -3891,6 +4515,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "can-am-origin-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Can-Am: sin plan de mantenimiento publicado para el Origin",
+    },
     marca: "Can-Am",
     modelo: "Origin",
     version: "Origin 2024",
@@ -3939,6 +4575,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "triumph-bonneville-t120-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Triumph: sin plan de mantenimiento publicado para el Bonneville T120",
+    },
     marca: "Triumph",
     modelo: "Bonneville T120",
     version: "Bonneville T120 2024",
@@ -3987,6 +4635,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "royal-enfield-interceptor-650-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Royal Enfield: sin plan de mantenimiento publicado para el Interceptor 650",
+    },
     marca: "Royal Enfield",
     modelo: "Interceptor 650",
     version: "Interceptor 650 2024",
@@ -4035,6 +4695,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "moto-guzzi-v7-stone-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Moto Guzzi: sin plan de mantenimiento publicado para el V7",
+    },
     marca: "Moto Guzzi",
     modelo: "V7",
     version: "V7 Stone 2024",
@@ -4083,6 +4755,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "ducati-scrambler-800-icon-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ducati: sin plan de mantenimiento publicado para el Scrambler 800",
+    },
     marca: "Ducati",
     modelo: "Scrambler 800",
     version: "Scrambler Icon 2024",
@@ -4131,6 +4815,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "husqvarna-svartpilen-801-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Husqvarna: sin plan de mantenimiento publicado para el Svartpilen 801",
+    },
     marca: "Husqvarna",
     modelo: "Svartpilen 801",
     version: "Svartpilen 801 2024",
@@ -4179,6 +4875,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
 {
     id: "indian-scout-sixty-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Indian Motorcycle: sin plan de mantenimiento publicado para el Scout Sixty",
+    },
     marca: "Indian Motorcycle",
     modelo: "Scout Sixty",
     version: "Scout Sixty 2024",
@@ -4229,6 +4937,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "harley-davidson-nightster-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Harley-Davidson: sin plan de mantenimiento publicado para el Nightster",
+    },
     marca: "Harley-Davidson",
     modelo: "Nightster",
     version: "Nightster 2024",
@@ -4279,6 +4999,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "triumph-bonneville-bobber-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Triumph: sin plan de mantenimiento publicado para el Bonneville Bobber",
+    },
     marca: "Triumph",
     modelo: "Bonneville Bobber",
     version: "Bonneville Bobber 2024",
@@ -4329,6 +5061,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "kawasaki-vulcan-s-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kawasaki: sin plan de mantenimiento publicado para el Vulcan S",
+    },
     marca: "Kawasaki",
     modelo: "Vulcan S",
     version: "2026",
@@ -4378,6 +5122,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "ktm-125-duke-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "KTM: sin plan de mantenimiento publicado para el 125 Duke",
+    },
     marca: "KTM",
     modelo: "125 Duke",
     version: "125 Duke 2024",
@@ -4427,6 +5183,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "husqvarna-svartpilen-125-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Husqvarna: sin plan de mantenimiento publicado para el Svartpilen 125",
+    },
     marca: "Husqvarna",
     modelo: "Svartpilen 125",
     version: "Svartpilen 125 2024",
@@ -4476,6 +5244,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-cb125r-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el CB125R",
+    },
     marca: "Honda",
     modelo: "CB125R",
     version: "CB125R 2024",
@@ -4623,6 +5403,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "gasgas-sm-700-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "GasGas: sin plan de mantenimiento publicado para el SM 700",
+    },
     marca: "GasGas",
     modelo: "SM 700",
     version: "SM 700 2024",
@@ -4691,6 +5483,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-nt1100-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el NT1100",
+    },
     marca: "Honda",
     modelo: "NT1100",
     version: "NT1100 2024",
@@ -4740,6 +5544,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "yamaha-tracer-9-gt-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el Tracer 9 GT",
+    },
     marca: "Yamaha",
     modelo: "Tracer 9 GT",
     version: "Tracer 9 GT 2024",
@@ -4859,6 +5675,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "kawasaki-versys-1000-s-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kawasaki: sin plan de mantenimiento publicado para el Versys 1000 S",
+    },
     marca: "Kawasaki",
     modelo: "Versys 1000 S",
     version: "Versys 1000 S 2024",
@@ -4908,6 +5736,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "gasgas-txt-racing-300-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "GasGas: sin plan de mantenimiento publicado para el TXT Racing 300",
+    },
     marca: "GasGas",
     modelo: "TXT Racing 300",
     version: "TXT Racing 300 2024",
@@ -4959,6 +5799,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "beta-evo-300-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Beta: sin plan de mantenimiento publicado para el Evo 300",
+    },
     marca: "Beta",
     modelo: "Evo 300",
     version: "Evo 300 2T 2024",
@@ -5010,6 +5862,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "sherco-st-300-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Sherco: sin plan de mantenimiento publicado para el ST 300",
+    },
     marca: "Sherco",
     modelo: "ST 300",
     version: "ST 300 Racing 2024",
@@ -5059,6 +5923,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
 {
     id: "ducati-desertx-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ducati: sin plan de mantenimiento publicado para el DesertX",
+    },
     marca: "Ducati",
     modelo: "DesertX",
     version: "DesertX 2024",
@@ -5197,6 +6073,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "ktm-890-adventure-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "KTM: sin plan de mantenimiento publicado para el 890 Adventure",
+    },
     marca: "KTM",
     modelo: "890 Adventure",
     version: "890 Adventure 2024",
@@ -5350,6 +6238,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "triumph-tiger-1200-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Triumph: sin plan de mantenimiento publicado para el Tiger 1200",
+    },
     marca: "Triumph",
     modelo: "Tiger 1200",
     version: "Tiger 1200 2024",
@@ -5401,6 +6301,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "moto-guzzi-stelvio-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Moto Guzzi: sin plan de mantenimiento publicado para el Stelvio",
+    },
     marca: "Moto Guzzi",
     modelo: "Stelvio",
     version: "Stelvio 2024",
@@ -5452,6 +6364,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "cfmoto-800mt-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "CFMoto: sin plan de mantenimiento publicado para el 800MT",
+    },
     marca: "CFMoto",
     modelo: "800MT",
     version: "800MT 2024",
@@ -5503,6 +6427,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "voge-900dsx-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Voge: sin plan de mantenimiento publicado para el 900DSX",
+    },
     marca: "Voge",
     modelo: "900DSX",
     version: "900DSX 2024",
@@ -5554,6 +6490,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "qjmotor-srt-800-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "QJMotor: sin plan de mantenimiento publicado para el SRT 800",
+    },
     marca: "QJMotor",
     modelo: "SRT 800",
     version: "SRT 800 2024",
@@ -5605,6 +6553,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "kawasaki-z900-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kawasaki: sin plan de mantenimiento publicado para el Z900",
+    },
     marca: "Kawasaki",
     modelo: "Z900",
     version: "Z900 2025",
@@ -5656,6 +6616,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "yamaha-mt-09-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el MT-09",
+    },
     marca: "Yamaha",
     modelo: "MT-09",
     version: "MT-09 2024",
@@ -5726,6 +6698,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "triumph-street-triple-765-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Triumph: sin plan de mantenimiento publicado para el Street Triple 765",
+    },
     marca: "Triumph",
     modelo: "Street Triple 765",
     version: "Street Triple 765 R 2024",
@@ -5776,6 +6760,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "mv-agusta-brutale-800-rr-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "MV Agusta: sin plan de mantenimiento publicado para el Brutale 800 RR",
+    },
     marca: "MV Agusta",
     modelo: "Brutale 800 RR",
     version: "Brutale 800 RR 2024",
@@ -5876,6 +6872,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-cb750-hornet-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el CB750 Hornet",
+    },
     marca: "Honda",
     modelo: "CB750 Hornet",
     version: "CB750 Hornet 2024",
@@ -5939,6 +6947,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "suzuki-gsx-8s-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Suzuki: sin plan de mantenimiento publicado para el GSX-8S",
+    },
     marca: "Suzuki",
     modelo: "GSX-8S",
     version: "GSX-8S 2024",
@@ -5989,6 +7009,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "ktm-990-duke-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "KTM: sin plan de mantenimiento publicado para el 990 Duke",
+    },
     marca: "KTM",
     modelo: "990 Duke",
     version: "990 Duke 2024",
@@ -6039,6 +7071,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "bmw-f-900-r-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW Motorrad: sin plan de mantenimiento publicado para el F 900 R",
+    },
     marca: "BMW Motorrad",
     modelo: "F 900 R",
     version: "F 900 R 2024",
@@ -6089,6 +7133,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "aprilia-tuono-660-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Aprilia: sin plan de mantenimiento publicado para el Tuono 660",
+    },
     marca: "Aprilia",
     modelo: "Tuono 660",
     version: "Tuono 660 2024",
@@ -6139,6 +7195,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "ducati-panigale-v4-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ducati: sin plan de mantenimiento publicado para el Panigale V4",
+    },
     marca: "Ducati",
     modelo: "Panigale V4",
     version: "Panigale V4 2025",
@@ -6189,6 +7257,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-cbr1000rr-r-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el CBR1000RR-R",
+    },
     marca: "Honda",
     modelo: "CBR1000RR-R",
     version: "CBR1000RR-R Fireblade 2024",
@@ -6239,6 +7319,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "kawasaki-zx-10r-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kawasaki: sin plan de mantenimiento publicado para el Ninja ZX-10R",
+    },
     marca: "Kawasaki",
     modelo: "Ninja ZX-10R",
     version: "Ninja ZX-10R 2024",
@@ -6425,6 +7517,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "yamaha-yzf-r1-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el YZF-R1",
+    },
     marca: "Yamaha",
     modelo: "YZF-R1",
     version: "YZF-R1 2024",
@@ -6488,6 +7592,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "mv-agusta-f3-800-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "MV Agusta: sin plan de mantenimiento publicado para el F3 800",
+    },
     marca: "MV Agusta",
     modelo: "F3 800",
     version: "F3 800 2024",
@@ -6538,6 +7654,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "yamaha-tmax-560-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el TMAX 560",
+    },
     marca: "Yamaha",
     modelo: "TMAX 560",
     version: "TMAX 560 2024",
@@ -6588,6 +7716,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-adv350-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el ADV350",
+    },
     textosPropios: {
       "notaCosa": "Sus 29 CV por 6.580 € puntúan alto; en practicidad la nota se queda corta.",
       "precio": "La Honda ADV350 (2024) parte de 6.580 € con el eSP+ de 330 cc; colores y accesorios, en la comparativa:",
@@ -6662,6 +7802,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-x-adv-750-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el X-ADV 750",
+    },
     marca: "Honda",
     modelo: "X-ADV 750",
     version: "X-ADV 750 2025",
@@ -6814,6 +7966,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "kymco-downtown-350-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kymco: sin plan de mantenimiento publicado para el Downtown 350",
+    },
     marca: "Kymco",
     modelo: "Downtown 350",
     version: "Downtown 350 GT 2024",
@@ -6863,6 +8027,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "sym-maxsym-tl-508-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "SYM: sin plan de mantenimiento publicado para el Maxsym TL 508",
+    },
     marca: "SYM",
     modelo: "Maxsym TL 508",
     version: "Maxsym TL 508 2024",
@@ -6932,6 +8108,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "livewire-s2-del-mar-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "LiveWire: sin plan de mantenimiento publicado para el S2 Del Mar",
+    },
     marca: "LiveWire",
     modelo: "S2 Del Mar",
     version: "S2 Del Mar 2024",
@@ -6982,6 +8170,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "maeving-rm1-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Maeving: sin plan de mantenimiento publicado para el RM1",
+    },
     marca: "Maeving",
     modelo: "RM1",
     version: "RM1 2024",
@@ -7035,6 +8235,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "livewire-one-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "LiveWire: sin plan de mantenimiento publicado para el One",
+    },
     marca: "LiveWire",
     modelo: "One",
     version: "One 2024",
@@ -7067,6 +8279,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "zero-sr-s-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Zero Motorcycles: sin plan de mantenimiento publicado para el SR/S",
+    },
     marca: "Zero Motorcycles",
     modelo: "SR/S",
     version: "SR/S 2024",
@@ -7099,6 +8323,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "vmoto-tc-max-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Vmoto: sin plan de mantenimiento publicado para el TC Max",
+    },
     marca: "Vmoto",
     modelo: "TC Max",
     version: "TC Max 2024",
@@ -7131,6 +8367,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "triumph-thruxton-final-edition-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Triumph: sin plan de mantenimiento publicado para el Thruxton Final Edition",
+    },
     marca: "Triumph",
     modelo: "Thruxton Final Edition",
     version: "Thruxton Final Edition 2024",
@@ -7163,6 +8411,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "kawasaki-z650rs-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kawasaki: sin plan de mantenimiento publicado para el Z650RS",
+    },
     marca: "Kawasaki",
     modelo: "Z650RS",
     version: "Z650RS 2024",
@@ -7295,6 +8555,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "royal-enfield-super-meteor-650-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Royal Enfield: sin plan de mantenimiento publicado para el Super Meteor 650",
+    },
     marca: "Royal Enfield",
     modelo: "Super Meteor 650",
     version: "Super Meteor 650 2024",
@@ -7327,6 +8599,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "moto-morini-seiemmezzo-str-650-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Moto Morini: sin plan de mantenimiento publicado para el Seiemmezzo STR 650",
+    },
     marca: "Moto Morini",
     modelo: "Seiemmezzo STR 650",
     version: "Seiemmezzo STR 650 2024",
@@ -7359,6 +8643,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "benelli-leoncino-800-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Benelli: sin plan de mantenimiento publicado para el Leoncino 800",
+    },
     marca: "Benelli",
     modelo: "Leoncino 800",
     version: "Leoncino 800 2024",
@@ -7391,6 +8687,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "brixton-cromwell-1200-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Brixton: sin plan de mantenimiento publicado para el Cromwell 1200",
+    },
     marca: "Brixton",
     modelo: "Cromwell 1200",
     version: "Cromwell 1200 2024",
@@ -7455,6 +8763,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "aprilia-tuono-125-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Aprilia: sin plan de mantenimiento publicado para el Tuono 125",
+    },
     marca: "Aprilia",
     modelo: "Tuono 125",
     version: "Tuono 125 2024",
@@ -7487,6 +8807,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-msx125-grom-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el MSX125 Grom",
+    },
     marca: "Honda",
     modelo: "MSX125 Grom",
     version: "MSX125 Grom 2024",
@@ -7519,6 +8851,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "kawasaki-z125-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kawasaki: sin plan de mantenimiento publicado para el Z 125",
+    },
     marca: "Kawasaki",
     modelo: "Z 125",
     version: "Z125 2024",
@@ -7551,6 +8895,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "ktm-rc-125-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "KTM: sin plan de mantenimiento publicado para el RC 125",
+    },
     marca: "KTM",
     modelo: "RC 125",
     version: "RC 125 2024",
@@ -7583,6 +8939,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "cfmoto-125nk-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "CFMoto: sin plan de mantenimiento publicado para el 125NK",
+    },
     marca: "CFMoto",
     modelo: "125NK",
     version: "125NK 2024",
@@ -7615,6 +8983,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "harley-davidson-sportster-s-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Harley-Davidson: sin plan de mantenimiento publicado para el Sportster S",
+    },
     marca: "Harley-Davidson",
     modelo: "Sportster S",
     version: "Sportster S 2024",
@@ -7647,6 +9027,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "indian-chief-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Indian Motorcycle: sin plan de mantenimiento publicado para el Chief",
+    },
     marca: "Indian Motorcycle",
     modelo: "Chief",
     version: "Chief 2024",
@@ -7747,6 +9139,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "kawasaki-eliminator-500-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kawasaki: sin plan de mantenimiento publicado para el Eliminator 500",
+    },
     marca: "Kawasaki",
     modelo: "Eliminator 500",
     version: "Eliminator 500 2024",
@@ -7779,6 +9183,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "bmw-r-1300-rt-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW Motorrad: sin plan de mantenimiento publicado para el R 1300 RT",
+    },
     marca: "BMW Motorrad",
     modelo: "R 1300 RT",
     version: "R 1300 RT 2025",
@@ -7811,6 +9227,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-gold-wing-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el Gold Wing",
+    },
     marca: "Honda",
     modelo: "Gold Wing",
     version: "Gold Wing 2024",
@@ -7875,6 +9303,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
 {
     id: "yamaha-niken-gt-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el Niken GT",
+    },
     marca: "Yamaha",
     modelo: "Niken GT",
     version: "Niken GT 2025",
@@ -7943,6 +9383,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "triumph-rocket-3-storm-r-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Triumph: sin plan de mantenimiento publicado para el Rocket 3 Storm R",
+    },
     marca: "Triumph",
     modelo: "Rocket 3 Storm R",
     version: "Rocket 3 Storm R 2024",
@@ -7994,6 +9446,18 @@ export const MOTOS_BASE: MotoComparador[] = [
   },
   {
     id: "honda-wn7-electrica-precio-espana-15000",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el WN7",
+    },
     marca: "Honda",
     modelo: "WN7",
     version: "2026",

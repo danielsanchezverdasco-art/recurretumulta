@@ -205,6 +205,18 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
   },
   {
     id: "zero-xe-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Zero Motorcycles: sin plan de mantenimiento publicado para el XE",
+    },
     marca: "Zero Motorcycles",
     modelo: "XE",
     version: "2026",
@@ -269,6 +281,18 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
   },
   {
     id: "zero-xb-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Zero Motorcycles: sin plan de mantenimiento publicado para el XB",
+    },
     marca: "Zero Motorcycles",
     modelo: "XB",
     version: "2026",
@@ -988,6 +1012,18 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
   },
   {
     id: "horwin-ht5-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Horwin: sin plan de mantenimiento publicado para el HT5",
+    },
     marca: "Horwin",
     modelo: "HT5",
     version: "R 2025",
@@ -1052,6 +1088,18 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
   },
   {
     id: "horwin-cr6-pro-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Horwin: sin plan de mantenimiento publicado para el CR6 Pro",
+    },
     marca: "Horwin",
     modelo: "CR6 Pro",
     version: "2025",
@@ -1116,6 +1164,18 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
   },
   {
     id: "vmoto-stash-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Vmoto: sin plan de mantenimiento publicado para el Stash",
+    },
     marca: "Vmoto",
     modelo: "Stash",
     version: "2025",
@@ -1324,6 +1384,18 @@ export const MOTOS_EXP_M5: MotoComparador[] = [
   },
   {
     id: "super-soco-cu-mini-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Super Soco: sin plan de mantenimiento publicado para el CU Mini",
+    },
     marca: "Super Soco",
     modelo: "CU Mini",
     version: "2025",

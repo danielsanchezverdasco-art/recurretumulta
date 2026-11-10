@@ -467,6 +467,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "kia-sportage-hev-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia: sin plan de mantenimiento publicado para el Sportage 1.6 T-GDi HEV 215 CV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -524,6 +536,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "kia-ev9-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia: sin plan de mantenimiento publicado para el EV9 RWD Long Range 204 CV",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -581,6 +605,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "kia-ev2-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kia: sin plan de mantenimiento publicado para el EV2 Standard Range 147 CV",
+    },
     garantiaBateriaAnos: 7,
     garantiaBateriaKm: 150000,
     garantiaBateriaDegradacionPct: null,
@@ -752,6 +788,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "ford-capri-ev-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ford: sin plan de mantenimiento publicado para el Capri EV Rango Extendido RWD 286 CV",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
@@ -923,6 +971,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "ford-mustang-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ford: sin plan de mantenimiento publicado para el Mustang GT Fastback 5.0 V8 446 CV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -982,6 +1042,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "ford-puma-mhev-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ford: sin plan de mantenimiento publicado para el Puma 1.0 EcoBoost mHEV 155 CV Powershift",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1039,6 +1111,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "ford-focus-mhev-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ford: sin plan de mantenimiento publicado para el Focus ST-Line 1.0 EcoBoost mHEV 125 CV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1169,6 +1253,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "bmw-i4-edrive35-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW: sin plan de mantenimiento publicado para el i4 eDrive35 286 CV",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
@@ -1226,6 +1322,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "bmw-x1-xdrive25e-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW: sin plan de mantenimiento publicado para el X1 xDrive25e 245 CV",
+    },
     garantiaBateriaAnos: 6,
     garantiaBateriaKm: 100000,
     garantiaBateriaDegradacionPct: null,
@@ -1340,6 +1448,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "bmw-serie-2-coupe-220i-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW: sin plan de mantenimiento publicado para el Serie 2 Coupé 220i 184 CV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1397,6 +1517,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "bmw-serie-4-420i-coupe-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW: sin plan de mantenimiento publicado para el Serie 4 Coupé 420i 184 CV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1527,6 +1659,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "mercedes-cla-250-plus-eq-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Mercedes-Benz: sin plan de mantenimiento publicado para el CLA 250+ con tecnología EQ 272 CV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1655,6 +1799,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "mercedes-cla-sb-250-plus-eq-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Mercedes-Benz: sin plan de mantenimiento publicado para el CLA 250+ Shooting Brake con tecnología EQ 272 CV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1724,6 +1880,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "bmw-x6-xdrive40i-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW: sin plan de mantenimiento publicado para el X6 xDrive40i 381 CV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1878,6 +2046,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "bmw-serie-8-840i-gc-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW: sin plan de mantenimiento publicado para el Serie 8 840i Gran Coupé 333 CV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1935,6 +2115,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "bmw-z4-m40i-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW: sin plan de mantenimiento publicado para el Z4 M40i 340 CV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2004,6 +2196,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "mercedes-cle-200-coupe-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Mercedes-Benz: sin plan de mantenimiento publicado para el CLE 200 Coupé 204 CV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2351,6 +2555,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "mercedes-amg-gt-43-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Mercedes-Benz: sin plan de mantenimiento publicado para el Mercedes-AMG GT 43 Coupé 421 CV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2479,6 +2695,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "mercedes-clase-b-200-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Mercedes-Benz: sin plan de mantenimiento publicado para el Clase B 200 163 CV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2548,6 +2776,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "volvo-s90-b5-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Volvo: sin plan de mantenimiento publicado para el S90 B5 250 CV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2617,6 +2857,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "volvo-s60-b5-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Volvo: sin plan de mantenimiento publicado para el S60 B5 250 CV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -2755,6 +3007,18 @@ export const COCHES_EXP9: CocheComparador[] = [
   },
   {
     id: "mitsubishi-space-star-2025-10-71cv-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Mitsubishi: sin plan de mantenimiento publicado para el Space Star 120 MPI 71 CV Motion",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,

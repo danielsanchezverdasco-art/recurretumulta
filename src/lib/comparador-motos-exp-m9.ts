@@ -57,6 +57,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "cfmoto-450mt-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "CFMoto: sin plan de mantenimiento publicado para el 450MT",
+    },
     marca: "CFMoto",
     modelo: "450MT",
     version: "450MT 2025",
@@ -120,6 +132,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "cfmoto-450nk-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "CFMoto: sin plan de mantenimiento publicado para el 450NK",
+    },
     marca: "CFMoto",
     modelo: "450NK",
     version: "450NK 2025",
@@ -183,6 +207,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "cfmoto-675sr-r-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "CFMoto: sin plan de mantenimiento publicado para el 675SR-R",
+    },
     marca: "CFMoto",
     modelo: "675SR-R",
     version: "675SR-R 2025",
@@ -309,6 +345,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "cfmoto-800mt-explore-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "CFMoto: sin plan de mantenimiento publicado para el 800MT Explore",
+    },
     marca: "CFMoto",
     modelo: "800MT Explore",
     version: "800MT Explore 2025",
@@ -466,6 +514,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "qjmotor-srt-600sx-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "QJMotor: sin plan de mantenimiento publicado para el SRT 600SX",
+    },
     marca: "QJMotor",
     modelo: "SRT 600SX",
     version: "SRT 600SX 2025",
@@ -526,6 +586,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "qjmotor-srk-125j-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "QJMotor: sin plan de mantenimiento publicado para el SRK 125J",
+    },
     marca: "QJMotor",
     modelo: "SRK 125J",
     version: "SRK 125J 2025",
@@ -590,6 +662,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "qjmotor-srv-600v-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "QJMotor: sin plan de mantenimiento publicado para el SRV 600V",
+    },
     marca: "QJMotor",
     modelo: "SRV 600V",
     version: "SRV 600V 2025",
@@ -744,6 +828,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "voge-ds525x-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Voge: sin plan de mantenimiento publicado para el 525DSX",
+    },
     marca: "Voge",
     modelo: "525DSX",
     version: "525DSX 2025",
@@ -850,6 +946,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "voge-300ac-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Voge: sin plan de mantenimiento publicado para el 300AC",
+    },
     marca: "Voge",
     modelo: "300AC",
     version: "300AC 2025",
@@ -911,6 +1019,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   // ── ZONTES ──
   {
     id: "zontes-350d-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Zontes: sin plan de mantenimiento publicado para el 350D",
+    },
     marca: "Zontes",
     modelo: "350D",
     version: "350D 2025",
@@ -971,6 +1091,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "zontes-368g-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Zontes: sin plan de mantenimiento publicado para el 368G",
+    },
     textosPropios: {
       precio: "El PVR oficial del 368G ETC es 5.592 € (zontesmotos.es, 31/10/2026). La web lo une a un año de seguro gratis para particulares, con una promoción que caducó el 30/06/2026 salvo prórroga. Solicita al concesionario el importe final con gastos.",
     },
@@ -1102,6 +1234,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "zontes-368m-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Zontes: sin plan de mantenimiento publicado para el 368M",
+    },
     marca: "Zontes",
     modelo: "368M",
     version: "368M 2025",
@@ -1907,6 +2051,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "rieju-e-tango-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Rieju: sin plan de mantenimiento publicado para el E-Tango",
+    },
     marca: "Rieju",
     modelo: "E-Tango",
     version: "E-Tango 2025",
@@ -1967,6 +2123,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "rieju-ray-7-7-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Rieju: sin plan de mantenimiento publicado para el Ray 7.7",
+    },
     marca: "Rieju",
     modelo: "Ray 7.7",
     version: "Ray 7.7 2025",
@@ -2027,6 +2195,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "rieju-x-over-357-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Rieju: sin plan de mantenimiento publicado para el X-Over 357",
+    },
     marca: "Rieju",
     modelo: "X-Over 357",
     version: "X-Over 357 2026",
@@ -2153,6 +2333,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "rieju-e-tango-sm-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Rieju: sin plan de mantenimiento publicado para el E-Tango SM",
+    },
     marca: "Rieju",
     modelo: "E-Tango SM",
     version: "E-Tango SM 2025",
@@ -2391,6 +2583,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "silence-s04-l6e-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Silence: sin plan de mantenimiento publicado para el S04 L6e",
+    },
     marca: "Silence",
     modelo: "S04 L6e",
     version: "S04 L6e 2025",
@@ -2460,6 +2664,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "silence-s04-l7e-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Silence: sin plan de mantenimiento publicado para el S04 L7e",
+    },
     marca: "Silence",
     modelo: "S04 L7e",
     version: "S04 L7e 2025",
@@ -2520,6 +2736,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "niu-rqi-sport-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "NIU: sin plan de mantenimiento publicado para el RQi Sport",
+    },
     marca: "NIU",
     modelo: "RQi Sport",
     version: "RQi Sport 2025",
@@ -2752,6 +2980,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "zontes-125v-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Zontes: sin plan de mantenimiento publicado para el 125V",
+    },
     marca: "Zontes",
     modelo: "125V",
     version: "125V 2025",
@@ -2818,6 +3058,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "qjmotor-fort-4-0-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "QJMotor: sin plan de mantenimiento publicado para el Fort 4.0",
+    },
     marca: "QJMotor",
     modelo: "Fort 4.0",
     version: "Fort 4.0 2025",
@@ -2944,6 +3196,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "voge-sr1-125-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Voge: sin plan de mantenimiento publicado para el SR1 125",
+    },
     marca: "Voge",
     modelo: "SR1 125",
     version: "SR1 125 2025",
@@ -3004,6 +3268,18 @@ export const MOTOS_EXP_M9: MotoComparador[] = [
   },
   {
     id: "voge-sr1-adv-125-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Voge: sin plan de mantenimiento publicado para el SR1 ADV 125",
+    },
     marca: "Voge",
     modelo: "SR1 ADV 125",
     version: "SR1 ADV 125 2025",

@@ -148,6 +148,9 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
   },
   {
     id: "nami-klima",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: "MBw6Pwt84IQ",
     videoCanal: "Electric Scooter Insider",
     marca: "Nami",
@@ -203,6 +206,9 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
   },
   {
     id: "nami-klima-max",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: "Ub7xNn_tfZM",
     videoCanal: "Escooter Ninja",
     marca: "Nami",
@@ -257,6 +263,9 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
   },
   {
     id: "nami-blast",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: "w7OsaNb_W6c",
     videoCanal: "NAMI Electric",
     marca: "Nami",
@@ -311,6 +320,9 @@ export const PATINETES_EXP_P3: PatineteComparador[] = [
   },
   {
     id: "nami-blast-max",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: "JKdv9FmZU10",
     videoCanal: "Scoota Gang",
     marca: "Nami",

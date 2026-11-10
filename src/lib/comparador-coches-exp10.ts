@@ -13,6 +13,18 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 export const COCHES_EXP10: CocheComparador[] = [
   {
     id: "ineos-grenadier-station-wagon-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ineos: sin plan de mantenimiento publicado para el Grenadier Station Wagon",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -79,6 +91,18 @@ export const COCHES_EXP10: CocheComparador[] = [
   },
   {
     id: "ineos-grenadier-quartermaster-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ineos: sin plan de mantenimiento publicado para el Grenadier Quartermaster",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -145,6 +169,18 @@ export const COCHES_EXP10: CocheComparador[] = [
   },
   {
     id: "ineos-grenadier-trialmaster-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ineos: sin plan de mantenimiento publicado para el Grenadier Station Wagon Trialmaster",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -277,6 +313,18 @@ export const COCHES_EXP10: CocheComparador[] = [
   },
   {
     id: "morgan-plus-six-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Morgan: sin plan de mantenimiento publicado para el Plus Six",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -409,6 +457,18 @@ export const COCHES_EXP10: CocheComparador[] = [
   },
   {
     id: "caterham-seven-170-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Caterham: sin plan de mantenimiento publicado para el Seven 170",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -541,6 +601,18 @@ export const COCHES_EXP10: CocheComparador[] = [
   },
   {
     id: "caterham-super-seven-600-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Caterham: sin plan de mantenimiento publicado para el Super Seven 600",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -607,6 +679,18 @@ export const COCHES_EXP10: CocheComparador[] = [
   },
   {
     id: "caterham-super-seven-2000-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Caterham: sin plan de mantenimiento publicado para el Super Seven 2000",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -805,6 +889,18 @@ export const COCHES_EXP10: CocheComparador[] = [
   },
   {
     id: "gwm-ora-03-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "GWM Ora: sin plan de mantenimiento publicado para el ORA 03",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
@@ -871,6 +967,18 @@ export const COCHES_EXP10: CocheComparador[] = [
   },
   {
     id: "gwm-ora-07-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "GWM Ora: sin plan de mantenimiento publicado para el ORA 07",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
@@ -937,6 +1045,18 @@ export const COCHES_EXP10: CocheComparador[] = [
   },
   {
     id: "lancia-ypsilon-hybrid-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Lancia: sin plan de mantenimiento publicado para el Ypsilon Hybrid",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,
@@ -1003,6 +1123,18 @@ export const COCHES_EXP10: CocheComparador[] = [
   },
   {
     id: "lancia-ypsilon-electric-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Lancia: sin plan de mantenimiento publicado para el Ypsilon Electric",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
@@ -1069,6 +1201,18 @@ export const COCHES_EXP10: CocheComparador[] = [
   },
   {
     id: "abarth-500e-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Abarth: sin plan de mantenimiento publicado para el 500e",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
@@ -1135,6 +1279,18 @@ export const COCHES_EXP10: CocheComparador[] = [
   },
   {
     id: "abarth-600e-2025-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Abarth: sin plan de mantenimiento publicado para el 600e Turismo",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,

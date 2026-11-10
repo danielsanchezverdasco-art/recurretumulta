@@ -971,6 +971,18 @@ export const COCHES_WULING: CocheComparador[] = [
   },
   {
     id: "wuling-atlas-ev-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Wuling: sin plan de mantenimiento publicado para el Atlas EV",
+    },
     garantiaBateriaAnos: 8, // webs oficiales europea y británica
     garantiaBateriaKm: null, // sin cifra publicada para la batería
     garantiaBateriaDegradacionPct: null,

@@ -10,6 +10,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   // ── SHERCO ──
   {
     id: "sherco-300-sef-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Sherco: sin plan de mantenimiento publicado para el 300 SEF",
+    },
     marca: "Sherco",
     modelo: "300 SEF",
     version: "300 SEF 2025",
@@ -73,6 +85,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   },
   {
     id: "sherco-500-sef-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Sherco: sin plan de mantenimiento publicado para el 500 SEF",
+    },
     marca: "Sherco",
     modelo: "500 SEF",
     version: "500 SEF 2025",
@@ -136,6 +160,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   },
   {
     id: "sherco-125-se-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Sherco: sin plan de mantenimiento publicado para el 125 SE",
+    },
     marca: "Sherco",
     modelo: "125 SE",
     version: "125 SE Factory 2025",
@@ -203,6 +239,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   // ── BETA ──
   {
     id: "beta-rr-480-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Beta: sin plan de mantenimiento publicado para el RR 480",
+    },
     marca: "Beta",
     modelo: "RR 480",
     version: "RR 480 2025",
@@ -329,6 +377,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   },
   {
     id: "beta-alp-200-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Beta: sin plan de mantenimiento publicado para el Alp 200",
+    },
     marca: "Beta",
     modelo: "Alp 200",
     version: "Alp 200 2025",
@@ -393,6 +453,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   // ── FANTIC ──
   {
     id: "fantic-xe-300-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Fantic: sin plan de mantenimiento publicado para el XE 300",
+    },
     marca: "Fantic",
     modelo: "XE 300",
     version: "XE 300 2025",
@@ -456,6 +528,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   },
   {
     id: "fantic-xef-450-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Fantic: sin plan de mantenimiento publicado para el XEF 450",
+    },
     marca: "Fantic",
     modelo: "XEF 450",
     version: "XEF 450 2026",
@@ -519,6 +603,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   },
   {
     id: "fantic-caballero-700-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Fantic: sin plan de mantenimiento publicado para el Caballero 700",
+    },
     marca: "Fantic",
     modelo: "Caballero 700",
     version: "Caballero 700 2026",
@@ -583,6 +679,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   // ── GASGAS ──
   {
     id: "gasgas-ec-350f-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "GasGas: sin plan de mantenimiento publicado para el EC 350F",
+    },
     marca: "GasGas",
     modelo: "EC 350F",
     version: "EC 350F 2025",
@@ -757,6 +865,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   // ── KTM ──
   {
     id: "ktm-350-exc-f-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "KTM: sin plan de mantenimiento publicado para el 350 EXC-F",
+    },
     marca: "KTM",
     modelo: "350 EXC-F",
     version: "350 EXC-F 2025",
@@ -820,6 +940,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   },
   {
     id: "ktm-500-exc-f-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "KTM: sin plan de mantenimiento publicado para el 500 EXC-F",
+    },
     marca: "KTM",
     modelo: "500 EXC-F",
     version: "500 EXC-F 2025",
@@ -884,6 +1016,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   // ── HUSQVARNA ──
   {
     id: "husqvarna-fe-350-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Husqvarna: sin plan de mantenimiento publicado para el FE 350",
+    },
     marca: "Husqvarna",
     modelo: "FE 350",
     version: "FE 350 2025",
@@ -1014,6 +1158,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   // ── HONDA ──
   {
     id: "honda-crf300l-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el CRF300L",
+    },
     marca: "Honda",
     modelo: "CRF300L",
     version: "CRF300L 2026",
@@ -1077,6 +1233,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   },
   {
     id: "honda-crf450rx-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el CRF450RX",
+    },
     marca: "Honda",
     modelo: "CRF450RX",
     version: "CRF450RX 2025",
@@ -1141,6 +1309,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   // ── YAMAHA ──
   {
     id: "yamaha-wr450f-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el WR450F",
+    },
     marca: "Yamaha",
     modelo: "WR450F",
     version: "WR450F 2025",
@@ -1204,6 +1384,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   },
   {
     id: "yamaha-yz250f-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el YZ250F",
+    },
     marca: "Yamaha",
     modelo: "YZ250F",
     version: "YZ250F 2025",
@@ -1268,6 +1460,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   // ── MV AGUSTA ──
   {
     id: "mv-agusta-brutale-1000-rr-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "MV Agusta: sin plan de mantenimiento publicado para el Brutale 1000 RR",
+    },
     marca: "MV Agusta",
     modelo: "Brutale 1000 RR",
     version: "Brutale 1000 RR 2025",
@@ -1398,6 +1602,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   // ── BIMOTA ──
   {
     id: "bimota-kb4-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Bimota: sin plan de mantenimiento publicado para el KB4",
+    },
     marca: "Bimota",
     modelo: "KB4",
     version: "KB4 2025",
@@ -1461,6 +1677,18 @@ export const MOTOS_EXP_M13: MotoComparador[] = [
   },
   {
     id: "bimota-tesi-h2-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Bimota: sin plan de mantenimiento publicado para el Tesi H2",
+    },
     marca: "Bimota",
     modelo: "Tesi H2",
     version: "Tesi H2 2025",

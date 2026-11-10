@@ -408,7 +408,18 @@ export const MOTOS_PRIORIDAD_20261014: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/benda",
     analisisSlug: "benda-rock-300-2026",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Benda: sin plan de mantenimiento publicado para el Rock 300",
+    },
   },
   {
     id: "benelli-imperiale-400-2026",

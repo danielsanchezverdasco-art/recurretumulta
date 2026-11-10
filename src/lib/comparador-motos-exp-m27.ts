@@ -76,7 +76,18 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     fuenteUrl: "https://kovemotor.es/modelo/450rr/",
     analisisSlug: "kove-450rr-2024-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kove: sin plan de mantenimiento publicado para el 450RR",
+    },
   },
   // ── KOVE 800X (2025) — Trail (versión de referencia: 800X Pro) ──────────
   {
@@ -148,7 +159,18 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/kove/800x-pro",
     analisisSlug: "kove-800x-2025-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kove: sin plan de mantenimiento publicado para el 800X",
+    },
   },
   // ── MORBIDELLI T502X (2025) — Trail A2 ─────────────────────────────────
   {
@@ -220,7 +242,18 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     fuenteUrl: "https://www.mundomotero.com/motos/mbp/morbidelli-t502x",
     analisisSlug: "morbidelli-t502x-2025-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Morbidelli: sin plan de mantenimiento publicado para el T502X",
+    },
   },
   // ── MORBIDELLI C1002V (2025) — Custom V-twin ────────────────────────────
   {
@@ -292,7 +325,18 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
     fuenteUrl: "https://www.motorbikemag.es/ficha-tecnica/morbidelli-c1002v/",
     analisisSlug: "morbidelli-c1002v-2025-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Morbidelli: sin plan de mantenimiento publicado para el C1002V",
+    },
   },
   // ── MACBOR MONTANA XR5 (2024) — Trail A2 ────────────────────────────────
   // NOTA HONESTA: no existe una «XR5 125». La trail 125 de Macbor es la
@@ -368,6 +412,17 @@ export const MOTOS_EXP_M27: MotoComparador[] = [
       "https://super7moto.com/pruebas/pruebas-a-fondo/22023-macbor-montana-500-xr5-prueba-a-fondo.html",
     analisisSlug: "macbor-xr5-2024-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Macbor: sin plan de mantenimiento publicado para el Montana XR5",
+    },
   },
 ];

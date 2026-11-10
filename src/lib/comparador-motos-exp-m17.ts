@@ -65,6 +65,18 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
   },
   {
     id: "kawasaki-ninja-1100sx-se-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kawasaki: sin plan de mantenimiento publicado para el Ninja 1100SX SE",
+    },
     marca: "Kawasaki",
     modelo: "Ninja 1100SX SE",
     version: "SE 2026",
@@ -120,6 +132,18 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
   },
   {
     id: "kawasaki-meguro-s1-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kawasaki: sin plan de mantenimiento publicado para el Meguro S1",
+    },
     marca: "Kawasaki",
     modelo: "Meguro S1",
     version: "2026",
@@ -230,6 +254,18 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
   },
   {
     id: "kawasaki-z500-se-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kawasaki: sin plan de mantenimiento publicado para el Z500 SE",
+    },
     marca: "Kawasaki",
     modelo: "Z500 SE",
     version: "SE 2025",
@@ -286,6 +322,18 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
   // ── SUZUKI (5) ──────────────────────────────────────────────────────────
   {
     id: "suzuki-gsx-8r-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Suzuki: sin plan de mantenimiento publicado para el GSX-8R",
+    },
     marca: "Suzuki",
     modelo: "GSX-8R",
     version: "2026",
@@ -341,6 +389,18 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
   },
   {
     id: "suzuki-gsx-8s-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Suzuki: sin plan de mantenimiento publicado para el GSX-8S",
+    },
     marca: "Suzuki",
     modelo: "GSX-8S",
     version: "2026",
@@ -396,6 +456,18 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
   },
   {
     id: "suzuki-sv-7gx-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Suzuki: sin plan de mantenimiento publicado para el SV-7GX",
+    },
     marca: "Suzuki",
     modelo: "SV-7GX",
     version: "2026",
@@ -452,6 +524,18 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
   },
   {
     id: "suzuki-v-strom-800re-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Suzuki: sin plan de mantenimiento publicado para el V-Strom 800RE",
+    },
     marca: "Suzuki",
     modelo: "V-Strom 800RE",
     version: "RE 2025",
@@ -563,6 +647,18 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
   // ── KTM (5) ─────────────────────────────────────────────────────────────
   {
     id: "ktm-790-duke-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "KTM: sin plan de mantenimiento publicado para el 790 Duke",
+    },
     marca: "KTM",
     modelo: "790 Duke",
     version: "2024",
@@ -618,6 +714,18 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
   },
   {
     id: "ktm-390-duke-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "KTM: sin plan de mantenimiento publicado para el 390 Duke",
+    },
     marca: "KTM",
     modelo: "390 Duke",
     version: "2025",
@@ -712,6 +820,18 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
   },
   {
     id: "ktm-890-adventure-r-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "KTM: sin plan de mantenimiento publicado para el 890 Adventure R",
+    },
     marca: "KTM",
     modelo: "890 Adventure R",
     version: "R 2025",
@@ -767,6 +887,18 @@ export const MOTOS_EXP_M17: MotoComparador[] = [
   },
   {
     id: "ktm-450-exc-f-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "KTM: sin plan de mantenimiento publicado para el 450 EXC-F",
+    },
     marca: "KTM",
     modelo: "450 EXC-F",
     version: "2025",

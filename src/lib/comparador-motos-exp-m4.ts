@@ -2160,6 +2160,18 @@ export const MOTOS_EXP_M4: MotoComparador[] = [
   },
   {
     id: "italjet-dragster-700-twin-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Italjet: sin plan de mantenimiento publicado para el Dragster 700 Twin",
+    },
     marca: "Italjet",
     modelo: "Dragster 700 Twin",
     version: "2025",

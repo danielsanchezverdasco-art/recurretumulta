@@ -2193,7 +2193,18 @@ export const COCHES_BMW: CocheComparador[] = [
       url: null,
       nota: "Sin datos EuroNCAP: modelo no probado todavía"
     },
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW: sin plan de mantenimiento publicado para el Serie 7 2027",
+    },
     mantenimientoDIY: null,
     versiones: [
       { nombre: "i7 50 xDrive", precio: 121400, autonomiaKm: 728 },
@@ -2213,6 +2224,18 @@ export const COCHES_BMW: CocheComparador[] = [
   },
   {
     id: "bmw-ix7-2027-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW: sin plan de mantenimiento publicado para el iX7",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,

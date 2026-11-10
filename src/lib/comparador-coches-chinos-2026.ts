@@ -213,6 +213,18 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
   },
   {
     id: "im-ls9-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "IM: sin plan de mantenimiento publicado para el LS9",
+    },
     marca: "IM",
     modelo: "LS9",
     tipo: "Híbrido de autonomía extendida",
@@ -278,6 +290,18 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
   },
   {
     id: "maextro-v800-huawei-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Maextro: sin plan de mantenimiento publicado para el V800",
+    },
     textosPropios: {
       precio: "El Maextro V800 se vende solo en China desde el 5 de agosto de 2026, con tres acabados: Premium a 766.000 yuanes, Executive a 866.000 y Flagship a 1.016.000 (tarifa oficial publicada por CnEVPost el 5/08/2026). Al cambio del Banco Central Europeo del 19/10/2026 (7,4991 yuanes por euro) equivalen a unos 102.100, 115.500 y 135.500 €, sin impuestos ni gastos de importación, y por eso la cifra es orientativa: Maextro no tiene red ni tarifa en España.",
       faqPrecio: "En China, entre 766.000 yuanes (Premium) y 1.016.000 (Flagship), según la tarifa oficial de agosto de 2026; equivalen a unos 102.100-135.500 € con la cotización del BCE del 19 de octubre de 2026. No se comercializa en España y no existe precio oficial en euros.",
@@ -541,6 +565,18 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
   },
   {
     id: "lotus-eletre-r-plus-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Lotus: sin plan de mantenimiento publicado para el Eletre R+",
+    },
     marca: "Lotus",
     modelo: "Eletre R+",
     tipo: "Eléctrico",
@@ -695,6 +731,18 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
   },
   {
     id: "luxeed-r7-huawei-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Luxeed: sin plan de mantenimiento publicado para el R7",
+    },
     marca: "Luxeed",
     modelo: "R7",
     tipo: "Eléctrico",
@@ -746,6 +794,18 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
   },
   {
     id: "onvo-l90-nio-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Onvo: sin plan de mantenimiento publicado para el L90",
+    },
     marca: "Onvo",
     modelo: "L90",
     tipo: "Eléctrico",
@@ -911,6 +971,18 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
   },
   {
     id: "yangwang-byd-berlina-260000-euros-rolls-royce",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yangwang: sin plan de mantenimiento publicado para el HU",
+    },
     marca: "Yangwang",
     modelo: "HU",
     tipo: "Eléctrico",
@@ -962,6 +1034,18 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
   },
   {
     id: "aiva-me7-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Aiva: sin plan de mantenimiento publicado para el ME7",
+    },
     marca: "Aiva",
     modelo: "ME7",
     tipo: "Eléctrico / EREV",
@@ -1014,6 +1098,18 @@ export const COCHES_CHINOS_2026: CocheComparador[] = [
   },
   {
     id: "geely-galaxy-battleship-700-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Geely Galaxy: sin plan de mantenimiento publicado para el Battleship 700",
+    },
     marca: "Geely Galaxy",
     modelo: "Battleship 700",
     tipo: "Híbrido enchufable",

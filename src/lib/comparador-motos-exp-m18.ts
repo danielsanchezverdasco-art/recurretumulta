@@ -11,6 +11,18 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   // ── BMW MOTORRAD (5) ──────────────────────────────────────────────────
   {
     id: "bmw-m-1000-xr-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW Motorrad: sin plan de mantenimiento publicado para el M 1000 XR",
+    },
     marca: "BMW Motorrad",
     modelo: "M 1000 XR",
     version: "2025",
@@ -66,6 +78,18 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "bmw-m-1000-r-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW Motorrad: sin plan de mantenimiento publicado para el M 1000 R",
+    },
     marca: "BMW Motorrad",
     modelo: "M 1000 R",
     version: "2025",
@@ -121,6 +145,18 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "bmw-g-310-r-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW Motorrad: sin plan de mantenimiento publicado para el G 310 R",
+    },
     marca: "BMW Motorrad",
     modelo: "G 310 R",
     version: "2024",
@@ -179,6 +215,18 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "bmw-r-18-roctane-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW Motorrad: sin plan de mantenimiento publicado para el R 18 Roctane",
+    },
     marca: "BMW Motorrad",
     modelo: "R 18 Roctane",
     version: "2025",
@@ -237,6 +285,18 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "bmw-k-1600-gt-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW Motorrad: sin plan de mantenimiento publicado para el K 1600 GT",
+    },
     marca: "BMW Motorrad",
     modelo: "K 1600 GT",
     version: "2025",
@@ -354,6 +414,18 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "ducati-panigale-v4-r-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ducati: sin plan de mantenimiento publicado para el Panigale V4 R",
+    },
     marca: "Ducati",
     modelo: "Panigale V4 R",
     version: "2025",
@@ -412,6 +484,18 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "ducati-multistrada-v4-s-grand-tour-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ducati: sin plan de mantenimiento publicado para el Multistrada V4 S Grand Tour",
+    },
     marca: "Ducati",
     modelo: "Multistrada V4 S Grand Tour",
     version: "2025",
@@ -470,6 +554,18 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "ducati-scrambler-800-full-throttle-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ducati: sin plan de mantenimiento publicado para el Scrambler 800 Full Throttle",
+    },
     marca: "Ducati",
     modelo: "Scrambler 800 Full Throttle",
     version: "2025",
@@ -528,6 +624,18 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "ducati-hypermotard-v2-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ducati: sin plan de mantenimiento publicado para el Hypermotard V2",
+    },
     marca: "Ducati",
     modelo: "Hypermotard V2",
     version: "2026",
@@ -587,6 +695,18 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   // ── ELÉCTRICAS (5) ────────────────────────────────────────────────────
   {
     id: "honda-cuv-e-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el CUV e:",
+    },
     marca: "Honda",
     modelo: "CUV e:",
     version: "2025",
@@ -703,6 +823,18 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "zeeho-ae8-s-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Zeeho: sin plan de mantenimiento publicado para el AE8 S",
+    },
     marca: "Zeeho",
     modelo: "AE8 S",
     version: "2025",
@@ -753,6 +885,18 @@ export const MOTOS_EXP_M18: MotoComparador[] = [
   },
   {
     id: "vmoto-tc-max-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Vmoto: sin plan de mantenimiento publicado para el TC Max",
+    },
     marca: "Vmoto",
     modelo: "TC Max",
     version: "2025",

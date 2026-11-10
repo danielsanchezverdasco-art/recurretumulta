@@ -2028,6 +2028,18 @@ export const COCHES_MERCEDES_BENZ: CocheComparador[] = [
   // bateriaKwh = capacidad NETA publicada (106 kWh). velocidadMax = null: Mercedes solo da 250 km/h con el Driver's Package.
   {
     id: "mercedes-amg-gt-suv-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Mercedes-Benz: sin plan de mantenimiento publicado para el AMG GT SUV",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,

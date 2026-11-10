@@ -1484,6 +1484,9 @@ export const PATINETES_EXP_P5: PatineteComparador[] = [
   },
   {
     id: "zwheel-e12",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Zwheel",

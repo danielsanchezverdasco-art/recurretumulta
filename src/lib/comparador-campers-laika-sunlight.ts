@@ -13,6 +13,18 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 export const CAMPERS_LAIKA_SUNLIGHT: CocheComparador[] = [
   {
     id: "laika-ecovip-performance-600-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Laika: sin plan de mantenimiento publicado para el Ecovip Performance 600",
+    },
     marca: "Laika",
     modelo: "Ecovip Performance 600",
     tipo: "Diésel",
@@ -125,6 +137,18 @@ export const CAMPERS_LAIKA_SUNLIGHT: CocheComparador[] = [
   },
   {
     id: "sunlight-cliff-600-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Sunlight: sin plan de mantenimiento publicado para el Cliff 600",
+    },
     marca: "Sunlight",
     modelo: "Cliff 600",
     tipo: "Diésel",

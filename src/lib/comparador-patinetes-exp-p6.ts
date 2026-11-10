@@ -2164,6 +2164,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
   },
   {
     id: "sxt-light-plus-v",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: "8akSHNLRfr8",
     videoCanal: "escooter-haus",
     marca: "SXT",
@@ -2210,6 +2213,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
   },
   {
     id: "segway-superscooter-gt3-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: "-rG5dgK7IPw",
     videoCanal: "Freshly Charged",
     marca: "Segway",
@@ -2493,6 +2499,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
   },
   {
     id: "navee-v25i-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: "Qu6cIQqQKLU",
     videoCanal: "NAVEE",
     marca: "NAVEE",
@@ -2636,6 +2645,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
   },
   {
     id: "ruptor-r3",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Ruptor",
@@ -2683,6 +2695,9 @@ export const PATINETES_EXP_P6: PatineteComparador[] = [
   },
   {
     id: "ruptor-r6",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Ruptor",

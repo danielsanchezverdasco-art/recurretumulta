@@ -1655,7 +1655,18 @@ export const COCHES_MG: CocheComparador[] = [
       url: null,
       nota: "Sin datos EuroNCAP: modelo aún no lanzado",
     },
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "MG: sin plan de mantenimiento publicado para el MG2",
+    },
     analisisSlug: "mg2-electrico-2027-ferrol-precio",
     fuenteNombre: "ForoCochesEléctricos · Autocar (vía europesays.com)",
     fuenteUrl: "https://forococheselectricos.com/noticias/mg2-electrico-fabricacion-ferrol-espana-2028-20261022-42532.html"

@@ -41,7 +41,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El M4 Pro S+ es el superventas de iENYRID por su equilibrio entre potencia, equipamiento y precio. Ojo: con 45 km/h y sin certificado DGT no es legal para circular por vías públicas en España; es un patinete para fincas o países con otra normativa.",
     fuenteNombre: "iENYRID (oficial)",
     fuenteUrl: "https://ienyrid.com/",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "ienyrid-m4-pro-s-plus-max",
@@ -75,7 +77,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "La versión Max duplica la batería del S+ y añade intermitentes por 410 € en la tienda oficial europea. Misma advertencia legal: 45 km/h sin certificado DGT, así que en España solo sirve para uso privado.",
     fuenteNombre: "iENYRID (oficial)",
     fuenteUrl: "https://ienyrid.eu/en/products/ienyrid-m4-pro-s-max",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "ienyrid-es60",
@@ -109,7 +113,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El ES60 es una bestia off-road de 2400 W con batería extraíble, pensado para fincas y circuitos privados. En España no puede circular legalmente: 60 km/h y sin certificado DGT lo dejan fuera de la normativa VMP.",
     fuenteNombre: "iENYRID (oficial)",
     fuenteUrl: "https://ienyrid.eu/en/products/ienyrid-es60",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "ienyrid-es1",
@@ -143,7 +149,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El ES1 es el todoterreno con tracción total de iENYRID: 2400 W y suspensión seria para divertirse fuera del asfalto. Como todos los de su clase, sus 60 km/h lo hacen ilegal en España sin certificado DGT.",
     fuenteNombre: "iENYRID (oficial)",
     fuenteUrl: "https://ienyrid.eu/en/products/ienyrid-es1",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "ienyrid-s1",
@@ -177,7 +185,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El S1 es la apuesta calidad-precio de iENYRID en Europa: 700 W, suspensión seria e intermitentes por 439 €. El pero es el de siempre en la marca: 45 km/h sin certificado DGT, ilegal en vías públicas españolas.",
     fuenteNombre: "iENYRID (oficial)",
     fuenteUrl: "https://ienyrid.eu/en/products/ienyrid-s1",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "sxt-light-gt",
@@ -211,7 +221,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El Light GT es el peso pluma de SXT: 11,9 kg con suspensión y 50 km de autonomía. Pero ojo: 40 km/h sin homologación de ningún tipo lo dejan fuera de la vía pública en España; es un juguete caro para fincas.",
     fuenteNombre: "SXT (oficial)",
     fuenteUrl: "https://sxt-scooters.de/products/light-gt-e-scooter",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "sxt-quick-4",
@@ -245,7 +257,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El Quick 4 es el Inokim Quick 4 vendido por SXT: 806 Wh, 70 km y frenos de tambor eternos por 695 €. Muy buen aparato para recinto privado, pero sus 40 km/h sin papeles lo vetan en la calle en España.",
     fuenteNombre: "SXT (oficial)",
     fuenteUrl: "https://sxt-scooters.de/products/quick-4-e-scooter",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "sxt-h20-ekfv",
@@ -279,7 +293,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El H20 eKFV es un patinete urbano serio con homologación alemana y chasis de magnesio. En España, sin embargo, la eKFV no vale: necesitaría certificado DGT para circular legalmente como VMP.",
     fuenteNombre: "SXT (oficial)",
     fuenteUrl: "https://sxt-scooters.de/products/h20-ekfv-e-scooter",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "sxt-h10-ekfv",
@@ -313,7 +329,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El H10 eKFV es el urbano ligero y barato de SXT: 14,8 kg y 395 €. Ideal para ciudad... en Alemania, donde su eKFV lo ampara. En España le falta el certificado DGT.",
     fuenteNombre: "SXT (oficial)",
     fuenteUrl: "https://sxt-scooters.de/products/h10-ekfv-e-scooter",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "sxt-buddy-pro-ekfv",
@@ -347,7 +365,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El Buddy Pro eKFV es el gran rutero homologado de SXT: 676 Wh y 65 km para devorar ciudad en Alemania. En España, sin certificado DGT, no puede circular legalmente pese a su homologación germana.",
     fuenteNombre: "SXT (oficial)",
     fuenteUrl: "https://sxt-scooters.de/products/sxt-buddy-pro-ekfv-e-scooter",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "sxt-beast-pro",
@@ -381,7 +401,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El Beast Pro es la máquina de circuito de SXT: tracción total, 4800 W y 85 km/h. Impresionante y honestamente vendido solo para recintos cerrados: en España es imposible legalizarlo como VMP.",
     fuenteNombre: "SXT (oficial)",
     fuenteUrl: "https://sxt-scooters.de/products/sxt-beast-pro-e-scooter",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "emove-cruiser-v2",
@@ -415,7 +437,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El Cruiser V2 es el rey de la autonomía: 1560 Wh y 100 km por carga con calidad de construcción seria. Lástima que sus 53 km/h y la falta de certificado DGT lo dejen fuera de la legalidad española.",
     fuenteNombre: "VORO MOTORS (oficial)",
     fuenteUrl: "https://www.voromotors.com/products/emove-cruiser-v2?ref=zmtvjtll",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "emove-cruiser-v2-awd",
@@ -444,7 +468,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "La versión AWD del Cruiser V2 añade un segundo motor y llega a 71 km/h: un cohete con 100 km de autonomía teórica. En España, obviamente, solo para circuito privado: ni certificado DGT ni límite de velocidad que lo ampare.",
     fuenteNombre: "VORO MOTORS (oficial)",
     fuenteUrl: "https://www.voromotors.com/products/emove-cruiser-v2?ref=zmtvjtll",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "velocifero-minimad-plus",
@@ -512,7 +538,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El VLF Mad 1000W es medio patinete medio minimoto para divertirse en campo, con sillín y ruedas gordas. Sus 40 km/h y la falta de certificado DGT lo limitan a uso privado en España.",
     fuenteNombre: "Velocifero (oficial)",
     fuenteUrl: "https://www.velocifero.eu/prodotto/vlf-mad-1000w-nero-arancio/",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "ducati-pro-ii-evo",
@@ -559,7 +587,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "El Pro-II Evo es el Ducati urbano equilibrado: 350 W, 40 km teóricos y doble suspensión por 699 €. La pega es que esta versión estándar no tiene certificado DGT; si necesitas circular con los papeles en regla, la variante Advanced Safety (B1014) es la que lo tiene.",
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/ducati-pro-ii-evo-patinete-electrico-10",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "ducati-pro-ii-evo-advanced-safety",
@@ -606,7 +636,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "Es el mismo Pro-II Evo de 350 W y 40 km, pero con intermitentes y —lo importante— certificado DGT B1014. Si vas a circular a diario por ciudad española, esta es la versión que te evita problemas legales; la estándar no tiene el certificado.",
     fuenteNombre: "Alza",
     fuenteUrl: "https://m.alza.cz/EN/sport/ducati-electric-scooter-pro-ii-evo-advanced-safety-d12374536.htm",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "ducati-city-cross-e",
@@ -653,7 +685,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "El City Cross-E es el Ducati con alma Scrambler: 450 Wh, 45 km teóricos y ruedas todoterreno. Pesa 19 kg y tarda 6-7 h en cargar, así que es para quien priorice presencia y autonomía sobre ligereza; sin certificado DGT publicado.",
     fuenteNombre: "Amazon.es",
     fuenteUrl: "https://www.amazon.es/dp/B08N4P87Q8/ref=as_li_ss_tl",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "aprilia-esr1",
@@ -700,7 +734,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "El eSR1 es el Aprilia ligero (15,6 kg) con batería extraíble, ideal si no puedes cargar el patinete entero en casa. Sus 25 km teóricos se quedan cortos para rutas largas y no tiene certificado DGT, pero a 499 € es de los italianos más asequibles.",
     fuenteNombre: "debici.es",
     fuenteUrl: "https://debici.es/patinetes-electricos/9759-1816-aprilia-esr1-patinete-el.html",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "aprilia-esrz",
@@ -747,7 +783,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "El eSRz es el Aprilia urbano minimalista: 14 kg y carga en 3 horas, pensado para trayectos cortos y combinar con transporte público. La contrapartida es su batería de 216 Wh (unos 17 km reales) y las ruedas de 8,5\" con cámara.",
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/aprilia-esrz-patinete-electrico",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "jeep-2xe-adventurer",
@@ -794,7 +832,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "El 2XE Adventurer es el Jeep de los patinetes: verde militar, 40 km teóricos e intermitentes por 759 €. Ojo: está sin stock sin fecha, el peso no es oficial y no tiene certificado DGT (el B1028 corresponde al Jeep JAD, no a este).",
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/jeep-e-scooter-2xe-adventurer-patinete-electrico-10w-verde",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "lamborghini-al1",
@@ -841,7 +881,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "El AL1 es el Lamborghini urbano: 13 kg de magnesio y ruedas honeycomb antipinchazos. Es ligero y bonito, pero sus 280 Wh dan para unos 20 km reales y no tiene certificado DGT; lo compras por diseño y peso, no por autonomía.",
     fuenteNombre: "MediaMarkt",
     fuenteUrl: "https://www.mediamarkt.es/es/product/_patinete-electrico-lamborghini-al1-8-350-w-100-kg-25-kmh-7800-mah-freno-doble-hasta-100-kg-negro-1520797.html",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "acer-es-series-3-advance",
@@ -888,7 +930,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "El Acer ES Series 3 Advance (AES023) es la ganga racional: 350 W, 120 kg de carga e IPX5 por 187 € en PcComponentes. A cambio, 25 km teóricos (~17 reales) y sin certificado DGT; perfecto como primer patinete urbano barato.",
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/patinete-electrico-acer-es-series-3-aes023-350w-autonomia-25km-ruedas-85-freno-disco-ipx5-negro",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "ducati-pro-i-evo",
@@ -936,7 +980,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "El Pro-I Evo es el Ducati pluma: 12 kg y 350 W para quien lo sube a casa o al metro a diario. Sus 280 Wh dan para unos 18 km reales y no tiene certificado DGT ni precio publicado ahora mismo; es ligereza a cambio de autonomía.",
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/ducati-pro-i-evo-patinete-electrico-negro-rojo",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "ducati-pro-ii-plus",
@@ -983,7 +1029,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "El Pro-II Plus es el Ducati cómodo: 10\" sin cámara y suspensión trasera por 822 €. Pero 25 km teóricos por ese precio lo dejan en tierra de nadie frente al Pro-III (50 km); y sin certificado DGT — el B1027 es solo de la versión Advanced Safety.",
     fuenteNombre: "PcComponentes",
     fuenteUrl: "https://www.pccomponentes.com/ducati-pro-ii-plus-patinete-electrico-negro",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "currus-nf11",
@@ -1036,7 +1084,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "El Currus NF11 Panther es un hiperpatinete coreano de 5400 W y 2100 Wh pensado para quien quiere lo máximo en potencia y autonomía. Ojo: viene limitado a 25 km/h por diseño, no hemos podido verificar su certificado DGT y el desbloqueo a 90 km/h es solo para uso privado. A 3590 € y 48 kg, es una máquina seria, no un juguete urbano.",
     fuenteNombre: "Monopatinshop (tienda española)",
     fuenteUrl: "https://monopatinshop.com/currus/628-currus-nf-11-panther.html",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "yadea-elite-prime",
@@ -1095,7 +1145,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "El Yadea Elite Prime Pro es el patinete urbano 'tipo SUV' de Yadea: 800 W, 65 km de autonomía y un equipamiento de seguridad (triple freno, intermitentes, gel antipinchazos) poco común. Se vende en MediaMarkt España limitado a 25 km/h, aunque no hemos podido verificar su certificado DGT. Ideal para commuters que priorizan autonomía y seguridad sobre ligereza.",
     fuenteNombre: "MediaMarkt España",
     fuenteUrl: "https://www.mediamarkt.es/es/product/_patinete-electrico-yadea-elite-prime-pro-potencia-max-1500w-potencia-nominal-800w-carga-max-120-kg-145-ah-25-kmh-negro-1560734.html",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "zero-11x",
@@ -1154,7 +1206,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "El Zero 11X es el buque insignia de Zero: 3200 W, batería de 2304 Wh y 150 km de autonomía declarada por 3490 € en tienda española. Una máquina de circuito con papeles de 25 km/h: viene limitado por diseño y no consta certificado DGT. Solo para quien busque el máximo rendimiento y tenga claro su marco legal.",
     fuenteNombre: "Eko-Motion (tienda española)",
     fuenteUrl: "https://eko-motion.com/products/zero-11x",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "bronco-xtreme-sport",
@@ -1207,7 +1261,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "El Bronco Xtreme Sport 72V es un misil de 8400 W y 2520 Wh que promete 120 km en modo eco y un 0-50 en 4 segundos, por 4190 € en tienda española. Como todos los hiperpatinetes, circula limitado a 25 km/h y su velocidad punta (109 km/h) es solo para uso privado; no consta certificado DGT. Capricho máximo con factura máxima.",
     fuenteNombre: "Eko-Motion (tienda española)",
     fuenteUrl: "https://eko-motion.com/products/bronco-xtreme-sport-72v",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "soflow-so4-pro",
@@ -1260,7 +1316,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
       "El SoFlow SO4 Pro es el patinete sensato del lote: 17 kg, 500 W, 40 km de autonomía y homologación alemana para carretera, por 1092 € en tienda española. Su límite de 20 km/h lo hace legal pero pausado, y no consta certificado DGT. Perfecto para quien quiere un VMP ligero y homologado en Europa sin aspirar a más.",
     fuenteNombre: "Berger Camping España",
     fuenteUrl: "https://www.berger-camping.es/producto/soflow-so4-pro-e-scooter-plegable-scooter-electrico-con-homologacion-de-carretera-143165",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
 // Lote P11 chunk-D — patinetes (10 modelos verificados 2026-10-11).
 // Marcas: Segway/Ninebot, iScooter, Joyor, Cecotec. Modelos reales 2024+, a la venta en España/Europa.
@@ -1318,7 +1376,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El GT1E es el GT1 domado para Europa: mismo chasis premium y batería de 1008 Wh, pero limitado a 25 km/h para circular legal en España. Es la opción para quien quiere el superscooter de Segway sin problemas legales, aunque su precio y su peso de 47,6 kg lo reservan a un público muy concreto.",
     fuenteNombre: "Segway (tienda oficial UE)",
     fuenteUrl: "https://shop.segway.com/fr_en/segway-kickscooter-gt1e.html",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "segway-gt1",
@@ -1370,7 +1430,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El GT1 es el superscooter más bestia de Segway: 3000 W de pico y 60 km/h. Pero seamos claros: en España no puede circular por vías públicas como VMP, así que solo tiene sentido para circuito o fincas privadas. Si quieres el concepto en versión legal, el GT1E es su hermano limitado a 25 km/h.",
     fuenteNombre: "Soporte oficial Segway España",
     fuenteUrl: "https://soporte.segway.center",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "segway-f65",
@@ -1423,7 +1485,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El F65 es el urbano de largo alcance de Segway: 65 km declarados e intermitentes de serie lo hacen ideal para quien hace muchos kilómetros al día. Su punto débil es el precio en España (999 €), donde compite con modelos más potentes. Buena compra si priorizas autonomía y marca.",
     fuenteNombre: "Segway (oficial)",
     fuenteUrl: "https://ap-en.segway.com/product/kickscooter-f65.html",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "iscooter-i12",
@@ -1476,7 +1540,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El i12 es el patinete-cesta con asiento de iScooter: comodísimo para ir a comprar o moverte por urbanizaciones. Pero ojo: al llevar sillín, su estatus como VMP en España es dudoso y podría no ser legal en la vía pública. Úsalo con esa advertencia en mente.",
     fuenteNombre: "Decathlon (España)",
     fuenteUrl: "https://www.Decathlon.es/es/p/mp/patinete-electrico-iscooter-i12-con-asiento-para-adultos-12-36-v-7-5-ah/916a205e-6756-4612-9500-0bae8a240ef7/c1",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "iscooter-dx5",
@@ -1529,7 +1595,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El DX5 es una mini-moto eléctrica con pedigrí de patinete: 1500 W de pico y ruedas de 15 pulgadas. Pero la realidad es tozuda: con 55 km/h y sillín, no es un VMP legal en España. Solo recomendable para fincas o circuitos privados donde puedas exprimirlo sin riesgo de multa.",
     fuenteNombre: "iScooter (oficial)",
     fuenteUrl: "https://www.iscooterglobal.com/products/iscooter-dx5-electric-scooter",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "joyor-a5",
@@ -1582,7 +1650,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El A5 es el urbano ligero de Joyor con un as en la manga: batería extraíble para cargarla donde quieras. Sus ruedas macizas de 8 pulgadas te libran de pinchazos pero castigan en adoquines. Buena opción si buscas ligereza y practicidad por encima de prestaciones.",
     fuenteNombre: "Joyor (oficial)",
     fuenteUrl: "https://www.joyor-eu.com/products/a5",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "joyor-y5s",
@@ -1675,7 +1745,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El G3 es el gran rutero de Joyor: más de 1000 Wh de batería y 82 km declarados por un peso sorprendentemente bajo. Su problema es la velocidad: 48 km/h lo dejan fuera de la legalidad VMP en España. Interesante como máquina de largo alcance para uso privado, pero no para la calle.",
     fuenteNombre: "Geekbuying (almacén UE)",
     fuenteUrl: "https://www.geekbuying.com/item/JOYOR-G3-51-2Miles-Long-Range-Electric-Scooter-500W-48V-22Ah-434808.html",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "joyor-y6s",
@@ -1775,7 +1847,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El Bongo G40 XXL Connected es el superventas español por una razón: 279 € con app, base ancha y 700 W de pico. No esperes milagros de su batería de 360 Wh, pero como urbano barato con servicio técnico en España es difícil de batir. Ojo: el supuesto certificado DGT que anuncian algunas tiendas no está verificado.",
     fuenteNombre: "Cecotec (oficial)",
     fuenteUrl: "https://cecotec.es/es/patinetes-electricos/bongo-g40-xxl-connected",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "niu-kqi-air-x",
@@ -1824,7 +1898,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El KQi Air X es el patinete de fibra de carbono más ligero del mercado y se nota al subirlo por escaleras o al metro. Sus 50 km de autonomía son reales para un uso urbano moderado. Eso sí, la ausencia de suspensión y el precio lo reservan a quien priorice el peso por encima de todo. Sin certificado DGT verificado, conviene confirmar su homologación antes de circular.",
     fuenteNombre: "NIU (tienda oficial UE)",
     fuenteUrl: "https://shopeu.niu.com/collections/new-collection/products/niu-kqi-air-x-lightest-electric-scooter",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "smartgyro-ryder-evo",
@@ -1872,7 +1948,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El Ryder Evo es la apuesta española para quien quiere potencia monomotor con papeles en regla: homologación DGT, frenos hidráulicos y 70 km de autonomía teórica. Es pesado y la carga es lenta, pero a cambio ofrece una de las mejores relaciones potencia/precio del mercado nacional, con red de talleres oficiales en España.",
     fuenteNombre: "Smartgyro (oficial)",
     fuenteUrl: "https://smartgyro.es/single-motor/patinete-electrico-smartgyro-ryder-2-certificado",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "smartgyro-raptor-evo-lr",
@@ -1919,7 +1997,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El Raptor Evo LR es el larga autonomía de Smartgyro: 75 km teóricos, 140 kg de carga máxima y homologación DGT, todo por 899 €. Frente al Ryder Evo gana en autonomía y carga útil a cambio de un precio mayor. Ideal para riders corpulentos o rutas largas que no quieren pasar por el enchufe cada día.",
     fuenteNombre: "Smartgyro (oficial)",
     fuenteUrl: "https://smartgyro.es/single-motor/patinete-electrico-smartgyro-raptor-evo-lr",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "kaabo-skywalker-10c",
@@ -1967,7 +2047,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El Skywalker 10C es un clásico urbano de Kaabo: potente, cómodo y plegable de verdad. Pero ojo, la versión que vende la tienda oficial europea declara 50 km/h de velocidad máxima, muy por encima del límite legal de 25 km/h para VMP en España, y no consta certificado DGT. Solo tiene sentido si se usa limitado a 25 km/h y se asume su situación administrativa.",
     fuenteNombre: "Kaabo (tienda oficial UE)",
     fuenteUrl: "https://kaabomantis.com/shop/kaabo-skywalker-10c-eco-800/",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "kaabo-mantis-x",
@@ -2014,7 +2096,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El Mantis X es un doble motor con prestaciones de gama alta por 1.199 €, pero sus 55 km/h lo dejan fuera de la legalidad como VMP en España: no tiene certificado DGT y supera el límite de 25 km/h. Solo es una opción para uso en circuito o fincas privadas. Quien busque un Kaabo legal deberá mirar otras versiones limitadas.",
     fuenteNombre: "NeverWheelUp",
     fuenteUrl: "https://www.neverwheelup.com/product/kaabo-mantis-x/",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "pure-flex",
@@ -2061,7 +2145,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El Pure Flex es el plegable más radical del mercado: cabe en un maletero pequeño y su postura frontal cambia la forma de pilotar un patinete. Pero en España es casi un desconocido, sin PVP oficial ni certificado DGT verificado. Interesante como concepto; complicado como compra nacional hoy.",
     fuenteNombre: "Pure Electric (oficial)",
     fuenteUrl: "https://pureelectric.ie/products/pure-advance-flex-electric-scooter",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "zwheel-zlion-x-max",
@@ -2109,7 +2195,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El ZLion X Max es la vía más barata a un patinete con certificado DGT, doble suspensión y 40 km de autonomía: 370 €. Los neumáticos macizos quitan los pinchazos a cambio de algo menos de confort. Para ciudad llana y uso diario sin complicaciones, cuesta pedir más por este precio.",
     fuenteNombre: "Monorim Spain",
     fuenteUrl: "https://monorimspain.com/products/patinete-zwheel-zlion-x-max-con-usb",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "hiley-tiger-10-v5",
@@ -2221,7 +2309,9 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El 100 EVO es el urbano barato de UrbanGlide: 250 €, ruedas de 10 pulgadas con cámara y suspensión delantera. Sus 25 km de autonomía lo limitan a trayectos cortos, y en España se vende poco. Bien como primer patinete económico si se encuentra a buen precio; mal si se necesitan más de 15 km reales al día.",
     fuenteNombre: "Connexion",
     fuenteUrl: "https://connexion.fr/objets-connectes/mobilite-electrique-jeux/818-128947.html",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
   {
     id: "razor-c35",
@@ -2269,6 +2359,8 @@ export const PATINETES_EXP_P11: PatineteComparador[] = [
     veredicto: "El C35 es el patinete distinto de Razor: su rueda delantera de 12,5 pulgadas absorbe baches como ningún otro urbano. Con 29 km de autonomía y chasis de acero, es un commuter sólido. El problema es encontrarlo en España con PVP oficial y sin certificado DGT verificado; de momento es más una curiosidad americana que una compra nacional.",
     fuenteNombre: "Razor (oficial)",
     fuenteUrl: "https://razor.com/product/c35-electric-scooter/",
-    mantenimientoDIY: null,
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   },
 ];

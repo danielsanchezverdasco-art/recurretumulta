@@ -5,6 +5,9 @@ import type { PatineteComparador } from "./comparador-patinetes-data.ts";
 export const PATINETES_BASE: PatineteComparador[] = [
   {
     id: "xiaomi-electric-scooter-5",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Xiaomi",
@@ -58,6 +61,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "xiaomi-electric-scooter-4",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Xiaomi",
@@ -99,6 +105,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "xiaomi-electric-scooter-4-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Xiaomi",
@@ -155,6 +164,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "segway-ninebot-max-g2",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Segway-Ninebot",
@@ -206,6 +218,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "segway-ninebot-f2-plus",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Segway-Ninebot",
@@ -251,6 +266,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "segway-ninebot-f2",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Segway-Ninebot",
@@ -302,6 +320,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "cecotec-bongo-serie-a",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Cecotec",
@@ -353,6 +374,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "cecotec-bongo-serie-z-power-mountain",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Cecotec",
@@ -404,6 +428,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "niu-kqi3-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "NIU",
@@ -455,6 +482,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "navee-s65",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "NAVEE",
@@ -506,6 +536,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "smartgyro-speedway-c",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "SmartGyro",
@@ -556,6 +589,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "smartgyro-k2-titan",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "SmartGyro",
@@ -606,6 +642,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "smartgyro-ziro2",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "SmartGyro",
@@ -656,6 +695,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "aprilia-esr2",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Aprilia",
@@ -706,6 +748,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "xiaomi-electric-scooter-5-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Xiaomi",
@@ -756,6 +801,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "segway-ninebot-e2-plus-e-ii",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Segway-Ninebot",
@@ -806,6 +854,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "dualtron-mini-special-dual-motor",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Dualtron",
@@ -850,6 +901,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "kaabo-mantis-8-plus",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Kaabo",
@@ -900,6 +954,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "cecotec-bongo-serie-z-city",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Cecotec",
@@ -950,6 +1007,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "cecotec-bongo-serie-a-connected",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Cecotec",
@@ -993,6 +1053,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "niu-kqi2-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "NIU",
@@ -1043,6 +1106,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "navee-s60",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "NAVEE",
@@ -1093,6 +1159,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "xiaomi-pro-2",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Xiaomi",
@@ -1129,6 +1198,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "xiaomi-1s",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Xiaomi",
@@ -1165,6 +1237,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "xiaomi-essential",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Xiaomi",
@@ -1201,6 +1276,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "segway-e2-e",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Segway",
@@ -1237,6 +1315,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "segway-e2-plus-e",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Segway",
@@ -1273,6 +1354,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "segway-e25",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Segway",
@@ -1309,6 +1393,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "segway-e45",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Segway",
@@ -1345,6 +1432,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "cecotec-bongo-serie-m20",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Cecotec",
@@ -1381,6 +1471,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "cecotec-bongo-serie-m30",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Cecotec",
@@ -1417,6 +1510,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "smartgyro-k2",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "SmartGyro",
@@ -1454,6 +1550,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "smartgyro-crossover-dual-x2",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "SmartGyro",
@@ -1491,6 +1590,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "smartgyro-crossover-dual-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "SmartGyro",
@@ -1528,6 +1630,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "woxter-smartgyro-xtreme-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Woxter",
@@ -1565,6 +1670,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "denver-sel-1080",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Denver",
@@ -1601,6 +1709,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "pure-air-go",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Pure",
@@ -1637,6 +1748,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "pure-air-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Pure",
@@ -1673,6 +1787,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "etwow-gt-2024",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "E-Twow",
@@ -1709,6 +1826,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "etwow-booster-v",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "E-Twow",
@@ -1745,6 +1865,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "inokim-light-2",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Inokim",
@@ -1781,6 +1904,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "inokim-ox-super",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Inokim",
@@ -1817,6 +1943,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "egret-ten-v4",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Egret",
@@ -1854,6 +1983,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "vsett-8",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Vsett",
@@ -1891,6 +2023,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "vsett-9-plus",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Vsett",
@@ -1927,6 +2062,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "kaabo-skywalker-10h",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Kaabo",
@@ -1963,6 +2101,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "joyor-y10",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Joyor",
@@ -1999,6 +2140,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "iscooter-i9",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "iScooter",
@@ -2036,6 +2180,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
   id: "hiboy-s2",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   videoId: null,
   videoCanal: null,
   marca: "Hiboy",
@@ -2081,6 +2228,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
   id: "hiboy-s2-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   videoId: null,
   videoCanal: null,
   marca: "Hiboy",
@@ -2125,6 +2275,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
   id: "hiboy-max3",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
   videoId: null,
   videoCanal: null,
   marca: "Hiboy",
@@ -2170,6 +2323,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
   id: "apollo-city-2024",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Apollo",
@@ -2212,6 +2368,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
   {
   id: "apollo-air-2024",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Apollo",
@@ -2295,6 +2454,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
   {
   id: "navee-n40",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "NAVEE",
@@ -2337,6 +2499,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
   {
   id: "segway-p65",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Segway",
@@ -2378,6 +2543,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
   {
   id: "segway-p100s",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Segway",
@@ -2419,6 +2587,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
   {
   id: "dualtron-mini",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Dualtron",
@@ -2461,6 +2632,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
   {
   id: "dualtron-spider",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Dualtron",
@@ -2502,6 +2676,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
   {
   id: "kaabo-mantis-8",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Kaabo",
@@ -2542,6 +2719,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
   {
   id: "kaabo-wolf-warrior-x-plus",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Kaabo",
@@ -2581,6 +2761,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
   {
   id: "vsett-10-plus",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Vsett",
@@ -2621,6 +2804,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
   {
   id: "teverun-blade-mini-pro",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Teverun",
@@ -2660,6 +2846,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
   {
   id: "smartgyro-ziro-blue",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "SmartGyro",
@@ -2701,6 +2890,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
   {
   id: "iscooter-ix5",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "iScooter",
@@ -2742,6 +2934,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
   {
   id: "cecotec-outsider-demigod-makalu",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Cecotec",
@@ -2784,6 +2979,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "xiaomi-electric-scooter-4-lite",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Xiaomi",
@@ -2823,6 +3021,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "xiaomi-electric-scooter-4-ultra",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Xiaomi",
@@ -2863,6 +3064,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "xiaomi-electric-scooter-5-plus",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Xiaomi",
@@ -2903,6 +3107,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "segway-ninebot-f2-pro",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Segway-Ninebot",
@@ -2943,6 +3150,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "segway-ninebot-zt3-pro",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Segway-Ninebot",
@@ -2983,6 +3193,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "navee-gt3",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "NAVEE",
@@ -3023,6 +3236,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "navee-st3",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "NAVEE",
@@ -3064,6 +3280,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "niu-kqi3-max",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "NIU",
@@ -3104,6 +3323,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "cecotec-bongo-d30",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Cecotec",
@@ -3144,6 +3366,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "smartgyro-speedway",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "SmartGyro",
@@ -3185,6 +3410,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "smartgyro-raptor-evo",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "SmartGyro",
@@ -3226,6 +3454,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "smartgyro-k2-pro",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "SmartGyro",
@@ -3253,6 +3484,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "dualtron-victor",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Dualtron",
@@ -3323,6 +3557,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
 {
   id: "dualtron-achilleus-limited",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Dualtron",
@@ -3363,6 +3600,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
     id: "kaabo-wolf-king-gt-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Kaabo",
@@ -3408,6 +3648,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
 {
   id: "kaabo-wolf-warrior-11",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Kaabo",
@@ -3435,6 +3678,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "vsett-11-plus-super",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Vsett",
@@ -3490,6 +3736,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
 {
   id: "apollo-go-stellar",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Apollo",
@@ -3532,6 +3781,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "inokim-oxo",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Inokim",
@@ -3574,6 +3826,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "inokim-quick-4",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Inokim",
@@ -3614,6 +3869,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "etwow-gt-sl",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "E-Twow",
@@ -3655,6 +3913,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "etwow-booster-s",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "E-Twow",
@@ -3696,6 +3957,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "joyor-s5",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Joyor",
@@ -3736,6 +4000,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "joyor-y8s",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Joyor",
@@ -3776,6 +4043,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "iscooter-ix3",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "iScooter",
@@ -3817,6 +4087,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "iscooter-i10",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "iScooter",
@@ -3857,6 +4130,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "hiboy-s2-max",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Hiboy",
@@ -3901,6 +4177,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
 {
   id: "hiboy-titan-pro",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Hiboy",
@@ -3974,6 +4253,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
 {
   id: "turboant-v8",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "TurboAnt",
@@ -4072,6 +4354,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
 {
   id: "razor-e300s",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Razor",
@@ -4113,6 +4398,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "razor-e-prime-iii",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Razor",
@@ -4155,6 +4443,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "aovopro-es80",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Aovopro",
@@ -4196,6 +4487,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "smartgyro-speedway-pro",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "SmartGyro",
@@ -4236,6 +4530,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "segway-max-g2-e-cert",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Segway-Ninebot",
@@ -4276,6 +4573,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "segway-zt3-pro-e-cert",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Segway-Ninebot",
@@ -4316,6 +4616,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "cecotec-bongo-y65",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Cecotec",
@@ -4357,6 +4660,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "cecotec-bongo-y45",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Cecotec",
@@ -4397,6 +4703,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "zwheel-zfox-max",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Zwheel",
@@ -4437,6 +4746,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "smartgyro-crossover-dual-max-2",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "SmartGyro",
@@ -4477,6 +4789,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "kukirin-g2-pro",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "KuKirin",
@@ -4517,6 +4832,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "inmotion-climber",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Inmotion",
@@ -4557,6 +4875,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
   id: "iscooter-i9max",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "iScooter",
@@ -4598,6 +4919,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
     id: "dualtron-victor-60v",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Dualtron",
@@ -4642,6 +4966,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
 {
   id: "kaabo-mantis-king-gt",
+  mantenimientoDIY: {
+    intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+  },
   videoId: null,
   videoCanal: null,
   marca: "Kaabo",
@@ -4669,6 +4996,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
 },
 {
     id: "xiaomi-5-elite",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Xiaomi",
@@ -4713,6 +5043,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "segway-ninebot-e3",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Segway",
@@ -4754,6 +5087,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "navee-s65c",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "NAVEE",
@@ -4796,6 +5132,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "niu-kqi-air",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "NIU",
@@ -4838,6 +5177,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "cecotec-bongo-m40",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Cecotec",
@@ -4879,6 +5221,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "dualtron-popular",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Dualtron",
@@ -4920,6 +5265,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "kaabo-skywalker-8h",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Kaabo",
@@ -4961,6 +5309,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "vsett-9-plus-r",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Vsett",
@@ -5072,6 +5423,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "isinwheel-gt2",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "iSinwheel",
@@ -5115,6 +5469,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
 {
     id: "hiboy-s2r-plus",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Hiboy",
@@ -5161,6 +5518,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "joyor-s10s",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Joyor",
@@ -5203,6 +5563,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "etwow-gt-sport",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "E-Twow",
@@ -5245,6 +5608,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "inokim-ox-hero",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Inokim",
@@ -5287,6 +5653,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "segway-ninebot-f3",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Segway",
@@ -5329,6 +5698,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "navee-v50",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "NAVEE",
@@ -5371,6 +5743,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "niu-kqi-100f",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "NIU",
@@ -5413,6 +5788,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "dualtron-dolphin",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Dualtron",
@@ -5484,6 +5862,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "inokim-mini-2",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Inokim",
@@ -5527,6 +5908,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "joyor-g5",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Joyor",
@@ -5569,6 +5953,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
 {
     id: "iscooter-ix6",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "iScooter",
@@ -5612,6 +5999,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "hiboy-ks4-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Hiboy",
@@ -5658,6 +6048,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "kukirin-g2-master",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "KuKirin",
@@ -5686,6 +6079,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "isinwheel-s9max",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "iSinwheel",
@@ -5729,6 +6125,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "turboant-m10-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "TurboAnt",
@@ -5772,6 +6171,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "gotrax-apex",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "GOTRAX",
@@ -5815,6 +6217,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "pure-air-pro-lr",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Pure",
@@ -5858,6 +6263,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "egret-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Egret",
@@ -5900,6 +6308,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "teverun-fighter-mini",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Teverun",
@@ -5942,6 +6353,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "kugoo-kirin-m4-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Kugoo",
@@ -5985,6 +6399,9 @@ export const PATINETES_BASE: PatineteComparador[] = [
   },
   {
     id: "xiaomi-electric-scooter-4-go",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Xiaomi",

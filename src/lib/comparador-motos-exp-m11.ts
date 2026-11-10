@@ -12,6 +12,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   // ── CFMOTO ──
   {
     id: "cfmoto-800mt-x-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "CFMoto: sin plan de mantenimiento publicado para el 800MT-X",
+    },
     marca: "CFMoto",
     modelo: "800MT-X",
     version: "800MT-X 2025",
@@ -104,6 +116,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   },
   {
     id: "cfmoto-700cl-x-heritage-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "CFMoto: sin plan de mantenimiento publicado para el 700CL-X Heritage",
+    },
     marca: "CFMoto",
     modelo: "700CL-X Heritage",
     version: "700CL-X Heritage 2025",
@@ -166,6 +190,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   },
   {
     id: "cfmoto-700cl-x-sport-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "CFMoto: sin plan de mantenimiento publicado para el 700CL-X Sport",
+    },
     marca: "CFMoto",
     modelo: "700CL-X Sport",
     version: "700CL-X Sport 2025",
@@ -291,6 +327,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   },
   {
     id: "voge-500ac-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Voge: sin plan de mantenimiento publicado para el 500AC",
+    },
     marca: "Voge",
     modelo: "500AC",
     version: "500AC 2025",
@@ -353,6 +401,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   },
   {
     id: "voge-sr16-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Voge: sin plan de mantenimiento publicado para el SR16",
+    },
     marca: "Voge",
     modelo: "SR16",
     version: "SR16 2025",
@@ -415,6 +475,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   },
   {
     id: "voge-cu625-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Voge: sin plan de mantenimiento publicado para el CU625",
+    },
     marca: "Voge",
     modelo: "CU625",
     version: "CU625 2026",
@@ -478,6 +550,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   // ── QJMOTOR ──
   {
     id: "qjmotor-fort-125n-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "QJMotor: sin plan de mantenimiento publicado para el FORT 125N",
+    },
     marca: "QJMotor",
     modelo: "FORT 125N",
     version: "FORT 125N 2026",
@@ -587,6 +671,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   },
   {
     id: "qjmotor-fort-350-evo-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "QJMotor: sin plan de mantenimiento publicado para el Fort 350 EVO",
+    },
     marca: "QJMotor",
     modelo: "Fort 350 EVO",
     version: "Fort 350 EVO 2025",
@@ -791,6 +887,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   // ── BENELLI ──
   {
     id: "benelli-trk-251-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Benelli: sin plan de mantenimiento publicado para el TRK 251",
+    },
     marca: "Benelli",
     modelo: "TRK 251",
     version: "TRK 251 2025",
@@ -853,6 +961,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   },
   {
     id: "benelli-leoncino-250-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Benelli: sin plan de mantenimiento publicado para el Leoncino 250",
+    },
     marca: "Benelli",
     modelo: "Leoncino 250",
     version: "Leoncino 250 2025",
@@ -915,6 +1035,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   },
   {
     id: "benelli-tornado-naked-t-125-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Benelli: sin plan de mantenimiento publicado para el Tornado Naked T 125",
+    },
     marca: "Benelli",
     modelo: "Tornado Naked T 125",
     version: "Tornado Naked T 125 2025",
@@ -978,6 +1110,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   // ── RIEJU ──
   {
     id: "rieju-coaster-407-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Rieju: sin plan de mantenimiento publicado para el Coaster 407",
+    },
     marca: "Rieju",
     modelo: "Coaster 407",
     version: "Coaster 407 2026",
@@ -1040,6 +1184,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   },
   {
     id: "rieju-tango-125i-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Rieju: sin plan de mantenimiento publicado para el Tango 125i",
+    },
     marca: "Rieju",
     modelo: "Tango 125i",
     version: "Tango 125i 2025",
@@ -1102,6 +1258,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   },
   {
     id: "rieju-tango-125i-scrambler-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Rieju: sin plan de mantenimiento publicado para el Tango 125i Scrambler",
+    },
     marca: "Rieju",
     modelo: "Tango 125i Scrambler",
     version: "Tango 125i Scrambler 2025",
@@ -1165,6 +1333,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   // ── MACBOR ──
   {
     id: "macbor-xr5-500-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Macbor: sin plan de mantenimiento publicado para el XR5 500",
+    },
     marca: "Macbor",
     modelo: "XR5 500",
     version: "XR5 500 2025",
@@ -1274,6 +1454,18 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
   },
   {
     id: "brixton-crossfire-500-storr-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Brixton: sin plan de mantenimiento publicado para el Crossfire 500 STORR",
+    },
     marca: "Brixton",
     modelo: "Crossfire 500 STORR",
     version: "Crossfire 500 STORR 2025",

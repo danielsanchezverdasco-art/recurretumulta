@@ -87,6 +87,18 @@ export const MOTOS_EXP_M15: MotoComparador[] = [
   // ── DUCATI ──
   {
     id: "ducati-monster-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ducati: sin plan de mantenimiento publicado para el Monster",
+    },
     marca: "Ducati",
     modelo: "Monster",
     version: "Monster 2026",

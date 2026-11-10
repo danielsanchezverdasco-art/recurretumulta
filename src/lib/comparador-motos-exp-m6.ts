@@ -330,6 +330,18 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
   },
   {
     id: "gasgas-txt-gp-250-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "GasGas: sin plan de mantenimiento publicado para el TXT GP 250",
+    },
     marca: "GasGas",
     modelo: "TXT GP 250",
     version: "2025",
@@ -384,6 +396,18 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
   },
   {
     id: "fantic-xe-125-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Fantic: sin plan de mantenimiento publicado para el XE 125",
+    },
     marca: "Fantic",
     modelo: "XE 125",
     version: "2T 2025",
@@ -626,6 +650,18 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
   },
   {
     id: "fantic-caballero-500-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Fantic: sin plan de mantenimiento publicado para el Caballero 500",
+    },
     marca: "Fantic",
     modelo: "Caballero 500",
     version: "2025",
@@ -1483,6 +1519,18 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
   },
   {
     id: "beta-rr-4t-125-r-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Beta: sin plan de mantenimiento publicado para el RR 4T 125 R",
+    },
     marca: "Beta",
     modelo: "RR 4T 125 R",
     version: "Enduro 2025",
@@ -2170,6 +2218,18 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
   },
   {
     id: "vertigo-nitro-rs3-300-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Vertigo: sin plan de mantenimiento publicado para el Nitro RS3 300",
+    },
     marca: "Vertigo",
     modelo: "Nitro RS3 300",
     version: "2026",
@@ -2336,6 +2396,18 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
   },
   {
     id: "vertigo-nitro-dl12-300-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Vertigo: sin plan de mantenimiento publicado para el Nitro DL12 300",
+    },
     marca: "Vertigo",
     modelo: "Nitro DL12 300",
     version: "Dougie Lampkin 2026",
@@ -2390,6 +2462,18 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
   },
   {
     id: "mecatecno-dragonfly-e-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Mecatecno: sin plan de mantenimiento publicado para el Dragonfly-E",
+    },
     marca: "Mecatecno",
     modelo: "Dragonfly-E",
     version: "2025",
@@ -2636,6 +2720,18 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
   },
   {
     id: "rieju-mr-pro-300i-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Rieju: sin plan de mantenimiento publicado para el MR Pro 300i",
+    },
     marca: "Rieju",
     modelo: "MR Pro 300i",
     version: "2026",
@@ -2749,6 +2845,18 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
   },
   {
     id: "rieju-aventura-rally-307-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Rieju: sin plan de mantenimiento publicado para el Aventura Rally 307",
+    },
     marca: "Rieju",
     modelo: "Aventura Rally 307",
     version: "2026",

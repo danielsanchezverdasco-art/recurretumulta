@@ -1636,7 +1636,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/nerva/exe",
     analisisSlug: "nerva-exe-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Nerva: sin plan de mantenimiento publicado para el Exe",
+    },
   },
   {
     id: "nerva-cargo-2026-ficha-tecnica-precio",
@@ -1705,7 +1716,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://becomove.com/motos-electricas/nerva/nerva-cargo/",
     analisisSlug: "nerva-cargo-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Nerva: sin plan de mantenimiento publicado para el Cargo",
+    },
   },
   {
     id: "sunra-cargoo-49e-2025-ficha-tecnica-precio",
@@ -1772,7 +1794,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "sunra-cargoo-49e-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Sunra: sin plan de mantenimiento publicado para el Cargoo",
+    },
   },
   {
     id: "yadea-y1s-pro-2025-ficha-tecnica-precio",
@@ -1838,7 +1871,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "yadea-y1s-pro-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yadea: sin plan de mantenimiento publicado para el Y1S Pro",
+    },
   },
   {
     id: "yadea-y1s-2025-ficha-tecnica-precio",
@@ -1904,7 +1948,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "yadea-y1s-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yadea: sin plan de mantenimiento publicado para el Y1S",
+    },
   },
   {
     id: "super-soco-f01-2025-ficha-tecnica-precio",
@@ -1971,7 +2026,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "super-soco-f01-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Super Soco: sin plan de mantenimiento publicado para el F01",
+    },
   },
   {
     id: "super-soco-tc125-2025-ficha-tecnica-precio",
@@ -2040,7 +2106,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://mpracing.es/super-soco-motos/84310-moto-super-soco-tc-wanderer-125.html",
     analisisSlug: "super-soco-tc125-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Super Soco: sin plan de mantenimiento publicado para el TC125",
+    },
   },
   {
     id: "super-soco-tc50-2025-ficha-tecnica-precio",
@@ -2107,7 +2184,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "super-soco-tc50-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Super Soco: sin plan de mantenimiento publicado para el TC50",
+    },
   },
   {
     id: "super-soco-tsx125-2025-ficha-tecnica-precio",
@@ -2175,7 +2263,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "super-soco-tsx125-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Super Soco: sin plan de mantenimiento publicado para el TSX125",
+    },
   },
   {
     id: "efun-lion-180-2026-ficha-tecnica-precio",
@@ -2244,7 +2343,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://www.efunmotos.com/motos-electricas/lion/",
     analisisSlug: "efun-lion-180-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Efun: sin plan de mantenimiento publicado para el Lion 180",
+    },
   },
   {
     id: "efun-deer-2025-ficha-tecnica-precio",
@@ -2312,7 +2422,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://www.efunmotos.com/wp-content/uploads/2025/06/CATALOGO-digital-indd_compressed.pdf",
     analisisSlug: "efun-deer-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Efun: sin plan de mantenimiento publicado para el Deer",
+    },
   },
   {
     id: "voge-er10-2023-ficha-tecnica-precio",
@@ -2380,7 +2501,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/electrica/voge/125cc",
     analisisSlug: "voge-er10-2023-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Voge: sin plan de mantenimiento publicado para el ER10",
+    },
   },
   {
     id: "horwin-ds1-2025-ficha-tecnica-precio",
@@ -2446,7 +2578,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "horwin-ds1-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Horwin: sin plan de mantenimiento publicado para el DS1",
+    },
   },
   {
     id: "fantic-issimo-city-l1-2025-ficha-tecnica-precio",
@@ -2513,7 +2656,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "fantic-issimo-city-l1-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Fantic: sin plan de mantenimiento publicado para el Issimo City",
+    },
   },
   {
     id: "sunra-grace-49e-2025-ficha-tecnica-precio",
@@ -2580,7 +2734,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "sunra-grace-49e-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Sunra: sin plan de mantenimiento publicado para el Grace",
+    },
   },
   {
     id: "urbet-gadiro-e-125-2025-ficha-tecnica-precio",
@@ -2649,7 +2814,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "urbet-gadiro-e-125-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Urbet: sin plan de mantenimiento publicado para el Gadiro E-125",
+    },
   },
   {
     id: "urbet-riazor-2025-ficha-tecnica-precio",
@@ -2715,7 +2891,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: null,
     analisisSlug: "urbet-riazor-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Urbet: sin plan de mantenimiento publicado para el Riazor",
+    },
   },
   {
     id: "ecoxtrem-t5-2025-ficha-tecnica-precio",
@@ -2782,7 +2969,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://ecoxtrem.com/scooter-electricos/moto-electrica-matriculable-1500w-t5",
     analisisSlug: "ecoxtrem-t5-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "EcoXtrem: sin plan de mantenimiento publicado para el T5",
+    },
   },
   {
     id: "peugeot-e-streetzone-2024-ficha-tecnica-precio",
@@ -2849,7 +3047,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/peugeot/e-streetzone-2023",
     analisisSlug: "peugeot-e-streetzone-2024-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Peugeot: sin plan de mantenimiento publicado para el e-Streetzone",
+    },
   },
   {
     id: "velca-calima-50-2025-ficha-tecnica-precio",
@@ -2918,7 +3127,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://www.velcamotor.com/shop/calima-50-ciclomotor-electrico-velca-1297?order=website_sequence+asc",
     analisisSlug: "velca-calima-50-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Velca: sin plan de mantenimiento publicado para el Calima 50",
+    },
   },
   {
     id: "benelli-bn-125-2026",
@@ -4506,7 +4726,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/yamaha/tenere-700-extreme-2024",
     analisisSlug: "yamaha-tenere-700-extreme-2024-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el Ténéré 700 Extreme",
+    },
   },
   {
     id: "yamaha-tenere-700-explore-2024-ficha-tecnica-precio",
@@ -4572,7 +4803,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/yamaha/tenere-700-explore-2024",
     analisisSlug: "yamaha-tenere-700-explore-2024-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el Ténéré 700 Explore",
+    },
   },
   {
     id: "bmw-f-900-gs-adventure-2025-ficha-tecnica-precio",
@@ -4638,7 +4880,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://revistatumoto.com/bmw-f-900-gs-adventure-ficha-tecnica-y-precio/",
     analisisSlug: "bmw-f-900-gs-adventure-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW: sin plan de mantenimiento publicado para el F 900 GS Adventure",
+    },
   },
   {
     id: "benelli-bkx-300-2025-ficha-tecnica-precio",
@@ -4704,7 +4957,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://motorbikemag.es/",
     analisisSlug: "benelli-bkx-300-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Benelli: sin plan de mantenimiento publicado para el BKX 300",
+    },
   },
   {
     id: "ktm-890-adventure-2025-ficha-tecnica-precio",
@@ -4836,7 +5100,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://motocrom.com/husqvarna-norden-901-expedition-2025-precio-ficha-tecnica/",
     analisisSlug: "husqvarna-norden-901-expedition-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Husqvarna: sin plan de mantenimiento publicado para el Norden 901 Expedition",
+    },
   },
   {
     id: "honda-crf300l-2024-ficha-tecnica-precio",
@@ -4902,7 +5177,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://motos.net/ficha-tecnica/honda/crf300l/2024",
     analisisSlug: "honda-crf300l-2024-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el CRF300L",
+    },
   },
   {
     id: "honda-africa-twin-adventure-sports-2025-ficha-tecnica-precio",
@@ -4968,7 +5254,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/honda/crf-1100l-africa-twin-adventure-sports-2025",
     analisisSlug: "honda-africa-twin-adventure-sports-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el CRF1100L Africa Twin Adventure Sports",
+    },
   },
   {
     id: "honda-crf1100l-africa-twin-2026-ficha-tecnica-precio",
@@ -5034,7 +5331,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/honda/crf-1100l-africa-twin-2026",
     analisisSlug: "honda-crf1100l-africa-twin-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el CRF1100L Africa Twin",
+    },
   },
   {
     id: "aprilia-tuareg-660-2026-ficha-tecnica-precio",
@@ -5100,7 +5408,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/aprilia/tuareg-660-2026",
     analisisSlug: "aprilia-tuareg-660-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Aprilia: sin plan de mantenimiento publicado para el Tuareg 660",
+    },
   },
   {
     id: "bmw-r-1300-gs-adventure-2026-ficha-tecnica-precio",
@@ -5166,7 +5485,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://www.caetano.es/moto/bmw-r-1300-gs-adventure/",
     analisisSlug: "bmw-r-1300-gs-adventure-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "BMW: sin plan de mantenimiento publicado para el R 1300 GS Adventure",
+    },
   },
   {
     id: "royal-enfield-himalayan-450-2024-ficha-tecnica-precio",
@@ -5233,7 +5563,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://super7moto.com/moto/royal-enfield-himalayan-450-2024",
     analisisSlug: "royal-enfield-himalayan-450-2024-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Royal Enfield: sin plan de mantenimiento publicado para el Himalayan 450",
+    },
   },
   {
     id: "kawasaki-versys-650-2024-ficha-tecnica-precio",
@@ -5365,7 +5706,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://www.ktm.com/",
     analisisSlug: "ktm-790-adventure-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "KTM: sin plan de mantenimiento publicado para el 790 Adventure",
+    },
   },
   {
     id: "yamaha-tenere-700-world-raid-2026-ficha-tecnica-precio",
@@ -5431,7 +5783,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/yamaha/tenere-700-world-raid-2026",
     analisisSlug: "yamaha-tenere-700-world-raid-2026-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el Ténéré 700 World Raid",
+    },
   },
   {
     id: "swm-superdual-650-2025-ficha-tecnica-precio",
@@ -5500,7 +5863,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://www.swm-motorcycles.it/",
     analisisSlug: "swm-superdual-650-2025-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "SWM Motorcycles: sin plan de mantenimiento publicado para el Superdual 650",
+    },
   },
   {
     id: "qjmotor-srt-450-rx-2025-ficha-tecnica-precio",
@@ -5632,7 +6006,18 @@ export const MOTOS_NUEVOS_M7: MotoComparador[] = [
     fuenteUrl: "https://zontesmotos.es/modelo/350t/",
     analisisSlug: "zontes-350t-2024-ficha-tecnica-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Zontes: sin plan de mantenimiento publicado para el 350T",
+    },
   },
   {
     id: "voge-300rally-2024-ficha-tecnica-precio",

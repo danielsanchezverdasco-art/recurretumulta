@@ -75,7 +75,18 @@ export const MOTOS_EXP_M28: MotoComparador[] = [
     fuenteUrl: "https://www.motofichas.com/marcas/wottan/storm-125",
     analisisSlug: "wottan-storm-125-2025-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Wottan: sin plan de mantenimiento publicado para el Storm 125",
+    },
   },
   {
     id: "voge-sr150gt-2025-ficha-tecnica-precio",
@@ -145,7 +156,18 @@ export const MOTOS_EXP_M28: MotoComparador[] = [
     fuenteUrl: "https://www.vogechile.com/modelo/sr150gt",
     analisisSlug: "voge-sr150gt-2025-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Voge: sin plan de mantenimiento publicado para el SR150GT",
+    },
   },
   {
     id: "qjmotor-srt-800sx-2024-ficha-tecnica-precio",
@@ -215,7 +237,18 @@ export const MOTOS_EXP_M28: MotoComparador[] = [
     fuenteUrl: "https://lamoto.com.ar/noticias/qjmotor-srt-800-moto-trail-precio-calidad/",
     analisisSlug: "qjmotor-srt-800sx-2024-precio",
     mantenimientoDIY: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "QJMotor: sin plan de mantenimiento publicado para el SRT 800SX",
+    },
   },
   {
     id: "qjmotor-svt-650-2024-ficha-tecnica-precio",

@@ -7,6 +7,18 @@ import type { MotoComparador } from "./comparador-motos-data.ts";
 export const MOTOS_NUEVOS_M8: MotoComparador[] = [
   {
     id: "voge-sr450x-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Voge: sin plan de mantenimiento publicado para el SR450X",
+    },
     "marca": "Voge",
     "modelo": "SR450X",
     "version": "2026",
@@ -53,6 +65,18 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
   },
   {
     id: "kymco-cv3-575-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kymco: sin plan de mantenimiento publicado para el CV3 575",
+    },
     "marca": "Kymco",
     "modelo": "CV3 575",
     "version": "2026",
@@ -103,6 +127,18 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
   },
   {
     id: "voge-125rs-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Voge: sin plan de mantenimiento publicado para el 125RS",
+    },
     "marca": "Voge",
     "modelo": "125RS",
     "version": "2026",
@@ -146,6 +182,18 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
   },
   {
     id: "peugeot-pulsion-evo-125-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Peugeot: sin plan de mantenimiento publicado para el Pulsion EVO 125",
+    },
     "marca": "Peugeot",
     "modelo": "Pulsion EVO 125",
     "version": "2026",
@@ -196,6 +244,18 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
   },
   {
     id: "keeway-terrafina-350i-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Keeway: sin plan de mantenimiento publicado para el TerraFina 350i",
+    },
     "marca": "Keeway",
     "modelo": "TerraFina 350i",
     "version": "2026",
@@ -250,6 +310,18 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
   },
   {
     id: "voge-rr500s-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Voge: sin plan de mantenimiento publicado para el RR500S",
+    },
     "marca": "Voge",
     "modelo": "RR500S",
     "version": "2026",
@@ -296,6 +368,18 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
   },
   {
     id: "voge-300rr-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Voge: sin plan de mantenimiento publicado para el 300RR",
+    },
     "marca": "Voge",
     "modelo": "300RR",
     "version": "2025",
@@ -349,6 +433,18 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
   },
   {
     id: "verge-ts-pro-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Verge: sin plan de mantenimiento publicado para el TS Pro",
+    },
     "marca": "Verge",
     "modelo": "TS Pro",
     "version": "2026",
@@ -393,6 +489,18 @@ export const MOTOS_NUEVOS_M8: MotoComparador[] = [
   },
   {
     id: "kove-321rr-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kove: sin plan de mantenimiento publicado para el 321RR",
+    },
     "marca": "Kove",
     "modelo": "321RR",
     "version": "2025",

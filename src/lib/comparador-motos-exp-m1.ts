@@ -305,6 +305,18 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
   },
   {
     id: "honda-forza-125-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el Forza 125",
+    },
     marca: "Honda",
     modelo: "Forza 125",
     version: "2025",
@@ -366,6 +378,18 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
   },
   {
     id: "honda-forza-750-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Honda: sin plan de mantenimiento publicado para el Forza 750",
+    },
     marca: "Honda",
     modelo: "Forza 750",
     version: "2025",
@@ -1753,6 +1777,18 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
   },
   {
     id: "yamaha-delight-125-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el D'elight 125",
+    },
     marca: "Yamaha",
     modelo: "D'elight 125",
     version: "2025",
@@ -2185,6 +2221,18 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
   },
   {
     id: "kawasaki-ninja-e-1-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kawasaki: sin plan de mantenimiento publicado para el Ninja e-1",
+    },
     marca: "Kawasaki",
     modelo: "Ninja e-1",
     version: "2024",
@@ -2713,6 +2761,18 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
   },
   {
     id: "kawasaki-z-e-1-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kawasaki: sin plan de mantenimiento publicado para el Z e-1",
+    },
     marca: "Kawasaki",
     modelo: "Z e-1",
     version: "2024",
@@ -3583,6 +3643,18 @@ export const MOTOS_EXP_M1: MotoComparador[] = [
   },
   {
     id: "suzuki-hayabusa-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Suzuki: sin plan de mantenimiento publicado para el Hayabusa",
+    },
     marca: "Suzuki",
     modelo: "Hayabusa",
     version: "2025",

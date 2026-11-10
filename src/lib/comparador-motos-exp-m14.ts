@@ -18,6 +18,18 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
   // ── ZERO MOTORCYCLES ──
   {
     id: "zero-sr-s-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Zero Motorcycles: sin plan de mantenimiento publicado para el SR/S",
+    },
     marca: "Zero Motorcycles",
     modelo: "SR/S",
     version: "SR/S 2025",
@@ -81,6 +93,18 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
   },
   {
     id: "zero-dsr-x-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Zero Motorcycles: sin plan de mantenimiento publicado para el DSR/X",
+    },
     marca: "Zero Motorcycles",
     modelo: "DSR/X",
     version: "DSR/X 2025",
@@ -301,6 +325,18 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
   // ── SILENCE ──
   {
     id: "silence-s02-ls-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Silence: sin plan de mantenimiento publicado para el S02 LS",
+    },
     marca: "Silence",
     modelo: "S02 LS",
     version: "S02 LS 2025",
@@ -429,6 +465,18 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
   // ── HORWIN ──
   {
     id: "horwin-sk1-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Horwin: sin plan de mantenimiento publicado para el SK1",
+    },
     marca: "Horwin",
     modelo: "SK1",
     version: "SK1 2025",
@@ -540,6 +588,18 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
   },
   {
     id: "horwin-cr6-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Horwin: sin plan de mantenimiento publicado para el CR6",
+    },
     marca: "Horwin",
     modelo: "CR6",
     version: "CR6 2025",
@@ -777,6 +837,18 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
   },
   {
     id: "super-soco-cpx-pro-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Super Soco: sin plan de mantenimiento publicado para el CPx Pro",
+    },
     marca: "Super Soco",
     modelo: "CPx Pro",
     version: "CPx Pro 2025",
@@ -841,6 +913,18 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
   // ── MAEVING ──
   {
     id: "maeving-rm1-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Maeving: sin plan de mantenimiento publicado para el RM1",
+    },
     marca: "Maeving",
     modelo: "RM1",
     version: "RM1 2025",
@@ -905,6 +989,18 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
   // ── LIVEWIRE ──
   {
     id: "livewire-s2-del-mar-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "LiveWire: sin plan de mantenimiento publicado para el S2 Del Mar",
+    },
     marca: "LiveWire",
     modelo: "S2 Del Mar",
     version: "S2 Del Mar 2025",
@@ -969,6 +1065,18 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
   // ── YADEA ──
   {
     id: "yadea-keeness-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yadea: sin plan de mantenimiento publicado para el Keeness",
+    },
     marca: "Yadea",
     modelo: "Keeness",
     version: "Keeness 2025",
@@ -1032,6 +1140,18 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
   },
   {
     id: "yadea-fierider-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yadea: sin plan de mantenimiento publicado para el Fierider",
+    },
     marca: "Yadea",
     modelo: "Fierider",
     version: "Fierider 2025",

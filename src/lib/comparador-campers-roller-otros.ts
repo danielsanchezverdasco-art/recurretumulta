@@ -10,6 +10,18 @@ import type { CocheComparador } from "./comparador-coches-data.ts";
 export const CAMPERS_ROLLER_OTROS: CocheComparador[] = [
   {
     id: "roller-team-livingstone-5-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Roller Team: sin plan de mantenimiento publicado para el Livingstone 5",
+    },
     marca: "Roller Team",
     modelo: "Livingstone 5",
     tipo: "Diésel",
@@ -101,6 +113,18 @@ export const CAMPERS_ROLLER_OTROS: CocheComparador[] = [
   },
   {
     id: "adria-twin-600-spb-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Adria: sin plan de mantenimiento publicado para el Twin 600 SPB",
+    },
     marca: "Adria",
     modelo: "Twin 600 SPB",
     tipo: "Diésel",

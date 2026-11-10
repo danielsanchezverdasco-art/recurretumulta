@@ -1754,6 +1754,18 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
   },
   {
     id: "aprilia-sr-gt-200-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Aprilia: sin plan de mantenimiento publicado para el SR GT 200",
+    },
     marca: "Aprilia",
     modelo: "SR GT 200",
     version: "2024",
@@ -1931,6 +1943,18 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
   },
   {
     id: "mv-agusta-superveloce-800-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "MV Agusta: sin plan de mantenimiento publicado para el Superveloce 800",
+    },
     marca: "MV Agusta",
     modelo: "Superveloce 800",
     version: "2024",
@@ -2362,6 +2386,18 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
   },
   {
     id: "moto-morini-calibro-700-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Moto Morini: sin plan de mantenimiento publicado para el Calibro 700",
+    },
     marca: "Moto Morini",
     modelo: "Calibro 700",
     version: "2024",
@@ -2604,6 +2640,18 @@ export const MOTOS_EXP_M2: MotoComparador[] = [
   },
   {
     id: "bimota-tesi-h2-tera-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Bimota: sin plan de mantenimiento publicado para el Tesi H2 Tera",
+    },
     marca: "Bimota",
     modelo: "Tesi H2 Tera",
     version: "2024",

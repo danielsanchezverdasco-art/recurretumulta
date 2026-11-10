@@ -840,6 +840,18 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   },
   {
     id: "zontes-703f-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Zontes: sin plan de mantenimiento publicado para el 703F",
+    },
     marca: "Zontes",
     modelo: "703F",
     version: "703F 2026",
@@ -1654,6 +1666,18 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   },
   {
     id: "macbor-eight-mile-125-lc-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Macbor: sin plan de mantenimiento publicado para el Eight Mile 125 LC",
+    },
     marca: "Macbor",
     modelo: "Eight Mile 125 LC",
     version: "Eight Mile 125 LC 2024",
@@ -2334,6 +2358,18 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   },
   {
     id: "rieju-mrt-125-sm-lc-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Rieju: sin plan de mantenimiento publicado para el MRT 125 SM LC",
+    },
     marca: "Rieju",
     modelo: "MRT 125 SM LC",
     version: "MRT 125 SM LC 2024",
@@ -2397,6 +2433,18 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   },
   {
     id: "rieju-nkd-125-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Rieju: sin plan de mantenimiento publicado para el NKD 125",
+    },
     marca: "Rieju",
     modelo: "NKD 125",
     version: "NKD 125 2026",
@@ -2461,6 +2509,18 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   // ── MITT (3) ──────────────────────────────────────────────────────────
   {
     id: "mitt-tt-530-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "MITT: sin plan de mantenimiento publicado para el TT 530",
+    },
     marca: "MITT",
     modelo: "TT 530",
     version: "TT 530 2024",
@@ -2756,6 +2816,18 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   // ── SWM MOTORCYCLES (3) ─────────────────────────────────────────────────
   {
     id: "swm-hoku-400-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "SWM Motorcycles: sin plan de mantenimiento publicado para el Hoku 400",
+    },
     marca: "SWM Motorcycles",
     modelo: "Hoku 400",
     version: "Hoku 400 2024",
@@ -2819,6 +2891,18 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   },
   {
     id: "swm-sm-500-r-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "SWM Motorcycles: sin plan de mantenimiento publicado para el SM 500 R",
+    },
     marca: "SWM Motorcycles",
     modelo: "SM 500 R",
     version: "SM 500 R 2024",
@@ -2882,6 +2966,18 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   },
   {
     id: "swm-six-days-500-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "SWM Motorcycles: sin plan de mantenimiento publicado para el Six Days 500",
+    },
     marca: "SWM Motorcycles",
     modelo: "Six Days 500",
     version: "Six Days 500 2024",
@@ -2946,6 +3042,18 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   // ── MALAGUTI (2) ────────────────────────────────────────────────────────
   {
     id: "malaguti-drakon-125-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Malaguti: sin plan de mantenimiento publicado para el Drakon 125",
+    },
     marca: "Malaguti",
     modelo: "Drakon 125",
     version: "Drakon 125 2024",
@@ -3009,6 +3117,18 @@ export const MOTOS_EXP_M3: MotoComparador[] = [
   },
   {
     id: "malaguti-madison-125-2024-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Malaguti: sin plan de mantenimiento publicado para el Madison 125",
+    },
     marca: "Malaguti",
     modelo: "Madison 125",
     version: "Madison 125 2024",

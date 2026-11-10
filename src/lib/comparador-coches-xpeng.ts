@@ -435,6 +435,18 @@ export const COCHES_XPENG: CocheComparador[] = [
     // Cero cifras inventadas: lo no publicado (velocidad máx., peso, consumo
     // WLTP, par, EuroNCAP, plan de mantenimiento) queda sin dato/omitido.
     id: "xpeng-l03-2026-precio-espana",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "XPeng: sin plan de mantenimiento publicado para el L03 PowerX",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: null,
@@ -514,6 +526,18 @@ export const COCHES_XPENG: CocheComparador[] = [
     // Fuentes: CnEVPost 26/10/2026 y 15/10/2026, CarNewsChina 15/10/2026 y
     // 23/10/2026 (prueba real EREV 1.194 km), TechNode 16/10/2026.
     id: "xpeng-mona-l05-2026-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "XPeng: sin plan de mantenimiento publicado para el Mona L05",
+    },
     garantiaBateriaAnos: null,
     garantiaBateriaKm: null,
     garantiaBateriaDegradacionPct: null,

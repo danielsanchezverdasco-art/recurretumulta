@@ -16,6 +16,18 @@ export const MOTOS_EXP_M10: MotoComparador[] = [
   // ── YAMAHA ──
   {
     id: "yamaha-mt-09-y-amt-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yamaha: sin plan de mantenimiento publicado para el MT-09 Y-AMT",
+    },
     marca: "Yamaha",
     modelo: "MT-09 Y-AMT",
     version: "MT-09 Y-AMT 2025",
@@ -143,6 +155,18 @@ export const MOTOS_EXP_M10: MotoComparador[] = [
   // ── DUCATI ──
   {
     id: "ducati-multistrada-v4-rs-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Ducati: sin plan de mantenimiento publicado para el Multistrada V4 RS",
+    },
     marca: "Ducati",
     modelo: "Multistrada V4 RS",
     version: "Multistrada V4 RS 2026",

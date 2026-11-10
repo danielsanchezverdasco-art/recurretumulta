@@ -73,7 +73,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Duo 45 2025",
     parNm: null,
     pesoKg: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Mobilize: sin plan de mantenimiento publicado para el Duo 45 2025",
+    },
     plazas: 2,
     potenciaCv: 8,
     precioDesde: 9990,
@@ -153,7 +164,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Duo 80 2025",
     parNm: null,
     pesoKg: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Mobilize: sin plan de mantenimiento publicado para el Duo 80 2025",
+    },
     plazas: 2,
     potenciaCv: 22,
     precioDesde: 12990,
@@ -233,7 +255,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Bento 2025",
     parNm: null,
     pesoKg: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Mobilize: sin plan de mantenimiento publicado para el Bento 2025",
+    },
     plazas: 1,
     potenciaCv: 22,
     precioDesde: null, // Sin tarifa oficial publicada en España (Mobilize/renault Pro no publica precio del Bento como texto accesible)
@@ -553,7 +586,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "S04 L6e 2025",
     parNm: null,
     pesoKg: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Silence: sin plan de mantenimiento publicado para el S04 L6e 2025",
+    },
     plazas: 2,
     potenciaCv: 8,
     precioDesde: 8800,
@@ -636,7 +680,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "S04 L7e 2025",
     parNm: null,
     pesoKg: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Silence: sin plan de mantenimiento publicado para el S04 L7e 2025",
+    },
     plazas: 2,
     potenciaCv: 19,
     precioDesde: 9800,
@@ -714,7 +769,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "600e Scorpionissima 2025",
     parNm: 345,
     pesoKg: 1625,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Abarth: sin plan de mantenimiento publicado para el 600e Scorpionissima 2025",
+    },
     plazas: 5,
     potenciaCv: 281,
     precioDesde: 49000,
@@ -797,7 +863,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Pocco 2025",
     parNm: 100,
     pesoKg: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Invicta Electric: sin plan de mantenimiento publicado para el Pocco 2025",
+    },
     plazas: 2,
     potenciaCv: 14,
     precioDesde: 8870,
@@ -877,7 +954,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Pony 2025",
     parNm: null,
     pesoKg: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Invicta Electric: sin plan de mantenimiento publicado para el Pony 2025",
+    },
     plazas: 2,
     potenciaCv: 27,
     precioDesde: 8870,
@@ -958,7 +1046,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Spartan EV 2025",
     parNm: 600,
     pesoKg: 2040,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Invicta Electric: sin plan de mantenimiento publicado para el Spartan EV 2025",
+    },
     plazas: 5,
     potenciaCv: 163,
     precioDesde: 58302,
@@ -1040,7 +1139,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "D2S 27 kW 2025",
     parNm: null,
     pesoKg: 865,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Invicta Electric: sin plan de mantenimiento publicado para el D2S 27 kW 2025",
+    },
     plazas: 2,
     potenciaCv: 49,
     precioDesde: 13620,
@@ -1117,7 +1227,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Taigo 1.0 TSI 115 Más",
     parNm: 200,
     pesoKg: 1318,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Volkswagen: sin plan de mantenimiento publicado para el Taigo 1.0 TSI 115 Más",
+    },
     plazas: 5,
     potenciaCv: 116,
     precioDesde: 27595,
@@ -1193,7 +1314,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "T-Cross 1.0 TSI 115 Más",
     parNm: 200,
     pesoKg: 1360,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Volkswagen: sin plan de mantenimiento publicado para el T-Cross 1.0 TSI 115 Más",
+    },
     plazas: 5,
     potenciaCv: 116,
     precioDesde: 28585,
@@ -1269,7 +1401,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Multivan 2.0 TDI 150 Life DSG",
     parNm: 360,
     pesoKg: 2153,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Volkswagen: sin plan de mantenimiento publicado para el Multivan 2.0 TDI 150 Life DSG",
+    },
     plazas: 7,
     potenciaCv: 150,
     precioDesde: 68230,
@@ -1345,7 +1488,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Karoq Selection 2.0 TDI 150 DSG",
     parNm: 360,
     pesoKg: 1511,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Skoda: sin plan de mantenimiento publicado para el Karoq Selection 2.0 TDI 150 DSG",
+    },
     plazas: 5,
     potenciaCv: 150,
     precioDesde: 35795,
@@ -1421,7 +1575,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Arona FR 1.0 TSI 115",
     parNm: 200,
     pesoKg: 1213,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "SEAT: sin plan de mantenimiento publicado para el Arona FR 1.0 TSI 115",
+    },
     plazas: 5,
     potenciaCv: 116,
     precioDesde: 28250,
@@ -1573,7 +1738,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Fabia Selection 1.0 TSI 95",
     parNm: 175,
     pesoKg: 1159,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Skoda: sin plan de mantenimiento publicado para el Fabia Selection 1.0 TSI 95",
+    },
     plazas: 5,
     potenciaCv: 95,
     precioDesde: 22590,
@@ -3799,7 +3975,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Spazio",
     parNm: 260,
     pesoKg: 1742,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "EVO: sin plan de mantenimiento publicado para el Spazio",
+    },
     plazas: 7,
     potenciaCv: 176,
     precioDesde: 33400,
@@ -3877,7 +4064,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "6 HEV",
     parNm: null,
     pesoKg: 1775,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "EVO: sin plan de mantenimiento publicado para el 6 HEV",
+    },
     plazas: 5,
     potenciaCv: 245,
     precioDesde: 33900,
@@ -3957,7 +4155,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "G03 EDI",
     parNm: null,
     pesoKg: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "SWM: sin plan de mantenimiento publicado para el G03 EDI",
+    },
     plazas: 7,
     potenciaCv: 110,
     precioDesde: 23990,
@@ -4037,7 +4246,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "5 Stilnovo",
     parNm: 255,
     pesoKg: null,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "DR: sin plan de mantenimiento publicado para el 5 Stilnovo",
+    },
     plazas: 5,
     potenciaCv: 158,
     precioDesde: 23900,
@@ -4115,7 +4335,18 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
     modelo: "Supersport",
     parNm: 500,
     pesoKg: 1170,
-    planMantenimiento: null,
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Morgan: sin plan de mantenimiento publicado para el Supersport",
+    },
     plazas: 2,
     potenciaCv: 335,
     precioDesde: null, // Sin precio oficial en EUR verificado el 21/10/2026: PVP desde oficial Reino Unido: 102.000 GBP (versión con capota de lona; 105.000 GBP con techo duro), precio anunciado por Morgan en el lanzamiento ofi.

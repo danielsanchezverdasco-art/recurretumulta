@@ -12,6 +12,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   // ── MOTO GUZZI ──
   {
     id: "moto-guzzi-v7-sport-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Moto Guzzi: sin plan de mantenimiento publicado para el V7 Sport",
+    },
     marca: "Moto Guzzi",
     modelo: "V7 Sport",
     version: "V7 Sport 2025",
@@ -75,6 +87,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "moto-guzzi-v85-strada-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Moto Guzzi: sin plan de mantenimiento publicado para el V85 Strada",
+    },
     marca: "Moto Guzzi",
     modelo: "V85 Strada",
     version: "V85 Strada 2025",
@@ -138,6 +162,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "moto-guzzi-v85-tt-travel-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Moto Guzzi: sin plan de mantenimiento publicado para el V85 TT Travel",
+    },
     marca: "Moto Guzzi",
     modelo: "V85 TT Travel",
     version: "V85 TT Travel 2025",
@@ -201,6 +237,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "moto-guzzi-v100-mandello-s-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Moto Guzzi: sin plan de mantenimiento publicado para el V100 Mandello S",
+    },
     marca: "Moto Guzzi",
     modelo: "V100 Mandello S",
     version: "V100 Mandello S 2025",
@@ -265,6 +313,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   // ── MOTO MORINI ──
   {
     id: "moto-morini-x-cape-700-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Moto Morini: sin plan de mantenimiento publicado para el X-Cape 700",
+    },
     marca: "Moto Morini",
     modelo: "X-Cape 700",
     version: "X-Cape 700 2025",
@@ -328,6 +388,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "moto-morini-corsaro-750-sport-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Moto Morini: sin plan de mantenimiento publicado para el Corsaro 750 Sport",
+    },
     marca: "Moto Morini",
     modelo: "Corsaro 750 Sport",
     version: "Corsaro 750 Sport 2025",
@@ -391,6 +463,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "moto-morini-alltrhike-450-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Moto Morini: sin plan de mantenimiento publicado para el Alltrhike 450",
+    },
     marca: "Moto Morini",
     modelo: "Alltrhike 450",
     version: "Alltrhike 450 2026",
@@ -455,6 +539,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   // ── ROYAL ENFIELD ──
   {
     id: "royal-enfield-bullet-650-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Royal Enfield: sin plan de mantenimiento publicado para el Bullet 650",
+    },
     marca: "Royal Enfield",
     modelo: "Bullet 650",
     version: "Bullet 650 2026",
@@ -518,6 +614,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "royal-enfield-flying-flea-c6-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Royal Enfield: sin plan de mantenimiento publicado para el Flying Flea C6",
+    },
     marca: "Royal Enfield",
     modelo: "Flying Flea C6",
     version: "Flying Flea C6 2026",
@@ -581,6 +689,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "royal-enfield-goan-classic-350-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Royal Enfield: sin plan de mantenimiento publicado para el Goan Classic 350",
+    },
     marca: "Royal Enfield",
     modelo: "Goan Classic 350",
     version: "Goan Classic 350 2025",
@@ -645,6 +765,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   // ── LAMBRETTA ──
   {
     id: "lambretta-v200-special-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Lambretta: sin plan de mantenimiento publicado para el V200 Special",
+    },
     marca: "Lambretta",
     modelo: "V200 Special",
     version: "V200 Special 2025",
@@ -708,6 +840,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "lambretta-v50-special-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Lambretta: sin plan de mantenimiento publicado para el V50 Special",
+    },
     marca: "Lambretta",
     modelo: "V50 Special",
     version: "V50 Special 2025",
@@ -771,6 +915,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "lambretta-elettra-s-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Lambretta: sin plan de mantenimiento publicado para el Elettra S",
+    },
     marca: "Lambretta",
     modelo: "Elettra S",
     version: "Elettra S 2026",
@@ -830,6 +986,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   // ── ITALJET ──
   {
     id: "italjet-dragster-459-twin-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Italjet: sin plan de mantenimiento publicado para el Dragster 459 Twin",
+    },
     marca: "Italjet",
     modelo: "Dragster 459 Twin",
     version: "Dragster 459 Twin 2026",
@@ -900,6 +1068,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "italjet-roadster-400-founders-edition-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Italjet: sin plan de mantenimiento publicado para el Roadster 400 Founders Edition",
+    },
     marca: "Italjet",
     modelo: "Roadster 400 Founders Edition",
     version: "Roadster 400 Founders Edition 2026",
@@ -964,6 +1144,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   // ── SYM ──
   {
     id: "sym-cruisym-300-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "SYM: sin plan de mantenimiento publicado para el Cruisym 300",
+    },
     marca: "SYM",
     modelo: "Cruisym 300",
     version: "Cruisym 300 2025",
@@ -1090,6 +1282,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "sym-fugue-125-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "SYM: sin plan de mantenimiento publicado para el Fugue 125",
+    },
     marca: "SYM",
     modelo: "Fugue 125",
     version: "Fugue 125 2025",
@@ -1154,6 +1358,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   // ── KYMCO ──
   {
     id: "kymco-agility-s-125-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kymco: sin plan de mantenimiento publicado para el Agility S 125",
+    },
     marca: "Kymco",
     modelo: "Agility S 125",
     version: "Agility S 125 2025",
@@ -1217,6 +1433,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "kymco-super-dink-gt-125-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Kymco: sin plan de mantenimiento publicado para el Super Dink GT 125",
+    },
     marca: "Kymco",
     modelo: "Super Dink GT 125",
     version: "Super Dink GT 125 2025",
@@ -1350,6 +1578,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   // ── INDIAN MOTORCYCLE ──
   {
     id: "indian-ftr-1200-sport-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Indian Motorcycle: sin plan de mantenimiento publicado para el FTR 1200 Sport",
+    },
     marca: "Indian Motorcycle",
     modelo: "FTR 1200 Sport",
     version: "FTR 1200 Sport 2025",
@@ -1413,6 +1653,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "indian-sport-chief-rt-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Indian Motorcycle: sin plan de mantenimiento publicado para el Sport Chief RT",
+    },
     marca: "Indian Motorcycle",
     modelo: "Sport Chief RT",
     version: "Sport Chief RT 2025",
@@ -1476,6 +1728,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "indian-pursuit-dark-horse-2025-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Indian Motorcycle: sin plan de mantenimiento publicado para el Pursuit Dark Horse",
+    },
     marca: "Indian Motorcycle",
     modelo: "Pursuit Dark Horse",
     version: "Pursuit Dark Horse 2025",
@@ -1539,6 +1803,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "velca-nude-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Velca: sin plan de mantenimiento publicado para el Nude",
+    },
     marca: "Velca",
     modelo: "Nude",
     version: "Nude 2026",
@@ -1602,6 +1878,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "velca-nude-lite-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Velca: sin plan de mantenimiento publicado para el Nude Lite",
+    },
     marca: "Velca",
     modelo: "Nude Lite",
     version: "Nude Lite 2026",
@@ -1659,6 +1947,18 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
   },
   {
     id: "velca-eon-2026-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Velca: sin plan de mantenimiento publicado para el Eon",
+    },
     marca: "Velca",
     modelo: "Eon",
     version: "Eon 2026",

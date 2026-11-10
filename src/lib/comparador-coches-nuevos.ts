@@ -2386,6 +2386,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "tesla-roadster-2026-retraso-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Tesla: sin plan de mantenimiento publicado para el Roadster",
+    },
     textosPropios: {
       precio: "Tesla aún no tiene precio de venta para el Roadster. La cifra oficial es una reserva: 50.000 $ Performance, 250.000 $ Thrust, y Rocket solo con invitación; fuentes: TechCrunch del 15 de octubre y Fortune del 17 de octubre de 2026. Producción anunciada para 2028, sin precio ni fecha para España.",
       faqPrecio: "No hay precio: Tesla solo pide reservar, con 50.000 $ Performance o 250.000 $ Thrust, y reserva el Rocket a clientes invitados. Fabricación prevista en 2028 y sin PVP en euros.",
@@ -2475,6 +2487,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "xiaomi-yu7-suv-electrico-llegada-europa",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Xiaomi: sin plan de mantenimiento publicado para el YU7",
+    },
     marca: "Xiaomi",
     modelo: "YU7",
     tipo: "Eléctrico",
@@ -2549,6 +2573,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "li-auto-l6-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Li Auto: sin plan de mantenimiento publicado para el L6",
+    },
     marca: "Li Auto",
     modelo: "L6",
     tipo: "Híbrido de autonomía extendida",
@@ -2611,6 +2647,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "aito-m9-huawei-ficha-tecnica-precio",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Aito: sin plan de mantenimiento publicado para el M9",
+    },
     marca: "Aito",
     modelo: "M9",
     tipo: "Eléctrico",
@@ -2685,6 +2733,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "yangwang-byd-u8-u9-europa-2027",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Yangwang: sin plan de mantenimiento publicado para el U8",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: 70,
@@ -2736,6 +2796,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "im-motors-ls6-nuevo-suv-electrico-model-y",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "IM Motors: sin plan de mantenimiento publicado para el LS6",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -2788,6 +2860,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "li-auto-i8-suv-electrico-6-plazas-precio-2026",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Li Auto: sin plan de mantenimiento publicado para el i8",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -2840,6 +2924,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "geely-e2-electrico-espana-13990-euros-ficha",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Geely: sin plan de mantenimiento publicado para el E2",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 200000,
     garantiaBateriaDegradacionPct: 70,
@@ -2947,6 +3043,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "changan-nevo-q06-suv-electrico-paris-2026",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Changan: sin plan de mantenimiento publicado para el Nevo Q06",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -3070,6 +3178,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "lynk-co-07-gt-debut-europa-paris-2026",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Lynk & Co: sin plan de mantenimiento publicado para el 07 GT",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -3288,6 +3408,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "jetour-g700-903-cv-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Jetour: sin plan de mantenimiento publicado para el G700",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -6362,6 +6494,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
     },
   {
     id: "alpine-a110",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Alpine: sin plan de mantenimiento publicado para el A110",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -10230,6 +10374,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "volvo-ex30-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Volvo: sin plan de mantenimiento publicado para el EX30",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -10287,6 +10443,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "polestar-4-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Polestar: sin plan de mantenimiento publicado para el 4",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,
@@ -10344,6 +10512,18 @@ export const COCHES_NUEVOS: CocheComparador[] = [
   },
   {
     id: "smart-1-precio-ficha-tecnica",
+    planMantenimiento: {
+      intervalo: "Sin programa publicado; sigue las revisiones periódicas del manual del propietario",
+      revisiones: [
+        {
+          nombre: "Revisiones según el manual del propietario",
+          queSeCambia: "La marca no publica un plan de mantenimiento oficial; sigue las revisiones periódicas del manual del propietario",
+          costeAproxEur: null,
+        },
+      ],
+      costeAnualAproxEur: null,
+      fuente: "Smart: sin plan de mantenimiento publicado para el #1",
+    },
     garantiaBateriaAnos: 8,
     garantiaBateriaKm: 160000,
     garantiaBateriaDegradacionPct: 70,

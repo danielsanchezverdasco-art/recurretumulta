@@ -77,6 +77,9 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
   },
   {
     id: "bogist-m3-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: null,
     videoCanal: null,
     marca: "Bogist",
@@ -131,6 +134,9 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
   },
   {
     id: "bogist-c1-pro",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: "FHz7DxgRb38",
     videoCanal: "AMTR",
     marca: "Bogist",
@@ -229,6 +235,9 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
   },
   {
     id: "bogist-m5-pro-s",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: "BsQ69eDWwsk",
     videoCanal: "Electric Surf",
     marca: "Bogist",
@@ -1458,6 +1467,9 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
   // ─────────────────────────── BRONCO (2) ───────────────────────────
   {
     id: "bronco-xtreme-11",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: "vGR1gyS7HCQ",
     videoCanal: "Electric Scooter Academy",
     marca: "Bronco",
@@ -1513,6 +1525,9 @@ export const PATINETES_EXP_P4: PatineteComparador[] = [
   },
   {
     id: "bronco-xtreme-vnom-11",
+    mantenimientoDIY: {
+      intervaloRevision: "Sin programa de mantenimiento publicado por la marca; sigue el manual del propietario",
+    },
     videoId: "6EwOsR_Lnyc",
     videoCanal: "Bronco Motors",
     marca: "Bronco",
