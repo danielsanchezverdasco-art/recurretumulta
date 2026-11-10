@@ -3140,12 +3140,6 @@ export const COCHES_NUEVOS_C6: CocheComparador[] = [
       { src: "/media/porsche-cayenne-turbo-gt-2025-precio-ficha-tecnica-hunt2.webp", alt: "Mantenimiento intermedio (foto: Porsche (foto de prensa oficial) vía Sellatease, licencia desconocida)", ancho: 840, alto: 480 },
       { src: "/media/porsche-cayenne-turbo-gt-2025-precio-ficha-tecnica-hunt3.webp", alt: "Mantenimiento intermedio (foto: Porsche (foto de prensa oficial) vía The Torque Report, licencia desconocida)", ancho: 1580, alto: 1055 },
     ],
-    euroncap: {
-      estrellas: 5,
-      ano: 2025,
-      url: null,
-      nota: "Prueba Euro NCAP 5 estrellas (ronda de 2025) sobre el Cayenne; URL del resultado oficial no recuperada."
-    },
     planMantenimiento: {
       intervalo: "Cada 2 años o 30.000 km (lo que ocurra primero)",
       revisiones: [
