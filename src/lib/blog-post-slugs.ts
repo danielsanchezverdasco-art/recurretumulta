@@ -4364,4 +4364,5 @@ export const BLOG_POST_SLUGS: ReadonlySet<string> = new Set([
   "zwheel-e9d",
   "zwheel-e9t",
   "zwheel-zwolf-duo",
+  "volkswagen-t-roc-hybrid-2026-precio-ficha-tecnica",
 ]);

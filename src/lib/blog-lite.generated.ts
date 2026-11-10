@@ -82506,6 +82506,25 @@ export const BLOG_LITE: BlogLitePost[] = [
     "readTime": 3
   },
   {
+    "slug": "volkswagen-t-roc-hybrid-2026-precio-ficha-tecnica",
+    "title": "Volkswagen T-Roc Hybrid 2026: 170 CV desde 38.450 €",
+    "excerpt": "El Volkswagen T-Roc Hybrid 2026 es el primer híbrido completo de Volkswagen: 1.5 TSI de 136 o 170 CV, desde 33.725 £ en Reino Unido y con etiqueta ECO.",
+    "category": "Novedades Motor",
+    "date": "2026-11-10",
+    "locale": "all",
+    "heroSrc": "/media/volkswagen-t-roc-hybrid-2026-precio-ficha-tecnica-hero.webp",
+    "heroAlt": "Volkswagen T-Roc 2026 azul circulando por una carretera de costa",
+    "keywords": [
+      "volkswagen t-roc hybrid precio",
+      "t-roc híbrido 2026",
+      "t-roc hybrid 170 cv",
+      "volkswagen primer híbrido completo",
+      "t-roc hybrid vs etsi",
+      "t-roc híbrido españa"
+    ],
+    "readTime": 16
+  },
+  {
     "slug": "volkswagen-id-tiguan-2026-precio-ficha-tecnica",
     "title": "Volkswagen ID. Tiguan: 39.590 € y hasta 605 km",
     "excerpt": "El ID. Tiguan eléctrico arranca en 39.590 € en España, con 190 CV, batería de 58 kWh, 454 km WLTP y etiqueta Cero; la variante de 77 kWh llega a 605 km.",
