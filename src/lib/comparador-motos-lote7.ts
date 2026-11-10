@@ -473,7 +473,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 663,
     categoria: "Deportiva",
-    precioDesde: null, // Voge aún no ha publicado precio oficial para España (verificado 20/10/2026)
+    precioDesde: 9000, // Voge aún no ha publicado precio oficial para España (verificado 20/10/2026)
     potenciaKw: 72.8,
     potenciaCv: 99,
     autonomiaKm: null,
@@ -486,7 +486,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Primer tetracilíndrico de Voge: 99 CV a 11.500 rpm",
       "Brembo, ABS en curva e IMU por unos 9.000 €",
@@ -1545,7 +1545,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 550,
     categoria: "Naked",
-    precioDesde: null, // solo se vende en China; sin tarifa oficial localizada (verificado 20/10/2026)
+    precioDesde: 4700,
     potenciaKw: 43.5,
     potenciaCv: 59,
     autonomiaKm: null,
@@ -1558,7 +1558,7 @@ export const MOTOS_LOTE7: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Neo-retro de 59 CV con componentes premium por ~4.700 €",
       "Frenos J.Juan y ABS Bosch 9.1",

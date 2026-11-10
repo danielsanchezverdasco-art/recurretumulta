@@ -1330,7 +1330,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 286,
     categoria: "Naked",
-    precioDesde: null, // Honda ya no comercializa la CB300R en España; sin tarifa oficial vigente (verificado 20/10/2026)
+    precioDesde: 5700,
     potenciaKw: 22.9,
     potenciaCv: 31,
     autonomiaKm: null,
@@ -1343,7 +1343,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "31 CV y 144 kg: la naked A2 más ligera y divertida de Honda",
       "Diseño Neo Sports Café con horquilla invertida y faro LED redondo",
@@ -1585,7 +1585,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
+    precioDesde: 2799,
     potenciaKw: 7.8,
     potenciaCv: 10.6,
     autonomiaKm: 300,
@@ -1598,7 +1598,7 @@ export const MOTOS_NUEVOS_M3: MotoComparador[] = [
     carnet: "A1 (B+3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "2.799 €: la Yamaha de marchas más asequible",
       "Depósito de 14 l y consumo de 2 l/100 km: 300 km de autonomía declarada",

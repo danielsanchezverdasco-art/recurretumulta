@@ -1261,7 +1261,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 502,
     categoria: "Trail",
-    precioDesde: null, // la versión X ya no se comercializa en España y Benelli no publica tarifa oficial vigente para ella (verificado 20/10/2026)
+    precioDesde: 6290, // la versión X ya no se comercializa en España y Benelli no publica tarifa oficial vigente para ella (verificado 20/10/2026)
     potenciaKw: 35,
     potenciaCv: 47.6,
     autonomiaKm: null,
@@ -1274,7 +1274,7 @@ export const MOTOS_EXP_M25: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "costeAnualAproxEur"],
+    aprox: ["velocidadMax", "costeAnualAproxEur", "precioDesde"],
     pros: ["Pocas trail pensadas para el A2 igualan su factura de partida: 6.290 €, por debajo de una Honda NX500 en planteamiento comercial", "Delante monta una rueda de 19 pulgadas con llantas de radios, combinación que transmite más confianza cuando el asfalto se rompe", "De serie ya incluye escape elevado y caballete central, dos elementos prácticos para viajar cargado y mantener la moto sin taller", "Los 20 litros del depósito invitan a enlazar etapas largas sin planear cada parada de repostaje al detalle", "Su bicilíndrico de 502 cc rinde 47,6 CV con entrega suave, potencia exacta para moverse legal con el carnet A2", "En ruta se percibe una protección aerodinámica cuidada, detalle que reduce cansancio en desplazamientos largos por autovía"],
     contras: ["Con 235 kg en orden de marcha resulta voluminosa en maniobras lentas y poco amiga del campo técnico de verdad", "Pese al extra de recorrido, las suspensiones mantienen componentes básicos y se quedan cortas ante un uso campero exigente", "A plena carga, los 47,6 CV se notan justos en autopista cuando toca adelantar con decisión y viento en contra", "El sistema ABS carece de desconexión, algo que penaliza a quien quiera soltarse rodando sobre tierra suelta", "Tocar suelo exige piernas largas: el asiento queda a 840 mm y puede intimidar a pilotos de talla media"],
     curiosidades: ["La letra X resume su receta: radios, rueda alta delantera y silenciador en alto respecto a la TRK 502 estándar", "Hay dos cifras de peso que conviene no confundir: 213 kg en vacío y 235 kg ya lista para rodar", "Benelli, hoy bajo el paraguas de QJMotor, ha hecho de este modelo su superventas entre quienes viajan con el A2", "Entre rivales directas como la CFMoto 450MT y la Voge 500DS, su depósito permite superar los 400 km sin repostar según lo recogido en su ficha"],

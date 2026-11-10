@@ -196,7 +196,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "Storm Bee",
     version: "Storm Bee 2025",
     categoria: "Trail",
-    precioDesde: null, // sin tarifa oficial publicada en España (verificado 20/10/2026)
+    precioDesde: 8500,
     potenciaKw: 22.5,
     potenciaCv: 30.6,
     cilindradaCc: null,
@@ -214,6 +214,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "potenciaCv",
       "velocidadMax",
       "pesoKg",
+      "precioDesde",
     ],
     pros: [
       "22,5 kW y 520 Nm: la Sur-Ron mas potente, con tamano de moto de enduro de verdad",
@@ -454,7 +455,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "XXX",
     version: "XXX TL2500 2025",
     categoria: "Urbana",
-    precioDesde: null, // sin tarifa oficial publicada en España (verificado 20/10/2026)
+    precioDesde: 3500,
     potenciaKw: 2.5,
     potenciaCv: 3.4,
     cilindradaCc: null,
@@ -472,6 +473,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "potenciaCv",
       "velocidadMax",
       "pesoKg",
+      "precioDesde",
     ],
     pros: [
       "Formato mini con 2500W: la Talaria mas accesible y manejable",
@@ -801,7 +803,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "iTank",
     version: "iTank 2025",
     categoria: "Scooter",
-    precioDesde: null, // sin tarifa oficial localizada (verificado 20/10/2026)
+    precioDesde: 2999,
     potenciaKw: 3,
     potenciaCv: 4.1,
     cilindradaCc: null,
@@ -819,6 +821,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
       "potenciaCv",
       "bateriaKwh",
       "pesoKg",
+      "precioDesde",
     ],
     pros: [
       "Tres ruedas con doble rueda delantera: estabilidad total en mojado y en parado",
@@ -975,7 +978,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     modelo: "MCR-S",
     version: "MCR-S 2025",
     categoria: "Naked",
-    precioDesde: null, // sin tarifa oficial localizada (verificado 20/10/2026)
+    precioDesde: 13500,
     potenciaKw: 14,
     potenciaCv: 19,
     cilindradaCc: null,
@@ -992,6 +995,7 @@ export const MOTOS_LOTE9: MotoComparador[] = [
     aprox: [
       "potenciaKw",
       "potenciaCv",
+      "precioDesde",
     ],
     pros: [
       "148 km/h de punta: la electrica mas rapida del lote",

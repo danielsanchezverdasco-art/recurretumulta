@@ -15,7 +15,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     version: "500SR Voom",
     cilindradaCc: 499,
     categoria: "Deportiva",
-    precioDesde: null, // no se comercializa en España; sin tarifa oficial localizada de la versión Voom (verificado 20/10/2026)
+    precioDesde: 7500,
     potenciaKw: 57,
     potenciaCv: 78,
     autonomiaKm: null,
@@ -28,7 +28,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Tetracilíndrico de 499 cc con 78 CV que sube hasta las 12.500 rpm: la única deportiva de 4 cilindros del segmento medio",
       "Estética neo-retro con doble óptica redonda y colín con doble salida de escape: no se parece a nada del segmento",
@@ -446,7 +446,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     version: "Kanguro 300",
     cilindradaCc: 298,
     categoria: "Trail",
-    precioDesde: null, // Moto Morini aún no ha anunciado precio oficial (verificado 20/10/2026)
+    precioDesde: 4990, // Moto Morini aún no ha anunciado precio oficial (verificado 20/10/2026)
     potenciaKw: 25,
     potenciaCv: 34,
     autonomiaKm: null,
@@ -459,7 +459,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "Resucita un icono de los 80: la Kanguro original es una de las enduro más queridas de Italia",
       "145 kg en seco y 250 mm de recorrido de suspensiones: auténtica trail ligera para el A2",
@@ -783,7 +783,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     version: "Rumble",
     cilindradaCc: 350,
     categoria: "Custom",
-    precioDesde: null, // precio para España aún por confirmar por la marca (verificado 20/10/2026)
+    precioDesde: 4190, // precio para España aún por confirmar por la marca (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -796,7 +796,7 @@ export const MOTOS_LOTE8: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["cilindradaCc"],
+    aprox: ["cilindradaCc", "precioDesde"],
     pros: [
       "Bobber de 350 cc con alma rockera: la custom más personal de Moto Morini",
       "Apta para el carnet A2: la puerta de entrada al mundo bobber",

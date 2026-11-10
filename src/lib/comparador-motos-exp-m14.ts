@@ -1037,7 +1037,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     version: "Fierider 2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
+    precioDesde: 5995,
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: 148,
@@ -1050,7 +1050,7 @@ export const MOTOS_EXP_M14: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: "Dos baterías extraíbles de 72 V y 27 Ah; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["autonomiaKm", "bateriaKwh"],
+    aprox: ["autonomiaKm", "bateriaKwh", "precioDesde"],
     pros: [
       "11 kW de pico (15 CV) con 0-50 km/h en 2,5 s: el scooter A1 eléctrico más rápido",
       "148 km de autonomía con doble batería extraíble",

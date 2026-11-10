@@ -4965,7 +4965,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "Evo 300 2T 2024",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: null,
+    precioDesde: 7648,
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -4978,7 +4978,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "Competición",
     carga: null,
     etiquetaDgt: null,
-    aprox: ["pesoKg", "videoId", "videoCanal"],
+    aprox: ["pesoKg", "videoId", "videoCanal", "precioDesde"],
     pros: [
       "Chasis de aluminio de una sola viga hidroconformada, con basculante de aluminio",
       "Motor 2T monocilíndrico de 296,5 cc con refrigeración líquida y 6 velocidades",
@@ -6494,7 +6494,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "F3 800 2024",
     cilindradaCc: 800,
     categoria: "Deportiva",
-    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
+    precioDesde: 26926,
     potenciaKw: 108,
     potenciaCv: 147,
     autonomiaKm: null,
@@ -6507,7 +6507,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["pesoKg"],
+    aprox: ["pesoKg", "precioDesde"],
     pros: [
       "Tricilíndrico de 798 cc y 147 CV con solo 173 kg en seco: otra de las mejores relaciones peso/potencia del segmento (1,18 kg/CV)",
       "La versión F3 RR 2024 incluye de serie un kit de carreras con escape Akrapovic de titanio (+8 CV, -8 kg: 155 CV para 165 kg)",
@@ -7653,7 +7653,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     version: "Chief 2024",
     cilindradaCc: 1890,
     categoria: "Custom",
-    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
+    precioDesde: 19990,
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -7666,7 +7666,7 @@ export const MOTOS_BASE: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: ["velocidadMax", "pesoKg"],
+    aprox: ["velocidadMax", "pesoKg", "precioDesde"],
     pros: ["V-Twin Thunderstroke 111 de 1.811 cc con 146 Nm de par", "Tres modos de conducción seleccionables", "Encendido sin llave y control de crucero de serie", "Desactivación del cilindro trasero para reducir calor y consumo", "Iluminación full LED", "Asiento bajo a 662 mm, accesible para todos"],
     contras: ["Precio oficial en España no publicado de forma verificable para la Chief 2024: consultar concesionario Indian", "Indian no declara oficialmente la potencia del motor", "El ABS es opcional en la versión base", "Instrumentación analógica básica, sin pantalla táctil", "Red de concesionarios y servicio limitada en España", "Depósito de 15,1 litros, justo para un 1.811 cc"],
     curiosidades: ["El nombre Chief debutó en 1921 y celebró su centenario en 2022", "Monta el Thunderstroke 111 refrigerado por aire, un V-Twin clásico americano", "Desconecta el cilindro trasero al ralentí para no achicharrar al piloto", "De serie lleva modos de conducción, crucero y arranque sin llave"],

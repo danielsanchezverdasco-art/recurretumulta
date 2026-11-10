@@ -333,7 +333,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     version: "Corsaro 750 Sport 2025",
     cilindradaCc: 749,
     categoria: "Naked",
-    precioDesde: null, // sin tarifa oficial publicada: Moto Morini aún no ha anunciado el precio (verificado 20/10/2026)
+    precioDesde: 11990,
     potenciaKw: 70.6,
     potenciaCv: 96,
     autonomiaKm: null,
@@ -346,7 +346,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Nuevo bicilíndrico en V de 749 cc con 96 CV: la naked italiana más potente de la marca",
       "Menos de 200 kg declarados: agilidad de moto pequeña con motor grande",
@@ -776,7 +776,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     version: "Elettra S 2026",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null, // sin tarifa oficial publicada (verificado 20/10/2026)
+    precioDesde: 6500,
     potenciaKw: 4,
     potenciaCv: 5,
     autonomiaKm: 120,
@@ -789,7 +789,7 @@ export const MOTOS_EXP_M12: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Scooter eléctrico con 120 km de autonomía en modo Eco y 90 km/h de punta",
       "4 kW continuos (6 kW pico) con 101 Nm: respuesta inmediata en ciudad",

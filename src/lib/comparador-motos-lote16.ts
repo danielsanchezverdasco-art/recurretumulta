@@ -1659,7 +1659,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 399,
     categoria: "Deportiva",
-    precioDesde: null,
+    precioDesde: 5287,
     potenciaKw: 35.0,
     potenciaCv: 47.6,
     autonomiaKm: null,
@@ -1672,7 +1672,7 @@ export const MOTOS_LOTE16: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Basculante monobrazo: un guiño estético propio de motos de mayor precio",
       "Horquilla invertida Marzocchi de 37 mm y frenos Nissin",

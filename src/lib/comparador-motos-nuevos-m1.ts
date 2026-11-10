@@ -1477,7 +1477,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     modelo: "eS3",
     version: "eS3 2025",
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: 3190,
     potenciaKw: 3.0,
     potenciaCv: 4.0,
     autonomiaKm: 96,
@@ -1490,7 +1490,7 @@ export const MOTOS_NUEVOS_M1: MotoComparador[] = [
     carnet: "A1",
     carga: "5 h por batería",
     etiquetaDgt: "Cero",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Fue la moto eléctrica más vendida en España en su segmento: éxito probado", 
       "96 km de autonomía con dos baterías extraíbles", 

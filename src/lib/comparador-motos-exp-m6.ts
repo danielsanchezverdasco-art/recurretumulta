@@ -739,7 +739,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 300,
     categoria: "Enduro",
-    precioDesde: null, // Sherco no publica tarifa oficial accesible en España para la 300 SE Factory (verificado 20/10/2026)
+    precioDesde: 10949, // Sherco no publica tarifa oficial accesible en España para la 300 SE Factory (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -752,7 +752,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor 2T de 293 cc: el rey del hard enduro con par desde ralentí",
       "Solo 105 kg: ligereza extrema para zonas imposibles",
@@ -1256,7 +1256,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2T 2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: null, // Beta no publica tarifa oficial accesible de la EVO 250 (2025); solo precios de concesionario (verificado 20/10/2026)
+    precioDesde: 7700, // Beta no publica tarifa oficial accesible de la EVO 250 (2025); solo precios de concesionario (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1269,7 +1269,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "250 2T: la cilindrada más equilibrada para aprender trial en serio",
       "Carácter dócil y par suficiente sin la brusquedad del 300",
@@ -1315,7 +1315,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2T 2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: null, // Beta no publica tarifa oficial accesible de la EVO 250 Factory (2025); solo precios de concesionario (verificado 20/10/2026)
+    precioDesde: 8314, // Beta no publica tarifa oficial accesible de la EVO 250 Factory (2025); solo precios de concesionario (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1328,7 +1328,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La EVO 250 con la preparación racing de los pilotos oficiales",
       "Mejoras en chasis y motor respecto a la EVO estándar",
@@ -1887,7 +1887,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: null, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
+    precioDesde: 8500, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1900,7 +1900,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor 2T de 294,1 cc con bajos demoledores",
       "Solo 66 kg (68,5 con arranque eléctrico opcional)",
@@ -1945,7 +1945,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: null, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
+    precioDesde: 8500, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1958,7 +1958,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor 2T de 247,7 cc: dócil y preciso",
       "66 kg de peso: agilidad máxima",
@@ -2003,7 +2003,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: null, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
+    precioDesde: 9000, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2016,7 +2016,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La One R 300 con el acabado RR: lo máximo de TRS",
       "Componentes y detalles de competición superiores",
@@ -2060,7 +2060,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 250,
     categoria: "Trial",
-    precioDesde: null, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
+    precioDesde: 8500, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2073,7 +2073,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "El concepto trial-excursión de TRS: para salir al campo",
       "Motor 2T de 247,7 cc dócil y divertido",
@@ -2118,7 +2118,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: null, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
+    precioDesde: 9000, // TRS Motorcycles no publica tarifa oficial accesible de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2131,7 +2131,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Arranque eléctrico de serie: adiós a la palanca en las zonas",
       "Motor 294,1 cc con la comodidad del botón",
@@ -2175,7 +2175,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2026",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: null, // Vertigo no publica tarifa oficial de este modelo (verificado 20/10/2026)
+    precioDesde: 10500, // Vertigo no publica tarifa oficial de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2188,7 +2188,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La Vertigo más avanzada: tercera generación del modelo RS",
       "Motor 2T de 300 cc con inyección electrónica propia",
@@ -2283,7 +2283,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: null, // Vertigo no publica tarifa oficial de este modelo (verificado 20/10/2026)
+    precioDesde: 9500, // Vertigo no publica tarifa oficial de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2296,7 +2296,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "La Vertigo más accesible: puerta de entrada a la marca",
       "Motor 300 2T con el carácter Vertigo a mejor precio (~9.500 €)",
@@ -2341,7 +2341,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     version: "Dougie Lampkin 2026",
     cilindradaCc: 300,
     categoria: "Trial",
-    precioDesde: null, // Vertigo no publica tarifa oficial de este modelo (verificado 20/10/2026)
+    precioDesde: 11500, // Vertigo no publica tarifa oficial de este modelo (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -2354,7 +2354,7 @@ export const MOTOS_EXP_M6: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: null,
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Edición especial Dougie Lampkin: el tope de la gama Vertigo",
       "La Nitro RS3 con la preparación del 12 veces campeón del mundo",

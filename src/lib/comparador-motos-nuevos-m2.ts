@@ -177,7 +177,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: 4350,
     potenciaKw: 2,
     potenciaCv: 2.7,
     autonomiaKm: 96,
@@ -190,7 +190,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     carnet: "AM",
     carga: "2 baterías extraíbles bajo el asiento; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["pesoKg", "autonomiaKm"],
+    aprox: ["pesoKg", "autonomiaKm", "precioDesde"],
     pros: [
       "Rueda alta de 16 pulgadas: más estabilidad y mejor absorción de baches",
       "Frenos de disco en ambos ejes, algo raro en ciclomotores eléctricos",
@@ -339,7 +339,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     version: "2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null,
+    precioDesde: 5390,
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -352,7 +352,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     carnet: "A1",
     carga: "Baterías extraíbles; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["velocidadMax"],
+    aprox: ["velocidadMax", "precioDesde"],
     pros: [
       "El 80 de su nombre promete 80 km/h: el Askoll más rápido",
       "Rueda alta: el formato más estable para el día a día",
@@ -421,7 +421,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     version: "L1e 2025",
     cilindradaCc: null,
     categoria: "Scooter",
-    precioDesde: null, // GOVECS no publica tarifa oficial vigente de la e-Schwalbe L1e (verificado 20/10/2026)
+    precioDesde: 5390, // GOVECS no publica tarifa oficial vigente de la e-Schwalbe L1e (verificado 20/10/2026)
     potenciaKw: 2.5,
     potenciaCv: 3.4,
     autonomiaKm: 90,
@@ -434,7 +434,7 @@ export const MOTOS_NUEVOS_M2: MotoComparador[] = [
     carnet: "AM",
     carga: "Batería extraíble de 2,4 kWh; carga en enchufe doméstico",
     etiquetaDgt: "Cero",
-    aprox: ["potenciaKw", "autonomiaKm"],
+    aprox: ["potenciaKw", "autonomiaKm", "precioDesde"],
     pros: [
       "Diseño retro que revive la mítica Schwalbe de los años 60",
       "Batería extraíble: se carga en casa sin necesidad de garaje",

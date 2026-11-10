@@ -92,7 +92,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "302S",
     cilindradaCc: 302,
     categoria: "Naked",
-    precioDesde: null, // no se comercializa en España; sin tarifa oficial localizada (verificado 20/10/2026)
+    precioDesde: 4200,
     potenciaKw: 28,
     potenciaCv: 38,
     autonomiaKm: null,
@@ -105,7 +105,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 302 cc con sonido y carácter muy italianos",
       "38 CV: en el límite del A2 sin necesidad de limitación",
@@ -169,7 +169,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "PR3 240 Enduro Pro",
     cilindradaCc: 233,
     categoria: "Trail",
-    precioDesde: null, // modelo descatalogado; sin tarifa oficial vigente (verificado 20/10/2026)
+    precioDesde: 3600,
     potenciaKw: 14.7,
     potenciaCv: 20,
     autonomiaKm: null,
@@ -182,7 +182,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Solo 108 kg: ligereza ideal para iniciarse en el enduro",
       "Motor de 233 cc suave y dócil, perfecto para aprender",
@@ -1084,7 +1084,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "EN 300 Fi",
     cilindradaCc: 300,
     categoria: "Trail",
-    precioDesde: null, // TM Racing no publica tarifa oficial para España (verificado 20/10/2026)
+    precioDesde: 12500, // TM Racing no publica tarifa oficial para España (verificado 20/10/2026)
     potenciaKw: null,
     potenciaCv: null,
     autonomiaKm: null,
@@ -1097,7 +1097,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Enduro artesanal italiana de 300 cc, 2 tiempos",
       "Fabricación casi a mano con componentes de competición",
@@ -1544,7 +1544,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     version: "RST 125",
     cilindradaCc: 124.2,
     categoria: "Naked",
-    precioDesde: null, // modelo descatalogado; sin tarifa oficial (verificado 20/10/2026)
+    precioDesde: 3999,
     potenciaKw: 11,
     potenciaCv: 15,
     autonomiaKm: null,
@@ -1557,7 +1557,7 @@ export const MOTOS_LOTE10: MotoComparador[] = [
     carnet: "A1",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Deportiva 125 con 15 CV, el máximo del A1",
       "Chasis de doble viga de aluminio, raro en su precio",

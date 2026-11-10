@@ -920,7 +920,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     version: "Tornado Naked T 125 2025",
     cilindradaCc: 125,
     categoria: "Naked",
-    precioDesde: null,
+    precioDesde: 4961,
     potenciaKw: 8.1,
     potenciaCv: 11,
     autonomiaKm: null,
@@ -933,7 +933,7 @@ export const MOTOS_EXP_M11: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Naked 125 de solo 124 kg: muy ágil en ciudad",
       "Motor de 11 CV con cambio de 6 velocidades",

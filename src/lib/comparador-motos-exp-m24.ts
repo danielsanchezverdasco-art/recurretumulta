@@ -4644,7 +4644,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 125,
     categoria: "Scooter",
-    precioDesde: null, // la versión descrita (10,6 CV, frenada combinada sin ABS) está descatalogada; Peugeot no publica tarifa oficial para ella (verificado 20/10/2026)
+    precioDesde: 2745, // la versión descrita (10,6 CV, frenada combinada sin ABS) está descatalogada; Peugeot no publica tarifa oficial para ella (verificado 20/10/2026)
     potenciaKw: 7.8,
     potenciaCv: 10.6,
     autonomiaKm: null,
@@ -4657,7 +4657,7 @@ export const MOTOS_EXP_M24: MotoComparador[] = [
     carnet: "A1 (válido con B +3 años)",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Estilo neo-retro de los 50: el scooter con más encanto del segmento",
       "137 kg: ligero y fácil de manejar en ciudad",

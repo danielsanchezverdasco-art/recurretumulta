@@ -1211,7 +1211,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     modelo: "Miku Max",
     version: "Miku Max 2026",
     categoria: "Scooter",
-    precioDesde: null, // sin tarifa oficial localizada en España (verificado 20/10/2026)
+    precioDesde: 2195,
     potenciaKw: 0.8,
     potenciaCv: 1.1,
     autonomiaKm: 60,
@@ -1224,7 +1224,7 @@ export const MOTOS_NUEVOS_M6: MotoComparador[] = [
     carnet: "AM",
     carga: "Unas 4 h (batería extraíble de 9 kg)",
     etiquetaDgt: "Cero",
-    aprox: ["autonomiaKm"],
+    aprox: ["autonomiaKm", "precioDesde"],
     pros: [
       "2.195 €: de los ciclomotores eléctricos más baratos que se venden en España",
       "Motor Bosch de 800 W nominales: fiabilidad alemana en un ciclomotor chino",

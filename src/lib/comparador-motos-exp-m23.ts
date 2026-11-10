@@ -525,7 +525,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 449,
     categoria: "Deportiva",
-    precioDesde: null, // CFMOTO España no ha publicado tarifa oficial (verificado 20/10/2026)
+    precioDesde: 6499, // CFMOTO España no ha publicado tarifa oficial (verificado 20/10/2026)
     potenciaKw: 34.5,
     potenciaCv: 46.9,
     autonomiaKm: null,
@@ -538,7 +538,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A2",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Bicilíndrico de 449 cc con 46,9 CV: A2 sin limitar y con carácter",
       "Solo 168 kg: la más ligera de su categoría",
@@ -1017,7 +1017,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 799,
     categoria: "Trail",
-    precioDesde: null, // no se comercializa en España; sin tarifa oficial (verificado 20/10/2026)
+    precioDesde: 9495,
     potenciaKw: 68,
     potenciaCv: 92,
     autonomiaKm: null,
@@ -1030,7 +1030,7 @@ export const MOTOS_EXP_M23: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "92 CV y 77 Nm: la trail china más potente de su precio",
       "Frenos Brembo radiales con doble disco de 320 mm",

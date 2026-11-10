@@ -228,7 +228,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     version: "2025",
     cilindradaCc: 1084,
     categoria: "Custom",
-    precioDesde: null, // la versión DCT estándar no se comercializa en España; sin tarifa oficial (verificado 20/10/2026)
+    precioDesde: 12000,
     potenciaKw: 64,
     potenciaCv: 87,
     autonomiaKm: null,
@@ -241,7 +241,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "DCT de doble embrague: la custom grande sin maneta de embrague",
       "Bicilíndrico de 1084 cc con 87 CV y 98 Nm: par de tractor",
@@ -371,7 +371,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     version: "2024",
     cilindradaCc: 998,
     categoria: "Naked",
-    precioDesde: null, // Honda España no ha publicado tarifa oficial del modelo 2024 (verificado 20/10/2026)
+    precioDesde: 14200, // Honda España no ha publicado tarifa oficial del modelo 2024 (verificado 20/10/2026)
     potenciaKw: 107,
     potenciaCv: 145,
     autonomiaKm: null,
@@ -384,7 +384,7 @@ export const MOTOS_EXP_M19: MotoComparador[] = [
     carnet: "A",
     carga: null,
     etiquetaDgt: "C",
-    aprox: [],
+    aprox: ["precioDesde"],
     pros: [
       "Motor de 998 cc derivado de la CBR1000RR: 145 CV con carácter",
       "Basculante monobrazo de aluminio: una joya a la vista",
