@@ -20,6 +20,7 @@ import {
 } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
 import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
+import BylineFicha from "@/components/eeat/BylineFicha.tsx";
 // 12/10/2026: los enlaces ficha->blog solo se renderizan si el blog existe.
 // Evita 298 enlaces rotos en el lote de 500 fichas sin blog publicado aún.
 import { ANALISIS_COCHES } from "@/lib/analisis-slugs.generated";
@@ -549,6 +550,8 @@ function Ficha({ coche, extra, hermanas = [] }: { coche: CocheComparador; extra:
             )}
           </div>
           <h1 className="mt-3 text-3xl font-extrabold text-gray-900 sm:text-4xl">{nombre}</h1>
+          {/* AdSense A2 (10/11/2026): autoría + fecha visibles bajo el H1. */}
+          <BylineFicha publicado={fechas.publicado} actualizado={fechas.actualizado} />
           <RespuestaRapida frases={geo.frases} />
           <FranjaPrecio
             precio={coche.precioDesde}

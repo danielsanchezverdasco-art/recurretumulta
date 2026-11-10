@@ -32,6 +32,7 @@ import {
 } from "lucide-react";
 import { useSeo } from "@/hooks/use-seo.ts";
 import { useFichaFechas } from "@/hooks/use-ficha-fechas.ts";
+import BylineFicha from "@/components/eeat/BylineFicha.tsx";
 import SharedNavbar from "@/components/shared-navbar.tsx";
 import SharedFooter from "@/components/shared-footer.tsx";
 import { useSpotlight } from "@/components/motion.tsx";
@@ -399,6 +400,8 @@ function Ficha({ auto }: { auto: Caravana }) {
             )}
           </div>
           <h1 className="mt-3 text-3xl font-extrabold text-gray-900 sm:text-4xl">{nombre}</h1>
+          {/* AdSense A2 (10/11/2026): autoría + fecha visibles bajo el H1. */}
+          <BylineFicha publicado={fechas.publicado} actualizado={fechas.actualizado} />
           <FranjaPrecio
             precio={auto.precioDesde}
             aprox={precioAprox}

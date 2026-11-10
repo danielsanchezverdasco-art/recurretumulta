@@ -1,6 +1,7 @@
 // E-E-A-T 17/10/2026: fechas de publicación y actualización de cada ficha
 // → src/lib/fichas-fechas-eeat/<inicial>.json  { id: [publicado, actualizado] } (AAAA-MM-DD, Europe/Madrid)
-// - publicado: primer commit que añadió el `id` en src/lib/comparador-*.ts. Las fichas que ya
+// - publicado: primer commit que añadió el `id` en src/lib/comparador-*.ts o en
+//   src/lib/autocaravanas/*.ts (autocaravanas y campers, 10/11/2026). Las fichas que ya
 //   venían en el commit raíz ("v2 original", 12/10/2026) son anteriores y su fecha real no está
 //   registrada: publicado = null (no se inventa) y solo se muestra la fecha de actualización.
 //   Una vez guardada no cambia nunca.
@@ -23,6 +24,11 @@ const ids = new Set();
 for (const f of readdirSync(LIB).filter((x) => /^comparador-(coches|motos|patinetes|caravanas)-.*\.ts$/.test(x) && !/-data\.ts$/.test(x))) {
   for (const m of readFileSync(join(LIB, f), "utf-8").matchAll(/\bid:\s*"([^"]+)"/g)) ids.add(m[1]);
 }
+// Autocaravanas y campers (10/11/2026, AdSense A2): sus datos viven en
+// src/lib/autocaravanas/*.ts, fuera del glob anterior, y no tenían fecha.
+for (const f of readdirSync(join(LIB, "autocaravanas")).filter((x) => /^comparador-autocaravanas-.*\.ts$/.test(x))) {
+  for (const m of readFileSync(join(LIB, "autocaravanas", f), "utf-8").matchAll(/\bid:\s*"([^"]+)"/g)) ids.add(m[1]);
+}
 
 const prev = {};
 if (existsSync(OUT)) for (const f of readdirSync(OUT)) if (f.endsWith(".json")) Object.assign(prev, JSON.parse(readFileSync(join(OUT, f), "utf-8")));
@@ -32,7 +38,7 @@ let shallow = true;
 try { shallow = execFileSync("git", ["rev-parse", "--is-shallow-repository"], { cwd: ROOT }).toString().trim() === "true"; } catch { /* sin git */ }
 if (!shallow) {
   const raiz = new Set(execFileSync("git", ["rev-list", "--max-parents=0", "HEAD"], { cwd: ROOT }).toString().trim().split("\n"));
-  const log = execFileSync("git", ["log", "--reverse", "--format=@@C %H %cI", "-p", "--unified=0", "--", "src/lib/comparador-*.ts"], { cwd: ROOT, maxBuffer: 1 << 30 }).toString();
+  const log = execFileSync("git", ["log", "--reverse", "--format=@@C %H %cI", "-p", "--unified=0", "--", "src/lib/comparador-*.ts", "src/lib/autocaravanas/*.ts"], { cwd: ROOT, maxBuffer: 1 << 30 }).toString();
   let fecha = "", enRaiz = false;
   for (const l of log.split("\n")) {
     if (l.startsWith("@@C ")) { const [h, f] = l.slice(4).split(" "); fecha = dia(new Date(f)); enRaiz = raiz.has(h); continue; }
