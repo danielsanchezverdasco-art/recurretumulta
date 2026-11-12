@@ -9588,3 +9588,15 @@
 /media/patinetes/hiley-tiger-evo.webp /media/fotos-reales/hiley-tiger-evo/hiley-tiger-evo-1.webp 200
 /media/volkswagen-id-buzz-2026-precio-ficha-tecnica-hero-card.webp /media/volkswagen-id-buzz-2026-precio-ficha-tecnica-hero.webp 200
 /media/zeeho-ae8-s-2025-ficha-tecnica-precio-hero.webp /media/zeeho-ae8-s-2025-ficha-tecnica-precio-oficial.webp 200
+# Tanda 1 (12/11/2026): 3 fichas /coches/ 2026 redirigen a su version vigente + 2 blogs sin contenido redirigen a su ficha.
+/coches/gac-aion-rt-2026-precio-ficha-tecnica/ /coches/gac-aion-rt-2025-precio-ficha-tecnica/ 301
+/coches/gac-aion-rt-2026-precio-ficha-tecnica /coches/gac-aion-rt-2025-precio-ficha-tecnica/ 301
+/coches/gwm-ora-07-2026-precio-ficha-tecnica/ /coches/gwm-ora-07-2025-precio-ficha-tecnica/ 301
+/coches/gwm-ora-07-2026-precio-ficha-tecnica /coches/gwm-ora-07-2025-precio-ficha-tecnica/ 301
+/coches/leapmotor-b10-2026-precio-ficha-tecnica/ /coches/leapmotor-b10-electrico-precio-espana/ 301
+/coches/leapmotor-b10-2026-precio-ficha-tecnica /coches/leapmotor-b10-electrico-precio-espana/ 301
+/blog/kia-stonic-2026/ /coches/kia-stonic-2026/ 301!
+/blog/kia-stonic-2026 /coches/kia-stonic-2026/ 301!
+/blog/toyota-rav4-hybrid-2026/ /coches/toyota-rav4-hybrid-2026/ 301!
+/blog/toyota-rav4-hybrid-2026 /coches/toyota-rav4-hybrid-2026/ 301!
+

@@ -335,12 +335,24 @@ const SELECT_CLASE =
   "w-full rounded-lg border border-gray-300 bg-white px-3 py-2 text-sm text-gray-900 shadow-sm focus:border-[#cd001d] focus:outline-none focus:ring-2 focus:ring-[#cd001d]/20";
 
 export default function ComparadorCochesPage() {
+  const [searchParams] = useSearchParams();
+  // 12/11/2026 (tanda 1, soft 404): ?a=/?b=/?c= con un id que no existe en
+  // el comparador es una URL sin contenido propio (Google marcó 9 como soft
+  // 404 en octubre): noindex + aviso visible, sin tocar la página normal.
+  const hayParamsInvalidos = useMemo(() => {
+    const validos = new Set(COCHES_COMPARADOR.map((c) => c.id));
+    return ["a", "b", "c"].some((k) => {
+      const id = searchParams.get(k);
+      return id != null && !validos.has(id);
+    });
+  }, [searchParams]);
   useSeo({
     title: "Comparador coches 2026: elige y decide antes de comprar",
     description:
       "Compara dos coches lado a lado: ficha técnica, precio, autonomía, maletero, pros y contras, y vídeo. El comparador para decidir qué coche comprar en 2026.",
     canonical: canonicalComparador("/comparador-coches"),
     schema: jsonLd,
+    noindex: hayParamsInvalidos,
   });
 
   const [q, setQ] = useState("");
@@ -353,7 +365,6 @@ export default function ComparadorCochesPage() {
   // fichas de golpe (15,6 MB, tirones). Solo 24 visibles; "Cargar más" amplía.
   const [visibleCount, setVisibleCount] = useState(24);
   const PAGE_SIZE = 24;
-  const [searchParams] = useSearchParams();
   // Preselección desde la URL: ?a=<id>&b=<id>&c=<id> (la ficha destacada del
   // blog, /coches/<id> y los artículos de duelos ya enlazan así). Ids
   // inexistentes o repetidos se ignoran; sin params, comportamiento normal.
@@ -518,6 +529,15 @@ export default function ComparadorCochesPage() {
   return (
     <div className="min-h-screen bg-white">
       <SharedNavbar />
+
+      {hayParamsInvalidos && (
+        <div className="mx-auto max-w-6xl px-4 pt-6" role="alert">
+          <p className="rounded-lg border border-amber-300 bg-amber-50 px-4 py-3 text-sm text-amber-900">
+            Ese modelo ya no está en el comparador o el enlace es antiguo.
+            Elige dos modelos de la lista para comparar.
+          </p>
+        </div>
+      )}
 
       <HeroVS
         imagen1="/media/byd-dolphin-surf-2027-hero.webp"

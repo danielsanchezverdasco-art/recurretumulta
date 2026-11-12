@@ -220,24 +220,37 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
     },
   ];
 
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Motorcycle",
-        ...productoFicha({
-          nombre,
-          marca: moto.marca,
-          modelo: moto.modelo,
-          slug: moto.id,
-          image: moto.imagen ? `https://recurretumulta.online${moto.imagen}` : undefined,
-          url: `https://recurretumulta.online/motos/${moto.id}/`,
-          descripcion: geo.frases.join(" "),
-          precio: moto.precioDesde,
-          precioAprox: moto.aprox.includes("precioDesde"),
-          historial,
-        }),
-        manufacturer: { "@type": "Organization", name: moto.marca },
+  // 08/11/2026 (SEO-6): el nodo Motorcycle es un Product para Google: sin
+  // offers ni reseñas reales es un elemento no válido en «Fragmentos de
+  // producto» y bloquea la solicitud de indexación. Solo se emite cuando el
+  // Product lleva offers (precio real + imagen) o reseñas reales aprobadas.
+  const producto = productoFicha({
+    nombre,
+    marca: moto.marca,
+    modelo: moto.modelo,
+    slug: moto.id,
+    image: moto.imagen ? `https://recurretumulta.online${moto.imagen}` : undefined,
+    url: `https://recurretumulta.online/motos/${moto.id}/`,
+    descripcion: geo.frases.join(" "),
+    precio: moto.precioDesde,
+    precioAprox: moto.aprox.includes("precioDesde"),
+    historial,
+  });
+  const conResenas = !!(reviewsExtra?.aggregateRating || reviewsExtra?.reviews.length);
+  const nodoMoto =
+    "offers" in producto || conResenas
+      ? {
+          "@type": "Motorcycle",
+          ...producto,
+          // 17/10/2026: reseñas reales aprobadas DENTRO del producto
+          // (antes iban sueltas en @graph, sin itemReviewed).
+          ...(conResenas && reviewsExtra
+            ? {
+                ...(reviewsExtra.aggregateRating ? { aggregateRating: reviewsExtra.aggregateRating } : {}),
+                ...(reviewsExtra.reviews.length ? { review: reviewsExtra.reviews } : {}),
+              }
+            : {}),
+          manufacturer: { "@type": "Organization", name: moto.marca },
         vehicleConfiguration: moto.version,
         ...(moto.potenciaKw != null && {
           vehicleEngine: {
@@ -264,7 +277,13 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
             unitText: "km/h",
           },
         }),
-      },
+        }
+      : null;
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      ...(nodoMoto ? [nodoMoto] : []),
       {
         "@type": "FAQPage",
         mainEntity: FAQS.map((f) => ({
@@ -316,24 +335,9 @@ function Ficha({ moto, extra, hermanas = [] }: { moto: MotoComparador; extra: Fi
       `${nombre} opiniones`,
       esElectrica ? `moto eléctrica ${nombre}` : `moto ${nombre}`,
     ],
-    schema: reviewsExtra
-      ? {
-          ...jsonLd,
-          "@graph": [
-            ...(jsonLd["@graph"] as Record<string, unknown>[]).map((nodo, i) =>
-              // 17/10/2026: reseñas reales aprobadas DENTRO del producto
-              // (antes iban sueltas en @graph, sin itemReviewed).
-              i === 0 && (reviewsExtra.aggregateRating || reviewsExtra.reviews.length)
-                ? {
-                    ...nodo,
-                    ...(reviewsExtra.aggregateRating ? { aggregateRating: reviewsExtra.aggregateRating } : {}),
-                    ...(reviewsExtra.reviews.length ? { review: reviewsExtra.reviews } : {}),
-                  }
-                : nodo,
-            ),
-          ],
-        }
-      : jsonLd,
+    // Las reseñas reales ya van dentro del nodo Motorcycle (ver arriba); si la
+    // ficha no tiene Product válido, el @graph lleva solo FAQ + migas.
+    schema: jsonLd,
   });
 
   return (
