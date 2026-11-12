@@ -4364,4 +4364,5 @@ export const BLOG_POST_SLUGS: ReadonlySet<string> = new Set([
   "zwheel-e9d",
   "zwheel-e9t",
   "zwheel-zwolf-duo",
+  "volkswagen-id-era-5x-precio-ficha-tecnica",
 ]);

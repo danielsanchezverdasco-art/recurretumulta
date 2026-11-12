@@ -50578,8 +50578,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke 2025 con faro de escalpelo",
     "keywords": [
       "ktm 990 duke 2025 precio",
       "990 duke 2025 ficha técnica",
@@ -50725,8 +50725,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-r-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke R 2026 en curvas",
     "keywords": [
       "ktm 990 duke r 2026 precio",
       "990 duke r ficha técnica",
@@ -50746,8 +50746,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-390-duke-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 390 Duke 2026 naranja en carretera",
     "keywords": [
       "ktm 390 duke 2026 precio",
       "390 duke 2026 ficha técnica",
@@ -82504,6 +82504,25 @@ export const BLOG_LITE: BlogLitePost[] = [
       "suv híbrido enchufable"
     ],
     "readTime": 3
+  },
+  {
+    "slug": "volkswagen-id-era-5x-precio-ficha-tecnica",
+    "title": "Volkswagen ID. ERA 5X 2026: 211 CV desde 99.900 yuanes",
+    "excerpt": "El Volkswagen ID. ERA 5X es el primer SUV eléctrico de la familia ID. ERA: 211 CV, hasta 520 km de autonomía y precio desde 99.900 yuanes en China.",
+    "category": "Novedades Motor",
+    "date": "2026-11-12",
+    "locale": "all",
+    "heroSrc": "/media/volkswagen-id-era-5x-precio-ficha-tecnica-oficial.webp",
+    "heroAlt": "Volkswagen ID. ERA 5X verde, vista frontal con LiDAR en el techo",
+    "keywords": [
+      "volkswagen id. era 5x precio",
+      "id. era 5x ficha técnica",
+      "volkswagen id. era 5x 211 cv",
+      "id. era 5x autonomía 520 km",
+      "suv eléctrico chino 2026",
+      "volkswagen id. era 5x china"
+    ],
+    "readTime": 10
   },
   {
     "slug": "volkswagen-id-tiguan-2026-precio-ficha-tecnica",
