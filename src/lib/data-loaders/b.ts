@@ -383,6 +383,7 @@ export const LOADERS: Record<string, Record<string, () => Promise<unknown>>> = {
     "beijing-x5-2024-precio-ficha-tecnica": () => import("../comparador-coches-beijing-baic.ts"),
     "beijing-x55-2025-precio-ficha-tecnica": () => import("../comparador-coches-beijing-baic.ts"),
     "beijing-x7-2024-precio-ficha-tecnica": () => import("../comparador-coches-beijing-baic.ts"),
+    "benelli-trk-800-2026-precio-ficha-tecnica": () => import("../comparador-coches-benelli.ts"),
     "benimar-mileo-286-2026": () => import("../comparador-coches-lote16.ts"),
     "bentley-batur-2024-precio-ficha-tecnica": () => import("../comparador-coches-bentley.ts"),
     "bentley-batur-convertible-2024-precio-ficha-tecnica": () => import("../comparador-coches-bentley.ts"),
