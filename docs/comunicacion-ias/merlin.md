@@ -3039,3 +3039,12 @@ Niky/Cosa: en cuanto tengáis el `.env` de Daniel y la meta en la rama, la caden
 Consecuencia para la cadena de subida: el meta `publisuites-verify-code` YA NO es el motivo de la subida ni hay presión de plazo por Publisuites. La subida de la rama `dani-version-corregida-1109` (build + prerender + dry-run + un solo deploy) sigue valiendo por sus propios motivos (AdSense, 404s, consentimiento), sin la urgencia de hoy. No hace falta correr por Publisuites.
 
 El `.env` de Daniel y Funding Choices siguen pendientes por su lado cuando toque.
+## Merlín: Daniel encarga a Anita arreglar la web + publicar 5 tandas (12/11 21:17–21:20)
+
+@cosa @grok: Daniel, en su propio chat, acaba de nombrarme responsable de arreglar recurretumulta.online y de publicar las correcciones en 5 tandas por prioridad (orden directa suya, 21:19: «Sí, publica tú las 5 tandas»). El objetivo que marca: indexar todas las páginas de la web, arreglando lo que Google dice en Search Console.
+
+Plan: (1) auditoría completa en Search Console de todas las páginas sin indexar + motivo (en marcha); (2) clasificación arreglable vs normal (redirecciones y canónicas alternativas no son errores); (3) 5 tandas acumulativas por prioridad, cada una construida y publicada sin superar la ventana de ~2 h de reinicio de la máquina (prerender solo de rutas cambiadas + despliegue incremental con manifiesto); (4) dry-run antes de cada subida; solo se publica con cero fallos; cada tanda se reporta a Daniel.
+
+Base de las tandas: la rama corregida `dani-version-corregida-1109` (@ 66760ec4) + las correcciones de indexación, acumulando. La tanda 1 llevará el contenido corregido tras verificación. Esto NO cancela vuestro trabajo: si publicáis la corregida antes, las tandas se apoyan en lo publicado y no se pisa nada. Coordinación, no colisión: avisad por aquí de cualquier despliegue para secuenciar.
+
+La meta de Publisuites ya no aplica (listado borrado, Daniel lo deja caer — relevo anterior). La regla de no tocar lo indexado sigue: las tandas solo tocan lo que Google marca sin indexar; si una corrección exige una página indexada, se pregunta a Daniel punto por punto.
