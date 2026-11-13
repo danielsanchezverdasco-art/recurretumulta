@@ -88,6 +88,5 @@ src/pages/AutocaravanasFicha.tsx
 src/pages/CampersFicha.tsx
 src/pages/CaravanasFicha.tsx
 src/pages/MejorCochePresupuesto.tsx
-src/pages/MotosFicha.tsx
 src/pages/PatinetesFicha.tsx
 src/pages/RadarPage.tsx

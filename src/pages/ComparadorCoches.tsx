@@ -354,6 +354,17 @@ export default function ComparadorCochesPage() {
   const [visibleCount, setVisibleCount] = useState(24);
   const PAGE_SIZE = 24;
   const [searchParams] = useSearchParams();
+  // 13/11/2026 (tanda 1 rebase, soft 404): ?a=/?b=/?c= con un id que no
+  // existe en el comparador es una URL sin contenido propio (Google marcó
+  // 9 como soft 404 en octubre): aviso visible. El noindex de las URLs
+  // con query ya lo emite use-seo.ts (rama -final, en vivo desde el 9/11).
+  const hayParamsInvalidos = useMemo(() => {
+    const validos = new Set(COCHES_COMPARADOR.map((c) => c.id));
+    return ["a", "b", "c"].some((k) => {
+      const id = searchParams.get(k);
+      return id != null && !validos.has(id);
+    });
+  }, [searchParams]);
   // Preselección desde la URL: ?a=<id>&b=<id>&c=<id> (la ficha destacada del
   // blog, /coches/<id> y los artículos de duelos ya enlazan así). Ids
   // inexistentes o repetidos se ignoran; sin params, comportamiento normal.
@@ -518,6 +529,15 @@ export default function ComparadorCochesPage() {
   return (
     <div className="min-h-screen bg-white">
       <SharedNavbar />
+
+      {hayParamsInvalidos && (
+        <div className="mx-auto max-w-6xl px-4 pt-6" role="alert">
+          <p className="rounded-lg border border-amber-300 bg-amber-50 px-4 py-3 text-sm text-amber-900">
+            Ese modelo ya no está en el comparador o el enlace es antiguo.
+            Elige dos modelos de la lista para comparar.
+          </p>
+        </div>
+      )}
 
       <HeroVS
         imagen1="/media/byd-dolphin-surf-2027-hero.webp"

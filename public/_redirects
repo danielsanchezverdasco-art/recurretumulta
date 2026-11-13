@@ -9686,3 +9686,11 @@
 /blog/yamaha-yzf-r7-2024-ficha-tecnica-precio /motos/yamaha-yzf-r7-2024-ficha-tecnica-precio/ 301!
 /blog/yamaha-yzf-r9-2025-ficha-tecnica-precio/ /motos/yamaha-yzf-r9-2025-ficha-tecnica-precio/ 301!
 /blog/yamaha-yzf-r9-2025-ficha-tecnica-precio /motos/yamaha-yzf-r9-2025-ficha-tecnica-precio/ 301!
+# Tanda 1 rebase (13/11/2026): 3 fichas /coches/ 2026 redirigen a su version vigente. Las 2 reglas /blog/ (kia-stonic, rav4) ya existen en este fichero.
+/coches/gac-aion-rt-2026-precio-ficha-tecnica/ /coches/gac-aion-rt-2025-precio-ficha-tecnica/ 301
+/coches/gac-aion-rt-2026-precio-ficha-tecnica /coches/gac-aion-rt-2025-precio-ficha-tecnica/ 301
+/coches/gwm-ora-07-2026-precio-ficha-tecnica/ /coches/gwm-ora-07-2025-precio-ficha-tecnica/ 301
+/coches/gwm-ora-07-2026-precio-ficha-tecnica /coches/gwm-ora-07-2025-precio-ficha-tecnica/ 301
+/coches/leapmotor-b10-2026-precio-ficha-tecnica/ /coches/leapmotor-b10-electrico-precio-espana/ 301
+/coches/leapmotor-b10-2026-precio-ficha-tecnica /coches/leapmotor-b10-electrico-precio-espana/ 301
+
