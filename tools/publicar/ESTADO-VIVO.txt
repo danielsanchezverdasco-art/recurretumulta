@@ -2,8 +2,8 @@
 # deploy_id        = deploy publicado en Netlify (tu ROLLBACK en la siguiente subida)
 # commit_codigo    = commit de git del que salió ese deploy (base para rev3, no-tocar, títulos)
 # redirects_sha1   = sha1 del _redirects en vivo (la copia está en tools/publicar/redirects-vivo.txt)
-deploy_id=6aea45eee2a35e4680c06125
-deploy_anterior=6ae6345726474962ee611953
-commit_codigo=ea10029504894e9c44fa885b16143a54c00cd990
-redirects_sha1=745db003c67d4f5deb25d8e0ac9989b319fd3b4c
-publicado=2026-11-03 22:09 (Merlín con publicar.py; sí de Daniel: 3/11/2026 ~19:43 Madrid, chat de Daniel: «Sube todo lo que nos queda ahora mismo» (web perfecta, un único deploy))
+deploy_id=6af223fd5c5ee36c1398206b
+deploy_anterior=6aea45eee2a35e4680c06125
+commit_codigo=87cd9b92a6d630a4c9a59305872fdce71b0f89dd
+redirects_sha1=ab48891d8d45500ec765b948ef0ef957505989f0
+publicado=2026-11-09 20:50 (deploy fix-imagenes-20261109-completo; autor sin aviso en el tablon; base verificada dani-version-corregida-1109-final @87cd9b92 + fixes de imagenes sin commitear; estado corregido por Anita 13/11 tras el hallazgo del dry-run de la tanda 1)
