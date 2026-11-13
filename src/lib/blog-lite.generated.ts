@@ -20,8 +20,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Guías Prácticas",
     "date": "2026-10-19",
     "locale": "all",
-    "heroSrc": "https://whatsupdownunder.com.au/wp-content/uploads/2026/02/starlink-mini-caravan-outfit-hero.webp",
-    "heroAlt": "Starlink Mini instalado en una caravana",
+    "heroSrc": "/media/accesorios-caravana-02.webp",
+    "heroAlt": "Starlink Mini sobre una caravana en ruta",
     "keywords": [
       "accesorios caravana",
       "gadgets autocaravana",
@@ -26132,7 +26132,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "byd-atto-2-vs-jaecoo-5-cual-comprar",
     "title": "BYD Atto 2 vs Jaecoo 5 2026",
-    "excerpt": "Dos SUV chinos por menos de 23.000 €: el BYD Atto 2 eléctrico desde 18.739 € financiado y el Jaecoo 5 con tres motorizaciones a elegir. Comparamos",
+    "excerpt": "El BYD Atto 2 eléctrico desde 29.990 € contra el Jaecoo 5 desde 26.871 €: precio, autonomía y maletero comparados.",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -26237,7 +26237,7 @@ export const BLOG_LITE: BlogLitePost[] = [
   {
     "slug": "dacia-bigster-hybrid-vs-jaecoo-5-cual-comprar",
     "title": "Dacia Bigster Hybrid vs Jaecoo 5 2026",
-    "excerpt": "El Dacia Bigster Hybrid 155 (desde 29.390 €, etiqueta ECO) contra el Jaecoo 5 (desde 19.990 € financiado, con versiones C, ECO y CERO). El duelo de los",
+    "excerpt": "El Dacia Bigster Hybrid 155 (desde 29.390 €, etiqueta ECO) contra el Jaecoo 5 (desde 26.871 € de tarifa, con versiones C, ECO y CERO). El duelo de los",
     "category": "Novedades Motor",
     "date": "2026-10-02",
     "locale": "all",
@@ -26253,7 +26253,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "Jaecoo 5 híbrido",
       "qué SUV barato comprar"
     ],
-    "readTime": 6
+    "readTime": 7
   },
   {
     "slug": "mg4-electric-vs-byd-dolphin-2025-cual-comprar",
@@ -45391,24 +45391,21 @@ export const BLOG_LITE: BlogLitePost[] = [
   },
   {
     "slug": "honda-pcx125-2025-ficha-tecnica-precio",
-    "title": "Honda PCX125 2025: precio y ficha técnica",
-    "excerpt": "La Honda PCX125 2025 desde 3.199 €: 12,5 CV, 98 km/h, 2,1 l/100 km, ficha técnica, etiqueta DGT y vídeo.",
+    "title": "PCX125 2025: 3.499 €, 12,3 CV, 385 km y versión DX nueva",
+    "excerpt": "La Honda PCX125 2025 desde 3.499 €: motor eSP+ de 12,3 CV, 385 km de autonomía y versión DX con pantalla TFT y RoadSync. Precio, ficha y opinión.",
     "category": "Novedades Motor",
-    "date": "2026-10-05",
+    "date": "2026-11-05",
     "locale": "all",
     "heroSrc": "/media/motos/honda-pcx125-2025-ficha-tecnica-precio-1.webp",
     "heroAlt": "Honda PCX125 2025 azul en tres cuartos",
     "keywords": [
-      "honda pcx125 precio",
+      "honda pcx125 2025 precio",
       "pcx125 2025 ficha técnica",
-      "honda pcx125 opiniones",
-      "scooter 125 barato 2025 comparativa",
-      "pcx125 vs nmax 125",
-      "honda pcx125 12 cv precio españa",
-      "scooter 125 consumo bajo",
-      "pcx125 prueba"
+      "honda pcx125 dx precio",
+      "pcx125 2025 opiniones",
+      "scooter 125 honda 2025"
     ],
-    "readTime": 2
+    "readTime": 11
   },
   {
     "slug": "honda-vision-110-2025-ficha-tecnica-precio",
@@ -48246,7 +48243,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "xsr900 gp kit racer",
       "sport heritage yamaha"
     ],
-    "readTime": 3
+    "readTime": 4
   },
   {
     "slug": "kawasaki-z900-se-2025-ficha-tecnica-precio",
@@ -50578,8 +50575,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-2025-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke 2025 con faro de escalpelo",
     "keywords": [
       "ktm 990 duke 2025 precio",
       "990 duke 2025 ficha técnica",
@@ -50725,8 +50722,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-990-duke-r-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 990 Duke R 2026 en curvas",
     "keywords": [
       "ktm 990 duke r 2026 precio",
       "990 duke r ficha técnica",
@@ -50746,8 +50743,8 @@ export const BLOG_LITE: BlogLitePost[] = [
     "category": "Novedades Motor",
     "date": "2026-10-07",
     "locale": "all",
-    "heroSrc": "",
-    "heroAlt": "",
+    "heroSrc": "/media/motos/ktm-390-duke-2026-ficha-tecnica-precio-hero.webp",
+    "heroAlt": "KTM 390 Duke 2026 naranja en carretera",
     "keywords": [
       "ktm 390 duke 2026 precio",
       "390 duke 2026 ficha técnica",
@@ -56006,7 +56003,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "adv350 vs forza 350",
       "scooter 350 honda"
     ],
-    "readTime": 2
+    "readTime": 3
   },
   {
     "slug": "honda-rebel-1100-2025-ficha-tecnica-precio",
@@ -73905,7 +73902,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "XSR900 A2",
       "moto retro Yamaha"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "honda-forza-350-2024-ficha-tecnica-precio",
@@ -73923,7 +73920,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "scooter 350 Honda",
       "Forza 350 vs XMAX 300"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "yamaha-yzf-r1-2024-ficha-tecnica-precio",
@@ -73961,7 +73958,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "ADV350 vs Forza 350",
       "scooter aventura"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "honda-cbr650r-2024-ficha-tecnica-precio",
@@ -73980,7 +73977,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "deportiva A2 95 CV",
       "CBR650R vs R7"
     ],
-    "readTime": 4
+    "readTime": 5
   },
   {
     "slug": "yamaha-mt-10-2024-ficha-tecnica-precio",
@@ -74130,7 +74127,7 @@ export const BLOG_LITE: BlogLitePost[] = [
       "sport touring Yamaha",
       "Tracer 9 120 CV"
     ],
-    "readTime": 5
+    "readTime": 6
   },
   {
     "slug": "yamaha-mt-09-2024-ficha-tecnica-precio",
