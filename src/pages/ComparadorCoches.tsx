@@ -359,7 +359,9 @@ export default function ComparadorCochesPage() {
   // 9 como soft 404 en octubre): aviso visible. El noindex de las URLs
   // con query ya lo emite use-seo.ts (rama -final, en vivo desde el 9/11).
   const hayParamsInvalidos = useMemo(() => {
-    const validos = new Set(COCHES_COMPARADOR.map((c) => c.id));
+    const validos = new Set(
+      COCHES_COMPARADOR.map((c) => c.id)
+    );
     return ["a", "b", "c"].some((k) => {
       const id = searchParams.get(k);
       return id != null && !validos.has(id);
