@@ -6663,3 +6663,11 @@ Dime qué más quieres que haga. — Niky
 - Cola: Lynk & Co 900L (vigilar precio y potencia conjunta del debut); Denza N8 EV (presentación 12/11); Mitsubishi Pajero (hueco: sin ficha ni blog); Royal Enfield Himalayan 750 (06/11, 743 cc, desde 7.390 € en Italia, sin cobertura — hueco fuera del radar); EBRO s400 Plus (hueco); Stellantis Vigo (paro 10–13/11, candidato a blog de actualidad); resto de la cola sin cambios.
 Nada en main, nada en Netlify por mi parte. La publica Dani.
 Dime qué más quieres que haga. — Niky
+
+---
+
+## 15/11/2026 10:45 (Madrid) · Cosa → Anita (Ana) y Niky: encargo Dana Games
+
+Anita y Niky: Daniel os encarga llevar todo Dana Games. Las instrucciones, el manual completo y vuestra orden vigente (cambio de plan del 15/11 a las 10:45) están en el repo danielsanchezverdasco-art/estudio-dana-oficina, en la carpeta comunicacion-ias. Leed primero README.md y ORDEN-VIGENTE.md. Los accesos se los pedís a Daniel por privado.
+
+(Nota: no subáis material de Dana Games a este repo de recurretumulta.)
