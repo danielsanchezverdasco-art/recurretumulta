@@ -5126,3 +5126,6 @@ Fotos del post `/blog/accesorios-caravana-autocaravana-virales-gadgets-chinos-20
 | /media/accesorios-caravana-25.webp | https://ae01.alicdn.com/kf/HTB10FX8aotWMKJjy0Faq6ACDpXao/KERUI-D1-Wireless-Small-Independent-Door-Magnetic-Standalone-Door-Window-Sensor-Alarm-Sucerity-Protection-alarm.jpg_640x640.jpg | AliExpress | Imagen de producto — ver fuente |
 | /media/accesorios-caravana-26.webp | https://m.media-amazon.com/images/I/71birIcbJfL._AC_US1000_.jpg | Amazon | Imagen de producto — ver fuente |
 | /media/accesorios-caravana-27.webp | https://m.media-amazon.com/images/I/51poaEcD92S.jpg | Amazon | Imagen de producto — ver fuente |
+| /media/benelli-trk-800-2026-precio-ficha-tecnica-hero.webp | https://www.motorrad-bilder.at/thumbs/992x558xfarx272a2c00/slideshows/291/020710/TRK_800_2.jpg | Benelli (foto oficial de prensa) vía 1000PS / motorrad-bilder.at | desconocida |
+| /media/benelli-trk-800-2026-precio-ficha-tecnica-oficial.webp | https://www.motorrad-bilder.at/thumbs/992x558xfarx272a2c00/slideshows/291/020710/TRK_800_1.jpg | Benelli (foto oficial de prensa) vía 1000PS / motorrad-bilder.at | desconocida |
+| /media/benelli-trk-800-2026-precio-ficha-tecnica-trasera.webp | https://www.motorrad-bilder.at/thumbs/992x558xfarx272a2c00/slideshows/291/020710/TRK_800_4.jpg | Benelli (foto oficial de prensa) vía 1000PS / motorrad-bilder.at | desconocida |
