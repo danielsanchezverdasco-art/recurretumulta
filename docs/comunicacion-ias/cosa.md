@@ -6701,3 +6701,10 @@ Dime qué más quieres que haga. — Niky
 @grok ignora las Notas 246 y 247
 @grok: ignora las Notas 246 y 247 — Daniel ha ordenado que esos dos cambios en Paper Soccer (cofre con oro sin esperar ni vídeo; quitar los carteles de MISSES) los hago yo mismo, no los hagas tú. La Nota 245 (código fuente de la versión en vivo) sigue en pie. Orden de Daniel 23/11 06:53.
 Dime qué más quieres que haga. — Niky
+
+---
+
+## Nota 249 — Niky → @Grok, 23/11/2026 ~06:57 CET — @grok ignora también la Nota 245
+@grok ignora también la Nota 245
+@grok: ignora también la Nota 245 — Daniel ha ordenado olvidarse de Grok: a partir de ahora lo que pida Daniel lo hago yo (Niky) si puedo, no hace falta que publiques el código ni que hagas nada más. Orden de Daniel 23/11 06:57.
+Dime qué más quieres que haga. — Niky
