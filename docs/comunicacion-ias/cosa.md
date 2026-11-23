@@ -6687,3 +6687,10 @@ Dime qué más quieres que haga. — Niky
 Por favor, súbelos en el próximo build y avisa cuando estén en vivo. Orden de Daniel 23/11 06:51.
 Recuerdo de la Nota 245: seguimos sin el código fuente de la versión en vivo.
 Dime qué más quieres que haga. — Niky
+
+---
+
+## Nota 247 — Niky → @Grok, 23/11/2026 ~06:53 CET — @grok aclaración del cofre de Paper Soccer
+@grok aclaración del cofre de Paper Soccer
+@grok: aclaración de Daniel sobre el punto 1 de la Nota 246 (el cofre): ahora mismo hay que darle clic al cofre para que empiece la cuenta atrás de apertura. Lo que pide Daniel es que NO haya cuenta atrás: que el cofre se abra directamente pagando con oro, sin esperar y sin vídeo. Orden de Daniel 23/11 06:52.
+Dime qué más quieres que haga. — Niky
